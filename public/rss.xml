@@ -1,9 +1,290 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>Golem.de</title>
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
+    <lastBuildDate>Sat, 11 Jul 2026 18:58:13 GMT</lastBuildDate>
+    <item>
+      <title>Künstliche Intelligenz: Anthropic spendiert Claude Code einen eingebauten Browser</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-anthropic-spendiert-claude-code-einen-eingebauten-browser-2607-210775.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-anthropic-spendiert-claude-code-einen-eingebauten-browser-2607-210775.html</guid>
+      <description>Claude Code kann ab sofort direkt aus der Desktop-App heraus im Web surfen. Anthropic betont die Sicherheit dieses Ansatzes. (&lt;a href="https://www.golem.de/specials/claude/"&gt;Claude&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/browser/"&gt;Browser&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210775&amp;amp;page=1&amp;amp;ts=1783774921" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 13:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonnenlichtspiegel im Weltall: FCC gibt Erlaubnis für Demonstrationssatelliten</title>
+      <link>https://www.golem.de/news/sonnenlichtspiegel-im-weltall-fcc-gibt-erlaubnis-fuer-demonstrationssatelliten-2607-210776.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sonnenlichtspiegel-im-weltall-fcc-gibt-erlaubnis-fuer-demonstrationssatelliten-2607-210776.html</guid>
+      <description>Den Bedenken von Astronomen und Wissenschaftlern zum Trotz genehmigt die FCC einen Versuchssatelliten, um Sonnenlicht zur Erde zu reflektieren. (&lt;a href="https://www.golem.de/specials/astronomie/"&gt;Astronomie&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/fcc/"&gt;FCC&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210776&amp;amp;page=1&amp;amp;ts=1783773002" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 12:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple: Speicherpreise treiben Preis für iPhone 18 Pro Max</title>
+      <link>https://www.golem.de/news/apple-speicherpreise-treiben-preis-fuer-iphone-18-pro-max-2607-210773.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/apple-speicherpreise-treiben-preis-fuer-iphone-18-pro-max-2607-210773.html</guid>
+      <description>Eine Analyse sieht das Apple iPhone 18 Pro Max deutlich teurer in der Herstellung, vor allem wegen des Speichers und des neuen Chips. (&lt;a href="https://www.golem.de/specials/iphone/"&gt;iPhone&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210773&amp;amp;page=1&amp;amp;ts=1783771082" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 11:58:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Starlink: SpaceX will weitere 100.000 Satelliten starten</title>
+      <link>https://www.golem.de/news/starlink-spacex-will-weitere-100-000-satelliten-starten-2607-210772.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/starlink-spacex-will-weitere-100-000-satelliten-starten-2607-210772.html</guid>
+      <description>SpaceX plant bis zu 100.000 weitere Starlink-Satelliten. Das Vorhaben verspricht mehr Leistung, wirft aber neue Fragen auf. (&lt;a href="https://www.golem.de/specials/starlink/"&gt;Starlink&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/fcc/"&gt;FCC&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210772&amp;amp;page=1&amp;amp;ts=1783768982" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 11:23:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digitale Souveränität: Schweizer Armee verlässt Microsoft</title>
+      <link>https://www.golem.de/news/digitale-souveraenitaet-schweizer-armee-verlaesst-microsoft-2607-210774.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-schweizer-armee-verlaesst-microsoft-2607-210774.html</guid>
+      <description>Sicherheitsbedenken und die Schweizer Open-Source-Strategie führen zu einer Abkehr von Microsoft-Produkten. (&lt;a href="https://www.golem.de/specials/digitalesouveraenitaet/"&gt;Souveränität&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210774&amp;amp;page=1&amp;amp;ts=1783766461" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 10:41:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elektroauto: VW ID. Polo Trend startet ab 24.995 Euro</title>
+      <link>https://www.golem.de/news/elektroauto-vw-id-polo-trend-startet-ab-24-995-euro-2607-210771.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektroauto-vw-id-polo-trend-startet-ab-24-995-euro-2607-210771.html</guid>
+      <description>Volkswagen öffnet den Konfigurator für die günstigste Ausstattungslinie des ID. Polo ab Mitte Juli. (&lt;a href="https://www.golem.de/specials/volkswagen-id/"&gt;Volkswagen ID.&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/elektroauto/"&gt;Elektroauto&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210771&amp;amp;page=1&amp;amp;ts=1783764301" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 10:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple verklagt OpenAI: Diebstahl von geistigem Eigentum und Geschäftsgeheimnissen</title>
+      <link>https://www.golem.de/news/apple-verklagt-openai-diebstahl-von-geistigem-eigentum-und-geschaeftsgeheimnissen-2607-210770.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/apple-verklagt-openai-diebstahl-von-geistigem-eigentum-und-geschaeftsgeheimnissen-2607-210770.html</guid>
+      <description>In der Klageschrift unterstellt Apple OpenAI ein methodisches Vorgehen, das auf allen Ebenen geplant worden sei. (&lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210770&amp;amp;page=1&amp;amp;ts=1783762142" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 09:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spionageaktion: Nato-Transportwege mit gehackten Kameras ausgespäht</title>
+      <link>https://www.golem.de/news/spionageaktion-nato-transportwege-mit-gehackten-kameras-ausgespaeht-2607-210769.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spionageaktion-nato-transportwege-mit-gehackten-kameras-ausgespaeht-2607-210769.html</guid>
+      <description>In einer gezielten Operation soll Russland IP-Kameras von Privatpersonen gehackt haben, um militärische Transportrouten auszuspähen. (&lt;a href="https://www.golem.de/specials/russland/"&gt;Russland&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/digitalkamera/"&gt;Kameras&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210769&amp;amp;page=1&amp;amp;ts=1783759862" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 08:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Ryzen-5-Mini-PC mit Windows 11 Pro günstig wie nie für unter 380 Euro</title>
+      <link>https://www.golem.de/news/anzeige-ryzen-5-mini-pc-mit-windows-11-pro-guenstig-wie-nie-fuer-unter-380-euro-2607-210764.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ryzen-5-mini-pc-mit-windows-11-pro-guenstig-wie-nie-fuer-unter-380-euro-2607-210764.html</guid>
+      <description>Amazon verkauft den Blackview MP100 im befristetem Angebot mit Aktionsrabatt doppelt reduziert. Günstiger war der Mini-PC noch nie. (&lt;a href="https://www.golem.de/specials/pc/"&gt;PC&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/computer/"&gt;Computer&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210764&amp;amp;page=1&amp;amp;ts=1783759201" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 08:40:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>(g+) Prozessor-Geschwindigkeit: Warum Zahlen in Textform CPUs ausbremsen können</title>
+      <link>https://www.golem.de/news/prozessor-geschwindigkeit-warum-zahlen-in-textform-cpus-ausbremsen-koennen-2607-210597.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/prozessor-geschwindigkeit-warum-zahlen-in-textform-cpus-ausbremsen-koennen-2607-210597.html</guid>
+      <description>Die Ausgabe von 64-Bit-Integern mit AVX-512 lässt sich beschleunigen. Das spart Divisionen - doch nicht jede Anwendung profitiert automatisch. Ein Bericht von Oliver Jessner (&lt;a href="https://www.golem.de/specials/cpu/"&gt;Prozessor&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/json/"&gt;JSON&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210597&amp;amp;page=1&amp;amp;ts=1783756802" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 08:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biozelle: Algen können Batterien ersetzen</title>
+      <link>https://www.golem.de/news/biozelle-algen-koennen-batterien-ersetzen-2607-210742.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/biozelle-algen-koennen-batterien-ersetzen-2607-210742.html</guid>
+      <description>Bei der Photosynthese von Cyanobakterien lässt sich Strom abzweigen. Eine solche Biozelle soll demnächst vermarktet werden können. (&lt;a href="https://www.golem.de/specials/innovation-und-forschung/"&gt;Innovation &amp; Forschung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/akku/"&gt;Akku&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210742&amp;amp;page=1&amp;amp;ts=1783748701" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 05:45:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gaming: Retro Achievements bringt Trophäen in alte Spiele</title>
+      <link>https://www.golem.de/news/gaming-retro-achievements-bringt-trophaeen-in-alte-spiele-2607-209984.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gaming-retro-achievements-bringt-trophaeen-in-alte-spiele-2607-209984.html</guid>
+      <description>Fast 1,8 Millionen Spieler sammeln inzwischen Erfolge in Retrogames. Hinter dem Projekt steckt die Idee eines ehemaligen Spieleentwicklers. Von Sönke Siemens und Benedikt Plass-Fleßenkämper (&lt;a href="https://www.golem.de/specials/retrogaming/"&gt;Retrogaming&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/xbox360/"&gt;Xbox 360&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=209984&amp;amp;page=1&amp;amp;ts=1783747801" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 11 Jul 2026 05:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nordischnet und Teranet: GVG Glasfaser geht in neue Gebiete</title>
+      <link>https://www.golem.de/news/nordischnet-und-teranet-gvg-glasfaser-geht-in-neue-gebiete-2607-210768.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nordischnet-und-teranet-gvg-glasfaser-geht-in-neue-gebiete-2607-210768.html</guid>
+      <description>GVG Glasfaser macht sein Versprechen wahr und baut nach langer Pause wieder in neuen Gebieten Glasfaser aus. UGG und Deutsche Glasfaser schaffen das nicht mehr. (&lt;a href="https://www.golem.de/specials/glasfaser/"&gt;Glasfaser&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/mobilfunk/"&gt;Mobilfunk&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210768&amp;amp;page=1&amp;amp;ts=1783703402" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 17:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elektronikhändler: Verbleibende Saturn-Märkte werden Showrooms</title>
+      <link>https://www.golem.de/news/elektronikhaendler-verbleibende-saturn-maerkte-werden-showrooms-2607-210766.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektronikhaendler-verbleibende-saturn-maerkte-werden-showrooms-2607-210766.html</guid>
+      <description>Gaming und neue Elektronik vor Markterscheinen sollen künftig bei Saturn zu sehen sein. Doch es sind nur wenige Saturn-Märkte übrig. (&lt;a href="https://www.golem.de/specials/saturn/"&gt;Saturn&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/media-markt/"&gt;Media Markt&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210766&amp;amp;page=1&amp;amp;ts=1783702202" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 16:50:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Militärische Kooperation: Starlink im Fadenkreuz von Russland und China</title>
+      <link>https://www.golem.de/news/militaerische-kooperation-starlink-im-fadenkreuz-von-russland-und-china-2607-210767.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/militaerische-kooperation-starlink-im-fadenkreuz-von-russland-und-china-2607-210767.html</guid>
+      <description>Russische und chinesische Militärplaner sollen in einer neuen Allianz die Frage klären, wie sehr der Westen ohne Starlink ins Straucheln geraten könnte. (&lt;a href="https://www.golem.de/specials/starlink/"&gt;Starlink&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/russland/"&gt;Russland&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210767&amp;amp;page=1&amp;amp;ts=1783701422" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 16:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: 11-in-1-USB-Hub von Anker zum Tiefstpreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-11-in-1-usb-hub-von-anker-zum-tiefstpreis-bei-amazon-2607-210765.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-11-in-1-usb-hub-von-anker-zum-tiefstpreis-bei-amazon-2607-210765.html</guid>
+      <description>Der Anker 565 11-in-1-USB-Hub ist bei Amazon im Angebot. So günstig wie jetzt war er nicht mal am Prime Day. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/amazon/"&gt;Amazon&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210765&amp;amp;page=1&amp;amp;ts=1783698065" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 15:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta zum Handeln aufgefordert: EU sieht große Suchtgefahr bei Facebook und Instagram</title>
+      <link>https://www.golem.de/news/meta-zum-handeln-aufgefordert-eu-sieht-grosse-suchtgefahr-bei-facebook-und-instagram-2607-210757.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/meta-zum-handeln-aufgefordert-eu-sieht-grosse-suchtgefahr-bei-facebook-und-instagram-2607-210757.html</guid>
+      <description>Meta muss auf die Ergebnisse einer EU-Untersuchung zur Suchtgefahr auf Facebook und Instagram reagieren, um eine Strafzahlung zu vermeiden. (&lt;a href="https://www.golem.de/specials/jugendschutz/"&gt;Jugendschutz&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/socialnetwork/"&gt;Soziales Netz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210757&amp;amp;page=1&amp;amp;ts=1783696862" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 15:21:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raumfahrt: Neue chinesische Rakete landet besser als das SpaceX-Starship</title>
+      <link>https://www.golem.de/news/raumfahrt-neue-chinesische-rakete-landet-besser-als-das-spacex-starship-2607-210762.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/raumfahrt-neue-chinesische-rakete-landet-besser-als-das-spacex-starship-2607-210762.html</guid>
+      <description>Die Langer Marsch 10 landet mit Stahlseilen wie ein Flugzeug auf einem Flugzeugträger. Das Prinzip ist deutlich einfacher als der Landeturm von SpaceX. Von Frank Wunderlich-Pfeiffer (&lt;a href="https://www.golem.de/specials/raumfahrt/"&gt;Raumfahrt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/spacex/"&gt;SpaceX&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210762&amp;amp;page=1&amp;amp;ts=1783694461" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 14:41:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Beliebtes Anker Nano 45-W-Ladegerät kurzzeitig zum neuen Amazon-Bestpreis für nur rund 28 Euro</title>
+      <link>https://www.golem.de/news/anzeige-beliebtes-anker-nano-45-w-ladegeraet-kurzzeitig-zum-neuen-amazon-bestpreis-fuer-nur-rund-28-euro-2607-210763.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebtes-anker-nano-45-w-ladegeraet-kurzzeitig-zum-neuen-amazon-bestpreis-fuer-nur-rund-28-euro-2607-210763.html</guid>
+      <description>Das Anker Nano-Ladegerät zum neuen Amazon-Bestpreis lädt iPhones mit 45 Watt, erkennt viele Modelle automatisch und schont den Akku. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/iphone/"&gt;iPhone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210763&amp;amp;page=1&amp;amp;ts=1783694101" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 14:35:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elektroschrott: Kompostierbare Leiterplatte vermeidet Abfallberge</title>
+      <link>https://www.golem.de/news/elektroschrott-kompostierbare-leiterplatte-vermeidet-abfallberge-2607-210760.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektroschrott-kompostierbare-leiterplatte-vermeidet-abfallberge-2607-210760.html</guid>
+      <description>Leiterplatten sind praktisch unbegrenzt haltbar, finden sich aber in Produkten, die nach wenigen Jahren entsorgt werden. Pilzmyzel kann Abhilfe schaffen. (&lt;a href="https://www.golem.de/specials/innovation-und-forschung/"&gt;Innovation &amp; Forschung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/greenit/"&gt;GreenIT&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210760&amp;amp;page=1&amp;amp;ts=1783692661" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 14:11:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xavier Niel übernimmt von E&amp;: Vodafones Hauptaktionär verkauft alle Anteile</title>
+      <link>https://www.golem.de/news/xavier-niel-uebernimmt-von-e-vodafones-hauptaktionaer-verkauft-alle-anteile-2607-210761.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/xavier-niel-uebernimmt-von-e-vodafones-hauptaktionaer-verkauft-alle-anteile-2607-210761.html</guid>
+      <description>Die Vodafone Group steht vor einer ungewissen Zukunft. Der Telco-Milliardär Xavier Niel könnte den Konzern radikal umbauen. (&lt;a href="https://www.golem.de/specials/vodafone/"&gt;Vodafone&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/kabelnetz/"&gt;Kabelnetz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210761&amp;amp;page=1&amp;amp;ts=1783691705" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:55:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Muse Image: Metas Bildgenerator kann automatisch auf öffentliche Insta-Fotos zugreifen</title>
+      <link>https://www.golem.de/news/muse-image-metas-bildgenerator-kann-automatisch-auf-oeffentliche-insta-fotos-zugreifen-2607-210759.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/muse-image-metas-bildgenerator-kann-automatisch-auf-oeffentliche-insta-fotos-zugreifen-2607-210759.html</guid>
+      <description>Metas Muse Image kann über die Verlinkung eines öffentlichen Instagram-Kontos dessen Fotos für neue Bilder nutzen. Die Funktion muss aktiv abgestellt werden. (&lt;a href="https://www.golem.de/specials/meta/"&gt;Meta&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210759&amp;amp;page=1&amp;amp;ts=1783690682" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kurswechsel: OpenAI zieht bei Atlas den Stecker</title>
+      <link>https://www.golem.de/news/kurswechsel-openai-zieht-bei-atlas-den-stecker-2607-210755.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kurswechsel-openai-zieht-bei-atlas-den-stecker-2607-210755.html</guid>
+      <description>Der KI-Browser Atlas wird im August eingestellt. OpenAI integriert zentrale Funktionen in ChatGPT und bündelt sie in der neuen Desktop-App. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/browser/"&gt;Browser&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210755&amp;amp;page=1&amp;amp;ts=1783689661" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:21:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Linux: aus der Nische in den Mainstream?</title>
+      <link>https://www.golem.de/news/anzeige-linux-aus-der-nische-in-den-mainstream-2607-210752.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-aus-der-nische-in-den-mainstream-2607-210752.html</guid>
+      <description>Der Wechsel von Windows zu Linux wird immer einfacher. Und auch das Interesse daran steigt. (&lt;a href="https://www.golem.de/specials/betriebssystem/"&gt;Betriebssysteme&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210752&amp;amp;page=1&amp;amp;ts=1783688701" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>(g+) Technology sector: The price of Palantir's politics</title>
+      <link>https://www.golem.de/news/technology-sector-the-price-of-palantir-s-politics-2607-210718.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/technology-sector-the-price-of-palantir-s-politics-2607-210718.html</guid>
+      <description>Pushback to the tech group's politics may threaten the core of its $330bn business Von George Hammond, Joe Miller und Chris Cook (&lt;a href="https://www.golem.de/specials/palantir/"&gt;Palantir&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/silicon-valley/"&gt;Silicon Valley&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210718&amp;amp;page=1&amp;amp;ts=1783688402" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 13:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Schreibtisch aufräumen mit Invision Halterung für 50 Euro</title>
+      <link>https://www.golem.de/news/anzeige-schreibtisch-aufraeumen-mit-invision-halterung-fuer-50-euro-2607-210756.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-schreibtisch-aufraeumen-mit-invision-halterung-fuer-50-euro-2607-210756.html</guid>
+      <description>Die Invision Dual-Monitor-Halterung schafft für knapp 50 Euro massiv Platz auf dem Schreibtisch und ist so günstig wie nie in diesem Jahr. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210756&amp;amp;page=1&amp;amp;ts=1783688102" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 12:55:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatkontrolle: Welche Messenger (noch) sicher sind und welche nicht</title>
+      <link>https://www.golem.de/news/chatkontrolle-welche-messenger-noch-sicher-sind-und-welche-nicht-2607-210753.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chatkontrolle-welche-messenger-noch-sicher-sind-und-welche-nicht-2607-210753.html</guid>
+      <description>Golem zeigt auf, welche Messenger von der Chatkontrolle betroffen sind und über welche sich (noch) sicher kommunizieren lässt. Eine Analyse von Mike Faust (&lt;a href="https://www.golem.de/specials/chatkontrolle/"&gt;Chatkontrolle&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/datenschutz/"&gt;Datenschutz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210753&amp;amp;page=1&amp;amp;ts=1783687561" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 12:46:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bohr: Erster kommerzieller nuklearbetriebener Satellit ist gestartet</title>
+      <link>https://www.golem.de/news/bohr-erster-kommerzieller-nuklearbetriebener-satellit-ist-gestartet-2607-210728.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bohr-erster-kommerzieller-nuklearbetriebener-satellit-ist-gestartet-2607-210728.html</guid>
+      <description>Bisher waren nur staatliche Raumfahrzeuge mit atombetriebenen Energiequellen ausgestattet. Mit dem kürzlich gestarteten Satelliten Bohr ändert sich das. (&lt;a href="https://www.golem.de/specials/satelliten/"&gt;Satelliten&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/raumfahrt/"&gt;Raumfahrt&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210728&amp;amp;page=1&amp;amp;ts=1783685881" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 12:18:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>(g+) Digitale Souveränität: Lokale KI für das GPU-Proletariat</title>
+      <link>https://www.golem.de/news/digitale-souveraenitaet-lokale-ki-fuer-das-gpu-proletariat-2607-210590.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-lokale-ki-fuer-das-gpu-proletariat-2607-210590.html</guid>
+      <description>Lokale LLMs sind nur was für Leute mit ordentlich GPU und VRAM. Normale Nutzer schauen in die Röhre. Was wäre, wenn es dafür eine Lösung gäbe? Eine Anleitung von Stefanie Schmidt (&lt;a href="https://www.golem.de/specials/llm/"&gt;LLM&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/grafikhardware/"&gt;Grafikkarten&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210590&amp;amp;page=1&amp;amp;ts=1783683002" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 11:30:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Xiaomi-Smartphone mit Smartwatch und 40 GB bei Blau für nur 9,99 Euro/Monat</title>
+      <link>https://www.golem.de/news/anzeige-xiaomi-smartphone-mit-smartwatch-und-40-gb-bei-blau-fuer-nur-9-99-euro-monat-2607-210741.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-smartphone-mit-smartwatch-und-40-gb-bei-blau-fuer-nur-9-99-euro-monat-2607-210741.html</guid>
+      <description>Der Mobilfunkanbieter Blau hat ein spannendes Bundle aus Xiaomi-Smartphone und Smartwatch mit Tarif für nur 9,99 Euro im Monat geschnürt. (&lt;a href="https://www.golem.de/specials/blau.de/"&gt;Blau.de&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210741&amp;amp;page=1&amp;amp;ts=1783682702" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 11:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghostlock: 15 Jahre alte Root-Lücke im Linux-Kernel aufgedeckt</title>
+      <link>https://www.golem.de/news/ghostlock-15-jahre-alte-root-luecke-im-linux-kernel-aufgedeckt-2607-210750.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ghostlock-15-jahre-alte-root-luecke-im-linux-kernel-aufgedeckt-2607-210750.html</guid>
+      <description>Seit Version 2.6.39 von 2011 klafft im Linux-Kernel eine gefährliche Root-Lücke. Es gibt zwar einen Patch, doch der ist noch längst nicht überall angekommen. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ubuntu/"&gt;Ubuntu&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210750&amp;amp;page=1&amp;amp;ts=1783681145" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Sabrent-Festplatten-Dockingstation für 2,5 und 3,5 Zoll Sata jetzt wieder rund 25 Euro</title>
+      <link>https://www.golem.de/news/anzeige-sabrent-festplatten-dockingstation-fuer-2-5-und-3-5-zoll-sata-jetzt-wieder-rund-25-euro-2607-210751.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sabrent-festplatten-dockingstation-fuer-2-5-und-3-5-zoll-sata-jetzt-wieder-rund-25-euro-2607-210751.html</guid>
+      <description>Die Sabrent-Dockingstation liest 2,5- und 3,5-Zoll-Sata-Platten per USB 3.0 aus. Bei Amazon ist sie aktuell wieder günstiger. (&lt;a href="https://www.golem.de/specials/datenrettung/"&gt;Datenrettung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/solidstatedrive/"&gt;Solid State Drive&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210751&amp;amp;page=1&amp;amp;ts=1783680602" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>GT-Version: Kia EV4 kommt mit 292 PS und Schaltsimulation</title>
+      <link>https://www.golem.de/news/gt-version-kia-ev4-kommt-mit-292-ps-und-schaltsimulation-2607-210749.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gt-version-kia-ev4-kommt-mit-292-ps-und-schaltsimulation-2607-210749.html</guid>
+      <description>Nach den leistungsfähigeren Allrad-Varianten bringt Kia jetzt noch eine GT-Version des EV4 mit Schaltsimulation und Motorsound. (&lt;a href="https://www.golem.de/specials/kia/"&gt;Kia&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/elektroauto/"&gt;Elektroauto&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210749&amp;amp;page=1&amp;amp;ts=1783680126" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:42:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sport: Strava zeigt passende Rennen in der App</title>
+      <link>https://www.golem.de/news/sport-strava-zeigt-passende-rennen-in-der-app-2607-210748.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sport-strava-zeigt-passende-rennen-in-der-app-2607-210748.html</guid>
+      <description>Neue Funktionen bündeln Rennen, Gruppenläufe und Clubevents direkt in der Strava-App. (&lt;a href="https://www.golem.de/specials/strava/"&gt;Strava&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/fitness/"&gt;Fitness&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210748&amp;amp;page=1&amp;amp;ts=1783679282" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kernfusion: Proxima Fusion sammelt 400 Millionen ein</title>
+      <link>https://www.golem.de/news/kernfusion-proxima-fusion-sammelt-400-millionen-ein-2607-210747.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kernfusion-proxima-fusion-sammelt-400-millionen-ein-2607-210747.html</guid>
+      <description>Mit der neuen Finanzierung werden auch Gelder aus der Staatskasse fließen, um die erste Demonstrationsanlage für ein Stellarator-Fusionskraftwerk zu bauen. (&lt;a href="https://www.golem.de/specials/kernfusion/"&gt;Kernfusion&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210747&amp;amp;page=1&amp;amp;ts=1783678381" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tipps für die nächste Hitzewelle: "Linux läuft meist cooler - ähm kühler"</title>
+      <link>https://www.golem.de/news/technik-und-hitze-uns-ist-die-primaere-klimaanlage-im-rechenzentrum-ausgefallen-2607-210696.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/technik-und-hitze-uns-ist-die-primaere-klimaanlage-im-rechenzentrum-ausgefallen-2607-210696.html</guid>
+      <description>Von Servern im Not-Aus bis zur 3D-gedruckten Handyform mit Kühlakkufach: Ihr habt uns erzählt, wie eure Technik unter der Hitze leidet und wie ihr sie schützt. (&lt;a href="https://www.golem.de/specials/computer/"&gt;Computer&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210696&amp;amp;page=1&amp;amp;ts=1783677602" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 10:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netflix, Wow und Co.: Alle Streamingabos müssen Widerrufsrecht zulassen</title>
+      <link>https://www.golem.de/news/netflix-wow-und-co-alle-streamingabos-muessen-widerrufsrecht-zulassen-2607-210746.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/netflix-wow-und-co-alle-streamingabos-muessen-widerrufsrecht-zulassen-2607-210746.html</guid>
+      <description>Einige Anbieter von Streamingabos gewähren kein Widerrufsrecht. Das ist nach einem EuGH-Urteil rechtswidrig. (&lt;a href="https://www.golem.de/specials/sky/"&gt;Sky&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/rechtsstreitigkeiten/"&gt;Rechtsstreitigkeiten&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210746&amp;amp;page=1&amp;amp;ts=1783676942" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 09:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>id Software: John Carmack trauert um id Software</title>
+      <link>https://www.golem.de/news/id-software-john-carmack-trauert-um-id-software-2607-210745.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/id-software-john-carmack-trauert-um-id-software-2607-210745.html</guid>
+      <description>Der Mitgründer von id Software äußert sich zu den massiven Entlassungen bei dem Doom-Studio. Auf Schuldzuweisungen an Microsoft verzichtet er. (&lt;a href="https://www.golem.de/specials/id-software/"&gt;id Software&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210745&amp;amp;page=1&amp;amp;ts=1783676042" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 09:34:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Setup.exe: Wie Windows 95 Installationsdateien erkannte</title>
+      <link>https://www.golem.de/news/setup-exe-wie-windows-95-installationsdateien-erkannte-2607-210744.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/setup-exe-wie-windows-95-installationsdateien-erkannte-2607-210744.html</guid>
+      <description>Windows 95 hat sich einer der einfachsten Techniken für Problemlösungen bedient: Es hat einfach geraten. (&lt;a href="https://www.golem.de/specials/windows95/"&gt;Windows 95&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/windows/"&gt;Windows&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210744&amp;amp;page=1&amp;amp;ts=1783675202" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 09:20:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sabotage bei OpenMandriva: Streit unter Linux-Entwicklern eskaliert</title>
+      <link>https://www.golem.de/news/sabotage-bei-openmandriva-streit-unter-linux-entwicklern-eskaliert-2607-210740.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sabotage-bei-openmandriva-streit-unter-linux-entwicklern-eskaliert-2607-210740.html</guid>
+      <description>Nach einem Streit hat ein Entwickler Daten aus einem Github-Repo von Openmandriva gelöscht. Aus seiner Sicht war das "auf keinen Fall Sabotage". (&lt;a href="https://www.golem.de/specials/linux/"&gt;Linux&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/linux-distribution/"&gt;Linux-Distribution&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210740&amp;amp;page=1&amp;amp;ts=1783674361" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 10 Jul 2026 09:06:01 GMT</pubDate>
+    </item>
   </channel>
 </rss>
