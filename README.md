@@ -22,6 +22,8 @@ https://Seraangel.github.io/feed-golem/rss.xml
 
 Die erzeugte `rss.xml` enthält bis zu 1000 der neuesten gespeicherten Artikel. Sind weniger als 1000 Artikel in der SQLite-Datenbank vorhanden, enthält sie entsprechend weniger Einträge. GitHub Pages ist statisch: Query-Parameter können die Feed-Größe nicht verändern.
 
+Im `channel`-Kopf steht außerdem `golem:itemCount` mit der Anzahl der tatsächlich enthaltenen `item`-Elemente. Das ist eine eigene, XML-namespacete RSS-2.0-Erweiterung; Standard-RSS-Reader können sie gefahrlos ignorieren.
+
 ## Zeitplan
 
 Der Workflow verwendet folgenden Cron-Ausdruck:

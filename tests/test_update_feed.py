@@ -6,7 +6,7 @@ import unittest
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-from scripts.update_feed import build_rss, ensure_schema, extract_articles, load_feed_items, upsert_articles, write_if_changed
+from scripts.update_feed import FEED, build_rss, ensure_schema, extract_articles, load_feed_items, upsert_articles, write_if_changed
 
 
 SAMPLE_ATOM = b'''<?xml version="1.0"?>
@@ -35,6 +35,7 @@ class UpdateFeedTests(unittest.TestCase):
         channel = rss.find("channel")
         self.assertEqual(channel.findtext("title"), "Golem.de")
         self.assertEqual(len(channel.findall("item")), 2)
+        self.assertEqual(channel.findtext(f"{FEED}itemCount"), "2")
 
     def test_write_paths_can_be_created_in_temp_dir(self) -> None:
         with tempfile.TemporaryDirectory() as directory:

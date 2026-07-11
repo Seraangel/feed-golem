@@ -20,6 +20,9 @@ SOURCE_URL = "https://rss.golem.de/rss.php?feed=ATOM1.0"
 USER_AGENT = "feed-golem/1.0 (+https://github.com/Seraangel/feed-golem)"
 ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 ATOM = f"{{{ATOM_NAMESPACE}}}"
+FEED_NAMESPACE = "https://github.com/Seraangel/feed-golem/ns/1.0"
+FEED = f"{{{FEED_NAMESPACE}}}"
+ET.register_namespace("golem", FEED_NAMESPACE)
 
 
 @dataclass(frozen=True)
@@ -144,6 +147,7 @@ def build_rss(items: list[sqlite3.Row]) -> bytes:
     add_text(channel, "link", "https://www.golem.de/")
     add_text(channel, "description", "Aktuelle Artikel von Golem.de.")
     add_text(channel, "language", "de-DE")
+    add_text(channel, f"{FEED}itemCount", str(len(items)))
     if items:
         add_text(channel, "lastBuildDate", format_datetime(max(iso_datetime(row["updated_at"]) for row in items), usegmt=True))
     for row in items:
