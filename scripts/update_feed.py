@@ -17,7 +17,7 @@ import requests
 
 
 SOURCE_URL = "https://rss.golem.de/rss.php?feed=ATOM1.0"
-USER_AGENT = "feed-golem/1.0 (+https://github.com/Seraangel/feed-golem)"
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
 ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 ATOM = f"{{{ATOM_NAMESPACE}}}"
 FEED_NAMESPACE = "https://github.com/Seraangel/feed-golem/ns/1.0"
