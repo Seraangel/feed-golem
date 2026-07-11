@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Golem.de</title>
+    <link>https://www.golem.de/</link>
+    <description>Aktuelle Artikel von Golem.de.</description>
+    <language>de-DE</language>
+  </channel>
+</rss>
