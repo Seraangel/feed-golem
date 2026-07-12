@@ -5,8 +5,22 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>40</golem:itemCount>
-    <lastBuildDate>Sat, 11 Jul 2026 18:58:13 GMT</lastBuildDate>
+    <golem:itemCount>42</golem:itemCount>
+    <lastBuildDate>Sun, 12 Jul 2026 07:16:58 GMT</lastBuildDate>
+    <item>
+      <title>Maschinenträume 3: KI = Künstliche Ignoranz?</title>
+      <link>https://www.golem.de/news/maschinentraeume-3-ki-kuenstliche-ignoranz-2607-210677.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/maschinentraeume-3-ki-kuenstliche-ignoranz-2607-210677.html</guid>
+      <description>Skalierung wird alle Probleme lösen, sagen KI-Fans. Aber: Theoretische Grenzen haben praktische Konsequenzen. Und praktische Grenzen haben reale Konsequenzen. Und am Ende hat die Realität sowieso immer Recht. Ein Deep Dive von P. R. Rhesia (&lt;a href="https://www.golem.de/specials/maschinentraeume/"&gt;Maschinenträume&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210677&amp;amp;page=1&amp;amp;ts=1783834202" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 05:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: IT-Jobs in Architektur, Engineering und Cloud</title>
+      <link>https://www.golem.de/news/anzeige-it-jobs-in-architektur-engineering-und-cloud-2607-210739.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-architektur-engineering-und-cloud-2607-210739.html</guid>
+      <description>Ob Softwarearchitektur, Cloud-Plattformen für KI oder Data Governance - diese Positionen bieten spannende Aufgaben und Technologien. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/unternehmenssoftware/"&gt;Unternehmenssoftware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210739&amp;amp;page=1&amp;amp;ts=1783832402" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sun, 12 Jul 2026 05:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>Künstliche Intelligenz: Anthropic spendiert Claude Code einen eingebauten Browser</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-anthropic-spendiert-claude-code-einen-eingebauten-browser-2607-210775.html</link>
