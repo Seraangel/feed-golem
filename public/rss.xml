@@ -5,8 +5,15 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>302</golem:itemCount>
-    <lastBuildDate>Sun, 19 Jul 2026 11:45:10 GMT</lastBuildDate>
+    <golem:itemCount>303</golem:itemCount>
+    <lastBuildDate>Sun, 19 Jul 2026 12:39:54 GMT</lastBuildDate>
+    <item>
+      <title>AWS: Airbus schickt sensible Daten in die französische Cloud</title>
+      <link>https://www.golem.de/news/aws-airbus-schickt-sensible-daten-in-die-franzoesische-cloud-2607-211034.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/aws-airbus-schickt-sensible-daten-in-die-franzoesische-cloud-2607-211034.html</guid>
+      <description>Airbus verlagert kritische Systeme von Amazon Web Services zum französischen Anbieter Scaleway. (&lt;a href="https://www.golem.de/specials/digitalesouveraenitaet/"&gt;Souveränität&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/webservice/"&gt;Web Service&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211034&amp;amp;page=1&amp;amp;ts=1784462702" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sun, 19 Jul 2026 12:05:06 GMT</pubDate>
+    </item>
     <item>
       <title>81 Prozent wollen gehen: Samsung-Angestellte wollen wegen ungleicher Boni kündigen</title>
       <link>https://www.golem.de/news/81-prozent-wollen-gehen-samsung-angestellte-wollen-wegen-ungleicher-boni-kuendigen-2607-211038.html</link>
