@@ -5,8 +5,29 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>536</golem:itemCount>
-    <lastBuildDate>Sat, 25 Jul 2026 10:21:52 GMT</lastBuildDate>
+    <golem:itemCount>539</golem:itemCount>
+    <lastBuildDate>Sat, 25 Jul 2026 11:40:30 GMT</lastBuildDate>
+    <item>
+      <title>Mausersatz: Mit Mouthpad steuert die Zunge den Mauszeiger</title>
+      <link>https://www.golem.de/news/mausersatz-mit-mouthpad-steuert-die-zunge-den-mauszeiger-2607-211285.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mausersatz-mit-mouthpad-steuert-die-zunge-den-mauszeiger-2607-211285.html</guid>
+      <description>Augmental bringt seinen Maus- und Toucheingaben-Ersatz Mouthpad in den Handel: Der Mauszeiger wird über die Zunge gesteuert. (&lt;a href="https://www.golem.de/specials/barrierefreiheit/"&gt;Barrierefreiheit&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/eingabegeraet/"&gt;Eingabegerät&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211285&amp;amp;page=1&amp;amp;ts=1784979482" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 11:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nach OpenAI-Hack: US-Abgeordnete wollen Kill Switch für KI</title>
+      <link>https://www.golem.de/news/nach-openai-hack-us-abgeordnete-wollen-kill-switch-fuer-ki-2607-211284.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-openai-hack-us-abgeordnete-wollen-kill-switch-fuer-ki-2607-211284.html</guid>
+      <description>Der eigenständige Hackerangriff von OpenAIs KI hat Nachwirkungen: Abgeordnete fordern mehr Kontrolle - und einen Kill Switch. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211284&amp;amp;page=1&amp;amp;ts=1784977442" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 11:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic: Claude Opus 5 schlägt das teurere Modell aus eigenem Haus</title>
+      <link>https://www.golem.de/news/anthropic-claude-opus-5-schlaegt-das-teurere-modell-aus-eigenem-haus-2607-211279.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anthropic-claude-opus-5-schlaegt-das-teurere-modell-aus-eigenem-haus-2607-211279.html</guid>
+      <description>Anthropic bringt mit Claude Opus 5 ein Modell für den täglichen Einsatz, das teilweise das teurere Claude Fable 5 schlägt. (&lt;a href="https://www.golem.de/specials/claude/"&gt;Claude&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211279&amp;amp;page=1&amp;amp;ts=1784975221" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 25 Jul 2026 10:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>Humanoid: Europas erstes Roboter-Unicorn setzt auf Räder</title>
       <link>https://www.golem.de/news/humanoid-europas-erstes-roboter-unicorn-setzt-auf-raeder-2607-211282.html</link>
