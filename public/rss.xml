@@ -5,10 +5,66 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>610</golem:itemCount>
-    <lastBuildDate>Tue, 28 Jul 2026 09:59:13 GMT</lastBuildDate>
+    <golem:itemCount>618</golem:itemCount>
+    <lastBuildDate>Tue, 28 Jul 2026 12:04:27 GMT</lastBuildDate>
     <item>
-      <title>Nutzername: Fehlendes Zeichen bringt Unschuldigen für 18 Monate in den Knast</title>
+      <title>(g+) Softwarentwicklung mit KI-Agenten: Die Slop-Maschine kontrollieren</title>
+      <link>https://www.golem.de/news/softwarentwicklung-mit-ki-agenten-die-slop-maschine-kontrollieren-2607-211251.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/softwarentwicklung-mit-ki-agenten-die-slop-maschine-kontrollieren-2607-211251.html</guid>
+      <description>Wie ich eine KI dazu bringe, guten Code zu schreiben - ganz praktisch. Ein Erfahrungsbericht von Felix Knorr (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/softwareentwicklung/"&gt;Softwareentwicklung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211251&amp;amp;page=1&amp;amp;ts=1785238202" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Ooono Co-Driver NO2 Blitzerwarner zum neuen Bestpreis erstmals unter 48 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-ooono-co-driver-no2-blitzerwarner-zum-neuen-bestpreis-erstmals-unter-48-euro-bei-amazon-2607-211357.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ooono-co-driver-no2-blitzerwarner-zum-neuen-bestpreis-erstmals-unter-48-euro-bei-amazon-2607-211357.html</guid>
+      <description>Der Ooono Co-Driver NO2 zum neuen Bestpreis warnt vor Tempokontrollen und Gefahrenstellen in Echtzeit. (&lt;a href="https://www.golem.de/specials/mobilitaet/"&gt;Mobilität&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/auto/"&gt;Auto&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211357&amp;amp;page=1&amp;amp;ts=1785237902" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Certighost: Gefährlicher Exploit lässt Angreifer Windows-Domänen kapern</title>
+      <link>https://www.golem.de/news/certighost-gefaehrlicher-exploit-laesst-angreifer-windows-domaenen-kapern-2607-211358.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/certighost-gefaehrlicher-exploit-laesst-angreifer-windows-domaenen-kapern-2607-211358.html</guid>
+      <description>Im Netz kursiert ein Exploit, mit dem sich Windows-Domänen kompromittieren lassen. Admins sollten ihre Systeme dringend absichern. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211358&amp;amp;page=1&amp;amp;ts=1785237421" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Kabelloses Gaming-Headset von HyperX zum Aktionspreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-kabelloses-gaming-headset-von-hyperx-zum-aktionspreis-bei-amazon-2607-211351.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kabelloses-gaming-headset-von-hyperx-zum-aktionspreis-bei-amazon-2607-211351.html</guid>
+      <description>Das kabellose Gaming-Headset HyperX Cloud III mit DTS Headphone:X, 120-Stunden-Akku und abnehmbarem Mikrofon ist bei Amazon reduziert. (&lt;a href="https://www.golem.de/specials/headset/"&gt;Headset&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211351&amp;amp;page=1&amp;amp;ts=1785236702" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 11:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neue Klasse: BMW soll an elektrischem Cabrio arbeiten</title>
+      <link>https://www.golem.de/news/neue-klasse-bmw-soll-an-elektrischem-cabrio-arbeiten-2607-211355.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/neue-klasse-bmw-soll-an-elektrischem-cabrio-arbeiten-2607-211355.html</guid>
+      <description>Die Auswahl an vollelektrischen Cabriolets ist überschaubar - mit dem i4 Cabrio von BMW soll 2028 eines hinzukommen. (&lt;a href="https://www.golem.de/specials/bmw/"&gt;BMW&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/elektroauto/"&gt;Elektroauto&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211355&amp;amp;page=1&amp;amp;ts=1785235502" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 10:45:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wasserstoffversprödung: Superlegierungen anfälliger für Wasserstoff als vermutet</title>
+      <link>https://www.golem.de/news/wasserstoffversproedung-superlegierungen-anfaelliger-fuer-wasserstoff-als-vermutet-2607-211353.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wasserstoffversproedung-superlegierungen-anfaelliger-fuer-wasserstoff-als-vermutet-2607-211353.html</guid>
+      <description>Werkstoffe mit Carbiden gelten als essenziell, um Wasserstoff in Turbinen zu verbrennen. Es gibt einen überraschenden Schwachpunkt. (&lt;a href="https://www.golem.de/specials/wasserstoff/"&gt;Wasserstoff&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/akku/"&gt;Akku&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211353&amp;amp;page=1&amp;amp;ts=1785234541" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 10:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok, Gemini, GPT 5: Test ordnet die meisten KI-Modelle politisch links ein</title>
+      <link>https://www.golem.de/news/grok-gemini-gpt-5-test-ordnet-die-meisten-ki-modelle-politisch-links-ein-2607-211348.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/grok-gemini-gpt-5-test-ordnet-die-meisten-ki-modelle-politisch-links-ein-2607-211348.html</guid>
+      <description>Im Vergleich zu 2024 sind die getesteten LLMs wohl zudem noch weiter in das linke Spektrum gewandert. (&lt;a href="https://www.golem.de/specials/llm/"&gt;LLM&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/studie/"&gt;Studien&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211348&amp;amp;page=1&amp;amp;ts=1785233582" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 10:13:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cyber-G Pocket im Test: Rockstar auch ohne Vorkenntnisse oder Gitarre</title>
+      <link>https://www.golem.de/news/cyber-g-pocket-im-test-lagerfeuerromantik-auch-ohne-vorkenntnisse-oder-gitarre-2607-211320.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyber-g-pocket-im-test-lagerfeuerromantik-auch-ohne-vorkenntnisse-oder-gitarre-2607-211320.html</guid>
+      <description>Was macht man, wenn man Musik am Lagerfeuer spielen möchte, aber kein Instrument beherrscht? Das Cyber-G Pocket ist eine spaßige Möglichkeit. Ein Test von Tobias Költzsch (&lt;a href="https://www.golem.de/specials/musikinstrument/"&gt;Musikinstrument&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/musik-download/"&gt;Musik&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211320&amp;amp;page=1&amp;amp;ts=1785232802" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 28 Jul 2026 10:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nutzername: Fehlendes Zeichen bringt Unschuldigen für 18 Monate ins Gefängnis</title>
       <link>https://www.golem.de/news/nutzername-fehlendes-zeichen-bringt-unschuldigen-fuer-18-monate-in-den-knast-2607-211352.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/nutzername-fehlendes-zeichen-bringt-unschuldigen-fuer-18-monate-in-den-knast-2607-211352.html</guid>
       <description>Ein Kanadier verbrachte unschuldig 1,5 Jahre im Gefängnis. Die Polizei hatte beim Kik-Nutzernamen eines gesuchten Straftäters ein Zeichen verschluckt. (&lt;a href="https://www.golem.de/specials/cybercrime/"&gt;Cybercrime&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/instantmessenger/"&gt;Instant Messenger&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211352&amp;amp;page=1&amp;amp;ts=1785231962" alt="" width="1" height="1" /&gt;</description>
@@ -155,7 +211,7 @@
       <pubDate>Mon, 27 Jul 2026 16:00:10 GMT</pubDate>
     </item>
     <item>
-      <title>Anzeige: Kompakte Taschenlampe fast zun Tiefstpreis</title>
+      <title>Anzeige: Kompakte Taschenlampe fast zum Tiefstpreis</title>
       <link>https://www.golem.de/news/anzeige-kompakte-taschenlampe-fast-zun-tiefstpreis-2607-211331.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kompakte-taschenlampe-fast-zun-tiefstpreis-2607-211331.html</guid>
       <description>Bei Amazon gibt es derzeit eine interessante Taschenlampe im Angebot - fast zum Tiefstpreis. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/amazon/"&gt;Amazon&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211331&amp;amp;page=1&amp;amp;ts=1785167041" alt="" width="1" height="1" /&gt;</description>
