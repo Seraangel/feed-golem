@@ -5,13 +5,34 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>686</golem:itemCount>
-    <lastBuildDate>Wed, 29 Jul 2026 23:16:10 GMT</lastBuildDate>
+    <golem:itemCount>688</golem:itemCount>
+    <lastBuildDate>Thu, 30 Jul 2026 06:11:15 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Hyperion: How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal</title>
+      <link>https://www.golem.de/news/hyperion-how-meta-got-everything-it-wanted-in-a-secret-louisiana-data-center-deal-2607-211384.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hyperion-how-meta-got-everything-it-wanted-in-a-secret-louisiana-data-center-deal-2607-211384.html</guid>
+      <description>A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles. Von Eli Tan und Maureen Farrell (&lt;a href="https://www.golem.de/specials/meta/"&gt;Meta&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/silicon-valley/"&gt;Silicon Valley&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211384&amp;amp;page=1&amp;amp;ts=1785390242" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 05:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>EA Sports: FC 27 baut Angriffe und Verteidigung grundlegend um</title>
+      <link>https://www.golem.de/news/ea-sports-fc-27-baut-angriffe-und-verteidigung-grundlegend-um-2607-211424.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ea-sports-fc-27-baut-angriffe-und-verteidigung-grundlegend-um-2607-211424.html</guid>
+      <description>Im Mittelpunkt von FC 27 stehen intelligentere Laufwege, weniger Hilfen sowie Änderungen an Angriff, Verteidigung und Standardsituationen. (&lt;a href="https://www.golem.de/specials/fussball/"&gt;Fußball&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/electronic-arts/"&gt;Electronic Arts&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211424&amp;amp;page=1&amp;amp;ts=1785388801" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 05:20:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Penetration Testing: Schwachstellen in Webanwendungen erkennen</title>
+      <link>https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2607-208603.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2607-208603.html</guid>
+      <description>Penetration Testing deckt Schwachstellen in Webanwendungen und Netzwerken auf. Ein Online-Workshop vermittelt Methodik und Tools, um Findings nachvollziehbar zu prüfen. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/serverapps/"&gt;Server-Applikationen&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=208603&amp;amp;page=1&amp;amp;ts=1785388501" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Thu, 30 Jul 2026 05:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Netzanschlusspaket: Mobilfunkbetreiber können Stromanschluss nicht planen</title>
       <link>https://www.golem.de/news/netzanschlusspaket-mobilfunkbetreiber-koennen-stromanschluss-nicht-planen-2607-211425.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/netzanschlusspaket-mobilfunkbetreiber-koennen-stromanschluss-nicht-planen-2607-211425.html</guid>
-      <description>Eine Gesetzesänderung bringt eher den Energiekonzernen Vorteile. Bitkom und VATM beklagen neue Missstände bei der Stromversorgung von Mobilfunkantennen.. (&lt;a href="https://www.golem.de/specials/mobilfunk/"&gt;Mobilfunk&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/bitkom/"&gt;Bitkom&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211425&amp;amp;page=1&amp;amp;ts=1785363182" alt="" width="1" height="1" /&gt;</description>
+      <description>Eine Gesetzesänderung bringt eher den Energiekonzernen Vorteile. Bitkom und VATM beklagen neue Missstände bei der Stromversorgung von Mobilfunkantennen. (&lt;a href="https://www.golem.de/specials/mobilfunk/"&gt;Mobilfunk&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/bitkom/"&gt;Bitkom&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211425&amp;amp;page=1&amp;amp;ts=1785363182" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 29 Jul 2026 22:13:07 GMT</pubDate>
     </item>
     <item>
@@ -1413,13 +1434,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/black-forest-labs-deutsches-ki-start-up-wagt-den-sprung-in-die-robotik-2607-211233.html</guid>
       <description>Black Forest Labs aus Freiburg testet mit Flux 3 und Flux-mimic seine ersten Modelle für physische KI. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/robots/"&gt;Roboter&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211233&amp;amp;page=1&amp;amp;ts=1784874181" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 24 Jul 2026 06:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Penetration Testing: Schwachstellen in Webanwendungen erkennen</title>
-      <link>https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2607-208603.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-penetration-testing-schwachstellen-in-webanwendungen-erkennen-2607-208603.html</guid>
-      <description>Penetration Testing deckt Schwachstellen in Webanwendungen und Netzwerken auf. Ein Online-Workshop vermittelt Methodik und Tools, um Findings nachvollziehbar zu prüfen. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/serverapps/"&gt;Server-Applikationen&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=208603&amp;amp;page=1&amp;amp;ts=1784870102" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 24 Jul 2026 05:15:05 GMT</pubDate>
     </item>
     <item>
       <title>Wirtschaftskrimi: Prozess um 100-Millionen-Euro-Betrug an Delivery-Hero-Gründer</title>
