@@ -5,8 +5,43 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>732</golem:itemCount>
-    <lastBuildDate>Thu, 30 Jul 2026 18:12:21 GMT</lastBuildDate>
+    <golem:itemCount>737</golem:itemCount>
+    <lastBuildDate>Fri, 31 Jul 2026 07:34:00 GMT</lastBuildDate>
+    <item>
+      <title>Sysadmin Day 2026: IT-Jobs aus der Hölle</title>
+      <link>https://www.golem.de/news/sysadmin-day-2026-it-jobs-aus-der-hoelle-2607-211254.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sysadmin-day-2026-it-jobs-aus-der-hoelle-2607-211254.html</guid>
+      <description>In meinem ersten Job wurde ich mit allem alleingelassen und dann mit den Worten gekündigt: "IT ist nichts für dich!". Habt ihr ähnliches erlebt? Ein Erfahrungsbericht von Andrea Maurer (&lt;a href="https://www.golem.de/specials/sysadmin-day/"&gt;Sysadmin Day&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211254&amp;amp;page=1&amp;amp;ts=1785482702" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 07:25:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft: Forscher finden Masterkey für Vollzugriff auf Azure-Datenbanken</title>
+      <link>https://www.golem.de/news/microsoft-forscher-finden-masterkey-fuer-vollzugriff-auf-azure-datenbanken-2607-211473.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-forscher-finden-masterkey-fuer-vollzugriff-auf-azure-datenbanken-2607-211473.html</guid>
+      <description>Mit dem Key hätten Angreifer alle Datenbanken bei Microsofts Datenbankdienst Azure Cosmos DB auslesen und manipulieren können - auch die von Microsoft. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211473&amp;amp;page=1&amp;amp;ts=1785481502" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 07:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Studien zu Wissensarbeitern: Arbeitsfrust durch KI-Einsatz steigt</title>
+      <link>https://www.golem.de/news/studien-zu-wissensarbeitern-arbeitsfrust-durch-ki-einsatz-steigt-2607-211471.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/studien-zu-wissensarbeitern-arbeitsfrust-durch-ki-einsatz-steigt-2607-211471.html</guid>
+      <description>Eine Umfrage zeigt: Viele Wissensarbeiter wünschen sich die Zeit vor KI zurück, da fehlerhafte Ergebnisse oft Mehrarbeit verursachen. (&lt;a href="https://www.golem.de/specials/studie/"&gt;Studien&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211471&amp;amp;page=1&amp;amp;ts=1785479461" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 06:31:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Weiterer Vorfall: Anthropic-KI greift unbeabsichtigt echte Unternehmen an</title>
+      <link>https://www.golem.de/news/weiterer-vorfall-anthropic-ki-greift-unbeabsichtigt-echte-unternehmen-an-2607-211470.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/weiterer-vorfall-anthropic-ki-greift-unbeabsichtigt-echte-unternehmen-an-2607-211470.html</guid>
+      <description>Durch einen Fehler in der Testumgebung sind mehrere Anthropic-Modelle ins offene Netz gelangt und haben reale Unternehmen ins Visier genommen. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211470&amp;amp;page=1&amp;amp;ts=1785478262" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 06:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Microsoft 365 mit Zero Trust absichern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2607-210522.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2607-210522.html</guid>
+      <description>Microsoft 365 Zero Trust verlangt klare Kontrollen für Identitäten, Daten und Geräte. Ein Online-Workshop zeigt, wie Schutzmechanismen und Monitoring strukturiert umgesetzt werden. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/serverapps/"&gt;Server-Applikationen&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210522&amp;amp;page=1&amp;amp;ts=1785474902" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Fri, 31 Jul 2026 05:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Die Enterprise-D von Lego verließ Amazons Lager nie günstiger</title>
       <link>https://www.golem.de/news/anzeige-die-enterprise-d-von-lego-verliess-amazons-lager-nie-guenstiger-2607-211468.html</link>
