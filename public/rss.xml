@@ -5,8 +5,15 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>769</golem:itemCount>
-    <lastBuildDate>Sat, 01 Aug 2026 06:16:42 GMT</lastBuildDate>
+    <golem:itemCount>770</golem:itemCount>
+    <lastBuildDate>Sat, 01 Aug 2026 08:36:41 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Qwen: Perfekt unperfekte Sprachsynthese</title>
+      <link>https://www.golem.de/news/qwen-perfekt-unperfekte-sprachsynthese-2608-211230.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/qwen-perfekt-unperfekte-sprachsynthese-2608-211230.html</guid>
+      <description>Open Weight statt Cloud: Qwen 3 TTS bringt hochwertige deutsche Sprachsynthese auf den eigenen Rechner. Von Mathias Küfner (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/raumklang/"&gt;Raumklang&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211230&amp;amp;page=1&amp;amp;ts=1785571201" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 01 Aug 2026 08:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>Was passiert nach dem Crash?: Wenn die KI-Blase platzt, bleibt die Technik</title>
       <link>https://www.golem.de/news/was-passiert-nach-dem-crash-wenn-die-ki-blase-platzt-bleibt-die-technik-2608-211466.html</link>
