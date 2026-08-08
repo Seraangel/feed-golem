@@ -5,8 +5,22 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>999</golem:itemCount>
-    <lastBuildDate>Sat, 08 Aug 2026 06:10:06 GMT</lastBuildDate>
+    <golem:itemCount>1000</golem:itemCount>
+    <lastBuildDate>Sat, 08 Aug 2026 08:03:33 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Edge AI: Gegen KI mit langer Leitung</title>
+      <link>https://www.golem.de/news/edge-ai-gegen-ki-mit-langer-leitung-2608-211711.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/edge-ai-gegen-ki-mit-langer-leitung-2608-211711.html</guid>
+      <description>Entfernte KI-Modelle haben für zeitkritische Prozesse eine zu große Latenz. Ist Edge AI die Lösung? Wir zeigen, welche Anbieter was im Katalog haben und geben Firmen eine Entscheidungshilfe. Ein Ratgebertext von Fabian Deitelhoff (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211711&amp;amp;page=1&amp;amp;ts=1786176009" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 08:00:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>(g+) Python-Framework: So entwickelt man Webanwendungen mit Django</title>
+      <link>https://www.golem.de/news/python-framework-so-entwickelt-man-webanwendungen-mit-django-2608-211677.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/python-framework-so-entwickelt-man-webanwendungen-mit-django-2608-211677.html</guid>
+      <description>Von der Datenbank bis zur Weboberfläche: Das Python-Framework Django nimmt Entwicklern viele Routineaufgaben ab. Wir zeigen, wie es funktioniert. Ein Deep Dive von Michael Bröde (&lt;a href="https://www.golem.de/specials/django/"&gt;django&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/python/"&gt;Python&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211677&amp;amp;page=1&amp;amp;ts=1786176002" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 08:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Openclaw: Ein Prompt, ein Bier?</title>
       <link>https://www.golem.de/news/openclaw-ein-prompt-ein-bier-2608-211456.html</link>
@@ -6992,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/setup-exe-wie-windows-95-installationsdateien-erkannte-2607-210744.html</guid>
       <description>Windows 95 hat sich einer der einfachsten Techniken für Problemlösungen bedient: Es hat einfach geraten. (&lt;a href="https://www.golem.de/specials/windows95/"&gt;Windows 95&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/windows/"&gt;Windows&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210744&amp;amp;page=1&amp;amp;ts=1783675202" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 09:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sabotage bei OpenMandriva: Streit unter Linux-Entwicklern eskaliert</title>
-      <link>https://www.golem.de/news/sabotage-bei-openmandriva-streit-unter-linux-entwicklern-eskaliert-2607-210740.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sabotage-bei-openmandriva-streit-unter-linux-entwicklern-eskaliert-2607-210740.html</guid>
-      <description>Nach einem Streit hat ein Entwickler Daten aus einem Github-Repo von Openmandriva gelöscht. Aus seiner Sicht war das "auf keinen Fall Sabotage". (&lt;a href="https://www.golem.de/specials/linux/"&gt;Linux&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/linux-distribution/"&gt;Linux-Distribution&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210740&amp;amp;page=1&amp;amp;ts=1783674361" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 09:06:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
