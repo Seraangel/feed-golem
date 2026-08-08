@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sat, 08 Aug 2026 09:39:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 10:13:14 GMT</lastBuildDate>
+    <item>
+      <title>"Freifahren": Diese App warnt Berliner Fahrgäste vor Ticket-Kontrollen</title>
+      <link>https://www.golem.de/news/freifahren-diese-app-warnt-berliner-fahrgaeste-vor-ticket-kontrollen-2608-211733.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/freifahren-diese-app-warnt-berliner-fahrgaeste-vor-ticket-kontrollen-2608-211733.html</guid>
+      <description>Ein Informatikstudent hat eine App entwickelt, die Kontrollen in Berliner U- und S-Bahnen anzeigt. Rund 40.000 Menschen nutzen "Freifahren" mittlerweile. (&lt;a href="https://www.golem.de/specials/oepnv/"&gt;ÖPNV&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/web-apps/"&gt;Web Apps&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211733&amp;amp;page=1&amp;amp;ts=1786183262" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 10:01:05 GMT</pubDate>
+    </item>
     <item>
       <title>Henna Virkkunen: EU nimmt Meta und Tiktok wegen Ceuta-Krise ins Visier</title>
       <link>https://www.golem.de/news/henna-virkkunen-eu-nimmt-meta-und-tiktok-wegen-ceuta-krise-ins-visier-2608-211735.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kernfusion-proxima-fusion-sammelt-400-millionen-ein-2607-210747.html</guid>
       <description>Mit der neuen Finanzierung werden auch Gelder aus der Staatskasse fließen, um die erste Demonstrationsanlage für ein Stellarator-Fusionskraftwerk zu bauen. (&lt;a href="https://www.golem.de/specials/kernfusion/"&gt;Kernfusion&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210747&amp;amp;page=1&amp;amp;ts=1783678381" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 10:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tipps für die nächste Hitzewelle: "Linux läuft meist cooler - ähm kühler"</title>
-      <link>https://www.golem.de/news/technik-und-hitze-uns-ist-die-primaere-klimaanlage-im-rechenzentrum-ausgefallen-2607-210696.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/technik-und-hitze-uns-ist-die-primaere-klimaanlage-im-rechenzentrum-ausgefallen-2607-210696.html</guid>
-      <description>Von Servern im Not-Aus bis zur 3D-gedruckten Handyform mit Kühlakkufach: Ihr habt uns erzählt, wie eure Technik unter der Hitze leidet und wie ihr sie schützt. (&lt;a href="https://www.golem.de/specials/computer/"&gt;Computer&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210696&amp;amp;page=1&amp;amp;ts=1783677602" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 10:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
