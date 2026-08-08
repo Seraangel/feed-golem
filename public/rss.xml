@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sat, 08 Aug 2026 13:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 14:09:14 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare: "Menschen werden im Internet nur ein Rundungsfehler sein"</title>
+      <link>https://www.golem.de/news/cloudflare-menschen-werden-im-internet-nur-ein-rundungsfehler-sein-2608-211739.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cloudflare-menschen-werden-im-internet-nur-ein-rundungsfehler-sein-2608-211739.html</guid>
+      <description>KI-Systeme erzeugen immer mehr Datenverkehr. Cloudflare erwartet, dass Maschinen Menschen im Internet geradezu überrollen werden. (&lt;a href="https://www.golem.de/specials/cloudflare/"&gt;Cloudflare&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211739&amp;amp;page=1&amp;amp;ts=1786196342" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 13:39:11 GMT</pubDate>
+    </item>
     <item>
       <title>Astra: OpenAI will neues KI-Modell vorerst nicht veröffentlichen</title>
       <link>https://www.golem.de/news/astra-openai-will-neues-ki-modell-vorerst-nicht-veroeffentlichen-2608-211738.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-lokale-ki-fuer-das-gpu-proletariat-2607-210590.html</guid>
       <description>Lokale LLMs sind nur was für Leute mit ordentlich GPU und VRAM. Normale Nutzer schauen in die Röhre. Was wäre, wenn es dafür eine Lösung gäbe? Eine Anleitung von Stefanie Schmidt (&lt;a href="https://www.golem.de/specials/llm/"&gt;LLM&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/grafikhardware/"&gt;Grafikkarten&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210590&amp;amp;page=1&amp;amp;ts=1783683002" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 11:30:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Xiaomi-Smartphone mit Smartwatch und 40 GB bei Blau für nur 9,99 Euro/Monat</title>
-      <link>https://www.golem.de/news/anzeige-xiaomi-smartphone-mit-smartwatch-und-40-gb-bei-blau-fuer-nur-9-99-euro-monat-2607-210741.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-smartphone-mit-smartwatch-und-40-gb-bei-blau-fuer-nur-9-99-euro-monat-2607-210741.html</guid>
-      <description>Der Mobilfunkanbieter Blau hat ein spannendes Bundle aus Xiaomi-Smartphone und Smartwatch mit Tarif für nur 9,99 Euro im Monat geschnürt. (&lt;a href="https://www.golem.de/specials/blau.de/"&gt;Blau.de&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210741&amp;amp;page=1&amp;amp;ts=1783682702" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 11:25:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
