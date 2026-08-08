@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sat, 08 Aug 2026 12:35:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 13:30:37 GMT</lastBuildDate>
+    <item>
+      <title>Astra: OpenAI will neues KI-Modell vorerst nicht veröffentlichen</title>
+      <link>https://www.golem.de/news/astra-openai-will-neues-ki-modell-vorerst-nicht-veroeffentlichen-2608-211738.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/astra-openai-will-neues-ki-modell-vorerst-nicht-veroeffentlichen-2608-211738.html</guid>
+      <description>Wie gefährlich darf eine KI werden, bevor sie zur Waffe wird? OpenAI kann diese Frage bei seinem Modell Astra derzeit nicht mehr sicher beantworten. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211738&amp;amp;page=1&amp;amp;ts=1786194002" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 13:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Rollenspiel: Gothic Remake bekommt Mod-Kit und legendären Marvin-Modus</title>
       <link>https://www.golem.de/news/rollenspiel-gothic-remake-bekommt-mod-kit-und-legendaeren-marvin-modus-2608-211737.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-smartphone-mit-smartwatch-und-40-gb-bei-blau-fuer-nur-9-99-euro-monat-2607-210741.html</guid>
       <description>Der Mobilfunkanbieter Blau hat ein spannendes Bundle aus Xiaomi-Smartphone und Smartwatch mit Tarif für nur 9,99 Euro im Monat geschnürt. (&lt;a href="https://www.golem.de/specials/blau.de/"&gt;Blau.de&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210741&amp;amp;page=1&amp;amp;ts=1783682702" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 11:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghostlock: 15 Jahre alte Root-Lücke im Linux-Kernel aufgedeckt</title>
-      <link>https://www.golem.de/news/ghostlock-15-jahre-alte-root-luecke-im-linux-kernel-aufgedeckt-2607-210750.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ghostlock-15-jahre-alte-root-luecke-im-linux-kernel-aufgedeckt-2607-210750.html</guid>
-      <description>Seit Version 2.6.39 von 2011 klafft im Linux-Kernel eine gefährliche Root-Lücke. Es gibt zwar einen Patch, doch der ist noch längst nicht überall angekommen. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ubuntu/"&gt;Ubuntu&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210750&amp;amp;page=1&amp;amp;ts=1783681145" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 10:59:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
