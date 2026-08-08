@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sat, 08 Aug 2026 10:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 10:53:09 GMT</lastBuildDate>
+    <item>
+      <title>Schluss mit dem Limit: ChatGPT öffnet sich für alle</title>
+      <link>https://www.golem.de/news/schluss-mit-dem-limit-chatgpt-oeffnet-sich-fuer-alle-2608-211734.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schluss-mit-dem-limit-chatgpt-oeffnet-sich-fuer-alle-2608-211734.html</guid>
+      <description>ChatGPT-Gratisnutzer haben künftig kein Nachrichtenlimit mehr, zahlende Nutzer erhalten ein besseres Modell und eine Anpassung der Denkdauer. (&lt;a href="https://www.golem.de/specials/chatgpt/"&gt;ChatGPT&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211734&amp;amp;page=1&amp;amp;ts=1786186201" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 10:50:05 GMT</pubDate>
+    </item>
     <item>
       <title>"Freifahren": Diese App warnt Berliner Fahrgäste vor Ticket-Kontrollen</title>
       <link>https://www.golem.de/news/freifahren-diese-app-warnt-berliner-fahrgaeste-vor-ticket-kontrollen-2608-211733.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sport-strava-zeigt-passende-rennen-in-der-app-2607-210748.html</guid>
       <description>Neue Funktionen bündeln Rennen, Gruppenläufe und Clubevents direkt in der Strava-App. (&lt;a href="https://www.golem.de/specials/strava/"&gt;Strava&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/fitness/"&gt;Fitness&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210748&amp;amp;page=1&amp;amp;ts=1783679282" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 10:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kernfusion: Proxima Fusion sammelt 400 Millionen ein</title>
-      <link>https://www.golem.de/news/kernfusion-proxima-fusion-sammelt-400-millionen-ein-2607-210747.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kernfusion-proxima-fusion-sammelt-400-millionen-ein-2607-210747.html</guid>
-      <description>Mit der neuen Finanzierung werden auch Gelder aus der Staatskasse fließen, um die erste Demonstrationsanlage für ein Stellarator-Fusionskraftwerk zu bauen. (&lt;a href="https://www.golem.de/specials/kernfusion/"&gt;Kernfusion&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210747&amp;amp;page=1&amp;amp;ts=1783678381" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 10:13:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
