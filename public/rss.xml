@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sat, 08 Aug 2026 11:52:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 12:35:54 GMT</lastBuildDate>
+    <item>
+      <title>Rollenspiel: Gothic Remake bekommt Mod-Kit und legendären Marvin-Modus</title>
+      <link>https://www.golem.de/news/rollenspiel-gothic-remake-bekommt-mod-kit-und-legendaeren-marvin-modus-2608-211737.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rollenspiel-gothic-remake-bekommt-mod-kit-und-legendaeren-marvin-modus-2608-211737.html</guid>
+      <description>THQ Nordic baut das Gothic Remake weiter aus. Gleichzeitig kommen alle drei klassischen Gothic-Spiele auf aktuelle Konsolen. (&lt;a href="https://www.golem.de/specials/gothic/"&gt;Gothic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/rollenspiel/"&gt;Rollenspiel&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211737&amp;amp;page=1&amp;amp;ts=1786191962" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 12:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>Kinderärzte: Social Media macht junge Menschen "krank und dumm"</title>
       <link>https://www.golem.de/news/kinderaerzte-social-media-macht-junge-menschen-krank-und-dumm-2608-211736.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ghostlock-15-jahre-alte-root-luecke-im-linux-kernel-aufgedeckt-2607-210750.html</guid>
       <description>Seit Version 2.6.39 von 2011 klafft im Linux-Kernel eine gefährliche Root-Lücke. Es gibt zwar einen Patch, doch der ist noch längst nicht überall angekommen. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ubuntu/"&gt;Ubuntu&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210750&amp;amp;page=1&amp;amp;ts=1783681145" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 10:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Sabrent-Festplatten-Dockingstation für 2,5 und 3,5 Zoll Sata jetzt wieder rund 25 Euro</title>
-      <link>https://www.golem.de/news/anzeige-sabrent-festplatten-dockingstation-fuer-2-5-und-3-5-zoll-sata-jetzt-wieder-rund-25-euro-2607-210751.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sabrent-festplatten-dockingstation-fuer-2-5-und-3-5-zoll-sata-jetzt-wieder-rund-25-euro-2607-210751.html</guid>
-      <description>Die Sabrent-Dockingstation liest 2,5- und 3,5-Zoll-Sata-Platten per USB 3.0 aus. Bei Amazon ist sie aktuell wieder günstiger. (&lt;a href="https://www.golem.de/specials/datenrettung/"&gt;Datenrettung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/solidstatedrive/"&gt;Solid State Drive&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210751&amp;amp;page=1&amp;amp;ts=1783680602" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 10:50:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
