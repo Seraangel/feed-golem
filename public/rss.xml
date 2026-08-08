@@ -5,8 +5,15 @@
     <link>https://www.golem.de/</link>
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
-    <golem:itemCount>998</golem:itemCount>
-    <lastBuildDate>Fri, 07 Aug 2026 17:08:22 GMT</lastBuildDate>
+    <golem:itemCount>999</golem:itemCount>
+    <lastBuildDate>Sat, 08 Aug 2026 06:10:06 GMT</lastBuildDate>
+    <item>
+      <title>Openclaw: Ein Prompt, ein Bier?</title>
+      <link>https://www.golem.de/news/openclaw-ein-prompt-ein-bier-2608-211456.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/openclaw-ein-prompt-ein-bier-2608-211456.html</guid>
+      <description>Wie man ein Sprachmodell dazu bringt, eine reale Maschine zu bedienen, ohne dass eine Halluzination das Bier ruiniert. Ein Bericht von Oliver Jessner (&lt;a href="https://www.golem.de/specials/openclaw/"&gt;Openclaw&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211456&amp;amp;page=1&amp;amp;ts=1786167002" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sat, 08 Aug 2026 05:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bosch Ratschenschraubendreher plus Bits bei Amazon für keine 14 Euro</title>
       <link>https://www.golem.de/news/anzeige-bosch-ratschenschraubendreher-plus-bits-bei-amazon-fuer-keine-14-euro-2608-211732.html</link>
