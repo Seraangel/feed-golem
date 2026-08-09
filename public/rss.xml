@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sat, 08 Aug 2026 14:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 05:17:20 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Jobs in Revision, Controlling, Netzwerktechnik und IT-Sicherheit</title>
+      <link>https://www.golem.de/news/anzeige-it-jobs-in-revision-controlling-netzwerktechnik-und-it-sicherheit-2608-211226.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-revision-controlling-netzwerktechnik-und-it-sicherheit-2608-211226.html</guid>
+      <description>Diese sechs IT-Positionen reichen von Revision über Netzwerkarchitektur bis IT-Sicherheit in Behörden, Kliniken und Industrie. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/unternehmenssoftware/"&gt;Unternehmenssoftware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211226&amp;amp;page=1&amp;amp;ts=1786251602" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 05:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudflare: "Menschen werden im Internet nur ein Rundungsfehler sein"</title>
       <link>https://www.golem.de/news/cloudflare-menschen-werden-im-internet-nur-ein-rundungsfehler-sein-2608-211739.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bohr-erster-kommerzieller-nuklearbetriebener-satellit-ist-gestartet-2607-210728.html</guid>
       <description>Bisher waren nur staatliche Raumfahrzeuge mit atombetriebenen Energiequellen ausgestattet. Mit dem kürzlich gestarteten Satelliten Bohr ändert sich das. (&lt;a href="https://www.golem.de/specials/satelliten/"&gt;Satelliten&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/raumfahrt/"&gt;Raumfahrt&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210728&amp;amp;page=1&amp;amp;ts=1783685881" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 12:18:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Digitale Souveränität: Lokale KI für das GPU-Proletariat</title>
-      <link>https://www.golem.de/news/digitale-souveraenitaet-lokale-ki-fuer-das-gpu-proletariat-2607-210590.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-lokale-ki-fuer-das-gpu-proletariat-2607-210590.html</guid>
-      <description>Lokale LLMs sind nur was für Leute mit ordentlich GPU und VRAM. Normale Nutzer schauen in die Röhre. Was wäre, wenn es dafür eine Lösung gäbe? Eine Anleitung von Stefanie Schmidt (&lt;a href="https://www.golem.de/specials/llm/"&gt;LLM&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/grafikhardware/"&gt;Grafikkarten&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210590&amp;amp;page=1&amp;amp;ts=1783683002" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 11:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
