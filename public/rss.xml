@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sun, 09 Aug 2026 10:57:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 11:59:54 GMT</lastBuildDate>
+    <item>
+      <title>5G NTN: Europäischer Starlink-Konkurrent Iris² wird 5G-Technik nutzen</title>
+      <link>https://www.golem.de/news/5g-ntn-europaeischer-starlink-konkurrent-iris-wird-5g-technik-nutzen-2608-211744.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/5g-ntn-europaeischer-starlink-konkurrent-iris-wird-5g-technik-nutzen-2608-211744.html</guid>
+      <description>Die geplante europäische Satellitenkonstellation Iris² soll technisch auf offene 5G-Standards für nicht-terrestrische Netzwerke (NTN) setzen. Es scheint in die Umsetzung zu gehen. (&lt;a href="https://www.golem.de/specials/satelliten/"&gt;Satelliten&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/mobilfunk/"&gt;Mobilfunk&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211744&amp;amp;page=1&amp;amp;ts=1786275302" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 11:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>Gewerkschaften dagegen: Der Achtstundentag wackelt</title>
       <link>https://www.golem.de/news/gewerkschaften-dagegen-der-achtstundentag-wackelt-2608-211743.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/muse-image-metas-bildgenerator-kann-automatisch-auf-oeffentliche-insta-fotos-zugreifen-2607-210759.html</guid>
       <description>Metas Muse Image kann über die Verlinkung eines öffentlichen Instagram-Kontos dessen Fotos für neue Bilder nutzen. Die Funktion muss aktiv abgestellt werden. (&lt;a href="https://www.golem.de/specials/meta/"&gt;Meta&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210759&amp;amp;page=1&amp;amp;ts=1783690682" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 13:38:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kurswechsel: OpenAI zieht bei Atlas den Stecker</title>
-      <link>https://www.golem.de/news/kurswechsel-openai-zieht-bei-atlas-den-stecker-2607-210755.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kurswechsel-openai-zieht-bei-atlas-den-stecker-2607-210755.html</guid>
-      <description>Der KI-Browser Atlas wird im August eingestellt. OpenAI integriert zentrale Funktionen in ChatGPT und bündelt sie in der neuen Desktop-App. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/browser/"&gt;Browser&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210755&amp;amp;page=1&amp;amp;ts=1783689661" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 13:21:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
