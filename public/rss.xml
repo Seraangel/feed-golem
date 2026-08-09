@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sun, 09 Aug 2026 10:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 10:57:02 GMT</lastBuildDate>
+    <item>
+      <title>Gewerkschaften dagegen: Der Achtstundentag wackelt</title>
+      <link>https://www.golem.de/news/gewerkschaften-dagegen-der-achtstundentag-wackelt-2608-211743.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gewerkschaften-dagegen-der-achtstundentag-wackelt-2608-211743.html</guid>
+      <description>Arbeitgeber wollen weg von der täglichen Höchstarbeitszeit, Gewerkschaften laufen Sturm dagegen. Im Herbst soll ein Gesetzentwurf klären, wie es weitergeht. (&lt;a href="https://www.golem.de/specials/it-jobs/"&gt;Arbeit&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211743&amp;amp;page=1&amp;amp;ts=1786272902" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Sun, 09 Aug 2026 10:55:05 GMT</pubDate>
+    </item>
     <item>
       <title>Bundesverkehrsminister: Bahn-Manager sollen Boni nur noch bei echtem Erfolg bekommen</title>
       <link>https://www.golem.de/news/bundesverkehrsminister-bahn-manager-sollen-boni-nur-noch-bei-echtem-erfolg-bekommen-2608-211742.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kurswechsel-openai-zieht-bei-atlas-den-stecker-2607-210755.html</guid>
       <description>Der KI-Browser Atlas wird im August eingestellt. OpenAI integriert zentrale Funktionen in ChatGPT und bündelt sie in der neuen Desktop-App. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/browser/"&gt;Browser&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210755&amp;amp;page=1&amp;amp;ts=1783689661" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 13:21:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Linux: aus der Nische in den Mainstream?</title>
-      <link>https://www.golem.de/news/anzeige-linux-aus-der-nische-in-den-mainstream-2607-210752.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-aus-der-nische-in-den-mainstream-2607-210752.html</guid>
-      <description>Der Wechsel von Windows zu Linux wird immer einfacher. Und auch das Interesse daran steigt. (&lt;a href="https://www.golem.de/specials/betriebssystem/"&gt;Betriebssysteme&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210752&amp;amp;page=1&amp;amp;ts=1783688701" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 13:05:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
