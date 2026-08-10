@@ -6,7 +6,21 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Mon, 10 Aug 2026 10:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 11:37:48 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Crossplane: Raus aus dem Bruch zwischen Terraform und Kubernetes</title>
+      <link>https://www.golem.de/news/crossplane-raus-aus-dem-bruch-zwischen-terraform-und-kubernetes-2608-211740.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/crossplane-raus-aus-dem-bruch-zwischen-terraform-und-kubernetes-2608-211740.html</guid>
+      <description>Crossplane verspricht ein Ende des Wirrwarrs aus Pipelines, Statusabfragen, Übergabedateien. Wann es sich lohnt und ab welchem Punkt ein Kubernetes-Controller besser wäre. Ein Ratgebertext von Philip Lorenz (&lt;a href="https://www.golem.de/specials/devops/"&gt;Devops&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/api/"&gt;API&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211740&amp;amp;page=1&amp;amp;ts=1786361401" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 11:30:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Einhell Stielstaubsauger mit Power-X-Change-Akku wieder zum Tiefpreis für 111 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-einhell-stielstaubsauger-mit-power-x-change-akku-wieder-zum-tiefpreis-fuer-111-euro-bei-amazon-2608-211761.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-stielstaubsauger-mit-power-x-change-akku-wieder-zum-tiefpreis-fuer-111-euro-bei-amazon-2608-211761.html</guid>
+      <description>Der Einhell-Stielstaubsauger TE-SV 18 Li kommt mit Power-X-Change-Akku und Ladegerät und ist bei Amazon wieder zum Tiefpreis erhältlich. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/akku/"&gt;Akku&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211761&amp;amp;page=1&amp;amp;ts=1786360502" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 11:15:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Russell Hobbs 9L Dual-Zone Fritteuse für deutlich unter 100 Euro</title>
       <link>https://www.golem.de/news/anzeige-russell-hobbs-9l-dual-zone-fritteuse-fuer-deutlich-unter-100-euro-2608-211674.html</link>
@@ -6992,20 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-anthropic-spendiert-claude-code-einen-eingebauten-browser-2607-210775.html</guid>
       <description>Claude Code kann ab sofort direkt aus der Desktop-App heraus im Web surfen. Anthropic betont die Sicherheit dieses Ansatzes. (&lt;a href="https://www.golem.de/specials/claude/"&gt;Claude&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/browser/"&gt;Browser&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210775&amp;amp;page=1&amp;amp;ts=1783774921" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Sat, 11 Jul 2026 13:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonnenlichtspiegel im Weltall: FCC gibt Erlaubnis für Demonstrationssatelliten</title>
-      <link>https://www.golem.de/news/sonnenlichtspiegel-im-weltall-fcc-gibt-erlaubnis-fuer-demonstrationssatelliten-2607-210776.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sonnenlichtspiegel-im-weltall-fcc-gibt-erlaubnis-fuer-demonstrationssatelliten-2607-210776.html</guid>
-      <description>Den Bedenken von Astronomen und Wissenschaftlern zum Trotz genehmigt die FCC einen Versuchssatelliten, um Sonnenlicht zur Erde zu reflektieren. (&lt;a href="https://www.golem.de/specials/astronomie/"&gt;Astronomie&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/fcc/"&gt;FCC&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210776&amp;amp;page=1&amp;amp;ts=1783773002" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 12:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple: Speicherpreise treiben Preis für iPhone 18 Pro Max</title>
-      <link>https://www.golem.de/news/apple-speicherpreise-treiben-preis-fuer-iphone-18-pro-max-2607-210773.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/apple-speicherpreise-treiben-preis-fuer-iphone-18-pro-max-2607-210773.html</guid>
-      <description>Eine Analyse sieht das Apple iPhone 18 Pro Max deutlich teurer in der Herstellung, vor allem wegen des Speichers und des neuen Chips. (&lt;a href="https://www.golem.de/specials/iphone/"&gt;iPhone&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210773&amp;amp;page=1&amp;amp;ts=1783771082" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Sat, 11 Jul 2026 11:58:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
