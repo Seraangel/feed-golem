@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Sun, 09 Aug 2026 13:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 06:03:19 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Opinion: Asia's AI boom runs into a power wall</title>
+      <link>https://www.golem.de/news/opinion-asia-s-ai-boom-runs-into-a-power-wall-2608-211720.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/opinion-asia-s-ai-boom-runs-into-a-power-wall-2608-211720.html</guid>
+      <description>Data centers drive $5tn energy investment supercycle across region Von Mayank Maheshwari (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211720&amp;amp;page=1&amp;amp;ts=1786341602" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Mon, 10 Aug 2026 06:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Mobilfunk am KI-Limit: Warum das Netz beim Upload lahm wird</title>
       <link>https://www.golem.de/news/mobilfunk-am-ki-limit-warum-das-netz-beim-upload-lahm-wird-2608-211745.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elektroschrott-kompostierbare-leiterplatte-vermeidet-abfallberge-2607-210760.html</guid>
       <description>Leiterplatten sind praktisch unbegrenzt haltbar, finden sich aber in Produkten, die nach wenigen Jahren entsorgt werden. Pilzmyzel kann Abhilfe schaffen. (&lt;a href="https://www.golem.de/specials/innovation-und-forschung/"&gt;Innovation &amp; Forschung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/greenit/"&gt;GreenIT&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210760&amp;amp;page=1&amp;amp;ts=1783692661" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Fri, 10 Jul 2026 14:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xavier Niel übernimmt von E&amp;: Vodafones Hauptaktionär verkauft alle Anteile</title>
-      <link>https://www.golem.de/news/xavier-niel-uebernimmt-von-e-vodafones-hauptaktionaer-verkauft-alle-anteile-2607-210761.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/xavier-niel-uebernimmt-von-e-vodafones-hauptaktionaer-verkauft-alle-anteile-2607-210761.html</guid>
-      <description>Die Vodafone Group steht vor einer ungewissen Zukunft. Der Telco-Milliardär Xavier Niel könnte den Konzern radikal umbauen. (&lt;a href="https://www.golem.de/specials/vodafone/"&gt;Vodafone&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/kabelnetz/"&gt;Kabelnetz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210761&amp;amp;page=1&amp;amp;ts=1783691705" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Fri, 10 Jul 2026 13:55:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
