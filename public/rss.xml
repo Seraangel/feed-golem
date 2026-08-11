@@ -6,7 +6,21 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Tue, 11 Aug 2026 05:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 06:30:35 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheit: DB Regio setzt Bodycams mit Tonaufzeichnung ein</title>
+      <link>https://www.golem.de/news/sicherheit-db-regio-setzt-bodycams-mit-tonaufzeichnung-ein-2608-211786.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-db-regio-setzt-bodycams-mit-tonaufzeichnung-ein-2608-211786.html</guid>
+      <description>Die DB Regio setzt in ihren Zügen nun Bodycams mit Audioaufnahme ein. Zunächst gibt es ein Pilotprojekt, dann die bundesweite Einführung. (&lt;a href="https://www.golem.de/specials/deutsche-bahn/"&gt;Deutsche Bahn&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/datenschutz/"&gt;Datenschutz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211786&amp;amp;page=1&amp;amp;ts=1786427822" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 05:57:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic: Claude markiert alles KI-generierte</title>
+      <link>https://www.golem.de/news/anthropic-claude-markiert-alles-ki-generierte-2608-211787.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anthropic-claude-markiert-alles-ki-generierte-2608-211787.html</guid>
+      <description>Anthropic will alle KI-Ausgaben mit Wasserzeichen markieren, um den Anforderungen des AI Acts zu entsprechen. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211787&amp;amp;page=1&amp;amp;ts=1786426502" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Tue, 11 Aug 2026 05:35:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft 365 DSGVO-konform betreiben</title>
       <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2608-211784.html</link>
@@ -6992,20 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/us-cyberbehoerde-echte-datenpanne-lehrt-cisa-umgang-mit-datenpannen-2607-210793.html</guid>
       <description>Monatelang standen geheime Daten der Cisa öffentlich auf Github. Jetzt gesteht die Behörde, ihre eigenen Empfehlungen nicht eingehalten zu haben. (&lt;a href="https://www.golem.de/specials/datenleck/"&gt;Datenleck&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210793&amp;amp;page=1&amp;amp;ts=1783933922" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Mon, 13 Jul 2026 09:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Mini-Beamer fällt bei Amazon auf rund 50 Euro</title>
-      <link>https://www.golem.de/news/anzeige-mini-beamer-faellt-bei-amazon-auf-rund-50-euro-2607-210783.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mini-beamer-faellt-bei-amazon-auf-rund-50-euro-2607-210783.html</guid>
-      <description>Bei Amazon gibt es derzeit den Magcubic HY300 Pro+ im Angebot. Der Mini-Beamer ist auf rund 50 Euro reduziert. (&lt;a href="https://www.golem.de/specials/projektor/"&gt;Beamer&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/heimkino/"&gt;Heimkino&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210783&amp;amp;page=1&amp;amp;ts=1783933321" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 09:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Playstation: EU greift bei Sonys Disc-Aus nicht ein</title>
-      <link>https://www.golem.de/news/playstation-eu-greift-bei-sonys-disc-aus-nicht-ein-2607-210792.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/playstation-eu-greift-bei-sonys-disc-aus-nicht-ein-2607-210792.html</guid>
-      <description>Die EU-Kommission sieht keinen Anlass, Sonys geplantes Aus für neue Playstation-Spiele auf Disc ab 2028 zu verhindern. (&lt;a href="https://www.golem.de/specials/playstation/"&gt;Playstation&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/sony/"&gt;Sony&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210792&amp;amp;page=1&amp;amp;ts=1783932902" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Mon, 13 Jul 2026 08:55:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
