@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Wed, 12 Aug 2026 11:33:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:28:43 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Kabellose Wetterstation mit Außensensor für 16,99 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-kabellose-wetterstation-mit-aussensensor-fuer-16-99-euro-bei-amazon-2608-211859.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kabellose-wetterstation-mit-aussensensor-fuer-16-99-euro-bei-amazon-2608-211859.html</guid>
+      <description>Eine kabellose Wetterstation zur Anzeige von Temperatur und Luftfeuchtigkeit im Innen- und Außenbereich gibt es zum Sparpreis bei Amazon. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211859&amp;amp;page=1&amp;amp;ts=1786537381" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 12:23:10 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Homeoffice vs. Büro in der IT: Wie hybrides Arbeiten 2026 organisiert werden sollte</title>
       <link>https://www.golem.de/news/homeoffice-vs-buero-in-der-it-wie-hybrides-arbeiten-2026-organisiert-werden-sollte-2608-211804.html</link>
@@ -22,7 +29,7 @@
       <pubDate>Wed, 12 Aug 2026 11:23:02 GMT</pubDate>
     </item>
     <item>
-      <title>Zero-Day-Lücke im Defender: Chaotic Eclipse leakt neuen Windows-Exploit</title>
+      <title>Lücke im Defender: Neuer Zero-Day-Exploit für Windows auf Github geleakt</title>
       <link>https://www.golem.de/news/zero-day-luecke-im-defender-chaotic-eclipse-leakt-neuen-windows-exploit-2608-211855.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/zero-day-luecke-im-defender-chaotic-eclipse-leakt-neuen-windows-exploit-2608-211855.html</guid>
       <description>Ein neuer Exploit namens Shieldbreak umgeht einen früheren Patch für den Microsoft Defender. Angreifer erhalten damit unter Windows Systemrechte. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211855&amp;amp;page=1&amp;amp;ts=1786533002" alt="" width="1" height="1" /&gt;</description>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobiler-router-von-gl-inet-mit-wi-fi-7-guenstig-wie-nie-bei-amazon-2607-210865.html</guid>
       <description>Der mobile Router GL.iNet MUDI 7 mit Tri-Band-Wi-Fi 7, 5G, VPN und 13,5-Stunden-Akku ist bei Amazon stark reduziert. (&lt;a href="https://www.golem.de/specials/router/"&gt;Router&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/netzwerk/"&gt;Netzwerk&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210865&amp;amp;page=1&amp;amp;ts=1784042702" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 14 Jul 2026 15:25:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Segway Navimow: Chinesischer Rasenroboter-Hersteller verkauft nicht in China</title>
-      <link>https://www.golem.de/news/segway-navimow-chinesischer-rasenroboter-hersteller-verkauft-nicht-in-china-2607-210868.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/segway-navimow-chinesischer-rasenroboter-hersteller-verkauft-nicht-in-china-2607-210868.html</guid>
-      <description>Ninebot verkauft seine Rasenmähroboter der Marke Segway Navimow nur im Ausland, besonders gern in Deutschland. In China sind Eigenheime mit Garten selten. (&lt;a href="https://www.golem.de/specials/maehroboter/"&gt;Mähroboter&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/segway/"&gt;Segway&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210868&amp;amp;page=1&amp;amp;ts=1784042282" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 15:18:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
