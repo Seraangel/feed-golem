@@ -6,7 +6,35 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Wed, 12 Aug 2026 10:44:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 11:33:35 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Homeoffice vs. Büro in der IT: Wie hybrides Arbeiten 2026 organisiert werden sollte</title>
+      <link>https://www.golem.de/news/homeoffice-vs-buero-in-der-it-wie-hybrides-arbeiten-2026-organisiert-werden-sollte-2608-211804.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/homeoffice-vs-buero-in-der-it-wie-hybrides-arbeiten-2026-organisiert-werden-sollte-2608-211804.html</guid>
+      <description>Homeoffice oder Büro - beides hat etwas für sich. Am besten ist eine Mischung. Wir geben Tipps für Entwicklerteams, damit das gut funktioniert. Ein Ratgebertext von Klaus Manhart (&lt;a href="https://www.golem.de/specials/return-to-office/"&gt;Return to Office&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/cloud-computing/"&gt;Cloud Computing&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211804&amp;amp;page=1&amp;amp;ts=1786534202" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 11:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Ergear-Monitorhalterung zum Sparpreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-ergear-monitorhalterung-zum-sparpreis-bei-amazon-2608-211851.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ergear-monitorhalterung-zum-sparpreis-bei-amazon-2608-211851.html</guid>
+      <description>Für mehr Platz auf dem Schreibtisch sorgt die Ergear-Monitorhalterung für Bildschirme bis 34 Zoll. Aktuell ist der Monitorarm bei Amazon stark reduziert. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211851&amp;amp;page=1&amp;amp;ts=1786533781" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 11:23:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zero-Day-Lücke im Defender: Chaotic Eclipse leakt neuen Windows-Exploit</title>
+      <link>https://www.golem.de/news/zero-day-luecke-im-defender-chaotic-eclipse-leakt-neuen-windows-exploit-2608-211855.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zero-day-luecke-im-defender-chaotic-eclipse-leakt-neuen-windows-exploit-2608-211855.html</guid>
+      <description>Ein neuer Exploit namens Shieldbreak umgeht einen früheren Patch für den Microsoft Defender. Angreifer erhalten damit unter Windows Systemrechte. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211855&amp;amp;page=1&amp;amp;ts=1786533002" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 11:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>KI-Zusammenfassungen nicht mitgezählt: Gemini erreicht über 1 Milliarde aktive Nutzer</title>
+      <link>https://www.golem.de/news/ki-zusammenfassungen-nicht-mitgezaehlt-gemini-erreicht-ueber-1-milliarde-aktive-nutzer-2608-211854.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-zusammenfassungen-nicht-mitgezaehlt-gemini-erreicht-ueber-1-milliarde-aktive-nutzer-2608-211854.html</guid>
+      <description>Die weite Verbreitung von Googles KI-Assistenten Gemini kostet den Konzern viel Geld und wertvolle Angestellte. (&lt;a href="https://www.golem.de/specials/gemini/"&gt;Gemini&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211854&amp;amp;page=1&amp;amp;ts=1786532282" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 10:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>Razer Naga V3 Pro: Monster-Spielemaus bietet bis zu 23 Tasten</title>
       <link>https://www.golem.de/news/razer-naga-v3-pro-monster-spielemaus-bietet-bis-zu-23-tasten-2608-211850.html</link>
@@ -36,7 +64,7 @@
       <pubDate>Wed, 12 Aug 2026 10:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>Kein Klick nötig: Lücke ermöglicht heimliche Schadcode-Attacken über Zoom-Meetings</title>
+      <title>Kein Klick nötig: Schadcode-Lücke gefährdet unzählige Zoom-Nutzer</title>
       <link>https://www.golem.de/news/kein-klick-noetig-luecke-ermoeglicht-heimliche-schadcode-attacken-ueber-zoom-meetings-2608-211845.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/kein-klick-noetig-luecke-ermoeglicht-heimliche-schadcode-attacken-ueber-zoom-meetings-2608-211845.html</guid>
       <description>Eine Sicherheitslücke in Zoom lässt Angreifer anderen Meeting-Teilnehmern unbemerkt Schadcode unterschieben. Nutzer sollten zügig updaten. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/videotelefonie/"&gt;Videotelefonie&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211845&amp;amp;page=1&amp;amp;ts=1786528141" alt="" width="1" height="1" /&gt;</description>
@@ -6978,34 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/segway-navimow-chinesischer-rasenroboter-hersteller-verkauft-nicht-in-china-2607-210868.html</guid>
       <description>Ninebot verkauft seine Rasenmähroboter der Marke Segway Navimow nur im Ausland, besonders gern in Deutschland. In China sind Eigenheime mit Garten selten. (&lt;a href="https://www.golem.de/specials/maehroboter/"&gt;Mähroboter&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/segway/"&gt;Segway&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210868&amp;amp;page=1&amp;amp;ts=1784042282" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 14 Jul 2026 15:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stellenabbau: Experten warnen vor Dominoeffekt bei VW-Entlassungen</title>
-      <link>https://www.golem.de/news/stellenabbau-experten-warnen-vor-dominoeffekt-bei-vw-entlassungen-2607-210869.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/stellenabbau-experten-warnen-vor-dominoeffekt-bei-vw-entlassungen-2607-210869.html</guid>
-      <description>Manche Experten erwarten bei VW weniger Stellenabbau als befürchtet. Doch die Sorge vor Dominoeffekten für die gesamte Wirtschaft bleibt bestehen. (&lt;a href="https://www.golem.de/specials/volkswagen/"&gt;VW&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210869&amp;amp;page=1&amp;amp;ts=1784041081" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Anker-USB-Hub bei Amazon für nur rund 20 Euro im Angebot</title>
-      <link>https://www.golem.de/news/anzeige-anker-usb-hub-bei-amazon-fuer-nur-rund-20-euro-im-angebot-2607-210860.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-anker-usb-hub-bei-amazon-fuer-nur-rund-20-euro-im-angebot-2607-210860.html</guid>
-      <description>Bei Amazon gibt es derzeit einen 7-in-1-USB-C-Hub von Anker zum Sonderpreis im Angebot. Er ist für rund 20 Euro erhältlich. (&lt;a href="https://www.golem.de/specials/amazon/"&gt;Amazon&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210860&amp;amp;page=1&amp;amp;ts=1784040602" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Philips Airfryer mit Doppelkammer zum Aktionspreis unter 180 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-philips-airfryer-mit-doppelkammer-zum-aktionspreis-unter-180-euro-bei-amazon-2607-210863.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-philips-airfryer-mit-doppelkammer-zum-aktionspreis-unter-180-euro-bei-amazon-2607-210863.html</guid>
-      <description>Schnell und günstig beste Snacks zaubern: Der Philips Airfryer gart in zwei Körben gleichzeitig und braucht so 45 Prozent weniger Platz. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/philips/"&gt;Philips&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210863&amp;amp;page=1&amp;amp;ts=1784040121" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Handyhalterung für Fahrrad und Motorrad für unter 18 Euro</title>
-      <link>https://www.golem.de/news/anzeige-handyhalterung-fuer-fahrrad-und-motorrad-fuer-unter-18-euro-2607-210862.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-handyhalterung-fuer-fahrrad-und-motorrad-fuer-unter-18-euro-2607-210862.html</guid>
-      <description>Die unter Amazon-Kunden beliebte Handyhalterung von Lamicall, unter anderem für Fahrrad und Motorrad, ist bei Amazon wieder günstiger verfügbar. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210862&amp;amp;page=1&amp;amp;ts=1784038802" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 14:20:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
