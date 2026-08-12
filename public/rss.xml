@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Wed, 12 Aug 2026 18:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 21:56:31 GMT</lastBuildDate>
+    <item>
+      <title>Sonnenfinsternis und Stromnetz: Nur eine kleine Delle in den Daten</title>
+      <link>https://www.golem.de/news/sonnenfinsternis-und-stromnetz-nur-eine-kleine-delle-in-den-daten-2608-211873.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sonnenfinsternis-und-stromnetz-nur-eine-kleine-delle-in-den-daten-2608-211873.html</guid>
+      <description>Die Sonnenfinsternis hat sich nur geringfügig auf die Stromproduktion durch Solarenergie ausgewirkt. In einem Jahr könnte der Effekt größer sein. (&lt;a href="https://www.golem.de/specials/solarenergie/"&gt;Solarenergie&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/kuehlung/"&gt;Kühlung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211873&amp;amp;page=1&amp;amp;ts=1786570982" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 21:43:05 GMT</pubDate>
+    </item>
     <item>
       <title>Flugtaxis: Hochenergetische Flugzeugbatterie von CATL geht in Serie</title>
       <link>https://www.golem.de/news/flugtaxis-hochenergetische-flugzeugbatterie-von-catl-geht-in-serie-2608-211876.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-praezisions-loetkolben-set-im-angebot-zum-jahrestiefpreis-nur-rund-57-euro-bei-amazon-2607-210884.html</guid>
       <description>Der Fanttik T1 Max bietet kabellosen Betrieb, kurze Aufheizzeit, sechs Stufen und war dieses Jahr bei Amazon noch nicht günstiger. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/computer/"&gt;Computer&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210884&amp;amp;page=1&amp;amp;ts=1784104741" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 15 Jul 2026 08:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smart Home: OpenAI baut angeblich einen mobilen KI-Lautsprecher</title>
-      <link>https://www.golem.de/news/smart-home-openai-baut-angeblich-einen-mobilen-ki-lautsprecher-2607-210880.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smart-home-openai-baut-angeblich-einen-mobilen-ki-lautsprecher-2607-210880.html</guid>
-      <description>Ein akkubetriebener Smartspeaker soll OpenAIs Hardware für das KI-Zeitalter sein. Eine Klage von Apple könnte die Pläne durchkreuzen. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210880&amp;amp;page=1&amp;amp;ts=1784104081" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 08:28:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
