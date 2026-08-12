@@ -6,7 +6,14 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Wed, 12 Aug 2026 17:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:07:39 GMT</lastBuildDate>
+    <item>
+      <title>Flugtaxis: Hochenergetische Flugzeugbatterie von CATL geht in Serie</title>
+      <link>https://www.golem.de/news/flugtaxis-hochenergetische-flugzeugbatterie-von-catl-geht-in-serie-2608-211876.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/flugtaxis-hochenergetische-flugzeugbatterie-von-catl-geht-in-serie-2608-211876.html</guid>
+      <description>Für den Antrieb von Flugtaxis hat CATL einen Akku mit besonders hoher Energiedichte entwickelt. Einen ersten Kunden gibt es schon. (&lt;a href="https://www.golem.de/specials/lufttaxi/"&gt;Lufttaxi&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/luftfahrt/"&gt;Luftfahrt&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211876&amp;amp;page=1&amp;amp;ts=1786554662" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 17:11:08 GMT</pubDate>
+    </item>
     <item>
       <title>Telefon-Box: Telekom ersetzt analoge Festnetznutzung durch LTE</title>
       <link>https://www.golem.de/news/telefon-box-telekom-ersetzt-analoge-festnetznutzung-durch-lte-2608-211875.html</link>
@@ -6999,13 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smart-home-openai-baut-angeblich-einen-mobilen-ki-lautsprecher-2607-210880.html</guid>
       <description>Ein akkubetriebener Smartspeaker soll OpenAIs Hardware für das KI-Zeitalter sein. Eine Klage von Apple könnte die Pläne durchkreuzen. (&lt;a href="https://www.golem.de/specials/openai/"&gt;OpenAI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210880&amp;amp;page=1&amp;amp;ts=1784104081" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 15 Jul 2026 08:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Entlassungswelle: Meta soll KI für Kündigung eingeschränkt arbeitender Angestellter verwendet haben</title>
-      <link>https://www.golem.de/news/entlassungswelle-meta-soll-ki-fuer-kuendigung-eingeschraenkt-arbeitender-angestellter-verwendet-haben-2607-210882.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/entlassungswelle-meta-soll-ki-fuer-kuendigung-eingeschraenkt-arbeitender-angestellter-verwendet-haben-2607-210882.html</guid>
-      <description>26 Meta-Angestellte haben nach Krankheit oder Geburten nur eingeschränkt gearbeitet und wurden trotzdem gekündigt - dank KI? (&lt;a href="https://www.golem.de/specials/meta/"&gt;Meta&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210882&amp;amp;page=1&amp;amp;ts=1784103541" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 15 Jul 2026 08:19:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
