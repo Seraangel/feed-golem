@@ -6,7 +6,56 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <golem:itemCount>1000</golem:itemCount>
-    <lastBuildDate>Wed, 12 Aug 2026 06:59:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 08:25:23 GMT</lastBuildDate>
+    <item>
+      <title>Softwareentwicklung mit KI: Die Magie ist weg</title>
+      <link>https://www.golem.de/news/softwareentwicklung-mit-ki-die-magie-ist-weg-2608-210704.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-mit-ki-die-magie-ist-weg-2608-210704.html</guid>
+      <description>Mit sieben Jahren habe ich mit dem Programmieren angefangen. Jetzt bin ich 50 und diese Sache, die ich so liebe, hat sich verändert. Von James Randall (&lt;a href="https://www.golem.de/specials/softwareentwicklung/"&gt;Softwareentwicklung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210704&amp;amp;page=1&amp;amp;ts=1786522861" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 08:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>IT-Sicherheit: Studie zeigt hohe Klickraten durch KI-Spear-Phishing</title>
+      <link>https://www.golem.de/news/it-sicherheit-studie-zeigt-hohe-klickraten-durch-ki-spear-phishing-2608-211839.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-studie-zeigt-hohe-klickraten-durch-ki-spear-phishing-2608-211839.html</guid>
+      <description>Ein Experiment mit 7.700 Personen belegt: KI-gestützte Personalisierung verdreifacht die Erfolgsquote von Phishing-E-Mails. (&lt;a href="https://www.golem.de/specials/phishing/"&gt;Phishing&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/studie/"&gt;Studien&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211839&amp;amp;page=1&amp;amp;ts=1786522201" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 08:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox und Thunderbird: Datenpanne zwingt Mozilla zum Schlüsseltausch</title>
+      <link>https://www.golem.de/news/firefox-und-thunderbird-datenpanne-zwingt-mozilla-zum-schluesseltausch-2608-211841.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/firefox-und-thunderbird-datenpanne-zwingt-mozilla-zum-schluesseltausch-2608-211841.html</guid>
+      <description>Ein Signaturschlüssel für bestimmte Releases von Firefox und Thunderbird wurde im Klartext bei Github hochgeladen. Einige Linux-Nutzer müssen handeln. (&lt;a href="https://www.golem.de/specials/mozilla/"&gt;Mozilla&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/firefox/"&gt;Firefox&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211841&amp;amp;page=1&amp;amp;ts=1786521481" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 07:58:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Streaming: Youtube macht es neuen Kanälen schwerer</title>
+      <link>https://www.golem.de/news/streaming-youtube-macht-es-neuen-kanaelen-deutlich-schwerer-2608-211840.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/streaming-youtube-macht-es-neuen-kanaelen-deutlich-schwerer-2608-211840.html</guid>
+      <description>Neue Kanäle müssen künftig auf Youtube doppelt so viel Watchtime erreichen, bevor sie an Werbeeinnahmen beteiligt werden. (&lt;a href="https://www.golem.de/specials/youtube/"&gt;Youtube&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211840&amp;amp;page=1&amp;amp;ts=1786521002" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 07:50:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neptun Deep: Russische Drohnen stürzen nahe rumänischem Gasfeld ab</title>
+      <link>https://www.golem.de/news/neptun-deep-russische-drohnen-stuerzen-nahe-rumaenischem-gasfeld-ab-2608-211835.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/neptun-deep-russische-drohnen-stuerzen-nahe-rumaenischem-gasfeld-ab-2608-211835.html</guid>
+      <description>Die rumänische Marine hat zwei russische Gerbera-Drohnen in der Nähe eines Gasfeldes geborgen und gesprengt. (&lt;a href="https://www.golem.de/specials/drohne/"&gt;Drohne&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/politik-recht/"&gt;Politik&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211835&amp;amp;page=1&amp;amp;ts=1786520042" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 07:34:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Retro-Word: Entwickler bringt Word 1.1 von 1990 für modernes Windows</title>
+      <link>https://www.golem.de/news/retro-word-entwickler-bringt-word-1-1-von-1990-fuer-modernes-windows-2608-211838.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/retro-word-entwickler-bringt-word-1-1-von-1990-fuer-modernes-windows-2608-211838.html</guid>
+      <description>Das Textverarbeitungsprogramm enthält alle klassischen GUI-Elemente aus den 90ern und basiert auf dem Original für Windows 3.0. (&lt;a href="https://www.golem.de/specials/office/"&gt;Office&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211838&amp;amp;page=1&amp;amp;ts=1786518782" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 07:13:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Big Bang: Umsetzung von Energiesparplan für Voyager-2 geglückt</title>
+      <link>https://www.golem.de/news/big-bang-umsetzung-von-energiesparplan-fuer-voyager-2-geglueckt-2608-211832.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/big-bang-umsetzung-von-energiesparplan-fuer-voyager-2-geglueckt-2608-211832.html</guid>
+      <description>Die Nasa hat bei Voyager-2 einen Energiesparplan umgesetzt, um die verbleibenden wissenschaftlichen Instrumente weiter zu betreiben. (&lt;a href="https://www.golem.de/specials/nasa/"&gt;Nasa&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/raumfahrt/"&gt;Raumfahrt&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211832&amp;amp;page=1&amp;amp;ts=1786518302" alt="" width="1" height="1" /&gt;</description>
+      <pubDate>Wed, 12 Aug 2026 07:05:04 GMT</pubDate>
+    </item>
     <item>
       <title>Auch in Europa: Nordkoreanische Hacker attackieren Windows-Nutzer</title>
       <link>https://www.golem.de/news/auch-in-europa-nordkoreanische-hacker-attackieren-windows-nutzer-2608-211834.html</link>
@@ -218,7 +267,7 @@
       <pubDate>Tue, 11 Aug 2026 10:53:08 GMT</pubDate>
     </item>
     <item>
-      <title>Sonnenfinsternis beobachten: Zwei Blatt Papier statt SoFi-Brille</title>
+      <title>Sonnenfinsternis beobachten: Zwei Blatt Papier statt Sofi-Brille</title>
       <link>https://www.golem.de/news/sonnenfinsternis-so-gelingt-die-sichere-beobachtung-auch-ohne-sofi-brille-2608-211805.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/sonnenfinsternis-so-gelingt-die-sichere-beobachtung-auch-ohne-sofi-brille-2608-211805.html</guid>
       <description>Fast komplett wird der Mond die Sonne bedecken. Ohne Schutz darf das Naturphänomen keinesfalls beobachtet werden, aber es gibt eine einfache Lösung. Von Mario Petzold (&lt;a href="https://www.golem.de/specials/sonne/"&gt;Sonne&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/diy-do-it-yourself/"&gt;DIY - Do it yourself&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211805&amp;amp;page=1&amp;amp;ts=1786444862" alt="" width="1" height="1" /&gt;</description>
@@ -6957,55 +7006,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-shokz-sportkopfhoerer-bis-zu-30-euro-guenstiger-2607-210848.html</guid>
       <description>Normale In-Ears blockieren beim Sport wichtige Verkehrsgeräusche. Amazon reduziert sichere Knochenschall-Kopfhörer von SHOKZ massiv im Preis. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210848&amp;amp;page=1&amp;amp;ts=1784026562" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 14 Jul 2026 10:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unternehmens-IT: Einsatz von agentischer KI birgt hohes Risiko für Firmen</title>
-      <link>https://www.golem.de/news/unternehmens-it-einsatz-von-agentischer-ki-birgt-hohes-risiko-fuer-firmen-2607-210849.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/unternehmens-it-einsatz-von-agentischer-ki-birgt-hohes-risiko-fuer-firmen-2607-210849.html</guid>
-      <description>Laut einem Experten kann durch den unkontrollierten Umgang eine Schatten-IT entstehen. Cyberkriminelle nutzen KI-Agenten, um Systeme zu scannen. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210849&amp;amp;page=1&amp;amp;ts=1784026322" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:52:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone und Co.: Apple veröffentlicht Public Betas von iOS 27 und MacOS 27</title>
-      <link>https://www.golem.de/news/iphone-und-co-apple-veroeffentlicht-public-betas-von-ios-27-und-macos-27-2607-210847.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/iphone-und-co-apple-veroeffentlicht-public-betas-von-ios-27-und-macos-27-2607-210847.html</guid>
-      <description>Die neuen Betriebssysteme von Apple sind da - zumindest zum Ausprobieren: Vor dem Start im September kommen jetzt die öffentlichen Betas. (&lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/betriebssystem/"&gt;Betriebssysteme&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210847&amp;amp;page=1&amp;amp;ts=1784025542" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Onlineshopping und Versand: DHL fordert für Pakete ein Maximalgewicht von 23 kg</title>
-      <link>https://www.golem.de/news/onlineshopping-und-versand-dhl-fordert-fuer-pakete-ein-maximalgewicht-von-23-kg-2607-210846.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/onlineshopping-und-versand-dhl-fordert-fuer-pakete-ein-maximalgewicht-von-23-kg-2607-210846.html</guid>
-      <description>DHL nimmt für den Versand noch immer Pakete mit einem Gewicht von bis zu 31,5 kg an. So ist es auch bei der Konkurrenz. (&lt;a href="https://www.golem.de/specials/dhl/"&gt;DHL&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/onlineshop/"&gt;Onlineshop&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210846&amp;amp;page=1&amp;amp;ts=1784024882" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Batterieherstellung: Drohender Preisverfall bei Batterien durch Überproduktion</title>
-      <link>https://www.golem.de/news/batterieherstellung-drohender-preisverfall-bei-batterien-durch-ueberproduktion-2607-210844.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/batterieherstellung-drohender-preisverfall-bei-batterien-durch-ueberproduktion-2607-210844.html</guid>
-      <description>Setzt sich die Entwicklung fort, werden in wenigen Jahren doppelt so viele Akkumulatoren hergestellt wie benötigt - wie zuletzt bei Solarzellen. (&lt;a href="https://www.golem.de/specials/akku/"&gt;Akku&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/lg-electronics/"&gt;LG&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210844&amp;amp;page=1&amp;amp;ts=1784024042" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacOS 27 Public Beta: Rasant, wenig neue Features und hakelige KI</title>
-      <link>https://www.golem.de/news/macos-27-public-beta-rasant-wenig-neue-features-und-hakelige-ki-2607-210528.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/macos-27-public-beta-rasant-wenig-neue-features-und-hakelige-ki-2607-210528.html</guid>
-      <description>Mit der Public Beta von MacOS 27 wird das Betriebssystem schneller. Neue Features muss man aber mit der Lupe suchen. Ein Test von Christian Rentrop (&lt;a href="https://www.golem.de/specials/macos/"&gt;MacOS&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/apple/"&gt;Apple&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210528&amp;amp;page=1&amp;amp;ts=1784023201" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 10:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Temperatur grenzwertig: User verwirrt über rot leuchtende Steam Machine</title>
-      <link>https://www.golem.de/news/temperatur-grenzwertig-user-verwirrt-ueber-rot-leuchtende-steam-machine-2607-210843.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/temperatur-grenzwertig-user-verwirrt-ueber-rot-leuchtende-steam-machine-2607-210843.html</guid>
-      <description>Die Steam Machine leuchtet durch einen Fehler im Bios viel zu früh rot. Valve arbeitet an einem Fix. (&lt;a href="https://www.golem.de/specials/steam-machine/"&gt;Steam Machine&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/steam/"&gt;Steam&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210843&amp;amp;page=1&amp;amp;ts=1784022601" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 09:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Häftling droht Strafverlängerung: Krypto-Diebstahl aus der Gefängniszelle</title>
-      <link>https://www.golem.de/news/vom-gefaengnis-aus-haeftling-soll-sich-an-krypto-diebstahl-beteiligt-haben-2607-210839.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vom-gefaengnis-aus-haeftling-soll-sich-an-krypto-diebstahl-beteiligt-haben-2607-210839.html</guid>
-      <description>Ein bereits wegen Geldwäsche verurteilter Mann soll aus der Haft heraus mit mehreren Komplizen beschlagnahmte Krypto-Coins gestohlen und gewaschen haben. (&lt;a href="https://www.golem.de/specials/cybercrime/"&gt;Cybercrime&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/security/"&gt;Security&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210839&amp;amp;page=1&amp;amp;ts=1784021882" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 14 Jul 2026 09:38:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
