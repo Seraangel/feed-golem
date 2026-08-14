@@ -38,6 +38,13 @@ anschließend folgender, sommerzeitfester Zeitplan in `Europe/Berlin`:
 
 Die einmalige Einrichtung steht in [`cloudflare-scheduler/README.md`](cloudflare-scheduler/README.md). Die Python-Logik, die SQLite-Datenbank, die Git-Backups und GitHub Pages bleiben unverändert.
 
+## Monatliche Tags
+
+Beim ersten erfolgreichen Lauf am Monatsersten erstellt der Workflow einen
+annotierten Tag im Format `YYYY.MM`, zum Beispiel `2026.08`. Der Tag verweist
+auf den aktuellen Stand von `main` und wird in der Zeitzone `Europe/Berlin`
+bestimmt.
+
 ## Gespeicherte Daten
 
 Die SQLite-Datenbank `data/articles.sqlite` speichert nur Metadaten aus dem offiziellen Golem-Feed:
