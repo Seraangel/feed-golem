@@ -1,0 +1,6 @@
+name = "feed-ftip-scheduler"
+main = "src/index.js"
+compatibility_date = "2026-08-14"
+
+[triggers]
+crons = ["*/5 * * * *"]

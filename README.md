@@ -26,13 +26,15 @@ Im `channel`-Kopf steht außerdem `golem:itemCount` mit der Anzahl der tatsächl
 
 ## Zeitplan
 
-Der Workflow verwendet folgenden Cron-Ausdruck:
+Der interne GitHub-`schedule`-Trigger wird nicht verwendet, da GitHub geplante Läufe bei hoher Last verzögern oder verwerfen kann. Ein kostenloser Cloudflare Worker in [`cloudflare-scheduler`](cloudflare-scheduler) löst den Workflow stattdessen per GitHub `repository_dispatch` aus.
+
+Der Cloudflare Worker verwendet folgenden Cron-Ausdruck:
 
 ```text
 */5 * * * *
 ```
 
-Geplante GitHub-Actions-Läufe erfolgen in UTC und können bei hoher Auslastung verzögert werden.
+Die einmalige Einrichtung steht in [`cloudflare-scheduler/README.md`](cloudflare-scheduler/README.md). Die Python-Logik, die SQLite-Datenbank, die Git-Backups und GitHub Pages bleiben unverändert.
 
 ## Gespeicherte Daten
 

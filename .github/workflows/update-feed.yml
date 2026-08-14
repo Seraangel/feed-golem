@@ -3,8 +3,8 @@ name: Update Golem RSS
 on:
   push:
     branches: [main]
-  schedule:
-    - cron: "*/5 * * * *"
+  repository_dispatch:
+    types: [cloudflare-feed-tick]
   workflow_dispatch:
 
 permissions:
