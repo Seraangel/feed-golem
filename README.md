@@ -28,10 +28,12 @@ Im `channel`-Kopf steht außerdem `golem:itemCount` mit der Anzahl der tatsächl
 
 Der interne GitHub-`schedule`-Trigger wird nicht verwendet, da GitHub geplante Läufe bei hoher Last verzögern oder verwerfen kann. Ein kostenloser Cloudflare Worker in [`cloudflare-scheduler`](cloudflare-scheduler) löst den Workflow stattdessen per GitHub `repository_dispatch` aus.
 
-Der Cloudflare Worker verwendet folgenden Cron-Ausdruck:
+Der Cloudflare Worker wird alle fünf Minuten (UTC) aufgerufen. Im Worker gilt
+anschließend folgender, sommerzeitfester Zeitplan in `Europe/Berlin`:
 
 ```text
-*/5 * * * *
+06:00–22:55  alle fünf Minuten
+23:00–05:59  nur zur vollen Stunde
 ```
 
 Die einmalige Einrichtung steht in [`cloudflare-scheduler/README.md`](cloudflare-scheduler/README.md). Die Python-Logik, die SQLite-Datenbank, die Git-Backups und GitHub Pages bleiben unverändert.

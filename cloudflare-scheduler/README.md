@@ -24,7 +24,12 @@ and GitHub Pages deployment remain unchanged.
    It should return `{ "status": "ok" }`.
 
 Cloudflare invokes the Worker's `scheduled()` handler every five minutes (UTC).
-Each invocation sends GitHub a `repository_dispatch` event named
+The Worker sends GitHub a `repository_dispatch` event every five minutes from
+06:00 through 22:55, and once per hour from 23:00 through 05:59, in the
+`Europe/Berlin` time zone. This keeps the overnight rule correct across daylight
+saving-time changes.
+
+Each dispatch event is named
 `cloudflare-feed-tick`, which triggers `.github/workflows/update-feed.yml`.
 
 ## Operations

@@ -5,6 +5,24 @@
 
 const GITHUB_DISPATCH_URL =
   "https://api.github.com/repos/Seraangel/feed-ftip/dispatches";
+const BERLIN_TIME = new Intl.DateTimeFormat("en-GB", {
+  timeZone: "Europe/Berlin",
+  hour: "2-digit",
+  minute: "2-digit",
+  hourCycle: "h23",
+});
+
+function shouldDispatch(scheduledTime) {
+  const values = Object.fromEntries(
+    BERLIN_TIME.formatToParts(scheduledTime)
+      .filter(({ type }) => type === "hour" || type === "minute")
+      .map(({ type, value }) => [type, Number(value)]),
+  );
+  const overnight = values.hour >= 23 || values.hour < 6;
+
+  // During 23:00–05:59 in Berlin, request one update on each full hour.
+  return !overnight || values.minute === 0;
+}
 
 async function dispatchFeedUpdate(token) {
   if (!token) {
@@ -31,7 +49,10 @@ async function dispatchFeedUpdate(token) {
 }
 
 export default {
-  async scheduled(_controller, env, ctx) {
+  async scheduled(controller, env, ctx) {
+    if (!shouldDispatch(new Date(controller.scheduledTime))) {
+      return;
+    }
     ctx.waitUntil(dispatchFeedUpdate(env.GITHUB_TOKEN));
   },
 

@@ -3,4 +3,6 @@ main = "src/index.js"
 compatibility_date = "2026-08-14"
 
 [triggers]
+# The Worker applies the Europe/Berlin overnight policy in code. Keeping this
+# trigger in UTC avoids a DST-dependent cron configuration.
 crons = ["*/5 * * * *"]
