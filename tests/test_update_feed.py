@@ -6,7 +6,7 @@ import unittest
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-from scripts.update_feed import ATOM, RSS_URL, build_rss, ensure_schema, extract_articles, load_feed_items, upsert_articles, write_if_changed
+from scripts.update_feed import ATOM, GOLEM_ICON_URL, RSS_URL, build_rss, ensure_schema, extract_articles, load_feed_items, upsert_articles, write_if_changed
 
 
 SAMPLE_ATOM = b'''<?xml version="1.0"?>
@@ -39,6 +39,8 @@ class UpdateFeedTests(unittest.TestCase):
             channel.find(f"{ATOM}link").attrib,
             {"href": RSS_URL, "rel": "self", "type": "application/rss+xml"},
         )
+        self.assertEqual(channel.findtext("image/url"), GOLEM_ICON_URL)
+        self.assertEqual(channel.findtext("image/title"), "Golem.de")
         self.assertEqual(channel.findtext("item/description"), "Eine Zusammenfassung.")
 
     def test_write_paths_can_be_created_in_temp_dir(self) -> None:

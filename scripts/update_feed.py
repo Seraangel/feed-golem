@@ -22,6 +22,7 @@ USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101
 ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 ATOM = f"{{{ATOM_NAMESPACE}}}"
 RSS_URL = "https://seraangel.github.io/feed-golem/rss.xml"
+GOLEM_ICON_URL = "https://www.golem.de/staticrl/images/Golem-Logo-black-small.png"
 ET.register_namespace("atom", ATOM_NAMESPACE)
 
 
@@ -173,6 +174,10 @@ def build_rss(items: list[sqlite3.Row]) -> bytes:
         f"{ATOM}link",
         {"href": RSS_URL, "rel": "self", "type": "application/rss+xml"},
     )
+    image = ET.SubElement(channel, "image")
+    add_text(image, "url", GOLEM_ICON_URL)
+    add_text(image, "title", "Golem.de")
+    add_text(image, "link", "https://www.golem.de/")
     if items:
         add_text(channel, "lastBuildDate", format_datetime(max(iso_datetime(row["updated_at"]) for row in items), usegmt=True))
     for row in items:

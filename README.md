@@ -22,7 +22,7 @@ https://Seraangel.github.io/feed-golem/rss.xml
 
 Die erzeugte `rss.xml` enthält bis zu 1000 der neuesten gespeicherten Artikel. Sind weniger als 1000 Artikel in der SQLite-Datenbank vorhanden, enthält sie entsprechend weniger Einträge. GitHub Pages ist statisch: Query-Parameter können die Feed-Größe nicht verändern.
 
-Der `channel`-Kopf enthält einen standardkonformen Atom-Self-Link auf die veröffentlichte RSS-Datei. Artikelbeschreibungen werden als Klartext ausgegeben, damit eingebettetes Quell-HTML die RSS-Kompatibilität nicht beeinträchtigt.
+Der `channel`-Kopf enthält einen standardkonformen Atom-Self-Link auf die veröffentlichte RSS-Datei sowie das von Golem bereitgestellte kleine Logo über das RSS-Standardfeld `image`. Artikelbeschreibungen werden als Klartext ausgegeben, damit eingebettetes Quell-HTML die RSS-Kompatibilität nicht beeinträchtigt.
 
 ## Zeitplan
 
