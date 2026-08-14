@@ -9,6 +9,7 @@ import sys
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from email.utils import format_datetime
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Iterable
 from xml.etree import ElementTree as ET
@@ -20,9 +21,8 @@ SOURCE_URL = "https://rss.golem.de/rss.php?feed=ATOM1.0"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0"
 ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 ATOM = f"{{{ATOM_NAMESPACE}}}"
-FEED_NAMESPACE = "https://github.com/Seraangel/feed-golem/ns/1.0"
-FEED = f"{{{FEED_NAMESPACE}}}"
-ET.register_namespace("golem", FEED_NAMESPACE)
+RSS_URL = "https://seraangel.github.io/feed-golem/rss.xml"
+ET.register_namespace("atom", ATOM_NAMESPACE)
 
 
 @dataclass(frozen=True)
@@ -33,8 +33,29 @@ class Article:
     published_at: str | None
 
 
+class PlainTextExtractor(HTMLParser):
+    """Extract readable text from the HTML fragments embedded in Atom summaries."""
+
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.parts: list[str] = []
+
+    def handle_data(self, data: str) -> None:
+        self.parts.append(data)
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        if tag in {"br", "div", "li", "p"}:
+            self.parts.append(" ")
+
+    def text(self) -> str:
+        return "".join(self.parts)
+
+
 def clean_text(value: str | None) -> str:
-    return " ".join((value or "").split())
+    parser = PlainTextExtractor()
+    parser.feed(value or "")
+    parser.close()
+    return " ".join(parser.text().split())
 
 
 def parse_datetime(value: str | None) -> str | None:
@@ -147,7 +168,11 @@ def build_rss(items: list[sqlite3.Row]) -> bytes:
     add_text(channel, "link", "https://www.golem.de/")
     add_text(channel, "description", "Aktuelle Artikel von Golem.de.")
     add_text(channel, "language", "de-DE")
-    add_text(channel, f"{FEED}itemCount", str(len(items)))
+    ET.SubElement(
+        channel,
+        f"{ATOM}link",
+        {"href": RSS_URL, "rel": "self", "type": "application/rss+xml"},
+    )
     if items:
         add_text(channel, "lastBuildDate", format_datetime(max(iso_datetime(row["updated_at"]) for row in items), usegmt=True))
     for row in items:

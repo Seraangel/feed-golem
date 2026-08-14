@@ -6,13 +6,13 @@ import unittest
 from pathlib import Path
 from xml.etree import ElementTree as ET
 
-from scripts.update_feed import FEED, build_rss, ensure_schema, extract_articles, load_feed_items, upsert_articles, write_if_changed
+from scripts.update_feed import ATOM, RSS_URL, build_rss, ensure_schema, extract_articles, load_feed_items, upsert_articles, write_if_changed
 
 
 SAMPLE_ATOM = b'''<?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Golem.de</title>
-  <entry><title>Erster Artikel</title><link href="https://www.golem.de/news/first-123.html"/><summary>Eine Zusammenfassung.</summary><published>2026-07-10T12:00:00Z</published></entry>
+  <entry><title>Erster Artikel</title><link href="https://www.golem.de/news/first-123.html"/><summary>Eine &lt;b&gt;Zusammenfassung&lt;/b&gt;.</summary><published>2026-07-10T12:00:00Z</published></entry>
   <entry><title>Zweiter Artikel</title><link href="https://www.golem.de/news/second-456.html"/><content>Weitere Details.</content><updated>2026-07-09T12:00:00+00:00</updated></entry>
 </feed>'''
 
@@ -25,7 +25,7 @@ class UpdateFeedTests(unittest.TestCase):
         self.assertEqual(articles[1].summary, "Weitere Details.")
         self.assertEqual(articles[0].published_at, "2026-07-10T12:00:00+00:00")
 
-    def test_upsert_is_stable_and_rss_uses_golem_metadata(self) -> None:
+    def test_upsert_is_stable_and_rss_uses_standard_metadata(self) -> None:
         articles = extract_articles(SAMPLE_ATOM)
         with sqlite3.connect(":memory:") as connection:
             ensure_schema(connection)
@@ -35,7 +35,11 @@ class UpdateFeedTests(unittest.TestCase):
         channel = rss.find("channel")
         self.assertEqual(channel.findtext("title"), "Golem.de")
         self.assertEqual(len(channel.findall("item")), 2)
-        self.assertEqual(channel.findtext(f"{FEED}itemCount"), "2")
+        self.assertEqual(
+            channel.find(f"{ATOM}link").attrib,
+            {"href": RSS_URL, "rel": "self", "type": "application/rss+xml"},
+        )
+        self.assertEqual(channel.findtext("item/description"), "Eine Zusammenfassung.")
 
     def test_write_paths_can_be_created_in_temp_dir(self) -> None:
         with tempfile.TemporaryDirectory() as directory:
