@@ -6,6 +6,11 @@
     <description>Aktuelle Artikel von Golem.de.</description>
     <language>de-DE</language>
     <atom:link href="https://seraangel.github.io/feed-golem/rss.xml" rel="self" type="application/rss+xml" />
+    <image>
+      <url>https://www.golem.de/staticrl/images/Golem-Logo-black-small.png</url>
+      <title>Golem.de</title>
+      <link>https://www.golem.de/</link>
+    </image>
     <lastBuildDate>Fri, 14 Aug 2026 20:55:54 GMT</lastBuildDate>
     <item>
       <title>Anzeige: Tintenfreier Etikettendrucker mit Bluetooth-Funktionen für unter 29 Euro bei Amazon</title>
