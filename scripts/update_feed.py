@@ -216,15 +216,15 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--db", type=Path, default=Path("data/articles.sqlite"))
     parser.add_argument("--out", type=Path, default=Path("public/rss.xml"))
-    parser.add_argument("--limit", type=int, default=1000)
+    parser.add_argument("--limit", type=int, default=200)
     parser.add_argument("--timeout", type=int, default=30)
     return parser.parse_args()
 
 
 def main() -> int:
     args = parse_args()
-    if args.limit < 1 or args.limit > 1000:
-        print("--limit must be between 1 and 1000.", file=sys.stderr)
+    if args.limit < 1 or args.limit > 200:
+        print("--limit must be between 1 and 200.", file=sys.stderr)
         return 2
     try:
         found, changed_rows, rss_changed = update_feed(args.db, args.out, args.limit, args.timeout)

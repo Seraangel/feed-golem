@@ -9,7 +9,7 @@ Der GitHub-Workflow ruft `https://rss.golem.de/rss.php?feed=ATOM1.0` alle fünf 
 ```powershell
 python -m pip install -r requirements.txt
 python -m unittest discover -s tests -p "test_*.py"
-python scripts/update_feed.py --db data/articles.sqlite --out public/rss.xml --limit 1000
+python scripts/update_feed.py --db data/articles.sqlite --out public/rss.xml --limit 200
 ```
 
 ## GitHub Pages
@@ -20,7 +20,7 @@ Aktiviere für dieses Repository GitHub Pages mit **GitHub Actions** als Quelle.
 https://Seraangel.github.io/feed-golem/rss.xml
 ```
 
-Die erzeugte `rss.xml` enthält bis zu 1000 der neuesten gespeicherten Artikel. Sind weniger als 1000 Artikel in der SQLite-Datenbank vorhanden, enthält sie entsprechend weniger Einträge. GitHub Pages ist statisch: Query-Parameter können die Feed-Größe nicht verändern.
+Die erzeugte `rss.xml` enthält bis zu 200 der neuesten gespeicherten Artikel. Sind weniger als 200 Artikel in der SQLite-Datenbank vorhanden, enthält sie entsprechend weniger Einträge. GitHub Pages ist statisch: Query-Parameter können die Feed-Größe nicht verändern.
 
 Der `channel`-Kopf enthält einen standardkonformen Atom-Self-Link auf die veröffentlichte RSS-Datei sowie das von Golem bereitgestellte kleine Logo über das RSS-Standardfeld `image`. Artikelbeschreibungen werden als Klartext ausgegeben, damit eingebettetes Quell-HTML die RSS-Kompatibilität nicht beeinträchtigt.
 

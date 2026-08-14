@@ -31,7 +31,7 @@ class UpdateFeedTests(unittest.TestCase):
             ensure_schema(connection)
             self.assertEqual(upsert_articles(connection, articles, "2026-07-11T10:00:00+00:00"), 2)
             self.assertEqual(upsert_articles(connection, articles, "2026-07-11T10:15:00+00:00"), 0)
-            rss = ET.fromstring(build_rss(load_feed_items(connection, 1000)))
+            rss = ET.fromstring(build_rss(load_feed_items(connection, 200)))
         channel = rss.find("channel")
         self.assertEqual(channel.findtext("title"), "Golem.de")
         self.assertEqual(len(channel.findall("item")), 2)

@@ -35,7 +35,7 @@ jobs:
       - name: Run tests
         run: python -m unittest discover -s tests -p "test_*.py"
       - name: Update feed
-        run: python scripts/update_feed.py --db data/articles.sqlite --out public/rss.xml --limit 1000
+        run: python scripts/update_feed.py --db data/articles.sqlite --out public/rss.xml --limit 200
       - name: Detect feed changes
         id: feed-changes
         run: |
