@@ -20,7 +20,7 @@ and GitHub Pages deployment remain unchanged.
    Paste the GitHub token only when Wrangler asks for the secret. Do not put it
    in this repository or in `wrangler.toml`.
 
-3. Open `https://feed-ftip-scheduler.<your-workers-subdomain>.workers.dev/healthz`.
+3. Open `https://feed-golem-scheduler.<your-workers-subdomain>.workers.dev/healthz`.
    It should return `{ "status": "ok" }`.
 
 Cloudflare invokes the Worker's `scheduled()` handler every five minutes (UTC).
@@ -34,7 +34,7 @@ Each dispatch event is named
 
 ## Operations
 
-- Cloudflare Dashboard -> Workers & Pages -> `feed-ftip-scheduler` shows Cron
+- Cloudflare Dashboard -> Workers & Pages -> `feed-golem-scheduler` shows Cron
   Trigger executions and logs.
 - GitHub Actions shows runs as `Repository dispatch` rather than `Scheduled`.
 - To trigger a feed update immediately, continue using **Run workflow** in

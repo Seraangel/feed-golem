@@ -4,7 +4,7 @@
  */
 
 const GITHUB_DISPATCH_URL =
-  "https://api.github.com/repos/Seraangel/feed-ftip/dispatches";
+  "https://api.github.com/repos/Seraangel/feed-golem/dispatches";
 const BERLIN_TIME = new Intl.DateTimeFormat("en-GB", {
   timeZone: "Europe/Berlin",
   hour: "2-digit",
@@ -35,7 +35,7 @@ async function dispatchFeedUpdate(token) {
       Accept: "application/vnd.github+json",
       Authorization: `Bearer ${token}`,
       "Content-Type": "application/json",
-      "User-Agent": "feed-ftip-cloudflare-scheduler",
+      "User-Agent": "feed-golem-cloudflare-scheduler",
       "X-GitHub-Api-Version": "2022-11-28",
     },
     body: JSON.stringify({ event_type: "cloudflare-feed-tick" }),
