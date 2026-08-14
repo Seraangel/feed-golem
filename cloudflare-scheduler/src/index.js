@@ -55,11 +55,4 @@ export default {
     }
     ctx.waitUntil(dispatchFeedUpdate(env.GITHUB_TOKEN));
   },
-
-  async fetch(request) {
-    if (new URL(request.url).pathname !== "/healthz") {
-      return new Response("Not found", { status: 404 });
-    }
-    return Response.json({ status: "ok" });
-  },
 };

@@ -1,6 +1,8 @@
 name = "feed-golem-scheduler"
 main = "src/index.js"
 compatibility_date = "2026-08-14"
+workers_dev = false
+preview_urls = false
 
 [triggers]
 # The Worker applies the Europe/Berlin overnight policy in code. Keeping this

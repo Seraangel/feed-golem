@@ -20,8 +20,9 @@ and GitHub Pages deployment remain unchanged.
    Paste the GitHub token only when Wrangler asks for the secret. Do not put it
    in this repository or in `wrangler.toml`.
 
-3. Open `https://feed-golem-scheduler.<your-workers-subdomain>.workers.dev/healthz`.
-   It should return `{ "status": "ok" }`.
+3. The Worker intentionally has no public URL. Verify its Cron Trigger and
+   execution logs in **Cloudflare Dashboard -> Workers & Pages ->
+   `feed-golem-scheduler`**.
 
 Cloudflare invokes the Worker's `scheduled()` handler every five minutes (UTC).
 The Worker sends GitHub a `repository_dispatch` event every five minutes from
@@ -36,6 +37,8 @@ Each dispatch event is named
 
 - Cloudflare Dashboard -> Workers & Pages -> `feed-golem-scheduler` shows Cron
   Trigger executions and logs.
+- `workers.dev` and preview URLs are disabled, so public requests cannot consume
+  the Free-plan Worker request quota.
 - GitHub Actions shows runs as `Repository dispatch` rather than `Scheduled`.
 - To trigger a feed update immediately, continue using **Run workflow** in
   GitHub Actions.
