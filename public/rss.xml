@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 15 Aug 2026 08:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:45:17 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html</guid>
+      <description>Die Mobile Wallbox von dé 11 kW mit App-Steuerung lädt mit bis zu 11 kW über CEE-Stecker und ist bei Amazon aktuell reduziert. (Elektromobilität, Elektroauto)</description>
+      <pubDate>Sat, 15 Aug 2026 08:40:01 GMT</pubDate>
+    </item>
     <item>
       <title>Eure Meinung zum KI-Hype: "Irgendwann fliegt uns alles um die Ohren"</title>
       <link>https://www.golem.de/news/eure-meinung-zum-ki-hype-irgendwann-fliegt-uns-alles-um-die-ohren-2608-211913.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/crossplane-raus-aus-dem-bruch-zwischen-terraform-und-kubernetes-2608-211740.html</guid>
       <description>Crossplane verspricht ein Ende des Wirrwarrs aus Pipelines, Statusabfragen, Übergabedateien. Wann es sich lohnt und ab welchem Punkt ein Kubernetes-Controller besser wäre. Ein Ratgebertext von Philip Lorenz (&lt;a href="https://www.golem.de/specials/devops/"&gt;Devops&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/api/"&gt;API&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211740&amp;amp;page=1&amp;amp;ts=1786361401" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Mon, 10 Aug 2026 11:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Einhell Stielstaubsauger mit Power-X-Change-Akku wieder zum Tiefpreis für 111 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-einhell-stielstaubsauger-mit-power-x-change-akku-wieder-zum-tiefpreis-fuer-111-euro-bei-amazon-2608-211761.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-stielstaubsauger-mit-power-x-change-akku-wieder-zum-tiefpreis-fuer-111-euro-bei-amazon-2608-211761.html</guid>
-      <description>Der Einhell-Stielstaubsauger TE-SV 18 Li kommt mit Power-X-Change-Akku und Ladegerät und ist bei Amazon wieder zum Tiefpreis erhältlich. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/akku/"&gt;Akku&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211761&amp;amp;page=1&amp;amp;ts=1786360502" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 11:15:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
