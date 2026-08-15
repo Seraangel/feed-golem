@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 14 Aug 2026 20:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 05:35:23 GMT</lastBuildDate>
+    <item>
+      <title>40 Jahre Castlevania: Jetzt verstehen wir, warum Castlevania zum Klassiker wurde</title>
+      <link>https://www.golem.de/news/40-jahre-castlevania-jetzt-verstehen-wir-warum-castlevania-zum-klassiker-wurde-2608-211824.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/40-jahre-castlevania-jetzt-verstehen-wir-warum-castlevania-zum-klassiker-wurde-2608-211824.html</guid>
+      <description>Nach 40 Jahren kehren wir zu Castlevania zurück. Das spielt sich kantig und klingt ziemlich piepsig - ist aber clever gealtert. Von Olaf Bleich (Konami, Spiele)</description>
+      <pubDate>Sat, 15 Aug 2026 05:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Tintenfreier Etikettendrucker mit Bluetooth-Funktionen für unter 29 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-tintenfreier-etikettendrucker-mit-bluetooth-funktionen-fuer-unter-29-euro-bei-amazon-2608-211966.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/curl-entwickler-sucht-verstaerkung-niemand-hier-will-mit-windows-arbeiten-2608-211760.html</guid>
       <description>Der Open-Source-Entwickler Daniel Stenberg sucht Helfer für das Curl-Security-Team. Die derzeitigen sieben Mitglieder haben alle eine Windows-Aversion. (&lt;a href="https://www.golem.de/specials/open-source/"&gt;Open Source&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211760&amp;amp;page=1&amp;amp;ts=1786357861" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Mon, 10 Aug 2026 10:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Source: Android-Trojaner soll in Software von MG-Autos stecken</title>
-      <link>https://www.golem.de/news/open-source-android-trojaner-soll-in-software-von-mg-autos-stecken-2608-211759.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/open-source-android-trojaner-soll-in-software-von-mg-autos-stecken-2608-211759.html</guid>
-      <description>In einer Software-Dokumentation des chinesischen Herstellers MG taucht die Malware Teardroid auf. Das könnte jedoch ein Scan-Fehler sein. (&lt;a href="https://www.golem.de/specials/open-source/"&gt;Open Source&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/malware/"&gt;Malware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211759&amp;amp;page=1&amp;amp;ts=1786356962" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 10:16:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
