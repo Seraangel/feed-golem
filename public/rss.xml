@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 15 Aug 2026 08:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 08:50:24 GMT</lastBuildDate>
+    <item>
+      <title>Nachrichtendienstreform: Autobranche läuft Sturm gegen Zugriff auf Telemetriedaten</title>
+      <link>https://www.golem.de/news/nachrichtendienstreform-autobranche-laeuft-sturm-gegen-zugriff-auf-telemetriedaten-2608-211967.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nachrichtendienstreform-autobranche-laeuft-sturm-gegen-zugriff-auf-telemetriedaten-2608-211967.html</guid>
+      <description>Das Kfz-Handwerk will nicht zum verlängerten Arm der Nachrichtendienste werden. Die Hersteller warnen vor einer automobilen Vorratsdatenspeicherung. (Geheimdienste, Vorratsdatenspeicherung)</description>
+      <pubDate>Sat, 15 Aug 2026 08:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Mobile Wallbox 11 kW mit App und Zubehör zum Aktionspreis für nur rund 160 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-bluetooth-adapter-fuer-aux-anschluss-zum-sparpreis-bei-amazon-2608-211764.html</guid>
       <description>Amazon hat einen Bluetooth-Adapter im Angebot, der den Sound von Aux-Anschlüssen auf zwei Bluetooth-Kopfhörer überträgt. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211764&amp;amp;page=1&amp;amp;ts=1786361822" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Mon, 10 Aug 2026 11:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Crossplane: Raus aus dem Bruch zwischen Terraform und Kubernetes</title>
-      <link>https://www.golem.de/news/crossplane-raus-aus-dem-bruch-zwischen-terraform-und-kubernetes-2608-211740.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/crossplane-raus-aus-dem-bruch-zwischen-terraform-und-kubernetes-2608-211740.html</guid>
-      <description>Crossplane verspricht ein Ende des Wirrwarrs aus Pipelines, Statusabfragen, Übergabedateien. Wann es sich lohnt und ab welchem Punkt ein Kubernetes-Controller besser wäre. Ein Ratgebertext von Philip Lorenz (&lt;a href="https://www.golem.de/specials/devops/"&gt;Devops&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/api/"&gt;API&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211740&amp;amp;page=1&amp;amp;ts=1786361401" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 11:30:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
