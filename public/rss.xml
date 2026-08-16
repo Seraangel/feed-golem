@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 16 Aug 2026 08:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:15:21 GMT</lastBuildDate>
+    <item>
+      <title>Dual Use: Nvidia-Chip in russischem Marschflugkörper entdeckt</title>
+      <link>https://www.golem.de/news/dual-use-nvidia-chip-in-russischem-marschflugkoerper-entdeckt-2608-211971.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/dual-use-nvidia-chip-in-russischem-marschflugkoerper-entdeckt-2608-211971.html</guid>
+      <description>Die ukrainische Militäraufklärung hat ein Jetson-Orin-NX-16GB-Modul aus dem Wrack einer S-71M geborgen - und offenbart damit erneut, dass westliche Halbleiter Russland erreichen. (Nvidia, Prozessor)</description>
+      <pubDate>Sun, 16 Aug 2026 09:10:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Balkonkraftwerk mit BC-Modulen und neuem Anker-Speicher 950 Euro günstiger</title>
       <link>https://www.golem.de/news/anzeige-balkonkraftwerk-mit-bc-modulen-und-neuem-anker-speicher-950-euro-guenstiger-2608-211955.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/zhbm-znand-hbf-stapelspeicher-fuer-ki-hardware-soll-schneller-und-groesser-werden-2608-211778.html</guid>
       <description>Samsung und SK Hynix haben beim Future Memory Summit ihre Neuerungen bei 3D-Speicher vorgestellt. Direkt aufgestapelter HBM soll die Bandbreite steigern. (&lt;a href="https://www.golem.de/specials/3d-speicher/"&gt;3D-Speicher&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211778&amp;amp;page=1&amp;amp;ts=1786375021" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Mon, 10 Aug 2026 15:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Extrem beliebt: Smart Glasses von Duckduckgo sind einfach nur Sonnenbrillen</title>
-      <link>https://www.golem.de/news/extrem-beliebt-smart-glasses-von-duckduckgo-sind-einfach-nur-sonnenbrillen-2608-211780.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/extrem-beliebt-smart-glasses-von-duckduckgo-sind-einfach-nur-sonnenbrillen-2608-211780.html</guid>
-      <description>Die neue Sonnenbrille der Suchmaschine ist ein Symbol für den Protest gegen Smart Glasses, mit denen Menschen heimlich aufgenommen werden. (&lt;a href="https://www.golem.de/specials/duckduckgo/"&gt;Duckduckgo&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211780&amp;amp;page=1&amp;amp;ts=1786374122" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 15:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
