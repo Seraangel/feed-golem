@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 16 Aug 2026 09:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 10:55:18 GMT</lastBuildDate>
+    <item>
+      <title>CPON: Warum die Kabelnetzbranche einen neuen Glasfaserstandard schafft</title>
+      <link>https://www.golem.de/news/cpon-warum-die-kabelnetzbranche-einen-neuen-glasfaserstandard-schafft-2608-211977.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cpon-warum-die-kabelnetzbranche-einen-neuen-glasfaserstandard-schafft-2608-211977.html</guid>
+      <description>Coherent Passive Optical Network ist ein von Cable Labs vorangetriebener Standard für Glasfaser-Technologie der nächsten Generation, der 100 GBit/s auf einer Wellenlänge bereitstellt. Ein Bericht von Achim Sawall (Kabelnetz, Telekommunikation)</description>
+      <pubDate>Sun, 16 Aug 2026 10:54:09 GMT</pubDate>
+    </item>
     <item>
       <title>Drohnenvorfall: Städte- und Gemeindebund will ausfallsichere Kommunikation</title>
       <link>https://www.golem.de/news/drohnenvorfall-staedte-und-gemeindebund-will-ausfallsichere-kommunikation-2608-211976.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/argentina-the-argentine-ranch-where-tech-ceos-plan-to-ride-out-the-apocalypse-2608-211779.html</guid>
       <description>Drawn by wild landscapes and an eccentric president, executives are building a refuge Von Ciara Nugent (&lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/mark-zuckerberg/"&gt;Mark Zuckerberg&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211779&amp;amp;page=1&amp;amp;ts=1786377602" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Mon, 10 Aug 2026 16:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 mit Zero Trust absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2608-210522.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2608-210522.html</guid>
-      <description>Microsoft 365 Zero Trust verlangt klare Kontrollen für Identitäten, Daten und Geräte. Ein Online-Workshop zeigt, wie Schutzmechanismen und Monitoring strukturiert umgesetzt werden. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/serverapps/"&gt;Server-Applikationen&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210522&amp;amp;page=1&amp;amp;ts=1786376401" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 15:40:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
