@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 16 Aug 2026 09:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 09:55:21 GMT</lastBuildDate>
+    <item>
+      <title>Drohnenvorfall: Städte- und Gemeindebund will ausfallsichere Kommunikation</title>
+      <link>https://www.golem.de/news/drohnenvorfall-staedte-und-gemeindebund-will-ausfallsichere-kommunikation-2608-211976.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/drohnenvorfall-staedte-und-gemeindebund-will-ausfallsichere-kommunikation-2608-211976.html</guid>
+      <description>Eine zentrale Schwachstelle der aktuellen deutschen Sicherheitsarchitektur sei der Bruch zwischen überregionaler Lageerfassung und der operativen Handlungsfähigkeit vor Ort. (Telekommunikation, Security)</description>
+      <pubDate>Sun, 16 Aug 2026 09:50:08 GMT</pubDate>
+    </item>
     <item>
       <title>Dual Use: Nvidia-Chip in russischem Marschflugkörper entdeckt</title>
       <link>https://www.golem.de/news/dual-use-nvidia-chip-in-russischem-marschflugkoerper-entdeckt-2608-211971.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2608-210522.html</guid>
       <description>Microsoft 365 Zero Trust verlangt klare Kontrollen für Identitäten, Daten und Geräte. Ein Online-Workshop zeigt, wie Schutzmechanismen und Monitoring strukturiert umgesetzt werden. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/serverapps/"&gt;Server-Applikationen&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210522&amp;amp;page=1&amp;amp;ts=1786376401" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Mon, 10 Aug 2026 15:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>zHBM, zNAND &amp; HBF: Stapelspeicher für KI-Hardware soll schneller und größer werden</title>
-      <link>https://www.golem.de/news/zhbm-znand-hbf-stapelspeicher-fuer-ki-hardware-soll-schneller-und-groesser-werden-2608-211778.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zhbm-znand-hbf-stapelspeicher-fuer-ki-hardware-soll-schneller-und-groesser-werden-2608-211778.html</guid>
-      <description>Samsung und SK Hynix haben beim Future Memory Summit ihre Neuerungen bei 3D-Speicher vorgestellt. Direkt aufgestapelter HBM soll die Bandbreite steigern. (&lt;a href="https://www.golem.de/specials/3d-speicher/"&gt;3D-Speicher&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211778&amp;amp;page=1&amp;amp;ts=1786375021" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Mon, 10 Aug 2026 15:17:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
