@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 17 Aug 2026 09:50:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:05:22 GMT</lastBuildDate>
+    <item>
+      <title>NASDAQ: Die Technologiewerte fahren Achterbahn</title>
+      <link>https://www.golem.de/news/nasdaq-die-technologiewerte-fahren-achterbahn-2608-211985.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nasdaq-die-technologiewerte-fahren-achterbahn-2608-211985.html</guid>
+      <description>Bis Ende Juli büßte der Nasdaq-Index rund 2.000 Punkte ein, legte im August wieder zu - und ist nun etwa auf dem Stand ex ante. Wie die Ankündigungspolitik von Nvidia die Aktienkurse seiner Kunden künstlich hochhält. Eine Analyse von Erich Moechel (Börse, Nvidia)</description>
+      <pubDate>Mon, 17 Aug 2026 10:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Prompt Injection: Kläger versteckt KI-Anweisungen in Schriftsätzen</title>
       <link>https://www.golem.de/news/prompt-injection-klaeger-versteckt-ki-anweisungen-in-schriftsaetzen-2608-211992.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartphone-google-pixel-10a-stark-reduziert-bei-amazon-2608-211799.html</guid>
       <description>Das Smartphone Google Pixel 10a mit 6,3''-Actua-Display, Tensor-G4-Prozessor und 256-GByte-Speicher gibt es bei Amazon zum Aktionspreis. (&lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/mobil/"&gt;Mobil&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211799&amp;amp;page=1&amp;amp;ts=1786440302" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 11 Aug 2026 09:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xodus: Open-Source-Projekt will PC Game Pass unter Linux starten</title>
-      <link>https://www.golem.de/news/xodus-open-source-projekt-will-pc-game-pass-unter-linux-starten-2608-211797.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/xodus-open-source-projekt-will-pc-game-pass-unter-linux-starten-2608-211797.html</guid>
-      <description>Der PC Game Pass funktioniert bislang nicht lokal unter Linux. Ein neues Open-Source-Projekt will das ändern und hat bereits einige der wichtigsten technischen Hürden genommen. (&lt;a href="https://www.golem.de/specials/linux/"&gt;Linux&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/games/"&gt;Spiele&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211797&amp;amp;page=1&amp;amp;ts=1786440002" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 09:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
