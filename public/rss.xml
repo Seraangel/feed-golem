@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 17 Aug 2026 11:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 11:35:19 GMT</lastBuildDate>
+    <item>
+      <title>(g+) KI-Agenten im Entwickleralltag: Wie KI-Agenten Jira, Git, Slack und CI/CD verändern</title>
+      <link>https://www.golem.de/news/ki-agenten-im-entwickleralltag-wie-ki-agenten-jira-git-slack-und-ci-cd-veraendern-2608-211994.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-im-entwickleralltag-wie-ki-agenten-jira-git-slack-und-ci-cd-veraendern-2608-211994.html</guid>
+      <description>KI-Agenten schreiben nicht nur Code. Sie koordinieren Jira, Git, Slack und CI/CD - und verändern so den gesamten Softwareentwicklungsprozess. Wir erklären, wie. Ein Ratgebertext von Klaus Manhart (Die Agenten kommen, KI)</description>
+      <pubDate>Mon, 17 Aug 2026 11:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Xiaomi E-Scooter 6 befristet zum Amazon-Tiefstpreis</title>
       <link>https://www.golem.de/news/anzeige-xiaomi-e-scooter-6-befristet-zum-amazon-tiefstpreis-2608-211998.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/deutschland-stack-studien-sollen-regeln-fuer-bund-laender-und-kommunen-klaeren-2608-211802.html</guid>
       <description>In vier Kurzstudien sollen organisatorische sowie technische Fragen zur Einführung der öffentlichen Technologieplattform untersucht werden. (&lt;a href="https://www.golem.de/specials/digitalesouveraenitaet/"&gt;Souveränität&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/studie/"&gt;Studien&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211802&amp;amp;page=1&amp;amp;ts=1786443242" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 11 Aug 2026 10:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mietwohnungen: Regierung prüft Anspruch auf Einbau von Klimaanlagen</title>
-      <link>https://www.golem.de/news/mietwohnungen-regierung-prueft-anspruch-auf-einbau-von-klimaanlagen-2608-211782.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mietwohnungen-regierung-prueft-anspruch-auf-einbau-von-klimaanlagen-2608-211782.html</guid>
-      <description>Die Hitzewellen haben die Nachfrage nach Klimaanlagen steigen lassen. Im Gegensatz zu Eigentümern haben Mieter es mit der Installation schwerer. Ein Bericht von Friedhelm Greis (&lt;a href="https://www.golem.de/specials/klima/"&gt;Klima&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/bundesgerichtshof/"&gt;Bundesgerichtshof&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211782&amp;amp;page=1&amp;amp;ts=1786442401" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 10:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
