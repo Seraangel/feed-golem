@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 17 Aug 2026 09:25:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:50:20 GMT</lastBuildDate>
+    <item>
+      <title>Prompt Injection: Kläger versteckt KI-Anweisungen in Schriftsätzen</title>
+      <link>https://www.golem.de/news/prompt-injection-klaeger-versteckt-ki-anweisungen-in-schriftsaetzen-2608-211992.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/prompt-injection-klaeger-versteckt-ki-anweisungen-in-schriftsaetzen-2608-211992.html</guid>
+      <description>Weil er ein KI-System bei Gericht vermutete, versteckt ein Kläger in den USA geheime Anweisungen in seinen Schriftsätzen. (KI, Politik)</description>
+      <pubDate>Mon, 17 Aug 2026 09:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: FRITZ!Repeater mit Wi-Fi 7 reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-fritz-repeater-mit-wi-fi-7-reduziert-bei-amazon-2608-211991.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/xodus-open-source-projekt-will-pc-game-pass-unter-linux-starten-2608-211797.html</guid>
       <description>Der PC Game Pass funktioniert bislang nicht lokal unter Linux. Ein neues Open-Source-Projekt will das ändern und hat bereits einige der wichtigsten technischen Hürden genommen. (&lt;a href="https://www.golem.de/specials/linux/"&gt;Linux&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/games/"&gt;Spiele&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211797&amp;amp;page=1&amp;amp;ts=1786440002" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 11 Aug 2026 09:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nutzer wollte nur Kurs buchen: KI-Agent hat unerwartet ein Fitnessstudio gehackt</title>
-      <link>https://www.golem.de/news/nutzer-wollte-nur-kurs-buchen-ki-agent-hackte-unerwartet-ein-fitnessstudio-2608-211796.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nutzer-wollte-nur-kurs-buchen-ki-agent-hackte-unerwartet-ein-fitnessstudio-2608-211796.html</guid>
-      <description>Unverhoffte KI-Hacks gibt es nicht nur mit den neuesten Modellen. In Australien ist ein KI-Agent schon vor Monaten in eine Buchungsplattform eingedrungen. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/api/"&gt;API&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211796&amp;amp;page=1&amp;amp;ts=1786439162" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 09:06:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
