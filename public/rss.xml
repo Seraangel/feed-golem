@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 17 Aug 2026 07:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:55:19 GMT</lastBuildDate>
+    <item>
+      <title>Batteriespeicher: Europas größte Batterie geht in Schottland ans Netz</title>
+      <link>https://www.golem.de/news/batteriespeicher-europas-groesste-batterie-geht-in-schottland-ans-netz-2608-211983.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/batteriespeicher-europas-groesste-batterie-geht-in-schottland-ans-netz-2608-211983.html</guid>
+      <description>Das Land, das mehr Strom aus Wind produziert, als es verbrauchen kann, stärkt mit dem Stromspeicher seine Unabhängigkeit von anderen Stromquellen. (Energiewende, Akku)</description>
+      <pubDate>Mon, 17 Aug 2026 07:51:05 GMT</pubDate>
+    </item>
     <item>
       <title>Umsetzung der EU-Vorgaben: Claudes Wasserzeichen lässt sich kaum entfernen</title>
       <link>https://www.golem.de/news/umsetzung-der-eu-vorgaben-claudes-wasserzeichen-laesst-sich-kaum-entfernen-2608-211982.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-auf-logistikpartner-valve-warnt-steam-kunden-vor-datenpanne-2608-211789.html</guid>
       <description>Ein Logistikpartner von Valve ist Ziel eines Cyberangriffs geworden. Dabei sollen potenziell Daten europäischer Käufer von Steam-Hardware abgeflossen sein. (&lt;a href="https://www.golem.de/specials/datenleck/"&gt;Datenleck&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/steam/"&gt;Steam&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211789&amp;amp;page=1&amp;amp;ts=1786431061" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 11 Aug 2026 06:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheit: DB Regio setzt Bodycams mit Tonaufzeichnung ein</title>
-      <link>https://www.golem.de/news/sicherheit-db-regio-setzt-bodycams-mit-tonaufzeichnung-ein-2608-211786.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-db-regio-setzt-bodycams-mit-tonaufzeichnung-ein-2608-211786.html</guid>
-      <description>Die DB Regio setzt in ihren Zügen nun Bodycams mit Audioaufnahme ein. Zunächst gibt es ein Pilotprojekt, dann die bundesweite Einführung. (&lt;a href="https://www.golem.de/specials/deutsche-bahn/"&gt;Deutsche Bahn&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/datenschutz/"&gt;Datenschutz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211786&amp;amp;page=1&amp;amp;ts=1786427822" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 05:57:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
