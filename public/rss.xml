@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 17 Aug 2026 07:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:15:21 GMT</lastBuildDate>
+    <item>
+      <title>Auch Shell betroffen: Hacker wollen Daten von über 40 Unternehmen erbeutet haben</title>
+      <link>https://www.golem.de/news/auch-shell-betroffen-hacker-wollen-daten-von-ueber-40-unternehmen-erbeutet-haben-2608-211980.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/auch-shell-betroffen-hacker-wollen-daten-von-ueber-40-unternehmen-erbeutet-haben-2608-211980.html</guid>
+      <description>Eine Hackergruppe behauptet, in die IT von 43 Unternehmen eingedrungen zu sein. Unter anderem sollen Shell, Philips und General Electric betroffen sein. (Cybercrime, Cyberwar)</description>
+      <pubDate>Mon, 17 Aug 2026 07:13:01 GMT</pubDate>
+    </item>
     <item>
       <title>Sicherheit: KIT-Forscher identifizieren Personen via WLAN</title>
       <link>https://www.golem.de/news/sicherheit-kit-forscher-identifizieren-personen-via-wlan-2608-211981.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anthropic-claude-markiert-alles-ki-generierte-2608-211787.html</guid>
       <description>Anthropic will alle KI-Ausgaben mit Wasserzeichen markieren, um den Anforderungen des AI Acts zu entsprechen. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211787&amp;amp;page=1&amp;amp;ts=1786426502" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 11 Aug 2026 05:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 DSGVO-konform betreiben</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2608-211784.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2608-211784.html</guid>
-      <description>Datenresidenz, Drittlandtransfers und Audit-Anforderungen erschweren den DSGVO-konformen Betrieb von Microsoft 365. Ein Workshop vermittelt die technischen und organisatorischen Grundlagen dafür. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/datenschutz/"&gt;Datenschutz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211784&amp;amp;page=1&amp;amp;ts=1786425306" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 05:15:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
