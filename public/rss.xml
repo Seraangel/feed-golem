@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 17 Aug 2026 08:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:00:21 GMT</lastBuildDate>
+    <item>
+      <title>Schadcode im Anmarsch: SAP-Systeme werden über kritische Lücke attackiert</title>
+      <link>https://www.golem.de/news/schadcode-im-anmarsch-sap-systeme-werden-ueber-kritische-luecke-attackiert-2608-211987.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schadcode-im-anmarsch-sap-systeme-werden-ueber-kritische-luecke-attackiert-2608-211987.html</guid>
+      <description>Angreifer können SAP-Commerce-Cloud-Instanzen über eine kritische Sicherheitslücke kompromittieren. Entsprechende Attacken laufen bereits. (Sicherheitslücke, SAP)</description>
+      <pubDate>Mon, 17 Aug 2026 08:56:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Druckluftgebläse mit Akku zum Aktionspreis nur rund 36 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-druckluftgeblaese-mit-akku-zum-aktionspreis-nur-rund-36-euro-bei-amazon-2608-211988.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/vom-freelancer-zum-unternehmer-100-000-euro-weg-jede-menge-stress-und-ein-happy-end-2608-211756.html</guid>
       <description>Ich war als Freelancer erfolgreich und dennoch gestresst. Der Grund: Ich wusste nicht, wie Business funktioniert. Wie ich den Sprung zum Unternehmer trotzdem geschafft habe. Ein Erfahrungsbericht von Pierre Wilken (&lt;a href="https://www.golem.de/specials/it-freelancer/"&gt;IT-Freelancer&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/crm/"&gt;CRM&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211756&amp;amp;page=1&amp;amp;ts=1786435261" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 11 Aug 2026 08:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kartendienst: Google Maps vermittelt Essen und Hotels per KI</title>
-      <link>https://www.golem.de/news/kartendienst-google-maps-vermittelt-essen-und-hotels-per-ki-2608-211792.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kartendienst-google-maps-vermittelt-essen-und-hotels-per-ki-2608-211792.html</guid>
-      <description>Google baut Ask Maps aus. Die KI hilft beim Ordern von Essen und verlinkt auf Angebote für Hotels sowie Events. (&lt;a href="https://www.golem.de/specials/googlemaps/"&gt;Google Maps&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211792&amp;amp;page=1&amp;amp;ts=1786433702" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 07:35:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
