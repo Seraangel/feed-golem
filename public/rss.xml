@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 17 Aug 2026 07:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 07:35:21 GMT</lastBuildDate>
+    <item>
+      <title>Umsetzung der EU-Vorgaben: Claudes Wasserzeichen lässt sich kaum entfernen</title>
+      <link>https://www.golem.de/news/umsetzung-der-eu-vorgaben-claudes-wasserzeichen-laesst-sich-kaum-entfernen-2608-211982.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/umsetzung-der-eu-vorgaben-claudes-wasserzeichen-laesst-sich-kaum-entfernen-2608-211982.html</guid>
+      <description>Anthropic erklärt, wie das Wasserzeichen in Claude-Texten funktioniert, woher die Methode stammt und wie leicht es sich umgehen lässt. (Claude, KI)</description>
+      <pubDate>Mon, 17 Aug 2026 07:34:03 GMT</pubDate>
+    </item>
     <item>
       <title>Auch Shell betroffen: Hacker wollen Daten von über 40 Unternehmen erbeutet haben</title>
       <link>https://www.golem.de/news/auch-shell-betroffen-hacker-wollen-daten-von-ueber-40-unternehmen-erbeutet-haben-2608-211980.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sicherheit-db-regio-setzt-bodycams-mit-tonaufzeichnung-ein-2608-211786.html</guid>
       <description>Die DB Regio setzt in ihren Zügen nun Bodycams mit Audioaufnahme ein. Zunächst gibt es ein Pilotprojekt, dann die bundesweite Einführung. (&lt;a href="https://www.golem.de/specials/deutsche-bahn/"&gt;Deutsche Bahn&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/datenschutz/"&gt;Datenschutz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211786&amp;amp;page=1&amp;amp;ts=1786427822" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Tue, 11 Aug 2026 05:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic: Claude markiert alles KI-generierte</title>
-      <link>https://www.golem.de/news/anthropic-claude-markiert-alles-ki-generierte-2608-211787.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anthropic-claude-markiert-alles-ki-generierte-2608-211787.html</guid>
-      <description>Anthropic will alle KI-Ausgaben mit Wasserzeichen markieren, um den Anforderungen des AI Acts zu entsprechen. (&lt;a href="https://www.golem.de/specials/anthropic/"&gt;Anthropic&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211787&amp;amp;page=1&amp;amp;ts=1786426502" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Tue, 11 Aug 2026 05:35:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
