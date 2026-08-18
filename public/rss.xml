@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 11:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:20:18 GMT</lastBuildDate>
+    <item>
+      <title>Steigende Fallzahlen: KI-Anschreiben werden zum Problem für Verwaltungsbehörden</title>
+      <link>https://www.golem.de/news/steigende-fallzahlen-ki-anschreiben-werden-zum-problem-fuer-verwaltungsbehoerden-2608-212050.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/steigende-fallzahlen-ki-anschreiben-werden-zum-problem-fuer-verwaltungsbehoerden-2608-212050.html</guid>
+      <description>Deutsche Verwaltungsbehörden verzeichnen einen starken Anstieg von Schreiben, bei denen der Verdacht auf KI-Einsatz besteht. (KI, Politik)</description>
+      <pubDate>Tue, 18 Aug 2026 11:18:01 GMT</pubDate>
+    </item>
     <item>
       <title>Outlook, Onedrive und mehr: Update macht Suche in Microsoft-365-Apps kaputt</title>
       <link>https://www.golem.de/news/outlook-onedrive-und-mehr-update-macht-suche-in-microsoft-365-apps-kaputt-2608-212045.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mit-einschraenkungen-chatgpt-app-fuer-linux-veroeffentlicht-2608-211844.html</guid>
       <description>Eine der wichtigsten Funktionen der Windows- und Mac-Version von ChatGPT fehlt in der offiziellen Linux-App. (&lt;a href="https://www.golem.de/specials/chatgpt/"&gt;ChatGPT&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ubuntu/"&gt;Ubuntu&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211844&amp;amp;page=1&amp;amp;ts=1786526042" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 09:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smart Glasses auf dem Prüfstand: Hate Aid klagt gegen Meta</title>
-      <link>https://www.golem.de/news/smart-glasses-auf-dem-pruefstand-hate-aid-klagt-gegen-meta-2608-211842.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smart-glasses-auf-dem-pruefstand-hate-aid-klagt-gegen-meta-2608-211842.html</guid>
-      <description>Hate Aid wirft Meta vor, mit Smart Glasses verdeckte Aufnahmen zu erleichtern und stellt Strafanzeige wegen möglicher Datenschutzverstöße. (&lt;a href="https://www.golem.de/specials/datensicherheit/"&gt;Datensicherheit&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/datenschutz/"&gt;Datenschutz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211842&amp;amp;page=1&amp;amp;ts=1786525262" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 09:01:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
