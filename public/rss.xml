@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 09:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:05:20 GMT</lastBuildDate>
+    <item>
+      <title>Chuwi Unibook &amp; Core 3 304 im Test: Macbook Neo macht Intels Wildkatze zum Bettvorleger</title>
+      <link>https://www.golem.de/news/chuwi-unibook-core-3-304-im-test-macbook-neo-macht-intels-wildkatze-zum-bettvorleger-2608-211995.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chuwi-unibook-core-3-304-im-test-macbook-neo-macht-intels-wildkatze-zum-bettvorleger-2608-211995.html</guid>
+      <description>Sind Notebooks mit Intels Wildcat-Lake-Prozessoren die Alternative zum Macbook Neo? Unser Test unter Linux und Windows ist leider enttäuschend. Ein Test von Johannes Hiltscher (PC &amp; Notebooks, Prozessor)</description>
+      <pubDate>Tue, 18 Aug 2026 10:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Bye Bye Cineby: Illegaler Streamingdienst mit Millionen von Nutzern gibt auf</title>
       <link>https://www.golem.de/news/bye-bye-cineby-illegaler-streamingdienst-mit-millionen-von-nutzern-gibt-auf-2608-212035.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-studie-zeigt-hohe-klickraten-durch-ki-spear-phishing-2608-211839.html</guid>
       <description>Ein Experiment mit 7.700 Personen belegt: KI-gestützte Personalisierung verdreifacht die Erfolgsquote von Phishing-E-Mails. (&lt;a href="https://www.golem.de/specials/phishing/"&gt;Phishing&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/studie/"&gt;Studien&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211839&amp;amp;page=1&amp;amp;ts=1786522201" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 08:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox und Thunderbird: Datenpanne zwingt Mozilla zum Schlüsseltausch</title>
-      <link>https://www.golem.de/news/firefox-und-thunderbird-datenpanne-zwingt-mozilla-zum-schluesseltausch-2608-211841.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/firefox-und-thunderbird-datenpanne-zwingt-mozilla-zum-schluesseltausch-2608-211841.html</guid>
-      <description>Ein Signaturschlüssel für bestimmte Releases von Firefox und Thunderbird wurde im Klartext bei Github hochgeladen. Einige Linux-Nutzer müssen handeln. (&lt;a href="https://www.golem.de/specials/mozilla/"&gt;Mozilla&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/firefox/"&gt;Firefox&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211841&amp;amp;page=1&amp;amp;ts=1786521481" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 07:58:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
