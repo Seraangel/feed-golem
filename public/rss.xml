@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 15:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:05:25 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Opinion: AI's Original Sin Is Written Into Its Training</title>
+      <link>https://www.golem.de/news/opinion-ai-s-original-sin-is-written-into-its-training-2608-212056.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/opinion-ai-s-original-sin-is-written-into-its-training-2608-212056.html</guid>
+      <description>Artificial intelligence models are trained not to lie to humans. Yet a funny thing is happening: AI has been lying to humans quite a bit. Von Parmy Olson (KI, Software)</description>
+      <pubDate>Tue, 18 Aug 2026 16:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bluetooth-Kopfhörer von EarFun jetzt zum Tiefstpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-bluetooth-kopfhoerer-von-earfun-jetzt-zum-tiefstpreis-bei-amazon-2608-212066.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-akku-laubblaeser-von-waitley-zum-sparpreis-bei-amazon-2608-211857.html</guid>
       <description>Wer im Sommer Terrassen und Gehwege von Grasschnitt, Sand oder Staub befreien möchte, findet im Waitley-Akku-Laubbläser ein starkes Amazon-Angebot. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211857&amp;amp;page=1&amp;amp;ts=1786542002" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 13:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reform Nachrichtendienstrecht: BSI wird Schwachstellen künftig an Geheimdienste weitergeben</title>
-      <link>https://www.golem.de/news/reform-nachrichtendienstrecht-bsi-wird-schwachstellen-kuenftig-an-geheimdienste-weitergeben-2608-211863.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/reform-nachrichtendienstrecht-bsi-wird-schwachstellen-kuenftig-an-geheimdienste-weitergeben-2608-211863.html</guid>
-      <description>Mit der Geheimdienst-Reform droht das BSI zum Zulieferer für den BND zu verkommen. Bitkom, Eco und VATM schlagen Alarm, der Staat halte wissentlich Sicherheitslücken offen. (&lt;a href="https://www.golem.de/specials/bsi/"&gt;BSI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/datenschutz/"&gt;Datenschutz&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211863&amp;amp;page=1&amp;amp;ts=1786541401" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 13:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
