@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 14:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:20:21 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Günstiger als am Prime Day - Bestseller-Multifunktionswerkzeug für unter 60 Euro</title>
+      <link>https://www.golem.de/news/anzeige-guenstiger-als-am-prime-day-bestseller-multifunktionswerkzeug-fuer-unter-60-euro-2608-212061.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-guenstiger-als-am-prime-day-bestseller-multifunktionswerkzeug-fuer-unter-60-euro-2608-212061.html</guid>
+      <description>Der Fanttik F2 Master mit Neopulse-Motor schleift, poliert und graviert nahezu lautlos und ist aktuell günstiger als am Prime Day. (Technik/Hardware)</description>
+      <pubDate>Tue, 18 Aug 2026 14:17:03 GMT</pubDate>
+    </item>
     <item>
       <title>Actionspiel: Phantom Blade Zero bietet ungewöhnlichen Hardcore-Modus</title>
       <link>https://www.golem.de/news/actionspiel-phantom-blade-zero-bietet-ungewoehnlichen-hardcore-modus-2608-212057.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ergear-monitorhalterung-zum-sparpreis-bei-amazon-2608-211851.html</guid>
       <description>Für mehr Platz auf dem Schreibtisch sorgt die Ergear-Monitorhalterung für Bildschirme bis 34 Zoll. Aktuell ist der Monitorarm bei Amazon stark reduziert. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211851&amp;amp;page=1&amp;amp;ts=1786533781" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 11:23:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lücke im Defender: Neuer Zero-Day-Exploit für Windows auf Github geleakt</title>
-      <link>https://www.golem.de/news/zero-day-luecke-im-defender-chaotic-eclipse-leakt-neuen-windows-exploit-2608-211855.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zero-day-luecke-im-defender-chaotic-eclipse-leakt-neuen-windows-exploit-2608-211855.html</guid>
-      <description>Ein neuer Exploit namens Shieldbreak umgeht einen früheren Patch für den Microsoft Defender. Angreifer erhalten damit unter Windows Systemrechte. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211855&amp;amp;page=1&amp;amp;ts=1786533002" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 11:10:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
