@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 10:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:50:18 GMT</lastBuildDate>
+    <item>
+      <title>Google: Youtube zählt Videozahlen künftig anders</title>
+      <link>https://www.golem.de/news/google-youtube-zaehlt-videozahlen-kuenftig-anders-2608-212041.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/google-youtube-zaehlt-videozahlen-kuenftig-anders-2608-212041.html</guid>
+      <description>Ab Ende August werden Zuschauerzahlen bereits ab dem ersten Klick auf ein Youtube-Video gezählt. (Youtube, Google)</description>
+      <pubDate>Tue, 18 Aug 2026 10:46:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Xiaomi Smart Band 10 und 10 Pro: Smarte Fitness-Tracker zum Tiefstpreis</title>
       <link>https://www.golem.de/news/anzeige-xiaomi-smart-band-10-und-10-pro-smarte-fitness-tracker-zum-tiefstpreis-2608-212037.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-tapo-c246d-aussenkamera-mit-2k-und-dual-objektiv-zum-amazon-tiefpreis-fuer-54-99-euro-2608-211843.html</guid>
       <description>Die Tapo C246D überwacht mit Weitwinkel- und Teleobjektiv gleichzeitig zwei Bereiche und ist bei Amazon zum Tiefpreis verfügbar. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smarthome/"&gt;Smart Home&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211843&amp;amp;page=1&amp;amp;ts=1786524362" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 08:46:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Interview mit Georg Greve von Vereign: "Das Internet war nie für Vertraulichkeit ausgelegt"</title>
-      <link>https://www.golem.de/news/interview-mit-georg-greve-von-vereign-das-internet-war-nie-fuer-vertraulichkeit-ausgelegt-2608-211771.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/interview-mit-georg-greve-von-vereign-das-internet-war-nie-fuer-vertraulichkeit-ausgelegt-2608-211771.html</guid>
-      <description>Sichere Identitäten für mehr Unabhängigkeit von US-Konzernen oder anderen Single Point of Failures: Georg Greve fordert eine grundlegend neue Vertraulichkeitsarchitektur im Internet. (&lt;a href="https://www.golem.de/specials/chefsvondevs/"&gt;Chefs von Devs&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/internet/"&gt;Internet&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211771&amp;amp;page=1&amp;amp;ts=1786523401" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 08:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
