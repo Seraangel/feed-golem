@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 13:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:15:18 GMT</lastBuildDate>
+    <item>
+      <title>Actionspiel: Phantom Blade Zero bietet ungewöhnlichen Hardcore-Modus</title>
+      <link>https://www.golem.de/news/actionspiel-phantom-blade-zero-bietet-ungewoehnlichen-hardcore-modus-2608-212057.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/actionspiel-phantom-blade-zero-bietet-ungewoehnlichen-hardcore-modus-2608-212057.html</guid>
+      <description>Jede Niederlage kostet einen Lebenstag: Der Hardcore-Modus von Phantom Blade Zero (PS5 + PC) setzt die Handlung in Spielmechanik um. (Playstation, Sony)</description>
+      <pubDate>Tue, 18 Aug 2026 14:03:12 GMT</pubDate>
+    </item>
     <item>
       <title>Solarthermie: Industrielle Wärme ist am günstigsten vom eigenen Dach</title>
       <link>https://www.golem.de/news/solarthermie-industrielle-waerme-ist-am-guenstigsten-vom-eigenen-dach-2608-212058.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/zero-day-luecke-im-defender-chaotic-eclipse-leakt-neuen-windows-exploit-2608-211855.html</guid>
       <description>Ein neuer Exploit namens Shieldbreak umgeht einen früheren Patch für den Microsoft Defender. Angreifer erhalten damit unter Windows Systemrechte. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211855&amp;amp;page=1&amp;amp;ts=1786533002" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 11:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Zusammenfassungen nicht mitgezählt: Gemini erreicht über 1 Milliarde aktive Nutzer</title>
-      <link>https://www.golem.de/news/ki-zusammenfassungen-nicht-mitgezaehlt-gemini-erreicht-ueber-1-milliarde-aktive-nutzer-2608-211854.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-zusammenfassungen-nicht-mitgezaehlt-gemini-erreicht-ueber-1-milliarde-aktive-nutzer-2608-211854.html</guid>
-      <description>Die weite Verbreitung von Googles KI-Assistenten Gemini kostet den Konzern viel Geld und wertvolle Angestellte. (&lt;a href="https://www.golem.de/specials/gemini/"&gt;Gemini&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/google/"&gt;Google&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211854&amp;amp;page=1&amp;amp;ts=1786532282" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 10:58:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
