@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 08:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:40:21 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: FRITZ!DECT 210 smarte Outdoor-Steckdose zum neuen Amazon-Bestpreis erstmals unter 30 Euro</title>
+      <link>https://www.golem.de/news/anzeige-fritz-dect-210-smarte-outdoor-steckdose-zum-neuen-amazon-bestpreis-erstmals-unter-30-euro-2608-212031.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fritz-dect-210-smarte-outdoor-steckdose-zum-neuen-amazon-bestpreis-erstmals-unter-30-euro-2608-212031.html</guid>
+      <description>Die FRITZ!DECT 210 ist bei Amazon jetzt günstig wie nie, schaltet Geräte im Garten per App oder Zeitplan und misst den Energieverbrauch. (Technik/Hardware)</description>
+      <pubDate>Tue, 18 Aug 2026 08:35:03 GMT</pubDate>
+    </item>
     <item>
       <title>Phosgo Go 5: Dieses E-Bike lädt sich selbst über Solarpaneele in den Felgen</title>
       <link>https://www.golem.de/news/phosgo-go-5-dieses-e-bike-laedt-sich-selbst-ueber-solarpaneele-in-den-felgen-2608-212030.html</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 18 Aug 2026 08:21:07 GMT</pubDate>
     </item>
     <item>
-      <title>Von Azure-Tenants: Hacker will Millionen von Datensätzen erbeutet haben</title>
+      <title>Von Azure-Tenants: Hacker will Millionen von Mitarbeiterdaten erbeutet haben</title>
       <link>https://www.golem.de/news/von-azure-tenants-hacker-will-millionen-von-datensaetzen-erbeutet-haben-2608-212029.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/von-azure-tenants-hacker-will-millionen-von-datensaetzen-erbeutet-haben-2608-212029.html</guid>
       <description>Ein Hacker behauptet im Darknet, mit kompromittierten Azure-Zugangsdaten an Mitarbeiterdaten etwa von McDonald's, Tata und Vodafone gelangt zu sein. (Cybercrime, Microsoft)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/auch-in-europa-nordkoreanische-hacker-attackieren-windows-nutzer-2608-211834.html</guid>
       <description>Die Hackergruppe Lazarus greift Windows-Nutzer über eine Treiberlücke an. Microsoft hat sie zusammen mit über 400 weiteren Sicherheitslücken gepatcht. (&lt;a href="https://www.golem.de/specials/patchday/"&gt;Patchday&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211834&amp;amp;page=1&amp;amp;ts=1786517642" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 06:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Musik-Streaming: Spotify markiert KI-Ersteller mit neuem Persona-Label</title>
-      <link>https://www.golem.de/news/musik-streaming-spotify-markiert-ki-ersteller-mit-neuem-persona-label-2608-211836.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/musik-streaming-spotify-markiert-ki-ersteller-mit-neuem-persona-label-2608-211836.html</guid>
-      <description>Spotify kennzeichnet KI-generierte Identitäten ab Mitte September 2026. Empfehlungen schließen solche Profile künftig aus. (&lt;a href="https://www.golem.de/specials/spotify/"&gt;Spotify&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211836&amp;amp;page=1&amp;amp;ts=1786517101" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 06:45:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
