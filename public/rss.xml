@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 11:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:35:20 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Digitale Souveränität: Was europäische Microsoft-Alternativen können und wo sie (noch) scheitern</title>
+      <link>https://www.golem.de/news/digitale-souveraenitaet-was-europaeische-microsoft-alternativen-koennen-und-wo-sie-noch-scheitern-2608-212015.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-was-europaeische-microsoft-alternativen-koennen-und-wo-sie-noch-scheitern-2608-212015.html</guid>
+      <description>Ein US-Urteil entzieht dem EU-US-Datenpakt eine tragende Säule. Die Frage nach dem Umstieg ist für IT-Abteilungen jetzt umso dringlicher. Wir erklären, was sich 2026 migrieren lässt. Ein Ratgebertext von Steffen Zahn (Microsoft, FTC)</description>
+      <pubDate>Tue, 18 Aug 2026 11:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Steigende Fallzahlen: KI-Anschreiben werden zum Problem für Verwaltungsbehörden</title>
       <link>https://www.golem.de/news/steigende-fallzahlen-ki-anschreiben-werden-zum-problem-fuer-verwaltungsbehoerden-2608-212050.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wegen-arbeitsspeicher-cloudanbieter-ovh-macht-server-mehr-als-80-prozent-teurer-2608-211846.html</guid>
       <description>Einige Serverkonfigurationen bei OVH werden extrem verteuert. Daran ist laut CEO vor allem die Speicherkrise schuld. (&lt;a href="https://www.golem.de/specials/ovh/"&gt;OVH&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/server/"&gt;Server&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211846&amp;amp;page=1&amp;amp;ts=1786526822" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 09:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mit Einschränkungen: ChatGPT-App für Linux veröffentlicht</title>
-      <link>https://www.golem.de/news/mit-einschraenkungen-chatgpt-app-fuer-linux-veroeffentlicht-2608-211844.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mit-einschraenkungen-chatgpt-app-fuer-linux-veroeffentlicht-2608-211844.html</guid>
-      <description>Eine der wichtigsten Funktionen der Windows- und Mac-Version von ChatGPT fehlt in der offiziellen Linux-App. (&lt;a href="https://www.golem.de/specials/chatgpt/"&gt;ChatGPT&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ubuntu/"&gt;Ubuntu&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211844&amp;amp;page=1&amp;amp;ts=1786526042" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 09:14:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
