@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 08:00:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 08:10:20 GMT</lastBuildDate>
+    <item>
+      <title>Von Azure-Tenants: Hacker will Millionen von Datensätzen erbeutet haben</title>
+      <link>https://www.golem.de/news/von-azure-tenants-hacker-will-millionen-von-datensaetzen-erbeutet-haben-2608-212029.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/von-azure-tenants-hacker-will-millionen-von-datensaetzen-erbeutet-haben-2608-212029.html</guid>
+      <description>Ein Hacker behauptet im Darknet, mit kompromittierten Azure-Zugangsdaten an Mitarbeiterdaten etwa von McDonald's, Tata und Vodafone gelangt zu sein. (Cybercrime, Microsoft)</description>
+      <pubDate>Tue, 18 Aug 2026 08:09:11 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Training: Airtag überführt Amazons destruktives Bücher-Scannen</title>
       <link>https://www.golem.de/news/ki-training-airtag-ueberfuehrt-amazons-destruktives-buecher-scannen-2608-212028.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/umfrage-ki-beeinflusst-deutschen-star-tup-arbeitsmarkt-2608-211831.html</guid>
       <description>Eine Bitkom-Befragung zeigt: Künstliche Intelligenz verändert den Personalbedarf deutscher Start-ups. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/wirtschaft/"&gt;Wirtschaft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211831&amp;amp;page=1&amp;amp;ts=1786512422" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 05:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Cloud Competence Center aufbauen: Strategie und Governance</title>
-      <link>https://www.golem.de/news/anzeige-cloud-competence-center-aufbauen-strategie-und-governance-2608-211603.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-cloud-competence-center-aufbauen-strategie-und-governance-2608-211603.html</guid>
-      <description>Der Aufbau eines Cloud Competence Centers verlangt klare Strukturen, Rollen und eine durchdachte Governance. Ein Workshop vermittelt praxisnahe Ansätze für Strategie und Umsetzung. (&lt;a href="https://www.golem.de/specials/golemakademie/"&gt;Golem Karrierewelt&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/internet/"&gt;Internet&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211603&amp;amp;page=1&amp;amp;ts=1786511701" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 05:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
