@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 18 Aug 2026 10:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:35:19 GMT</lastBuildDate>
+    <item>
+      <title>Kernel 7.2: Linux Kernel verteilt Prozesse effizienter und swapped besser</title>
+      <link>https://www.golem.de/news/kernel-7-2-linux-kernel-verteilt-prozesse-effizienter-und-swapped-besser-2608-212038.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kernel-7-2-linux-kernel-verteilt-prozesse-effizienter-und-swapped-besser-2608-212038.html</guid>
+      <description>Die neue Version des Linux-Kernels ermöglicht mehr Effizienz und nimmt einige bereits angekündigte Änderungen auf. Der 486-Support ist weg. (Linux-Kernel, Dateisystem)</description>
+      <pubDate>Tue, 18 Aug 2026 10:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>Chuwi Unibook &amp; Core 3 304 im Test: Macbook Neo macht Intels Wildkatze zum Bettvorleger</title>
       <link>https://www.golem.de/news/chuwi-unibook-core-3-304-im-test-macbook-neo-macht-intels-wildkatze-zum-bettvorleger-2608-211995.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-mit-ki-die-magie-ist-weg-2608-210704.html</guid>
       <description>Mit sieben Jahren habe ich mit dem Programmieren angefangen. Jetzt bin ich 50 und diese Sache, die ich so liebe, hat sich verändert. Von James Randall (&lt;a href="https://www.golem.de/specials/softwareentwicklung/"&gt;Softwareentwicklung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=210704&amp;amp;page=1&amp;amp;ts=1786522861" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 08:21:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT-Sicherheit: Studie zeigt hohe Klickraten durch KI-Spear-Phishing</title>
-      <link>https://www.golem.de/news/it-sicherheit-studie-zeigt-hohe-klickraten-durch-ki-spear-phishing-2608-211839.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-studie-zeigt-hohe-klickraten-durch-ki-spear-phishing-2608-211839.html</guid>
-      <description>Ein Experiment mit 7.700 Personen belegt: KI-gestützte Personalisierung verdreifacht die Erfolgsquote von Phishing-E-Mails. (&lt;a href="https://www.golem.de/specials/phishing/"&gt;Phishing&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/studie/"&gt;Studien&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211839&amp;amp;page=1&amp;amp;ts=1786522201" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 08:10:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
