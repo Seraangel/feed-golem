@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 14:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:30:21 GMT</lastBuildDate>
+    <item>
+      <title>Pressefreiheit bedroht: Disney klagt gegen Zensurkampagne der Trump-Regierung</title>
+      <link>https://www.golem.de/news/pressefreiheit-bedroht-disney-klagt-gegen-zensurkampagne-der-trump-regierung-2608-212104.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pressefreiheit-bedroht-disney-klagt-gegen-zensurkampagne-der-trump-regierung-2608-212104.html</guid>
+      <description>Disney wehrt sich gegen Drohungen des US-Präsidenten und der US-Kommunikationsbehörde FCC, Fernsehsendern die Lizenz zu entziehen. (Disney, FCC)</description>
+      <pubDate>Wed, 19 Aug 2026 14:26:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: FRITZ!Box 5590 Fiber Glasfaser-Router zum Amazon-Aktionspreis für 209,99 Euro</title>
       <link>https://www.golem.de/news/anzeige-fritz-box-5590-fiber-glasfaser-router-zum-amazon-aktionspreis-fuer-209-99-euro-2608-212103.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sicherheitsluecken-zwei-fehler-hebeln-tpm-schutz-aus-2608-211899.html</guid>
       <description>Eine weitverbreitete TPM-2.0-Implementierung hat Schwachstellen. Angreifer könnten Secure Boot aushebeln und Man-in-the-middle-Angriffe ausführen. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/cpu/"&gt;Prozessor&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211899&amp;amp;page=1&amp;amp;ts=1786619822" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 11:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manipulative SEO-Taktik: Perplexity blockiert versteckte Werbung für KI-Bots</title>
-      <link>https://www.golem.de/news/manipulative-seo-taktik-perplexity-blockiert-versteckte-werbung-fuer-ki-bots-2608-211898.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/manipulative-seo-taktik-perplexity-blockiert-versteckte-werbung-fuer-ki-bots-2608-211898.html</guid>
-      <description>In speziellen Markdown-Webseiten versteckte Werbung für KI-Crawler gefährdet laut Perplexity das Vertrauen der Nutzer in Suchmaschinen. (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/online-werbung/"&gt;Onlinewerbung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211898&amp;amp;page=1&amp;amp;ts=1786618502" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 10:55:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
