@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 05:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:20:18 GMT</lastBuildDate>
+    <item>
+      <title>Künstliche Intelligenz: OpenAI bremst Entwicklung nach Sicherheitsvorfall</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-openai-bremst-entwicklung-nach-sicherheitsvorfall-2608-212070.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-openai-bremst-entwicklung-nach-sicherheitsvorfall-2608-212070.html</guid>
+      <description>OpenAI verlangsamt die Modellentwicklung nach einem Sicherheitsvorfall. Auch beim Umsatzwachstum hinkt das Unternehmen Anthropic hinterher. (OpenAI, Börse)</description>
+      <pubDate>Wed, 19 Aug 2026 06:15:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: KI im Pentesting: Schwachstellen finden, Resilienz sichern</title>
       <link>https://www.golem.de/news/anzeige-ki-im-pentesting-schwachstellen-finden-resilienz-sichern-2608-209586.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-grosser-17-zoll-laptop-bei-amazon-im-angebot-2608-211864.html</guid>
       <description>Bei Amazon gibt es derzeit einen interessanten HP-Laptop im Angebot. Er ist fast zum Tiefstpreis erhältlich. (&lt;a href="https://www.golem.de/specials/notebook/"&gt;Notebook&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/computer/"&gt;Computer&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211864&amp;amp;page=1&amp;amp;ts=1786543382" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Wed, 12 Aug 2026 14:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixel-11-Serie angeschaut: Googles neue Pixel-Serie mit wenigen Neuerungen und teilweise teurer</title>
-      <link>https://www.golem.de/news/pixel-11-serie-angeschaut-googles-neue-pixel-serie-mit-wenigen-neuerungen-und-teilweise-teurer-2608-211637.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pixel-11-serie-angeschaut-googles-neue-pixel-serie-mit-wenigen-neuerungen-und-teilweise-teurer-2608-211637.html</guid>
-      <description>Googles neue Pixel-11-Serie bringt hardwareseitig kleine Verbesserungen. Die Preise steigen nur teilweise, die günstigen Versionen fallen allerdings weg. Ein Hands-on von Tobias Költzsch (&lt;a href="https://www.golem.de/specials/pixel11/"&gt;Pixel 11&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smartphone/"&gt;Smartphone&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211637&amp;amp;page=1&amp;amp;ts=1786543202" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 14:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
