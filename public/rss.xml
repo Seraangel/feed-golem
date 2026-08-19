@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 10:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 11:00:22 GMT</lastBuildDate>
+    <item>
+      <title>Schwarz Digits: KI-Rechenzentrum Lübbenau schließt Vertrag für Abwärme an Haushalte</title>
+      <link>https://www.golem.de/news/schwarz-digits-ki-rechenzentrum-luebbenau-schliesst-vertrag-fuer-abwaerme-an-haushalte-2608-212089.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schwarz-digits-ki-rechenzentrum-luebbenau-schliesst-vertrag-fuer-abwaerme-an-haushalte-2608-212089.html</guid>
+      <description>Schwarz Digits kann einen Teil der Abwärme des KI-Rechenzentrums an die Stadt Lübbenau abgeben. Doch die Abwärmemenge ist viel größer als die Zahl der Haushalte. (Infrastruktur, Server)</description>
+      <pubDate>Wed, 19 Aug 2026 10:58:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Lego Technic McLaren F1 MCL39 jetzt erstmals nur rund 150 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-lego-technic-mclaren-f1-mcl39-jetzt-erstmals-nur-rund-150-euro-bei-amazon-2608-212087.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/china-diebe-tauschen-geforce-rtx-5080-im-e-sport-hotel-aus-2608-211887.html</guid>
       <description>Um nicht aufzufallen, haben die zwei Täter günstigere Geforce-RTX-3060-Ti-GPUs in Hotel-PCs eingebaut. Das hätte fast 3.000 Euro Gewinn gebracht. (&lt;a href="https://www.golem.de/specials/grafikhardware/"&gt;Grafikkarten&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/nvidia/"&gt;Nvidia&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211887&amp;amp;page=1&amp;amp;ts=1786609262" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 08:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krypto-Broker: Bitpanda lässt KI-Agenten auf echte Depots los</title>
-      <link>https://www.golem.de/news/krypto-broker-bitpanda-laesst-ki-agenten-auf-echte-depots-los-2608-211827.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/krypto-broker-bitpanda-laesst-ki-agenten-auf-echte-depots-los-2608-211827.html</guid>
-      <description>Als erster europäischer Broker öffnet Bitpanda das Hauptkonto für Chatbots wie Claude und ChatGPT - ohne separates Agentenkonto. Wie die Freigaben funktionieren und wer haftet. Eine Analyse von Ulrike Barth (&lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/oauth/"&gt;OAuth&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211827&amp;amp;page=1&amp;amp;ts=1786608721" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 08:12:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
