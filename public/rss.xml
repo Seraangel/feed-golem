@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 09:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:40:16 GMT</lastBuildDate>
+    <item>
+      <title>Superheld: Spielwelt und brutale Kämpfe von Wolverine führen zu Diskussionen</title>
+      <link>https://www.golem.de/news/superheld-spielwelt-und-brutale-kaempfe-von-wolverine-fuehren-zu-diskussionen-2608-212085.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/superheld-spielwelt-und-brutale-kaempfe-von-wolverine-fuehren-zu-diskussionen-2608-212085.html</guid>
+      <description>Im Mittelpunkt der Debatte um Marvel's Wolverine stehen das lineare Spieldesign und die ungewöhnlich harte Gewaltdarstellung. (Insomniac Games, Sony)</description>
+      <pubDate>Wed, 19 Aug 2026 09:39:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kabellose Rückfahrkamera mit Display reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-kabellose-rueckfahrkamera-mit-display-reduziert-bei-amazon-2608-212084.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/exploit-geleakt-tausende-sharepoint-server-laufenden-angriffen-ausgesetzt-2608-211880.html</guid>
       <description>Abermals stehen Microsoft-Sharepoint-Instanzen über eine kritische Sicherheitslücke unter Beschuss. Admins sollten zügig handeln. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211880&amp;amp;page=1&amp;amp;ts=1786603741" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 06:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opt-out: Twitch öffnet Streamer-Inhalte für Amazons KI-Training</title>
-      <link>https://www.golem.de/news/opt-out-twitch-oeffnet-streamer-inhalte-fuer-amazons-ki-training-2608-211881.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/opt-out-twitch-oeffnet-streamer-inhalte-fuer-amazons-ki-training-2608-211881.html</guid>
-      <description>Streamer müssen bei Twitch selbst aktiv werden, wenn Amazon ihre Inhalte nicht fürs KI-Training verwenden soll. Das führt zu Kritik. (&lt;a href="https://www.golem.de/specials/twitch/"&gt;Twitch&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211881&amp;amp;page=1&amp;amp;ts=1786603261" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 06:41:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
