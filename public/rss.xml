@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 08:51:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:05:44 GMT</lastBuildDate>
+    <item>
+      <title>Mit WSE-3 Turbo: Cerebras neues Rack-Scale-System hängt GPUs weiter ab</title>
+      <link>https://www.golem.de/news/mit-wse-3-turbo-cerebras-neues-rack-scale-system-haengt-gpus-weiter-ab-2608-212079.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mit-wse-3-turbo-cerebras-neues-rack-scale-system-haengt-gpus-weiter-ab-2608-212079.html</guid>
+      <description>Mit komplett neuem Rack-System und überarbeitetem Chip in Wafer-Größe will Cerebras seinen Vorsprung bei KI-Inferenz weiter ausbauen. (KI, Prozessor)</description>
+      <pubDate>Wed, 19 Aug 2026 09:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Werbung in ChatGPT: OpenAI startet Anzeigengeschäft Europa</title>
       <link>https://www.golem.de/news/werbung-in-chatgpt-openai-startet-anzeigengeschaeft-europa-2608-212081.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuehlung-des-atomkraftwerks-paks-ungarn-will-wasserstand-kuenstlich-erhoehen-2608-211877.html</guid>
       <description>Ungarn will die Donau anstauen, damit das AKW Paks weitergekühlt werden kann. Dazu soll eine Sohlschwelle gebaut werden. (&lt;a href="https://www.golem.de/specials/atomkraft/"&gt;Atomkraft&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/klima/"&gt;Klima&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211877&amp;amp;page=1&amp;amp;ts=1786598822" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 05:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonnenfinsternis und Stromnetz: Nur eine kleine Delle in den Daten</title>
-      <link>https://www.golem.de/news/sonnenfinsternis-und-stromnetz-nur-eine-kleine-delle-in-den-daten-2608-211873.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sonnenfinsternis-und-stromnetz-nur-eine-kleine-delle-in-den-daten-2608-211873.html</guid>
-      <description>Die Sonnenfinsternis hat sich nur geringfügig auf die Stromproduktion durch Solarenergie ausgewirkt. In einem Jahr könnte der Effekt größer sein. (&lt;a href="https://www.golem.de/specials/solarenergie/"&gt;Solarenergie&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/kuehlung/"&gt;Kühlung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211873&amp;amp;page=1&amp;amp;ts=1786570982" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Wed, 12 Aug 2026 21:43:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
