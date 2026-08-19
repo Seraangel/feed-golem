@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 16:50:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:00:24 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Kompressor für den 18V-Akku von Makita kostet bei Amazon rund 36 Euro</title>
+      <link>https://www.golem.de/news/anzeige-kompressor-fuer-den-18v-akku-von-makita-kostet-bei-amazon-rund-36-euro-2608-212107.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kompressor-fuer-den-18v-akku-von-makita-kostet-bei-amazon-rund-36-euro-2608-212107.html</guid>
+      <description>Ein viel gekaufter Kompressor kostet bei Amazon knapp unter 36 Euro. Er ist mit den Akkus von Makita kompatibel. (Technik/Hardware)</description>
+      <pubDate>Wed, 19 Aug 2026 16:55:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Identity- und Access-Management mit Keycloak absichern</title>
       <link>https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2608-212069.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/strahlenschutzrecht-kernfusion-braucht-eigene-gesetze-fuer-sicheren-betrieb-2608-211904.html</guid>
       <description>Fusionsanlagen strahlen zwar schwächer als AKWs, aber zu stark für die Strahlenschutzverordnung. Es werden neue Regeln benötigt. (&lt;a href="https://www.golem.de/specials/kernfusion/"&gt;Kernfusion&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/politik-recht/"&gt;Politik&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211904&amp;amp;page=1&amp;amp;ts=1786623362" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 12:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smarte Futterautomaten streiken: Cloudpanne lässt unzählige Haustiere hungern</title>
-      <link>https://www.golem.de/news/smarte-futterautomaten-streiken-cloudpanne-laesst-unzaehlige-haustiere-hungern-2608-211901.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smarte-futterautomaten-streiken-cloudpanne-laesst-unzaehlige-haustiere-hungern-2608-211901.html</guid>
-      <description>Aufgrund einer Störung bei Petlibro haben Hunde und Katzen in Haushalten mit smarten Futterautomaten kein Futter bekommen. Nutzer sind verärgert. (&lt;a href="https://www.golem.de/specials/cloud-dienste/"&gt;Cloud-Dienste&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smarthome/"&gt;Smart Home&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211901&amp;amp;page=1&amp;amp;ts=1786622461" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 12:01:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
