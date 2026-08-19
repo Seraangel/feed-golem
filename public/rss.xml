@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 14:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:40:20 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Beliebtes Fahrradleuchten-Set mit Akku für 18 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-beliebtes-fahrradleuchten-set-mit-akku-fuer-18-euro-bei-amazon-2608-212105.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebtes-fahrradleuchten-set-mit-akku-fuer-18-euro-bei-amazon-2608-212105.html</guid>
+      <description>Amazon hat ein beliebtes Fahrradleuchten-Set im Angebot, das über eine StVZO-Zulassung verfügt und mit aufladbaren Akkus betrieben wird. (Technik/Hardware)</description>
+      <pubDate>Wed, 19 Aug 2026 14:37:06 GMT</pubDate>
+    </item>
     <item>
       <title>Pressefreiheit bedroht: Disney klagt gegen Zensurkampagne der Trump-Regierung</title>
       <link>https://www.golem.de/news/pressefreiheit-bedroht-disney-klagt-gegen-zensurkampagne-der-trump-regierung-2608-212104.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/doku-strategien-formate-und-tools-wie-die-technische-dokumentation-im-21-jahrhundert-ankommt-2608-211862.html</guid>
       <description>Technische Dokumentation kann bei vielen Produkten zur Dauerbaustelle werden. Die Lösung sind Module. Wir erklären, wie das in der Praxis umzusetzen ist. Ein Deep Dive von Johannes Hauser (&lt;a href="https://www.golem.de/specials/gutdokumentiert/"&gt;Gut dokumentiert!&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/softwareentwicklung/"&gt;Softwareentwicklung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211862&amp;amp;page=1&amp;amp;ts=1786620602" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 11:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheitslücken: Zwei Fehler hebeln TPM-Schutz aus</title>
-      <link>https://www.golem.de/news/sicherheitsluecken-zwei-fehler-hebeln-tpm-schutz-aus-2608-211899.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsluecken-zwei-fehler-hebeln-tpm-schutz-aus-2608-211899.html</guid>
-      <description>Eine weitverbreitete TPM-2.0-Implementierung hat Schwachstellen. Angreifer könnten Secure Boot aushebeln und Man-in-the-middle-Angriffe ausführen. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/cpu/"&gt;Prozessor&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211899&amp;amp;page=1&amp;amp;ts=1786619822" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 11:17:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
