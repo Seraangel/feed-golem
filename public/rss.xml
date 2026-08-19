@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 09:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:05:22 GMT</lastBuildDate>
+    <item>
+      <title>Energiesektor 2026: Die Gewinner des KI-Stromhungers</title>
+      <link>https://www.golem.de/news/energiesektor-2026-die-gewinner-des-ki-stromhungers-2608-212051.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/energiesektor-2026-die-gewinner-des-ki-stromhungers-2608-212051.html</guid>
+      <description>Kraftwerksbetreiber und Netztechnik-Hersteller: Welche Firmen vom steigenden Strombedarf von KI und Rechenzentren profitieren - und wo die Risiken liegen. Eine Analyse von Björn Meschkat (KI, Wirtschaft)</description>
+      <pubDate>Wed, 19 Aug 2026 10:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Superheld: Spielwelt und brutale Kämpfe von Wolverine führen zu Diskussionen</title>
       <link>https://www.golem.de/news/superheld-spielwelt-und-brutale-kaempfe-von-wolverine-fuehren-zu-diskussionen-2608-212085.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/neurotechnologie-forscher-warnen-vor-handel-mit-gedanken-2608-211882.html</guid>
       <description>Forscher dekodieren Hirnsignale und steuern Verhalten. Unternehmen wollen EEG-Daten für Marketing und Effizienz nutzen. (&lt;a href="https://www.golem.de/specials/innovation-und-forschung/"&gt;Innovation &amp; Forschung&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/patent/"&gt;Patent&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211882&amp;amp;page=1&amp;amp;ts=1786605185" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 07:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exploit geleakt: Tausende Sharepoint-Server laufenden Angriffen ausgesetzt</title>
-      <link>https://www.golem.de/news/exploit-geleakt-tausende-sharepoint-server-laufenden-angriffen-ausgesetzt-2608-211880.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/exploit-geleakt-tausende-sharepoint-server-laufenden-angriffen-ausgesetzt-2608-211880.html</guid>
-      <description>Abermals stehen Microsoft-Sharepoint-Instanzen über eine kritische Sicherheitslücke unter Beschuss. Admins sollten zügig handeln. (&lt;a href="https://www.golem.de/specials/sicherheitsluecke/"&gt;Sicherheitslücke&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/microsoft/"&gt;Microsoft&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211880&amp;amp;page=1&amp;amp;ts=1786603741" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 06:49:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
