@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 19 Aug 2026 16:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 16:50:23 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Identity- und Access-Management mit Keycloak absichern</title>
+      <link>https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2608-212069.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2608-212069.html</guid>
+      <description>Identity- und Access-Management sind für viele Unternehmen eine Herausforderung. Ein praxisorientiertes Training vermittelt den sicheren Einsatz von Keycloak samt SSO und MFA. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 19 Aug 2026 16:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Technology: No room for data centers? South Korea wants to build one underwater</title>
       <link>https://www.golem.de/news/technology-no-room-for-data-centers-south-korea-wants-to-build-one-underwater-2608-212060.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smarte-futterautomaten-streiken-cloudpanne-laesst-unzaehlige-haustiere-hungern-2608-211901.html</guid>
       <description>Aufgrund einer Störung bei Petlibro haben Hunde und Katzen in Haushalten mit smarten Futterautomaten kein Futter bekommen. Nutzer sind verärgert. (&lt;a href="https://www.golem.de/specials/cloud-dienste/"&gt;Cloud-Dienste&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/smarthome/"&gt;Smart Home&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211901&amp;amp;page=1&amp;amp;ts=1786622461" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 12:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Samsung Galaxy A57 und Tablet mit doppeltem Datenvolumen bei Blau zum Angebotspreis</title>
-      <link>https://www.golem.de/news/anzeige-samsung-galaxy-a57-und-tablet-mit-doppeltem-datenvolumen-bei-blau-zum-angebotspreis-2608-211902.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-samsung-galaxy-a57-und-tablet-mit-doppeltem-datenvolumen-bei-blau-zum-angebotspreis-2608-211902.html</guid>
-      <description>Der Mobilfunkanbieter Blau hat jetzt ein Rundumsorglos-Paket geschnürt: Samsung-Smartphone und -Tablet mit 40 GByte Daten zum Einstiegspreis. (&lt;a href="https://www.golem.de/specials/blau.de/"&gt;Blau.de&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/samsung/"&gt;Samsung&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211902&amp;amp;page=1&amp;amp;ts=1786621922" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 11:52:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
