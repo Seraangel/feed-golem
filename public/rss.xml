@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 11:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:15:20 GMT</lastBuildDate>
+    <item>
+      <title>Google Pixel Watch 5 im Kurztest: Sportuhr mit GPS aus der Cloud</title>
+      <link>https://www.golem.de/news/google-pixel-watch-5-im-kurztest-sportuhr-mit-gps-aus-der-cloud-2608-212126.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/google-pixel-watch-5-im-kurztest-sportuhr-mit-gps-aus-der-cloud-2608-212126.html</guid>
+      <description>Mehr Akku, genaueres GPS und neue KI-Funktionen: Die Pixel Watch 5 zeigt, wie wichtig Google Health für die Zukunft des Wearables ist. Ein Test von Peter Steinlechner (Pixel Watch, GPS)</description>
+      <pubDate>Thu, 20 Aug 2026 11:10:08 GMT</pubDate>
+    </item>
     <item>
       <title>Digitale Souveränität: Französischer Cloudanbieter OVH drängt auf deutschen Markt</title>
       <link>https://www.golem.de/news/digitale-souveraenitaet-franzoesischer-cloudanbieter-ovh-draengt-auf-deutschen-markt-2608-212128.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/security-der-phish-stinkt-vom-kopf-her-2608-211872.html</guid>
       <description>Anti-Phishing-Kampagnen sollen die IT-Laien in einer Firma fit gegen Angriffe machen. Das ist aber komplett der falsche Ansatz. Ein IMHO von R. Zehl (Phishing, IMHO)</description>
       <pubDate>Fri, 14 Aug 2026 07:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cybersicherheit: US-Regierung erlaubt Firmen Offensiv-Hacks</title>
-      <link>https://www.golem.de/news/cybersicherheit-us-regierung-erlaubt-firmen-offensiv-hacks-2608-211932.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cybersicherheit-us-regierung-erlaubt-firmen-offensiv-hacks-2608-211932.html</guid>
-      <description>Die USA lassen künftig geprüfte Firmen unter staatlicher Regie offensive Cyberoperationen gegen Kriminelle im Ausland ausführen. (Sicherheitslücke, Cyberwar)</description>
-      <pubDate>Fri, 14 Aug 2026 07:22:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
