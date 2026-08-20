@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 11:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:35:20 GMT</lastBuildDate>
+    <item>
+      <title>(g+) PGLite: PostgreSQL zieht in den Browser</title>
+      <link>https://www.golem.de/news/pglite-postgresql-zieht-in-den-browser-2608-212096.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pglite-postgresql-zieht-in-den-browser-2608-212096.html</guid>
+      <description>PGLite eröffnet neue Möglichkeiten mit der Open-Source-Datenbank PostgreSQL und ist ideal für datenschutzfreundliche KI-Anwendungen. Wir erklären es anhand eines Praxisbeispiels. Eine Anleitung von Antony Ghiroz (PostgreSQL, Datenbank)</description>
+      <pubDate>Thu, 20 Aug 2026 11:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>Google Pixel Watch 5 im Kurztest: Sportuhr mit GPS aus der Cloud</title>
       <link>https://www.golem.de/news/google-pixel-watch-5-im-kurztest-sportuhr-mit-gps-aus-der-cloud-2608-212126.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anthropic-wenn-ki-agenten-sich-in-revierkaempfen-verlieren-2608-211929.html</guid>
       <description>Drei KI-Agenten sollen das gleiche Projekt fertigstellen. Das Ergebnis? Sabotage, Spitzfindigkeit und ein Kampf um die Vorherrschaft. (Anthropic, KI)</description>
       <pubDate>Fri, 14 Aug 2026 07:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Security: Der Phish stinkt vom Kopf her</title>
-      <link>https://www.golem.de/news/security-der-phish-stinkt-vom-kopf-her-2608-211872.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/security-der-phish-stinkt-vom-kopf-her-2608-211872.html</guid>
-      <description>Anti-Phishing-Kampagnen sollen die IT-Laien in einer Firma fit gegen Angriffe machen. Das ist aber komplett der falsche Ansatz. Ein IMHO von R. Zehl (Phishing, IMHO)</description>
-      <pubDate>Fri, 14 Aug 2026 07:40:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
