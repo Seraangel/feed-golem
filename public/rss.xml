@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 06:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:45:20 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft: Windows-11-Update lässt Spiele und PCs abstürzen</title>
+      <link>https://www.golem.de/news/microsoft-windows-11-update-laesst-spiele-und-pcs-abstuerzen-2608-212113.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-windows-11-update-laesst-spiele-und-pcs-abstuerzen-2608-212113.html</guid>
+      <description>Microsoft untersucht Probleme mit den August-Updates für Windows 11. Sowohl Videospiele als auch ganze PCs stürzen bei einigen Nutzern ab. (Windows 11, Microsoft)</description>
+      <pubDate>Thu, 20 Aug 2026 06:41:04 GMT</pubDate>
+    </item>
     <item>
       <title>Vertragsverlängerung: US-Army lockt mit freien Tagen für GTA 6</title>
       <link>https://www.golem.de/news/vertragsverlaengerung-us-army-lockt-mit-freien-tagen-fuer-gta-6-2608-212112.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cirqa-garmin-plant-offenbar-einen-smart-ring-2608-211910.html</guid>
       <description>Nach dem Fitnesstracker Cirqa könnte Garmin seine neue Wearable-Reihe schon bald um einen Smart Ring erweitern. (&lt;a href="https://www.golem.de/specials/smart-ring/"&gt;Smart Ring&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/fitness/"&gt;Fitness&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211910&amp;amp;page=1&amp;amp;ts=1786628882" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 13:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kritische Infrastruktur: Regierung sieht keine Registrierungslücke bei NIS2</title>
-      <link>https://www.golem.de/news/kritische-infrastruktur-regierung-sieht-keine-registrierungsluecke-bei-nis2-2608-211907.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kritische-infrastruktur-regierung-sieht-keine-registrierungsluecke-bei-nis2-2608-211907.html</guid>
-      <description>Ursprünglich ist der Bund von fast 30.000 Firmen ausgegangen, die zur kritischen Infrastruktur zählen. Doch es haben sich 10.000 weniger angemeldet. (&lt;a href="https://www.golem.de/specials/nis2/"&gt;Nis 2&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/security/"&gt;Security&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211907&amp;amp;page=1&amp;amp;ts=1786627381" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 13:23:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
