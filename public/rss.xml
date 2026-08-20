@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 11:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:45:20 GMT</lastBuildDate>
+    <item>
+      <title>Unreal Engine: Epic Games macht KI-Agenten zu Spieleentwicklern</title>
+      <link>https://www.golem.de/news/unreal-engine-epic-games-macht-ki-agenten-zu-spieleentwicklern-2608-212132.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/unreal-engine-epic-games-macht-ki-agenten-zu-spieleentwicklern-2608-212132.html</guid>
+      <description>KI-Agenten kommen in den Unreal Editor für Fortnite. Die Systeme schreiben Code, erstellen Inhalte und testen Projekte selbstständig. (Unreal-Engine, KI)</description>
+      <pubDate>Thu, 20 Aug 2026 11:42:04 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) PGLite: PostgreSQL zieht in den Browser</title>
       <link>https://www.golem.de/news/pglite-postgresql-zieht-in-den-browser-2608-212096.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/porsche-kommt-2030-das-taycan-ende-2608-211931.html</guid>
       <description>Porsche will den Elektrosportwagen Taycan offenbar einstellen. Die Verkaufszahlen brechen ein. (Porsche, Elektroauto)</description>
       <pubDate>Fri, 14 Aug 2026 08:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic: Wenn KI-Agenten sich in Revierkämpfen verlieren</title>
-      <link>https://www.golem.de/news/anthropic-wenn-ki-agenten-sich-in-revierkaempfen-verlieren-2608-211929.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anthropic-wenn-ki-agenten-sich-in-revierkaempfen-verlieren-2608-211929.html</guid>
-      <description>Drei KI-Agenten sollen das gleiche Projekt fertigstellen. Das Ergebnis? Sabotage, Spitzfindigkeit und ein Kampf um die Vorherrschaft. (Anthropic, KI)</description>
-      <pubDate>Fri, 14 Aug 2026 07:51:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
