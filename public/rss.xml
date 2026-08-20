@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 08:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 08:25:20 GMT</lastBuildDate>
+    <item>
+      <title>Strahlungskühlung: Solarsystem erzeugt Strom, wärmt und kühlt, alles gleichzeitig</title>
+      <link>https://www.golem.de/news/strahlungskuehlung-solarsystem-erzeugt-strom-waermt-und-kuehlt-alles-gleichzeitig-2608-212117.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/strahlungskuehlung-solarsystem-erzeugt-strom-waermt-und-kuehlt-alles-gleichzeitig-2608-212117.html</guid>
+      <description>Das neu entwickelte System nutzt neben dem Licht der Sonne auch die Kälte des Weltalls als erneuerbare Energiequelle. (Solarenergie, Energiewende)</description>
+      <pubDate>Thu, 20 Aug 2026 08:20:08 GMT</pubDate>
+    </item>
     <item>
       <title>HP Laser 1008a: Claude Code schreibt Druckertreiber für MacOS</title>
       <link>https://www.golem.de/news/hp-laser-1008a-claude-code-schreibt-druckertreiber-fuer-macos-2608-212116.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-steckdosenturm-mit-ac-usb-und-schalter-fuer-23-79-euro-bei-amazon-2608-211914.html</guid>
       <description>Einen Steckdosenturm mit acht AC-Steckdosen, vier USB-Ports und Sicherheitsschalter gibt es mit Zwei-Meter-Kabel zum Sparpreis bei Amazon. (&lt;a href="https://www.golem.de/specials/technik-und-hardware/"&gt;Technik/Hardware&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211914&amp;amp;page=1&amp;amp;ts=1786633502" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 15:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anfragen: Bundesregierung fehlen Daten bei Rechenzentrumsstrategie</title>
-      <link>https://www.golem.de/news/anfragen-bundesregierung-fehlen-daten-bei-rechenzentrumsstrategie-2608-211915.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anfragen-bundesregierung-fehlen-daten-bei-rechenzentrumsstrategie-2608-211915.html</guid>
-      <description>Die Bundesregierung hat kaum genauere Informationen zu Bauplänen und Wasserbedarf neuer Rechenzentren. Es herrscht das Prinzip Hoffnung. (&lt;a href="https://www.golem.de/specials/digitalesouveraenitaet/"&gt;Souveränität&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211915&amp;amp;page=1&amp;amp;ts=1786633082" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 14:58:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
