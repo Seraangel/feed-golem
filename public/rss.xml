@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 14:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:10:22 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Außen-Überwachungskamera mit Solarpanel reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-aussen-ueberwachungskamera-mit-solarpanel-reduziert-bei-amazon-2608-212142.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-aussen-ueberwachungskamera-mit-solarpanel-reduziert-bei-amazon-2608-212142.html</guid>
+      <description>Eine schwenkbare Außen-Überwachungskamera mit integriertem Solarpanel, 2K-Auflösung und Bewegungserkennung gibt es zum Sparpreis bei Amazon. (Videoüberwachung, Technik/Hardware)</description>
+      <pubDate>Thu, 20 Aug 2026 15:05:04 GMT</pubDate>
+    </item>
     <item>
       <title>Spieleplattform: Der Epic Games Store kommt für Linux</title>
       <link>https://www.golem.de/news/spieleplattform-der-epic-games-store-kommt-fuer-linux-2608-212143.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/datenkorruption-16-jahre-alter-sqlite-bug-stoert-tailscale-ueber-monate-2608-211945.html</guid>
       <description>Tailscale hat SQLite seit Jahren im Einsatz gehabt und keine Änderungen am Code vorgenommen, als der Bug anfängt, Fehler zu verursachen. (Datenbank, POSIX)</description>
       <pubDate>Fri, 14 Aug 2026 10:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>IF Metall: Nach fast drei Jahren Streik gewinnt Tesla in Schweden</title>
-      <link>https://www.golem.de/news/if-metall-nach-fast-drei-jahren-streik-gewinnt-tesla-in-schweden-2608-211943.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/if-metall-nach-fast-drei-jahren-streik-gewinnt-tesla-in-schweden-2608-211943.html</guid>
-      <description>Tesla hat am Ende mit allen Streikteilnehmern Abfindungen und Deals vereinbart. Es ist der längste Streik in der Geschichte Schwedens. (Tesla, Elektroauto)</description>
-      <pubDate>Fri, 14 Aug 2026 09:48:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
