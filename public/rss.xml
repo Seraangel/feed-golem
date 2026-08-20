@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 09:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:50:22 GMT</lastBuildDate>
+    <item>
+      <title>Linux-SBC eingestellt: Pine64 kapituliert vor Speicherpreisen</title>
+      <link>https://www.golem.de/news/linux-sbc-eingestellt-pine64-kapituliert-vor-speicherpreisen-2608-212122.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/linux-sbc-eingestellt-pine64-kapituliert-vor-speicherpreisen-2608-212122.html</guid>
+      <description>Pine64 stellt vorerst die Produktion aller Linux-Geräte ein. Ob sie wieder aufgenommen wird, ist unklar. Dafür soll es mehr Mikrocontroller geben. (Pine64, RAM)</description>
+      <pubDate>Thu, 20 Aug 2026 09:47:03 GMT</pubDate>
+    </item>
     <item>
       <title>IAA Transportation: Tesla bringt den Elektro-Lkw Semi nach Europa</title>
       <link>https://www.golem.de/news/iaa-transportation-tesla-bringt-den-elektro-lkw-semi-nach-europa-2608-212121.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-4-tbyte-grosse-m-2-ssd-fuer-ps5-und-pc-zum-neuen-tiefstpreis-bei-amazon-2608-211921.html</guid>
       <description>Jetzt vor dem Aus physischer PS5-Spiele sichern: Amazon verkauft die Lexar EQ790 mit 4 TByte so günstig wie noch nie. (&lt;a href="https://www.golem.de/specials/solidstatedrive/"&gt;Solid State Drive&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/amazon/"&gt;Amazon&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211921&amp;amp;page=1&amp;amp;ts=1786638961" alt="" width="1" height="1" /&gt;</description>
       <pubDate>Thu, 13 Aug 2026 16:36:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Imperium: SpaceX ist kein Raketenstartunternehmen mehr</title>
-      <link>https://www.golem.de/news/ki-imperium-spacex-ist-kein-raketenstartunternehmen-mehr-2608-211894.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-imperium-spacex-ist-kein-raketenstartunternehmen-mehr-2608-211894.html</guid>
-      <description>SpaceX entwickelt sich zu einem Betrieb für KI-Anwendungen. Musk ist überzeugt, dass SpaceX dadurch astronomische Gewinne generieren wird. (&lt;a href="https://www.golem.de/specials/elon-musk/"&gt;Elon Musk&lt;/a&gt;, &lt;a href="https://www.golem.de/specials/ki/"&gt;KI&lt;/a&gt;) &lt;img src="https://cpx.golem.de/cpx.php?class=17&amp;amp;aid=211894&amp;amp;page=1&amp;amp;ts=1786638241" alt="" width="1" height="1" /&gt;</description>
-      <pubDate>Thu, 13 Aug 2026 16:24:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
