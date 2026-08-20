@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 10:15:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:30:20 GMT</lastBuildDate>
+    <item>
+      <title>Kritische Sicherheitslücke: Hacker attackieren Gitlab-Instanzen</title>
+      <link>https://www.golem.de/news/kritische-sicherheitsluecke-hacker-attackieren-gitlab-instanzen-2608-212127.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kritische-sicherheitsluecke-hacker-attackieren-gitlab-instanzen-2608-212127.html</guid>
+      <description>Angreifer können durch eine Sicherheitslücke auf Gitlab-Instanzen verheerende Schäden anrichten. Forscher warnen bereits vor laufenden Angriffen. (Sicherheitslücke, KI)</description>
+      <pubDate>Thu, 20 Aug 2026 10:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>Spielekonsole: Mattel bringt beleuchtete Xbox aus 3.500 Klemmbausteinen</title>
       <link>https://www.golem.de/news/spielekonsole-mattel-bringt-beleuchtete-xbox-aus-3-500-klemmbausteinen-2608-212124.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/stromspeicher-deutschlands-groesster-batterieverbund-geht-ans-netz-2608-211924.html</guid>
       <description>Bei Leuna ist Deutschlands größter Batteriespeicherverbund eingeweiht worden. Er soll Strom aus Wind und Sonne flexibler nutzbar machen. (Energiewende, Smart Meter)</description>
       <pubDate>Fri, 14 Aug 2026 06:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>CEO-Entlohnung 2025: Musk verdient 158 Milliarden US-Dollar - bekommt sie aber nicht</title>
-      <link>https://www.golem.de/news/ceo-entlohnung-2025-musk-verdient-158-milliarden-us-dollar-bekommt-sie-aber-nicht-2608-211923.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ceo-entlohnung-2025-musk-verdient-158-milliarden-us-dollar-bekommt-sie-aber-nicht-2608-211923.html</guid>
-      <description>158 Milliarden US-Dollar könnten 2,5 Millionen Arbeiter bei Tesla für ein Jahr bezahlen - oder einen Elon Musk. (Elon Musk, Börse)</description>
-      <pubDate>Fri, 14 Aug 2026 05:28:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
