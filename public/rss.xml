@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 13:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:05:30 GMT</lastBuildDate>
+    <item>
+      <title>Verhandlungen über Zusammenarbeit: Cognition AI will keine Übernahme durch SpaceX</title>
+      <link>https://www.golem.de/news/verhandlungen-ueber-zusammenarbeit-cognition-ai-will-keine-uebernahme-durch-spacex-2608-212141.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/verhandlungen-ueber-zusammenarbeit-cognition-ai-will-keine-uebernahme-durch-spacex-2608-212141.html</guid>
+      <description>Durch eine Zusammenarbeit mit Cognition AI könnte SpaceX potenzielle Großkunden erreichen. (KI, Wirtschaft)</description>
+      <pubDate>Thu, 20 Aug 2026 14:02:03 GMT</pubDate>
+    </item>
     <item>
       <title>GSC Game World: Neue Grafik für Stalker 2 spaltet die Community</title>
       <link>https://www.golem.de/news/gsc-game-world-neue-grafik-fuer-stalker-2-spaltet-die-community-2608-212140.html</link>
@@ -104,10 +111,10 @@
       <pubDate>Thu, 20 Aug 2026 10:38:02 GMT</pubDate>
     </item>
     <item>
-      <title>Kritische Sicherheitslücke: Hacker attackieren Gitlab-Instanzen</title>
+      <title>Softwareprojekte gefährdet: Angriffe auf Gitlab beobachtet</title>
       <link>https://www.golem.de/news/kritische-sicherheitsluecke-hacker-attackieren-gitlab-instanzen-2608-212127.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/kritische-sicherheitsluecke-hacker-attackieren-gitlab-instanzen-2608-212127.html</guid>
-      <description>Angreifer können durch eine Sicherheitslücke auf Gitlab-Instanzen verheerende Schäden anrichten. Forscher warnen bereits vor laufenden Angriffen. (Sicherheitslücke, KI)</description>
+      <description>Angreifer können durch eine Sicherheitslücke auf Gitlab-Instanzen verheerende Schäden anrichten. Attacken laufen bereits. (Sicherheitslücke, KI)</description>
       <pubDate>Thu, 20 Aug 2026 10:26:09 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spielebranche-take-two-gruendet-grosses-neues-studio-und-wir-ahnen-wofuer-2608-211942.html</guid>
       <description>Mit Small Axe Studios baut Take-Two ein neues Entwicklerteam auf. Die Personalentscheidungen deuten in eine klare Richtung. (Take-Two, Electronic Arts)</description>
       <pubDate>Fri, 14 Aug 2026 09:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>1.800 Arbeitsplätze betroffen: Polizei macht 94 betrügerische Callcenter dicht</title>
-      <link>https://www.golem.de/news/1-800-arbeitsplaetze-betroffen-polizei-macht-94-betruegerische-callcenter-dicht-2608-211939.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/1-800-arbeitsplaetze-betroffen-polizei-macht-94-betruegerische-callcenter-dicht-2608-211939.html</guid>
-      <description>Die Callcenter-Mitarbeiter haben sich häufig als Banker, Makler oder Polizeibeamte ausgegeben und versucht, an das Geld ihrer Opfer zu gelangen. (Cybercrime, Security)</description>
-      <pubDate>Fri, 14 Aug 2026 09:06:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
