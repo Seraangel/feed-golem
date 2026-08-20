@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 20 Aug 2026 15:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:50:20 GMT</lastBuildDate>
+    <item>
+      <title>CCS Insight, GSMA: eSIM wird gegen Roaming-Abzocke immer wichtiger</title>
+      <link>https://www.golem.de/news/ccs-insight-gsma-esim-wird-gegen-roaming-abzocke-immer-wichtiger-2608-212145.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ccs-insight-gsma-esim-wird-gegen-roaming-abzocke-immer-wichtiger-2608-212145.html</guid>
+      <description>Beim internationalen Roaming treffen extrem geringe Bereitstellungskosten auf astronomische Endkundenpreise. Dies erklärt den anhaltenden Boom der Reise-eSIMs. (Roaming, Mobilfunk)</description>
+      <pubDate>Thu, 20 Aug 2026 16:49:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Microsoft Azure administrieren: Workshop für IT-Profis</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-it-profis-2608-212109.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-it-profis-2608-212109.html</guid>
+      <description>Die Administration von Microsoft Azure verlangt fundiertes Wissen zu Netzwerken, Storage und Sicherheit. Ein Workshop der Golem Karrierewelt vermittelt die nötigen Kompetenzen. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Thu, 20 Aug 2026 16:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Außen-Überwachungskamera mit Solarpanel reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-aussen-ueberwachungskamera-mit-solarpanel-reduziert-bei-amazon-2608-212142.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-wera-kraftform-kompakt-vde-big-pack-mit-26-teilen-erstmals-fuer-nur-rund-75-euro-bei-amazon-2608-211947.html</guid>
       <description>Das Wera Kraftform Kompakt VDE Big Pack 1 mit 26 Teilen ist bis 1.000 Volt isoliert und bei Amazon aktuell so günstig wie noch nie. (Technik/Hardware)</description>
       <pubDate>Fri, 14 Aug 2026 10:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>BKA greift durch: Deutsche Bankkonten durch Sicherheitslücke geplündert</title>
-      <link>https://www.golem.de/news/bka-greift-durch-deutsche-bankkonten-durch-sicherheitsluecke-gepluendert-2608-211946.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bka-greift-durch-deutsche-bankkonten-durch-sicherheitsluecke-gepluendert-2608-211946.html</guid>
-      <description>Ende 2023 haben Cyberkriminelle einen Millionenbetrag von deutschen Bankkonten gestohlen. Das BKA hat nun mehrere Verdächtige ermittelt. (Cybercrime, Finanzsoftware)</description>
-      <pubDate>Fri, 14 Aug 2026 10:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Datenkorruption: 16 Jahre alter SQLite-Bug stört Tailscale über Monate</title>
-      <link>https://www.golem.de/news/datenkorruption-16-jahre-alter-sqlite-bug-stoert-tailscale-ueber-monate-2608-211945.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/datenkorruption-16-jahre-alter-sqlite-bug-stoert-tailscale-ueber-monate-2608-211945.html</guid>
-      <description>Tailscale hat SQLite seit Jahren im Einsatz gehabt und keine Änderungen am Code vorgenommen, als der Bug anfängt, Fehler zu verursachen. (Datenbank, POSIX)</description>
-      <pubDate>Fri, 14 Aug 2026 10:10:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
