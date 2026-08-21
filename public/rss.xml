@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 21 Aug 2026 12:25:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:25:25 GMT</lastBuildDate>
+    <item>
+      <title>Kühlt auf 10 mK: IBM zeigt modularen Kühlschrank für Quantencomputer</title>
+      <link>https://www.golem.de/news/kuehlt-auf-10-mk-ibm-zeigt-modularen-kuehlschrank-fuer-quantencomputer-2608-212179.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuehlt-auf-10-mk-ibm-zeigt-modularen-kuehlschrank-fuer-quantencomputer-2608-212179.html</guid>
+      <description>IBM will praktisch nutzbare Quantencomputer aus vielen Chips bauen. Dafür sind klassische Kryostaten aber ungeeignet. (Quantencomputer, IBM)</description>
+      <pubDate>Fri, 21 Aug 2026 13:20:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Google Pixel 11 mit doppeltem Datenvolumen und 200 Euro Prämie für 1 Euro bei Blau</title>
       <link>https://www.golem.de/news/anzeige-google-pixel-11-mit-doppeltem-datenvolumen-und-200-euro-praemie-fuer-1-euro-bei-blau-2608-212177.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/heart-aerospace-erfolgreicher-test-fuer-weltgroesstes-elektroflugzeug-2608-211972.html</guid>
       <description>Die batterieelektrische X1 von Heart Aerospace war eine halbe Stunde in der Luft. Der Strom für den Flug soll nur 5 US-Dollar gekostet haben. (Luftfahrt, Wissenschaft)</description>
       <pubDate>Sat, 15 Aug 2026 10:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stiftung Warentest: Fake-Klimaanlage enthält PC-Lüfter mit Heizspirale</title>
-      <link>https://www.golem.de/news/epicooler-desaster-fake-klima-enthaelt-pc-luefter-mit-heizspirale-2608-211969.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/epicooler-desaster-fake-klima-enthaelt-pc-luefter-mit-heizspirale-2608-211969.html</guid>
-      <description>Die Stiftung Warentest hat sich den als Wundergerät beworbenen Epicooler bestellt und ihn zerlegt. (Energie &amp; Klima, Stiftung Warentest)</description>
-      <pubDate>Sat, 15 Aug 2026 09:42:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
