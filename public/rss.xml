@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 21 Aug 2026 10:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:45:20 GMT</lastBuildDate>
+    <item>
+      <title>N-able Passportal: Jede Website konnte Passwort-Tresore auslesen</title>
+      <link>https://www.golem.de/news/n-able-passportal-jede-website-konnte-passwort-tresore-auslesen-2608-212171.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/n-able-passportal-jede-website-konnte-passwort-tresore-auslesen-2608-212171.html</guid>
+      <description>Ein Forscher hat bei N-able Passportal eine kritische Lücke entdeckt. Angreifer hätten damit leicht Zugangsdaten aus Passwort-Tresoren abgreifen können. (Sicherheitslücke, Browser)</description>
+      <pubDate>Fri, 21 Aug 2026 10:40:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ledlenser P7R Core Profi-Taschenlampe bei Amazon jetzt nur rund 77 Euro</title>
       <link>https://www.golem.de/news/anzeige-ledlenser-p7r-core-profi-taschenlampe-bei-amazon-jetzt-nur-rund-77-euro-2608-212172.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobile-wallbox-11-kw-mit-app-und-zubehoer-zum-aktionspreis-fuer-nur-rund-160-euro-bei-amazon-2608-211960.html</guid>
       <description>Die Mobile Wallbox von dé 11 kW mit App-Steuerung lädt mit bis zu 11 kW über CEE-Stecker und ist bei Amazon aktuell reduziert. (Elektromobilität, Elektroauto)</description>
       <pubDate>Sat, 15 Aug 2026 08:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eure Meinung zum KI-Hype: "Irgendwann fliegt uns alles um die Ohren"</title>
-      <link>https://www.golem.de/news/eure-meinung-zum-ki-hype-irgendwann-fliegt-uns-alles-um-die-ohren-2608-211913.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/eure-meinung-zum-ki-hype-irgendwann-fliegt-uns-alles-um-die-ohren-2608-211913.html</guid>
-      <description>Ist KI ein nützliches Tool oder führt der KI-Hype in die Katastrophe? Wir haben euch gefragt, wie ihr die Zukunft von KI seht. Danke für eure tollen Antworten - hier sind sie. (KI, Börse)</description>
-      <pubDate>Sat, 15 Aug 2026 08:30:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
