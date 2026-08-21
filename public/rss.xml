@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 21 Aug 2026 16:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:50:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Purview: Sensitivity Labels, DLP und Insider Risk</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-purview-sensitivity-labels-dlp-und-insider-risk-2608-212148.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-sensitivity-labels-dlp-und-insider-risk-2608-212148.html</guid>
+      <description>Sensitive Daten in Microsoft 365 zu schützen, ist für viele Unternehmen eine zentrale Aufgabe. Ein Workshop zu Microsoft Purview vermittelt praxisnahe Lösungsansätze. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Fri, 21 Aug 2026 16:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>Azure: Meta ist einer der besten Kunden von Microsoft-KI</title>
       <link>https://www.golem.de/news/azure-meta-ist-einer-der-besten-kunden-von-microsoft-ki-2608-212189.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-balkonkraftwerk-mit-bc-modulen-und-neuem-anker-speicher-950-euro-guenstiger-2608-211955.html</guid>
       <description>Bei Kleines Kraftwerk gibt es jetzt ein Balkonkraftwerk mit neusten BC-Modulen und der Anker Solarbank 4 Pro mit 950 Euro Golem-Rabatt. (Balkonkraftwerk, Solarenergie)</description>
       <pubDate>Sun, 16 Aug 2026 08:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) IT-Fachkräfte in Österreich: Der neue Lieblingsort deutscher Auswanderer</title>
-      <link>https://www.golem.de/news/it-fachkraefte-in-oesterreich-der-neue-lieblingsort-deutscher-auswanderer-2608-211948.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/it-fachkraefte-in-oesterreich-der-neue-lieblingsort-deutscher-auswanderer-2608-211948.html</guid>
-      <description>Die Zahl der Deutschen in Österreich wächst stark, denn das Land bietet gute Voraussetzungen für einen beruflichen Neustart. Was ITler, die auswandern wollen, wissen sollten. Ein Ratgebertext von Peter Ilg (Raus aus Deutschland, Wirtschaft)</description>
-      <pubDate>Sun, 16 Aug 2026 08:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
