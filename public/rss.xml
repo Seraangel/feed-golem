@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 21 Aug 2026 06:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 07:05:23 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Exchange: E-Mail-Postfächer bekommen 50 GByte mehr Speicher</title>
+      <link>https://www.golem.de/news/microsoft-exchange-e-mail-postfaecher-bekommen-50-gbyte-mehr-speicher-2608-212154.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-exchange-e-mail-postfaecher-bekommen-50-gbyte-mehr-speicher-2608-212154.html</guid>
+      <description>Diverse Exchange-Abonnements können künftig mit 100 GByte Speicherplatz für E-Mails arbeiten. Microsoft stellt das bereits um. (Microsoft 365, Microsoft)</description>
+      <pubDate>Fri, 21 Aug 2026 07:03:06 GMT</pubDate>
+    </item>
     <item>
       <title>Swift: Nasa-Rettungsmission für Forschungssatelliten gescheitert</title>
       <link>https://www.golem.de/news/swift-nasa-rettungsmission-fuer-forschungssatelliten-gescheitert-2608-212153.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-starke-4k-drohne-bei-amazon-zum-aktuellen-bestpreis-2608-211951.html</guid>
       <description>Bei Amazon gibt es derzeit die Potensic Atom 2 günstig im Angebot. Die 4K-Drohne ist zum aktuellen Bestpreis erhältlich. (Drohne, Amazon)</description>
       <pubDate>Fri, 14 Aug 2026 13:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman: OpenAI-Chef will weiter Rechenzentrum in Deutschland</title>
-      <link>https://www.golem.de/news/sam-altman-openai-chef-will-weiter-rechenzentrum-in-deutschland-2608-211956.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sam-altman-openai-chef-will-weiter-rechenzentrum-in-deutschland-2608-211956.html</guid>
-      <description>OpenAI-Chef Sam Altman wirbt weiter für deutsche Rechenkapazitäten, während sein Unternehmen mit Verlusten und Sicherheitsvorfällen kämpft. (Sam Altman, KI)</description>
-      <pubDate>Fri, 14 Aug 2026 13:48:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
