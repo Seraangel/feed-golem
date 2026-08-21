@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 21 Aug 2026 06:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 06:30:19 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11: Onedrive Photos verschwindet aus Startmenü - ist aber noch da</title>
+      <link>https://www.golem.de/news/windows-11-onedrive-photos-verschwindet-aus-startmenue-ist-aber-noch-da-2608-212152.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-11-onedrive-photos-verschwindet-aus-startmenue-ist-aber-noch-da-2608-212152.html</guid>
+      <description>Microsoft blendet die versehentlich verteilte App Onedrive Photos vorerst aus, arbeitet aber an einer Deinstallationsoption. (Onedrive, Microsoft)</description>
+      <pubDate>Fri, 21 Aug 2026 06:25:04 GMT</pubDate>
+    </item>
     <item>
       <title>Lieferdrohne: Amazon will Prime Air auf fast 500 US-Orte ausweiten</title>
       <link>https://www.golem.de/news/lieferdrohne-amazon-will-prime-air-auf-fast-500-us-orte-ausweiten-2608-212150.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spacex-wie-das-starship-den-kampf-gegen-die-physik-verliert-2608-211916.html</guid>
       <description>Hat das Starship 100 Tonnen Nutzlast? Seit 2020 macht SpaceX falsche Angaben. Die Raketengleichung zeigt Problemursachen und bessere Lösungen. Ein Deep Dive von Frank Wunderlich-Pfeiffer (Starship, Raumfahrt)</description>
       <pubDate>Fri, 14 Aug 2026 12:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>US-Marine: Trump-Dekret stoppt moderne Katapulte auf Flugzeugträgern</title>
-      <link>https://www.golem.de/news/us-marine-trump-dekret-stoppt-moderne-katapulte-auf-flugzeugtraegern-2608-211949.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/us-marine-trump-dekret-stoppt-moderne-katapulte-auf-flugzeugtraegern-2608-211949.html</guid>
-      <description>Die neuen Flugzeugträger der USA sollen weiterhin Dampfkatapulte einsetzen, auch wenn sie dafür umgebaut werden müssen. (Militär, Politik)</description>
-      <pubDate>Fri, 14 Aug 2026 11:47:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
