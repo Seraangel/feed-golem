@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 22 Aug 2026 08:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:50:22 GMT</lastBuildDate>
+    <item>
+      <title>Wegen destruktiver KI-Scans: Anna's Archive ruft zum Scannen von Büchern auf</title>
+      <link>https://www.golem.de/news/wegen-destruktiver-ki-scans-anna-s-archive-ruft-zum-scannen-von-buechern-auf-2608-212195.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wegen-destruktiver-ki-scans-anna-s-archive-ruft-zum-scannen-von-buechern-auf-2608-212195.html</guid>
+      <description>KI-Firmen scannen und zerstören massenhaft Bücher. Die Schattenbibliothek Anna's Archive befürchtet einen Verlust von Kulturgütern. (KI, Urheberrecht)</description>
+      <pubDate>Sat, 22 Aug 2026 09:48:07 GMT</pubDate>
+    </item>
     <item>
       <title>Aufräumaktion: Windows 11 kann im Eco-Modus GPU-Treiber löschen</title>
       <link>https://www.golem.de/news/aufraeumaktion-windows-11-kann-im-eco-modus-gpu-treiber-loeschen-2608-212194.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/auch-shell-betroffen-hacker-wollen-daten-von-ueber-40-unternehmen-erbeutet-haben-2608-211980.html</guid>
       <description>Eine Hackergruppe behauptet, in die IT von 43 Unternehmen eingedrungen zu sein. Unter anderem sollen Shell, Philips und General Electric betroffen sein. (Cybercrime, Cyberwar)</description>
       <pubDate>Mon, 17 Aug 2026 07:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheit: KIT-Forscher identifizieren Personen via WLAN</title>
-      <link>https://www.golem.de/news/sicherheit-kit-forscher-identifizieren-personen-via-wlan-2608-211981.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-kit-forscher-identifizieren-personen-via-wlan-2608-211981.html</guid>
-      <description>Ein Forschungsteam des KIT nutzt unverschlüsselte WLAN-Signale zur Personenerkennung. Ein handelsüblicher Router reicht dafür aus. (Überwachung, WLAN)</description>
-      <pubDate>Mon, 17 Aug 2026 07:01:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
