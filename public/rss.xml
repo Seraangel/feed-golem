@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 22 Aug 2026 11:45:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 12:55:23 GMT</lastBuildDate>
+    <item>
+      <title>Claude und SynthID: Tool entfernt KI-Wasserzeichen mit KI</title>
+      <link>https://www.golem.de/news/claude-und-synthid-tool-entfernt-ki-wasserzeichen-mit-ki-2608-212197.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/claude-und-synthid-tool-entfernt-ki-wasserzeichen-mit-ki-2608-212197.html</guid>
+      <description>Anthropics neue KI-Wasserzeichen stoßen auf Widerstand. Ein Entwickler hat binnen weniger Stunden ein Tool gebaut, um sie zu entfernen. (KI, Software)</description>
+      <pubDate>Sat, 22 Aug 2026 12:52:08 GMT</pubDate>
+    </item>
     <item>
       <title>EZB-Analysten: Einbruch bei KI-Aktien auch ohne Blase zu erwarten</title>
       <link>https://www.golem.de/news/ezb-analysten-einbruch-bei-ki-aktien-auch-ohne-blase-zu-erwarten-2608-212196.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/playstation-wegfall-physischer-discs-koennte-games-guenstiger-machen-meint-manager-2608-211984.html</guid>
       <description>Das Argument eines ehemaligen leitenden Square-Enix-Managers : physische Discs seien teuer in der Herstellung und deshalb teuer im Verkauf. (Playstation, Sony)</description>
       <pubDate>Mon, 17 Aug 2026 08:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Batteriespeicher: Europas größte Batterie geht in Schottland ans Netz</title>
-      <link>https://www.golem.de/news/batteriespeicher-europas-groesste-batterie-geht-in-schottland-ans-netz-2608-211983.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/batteriespeicher-europas-groesste-batterie-geht-in-schottland-ans-netz-2608-211983.html</guid>
-      <description>Das Land, das mehr Strom aus Wind produziert, als es verbrauchen kann, stärkt mit dem Stromspeicher seine Unabhängigkeit von anderen Stromquellen. (Energiewende, Akku)</description>
-      <pubDate>Mon, 17 Aug 2026 07:51:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
