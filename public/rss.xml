@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 22 Aug 2026 05:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 08:05:18 GMT</lastBuildDate>
+    <item>
+      <title>(g+) GAP-Modell: Nenne es nicht Data Governance, nenne es einfach Qualität!</title>
+      <link>https://www.golem.de/news/gap-modell-nenne-es-nicht-data-governance-nenne-es-einfach-qualitaet-2608-212169.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gap-modell-nenne-es-nicht-data-governance-nenne-es-einfach-qualitaet-2608-212169.html</guid>
+      <description>Um Daten zu Geld zu machen, braucht es mehr als Technik. Mit dem GAP-Modell lässt sich die Grundlage für Datenprodukte legen, die auch wirklich jemand haben will. Ein Ratgebertext von Mario Meir-Huber (Daten mit Wert, Powerpoint)</description>
+      <pubDate>Sat, 22 Aug 2026 08:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Rotierende Raumzeit: Neu entdeckter Stern prüft Theorien zu schwarzen Löchern</title>
       <link>https://www.golem.de/news/rotierende-raumzeit-neu-entdeckter-stern-prueft-theorien-zu-schwarzen-loechern-2608-212134.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/us-druck-keine-chinesischen-speicherchips-fuer-apple-trotz-globaler-lieferengpaesse-2608-211978.html</guid>
       <description>Die US-Regierung lehnt den Einsatz chinesischer Speicherchips in Apple-Produkten ab: Trotz massiver Engpässe und anhaltender Preisstreitigkeiten mit heimischen Herstellern wie Micron. (RAM, Apple)</description>
       <pubDate>Sun, 16 Aug 2026 12:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>CPON: Warum die Kabelnetzbranche einen neuen Glasfaserstandard schafft</title>
-      <link>https://www.golem.de/news/cpon-warum-die-kabelnetzbranche-einen-neuen-glasfaserstandard-schafft-2608-211977.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cpon-warum-die-kabelnetzbranche-einen-neuen-glasfaserstandard-schafft-2608-211977.html</guid>
-      <description>Coherent Passive Optical Network ist ein von Cablelabs vorangetriebener Standard für Glasfaser-Technologie der nächsten Generation, der 100 GBit/s auf einer Wellenlänge bereitstellt. Ein Bericht von Achim Sawall (Kabelnetz, Telekommunikation)</description>
-      <pubDate>Sun, 16 Aug 2026 10:54:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
