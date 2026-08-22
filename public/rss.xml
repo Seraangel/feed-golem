@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 22 Aug 2026 12:55:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:35:25 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Artificial Intelligence: AI hasn't gone rogue. It's worse than that</title>
+      <link>https://www.golem.de/news/artificial-intelligence-ai-hasn-t-gone-rogue-it-s-worse-than-that-2608-212188.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/artificial-intelligence-ai-hasn-t-gone-rogue-it-s-worse-than-that-2608-212188.html</guid>
+      <description>Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short Von Madhumita Murgia (LLM, KI)</description>
+      <pubDate>Sat, 22 Aug 2026 13:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Claude und SynthID: Tool entfernt KI-Wasserzeichen mit KI</title>
       <link>https://www.golem.de/news/claude-und-synthid-tool-entfernt-ki-wasserzeichen-mit-ki-2608-212197.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/datenschutz-bundesnetzagentur-lehnt-verbot-von-smart-glasses-ab-2608-211986.html</guid>
       <description>Die Bundesnetzagentur sieht keinen Grund für ein Verbot von Smart Glasses. Erkennbare Aufnahmesignale reichen der Behörde vorerst aus. (Smart Glasses, Datenschutz)</description>
       <pubDate>Mon, 17 Aug 2026 08:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Playstation: Wegfall physischer Discs könnte Games günstiger machen, meint Manager</title>
-      <link>https://www.golem.de/news/playstation-wegfall-physischer-discs-koennte-games-guenstiger-machen-meint-manager-2608-211984.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/playstation-wegfall-physischer-discs-koennte-games-guenstiger-machen-meint-manager-2608-211984.html</guid>
-      <description>Das Argument eines ehemaligen leitenden Square-Enix-Managers : physische Discs seien teuer in der Herstellung und deshalb teuer im Verkauf. (Playstation, Sony)</description>
-      <pubDate>Mon, 17 Aug 2026 08:14:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
