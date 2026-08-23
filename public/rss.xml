@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 23 Aug 2026 05:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 05:35:19 GMT</lastBuildDate>
+    <item>
+      <title>KI aus Deutschland: Ein Fördersystem, das Innovationen bremst</title>
+      <link>https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html</guid>
+      <description>Bisher kam bei KI in Deutschland eher Mittelmaß heraus. Das liegt aber nicht an den Wissenschaftlern, sondern an einem System, das Forscherdrang nicht belohnt. Ein IMHO von Tim Elsner (KI, Silicon Valley)</description>
+      <pubDate>Sun, 23 Aug 2026 05:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: IT-Jobs in Architektur, Führung und Support</title>
       <link>https://www.golem.de/news/anzeige-it-jobs-in-architektur-fuehrung-und-support-2608-212156.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/schadcode-im-anmarsch-sap-systeme-werden-ueber-kritische-luecke-attackiert-2608-211987.html</guid>
       <description>Angreifer können SAP-Commerce-Cloud-Instanzen über eine kritische Sicherheitslücke kompromittieren. Entsprechende Attacken laufen bereits. (Sicherheitslücke, SAP)</description>
       <pubDate>Mon, 17 Aug 2026 08:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Druckluftgebläse mit Akku zum Aktionspreis nur rund 36 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-druckluftgeblaese-mit-akku-zum-aktionspreis-nur-rund-36-euro-bei-amazon-2608-211988.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-druckluftgeblaese-mit-akku-zum-aktionspreis-nur-rund-36-euro-bei-amazon-2608-211988.html</guid>
-      <description>Das kabellose Wolfbox-Staubgebläse mit 110.000 rpm ersetzt Druckluftsprays dauerhaft und ist bei Amazon im Angebot. (Technik/Hardware, Computer)</description>
-      <pubDate>Mon, 17 Aug 2026 08:52:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
