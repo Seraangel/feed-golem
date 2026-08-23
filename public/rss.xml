@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 23 Aug 2026 08:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:30:20 GMT</lastBuildDate>
+    <item>
+      <title>Virusalarm: Mysteriöse 113 GByte große ISO von GTA 6 im Internet aufgetaucht</title>
+      <link>https://www.golem.de/news/virusalarm-mysterioese-113-gbyte-grosse-iso-von-gta-6-im-internet-aufgetaucht-2608-212200.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/virusalarm-mysterioese-113-gbyte-grosse-iso-von-gta-6-im-internet-aufgetaucht-2608-212200.html</guid>
+      <description>Die angebliche ISO-Datei von GTA 6 soll laut ihrem Namen von Cyberleek persönlich stammen. Allerdings finden mehrere Personen ein Virus. (GTA 6, Virus)</description>
+      <pubDate>Sun, 23 Aug 2026 09:25:01 GMT</pubDate>
+    </item>
     <item>
       <title>Biegetest: Pixel 11 Pro Fold zerbricht sehr leicht in Einzelteile</title>
       <link>https://www.golem.de/news/biegetest-pixel-11-pro-fold-zerbricht-sehr-leicht-in-einzelteile-2608-212199.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/prompt-injection-klaeger-versteckt-ki-anweisungen-in-schriftsaetzen-2608-211992.html</guid>
       <description>Weil er ein KI-System bei Gericht vermutete, versteckt ein Kläger in den USA geheime Anweisungen in seinen Schriftsätzen. (KI, Politik)</description>
       <pubDate>Mon, 17 Aug 2026 09:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: FRITZ!Repeater mit Wi-Fi 7 reduziert bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-fritz-repeater-mit-wi-fi-7-reduziert-bei-amazon-2608-211991.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fritz-repeater-mit-wi-fi-7-reduziert-bei-amazon-2608-211991.html</guid>
-      <description>Der FRITZ!Repeater 1700 mit Wi-Fi 7, Gigabit-LAN und Mesh-Funktion ist bei Amazon zum günstigen Aktionspreis erhältlich. (Technik/Hardware, Fritzbox)</description>
-      <pubDate>Mon, 17 Aug 2026 09:24:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
