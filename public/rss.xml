@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 23 Aug 2026 05:35:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 08:05:21 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Freelancer auf Linkedin: 100 Likes, 0 Aufträge</title>
+      <link>https://www.golem.de/news/freelancer-auf-linkedin-100-likes-0-auftraege-2608-212174.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/freelancer-auf-linkedin-100-likes-0-auftraege-2608-212174.html</guid>
+      <description>Auf Linkedin reicht es nicht, als Freelancer sichtbar zu sein und mit Meinungsposts Likes abzugreifen. Aufträge entstehen hier anders - wir zeigen, wie. Ein Ratgebertext von Pierre Wilken (IT-Freelancer, Wirtschaft)</description>
+      <pubDate>Sun, 23 Aug 2026 08:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>KI aus Deutschland: Ein Fördersystem, das Innovationen bremst</title>
       <link>https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/im-vergleich-zu-juli-2025-ram-kostet-jetzt-fast-das-fuenffache-2608-211989.html</guid>
       <description>Laut einer Datenanalyse sind vor allem DDR5-Module mit viel Speicherkapazität enorm teurer geworden - ohne Aussicht auf Besserung. (RAM, PC-Hardware)</description>
       <pubDate>Mon, 17 Aug 2026 09:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kritische Sicherheitslücke: SAP-Systeme werden attackiert</title>
-      <link>https://www.golem.de/news/schadcode-im-anmarsch-sap-systeme-werden-ueber-kritische-luecke-attackiert-2608-211987.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schadcode-im-anmarsch-sap-systeme-werden-ueber-kritische-luecke-attackiert-2608-211987.html</guid>
-      <description>Angreifer können SAP-Commerce-Cloud-Instanzen über eine kritische Sicherheitslücke kompromittieren. Entsprechende Attacken laufen bereits. (Sicherheitslücke, SAP)</description>
-      <pubDate>Mon, 17 Aug 2026 08:56:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
