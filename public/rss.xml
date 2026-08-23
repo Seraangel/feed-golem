@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 22 Aug 2026 13:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 05:05:19 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Jobs in Architektur, Führung und Support</title>
+      <link>https://www.golem.de/news/anzeige-it-jobs-in-architektur-fuehrung-und-support-2608-212156.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-architektur-fuehrung-und-support-2608-212156.html</guid>
+      <description>Von Microsoft-365-Architektur über IT-Führung bis zum Support - diese sechs Positionen bieten vielfältige Karrierechancen in der IT. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Sun, 23 Aug 2026 05:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Artificial Intelligence: AI hasn't gone rogue. It's worse than that</title>
       <link>https://www.golem.de/news/artificial-intelligence-ai-hasn-t-gone-rogue-it-s-worse-than-that-2608-212188.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-druckluftgeblaese-mit-akku-zum-aktionspreis-nur-rund-36-euro-bei-amazon-2608-211988.html</guid>
       <description>Das kabellose Wolfbox-Staubgebläse mit 110.000 rpm ersetzt Druckluftsprays dauerhaft und ist bei Amazon im Angebot. (Technik/Hardware, Computer)</description>
       <pubDate>Mon, 17 Aug 2026 08:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Datenschutz: Bundesnetzagentur lehnt Verbot von Smart Glasses ab</title>
-      <link>https://www.golem.de/news/datenschutz-bundesnetzagentur-lehnt-verbot-von-smart-glasses-ab-2608-211986.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/datenschutz-bundesnetzagentur-lehnt-verbot-von-smart-glasses-ab-2608-211986.html</guid>
-      <description>Die Bundesnetzagentur sieht keinen Grund für ein Verbot von Smart Glasses. Erkennbare Aufnahmesignale reichen der Behörde vorerst aus. (Smart Glasses, Datenschutz)</description>
-      <pubDate>Mon, 17 Aug 2026 08:25:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
