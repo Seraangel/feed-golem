@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 23 Aug 2026 13:45:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 14:20:23 GMT</lastBuildDate>
+    <item>
+      <title>Power Delivery: USB-Kabel zeigt Ladeleistung auf kleinem Display an</title>
+      <link>https://www.golem.de/news/power-delivery-usb-kabel-zeigt-ladeleistung-auf-kleinem-display-an-2608-212202.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/power-delivery-usb-kabel-zeigt-ladeleistung-auf-kleinem-display-an-2608-212202.html</guid>
+      <description>Das Vogatiki informiert per Display über die aktuelle Stromstärke, Spannung und Leistung. Maximal sind 240 Watt möglich. (Kickstarter, Crowdfunding)</description>
+      <pubDate>Sun, 23 Aug 2026 14:17:04 GMT</pubDate>
+    </item>
     <item>
       <title>Weltraumrecht: Der Mond droht zur Mülldeponie für die Raumfahrt zu werden</title>
       <link>https://www.golem.de/news/weltraumrecht-der-mond-droht-zur-muelldeponie-fuer-die-raumfahrt-zu-werden-2608-212198.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/high-quality-update-kommt-microsoft-reagiert-auf-defender-exploit-shieldbreak-2608-211996.html</guid>
       <description>Im Microsoft Defender klafft eine gefährliche Zero-Day-Lücke, die Angreifern unter Windows Systemrechte verleiht. Ein Patch kommt - irgendwann. (Sicherheitslücke, Microsoft)</description>
       <pubDate>Mon, 17 Aug 2026 10:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kreios Space: Erster luftatmender Satellit soll bald im Weltall getestet werden</title>
-      <link>https://www.golem.de/news/kreios-space-erster-luftatmender-satellit-soll-bald-im-weltall-getestet-werden-2608-211928.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kreios-space-erster-luftatmender-satellit-soll-bald-im-weltall-getestet-werden-2608-211928.html</guid>
-      <description>Dabei soll der Satellit in einer sehr niedrigen Umlaufbahn von weniger als 400 km fliegen und die neue Triebwerkstechnik testen. (Satelliten, Raumfahrt)</description>
-      <pubDate>Mon, 17 Aug 2026 10:15:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
