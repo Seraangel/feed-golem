@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 23 Aug 2026 14:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 17:00:17 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft: RGB-Software lässt Windows 11 abstürzen</title>
+      <link>https://www.golem.de/news/microsoft-rgb-software-laesst-windows-11-abstuerzen-2608-212201.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-rgb-software-laesst-windows-11-abstuerzen-2608-212201.html</guid>
+      <description>Nach einem Windows-11-Update stürzt das Betriebssystem häufig mit einem Bluescreen ab. Das geschieht vor allem mitten in Games. (Windows 11, Microsoft)</description>
+      <pubDate>Sun, 23 Aug 2026 16:56:02 GMT</pubDate>
+    </item>
     <item>
       <title>Power Delivery: USB-Kabel zeigt Ladeleistung auf kleinem Display an</title>
       <link>https://www.golem.de/news/power-delivery-usb-kabel-zeigt-ladeleistung-auf-kleinem-display-an-2608-212202.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-e-scooter-6-befristet-zum-amazon-tiefstpreis-2608-211998.html</guid>
       <description>Der Xiaomi E-Scooter 6 mit Straßenzulassung und 45 km Reichweite ist aktuell befristet zum Amazon-Tiefstpreis erhältlich. (Technik/Hardware, Amazon)</description>
       <pubDate>Mon, 17 Aug 2026 11:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>"High-Quality-Update" kommt: Microsoft reagiert auf Defender-Exploit Shieldbreak</title>
-      <link>https://www.golem.de/news/high-quality-update-kommt-microsoft-reagiert-auf-defender-exploit-shieldbreak-2608-211996.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/high-quality-update-kommt-microsoft-reagiert-auf-defender-exploit-shieldbreak-2608-211996.html</guid>
-      <description>Im Microsoft Defender klafft eine gefährliche Zero-Day-Lücke, die Angreifern unter Windows Systemrechte verleiht. Ein Patch kommt - irgendwann. (Sicherheitslücke, Microsoft)</description>
-      <pubDate>Mon, 17 Aug 2026 10:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
