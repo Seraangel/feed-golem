@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 06:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:45:18 GMT</lastBuildDate>
+    <item>
+      <title>JCB Hydromax: Neuer Geschwindigkeitsrekord mit Wasserstoff-Auto erreicht</title>
+      <link>https://www.golem.de/news/jcb-hydromax-neuer-geschwindigkeitsrekord-mit-wasserstoff-auto-erreicht-2608-212159.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/jcb-hydromax-neuer-geschwindigkeitsrekord-mit-wasserstoff-auto-erreicht-2608-212159.html</guid>
+      <description>JCB hat einen weiteren Geschwindigkeitsrekord aufgestellt. Dieses Mal in der Klasse der Wasserstoff-Fahrzeuge. (Wasserstoff, Auto)</description>
+      <pubDate>Mon, 24 Aug 2026 06:42:10 GMT</pubDate>
+    </item>
     <item>
       <title>E-Mail-Programm: Outlook für Windows bekommt Outlook-Classic-Skin als Anreiz</title>
       <link>https://www.golem.de/news/e-mail-programm-outlook-fuer-windows-bekommt-outlook-classic-skin-als-anreiz-2608-212205.html</link>
@@ -90,7 +97,7 @@
       <pubDate>Sun, 23 Aug 2026 08:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>KI aus Deutschland: Ein Fördersystem, das Innovationen bremst</title>
+      <title>(g+) KI aus Deutschland: Ein Fördersystem, das Innovationen bremst</title>
       <link>https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/ki-aus-deutschland-ein-foerdersystem-das-innovationen-bremst-2608-212027.html</guid>
       <description>Bisher kam bei KI in Deutschland eher Mittelmaß heraus. Das liegt aber nicht an den Wissenschaftlern, sondern an einem System, das Forscherdrang nicht belohnt. Ein IMHO von Tim Elsner (KI, Silicon Valley)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-tablet-lenovo-yoga-tab-mit-stift-zum-tiefstpreis-bei-amazon-2608-212000.html</guid>
       <description>Amazon hat das Lenovo Yoga Tab im Angebot, das sich mit seinem 3,2K-Display, 144 Hz und 12 GByte RAM für Streaming und Gaming eignet. (Tablet, Lenovo)</description>
       <pubDate>Mon, 17 Aug 2026 12:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 Milliarden US-Dollar: Stripe soll KI-Startup Openrouter gekauft haben</title>
-      <link>https://www.golem.de/news/7-milliarden-us-dollar-stripe-soll-ki-startup-openrouter-gekauft-haben-2608-212001.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/7-milliarden-us-dollar-stripe-soll-ki-startup-openrouter-gekauft-haben-2608-212001.html</guid>
-      <description>Stripe hat sich laut Bloomberg mit dem kalifornischen KI-Start-up Openrouter auf eine Übernahme geeinigt. (API, KI)</description>
-      <pubDate>Mon, 17 Aug 2026 12:01:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
