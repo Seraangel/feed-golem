@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 13:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 13:45:19 GMT</lastBuildDate>
+    <item>
+      <title>Systemeinstellungen: Microsoft baut App, die überall Bing als Standard setzt</title>
+      <link>https://www.golem.de/news/systemeinstellungen-microsoft-baut-app-die-ueberall-bing-als-standard-setzt-2608-212234.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/systemeinstellungen-microsoft-baut-app-die-ueberall-bing-als-standard-setzt-2608-212234.html</guid>
+      <description>Die sonderbare App erkennt Browser und setzt bei ihnen Bing als Suchmaschine. Auch installiert sie passende Browsererweiterungen. (Bing, Windows)</description>
+      <pubDate>Mon, 24 Aug 2026 13:44:05 GMT</pubDate>
+    </item>
     <item>
       <title>Salt und Sunrise: Swisscom-Konkurrenten wollen Mobilfunknetz zusammen ausbauen</title>
       <link>https://www.golem.de/news/salt-und-sunrise-swisscom-konkurrenten-wollen-mobilfunknetz-zusammen-ausbauen-2608-212233.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/suedlink-stromautobahn-nimmt-wichtige-unterirdische-huerde-2608-212026.html</guid>
       <description>In zwei Jahren soll die wichtige Trasse fertig sein. Sie transportiert die Leistung mehrerer Großkraftwerke und soll die Strompreise sinken lassen. (Energiewende, Solarenergie)</description>
       <pubDate>Tue, 18 Aug 2026 08:21:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Von Azure-Tenants: Hacker will Millionen von Mitarbeiterdaten erbeutet haben</title>
-      <link>https://www.golem.de/news/von-azure-tenants-hacker-will-millionen-von-datensaetzen-erbeutet-haben-2608-212029.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/von-azure-tenants-hacker-will-millionen-von-datensaetzen-erbeutet-haben-2608-212029.html</guid>
-      <description>Ein Hacker behauptet im Darknet, mit kompromittierten Azure-Zugangsdaten an Mitarbeiterdaten etwa von McDonald's, Tata und Vodafone gelangt zu sein. (Cybercrime, Microsoft)</description>
-      <pubDate>Tue, 18 Aug 2026 08:09:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
