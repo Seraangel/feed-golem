@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 10:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:25:20 GMT</lastBuildDate>
+    <item>
+      <title>Umfrage: Zahl der Nutzer von Festnetztelefonie stark gesunken</title>
+      <link>https://www.golem.de/news/umfrage-zahl-der-nutzer-von-festnetztelefonie-stark-gesunken-2608-212228.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/umfrage-zahl-der-nutzer-von-festnetztelefonie-stark-gesunken-2608-212228.html</guid>
+      <description>Das klassische Festnetz-Telefon gerät zusehends in Vergessenheit: Fast 40 Prozent der Deutschen nutzen es nicht mehr, Tendenz drastisch steigend. (Telefonie, VoIP)</description>
+      <pubDate>Mon, 24 Aug 2026 11:20:09 GMT</pubDate>
+    </item>
     <item>
       <title>Missbrauch von Passkeys: Phishing-Toolkit soll Passwort-Reset umgehen können</title>
       <link>https://www.golem.de/news/missbrauch-von-passkeys-phishing-toolkit-soll-passwort-reset-umgehen-koennen-2608-212226.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-erinnert-bald-endet-support-fuer-windows-server-2022-und-windows-11-24h2-2608-212021.html</guid>
       <description>Ab Mitte Oktober werden mehrere Windows-Betriebssysteme standardmäßig nicht mehr unterstützt. Microsoft gibt aber eine Kulanzzeit. (Betriebssysteme, Microsoft)</description>
       <pubDate>Tue, 18 Aug 2026 06:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT-Sicherheit: Hackerangriff auf Berliner Senatsverwaltungen</title>
-      <link>https://www.golem.de/news/it-sicherheit-hackerangriff-auf-berliner-senatsverwaltungen-2608-212020.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-hackerangriff-auf-berliner-senatsverwaltungen-2608-212020.html</guid>
-      <description>Nach einem Hackerangriff sind zwei Berliner Senatsverwaltungen vom Netz getrennt. Offenbar sind auch sensitive Daten abgeflossen. (Cybercrime, Cyberwar)</description>
-      <pubDate>Tue, 18 Aug 2026 06:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
