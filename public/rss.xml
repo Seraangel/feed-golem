@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 05:20:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:45:16 GMT</lastBuildDate>
+    <item>
+      <title>Mondmission: Chinas Chang'e-7-Mondsonde abgesagt</title>
+      <link>https://www.golem.de/news/mondmission-chinas-chang-e-7-mondsonde-abgesagt-2608-212204.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mondmission-chinas-chang-e-7-mondsonde-abgesagt-2608-212204.html</guid>
+      <description>Kurz vor dem geplanten Start ist Chinas Mondmission Chang'e-7 abgesagt worden. Die Gründe sind unklar. (China, Raumfahrt)</description>
+      <pubDate>Mon, 24 Aug 2026 05:44:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Entra ID richtig absichern</title>
       <link>https://www.golem.de/news/anzeige-microsoft-entra-id-richtig-absichern-2608-212191.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-magic-mouse-usb-c-zum-tiefstpreis-fuer-59-99-euro-bei-amazon-2608-211997.html</guid>
       <description>Die Apple Magic Mouse mit USB-C, Multi-Touch-Oberfläche und wiederaufladbarem Akku bei Amazon aktuell so günstig wie zuletzt am Prime Day. (Technik/Hardware, USB-C)</description>
       <pubDate>Mon, 17 Aug 2026 11:55:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) KI-Agenten im Entwickleralltag: Wie KI-Agenten Jira, Git, Slack und CI/CD verändern</title>
-      <link>https://www.golem.de/news/ki-agenten-im-entwickleralltag-wie-ki-agenten-jira-git-slack-und-ci-cd-veraendern-2608-211994.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-im-entwickleralltag-wie-ki-agenten-jira-git-slack-und-ci-cd-veraendern-2608-211994.html</guid>
-      <description>KI-Agenten schreiben nicht nur Code. Sie koordinieren Jira, Git, Slack und CI/CD - und verändern so den gesamten Softwareentwicklungsprozess. Wir erklären, wie. Ein Ratgebertext von Klaus Manhart (Die Agenten kommen, KI)</description>
-      <pubDate>Mon, 17 Aug 2026 11:30:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
