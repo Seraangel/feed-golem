@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 17:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 17:20:18 GMT</lastBuildDate>
+    <item>
+      <title>Xring O3: Xiaomis Smartphone-SoC soll Apple und Qualcomm schlagen</title>
+      <link>https://www.golem.de/news/xring-o3-xiaomis-smartphone-soc-soll-apple-und-qualcomm-schlagen-2608-212242.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/xring-o3-xiaomis-smartphone-soc-soll-apple-und-qualcomm-schlagen-2608-212242.html</guid>
+      <description>Der Xring O3 nutzt aktuelle ARM-Kerne und LPDDR6. Auch ein SoC für Autos und eines mit aufgestapeltem RAM hat Xiaomi entwickelt. (Smartphone, Apple)</description>
+      <pubDate>Mon, 24 Aug 2026 17:19:03 GMT</pubDate>
+    </item>
     <item>
       <title>Kottbusser Tor in Berlin: Kameras für automatisierte Überwachung installiert</title>
       <link>https://www.golem.de/news/kottbusser-tor-in-berlin-kameras-fuer-automatisierte-ueberwachung-installiert-2608-212245.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-smart-band-10-und-10-pro-smarte-fitness-tracker-zum-tiefstpreis-2608-212037.html</guid>
       <description>Wer auf der Suche nach einem vielseitigen Fitness-Tracker ist, erhält das Xiaomi Smart Band 10 sowie die Pro-Version bei Amazon aktuell zum Tiefstpreis. (Technik/Hardware, Fitness)</description>
       <pubDate>Tue, 18 Aug 2026 10:42:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kernel 7.2: Linux Kernel verteilt Prozesse effizienter und swapped besser</title>
-      <link>https://www.golem.de/news/kernel-7-2-linux-kernel-verteilt-prozesse-effizienter-und-swapped-besser-2608-212038.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kernel-7-2-linux-kernel-verteilt-prozesse-effizienter-und-swapped-besser-2608-212038.html</guid>
-      <description>Die neue Version des Linux-Kernels ermöglicht mehr Effizienz und nimmt einige bereits angekündigte Änderungen auf. Der 486-Support ist weg. (Linux-Kernel, Dateisystem)</description>
-      <pubDate>Tue, 18 Aug 2026 10:31:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
