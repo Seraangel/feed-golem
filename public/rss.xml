@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 09:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 09:20:19 GMT</lastBuildDate>
+    <item>
+      <title>Wegen Speicherpreisen: Nvidias KI-Server werden teurer</title>
+      <link>https://www.golem.de/news/wegen-speicherpreisen-nvidias-ki-server-werden-teurer-2608-212216.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wegen-speicherpreisen-nvidias-ki-server-werden-teurer-2608-212216.html</guid>
+      <description>Nach Consumer-GPUs werden auch Nvidias KI-Server deutlich teurer. Denn die Preise für die unterschiedlichsten Komponenten ziehen an. (Nvidia, KI)</description>
+      <pubDate>Mon, 24 Aug 2026 09:19:08 GMT</pubDate>
+    </item>
     <item>
       <title>Double Fine: Kult-Spielestudio wagt Neustart auf Kickstarter</title>
       <link>https://www.golem.de/news/double-fine-kult-spielestudio-wagt-neustart-auf-kickstarter-2608-212215.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/werbeeinwilligung-bundeskartellamt-erzwingt-faire-tracking-abfragen-von-apple-2608-212016.html</guid>
       <description>Gegenüber dem Bundeskartellamt hat Apple rechtlich bindende Zusagen für Änderungen an Einwilligungsdialogen abgegeben. (Apple, Datenschutz)</description>
       <pubDate>Mon, 17 Aug 2026 15:37:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smarte Stehleuchte bei Amazon günstig im Angebot</title>
-      <link>https://www.golem.de/news/anzeige-smarte-stehleuchte-bei-amazon-guenstig-im-angebot-2608-212008.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smarte-stehleuchte-bei-amazon-guenstig-im-angebot-2608-212008.html</guid>
-      <description>Bei Amazon gibt es derzeit eine smarte Stehleuchte von Govee günstig im Angebot. Sie ist auf unter 60 Euro reduziert. (Beleuchtung, Amazon)</description>
-      <pubDate>Mon, 17 Aug 2026 15:35:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
