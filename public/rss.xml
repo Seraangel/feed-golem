@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 10:45:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 10:55:16 GMT</lastBuildDate>
+    <item>
+      <title>Missbrauch von Passkeys: Phishing-Toolkit soll Passwort-Reset umgehen können</title>
+      <link>https://www.golem.de/news/missbrauch-von-passkeys-phishing-toolkit-soll-passwort-reset-umgehen-koennen-2608-212226.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/missbrauch-von-passkeys-phishing-toolkit-soll-passwort-reset-umgehen-koennen-2608-212226.html</guid>
+      <description>Ein ab 10.000 US-Dollar gehandeltes Phishing-Toolkit soll Angreifern über Passkeys einen dauerhaften Zugriff etwa auf gekaperte Google-Konten verleihen. (Phishing, Google)</description>
+      <pubDate>Mon, 24 Aug 2026 10:50:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Philips Hue White Ambiance GU10 LED-Spots im 5er-Pack für nur rund 16 Euro pro Stück bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-philips-hue-white-ambiance-gu10-led-spots-im-5er-pack-fuer-nur-rund-16-euro-pro-stueck-bei-amazon-2608-212225.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-hackerangriff-auf-berliner-senatsverwaltungen-2608-212020.html</guid>
       <description>Nach einem Hackerangriff sind zwei Berliner Senatsverwaltungen vom Netz getrennt. Offenbar sind auch sensitive Daten abgeflossen. (Cybercrime, Cyberwar)</description>
       <pubDate>Tue, 18 Aug 2026 06:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leak: Apple entwickelt offenbar Airpods mit Kamera für künstliche Intelligenz</title>
-      <link>https://www.golem.de/news/leak-apple-entwickelt-offenbar-airpods-mit-kamera-fuer-kuenstliche-intelligenz-2608-212019.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/leak-apple-entwickelt-offenbar-airpods-mit-kamera-fuer-kuenstliche-intelligenz-2608-212019.html</guid>
-      <description>Ein Fund im Code von MacOS Tahoe deutet auf Airpods mit integrierter Kamera für KI-Funktionen hin. (Airpods, Apple)</description>
-      <pubDate>Tue, 18 Aug 2026 05:42:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
