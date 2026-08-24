@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 11:40:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:55:18 GMT</lastBuildDate>
+    <item>
+      <title>Flugtest: Taiwans Weltraumrakete scheitert grandios</title>
+      <link>https://www.golem.de/news/flugtest-taiwans-weltraumrakete-scheitert-grandios-2608-212219.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/flugtest-taiwans-weltraumrakete-scheitert-grandios-2608-212219.html</guid>
+      <description>Der Testflug einer taiwanesischen Weltraumrakete endet mit einem Absturz. Besorgte Anwohner fordern eine genaue Aufklärung. (Rakete, Raumfahrt)</description>
+      <pubDate>Mon, 24 Aug 2026 11:52:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ladegerät mit 65 W und drei Ports für 19,99 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ladegeraet-mit-65-w-und-drei-ports-fuer-19-99-euro-bei-amazon-2608-212227.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/europaeischer-bezahldienst-mehrheit-kennt-wero-nicht-2608-212024.html</guid>
       <description>Zwei Jahre nach der Markteinführung kennen 61 Prozent der Deutschen den europäischen Bezahldienst Wero immer noch nicht. (Wero, Studien)</description>
       <pubDate>Tue, 18 Aug 2026 07:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keine Anmeldung nötig: Gitlab-Lücke lässt Angreifer Softwareprojekte löschen</title>
-      <link>https://www.golem.de/news/keine-anmeldung-noetig-gitlab-luecke-laesst-angreifer-softwareprojekte-loeschen-2608-212022.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/keine-anmeldung-noetig-gitlab-luecke-laesst-angreifer-softwareprojekte-loeschen-2608-212022.html</guid>
-      <description>Aufgrund einer kritischen Sicherheitslücke können Angreifer ohne Anmeldung Gitlab-Projekte manipulieren oder löschen. Admins sollten zügig handeln. (Sicherheitslücke, Softwareentwicklung)</description>
-      <pubDate>Tue, 18 Aug 2026 06:44:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
