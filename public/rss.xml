@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 23 Aug 2026 17:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 05:20:23 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Entra ID richtig absichern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-richtig-absichern-2608-212191.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-richtig-absichern-2608-212191.html</guid>
+      <description>Die Absicherung von Cloud-Identitäten wird für Unternehmen immer wichtiger. Ein Workshop vermittelt praxisnahes Wissen zur Verwaltung und Härtung von Microsoft Entra ID. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Mon, 24 Aug 2026 05:15:03 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft: RGB-Software lässt Windows 11 abstürzen</title>
       <link>https://www.golem.de/news/microsoft-rgb-software-laesst-windows-11-abstuerzen-2608-212201.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-im-entwickleralltag-wie-ki-agenten-jira-git-slack-und-ci-cd-veraendern-2608-211994.html</guid>
       <description>KI-Agenten schreiben nicht nur Code. Sie koordinieren Jira, Git, Slack und CI/CD - und verändern so den gesamten Softwareentwicklungsprozess. Wir erklären, wie. Ein Ratgebertext von Klaus Manhart (Die Agenten kommen, KI)</description>
       <pubDate>Mon, 17 Aug 2026 11:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Xiaomi E-Scooter 6 befristet zum Amazon-Tiefstpreis</title>
-      <link>https://www.golem.de/news/anzeige-xiaomi-e-scooter-6-befristet-zum-amazon-tiefstpreis-2608-211998.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-e-scooter-6-befristet-zum-amazon-tiefstpreis-2608-211998.html</guid>
-      <description>Der Xiaomi E-Scooter 6 mit Straßenzulassung und 45 km Reichweite ist aktuell befristet zum Amazon-Tiefstpreis erhältlich. (Technik/Hardware, Amazon)</description>
-      <pubDate>Mon, 17 Aug 2026 11:23:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
