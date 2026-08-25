@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 11:40:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:55:19 GMT</lastBuildDate>
+    <item>
+      <title>Oktoberfest: Telefónica lässt 5G-Laternen rund um Theresienwiese bauen</title>
+      <link>https://www.golem.de/news/oktoberfest-telefonica-laesst-5g-laternen-rund-um-theresienwiese-bauen-2608-212270.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/oktoberfest-telefonica-laesst-5g-laternen-rund-um-theresienwiese-bauen-2608-212270.html</guid>
+      <description>Für das Oktoberfest baut der Netzbetreiber Telefónica ein eigenes temporäres Netz auf und verwandelt dafür Straßenlaternen in 5G-Antennen. (Telefónica, Mobilfunk)</description>
+      <pubDate>Tue, 25 Aug 2026 11:52:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Powerstation mit 1.800 W und 1.024 Wh reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-powerstation-mit-1-800-w-und-1-024-wh-reduziert-bei-amazon-2608-212269.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/markenwirrwarr-mvp-dokumentiert-microsofts-staendige-umbenennungen-2608-212074.html</guid>
       <description>Eine neue Webseite dokumentiert die Namensänderungen von Microsoft-Software und wertet die Umbenennungen statistisch aus. (Microsoft, Instant Messenger)</description>
       <pubDate>Wed, 19 Aug 2026 06:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Robotik: Unitree stellt Superman-Roboter vor Börsengang vor</title>
-      <link>https://www.golem.de/news/robotik-unitree-stellt-superman-roboter-vor-boersengang-vor-2608-212072.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/robotik-unitree-stellt-superman-roboter-vor-boersengang-vor-2608-212072.html</guid>
-      <description>Der chinesische Roboterbauer Unitree präsentiert das Modell Superman und sammelt beim Börsengang in Shanghai 905 Millionen US-Dollar ein. (Roboter, Börse)</description>
-      <pubDate>Wed, 19 Aug 2026 06:35:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
