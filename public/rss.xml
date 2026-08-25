@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 16:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:45:25 GMT</lastBuildDate>
+    <item>
+      <title>Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland</title>
+      <link>https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html</guid>
+      <description>VW-Chef Oliver Blume deutet die Streichung von weiteren 25.000 Stellen bei VW in Deutschland an. Die Schließung von vier Werken ist nicht vom Tisch. (VW, Elektroauto)</description>
+      <pubDate>Tue, 25 Aug 2026 16:40:11 GMT</pubDate>
+    </item>
     <item>
       <title>MHP: Porsche verkauft seine IT-Beratung nach Indien</title>
       <link>https://www.golem.de/news/mhp-porsche-verkauft-seine-it-beratung-nach-indien-2608-212288.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/slowakei-russische-backdoor-in-verkehrskameras-entdeckt-2608-212088.html</guid>
       <description>Die Slowakei hat im Rahmen eines Sanierungspakets 279 neue Verkehrskameras gekauft. Die Geräte kamen unerwartet aus Russland - inklusive Backdoor. (Backdoor, Kameras)</description>
       <pubDate>Wed, 19 Aug 2026 11:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schwarz Digits: KI-Rechenzentrum Lübbenau schließt Vertrag für Abwärme an Haushalte</title>
-      <link>https://www.golem.de/news/schwarz-digits-ki-rechenzentrum-luebbenau-schliesst-vertrag-fuer-abwaerme-an-haushalte-2608-212089.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schwarz-digits-ki-rechenzentrum-luebbenau-schliesst-vertrag-fuer-abwaerme-an-haushalte-2608-212089.html</guid>
-      <description>Schwarz Digits kann einen Teil der Abwärme des KI-Rechenzentrums an die Stadt Lübbenau abgeben. Doch die Abwärmemenge ist viel größer als die Zahl der Haushalte. (Infrastruktur, Server)</description>
-      <pubDate>Wed, 19 Aug 2026 10:58:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
