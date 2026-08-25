@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 06:55:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:05:19 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft gesteht: Updatepanne verhindert Drucke und PDF-Exporte</title>
+      <link>https://www.golem.de/news/microsoft-gesteht-updatepanne-verhindert-drucke-und-pdf-exporte-2608-212248.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-gesteht-updatepanne-verhindert-drucke-und-pdf-exporte-2608-212248.html</guid>
+      <description>Einige Windows-Apps können bestimmte Dokumente seit Tagen nicht mehr drucken oder als PDF/XPS-Datei exportieren. Microsoft arbeitet an einer Lösung. (Windows, Microsoft)</description>
+      <pubDate>Tue, 25 Aug 2026 07:03:10 GMT</pubDate>
+    </item>
     <item>
       <title>IT-Sicherheit: GI fordert Legalisierung von ethischem Hacken</title>
       <link>https://www.golem.de/news/it-sicherheit-gi-fordert-legalisierung-von-ethischem-hacken-2608-212250.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-was-europaeische-microsoft-alternativen-koennen-und-wo-sie-noch-scheitern-2608-212015.html</guid>
       <description>Ein US-Urteil entzieht dem EU-US-Datenpakt eine tragende Säule. Die Frage nach dem Umstieg ist für IT-Abteilungen jetzt umso dringlicher. Wir erklären, was sich 2026 migrieren lässt. Ein Ratgebertext von Steffen Zahn (Microsoft, FTC)</description>
       <pubDate>Tue, 18 Aug 2026 11:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Steigende Fallzahlen: KI-Anschreiben werden zum Problem für Verwaltungsbehörden</title>
-      <link>https://www.golem.de/news/steigende-fallzahlen-ki-anschreiben-werden-zum-problem-fuer-verwaltungsbehoerden-2608-212050.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/steigende-fallzahlen-ki-anschreiben-werden-zum-problem-fuer-verwaltungsbehoerden-2608-212050.html</guid>
-      <description>Deutsche Verwaltungsbehörden verzeichnen einen starken Anstieg von Schreiben, bei denen der Verdacht auf KI-Einsatz besteht. (KI, Politik)</description>
-      <pubDate>Tue, 18 Aug 2026 11:18:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
