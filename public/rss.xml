@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 14:50:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:05:21 GMT</lastBuildDate>
+    <item>
+      <title>Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München</title>
+      <link>https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html</guid>
+      <description>Die Google-Schwesterfirma Waymo bietet ihren Robotaxi-Dienst künftig in München an. Vor dem Start werden zunächst ein Jahr lang Daten gesammelt. (Waymo, Elektroauto)</description>
+      <pubDate>Tue, 25 Aug 2026 15:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Workstation: Neuer Mac Studio bekommt M5 Ultra und viel RAM</title>
       <link>https://www.golem.de/news/ki-workstation-neuer-mac-studio-bekommt-m5-ultra-und-viel-ram-2608-212285.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kabellose-rueckfahrkamera-mit-display-reduziert-bei-amazon-2608-212084.html</guid>
       <description>Eine kabellose Rückfahrkamera mit Akku und Solarpanel gibt es im Set mit einem 5-Zoll-Display zum Aktionspreis bei Amazon. (Technik/Hardware)</description>
       <pubDate>Wed, 19 Aug 2026 09:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Model Y L: Hinweise auf europäischen Start des längeren Tesla Model Y</title>
-      <link>https://www.golem.de/news/model-y-l-hinweise-deuten-auf-europaeischen-start-des-laengeren-tesla-model-y-2608-212083.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/model-y-l-hinweise-deuten-auf-europaeischen-start-des-laengeren-tesla-model-y-2608-212083.html</guid>
-      <description>Drei Sitzreihen, ein großer Akku und noch länger: Das Tesla Model Y L wird wohl bald auch in Europa verkauft. (Tesla, Elektroauto)</description>
-      <pubDate>Wed, 19 Aug 2026 09:26:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
