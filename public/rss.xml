@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 08:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:35:16 GMT</lastBuildDate>
+    <item>
+      <title>Social Engineering an der Haustür: So dreist wurde ich manipuliert</title>
+      <link>https://www.golem.de/news/social-engineering-an-der-haustuer-so-dreist-wurde-ich-manipuliert-2608-212223.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/social-engineering-an-der-haustuer-so-dreist-wurde-ich-manipuliert-2608-212223.html</guid>
+      <description>Als ITler nehme ich mich als gut informiert und schwer manipulierbar wahr. Wie ich trotzdem - ohne es zu wissen - einen Haustürvertrag abgeschlossen habe. Ein Erfahrungsbericht von Andrea Maurer (Social Engineering, Wirtschaft)</description>
+      <pubDate>Tue, 25 Aug 2026 08:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>Musik und Bücher: Trotz 340 Millionen Dollar Strafe gibt es Annas Archive noch</title>
       <link>https://www.golem.de/news/musik-und-buecher-trotz-340-millionen-dollar-strafe-gibt-es-annas-archive-noch-2608-212255.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/social-media-sucht-bei-jugendlichen-ein-streitwert-so-gross-wie-meta-selbst-2608-212039.html</guid>
       <description>Hat Meta gezielt Funktionen entwickelt, um Jugendliche von seinen Plattformen abhängig zu machen? Geklärt werden soll das in einem historischen Billionenprozess, der jetzt beginnt. Ein Bericht von Achim Sawall (Meta, Soziales Netz)</description>
       <pubDate>Tue, 18 Aug 2026 13:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Whatsapp, Signal und Threema: Angreifer können Gruppenchats unbemerkt manipulieren</title>
-      <link>https://www.golem.de/news/whatsapp-signal-und-threema-angreifer-koennen-gruppenchats-unbemerkt-manipulieren-2608-211871.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/whatsapp-signal-und-threema-angreifer-koennen-gruppenchats-unbemerkt-manipulieren-2608-211871.html</guid>
-      <description>Bei Whatsapp, Signal, iMessage und Threema kann ein Gruppenmitglied anderen Teilnehmern unterschiedliche Inhalte zeigen. Die Verschlüsselung muss dafür nicht gebrochen werden. (Datensicherheit, Instant Messenger)</description>
-      <pubDate>Tue, 18 Aug 2026 13:08:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
