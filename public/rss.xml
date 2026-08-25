@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 10:40:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 10:50:19 GMT</lastBuildDate>
+    <item>
+      <title>Verbraucherzentrale warnt: Phishing-Mails ködern mit angeblicher Steuererstattung</title>
+      <link>https://www.golem.de/news/verbraucherzentrale-warnt-phishing-mails-koedern-mit-angeblicher-steuererstattung-2608-212265.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/verbraucherzentrale-warnt-phishing-mails-koedern-mit-angeblicher-steuererstattung-2608-212265.html</guid>
+      <description>Viele Bürger warten seit Wochen auf ihren Steuerbescheid 2025. Betrüger nutzen das aktuell vermehrt aus, um mittels Phishing Daten abzugreifen. (Phishing, E-Mail)</description>
+      <pubDate>Tue, 25 Aug 2026 10:49:06 GMT</pubDate>
+    </item>
     <item>
       <title>Forschung: Kokosnussöl als Treibstoff für die Luftfahrt</title>
       <link>https://www.golem.de/news/forschung-kokosnussoel-als-treibstoff-fuer-die-luftfahrt-2608-212264.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mietvertraege-und-hardware-us-konzerne-verstecken-ki-ausgaben-in-hoehe-von-3-billionen-us-dollar-2608-212067.html</guid>
       <description>Kosten für Mietverträge von gigantischen Rechenzentren und Bestellungen für GPUs, TPUs und HBM-Speicher tauchen bei den US-Konzernen noch nicht auf. (KI, Google)</description>
       <pubDate>Tue, 18 Aug 2026 16:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Opinion: AI's Original Sin Is Written Into Its Training</title>
-      <link>https://www.golem.de/news/opinion-ai-s-original-sin-is-written-into-its-training-2608-212056.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/opinion-ai-s-original-sin-is-written-into-its-training-2608-212056.html</guid>
-      <description>Artificial intelligence models are trained not to lie to humans. Yet a funny thing is happening: AI has been lying to humans quite a bit. Von Parmy Olson (KI, Software)</description>
-      <pubDate>Tue, 18 Aug 2026 16:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
