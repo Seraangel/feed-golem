@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 12:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:40:17 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Samsungs Ultra-Smartphone und Ultra Watch bei o2 zum Sparpreis</title>
+      <link>https://www.golem.de/news/anzeige-samsungs-ultra-smartphone-und-ultra-watch-bei-o2-zum-sparpreis-2608-212273.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-samsungs-ultra-smartphone-und-ultra-watch-bei-o2-zum-sparpreis-2608-212273.html</guid>
+      <description>Bei o2 sind Highend-Produkte von Samsung im Tarif besonders günstig. Das Galaxy Ultra und die Watch Ultra 2 gibt es für 1 Euro. (O2, Samsung)</description>
+      <pubDate>Tue, 25 Aug 2026 12:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mietwohnungen: SPD-Fraktion unterstützt Anspruch auf Einbau von Klimaanlagen</title>
+      <link>https://www.golem.de/news/mietwohnungen-spd-fraktion-unterstuetzt-anspruch-auf-einbau-von-klimaanlagen-2608-212272.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mietwohnungen-spd-fraktion-unterstuetzt-anspruch-auf-einbau-von-klimaanlagen-2608-212272.html</guid>
+      <description>Justizministerin Hubig will Mietern den Einbau von Klimaanlagen erleichtern. Der Eigentümerverband lehnt die Forderung ab. (Klimakrise, Bundesgerichtshof)</description>
+      <pubDate>Tue, 25 Aug 2026 12:35:04 GMT</pubDate>
+    </item>
     <item>
       <title>Z/Architecture &amp; ARM: IBMs nächste Mainframe-CPU unterstützt zwei Befehlssätze</title>
       <link>https://www.golem.de/news/z-architecture-arm-ibms-naechste-mainframe-cpu-unterstuetzt-zwei-befehlssaetze-2608-212271.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/megaprojekt-neom-the-line-wird-zum-ki-rechenzentrum-2608-212076.html</guid>
       <description>Nachdem immer mehr Einzelprojekte der 1.000 Milliarden Dollar teuren Investition gestoppt worden sind, soll nun auf Wirtschaftlichkeit geachtet werden. (The Line, KI)</description>
       <pubDate>Wed, 19 Aug 2026 07:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Browser-Integration: Firefox 154 integriert Startpage als Suchoption</title>
-      <link>https://www.golem.de/news/browser-integration-firefox-154-integriert-startpage-als-suchoption-2608-212075.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/browser-integration-firefox-154-integriert-startpage-als-suchoption-2608-212075.html</guid>
-      <description>Mozilla integriert die datenschutzfreundliche Suchmaschine Startpage direkt in Firefox 154 für europäische Märkte. (Firefox, Browser)</description>
-      <pubDate>Wed, 19 Aug 2026 07:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beliebte Klimaanlage: Firmware-Lücke in Midea Portasplit ermöglicht Fernsteuerung</title>
-      <link>https://www.golem.de/news/beliebte-klimaanlage-firmware-luecke-in-midea-portasplit-ermoeglicht-fernsteuerung-2608-212073.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/beliebte-klimaanlage-firmware-luecke-in-midea-portasplit-ermoeglicht-fernsteuerung-2608-212073.html</guid>
-      <description>Die Midea Portasplit gehört derzeit zu den gefragtesten Klimaanlagen. Doch missgünstige Nachbarn könnten nach Belieben in die Steuerung eingreifen. (Sicherheitslücke, Bluetooth)</description>
-      <pubDate>Wed, 19 Aug 2026 06:59:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
