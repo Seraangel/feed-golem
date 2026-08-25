@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 14:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:45:17 GMT</lastBuildDate>
+    <item>
+      <title>Neue Apple-Desktops vorgestellt: Mac Mini bekommt M6 und der Mac Studio 512 GByte RAM</title>
+      <link>https://www.golem.de/news/neue-apple-desktops-vorgestellt-mac-mini-bekommt-m6-und-der-mac-studio-512-gbyte-ram-2608-212283.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/neue-apple-desktops-vorgestellt-mac-mini-bekommt-m6-und-der-mac-studio-512-gbyte-ram-2608-212283.html</guid>
+      <description>Apple aktualisiert den Mac Mini und den Mac Studio mit deutlich mehr Leistung für lokale KI-Anwendungen. (Apple, Prozessor)</description>
+      <pubDate>Tue, 25 Aug 2026 14:41:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Playstation Dualsense Edge Pro-Controller bei Amazon so günstig wie nie</title>
       <link>https://www.golem.de/news/anzeige-playstation-dualsense-edge-pro-controller-bei-amazon-so-guenstig-wie-nie-2608-212279.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/erkennung-von-einbrechern-millionen-von-routern-werden-zu-ueberwachungsgeraeten-2608-212080.html</guid>
       <description>Einbrecher lassen sich anhand von WLAN-Signalen erkennen. In den USA wird ein entsprechendes Router-Feature jetzt großflächig ausgerollt. (WLAN, Netzwerk)</description>
       <pubDate>Wed, 19 Aug 2026 09:12:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mit WSE-3 Turbo: Cerebras neues Rack-Scale-System hängt GPUs weiter ab</title>
-      <link>https://www.golem.de/news/mit-wse-3-turbo-cerebras-neues-rack-scale-system-haengt-gpus-weiter-ab-2608-212079.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mit-wse-3-turbo-cerebras-neues-rack-scale-system-haengt-gpus-weiter-ab-2608-212079.html</guid>
-      <description>Mit komplett neuem Rack-System und überarbeitetem Chip in Wafer-Größe will Cerebras seinen Vorsprung bei KI-Inferenz weiter ausbauen. (KI, Prozessor)</description>
-      <pubDate>Wed, 19 Aug 2026 09:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
