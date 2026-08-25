@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 15:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:50:22 GMT</lastBuildDate>
+    <item>
+      <title>Bigsky SF-2U870: Sifive zeigt eigenen RISC-V-Server</title>
+      <link>https://www.golem.de/news/bigsky-sf-2u870-sifive-zeigt-eigenen-risc-v-server-2608-212276.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bigsky-sf-2u870-sifive-zeigt-eigenen-risc-v-server-2608-212276.html</guid>
+      <description>Mit 32 Kernen und Cuda soll die RISC-V-Plattform für KI-Server interessant sein. Fertigung in einem älteren Prozess soll den Preis attraktiv machen. (RISCV, Prozessor)</description>
+      <pubDate>Tue, 25 Aug 2026 15:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kopfhörer mit ANC und Dolby Audio zum Sparpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-kopfhoerer-mit-anc-und-dolby-audio-zum-sparpreis-bei-amazon-2608-212278.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/militaer-expertise-atombomben-im-weltraum-zurueck-ins-vordigitale-zeitalter-2608-212044.html</guid>
       <description>Arbeitet Russland neben Spionage-Satelliten auch an einer Atombombe fürs Weltall? Und welche Folgen hätte eine Atomexplosion im All? Eine Einschätzung der Bundeswehr. (Bundeswehr, Raumfahrt)</description>
       <pubDate>Wed, 19 Aug 2026 10:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Sena 30K Bluetooth Headset für Motorradfahrer zum Bestpreis</title>
-      <link>https://www.golem.de/news/anzeige-sena-30k-bluetooth-headset-fuer-motorradfahrer-zum-bestpreis-2608-212086.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sena-30k-bluetooth-headset-fuer-motorradfahrer-zum-bestpreis-2608-212086.html</guid>
-      <description>Amazon bietet aktuell das Sena 30K Bluetooth Headset sowie die passenden HD-Lautsprecher als Zubehör für Motorradfahrer zu stark reduzierten Preisen an. (Technik/Hardware)</description>
-      <pubDate>Wed, 19 Aug 2026 10:21:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
