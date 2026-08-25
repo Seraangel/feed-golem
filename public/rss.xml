@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 08:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:50:17 GMT</lastBuildDate>
+    <item>
+      <title>Nutzer längst geschützt: Drama um veraltete Fingerprinting-Technik bei Aliexpress</title>
+      <link>https://www.golem.de/news/nutzer-laengst-geschuetzt-drama-um-veraltete-fingerprinting-technik-bei-aliexpress-2608-212259.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nutzer-laengst-geschuetzt-drama-um-veraltete-fingerprinting-technik-bei-aliexpress-2608-212259.html</guid>
+      <description>Ein auf der Website von Aliexpress entdecktes Audio-Fingerprinting beschäftigt die IT-Welt. Dabei ist die Technik schon uralt und kaum noch relevant. (Fingerprinting, Browser)</description>
+      <pubDate>Tue, 25 Aug 2026 08:49:11 GMT</pubDate>
+    </item>
     <item>
       <title>Intel: Diamond Rapids soll mit 256 Kernen zur Epyc-Konkurrenz werden</title>
       <link>https://www.golem.de/news/intel-diamond-rapids-soll-mit-256-kernen-zur-epyc-konkurrenz-werden-2608-212254.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/solarthermie-industrielle-waerme-ist-am-guenstigsten-vom-eigenen-dach-2608-212058.html</guid>
       <description>Erneuerbarer Strom ist längst günstiger als aus anderen Quellen. Bei Wärme sieht das noch anders aus, vor allem bei höheren Temperaturen. (Solarenergie, Energiewende)</description>
       <pubDate>Tue, 18 Aug 2026 13:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Veritasium und NASA: Youtuber zeigen die Sonnenfinsternis aus 28 Kilometern Höhe</title>
-      <link>https://www.golem.de/news/veritasium-youtuber-filmen-die-sonnenfinsternis-aus-28-kilometern-hoehe-2608-212055.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/veritasium-youtuber-filmen-die-sonnenfinsternis-aus-28-kilometern-hoehe-2608-212055.html</guid>
-      <description>Von der Stratosphäre aus betrachtet sah die Sonnenfinsternis wesentlich anders aus als auf dem Boden. (Youtube, Video-Community)</description>
-      <pubDate>Tue, 18 Aug 2026 13:32:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
