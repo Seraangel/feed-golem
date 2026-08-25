@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 08:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:40:19 GMT</lastBuildDate>
+    <item>
+      <title>Intel: Diamond Rapids soll mit 256 Kernen zur Epyc-Konkurrenz werden</title>
+      <link>https://www.golem.de/news/intel-diamond-rapids-soll-mit-256-kernen-zur-epyc-konkurrenz-werden-2608-212254.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/intel-diamond-rapids-soll-mit-256-kernen-zur-epyc-konkurrenz-werden-2608-212254.html</guid>
+      <description>Intel hat weitere Details der kommenden P-Core-Xeons enthüllt. Die kommen mit großem Cache, aber ohne Emib mit Wildcat-Lake-Technik. (Prozessor, Intel)</description>
+      <pubDate>Tue, 25 Aug 2026 08:37:06 GMT</pubDate>
+    </item>
     <item>
       <title>Social Engineering an der Haustür: So dreist wurde ich manipuliert</title>
       <link>https://www.golem.de/news/social-engineering-an-der-haustuer-so-dreist-wurde-ich-manipuliert-2608-212223.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/veritasium-youtuber-filmen-die-sonnenfinsternis-aus-28-kilometern-hoehe-2608-212055.html</guid>
       <description>Von der Stratosphäre aus betrachtet sah die Sonnenfinsternis wesentlich anders aus als auf dem Boden. (Youtube, Video-Community)</description>
       <pubDate>Tue, 18 Aug 2026 13:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Social-Media-Sucht bei Jugendlichen: Ein Streitwert so groß wie Meta selbst</title>
-      <link>https://www.golem.de/news/social-media-sucht-bei-jugendlichen-ein-streitwert-so-gross-wie-meta-selbst-2608-212039.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/social-media-sucht-bei-jugendlichen-ein-streitwert-so-gross-wie-meta-selbst-2608-212039.html</guid>
-      <description>Hat Meta gezielt Funktionen entwickelt, um Jugendliche von seinen Plattformen abhängig zu machen? Geklärt werden soll das in einem historischen Billionenprozess, der jetzt beginnt. Ein Bericht von Achim Sawall (Meta, Soziales Netz)</description>
-      <pubDate>Tue, 18 Aug 2026 13:17:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
