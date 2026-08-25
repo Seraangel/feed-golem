@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 06:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:45:19 GMT</lastBuildDate>
+    <item>
+      <title>RAM-Preise: 91 Prozent des Traffics bei Hardware-Händler stammt von Bots</title>
+      <link>https://www.golem.de/news/ram-preise-91-prozent-des-traffics-bei-hardware-haendler-stammt-von-bots-2608-212249.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ram-preise-91-prozent-des-traffics-bei-hardware-haendler-stammt-von-bots-2608-212249.html</guid>
+      <description>Seit März ist die Rate des Bot-Traffics laut Datadome von 6 zu 1 auf 10 zu 1 gestiegen. Schuld daran sind RAM-Preise. (RAM, PC-Hardware)</description>
+      <pubDate>Tue, 25 Aug 2026 06:43:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Schwachstellenmanagement: Risiken realistisch bewerten</title>
       <link>https://www.golem.de/news/anzeige-schwachstellenmanagement-risiken-realistisch-bewerten-2608-212240.html</link>
@@ -139,7 +146,7 @@
       <pubDate>Mon, 24 Aug 2026 11:30:08 GMT</pubDate>
     </item>
     <item>
-      <title>Umfrage: Zahl der Nutzer von Festnetztelefonie stark gesunken</title>
+      <title>Umfrage: Immer mehr Menschen verzichten aufs Festnetz</title>
       <link>https://www.golem.de/news/umfrage-zahl-der-nutzer-von-festnetztelefonie-stark-gesunken-2608-212228.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/umfrage-zahl-der-nutzer-von-festnetztelefonie-stark-gesunken-2608-212228.html</guid>
       <description>Das klassische Festnetz-Telefon gerät zusehends in Vergessenheit: Fast 40 Prozent der Deutschen nutzen es nicht mehr, Tendenz drastisch steigend. (Telefonie, VoIP)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/outlook-onedrive-und-mehr-update-macht-suche-in-microsoft-365-apps-kaputt-2608-212045.html</guid>
       <description>Bei einigen Nutzern funktioniert derzeit die Suche in Microsoft-Anwendungen wie Outlook, Onedrive und Sharepoint nicht. Ein Fix kommt - irgendwann. (Microsoft 365, Microsoft)</description>
       <pubDate>Tue, 18 Aug 2026 11:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google: Youtube zählt Videozahlen künftig anders</title>
-      <link>https://www.golem.de/news/google-youtube-zaehlt-videozahlen-kuenftig-anders-2608-212041.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/google-youtube-zaehlt-videozahlen-kuenftig-anders-2608-212041.html</guid>
-      <description>Ab Ende August werden Zuschauerzahlen bereits ab dem ersten Klick auf ein Youtube-Video gezählt. (Youtube, Google)</description>
-      <pubDate>Tue, 18 Aug 2026 10:46:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
