@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 11:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:35:22 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Developer Analytics: Coder unter Beobachtung</title>
+      <link>https://www.golem.de/news/developer-analytics-coder-unter-beobachtung-2608-212260.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/developer-analytics-coder-unter-beobachtung-2608-212260.html</guid>
+      <description>Developer Analytics liefert Zahlen über die Arbeit von Devs. Falsch angewendet, schaffen sie aber eine Atmosphäre von Misstrauen und liefern irreführende Ergebnisse. Wie es besser geht. Ein Ratgebertext von Otto Geißler (Arbeit, KI)</description>
+      <pubDate>Tue, 25 Aug 2026 11:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Govee-GU10-LED-Glühbirne im 4er-Pack zum Aktionspreis nur rund 32 Euro</title>
       <link>https://www.golem.de/news/anzeige-govee-gu10-led-gluehbirne-im-4er-pack-zum-aktionspreis-nur-rund-32-euro-2608-212266.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-openai-bremst-entwicklung-nach-sicherheitsvorfall-2608-212070.html</guid>
       <description>OpenAI verlangsamt die Modellentwicklung nach einem Sicherheitsvorfall. Auch beim Umsatzwachstum hinkt das Unternehmen Anthropic hinterher. (OpenAI, Börse)</description>
       <pubDate>Wed, 19 Aug 2026 06:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: KI im Pentesting: Schwachstellen finden, Resilienz sichern</title>
-      <link>https://www.golem.de/news/anzeige-ki-im-pentesting-schwachstellen-finden-resilienz-sichern-2608-209586.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ki-im-pentesting-schwachstellen-finden-resilienz-sichern-2608-209586.html</guid>
-      <description>Sicherheitstests binden viel Zeit, während Bedrohungen und regulatorische Anforderungen wachsen. Ein Workshop zeigt, wie KI-gestütztes Pentesting Prüfungen und Reports beschleunigt. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Wed, 19 Aug 2026 05:15:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
