@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 11:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:20:21 GMT</lastBuildDate>
+    <item>
+      <title>Z/Architecture &amp; ARM: IBMs nächste Mainframe-CPU unterstützt zwei Befehlssätze</title>
+      <link>https://www.golem.de/news/z-architecture-arm-ibms-naechste-mainframe-cpu-unterstuetzt-zwei-befehlssaetze-2608-212271.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/z-architecture-arm-ibms-naechste-mainframe-cpu-unterstuetzt-zwei-befehlssaetze-2608-212271.html</guid>
+      <description>Neben der eigenen z/Architecture unterstützen IBMs Mainframes bald auch ARM-Befehle - ohne Emulation in Hardware. (Prozessor, IBM)</description>
+      <pubDate>Tue, 25 Aug 2026 12:19:02 GMT</pubDate>
+    </item>
     <item>
       <title>Oktoberfest: Telefónica lässt 5G-Laternen rund um Theresienwiese bauen</title>
       <link>https://www.golem.de/news/oktoberfest-telefonica-laesst-5g-laternen-rund-um-theresienwiese-bauen-2608-212270.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/beliebte-klimaanlage-firmware-luecke-in-midea-portasplit-ermoeglicht-fernsteuerung-2608-212073.html</guid>
       <description>Die Midea Portasplit gehört derzeit zu den gefragtesten Klimaanlagen. Doch missgünstige Nachbarn könnten nach Belieben in die Steuerung eingreifen. (Sicherheitslücke, Bluetooth)</description>
       <pubDate>Wed, 19 Aug 2026 06:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Markenwirrwarr: MVP dokumentiert Microsofts ständige Umbenennungen</title>
-      <link>https://www.golem.de/news/markenwirrwarr-mvp-dokumentiert-microsofts-staendige-umbenennungen-2608-212074.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/markenwirrwarr-mvp-dokumentiert-microsofts-staendige-umbenennungen-2608-212074.html</guid>
-      <description>Eine neue Webseite dokumentiert die Namensänderungen von Microsoft-Software und wertet die Umbenennungen statistisch aus. (Microsoft, Instant Messenger)</description>
-      <pubDate>Wed, 19 Aug 2026 06:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
