@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 16:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:50:22 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Zero Trust in Microsoft 365 richtig umsetzen</title>
+      <link>https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-richtig-umsetzen-2608-212247.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-richtig-umsetzen-2608-212247.html</guid>
+      <description>Klassische Netzwerkgrenzen verlieren an Bedeutung. Ein Workshop zeigt, wie Unternehmen ihre Microsoft-365-Umgebung nach dem Zero-Trust-Prinzip absichern. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 25 Aug 2026 16:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland</title>
       <link>https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kabeltarif-von-vodafone-empfehlen-und-bis-zu-210-euro-praemie-sichern-2608-212092.html</guid>
       <description>Begeisterte Vodafone-Kunden können ihre Freude teilen und jetzt davon auch noch profitieren. Auf Empfehlungen winken bis zu 210 Euro Prämie. (Vodafone, Kabelnetz)</description>
       <pubDate>Wed, 19 Aug 2026 11:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slowakei: Russische Backdoor in Verkehrskameras entdeckt</title>
-      <link>https://www.golem.de/news/slowakei-russische-backdoor-in-verkehrskameras-entdeckt-2608-212088.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/slowakei-russische-backdoor-in-verkehrskameras-entdeckt-2608-212088.html</guid>
-      <description>Die Slowakei hat im Rahmen eines Sanierungspakets 279 neue Verkehrskameras gekauft. Die Geräte kamen unerwartet aus Russland - inklusive Backdoor. (Backdoor, Kameras)</description>
-      <pubDate>Wed, 19 Aug 2026 11:15:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
