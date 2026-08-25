@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 24 Aug 2026 17:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 05:20:18 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Schwachstellenmanagement: Risiken realistisch bewerten</title>
+      <link>https://www.golem.de/news/anzeige-schwachstellenmanagement-risiken-realistisch-bewerten-2608-212240.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-schwachstellenmanagement-risiken-realistisch-bewerten-2608-212240.html</guid>
+      <description>Nicht jede gemeldete Schwachstelle ist für jede IT gleich riskant. Ein Workshop zeigt, wie sich Risiken im Schwachstellenmanagement individuell einschätzen lassen. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 25 Aug 2026 05:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>Xring O3: Xiaomis Smartphone-SoC soll Apple und Qualcomm schlagen</title>
       <link>https://www.golem.de/news/xring-o3-xiaomis-smartphone-soc-soll-apple-und-qualcomm-schlagen-2608-212242.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/google-youtube-zaehlt-videozahlen-kuenftig-anders-2608-212041.html</guid>
       <description>Ab Ende August werden Zuschauerzahlen bereits ab dem ersten Klick auf ein Youtube-Video gezählt. (Youtube, Google)</description>
       <pubDate>Tue, 18 Aug 2026 10:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Xiaomi Smart Band 10 und 10 Pro: Smarte Fitness-Tracker zum Tiefstpreis</title>
-      <link>https://www.golem.de/news/anzeige-xiaomi-smart-band-10-und-10-pro-smarte-fitness-tracker-zum-tiefstpreis-2608-212037.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-smart-band-10-und-10-pro-smarte-fitness-tracker-zum-tiefstpreis-2608-212037.html</guid>
-      <description>Wer auf der Suche nach einem vielseitigen Fitness-Tracker ist, erhält das Xiaomi Smart Band 10 sowie die Pro-Version bei Amazon aktuell zum Tiefstpreis. (Technik/Hardware, Fitness)</description>
-      <pubDate>Tue, 18 Aug 2026 10:42:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
