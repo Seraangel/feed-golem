@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 25 Aug 2026 07:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 07:40:18 GMT</lastBuildDate>
+    <item>
+      <title>Github: Nintendo lässt über 400 Switch-Emulator-Repositories löschen</title>
+      <link>https://www.golem.de/news/github-nintendo-laesst-ueber-400-switch-emulator-repositories-loeschen-2608-212253.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/github-nintendo-laesst-ueber-400-switch-emulator-repositories-loeschen-2608-212253.html</guid>
+      <description>Nintendo geht weiter massiv gegen Switch-Emulatoren vor. Sieben Beschwerden haben zur Sperrung von 401 Github-Repositories geführt. (Nintendo Switch, Urheberrecht)</description>
+      <pubDate>Tue, 25 Aug 2026 07:37:04 GMT</pubDate>
+    </item>
     <item>
       <title>Deutsche Bahn: Anteil ausgefallener Fernzüge steigt deutlich an</title>
       <link>https://www.golem.de/news/deutsche-bahn-anteil-ausgefallener-fernzuege-steigt-deutlich-an-2608-212252.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-bissell-teppichreiniger-mit-hydrosteam-technologie-bis-zu-80-euro-guenstiger-2608-212049.html</guid>
       <description>Wenn hartnäckige Flecken den Teppich ruinieren, stoßen viele Staubsauger an ihre Grenzen. Amazon reduziert zwei leistungsstarke Bissell-Teppichreiniger um bis zu 80 Euro. (Technik/Hardware)</description>
       <pubDate>Tue, 18 Aug 2026 12:09:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erdorbit: Wie SpaceX-Daten bei der Erforschung der Thermosphäre helfen</title>
-      <link>https://www.golem.de/news/erdorbit-wie-spacex-daten-bei-der-erforschung-der-thermosphaere-helfen-2608-212040.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/erdorbit-wie-spacex-daten-bei-der-erforschung-der-thermosphaere-helfen-2608-212040.html</guid>
-      <description>Forschende nutzen Starlink-Daten für eine Tomografie in der Erdumlaufbahn. Damit konnte die thermosphärische Dichte erstmals detailliert kartiert werden. (Satelliten, Wissenschaft)</description>
-      <pubDate>Tue, 18 Aug 2026 11:57:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
