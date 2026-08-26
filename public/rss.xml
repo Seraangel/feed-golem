@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 07:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:30:18 GMT</lastBuildDate>
+    <item>
+      <title>Spielekonsole: Lenovos Bios-Update macht Legion Go kaputt</title>
+      <link>https://www.golem.de/news/spielekonsole-lenovos-bios-update-macht-legion-go-kaputt-2608-212301.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spielekonsole-lenovos-bios-update-macht-legion-go-kaputt-2608-212301.html</guid>
+      <description>Ein User musste wohl mehrere Hundert Euro für eine Reparatur zahlen, obwohl selbst Lenovo einen Fehler im Bios-Update eingesteht. (Mobile Endgeräte, Lenovo)</description>
+      <pubDate>Wed, 26 Aug 2026 07:28:02 GMT</pubDate>
+    </item>
     <item>
       <title>58 Personen verhaftet: Großer Schlag gegen Onlinebetrug und Geldwäsche</title>
       <link>https://www.golem.de/news/58-personen-verhaftet-grosser-schlag-gegen-onlinebetrug-und-geldwaesche-2608-212299.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/110-millionen-us-dollar-start-up-velaura-bekommt-geld-fuer-low-voltage-ki-chips-2608-212101.html</guid>
       <description>Niedrigere Spannung senkt den Energiebedarf. Hinter dem KI-Start-up mit kuriosem Lizenzmodell steht auch Intel-CEO Lip-Bu Tan. (Technik/Hardware, KI)</description>
       <pubDate>Wed, 19 Aug 2026 14:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Statt Telekom: Lufthansa startet erstmals mit Onboard-Internet von Starlink</title>
-      <link>https://www.golem.de/news/statt-telekom-lufthansa-startet-erstmals-mit-onboard-internet-von-starlink-2608-212102.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/statt-telekom-lufthansa-startet-erstmals-mit-onboard-internet-von-starlink-2608-212102.html</guid>
-      <description>Der erste öffentliche Flug der Lufthansa mit Starlink ist von Berlin nach Rom und zurück geflogen. Das European Aviation Network (EAN) von Inmarsat und Deutsche Telekom hat hier ausgedient. (Lufthansa, Telekommunikation)</description>
-      <pubDate>Wed, 19 Aug 2026 13:44:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
