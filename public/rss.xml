@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 09:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:10:17 GMT</lastBuildDate>
+    <item>
+      <title>100 Milliarden für Weltraumbahnhof: Aus den Feuchtgebieten zum Mars</title>
+      <link>https://www.golem.de/news/100-milliarden-fuer-weltraumbahnhof-aus-den-feuchtgebieten-zum-mars-2608-212311.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/100-milliarden-fuer-weltraumbahnhof-aus-den-feuchtgebieten-zum-mars-2608-212311.html</guid>
+      <description>SpaceX plant Tausende Starts und Landungen mit der Starship-Rakete. Dafür wird ein neuer Weltraumbahnhof in Louisiana gebaut. Von Friedhelm Greis (SpaceX, Supercomputer)</description>
+      <pubDate>Wed, 26 Aug 2026 09:09:02 GMT</pubDate>
+    </item>
     <item>
       <title>Lizenzen trotz US-Sanktionen: HP und Huawei tauschen Patente um Wi-Fi 7 aus</title>
       <link>https://www.golem.de/news/lizenzen-trotz-us-sanktionen-hp-und-huawei-tauschen-patente-um-wi-fi-7-aus-2608-212308.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kompressor-fuer-den-18v-akku-von-makita-kostet-bei-amazon-rund-36-euro-2608-212107.html</guid>
       <description>Ein viel gekaufter Kompressor kostet bei Amazon knapp unter 36 Euro. Er ist mit den Akkus von Makita kompatibel. (Technik/Hardware)</description>
       <pubDate>Wed, 19 Aug 2026 16:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Identity- und Access-Management mit Keycloak absichern</title>
-      <link>https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2608-212069.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2608-212069.html</guid>
-      <description>Identity- und Access-Management sind für viele Unternehmen eine Herausforderung. Ein praxisorientiertes Training vermittelt den sicheren Einsatz von Keycloak samt SSO und MFA. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Wed, 19 Aug 2026 16:45:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
