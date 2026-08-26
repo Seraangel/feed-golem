@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 07:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 07:40:17 GMT</lastBuildDate>
+    <item>
+      <title>IT-Sicherheit: Führungskräfte nutzen KI trotz Sicherheitsrisiken</title>
+      <link>https://www.golem.de/news/it-sicherheit-fuehrungskraefte-nutzen-ki-trotz-sicherheitsrisiken-2608-212302.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-fuehrungskraefte-nutzen-ki-trotz-sicherheitsrisiken-2608-212302.html</guid>
+      <description>Eine Umfrage zeigt erhebliche Unterschiede bei der KI-Nutzung und dem Umgang mit vertraulichen Daten im Büro. (Security, Studien)</description>
+      <pubDate>Wed, 26 Aug 2026 07:38:03 GMT</pubDate>
+    </item>
     <item>
       <title>Spielekonsole: Lenovos Bios-Update macht Legion Go kaputt</title>
       <link>https://www.golem.de/news/spielekonsole-lenovos-bios-update-macht-legion-go-kaputt-2608-212301.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-fritz-box-5590-fiber-glasfaser-router-zum-amazon-aktionspreis-fuer-209-99-euro-2608-212103.html</guid>
       <description>Die FRITZ!Box 5590 Fiber kombiniert Glasfasermodem, Wi-Fi 6 und Telefonanlage in einem Gerät und ist bei Amazon aktuell deutlich günstiger. (Fritzbox, Glasfaser)</description>
       <pubDate>Wed, 19 Aug 2026 14:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>110 Millionen US-Dollar: Start-up Velaura bekommt Geld für Low-Voltage-KI-Chips</title>
-      <link>https://www.golem.de/news/110-millionen-us-dollar-start-up-velaura-bekommt-geld-fuer-low-voltage-ki-chips-2608-212101.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/110-millionen-us-dollar-start-up-velaura-bekommt-geld-fuer-low-voltage-ki-chips-2608-212101.html</guid>
-      <description>Niedrigere Spannung senkt den Energiebedarf. Hinter dem KI-Start-up mit kuriosem Lizenzmodell steht auch Intel-CEO Lip-Bu Tan. (Technik/Hardware, KI)</description>
-      <pubDate>Wed, 19 Aug 2026 14:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
