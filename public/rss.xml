@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 11:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:45:21 GMT</lastBuildDate>
+    <item>
+      <title>Streit um Lizenzgebühren: Disney soll auch VP9-Codec nicht kostenlos nutzen fürfen</title>
+      <link>https://www.golem.de/news/streit-um-lizenzgebuehren-disney-soll-auch-vp9-codec-nicht-kostenlos-nutzen-fuerfen-2608-212324.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/streit-um-lizenzgebuehren-disney-soll-auch-vp9-codec-nicht-kostenlos-nutzen-fuerfen-2608-212324.html</guid>
+      <description>Weil Gerichte Disney die kostenfreie Nutzung von HEVC untersagt haben, ist der Streamingdienst auf VP9 ausgewichen. (HEVC, Video-Codec)</description>
+      <pubDate>Wed, 26 Aug 2026 11:42:06 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Digitale Souveränität: So oft schreiben deutsche Behörden US-Software vor</title>
       <link>https://www.golem.de/news/digitale-souveraenitaet-so-oft-schreiben-deutsche-behoerden-us-software-vor-2608-212306.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/strahlungskuehlung-solarsystem-erzeugt-strom-waermt-und-kuehlt-alles-gleichzeitig-2608-212117.html</guid>
       <description>Das neu entwickelte System nutzt neben dem Licht der Sonne auch die Kälte des Weltalls als erneuerbare Energiequelle. (Solarenergie, Energiewende)</description>
       <pubDate>Thu, 20 Aug 2026 08:20:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>HP Laser 1008a: Claude Code schreibt Druckertreiber für MacOS</title>
-      <link>https://www.golem.de/news/hp-laser-1008a-claude-code-schreibt-druckertreiber-fuer-macos-2608-212116.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hp-laser-1008a-claude-code-schreibt-druckertreiber-fuer-macos-2608-212116.html</guid>
-      <description>Eigentlich ist der alte HP-Laserdrucker eines Entwicklers nicht mit MacOS kompatibel. Deshalb hat er einen Treiber über 30 Prompts erstellt. (KI, Mac)</description>
-      <pubDate>Thu, 20 Aug 2026 08:11:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
