@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 08:50:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 08:55:21 GMT</lastBuildDate>
+    <item>
+      <title>Lizenzen trotz US-Sanktionen: HP und Huawei tauschen Patente um Wi-Fi 7 aus</title>
+      <link>https://www.golem.de/news/lizenzen-trotz-us-sanktionen-hp-und-huawei-tauschen-patente-um-wi-fi-7-aus-2608-212308.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/lizenzen-trotz-us-sanktionen-hp-und-huawei-tauschen-patente-um-wi-fi-7-aus-2608-212308.html</guid>
+      <description>HP Inc. und Huawei haben ein Patent-Cross-Licensing-Abkommen für WLAN-Technologien unterzeichnet. Huawei bezeichnet dies als Beweis für seine Innovationskraft im Wi-Fi-7-Bereich. (HP, Huawei)</description>
+      <pubDate>Wed, 26 Aug 2026 08:53:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Großes Display für Apple Carplay und Android Auto für Prime-Mitglieder jetzt nur rund 123 Euro</title>
       <link>https://www.golem.de/news/anzeige-grosses-display-fuer-apple-carplay-und-android-auto-fuer-prime-mitglieder-jetzt-nur-rund-123-euro-2608-212305.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2608-212069.html</guid>
       <description>Identity- und Access-Management sind für viele Unternehmen eine Herausforderung. Ein praxisorientiertes Training vermittelt den sicheren Einsatz von Keycloak samt SSO und MFA. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Wed, 19 Aug 2026 16:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Technology: No room for data centers? South Korea wants to build one underwater</title>
-      <link>https://www.golem.de/news/technology-no-room-for-data-centers-south-korea-wants-to-build-one-underwater-2608-212060.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/technology-no-room-for-data-centers-south-korea-wants-to-build-one-underwater-2608-212060.html</guid>
-      <description>Pilot project off Ulsan coast aims to find space for AI infrastructure Von Nami Matsuura (KI, Software)</description>
-      <pubDate>Wed, 19 Aug 2026 16:30:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
