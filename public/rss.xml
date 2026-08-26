@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 10:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:45:20 GMT</lastBuildDate>
+    <item>
+      <title>Weltraum-MMORPG: Eve Online beginnt mit der Umstellung auf Python 3</title>
+      <link>https://www.golem.de/news/weltraum-mmorpg-eve-online-beginnt-mit-der-umstellung-auf-python-3-2608-212319.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/weltraum-mmorpg-eve-online-beginnt-mit-der-umstellung-auf-python-3-2608-212319.html</guid>
+      <description>Das Entwicklerstudio CCP Games sieht vielen Herausforderungen entgegen. Teils ist der Python-Code von Eve Online fast 20 Jahre alt. (Eve Online, MMORPG)</description>
+      <pubDate>Wed, 26 Aug 2026 10:41:11 GMT</pubDate>
+    </item>
     <item>
       <title>Viele Softwareprojekte gefährdet: Hacker schleusen Schadcode auf Gitea-Instanzen</title>
       <link>https://www.golem.de/news/viele-softwareprojekte-gefaehrdet-hacker-schleusen-schadcode-auf-gitea-instanzen-2608-212317.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/windows-11-microsoft-draengt-nutzer-zum-wechsel-auf-neuen-media-player-2608-212114.html</guid>
       <description>Mit dem Wegfall der Untertitel-Funktion setzt Microsoft Nutzer des Windows Media Player weiter unter Druck, auf die neue App umzusteigen. (Microsoft, H.265)</description>
       <pubDate>Thu, 20 Aug 2026 06:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Windows-11-Update lässt Spiele und PCs abstürzen</title>
-      <link>https://www.golem.de/news/microsoft-windows-11-update-laesst-spiele-und-pcs-abstuerzen-2608-212113.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-windows-11-update-laesst-spiele-und-pcs-abstuerzen-2608-212113.html</guid>
-      <description>Microsoft untersucht Probleme mit den August-Updates für Windows 11. Sowohl Videospiele als auch ganze PCs stürzen bei einigen Nutzern ab. (Windows 11, Microsoft)</description>
-      <pubDate>Thu, 20 Aug 2026 06:41:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
