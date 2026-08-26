@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 12:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:45:19 GMT</lastBuildDate>
+    <item>
+      <title>Yxstaby: Ikea und Xbox schrauben Gaming-Möbel zusammen</title>
+      <link>https://www.golem.de/news/yxstaby-ikea-und-xbox-schrauben-gaming-moebel-zusammen-2608-212327.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/yxstaby-ikea-und-xbox-schrauben-gaming-moebel-zusammen-2608-212327.html</guid>
+      <description>Erstmals arbeiten Ikea und Xbox zusammen und bringen neun Möbelstücke und Accessoires für Gamer auf den Markt. (Xbox, Microsoft)</description>
+      <pubDate>Wed, 26 Aug 2026 12:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Smartwatch von Garmin zum Aktionspreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-smartwatch-von-garmin-zum-aktionspreis-bei-amazon-2608-212326.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-gaming-tastatur-mit-hall-effekt-schaltern-zum-tiefpreis-bei-amazon-2608-212123.html</guid>
       <description>Gaming-Tastatur SteelSeries Apex Pro Mini mit Hall-Effekt-Schaltern, Rapid Trigger und 0,7 Millisekunden Reaktionszeit reduziert bei Amazon. (Tastatur, Eingabegerät)</description>
       <pubDate>Thu, 20 Aug 2026 09:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux-SBC eingestellt: Pine64 kapituliert vor Speicherpreisen</title>
-      <link>https://www.golem.de/news/linux-sbc-eingestellt-pine64-kapituliert-vor-speicherpreisen-2608-212122.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/linux-sbc-eingestellt-pine64-kapituliert-vor-speicherpreisen-2608-212122.html</guid>
-      <description>Pine64 stellt vorerst die Produktion aller Linux-Geräte ein. Ob sie wieder aufgenommen wird, ist unklar. Dafür soll es mehr Mikrocontroller geben. (Pine64, RAM)</description>
-      <pubDate>Thu, 20 Aug 2026 09:47:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
