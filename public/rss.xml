@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 10:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:00:24 GMT</lastBuildDate>
+    <item>
+      <title>Artificial Artificial Intelligence: Amazon stellt Crowdsourcing-Plattform Mechanical Turk ein</title>
+      <link>https://www.golem.de/news/artificial-artificial-intelligence-amazon-stellt-crowdsourcing-plattform-mechanical-turk-ein-2608-212318.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/artificial-artificial-intelligence-amazon-stellt-crowdsourcing-plattform-mechanical-turk-ein-2608-212318.html</guid>
+      <description>Amazon-Gründer Jeff Bezos bezeichnete den Dienst als "künstliche künstliche Intelligenz". Nun wird die Crowdsourcing-Plattform Mechanical Turk geschlossen. (Crowdsourcing, Amazon)</description>
+      <pubDate>Wed, 26 Aug 2026 10:56:09 GMT</pubDate>
+    </item>
     <item>
       <title>Weltraum-MMORPG: Eve Online beginnt mit der Umstellung auf Python 3</title>
       <link>https://www.golem.de/news/weltraum-mmorpg-eve-online-beginnt-mit-der-umstellung-auf-python-3-2608-212319.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/widerstand-gegen-ki-rechenzentren-riesige-haessliche-schmutzige-bauten-2608-212082.html</guid>
       <description>In den USA wächst sich der Protest gegen KI-Rechenzentren zu einer regelrechten Bewegung aus, auch in Europa gibt es zunehmend Widerstand. Hier geht es um weit mehr als Nimbyism (Not in my backyard). Ein IMHO von Markus Feilner (KI, Erneuerbare Energien)</description>
       <pubDate>Thu, 20 Aug 2026 07:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11: Microsoft drängt Nutzer zum Wechsel auf neuen Media Player</title>
-      <link>https://www.golem.de/news/windows-11-microsoft-draengt-nutzer-zum-wechsel-auf-neuen-media-player-2608-212114.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/windows-11-microsoft-draengt-nutzer-zum-wechsel-auf-neuen-media-player-2608-212114.html</guid>
-      <description>Mit dem Wegfall der Untertitel-Funktion setzt Microsoft Nutzer des Windows Media Player weiter unter Druck, auf die neue App umzusteigen. (Microsoft, H.265)</description>
-      <pubDate>Thu, 20 Aug 2026 06:50:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
