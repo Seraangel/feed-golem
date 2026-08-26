@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 16:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:48:41 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Security Incidents: die ersten Schritte nach dem Vorfall</title>
+      <link>https://www.golem.de/news/anzeige-security-incidents-die-ersten-schritte-nach-dem-vorfall-2608-212295.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-security-incidents-die-ersten-schritte-nach-dem-vorfall-2608-212295.html</guid>
+      <description>Ein Sicherheitsvorfall verlangt schnelles, überlegtes Handeln. Ein Workshop vermittelt praxisnahes Wissen zu ersten Reaktionsschritten, Beweissicherung und Notbetrieb. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 26 Aug 2026 16:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Opinion Business Insight: AI has opened up big holes in cyber security</title>
       <link>https://www.golem.de/news/opinion-business-insight-ai-has-opened-up-big-holes-in-cyber-security-2608-212328.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gsc-game-world-neue-grafik-fuer-stalker-2-spaltet-die-community-2608-212140.html</guid>
       <description>Mit Update 2.0 bekommt Stalker 2 eine neue Engine-Version und frische Grafik. Nicht allen gefällt die neue Zone besser. (Stalker, Unreal-Engine)</description>
       <pubDate>Thu, 20 Aug 2026 13:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Kabelloser Presenter mit Laserpointer für 13,57 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-kabelloser-presenter-mit-laserpointer-fuer-13-57-euro-bei-amazon-2608-212138.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kabelloser-presenter-mit-laserpointer-fuer-13-57-euro-bei-amazon-2608-212138.html</guid>
-      <description>Amazon hat einen kabellosen Presenter mit integriertem Laserpointer im Angebot, der Präsentationen steuert und Fakten hervorhebt. (Technik/Hardware)</description>
-      <pubDate>Thu, 20 Aug 2026 12:59:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
