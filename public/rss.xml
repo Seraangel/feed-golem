@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 10:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:30:20 GMT</lastBuildDate>
+    <item>
+      <title>Viele Softwareprojekte gefährdet: Hacker schleusen Schadcode auf Gitea-Instanzen</title>
+      <link>https://www.golem.de/news/viele-softwareprojekte-gefaehrdet-hacker-schleusen-schadcode-auf-gitea-instanzen-2608-212317.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/viele-softwareprojekte-gefaehrdet-hacker-schleusen-schadcode-auf-gitea-instanzen-2608-212317.html</guid>
+      <description>Eine kritische Sicherheitslücke ermöglicht Schadcode-Attacken auf Gitea-Instanzen. Angreifer nutzen das bereits. Admins sollten zügig patchen. (Sicherheitslücke, Server)</description>
+      <pubDate>Wed, 26 Aug 2026 10:27:08 GMT</pubDate>
+    </item>
     <item>
       <title>Jalapeno: OpenAIs erster KI-Chip schlägt Nvidia bei Effizienz</title>
       <link>https://www.golem.de/news/jalapeno-openais-erster-ki-chip-schlaegt-nvidia-bei-effizienz-2608-212310.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-windows-11-update-laesst-spiele-und-pcs-abstuerzen-2608-212113.html</guid>
       <description>Microsoft untersucht Probleme mit den August-Updates für Windows 11. Sowohl Videospiele als auch ganze PCs stürzen bei einigen Nutzern ab. (Windows 11, Microsoft)</description>
       <pubDate>Thu, 20 Aug 2026 06:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vertragsverlängerung: US-Army lockt mit freien Tagen für GTA 6</title>
-      <link>https://www.golem.de/news/vertragsverlaengerung-us-army-lockt-mit-freien-tagen-fuer-gta-6-2608-212112.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vertragsverlaengerung-us-army-lockt-mit-freien-tagen-fuer-gta-6-2608-212112.html</guid>
-      <description>Ein US-Armee-Bataillon bietet vier freie Tage zum Start von GTA 6. Dafür müssen Soldaten ihren Vertrag um zwei bis sechs Jahre verlängern. (Militär, Spiele)</description>
-      <pubDate>Thu, 20 Aug 2026 06:32:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
