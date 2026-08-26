@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 11:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:15:20 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Beliebter Bose-Bluetooth-Lautsprecher jetzt wieder unter 100 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-beliebter-bose-bluetooth-lautsprecher-jetzt-wieder-unter-100-euro-bei-amazon-2608-212321.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebter-bose-bluetooth-lautsprecher-jetzt-wieder-unter-100-euro-bei-amazon-2608-212321.html</guid>
+      <description>Der Bose SoundLink Flex 2 ist jetzt wieder günstiger verfügbar und liefert naturgetreuen Klang, IP67-Schutz und 12 Stunden Akkulaufzeit. (Technik/Hardware, Sound-Hardware)</description>
+      <pubDate>Wed, 26 Aug 2026 11:11:03 GMT</pubDate>
+    </item>
     <item>
       <title>Artificial Artificial Intelligence: Amazon stellt Crowdsourcing-Plattform Mechanical Turk ein</title>
       <link>https://www.golem.de/news/artificial-artificial-intelligence-amazon-stellt-crowdsourcing-plattform-mechanical-turk-ein-2608-212318.html</link>
@@ -27,7 +34,7 @@
       <pubDate>Wed, 26 Aug 2026 10:41:11 GMT</pubDate>
     </item>
     <item>
-      <title>Viele Softwareprojekte gefährdet: Hacker schleusen Schadcode auf Gitea-Instanzen</title>
+      <title>Sicherheitslücke: Schadcode-Attacken auf Gitea-Server gefährden Softwareprojekte</title>
       <link>https://www.golem.de/news/viele-softwareprojekte-gefaehrdet-hacker-schleusen-schadcode-auf-gitea-instanzen-2608-212317.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/viele-softwareprojekte-gefaehrdet-hacker-schleusen-schadcode-auf-gitea-instanzen-2608-212317.html</guid>
       <description>Eine kritische Sicherheitslücke ermöglicht Schadcode-Attacken auf Gitea-Instanzen. Angreifer nutzen das bereits. Admins sollten zügig patchen. (Sicherheitslücke, Server)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/konkurrenz-zu-netflix-youtube-zahlt-millionen-fuer-exklusive-inhalte-2608-212115.html</guid>
       <description>Youtube bietet Videoproduzenten Millionenbeträge für Exklusivität, um Veröffentlichungen auf Netflix zu verhindern. (Youtube, Video-Community)</description>
       <pubDate>Thu, 20 Aug 2026 07:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Widerstand gegen KI-Rechenzentren: "Riesige, hässliche, schmutzige Bauten"</title>
-      <link>https://www.golem.de/news/widerstand-gegen-ki-rechenzentren-riesige-haessliche-schmutzige-bauten-2608-212082.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/widerstand-gegen-ki-rechenzentren-riesige-haessliche-schmutzige-bauten-2608-212082.html</guid>
-      <description>In den USA wächst sich der Protest gegen KI-Rechenzentren zu einer regelrechten Bewegung aus, auch in Europa gibt es zunehmend Widerstand. Hier geht es um weit mehr als Nimbyism (Not in my backyard). Ein IMHO von Markus Feilner (KI, Erneuerbare Energien)</description>
-      <pubDate>Thu, 20 Aug 2026 07:20:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
