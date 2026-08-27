@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 09:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:25:22 GMT</lastBuildDate>
+    <item>
+      <title>Angriff auf Hugging Face: Brisante neue Details zum KI-Hack von OpenAI enthüllt</title>
+      <link>https://www.golem.de/news/angriff-auf-hugging-face-brisante-neue-details-zum-ki-hack-von-openai-enthuellt-2608-212350.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-hugging-face-brisante-neue-details-zum-ki-hack-von-openai-enthuellt-2608-212350.html</guid>
+      <description>KI-Agenten von OpenAI haben im Juli Systeme von Hugging Face infiltriert. Jetzt ist bekannt geworden, was sie dort wollten und wie sie sich koordinierten. (OpenAI, KI)</description>
+      <pubDate>Thu, 27 Aug 2026 09:23:02 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft: Xbox digitalisiert Discs - ein Detail bleibt rätselhaft</title>
       <link>https://www.golem.de/news/microsoft-xbox-digitalisiert-discs-ein-detail-bleibt-raetselhaft-2608-212352.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-exchange-e-mail-postfaecher-bekommen-50-gbyte-mehr-speicher-2608-212154.html</guid>
       <description>Diverse Exchange-Abonnements können künftig mit 100 GByte Speicherplatz für E-Mails arbeiten. Microsoft stellt das bereits um. (Microsoft 365, Microsoft)</description>
       <pubDate>Fri, 21 Aug 2026 07:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swift: Nasa-Rettungsmission für Forschungssatelliten gescheitert</title>
-      <link>https://www.golem.de/news/swift-nasa-rettungsmission-fuer-forschungssatelliten-gescheitert-2608-212153.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/swift-nasa-rettungsmission-fuer-forschungssatelliten-gescheitert-2608-212153.html</guid>
-      <description>Ein Steuerungsproblem stoppt die geplante Rettung des Nasa-Satelliten Swift. Nun droht dem Forschungsobservatorium noch 2026 das Aus. (Nasa, Satelliten)</description>
-      <pubDate>Fri, 21 Aug 2026 06:48:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
