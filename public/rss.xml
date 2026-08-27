@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 10:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:15:19 GMT</lastBuildDate>
+    <item>
+      <title>Executor 75457: Neuer Super-Sternzerstörer ist Legos längstes Set</title>
+      <link>https://www.golem.de/news/executor-75457-neuer-super-sternzerstoerer-ist-legos-laengstes-set-2608-212354.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/executor-75457-neuer-super-sternzerstoerer-ist-legos-laengstes-set-2608-212354.html</guid>
+      <description>Mit 6.130 Teilen ist der neue Lego Super Star Destroyer noch einmal größer geworden. Er ist aber auch innen viel bunter und merklich teurer. (Star Wars, Lego)</description>
+      <pubDate>Thu, 27 Aug 2026 10:12:05 GMT</pubDate>
+    </item>
     <item>
       <title>Ridley Scotts Das Ende der Sterne: Kontemplativ durch die Apokalypse</title>
       <link>https://www.golem.de/news/ridley-scotts-das-ende-der-sterne-kontemplativ-durch-die-apokalypse-2608-212241.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/supply-chain-angriff-backdoor-in-millionenfach-geladene-rust-crates-eingeschleust-2608-212158.html</guid>
       <description>Angreifern ist es gelungen, mehrere populäre Rust Crates mit einer Backdoor-Malware zu verseuchen. Entwickler sollten dringend handeln. (Malware, Virus)</description>
       <pubDate>Fri, 21 Aug 2026 08:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inoffizielle Importe nach Deutschland: Importeur vertreibt China-Stromer von Audi</title>
-      <link>https://www.golem.de/news/inoffizielle-importe-nach-deutschland-importeur-vertreibt-china-stromer-von-audi-2608-212157.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/inoffizielle-importe-nach-deutschland-importeur-vertreibt-china-stromer-von-audi-2608-212157.html</guid>
-      <description>Ein Händler bietet die China-Modelle Audi E5 Sportback und E7X in Deutschland an. Der Vertrieb birgt aber rechtliche Risiken. (Audi, Elektroauto)</description>
-      <pubDate>Fri, 21 Aug 2026 07:54:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
