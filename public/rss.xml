@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 10:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 11:05:21 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheitslücke beim Mobilfunk: Angreifer haben per Anruf Gerätedaten ausgespäht</title>
+      <link>https://www.golem.de/news/sicherheitsluecke-beim-mobilfunk-angreifer-haben-per-anruf-geraetedaten-ausgespaeht-2608-212359.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsluecke-beim-mobilfunk-angreifer-haben-per-anruf-geraetedaten-ausgespaeht-2608-212359.html</guid>
+      <description>Reporter haben eine Sicherheitslücke in den Mobilfunknetzen mehrerer Provider entdeckt. Angreifer konnten ohne Nutzerinteraktion Gerätedaten abgreifen. (Sicherheitslücke, Smartphone)</description>
+      <pubDate>Thu, 27 Aug 2026 11:04:10 GMT</pubDate>
+    </item>
     <item>
       <title>Extrem vielfältige Werke: Insider berichtet aus Amazons KI-Buchtrainingslager</title>
       <link>https://www.golem.de/news/extrem-vielfaeltige-werke-insider-berichtet-aus-amazons-ki-buchtrainingslager-2608-212360.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kryptowaehrung-bitcoin-innerhalb-von-drei-tagen-um-10-000-dollar-gestiegen-2608-212167.html</guid>
       <description>Plötzlich erlebt Bitcoin einen spontanen Boom. Das zieht auch andere Kryptowährungen wie Ethereum nach oben. (Bitcoin, Wirtschaft)</description>
       <pubDate>Fri, 21 Aug 2026 09:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Tablet Samsung Galaxy Tab A11+ zum Aktionspreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-tablet-samsung-galaxy-tab-a11-zum-aktionspreis-bei-amazon-2608-212166.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-tablet-samsung-galaxy-tab-a11-zum-aktionspreis-bei-amazon-2608-212166.html</guid>
-      <description>Das beliebte Tablet Samsung Galaxy Tab A11+ mit 11''-WUXGA-Display, Octa-Core-Prozessor und 7.040-mAh-Akku ist bei Amazon reduziert. (Galaxy Tab, Samsung)</description>
-      <pubDate>Fri, 21 Aug 2026 09:03:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
