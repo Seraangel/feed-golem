@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 10:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:30:20 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Bestseller-Rucksack von Eastpak kurzzeitig für nur rund 32 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-bestseller-rucksack-von-eastpak-kurzzeitig-fuer-nur-rund-32-euro-bei-amazon-2608-212358.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bestseller-rucksack-von-eastpak-kurzzeitig-fuer-nur-rund-32-euro-bei-amazon-2608-212358.html</guid>
+      <description>Der Eastpak Out of Office Rucksack ist bei Amazon aktuell stark reduziert, bietet ein gepolstertes Laptopfach und gilt als Kult-Klassiker. (Technik/Hardware, Arbeit)</description>
+      <pubDate>Thu, 27 Aug 2026 10:29:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open-Source-Office: Libre Office 26.8 verzichtet bewusst auf KI</title>
+      <link>https://www.golem.de/news/open-source-office-libre-office-26-8-verzichtet-bewusst-auf-ki-2608-212356.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/open-source-office-libre-office-26-8-verzichtet-bewusst-auf-ki-2608-212356.html</guid>
+      <description>Die neue Libre-Office-Version 26.8 enthält umfangreiche Verbesserungen für Schriften und arbeitet nun besser mit MS-Office-Dateien. (Libreoffice, Office-Suite)</description>
+      <pubDate>Thu, 27 Aug 2026 10:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>Executor 75457: Neuer Super-Sternzerstörer ist Legos längstes Set</title>
       <link>https://www.golem.de/news/executor-75457-neuer-super-sternzerstoerer-ist-legos-laengstes-set-2608-212354.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/god-of-war-jahrelang-wollte-er-gears-of-war-jetzt-wird-er-kratos-2608-212162.html</guid>
       <description>Dave Bautista übernimmt eine der bekanntesten Rollen der Spielegeschichte. Gleichzeitig baut Sony God of War mit neuen Spielen massiv aus. (God of War, Sony)</description>
       <pubDate>Fri, 21 Aug 2026 08:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Magnet-Elektroschrauber mit 20 Bits zum Aktionspreis für nur rund 54 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-magnet-elektroschrauber-mit-20-bits-zum-aktionspreis-fuer-nur-rund-54-euro-bei-amazon-2608-212160.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-magnet-elektroschrauber-mit-20-bits-zum-aktionspreis-fuer-nur-rund-54-euro-bei-amazon-2608-212160.html</guid>
-      <description>Der Fanttik S2 Pro liefert bis zu 6 Nm Drehmoment in sieben Stufen und ist bei Amazon aktuell wieder günstiger zu haben. (Technik/Hardware)</description>
-      <pubDate>Fri, 21 Aug 2026 08:34:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supply-Chain-Angriff: Backdoor in millionenfach geladene Rust Crates eingeschleust</title>
-      <link>https://www.golem.de/news/supply-chain-angriff-backdoor-in-millionenfach-geladene-rust-crates-eingeschleust-2608-212158.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/supply-chain-angriff-backdoor-in-millionenfach-geladene-rust-crates-eingeschleust-2608-212158.html</guid>
-      <description>Angreifern ist es gelungen, mehrere populäre Rust Crates mit einer Backdoor-Malware zu verseuchen. Entwickler sollten dringend handeln. (Malware, Virus)</description>
-      <pubDate>Fri, 21 Aug 2026 08:26:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
