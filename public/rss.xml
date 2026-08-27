@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 12:45:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:05:18 GMT</lastBuildDate>
+    <item>
+      <title>Jalapeño und Nvidias Zukunft: Wenn die besten Kunden Chips selbst bauen</title>
+      <link>https://www.golem.de/news/jalapeno-und-nvidias-zukunft-wenn-die-besten-kunden-chips-selbst-bauen-2608-212362.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/jalapeno-und-nvidias-zukunft-wenn-die-besten-kunden-chips-selbst-bauen-2608-212362.html</guid>
+      <description>Immer mehr Nvidia-Kunden bauen eigene Chips. Das klingt bedrohlicher, als es vorerst ist, zumal sich Nvidia absichert. Der Umsatz hält, die Marge nicht. Eine Analyse von Björn Meschkat (Nvidia, KI)</description>
+      <pubDate>Thu, 27 Aug 2026 13:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>HOMM 3 Remake: Neue Snowdrop-Grafik trifft auf 25 Jahre alte Fan-Inhalte</title>
       <link>https://www.golem.de/news/homm-3-remake-neue-snowdrop-grafik-trifft-auf-25-jahre-alte-fan-inhalte-2608-212365.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/stepstone-kununu-und-jobvector-was-it-fachleute-verdienen-2608-211820.html</guid>
       <description>Golem hat verschiedene Gehaltsangaben von Stepstone, Kununu und Jobvector ausgewertet, um herauszufinden, was IT-Fachleute derzeit wirklich verdienen. Je nach Blickrichtung gibt es große Unterschiede. Eine Analyse von Achim Sawall (Arbeit, Wirtschaft)</description>
       <pubDate>Fri, 21 Aug 2026 11:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>N-able Passportal: Zahlreiche Unternehmen durch kritisches Passwort-Leck gefährdet</title>
-      <link>https://www.golem.de/news/n-able-passportal-jede-website-konnte-passwort-tresore-auslesen-2608-212171.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/n-able-passportal-jede-website-konnte-passwort-tresore-auslesen-2608-212171.html</guid>
-      <description>Ein Forscher hat bei N-able Passportal eine kritische Lücke entdeckt. Angreifer hätten damit leicht Zugangsdaten aus Passwort-Tresoren abgreifen können. (Sicherheitslücke, Browser)</description>
-      <pubDate>Fri, 21 Aug 2026 10:40:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
