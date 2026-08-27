@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 26 Aug 2026 17:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 05:20:19 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft 365 DSGVO-konform betreiben</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2608-212342.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2608-212342.html</guid>
+      <description>Microsoft 365 verarbeitet sensible Unternehmens- und Personendaten. Ein Workshop zeigt, wie sich die Plattform DSGVO-konform konfigurieren und betreiben lässt. (Golem Karrierewelt, Datenschutz)</description>
+      <pubDate>Thu, 27 Aug 2026 05:15:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Schweizer Taschenmesser befristet im Amazon-Angebot</title>
       <link>https://www.golem.de/news/anzeige-schweizer-taschenmesser-befristet-im-amazon-angebot-2608-212341.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-aussen-ueberwachungskamera-mit-solarpanel-reduziert-bei-amazon-2608-212142.html</guid>
       <description>Eine schwenkbare Außen-Überwachungskamera mit integriertem Solarpanel, 2K-Auflösung und Bewegungserkennung gibt es zum Sparpreis bei Amazon. (Videoüberwachung, Technik/Hardware)</description>
       <pubDate>Thu, 20 Aug 2026 15:05:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spieleplattform: Der Epic Games Store kommt für Linux</title>
-      <link>https://www.golem.de/news/spieleplattform-der-epic-games-store-kommt-fuer-linux-2608-212143.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/spieleplattform-der-epic-games-store-kommt-fuer-linux-2608-212143.html</guid>
-      <description>Entwickler Epic Games hat in einem Q&amp;A bestätigt: Der Epic Games Store wird auch bald auf Linux laufen. (Epic Games, Steam)</description>
-      <pubDate>Thu, 20 Aug 2026 14:23:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
