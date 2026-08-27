@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 09:25:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 09:40:16 GMT</lastBuildDate>
+    <item>
+      <title>96 Milliarden US-Dollar: Nvidia will mit Rekordeinnahmen Hugging Face kaufen</title>
+      <link>https://www.golem.de/news/96-milliarden-us-dollar-nvidia-will-mit-rekordeinnahmen-hugging-face-kaufen-2608-212349.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/96-milliarden-us-dollar-nvidia-will-mit-rekordeinnahmen-hugging-face-kaufen-2608-212349.html</guid>
+      <description>Bald will Nvidia über 100 Milliarden US-Dollar pro Quartal umsetzen. Das Geld fließt ins Software-Ökosystem und den Bau von Rechenzentren. (Nvidia, Python)</description>
+      <pubDate>Thu, 27 Aug 2026 09:35:10 GMT</pubDate>
+    </item>
     <item>
       <title>Angriff auf Hugging Face: Brisante neue Details zum KI-Hack von OpenAI enthüllt</title>
       <link>https://www.golem.de/news/angriff-auf-hugging-face-brisante-neue-details-zum-ki-hack-von-openai-enthuellt-2608-212350.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/videoplattform-chinas-youtube-rivale-bilibili-startet-globale-expansion-2608-212155.html</guid>
       <description>Bilibili bringt seine internationale App neu heraus, entfernt den Ausweiszwang und arbeitet an einer englischen Upload-Oberfläche. (Streaming, Video-Community)</description>
       <pubDate>Fri, 21 Aug 2026 07:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Exchange: E-Mail-Postfächer bekommen 50 GByte mehr Speicher</title>
-      <link>https://www.golem.de/news/microsoft-exchange-e-mail-postfaecher-bekommen-50-gbyte-mehr-speicher-2608-212154.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-exchange-e-mail-postfaecher-bekommen-50-gbyte-mehr-speicher-2608-212154.html</guid>
-      <description>Diverse Exchange-Abonnements können künftig mit 100 GByte Speicherplatz für E-Mails arbeiten. Microsoft stellt das bereits um. (Microsoft 365, Microsoft)</description>
-      <pubDate>Fri, 21 Aug 2026 07:03:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
