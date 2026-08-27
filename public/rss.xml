@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 06:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:40:16 GMT</lastBuildDate>
+    <item>
+      <title>Höhenwindkraft: Fliegende Windkraftanlage erzeugt Strom in 4.000 Metern Höhe</title>
+      <link>https://www.golem.de/news/hoehenwindkraft-fliegende-windkraftanlage-erzeugt-strom-in-4-000-metern-hoehe-2608-212345.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hoehenwindkraft-fliegende-windkraftanlage-erzeugt-strom-in-4-000-metern-hoehe-2608-212345.html</guid>
+      <description>Ein chinesischer Prototyp hat in 4.000 Metern Höhe Strom erzeugt. Das System nutzt heliumgefüllte Flugkörper zur Energiegewinnung. (Energiewende, Windpark)</description>
+      <pubDate>Thu, 27 Aug 2026 06:38:06 GMT</pubDate>
+    </item>
     <item>
       <title>Tarifverhandlungen: Banken sollen Beschäftigte für KI-Einsatz entlasten</title>
       <link>https://www.golem.de/news/tarifverhandlungen-banken-sollen-beschaeftigte-fuer-ki-einsatz-entlasten-2608-212344.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ccs-insight-gsma-esim-wird-gegen-roaming-abzocke-immer-wichtiger-2608-212145.html</guid>
       <description>Beim internationalen Roaming treffen extrem geringe Bereitstellungskosten auf astronomische Endkundenpreise. Dies erklärt den anhaltenden Boom der Reise-eSIMs. (Roaming, Mobilfunk)</description>
       <pubDate>Thu, 20 Aug 2026 16:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Azure administrieren: Workshop für IT-Profis</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-it-profis-2608-212109.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-it-profis-2608-212109.html</guid>
-      <description>Die Administration von Microsoft Azure verlangt fundiertes Wissen zu Netzwerken, Storage und Sicherheit. Ein Workshop der Golem Karrierewelt vermittelt die nötigen Kompetenzen. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Thu, 20 Aug 2026 16:45:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
