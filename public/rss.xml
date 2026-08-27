@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 13:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:40:19 GMT</lastBuildDate>
+    <item>
+      <title>Donald Trump: Notstandsverordnung soll US-Stromnetz vor China schützen</title>
+      <link>https://www.golem.de/news/donald-trump-notstandsverordnung-soll-us-stromnetz-vor-china-schuetzen-2608-212370.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/donald-trump-notstandsverordnung-soll-us-stromnetz-vor-china-schuetzen-2608-212370.html</guid>
+      <description>Die US-Regierung befürchtet Hintertüren in Hochspannungskomponenten. Das könnte den Bau von Rechenzentren verzögern. (Strom, KI)</description>
+      <pubDate>Thu, 27 Aug 2026 13:38:01 GMT</pubDate>
+    </item>
     <item>
       <title>Aktionärsklage: US-Klage könnte Telekom 10 Milliarden kosten</title>
       <link>https://www.golem.de/news/aktionaersklage-us-klage-koennte-telekom-10-milliarden-kosten-2608-212367.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-google-pixel-11-mit-doppeltem-datenvolumen-und-200-euro-praemie-fuer-1-euro-bei-blau-2608-212177.html</guid>
       <description>Ein neues Smartphone ist zu teuer? Nicht bei Blau. Das neue Google Pixel 11 gibt es jetzt mit doppeltem Datenvolumen für nur 1 Euro Anzahlung. (Google Pixel, Google)</description>
       <pubDate>Fri, 21 Aug 2026 12:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Streamingpanne: Prime Video zeigt Statham-Film vor Kinostart</title>
-      <link>https://www.golem.de/news/streamingpanne-prime-video-zeigt-statham-film-vor-kinostart-2608-212175.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/streamingpanne-prime-video-zeigt-statham-film-vor-kinostart-2608-212175.html</guid>
-      <description>Amazon hat Mutiny mit Jason Statham offenbar zu früh freigeschaltet. Der komplette Film war noch vor dem Kinostart bei Prime Video zu sehen. (Streaming, Digitalkino)</description>
-      <pubDate>Fri, 21 Aug 2026 12:05:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
