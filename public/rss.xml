@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 07:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 07:10:23 GMT</lastBuildDate>
+    <item>
+      <title>Boston Scientific: Cyberangriff legt großen Medizintechnik-Konzern lahm</title>
+      <link>https://www.golem.de/news/boston-scientific-cyberangriff-legt-grossen-medizintechnik-konzern-lahm-2608-212346.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/boston-scientific-cyberangriff-legt-grossen-medizintechnik-konzern-lahm-2608-212346.html</guid>
+      <description>Boston Scientific ist für sein Angebot an vielfältiger medizinischer Ausrüstung bekannt. Doch wegen eines Cyberangriffs gibt es nun weltweit Lieferprobleme. (Cybercrime, Cyberwar)</description>
+      <pubDate>Thu, 27 Aug 2026 07:08:08 GMT</pubDate>
+    </item>
     <item>
       <title>Peter Thiel und Co: Argentinien, der neue Sehnsuchtsort der Techbros</title>
       <link>https://www.golem.de/news/peter-thiel-und-co-argentinien-der-neue-sehnsuchtsort-der-techbros-2608-212323.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/lieferdrohne-amazon-will-prime-air-auf-fast-500-us-orte-ausweiten-2608-212150.html</guid>
       <description>Amazon treibt den Ausbau von Prime Air voran. Bis Ende 2026 sollen Lieferdrohnen fast 500 Städte und Gemeinden in den USA erreichen. (Amazon, Wirtschaft)</description>
       <pubDate>Fri, 21 Aug 2026 06:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Mit Claude Code zur agentischen Softwareentwicklung</title>
-      <link>https://www.golem.de/news/anzeige-mit-claude-code-zur-agentischen-softwareentwicklung-2608-212144.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mit-claude-code-zur-agentischen-softwareentwicklung-2608-212144.html</guid>
-      <description>Claude Code verändert, wie Entwicklerteams Software bauen. Ein praxisnahes Training vermittelt den Einstieg in agentische Workflows und fortgeschrittene Techniken. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Fri, 21 Aug 2026 05:15:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
