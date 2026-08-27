@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 16:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:50:21 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mit Claude Code programmieren: Workshop für Entwickler</title>
+      <link>https://www.golem.de/news/anzeige-mit-claude-code-programmieren-workshop-fuer-entwickler-2608-212343.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mit-claude-code-programmieren-workshop-fuer-entwickler-2608-212343.html</guid>
+      <description>KI-gestützte Codegenerierung verändert Entwicklerteams grundlegend. Ein praxisnaher Workshop vermittelt den strukturierten Einsatz agentischer Coding-Tools im Arbeitsalltag. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Thu, 27 Aug 2026 16:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Wetware statt Hardware: Universität bekommt erste Cloud mit Hirnzellen</title>
       <link>https://www.golem.de/news/wetware-statt-hardware-universitaet-bekommt-erste-cloud-mit-hirnzellen-2608-212379.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-amazon-bietet-seien-luna-controller-zum-sparpreis-an-2608-212176.html</guid>
       <description>Amazon hat seinen Luna-Controller im Angebot, der auf den hauseigenen Cloud-Gaming-Dienst zugeschnitten ist und viele Geräte unterstützt. (Technik/Hardware, Spiele)</description>
       <pubDate>Fri, 21 Aug 2026 15:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Datennutzungsgesetz und Urheberrecht: Bayern scheitert mit Klage gegen Open-Data-Aktivisten</title>
-      <link>https://www.golem.de/news/datennutzungsgesetz-und-urheberrecht-bayern-scheitert-mit-klage-gegen-open-data-aktivisten-2608-212186.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/datennutzungsgesetz-und-urheberrecht-bayern-scheitert-mit-klage-gegen-open-data-aktivisten-2608-212186.html</guid>
-      <description>Das Oberlandesgericht München sieht gleich zwei Punkte, um eine Klage des Freistaats Bayern abzuweisen. (Netzpolitik, Urheberrecht)</description>
-      <pubDate>Fri, 21 Aug 2026 14:31:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
