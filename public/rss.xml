@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 09:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 10:05:20 GMT</lastBuildDate>
+    <item>
+      <title>Dark Matter - Der Zeitenläufer: Jetzt sei doch mal zufrieden!</title>
+      <link>https://www.golem.de/news/dark-matter-der-zeitenlaeufer-jetzt-sei-doch-mal-zufrieden-2608-212389.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/dark-matter-der-zeitenlaeufer-jetzt-sei-doch-mal-zufrieden-2608-212389.html</guid>
+      <description>Dark Matters Multiversen stehen für den unerfüllbaren Wunsch nach dem perfekten Leben. Staffel 2 verfranst sich hier und wirkt wie Standard-Sci-Fi - wären da nicht Joel Edgerton und Jennifer Connolly. Eine Rezension von Peter Osteried (Science-Fiction, Apple TV)</description>
+      <pubDate>Fri, 28 Aug 2026 10:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Luffu Link: Fitbit-Gründer bauen Gesundheitsarmband mit eigenem LTE</title>
       <link>https://www.golem.de/news/luffu-link-fitbit-gruender-bauen-gesundheitsarmband-mit-eigenem-lte-2608-212396.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-architektur-fuehrung-und-support-2608-212156.html</guid>
       <description>Von Microsoft-365-Architektur über IT-Führung bis zum Support - diese sechs Positionen bieten vielfältige Karrierechancen in der IT. (Golem Karrierewelt, Unternehmenssoftware)</description>
       <pubDate>Sun, 23 Aug 2026 05:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Artificial Intelligence: AI hasn't gone rogue. It's worse than that</title>
-      <link>https://www.golem.de/news/artificial-intelligence-ai-hasn-t-gone-rogue-it-s-worse-than-that-2608-212188.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/artificial-intelligence-ai-hasn-t-gone-rogue-it-s-worse-than-that-2608-212188.html</guid>
-      <description>Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short Von Madhumita Murgia (LLM, KI)</description>
-      <pubDate>Sat, 22 Aug 2026 13:30:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
