@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 07:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 07:05:18 GMT</lastBuildDate>
+    <item>
+      <title>Umfrageergebnisse: So steht die Golem-Leserschaft zu KI in Politik und Überwachung</title>
+      <link>https://www.golem.de/news/umfrageergebnisse-so-steht-die-golem-leserschaft-zu-ki-in-politik-und-ueberwachung-2608-212375.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/umfrageergebnisse-so-steht-die-golem-leserschaft-zu-ki-in-politik-und-ueberwachung-2608-212375.html</guid>
+      <description>Die CDU setzt sich für KI in Überwachungskameras ein, während LLMs laut Tests eher linksgerichtet erscheinen. Was sagt die Golem-Community? Von Oliver Nickel (KI, Studien)</description>
+      <pubDate>Fri, 28 Aug 2026 07:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Bildbearbeitung: Adobe integriert neuen KI-Assistenten in Photoshop</title>
       <link>https://www.golem.de/news/bildbearbeitung-adobe-integriert-neuen-ki-assistenten-in-photoshop-2608-212385.html</link>
@@ -265,7 +272,7 @@
       <pubDate>Thu, 27 Aug 2026 07:08:08 GMT</pubDate>
     </item>
     <item>
-      <title>Peter Thiel und Co.: Argentinien, der neue Sehnsuchtsort der Techbros</title>
+      <title>(g+) Peter Thiel und Co.: Argentinien, der neue Sehnsuchtsort der Techbros</title>
       <link>https://www.golem.de/news/peter-thiel-und-co-argentinien-der-neue-sehnsuchtsort-der-techbros-2608-212323.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/peter-thiel-und-co-argentinien-der-neue-sehnsuchtsort-der-techbros-2608-212323.html</guid>
       <description>Präsident Javier Milei erfüllt die wildesten libertären Träume. Das lockt Silicon-Valley-Größen an und schafft einen neuen Hotspot der Politik- und Tech-Vernetzung. Eine Kolumne von Claudia Zettel (Tech-Bro-Watchblog, Silicon Valley)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rotierende-raumzeit-neu-entdeckter-stern-prueft-theorien-zu-schwarzen-loechern-2608-212134.html</guid>
       <description>Ein Stern kommt dem schwarzen Loch im Zentrum der Milchstraße so nahe, dass relativistische Effekte beobachtet werden. Damit lassen sich Theorien prüfen. (Astronomie, Physik)</description>
       <pubDate>Sat, 22 Aug 2026 05:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Insta360 X6 im Praxischeck: Diese Kamera schneidet Videos und baut 3D-Räume</title>
-      <link>https://www.golem.de/news/insta360-x6-im-praxischeck-diese-kamera-schneidet-videos-und-baut-3d-raeume-2608-212099.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/insta360-x6-im-praxischeck-diese-kamera-schneidet-videos-und-baut-3d-raeume-2608-212099.html</guid>
-      <description>Die Insta360 X6 editiert Videos automatisch, bastelt begehbare 3D-Räume und ersetzt im Alltag oft gleich mehrere Kameras. Von Peter Steinlechner (Insta360, Kameras)</description>
-      <pubDate>Sat, 22 Aug 2026 05:30:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
