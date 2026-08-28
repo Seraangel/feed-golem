@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 13:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:25:19 GMT</lastBuildDate>
+    <item>
+      <title>Meta-Milliarden-Vergleich: Verbraucherschützer fordern Social-Media-Lösung für Deutschland</title>
+      <link>https://www.golem.de/news/meta-milliarden-vergleich-verbraucherschuetzer-fordern-social-media-loesung-fuer-deutschland-2608-212406.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/meta-milliarden-vergleich-verbraucherschuetzer-fordern-social-media-loesung-fuer-deutschland-2608-212406.html</guid>
+      <description>Nach dem 18-Milliarden-Dollar-Vergleich von Meta fordern die Verbraucherzentralen hierzulande Jugendschutz. Nachtsperren reichten nicht aus, heißt es. (VZBV, Soziales Netz)</description>
+      <pubDate>Fri, 28 Aug 2026 13:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>Speicherbedarf: Cloudflare gibt durch Optimierung 100 Terabyte RAM frei</title>
       <link>https://www.golem.de/news/speicherbedarf-cloudflare-gibt-durch-optimierung-100-terabyte-ram-frei-2608-212405.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mondmission-chinas-chang-e-7-mondsonde-abgesagt-2608-212204.html</guid>
       <description>Kurz vor dem geplanten Start ist Chinas Mondmission Chang'e-7 abgesagt worden. Die Gründe sind unklar. (China, Raumfahrt)</description>
       <pubDate>Mon, 24 Aug 2026 05:44:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Entra ID richtig absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-richtig-absichern-2608-212191.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-richtig-absichern-2608-212191.html</guid>
-      <description>Die Absicherung von Cloud-Identitäten wird für Unternehmen immer wichtiger. Ein Workshop vermittelt praxisnahes Wissen zur Verwaltung und Härtung von Microsoft Entra ID. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Mon, 24 Aug 2026 05:15:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
