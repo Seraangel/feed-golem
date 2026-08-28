@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 05:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:30:22 GMT</lastBuildDate>
+    <item>
+      <title>Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder</title>
+      <link>https://www.golem.de/news/elektromobilitaet-bei-der-polizei-metropolitan-police-setzt-auf-e-motorraeder-2608-212382.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-bei-der-polizei-metropolitan-police-setzt-auf-e-motorraeder-2608-212382.html</guid>
+      <description>Die Metropolitan Police stockt ihre Flotte von 5 auf 25 E-Motorräder auf, um Smartphone-Diebstähle in London zu bekämpfen. (Elektromotorrad, Elektromobilität)</description>
+      <pubDate>Fri, 28 Aug 2026 06:26:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: BCM und IT-Notfallmanagement: Workshop für Krisenvorsorge</title>
       <link>https://www.golem.de/news/anzeige-bcm-und-it-notfallmanagement-workshop-fuer-krisenvorsorge-2608-212108.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-sensitivity-labels-dlp-und-insider-risk-2608-212148.html</guid>
       <description>Sensitive Daten in Microsoft 365 zu schützen, ist für viele Unternehmen eine zentrale Aufgabe. Ein Workshop zu Microsoft Purview vermittelt praxisnahe Lösungsansätze. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Fri, 21 Aug 2026 16:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Azure: Meta ist einer der besten Kunden von Microsoft-KI</title>
-      <link>https://www.golem.de/news/azure-meta-ist-einer-der-besten-kunden-von-microsoft-ki-2608-212189.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/azure-meta-ist-einer-der-besten-kunden-von-microsoft-ki-2608-212189.html</guid>
-      <description>Obwohl Meta eigene KI-Infrastruktur aufbaut, steigt das Unternehmen laut Insiderberichten zu einem der größten KI-Kunden von Microsofts Cloudsparte Azure auf. (Azure, Microsoft)</description>
-      <pubDate>Fri, 21 Aug 2026 16:11:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
