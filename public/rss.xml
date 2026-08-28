@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 14:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 14:15:25 GMT</lastBuildDate>
+    <item>
+      <title>Klage gegen IBM und Red Hat: US-Gericht entscheidet im Streit um Linux-Rechte</title>
+      <link>https://www.golem.de/news/klage-gegen-ibm-und-red-hat-us-gericht-entscheidet-im-streit-um-linux-rechte-2608-212410.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/klage-gegen-ibm-und-red-hat-us-gericht-entscheidet-im-streit-um-linux-rechte-2608-212410.html</guid>
+      <description>Ein Rechtsnachfolger der SCO Group hatte IBM und Red Hat vorgeworfen, unrechtmäßig Code in Linux integriert zu haben. (Linux, IBM)</description>
+      <pubDate>Fri, 28 Aug 2026 14:11:01 GMT</pubDate>
+    </item>
     <item>
       <title>Für bessere Ausbeute: Nvidias Rubin Ultra soll weniger Speicher bekommen</title>
       <link>https://www.golem.de/news/fuer-bessere-ausbeute-nvidias-rubin-ultra-soll-weniger-speicher-bekommen-2608-212409.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-trifft-energieversorgung-hacker-legen-britisches-kraftwerk-lahm-2608-212206.html</guid>
       <description>Hacker haben im Vereinigten Königreich erfolgreich ein Kraftwerk für vier Tage stillgelegt. Verantwortlich sollen iranische Cyberakteure sein. (Cyberwar, Politik)</description>
       <pubDate>Mon, 24 Aug 2026 06:53:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>JCB Hydromax: Neuer Geschwindigkeitsrekord mit Wasserstoff-Auto erreicht</title>
-      <link>https://www.golem.de/news/jcb-hydromax-neuer-geschwindigkeitsrekord-mit-wasserstoff-auto-erreicht-2608-212159.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/jcb-hydromax-neuer-geschwindigkeitsrekord-mit-wasserstoff-auto-erreicht-2608-212159.html</guid>
-      <description>JCB hat einen weiteren Geschwindigkeitsrekord aufgestellt. Dieses Mal in der Klasse der Wasserstoff-Fahrzeuge. (Wasserstoff, Auto)</description>
-      <pubDate>Mon, 24 Aug 2026 06:42:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
