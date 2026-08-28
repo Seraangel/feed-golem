@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 08:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:55:17 GMT</lastBuildDate>
+    <item>
+      <title>Cursor: Hacker bei Cyberangriffen mittels KI-Agenten erwischt</title>
+      <link>https://www.golem.de/news/cursor-hacker-bei-cyberangriffen-mittels-ki-agenten-erwischt-2608-212390.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cursor-hacker-bei-cyberangriffen-mittels-ki-agenten-erwischt-2608-212390.html</guid>
+      <description>Eine russischsprachige Hackergruppe nutzt offenbar Cursor-Agenten für Ransomware-Attacken. Auch ein deutsches Unternehmen soll betroffen sein. (Cybercrime, KI)</description>
+      <pubDate>Fri, 28 Aug 2026 08:51:02 GMT</pubDate>
+    </item>
     <item>
       <title>Zahlungsdienstleister: Stripe zieht Angebot für Paypal-Übernahme zurück</title>
       <link>https://www.golem.de/news/zahlungsdienstleister-stripe-zieht-angebot-fuer-paypal-uebernahme-zurueck-2608-212392.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-passend-zur-gamescom-golem-allround-pc-jetzt-mit-rabatt-und-finanzierung-bei-systemtreff-2608-212164.html</guid>
       <description>Gamescom 2026 steht an, RAM-Ageddon treibt Preise: Der Golem Allround bietet RTX-5070-Power, 40 Euro Rabatt und 0-Prozent-Finanzierung. (Technik/Hardware, Gamescom)</description>
       <pubDate>Sat, 22 Aug 2026 11:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wegen destruktiver KI-Scans: Anna's Archive ruft zum Scannen von Büchern auf</title>
-      <link>https://www.golem.de/news/wegen-destruktiver-ki-scans-anna-s-archive-ruft-zum-scannen-von-buechern-auf-2608-212195.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wegen-destruktiver-ki-scans-anna-s-archive-ruft-zum-scannen-von-buechern-auf-2608-212195.html</guid>
-      <description>KI-Firmen scannen und zerstören massenhaft Bücher. Die Schattenbibliothek Anna's Archive befürchtet einen Verlust von Kulturgütern. (KI, Urheberrecht)</description>
-      <pubDate>Sat, 22 Aug 2026 09:48:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
