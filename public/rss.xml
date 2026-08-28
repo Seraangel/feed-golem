@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 27 Aug 2026 19:45:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:20:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: BCM und IT-Notfallmanagement: Workshop für Krisenvorsorge</title>
+      <link>https://www.golem.de/news/anzeige-bcm-und-it-notfallmanagement-workshop-fuer-krisenvorsorge-2608-212108.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bcm-und-it-notfallmanagement-workshop-fuer-krisenvorsorge-2608-212108.html</guid>
+      <description>Fehlt strukturiertes Notfallmanagement, gefährden Störungen und Krisen den Geschäftsbetrieb. Ein Workshop vermittelt BCM-Grundlagen und zeigt, wie Notfallpläne entstehen. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Fri, 28 Aug 2026 05:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>Rockstar Games: 26 Minuten GTA 6 mit Überfällen, Schießereien und Vice City</title>
       <link>https://www.golem.de/news/rockstar-games-26-minuten-gta-6-mit-ueberfaellen-schiessereien-und-vice-city-2608-212381.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/azure-meta-ist-einer-der-besten-kunden-von-microsoft-ki-2608-212189.html</guid>
       <description>Obwohl Meta eigene KI-Infrastruktur aufbaut, steigt das Unternehmen laut Insiderberichten zu einem der größten KI-Kunden von Microsofts Cloudsparte Azure auf. (Azure, Microsoft)</description>
       <pubDate>Fri, 21 Aug 2026 16:11:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Artificial Intelligence: Sick of AI Slop? So Are Tech Giants.</title>
-      <link>https://www.golem.de/news/artificial-intelligence-sick-of-ai-slop-so-are-tech-giants-2608-212185.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/artificial-intelligence-sick-of-ai-slop-so-are-tech-giants-2608-212185.html</guid>
-      <description>Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence. Von Tiffany Hsu (KI, Google)</description>
-      <pubDate>Fri, 21 Aug 2026 16:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
