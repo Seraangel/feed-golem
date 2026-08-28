@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 08:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 08:35:21 GMT</lastBuildDate>
+    <item>
+      <title>Zahlungsdienstleister: Stripe zieht Angebot für Paypal-Übernahme zurück</title>
+      <link>https://www.golem.de/news/zahlungsdienstleister-stripe-zieht-angebot-fuer-paypal-uebernahme-zurueck-2608-212392.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zahlungsdienstleister-stripe-zieht-angebot-fuer-paypal-uebernahme-zurueck-2608-212392.html</guid>
+      <description>Mit dem Übernahmeangebot hat Stripe dazu beigetragen, dass sich der Aktienkurs von Paypal erholt. (Paypal, Börse)</description>
+      <pubDate>Fri, 28 Aug 2026 08:34:04 GMT</pubDate>
+    </item>
     <item>
       <title>Industrie warnt vor Auswirkungen: USA plant neue Zölle auf Halbleiterprodukte</title>
       <link>https://www.golem.de/news/industrie-warnt-vor-auswirkungen-usa-plant-neue-zoelle-auf-halbleiterprodukte-2608-212388.html</link>
@@ -34,10 +41,10 @@
       <pubDate>Fri, 28 Aug 2026 07:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>TeamPCP: Festnahmen und Razzien nach Supply-Chain-Attacken</title>
+      <title>TeamPCP: Zwei junge Männer nach folgenschweren Supply-Chain-Attacken verhaftet</title>
       <link>https://www.golem.de/news/teampcp-festnahmen-und-razzien-nach-supply-chain-attacken-2608-212384.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/teampcp-festnahmen-und-razzien-nach-supply-chain-attacken-2608-212384.html</guid>
-      <description>Zwei mutmaßliche Mitglieder der Hackergruppe TeamPCP sind verhaftet worden. Sie sollen für folgenschwere Angriffe auf Softwareprojekte verantwortlich sein. (Cybercrime, Cyberwar)</description>
+      <description>Zwei mutmaßliche Mitglieder der Hackergruppe TeamPCP sind verhaftet worden. Sie sollen für Schadcode-Attacken auf zahlreiche Softwareprojekte verantwortlich sein. (Cybercrime, Cyberwar)</description>
       <pubDate>Fri, 28 Aug 2026 07:18:06 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wegen-destruktiver-ki-scans-anna-s-archive-ruft-zum-scannen-von-buechern-auf-2608-212195.html</guid>
       <description>KI-Firmen scannen und zerstören massenhaft Bücher. Die Schattenbibliothek Anna's Archive befürchtet einen Verlust von Kulturgütern. (KI, Urheberrecht)</description>
       <pubDate>Sat, 22 Aug 2026 09:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aufräumaktion: Windows 11 kann im Eco-Modus GPU-Treiber löschen</title>
-      <link>https://www.golem.de/news/aufraeumaktion-windows-11-kann-im-eco-modus-gpu-treiber-loeschen-2608-212194.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/aufraeumaktion-windows-11-kann-im-eco-modus-gpu-treiber-loeschen-2608-212194.html</guid>
-      <description>Windows 11 entfernt regelmäßig ungenutzte Treiber. Unter gewissen Bedingungen kann das GPUs treffen. Das Verhalten lässt sich aber leicht abstellen. (Windows 11, Grafikkarten)</description>
-      <pubDate>Sat, 22 Aug 2026 08:51:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
