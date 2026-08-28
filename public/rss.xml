@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 06:30:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:40:21 GMT</lastBuildDate>
+    <item>
+      <title>Gerichtsurteil: Pentagon muss Anthropic-Einstufung aufheben</title>
+      <link>https://www.golem.de/news/gerichtsurteil-pentagon-muss-anthropic-einstufung-aufheben-2608-212383.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gerichtsurteil-pentagon-muss-anthropic-einstufung-aufheben-2608-212383.html</guid>
+      <description>Im Streit um Militär-KI erzielt Anthropic einen Etappensieg. Ein Gericht kippt die Einstufung des Unternehmens als Lieferkettenrisiko. (Anthropic, KI)</description>
+      <pubDate>Fri, 28 Aug 2026 06:37:04 GMT</pubDate>
+    </item>
     <item>
       <title>Elektromobilität bei der Polizei: Metropolitan Police setzt auf E-Motorräder</title>
       <link>https://www.golem.de/news/elektromobilitaet-bei-der-polizei-metropolitan-police-setzt-auf-e-motorraeder-2608-212382.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-rockstar-und-red-bull-bei-amazon-befristet-ab-83-cent-pro-500-milliliter-2608-212192.html</guid>
       <description>Energy-Drinks von Rockstar und Red Bull sind bei Amazon in verschiedenen Sorten befristet reduziert. (Unterhaltung &amp; Hobby, Rockstar)</description>
       <pubDate>Fri, 21 Aug 2026 16:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Purview: Sensitivity Labels, DLP und Insider Risk</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-purview-sensitivity-labels-dlp-und-insider-risk-2608-212148.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-sensitivity-labels-dlp-und-insider-risk-2608-212148.html</guid>
-      <description>Sensitive Daten in Microsoft 365 zu schützen, ist für viele Unternehmen eine zentrale Aufgabe. Ein Workshop zu Microsoft Purview vermittelt praxisnahe Lösungsansätze. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Fri, 21 Aug 2026 16:45:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
