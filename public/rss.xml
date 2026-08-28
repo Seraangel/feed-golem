@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 28 Aug 2026 15:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 15:25:24 GMT</lastBuildDate>
+    <item>
+      <title>Frag den Staat: Rechenzentrumsausbau erstmals im Überblick</title>
+      <link>https://www.golem.de/news/frag-den-staat-rechenzentrumsausbau-erstmals-im-ueberblick-2608-212413.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/frag-den-staat-rechenzentrumsausbau-erstmals-im-ueberblick-2608-212413.html</guid>
+      <description>Frag den Staat hat alles zum Rechenzentrumsausbau zusammengetragen. "Es geht nicht um digitale Souveränität", so die Expertin der Linksfraktion. Laut Eco geht alles in Abwärme. (Raus aus der (US)-Cloud, GreenIT)</description>
+      <pubDate>Fri, 28 Aug 2026 15:23:05 GMT</pubDate>
+    </item>
     <item>
       <title>Nach interner Kritik: Nvidia rudert bei Rechenzentrums-Umsatzbeteiligung zurück</title>
       <link>https://www.golem.de/news/nach-interner-kritik-nvidia-rudert-bei-rechenzentrums-umsatzbeteiligung-zurueck-2608-212411.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/browser-microsoft-belohnt-edge-downloads-mit-extrapunkten-2608-212209.html</guid>
       <description>Nutzer von Microsoft Edge auf Android und iOS können nun Rewards-Punkte erhalten, wenn sie Neukunden anwerben. (MS Edge, Microsoft)</description>
       <pubDate>Mon, 24 Aug 2026 07:34:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic: Fable 5 verfehlt Erwartungen</title>
-      <link>https://www.golem.de/news/anthropic-fable-5-verfehlt-erwartungen-2608-212207.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anthropic-fable-5-verfehlt-erwartungen-2608-212207.html</guid>
-      <description>Fable 5 erreicht bisher nur geringe Umsätze. Kunden von Anthropic bevorzugen vor dem Börsengang preiswerte KI-Modelle. (Anthropic, Börse)</description>
-      <pubDate>Mon, 24 Aug 2026 07:03:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
