@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 29 Aug 2026 09:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 09:30:22 GMT</lastBuildDate>
+    <item>
+      <title>Mobilfunk bei Stromausfall: Bundesregierung will keine pauschale Batteriepflicht</title>
+      <link>https://www.golem.de/news/mobilfunk-bei-stromausfall-bundesregierung-will-keine-pauschale-batteriepflicht-2608-212418.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mobilfunk-bei-stromausfall-bundesregierung-will-keine-pauschale-batteriepflicht-2608-212418.html</guid>
+      <description>Die Bundesregierung hält eine starre Batteriepflicht für Mobilfunkstandorte zur Ausfallsicherung für ungeeignet. (Mobilfunk, Politik)</description>
+      <pubDate>Sat, 29 Aug 2026 09:25:10 GMT</pubDate>
+    </item>
     <item>
       <title>Drohnenabwehr: US-Militär schießt Kartelldrohnen mit Hochenergielaser ab</title>
       <link>https://www.golem.de/news/drohnenabwehr-us-militaer-schiesst-kartelldrohnen-mit-hochenergielaser-ab-2608-212417.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-hackerangriff-berliner-senat-ueberrascht-ueber-groesse-des-it-systems-2608-212218.html</guid>
       <description>Nach einem Hackerangriff sind zwei Berliner Verwaltungen wieder am Netz. Es gibt jedoch weiter Verdachtsmomente für eine Infiltration. (Security, Cyberwar)</description>
       <pubDate>Mon, 24 Aug 2026 09:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wegen Speicherpreisen: Nvidias KI-Server werden teurer</title>
-      <link>https://www.golem.de/news/wegen-speicherpreisen-nvidias-ki-server-werden-teurer-2608-212216.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wegen-speicherpreisen-nvidias-ki-server-werden-teurer-2608-212216.html</guid>
-      <description>Nach Consumer-GPUs werden auch Nvidias KI-Server deutlich teurer. Denn die Preise für die unterschiedlichsten Komponenten ziehen an. (Nvidia, KI)</description>
-      <pubDate>Mon, 24 Aug 2026 09:19:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
