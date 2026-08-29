@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 29 Aug 2026 08:35:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 08:55:20 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mini-Beamer mit Akku, Google TV, Netflix reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-mini-beamer-mit-akku-google-tv-netflix-reduziert-bei-amazon-2608-212355.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mini-beamer-mit-akku-google-tv-netflix-reduziert-bei-amazon-2608-212355.html</guid>
+      <description>Amazon hat einen smarten Mini-Beamer mit Akku im Angebot, der über Google-TV Zugriff auf Streamingdienste wie Netflix bietet. (Beamer, Google TV)</description>
+      <pubDate>Sat, 29 Aug 2026 08:50:07 GMT</pubDate>
+    </item>
     <item>
       <title>Wegen SpaceX-Übernahme: OpenAI zieht seine Modelle aus Cursor zurück</title>
       <link>https://www.golem.de/news/wegen-spacex-uebernahme-openai-zieht-seine-modelle-aus-cursor-zurueck-2608-212416.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/double-fine-kult-spielestudio-wagt-neustart-auf-kickstarter-2608-212215.html</guid>
       <description>Nach der Trennung von Microsoft ist Double Fine wieder unabhängig. Nun will Studio-Chef Tim Schafer über ein neues Spiel abstimmen lassen. (Double Fine, Microsoft)</description>
       <pubDate>Mon, 24 Aug 2026 09:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Botnetz aus Autos: Fahrzeug-Infotainmentsysteme mit Malware infiziert</title>
-      <link>https://www.golem.de/news/botnetz-aus-autos-fahrzeug-infotainmentsysteme-mit-malware-infiziert-2608-212212.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/botnetz-aus-autos-fahrzeug-infotainmentsysteme-mit-malware-infiziert-2608-212212.html</guid>
-      <description>Forscher haben eine Android-Malware entdeckt, die über eine Firmware-Updatefunktion in Infotainmentsysteme von Fahrzeugen eingeschleust wurde. (Malware, Virus)</description>
-      <pubDate>Mon, 24 Aug 2026 08:52:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
