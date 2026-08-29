@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 29 Aug 2026 08:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 08:25:20 GMT</lastBuildDate>
+    <item>
+      <title>Wegen SpaceX-Übernahme: OpenAI zieht seine Modelle aus Cursor zurück</title>
+      <link>https://www.golem.de/news/wegen-spacex-uebernahme-openai-zieht-seine-modelle-aus-cursor-zurueck-2608-212416.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wegen-spacex-uebernahme-openai-zieht-seine-modelle-aus-cursor-zurueck-2608-212416.html</guid>
+      <description>OpenAI möchte nicht darauf vertrauen, dass Elon Musk die Technologie des Unternehmens wirklich nur gemäß den Nutzungsbedingungen einsetzt. (KI, Wirtschaft)</description>
+      <pubDate>Sat, 29 Aug 2026 08:20:08 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Unternehmensstrategie: Wie KI mehr wird als ein reines Sparprogramm</title>
       <link>https://www.golem.de/news/unternehmensstrategie-wie-ki-mehr-wird-als-ein-reines-sparprogramm-2608-212395.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/botnetz-aus-autos-fahrzeug-infotainmentsysteme-mit-malware-infiziert-2608-212212.html</guid>
       <description>Forscher haben eine Android-Malware entdeckt, die über eine Firmware-Updatefunktion in Infotainmentsysteme von Fahrzeugen eingeschleust wurde. (Malware, Virus)</description>
       <pubDate>Mon, 24 Aug 2026 08:52:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Amazon Echo Show 11 deutlich unter dem Durchschnittspreis für knapp 200 Euro</title>
-      <link>https://www.golem.de/news/anzeige-amazon-echo-show-11-deutlich-unter-dem-durchschnittspreis-fuer-knapp-200-euro-2608-212213.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-amazon-echo-show-11-deutlich-unter-dem-durchschnittspreis-fuer-knapp-200-euro-2608-212213.html</guid>
-      <description>Der Amazon Echo Show 11 ist wieder stark reduziert, bringt ein großes Full-HD-Display, 3D-Audio und Smart-Home-Hub-Funktionen mit. (Technik/Hardware, Streaming)</description>
-      <pubDate>Mon, 24 Aug 2026 08:47:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
