@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 30 Aug 2026 05:35:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:05:17 GMT</lastBuildDate>
+    <item>
+      <title>(g+) LPCAMM2: Wir vergleichen den neuen Arbeitsspeicher mit klassischem SO-DIMM</title>
+      <link>https://www.golem.de/news/lpcamm2-wir-vergleichen-den-neuen-arbeitsspeicher-mit-klassischem-so-dimm-2608-212267.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/lpcamm2-wir-vergleichen-den-neuen-arbeitsspeicher-mit-klassischem-so-dimm-2608-212267.html</guid>
+      <description>LPCAMM2 soll diverse Nachteile ausgleichen, die der bei Laptops verbreitete SO-DIMM-Standard aufweist. Im Test kommen aber Fragen auf. Ein Test von Oliver Nickel (RAM, Test)</description>
+      <pubDate>Sun, 30 Aug 2026 08:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Tech-Branche: Vom sympathischen Nerd zum grässlichen Overlord</title>
       <link>https://www.golem.de/news/tech-branche-vom-sympathischen-nerd-zum-graesslichen-overlord-2608-212407.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/missbrauch-von-passkeys-phishing-toolkit-soll-passwort-reset-umgehen-koennen-2608-212226.html</guid>
       <description>Ein ab 10.000 US-Dollar gehandeltes Phishing-Toolkit soll Angreifern über Passkeys einen dauerhaften Zugriff etwa auf gekaperte Google-Konten verleihen. (Phishing, Google)</description>
       <pubDate>Mon, 24 Aug 2026 10:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Philips Hue White Ambiance GU10 LED-Spots im 5er-Pack für nur rund 16 Euro pro Stück bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-philips-hue-white-ambiance-gu10-led-spots-im-5er-pack-fuer-nur-rund-16-euro-pro-stueck-bei-amazon-2608-212225.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-philips-hue-white-ambiance-gu10-led-spots-im-5er-pack-fuer-nur-rund-16-euro-pro-stueck-bei-amazon-2608-212225.html</guid>
-      <description>Die Philips Hue White Ambiance LED Spots sind bei Amazon reduziert. Sie dimmen von Warm- bis Kaltweiß und sind per App oder Sprache steuerbar. (Hue, Smart Home)</description>
-      <pubDate>Mon, 24 Aug 2026 10:43:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
