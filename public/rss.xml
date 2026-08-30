@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 30 Aug 2026 08:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 08:35:20 GMT</lastBuildDate>
+    <item>
+      <title>ID.1: VWs 20.000-Euro-Elektroauto soll ID.Up heißen</title>
+      <link>https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html</guid>
+      <description>Volkswagen hat sich wohl bei der Benennung des Kleinwagens für eine bekannte Marke entschieden. Der ID.Up soll weiterhin günstiger bleiben. (Volkswagen ID., Elektroauto)</description>
+      <pubDate>Sun, 30 Aug 2026 08:33:03 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) LPCAMM2: Wir vergleichen den neuen Arbeitsspeicher mit klassischem SO-DIMM</title>
       <link>https://www.golem.de/news/lpcamm2-wir-vergleichen-den-neuen-arbeitsspeicher-mit-klassischem-so-dimm-2608-212267.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/umfrage-zahl-der-nutzer-von-festnetztelefonie-stark-gesunken-2608-212228.html</guid>
       <description>Das klassische Festnetz-Telefon gerät zusehends in Vergessenheit: Fast 40 Prozent der Deutschen nutzen es nicht mehr, Tendenz drastisch steigend. (Telefonie, VoIP)</description>
       <pubDate>Mon, 24 Aug 2026 11:20:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Missbrauch von Passkeys: Phishing-Toolkit soll Passwort-Reset umgehen können</title>
-      <link>https://www.golem.de/news/missbrauch-von-passkeys-phishing-toolkit-soll-passwort-reset-umgehen-koennen-2608-212226.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/missbrauch-von-passkeys-phishing-toolkit-soll-passwort-reset-umgehen-koennen-2608-212226.html</guid>
-      <description>Ein ab 10.000 US-Dollar gehandeltes Phishing-Toolkit soll Angreifern über Passkeys einen dauerhaften Zugriff etwa auf gekaperte Google-Konten verleihen. (Phishing, Google)</description>
-      <pubDate>Mon, 24 Aug 2026 10:50:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
