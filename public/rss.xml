@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 09:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:55:17 GMT</lastBuildDate>
+    <item>
+      <title>Altersverifikation in Betriebssystemen: Kalifornien nimmt Open Source von Altersabfrage aus</title>
+      <link>https://www.golem.de/news/altersverifikation-in-betriebssystemen-kalifornien-nimmt-open-source-von-altersabfrage-aus-2608-212445.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/altersverifikation-in-betriebssystemen-kalifornien-nimmt-open-source-von-altersabfrage-aus-2608-212445.html</guid>
+      <description>Die Ausnahmen für Open Source von der Altersprüfung betreffen nicht nur Linux, sondern auch Bibliotheken und Paketmanager. (Open Source, Linux)</description>
+      <pubDate>Mon, 31 Aug 2026 09:50:07 GMT</pubDate>
+    </item>
     <item>
       <title>Bei Sandboxing-Tests: KI-Agent bricht mehrfach aus VM aus</title>
       <link>https://www.golem.de/news/bei-sandboxing-tests-ki-agent-bricht-mehrfach-aus-vm-aus-2608-212442.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-gta-6-koennte-laaange-tage-und-naechte-bekommen-2608-212251.html</guid>
       <description>Neue Gameplay-Leaks zu GTA 6 liefern einen Hinweis darauf, wie schnell die Zeit in der Spielwelt vergeht. (GTA 6, Take-Two)</description>
       <pubDate>Tue, 25 Aug 2026 07:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft gesteht: Updatepanne verhindert Drucke und PDF-Exporte</title>
-      <link>https://www.golem.de/news/microsoft-gesteht-updatepanne-verhindert-drucke-und-pdf-exporte-2608-212248.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-gesteht-updatepanne-verhindert-drucke-und-pdf-exporte-2608-212248.html</guid>
-      <description>Einige Windows-Apps können bestimmte Dokumente seit Tagen nicht mehr drucken oder als PDF/XPS-Datei exportieren. Microsoft arbeitet an einer Lösung. (Windows, Microsoft)</description>
-      <pubDate>Tue, 25 Aug 2026 07:03:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
