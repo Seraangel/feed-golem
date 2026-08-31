@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 09:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:40:19 GMT</lastBuildDate>
+    <item>
+      <title>Bei Sandboxing-Tests: KI-Agent bricht mehrfach aus VM aus</title>
+      <link>https://www.golem.de/news/bei-sandboxing-tests-ki-agent-bricht-mehrfach-aus-vm-aus-2608-212442.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bei-sandboxing-tests-ki-agent-bricht-mehrfach-aus-vm-aus-2608-212442.html</guid>
+      <description>Ein Forscher hat getestet, ob sich moderne KI-Modelle mit Virtualisierung sinnvoll isolieren lassen. Die KI ist mehrfach aus einer VM entkommen. (KI, Virtualisierung)</description>
+      <pubDate>Mon, 31 Aug 2026 09:36:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Gaming-Headset Logitech G Astro A50 zum Tiefpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-gaming-headset-logitech-g-astro-a50-zum-tiefpreis-bei-amazon-2608-212443.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-gesteht-updatepanne-verhindert-drucke-und-pdf-exporte-2608-212248.html</guid>
       <description>Einige Windows-Apps können bestimmte Dokumente seit Tagen nicht mehr drucken oder als PDF/XPS-Datei exportieren. Microsoft arbeitet an einer Lösung. (Windows, Microsoft)</description>
       <pubDate>Tue, 25 Aug 2026 07:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT-Sicherheit: GI fordert Legalisierung von ethischem Hacken</title>
-      <link>https://www.golem.de/news/it-sicherheit-gi-fordert-legalisierung-von-ethischem-hacken-2608-212250.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-gi-fordert-legalisierung-von-ethischem-hacken-2608-212250.html</guid>
-      <description>Die Gesellschaft für Informatik fordert eine Reform des Computerstrafrechts sowie Rechtssicherheit für Sicherheitsforscher. (Gesellschaft für Informatik, Datenschutz)</description>
-      <pubDate>Tue, 25 Aug 2026 06:53:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
