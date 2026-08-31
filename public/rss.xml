@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 08:15:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:25:20 GMT</lastBuildDate>
+    <item>
+      <title>Gamescom 2026: Diebe stehlen Laptops mit unveröffentlichten Spielen</title>
+      <link>https://www.golem.de/news/gamescom-2026-diebe-stehlen-laptops-mit-unveroeffentlichten-spielen-2608-212437.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gamescom-2026-diebe-stehlen-laptops-mit-unveroeffentlichten-spielen-2608-212437.html</guid>
+      <description>Mehrere Aussteller melden gestohlene Hardware. Zugleich gibt es Beschwerden über überfüllte Gänge und mangelhafte Sicherheitskontrollen. (Gamescom 2026, Spiele)</description>
+      <pubDate>Mon, 31 Aug 2026 08:24:08 GMT</pubDate>
+    </item>
     <item>
       <title>Kernel.org: 98 Prozent des Linux-Kernel-Archiv-Traffics sind wohl keine Menschen</title>
       <link>https://www.golem.de/news/kernel-org-98-prozent-des-linux-kernel-archiv-traffics-sind-wohl-keine-menschen-2608-212436.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-systemdeployment-ohne-agenten-ansible-in-der-praxis-2608-212193.html</guid>
       <description>Agentenlose Konfigurationsverwaltung mit Ansible gilt als Alternative zu Puppet, Chef und Saltstack. Ein Workshop vermittelt Playbooks und Rollen für den Praxiseinsatz. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Mon, 24 Aug 2026 16:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Exchange traded funds: Investors try to catch 'falling knife' with bets on risky funds during chip rout</title>
-      <link>https://www.golem.de/news/exchange-traded-funds-investors-try-to-catch-falling-knife-with-bets-on-risky-funds-during-chip-rout-2608-212230.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/exchange-traded-funds-investors-try-to-catch-falling-knife-with-bets-on-risky-funds-during-chip-rout-2608-212230.html</guid>
-      <description>Leveraged single-stock ETFs attracted billions of dollars of net inflows even as they plunged during market sell-off Von Emily Herbert (Börse, Wirtschaft)</description>
-      <pubDate>Mon, 24 Aug 2026 16:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
