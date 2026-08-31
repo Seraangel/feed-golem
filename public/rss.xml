@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 16:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:50:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Grundschutz-Praktiker: Workshop nach BSI-Methodik</title>
+      <link>https://www.golem.de/news/anzeige-it-grundschutz-praktiker-workshop-nach-bsi-methodik-2608-212467.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-grundschutz-praktiker-workshop-nach-bsi-methodik-2608-212467.html</guid>
+      <description>Informationssicherheit nach BSI-Standard umzusetzen ist für viele Unternehmen anspruchsvoll. Ein Workshop vermittelt die Grundschutz-Methodik und bereitet auf die Zertifizierung vor. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Mon, 31 Aug 2026 16:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>ARD-Sommerinterview: Merz hat den hocheffizienten Verbrenner gefunden</title>
       <link>https://www.golem.de/news/ard-sommerinterview-merz-hat-den-hocheffizienten-verbrenner-gefunden-2608-212468.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/z-architecture-arm-ibms-naechste-mainframe-cpu-unterstuetzt-zwei-befehlssaetze-2608-212271.html</guid>
       <description>Neben der eigenen z/Architecture unterstützen IBMs Mainframes bald auch ARM-Befehle - ohne Emulation in Hardware. (Prozessor, IBM)</description>
       <pubDate>Tue, 25 Aug 2026 12:19:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oktoberfest: Telefónica lässt 5G-Laternen rund um Theresienwiese bauen</title>
-      <link>https://www.golem.de/news/oktoberfest-telefonica-laesst-5g-laternen-rund-um-theresienwiese-bauen-2608-212270.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/oktoberfest-telefonica-laesst-5g-laternen-rund-um-theresienwiese-bauen-2608-212270.html</guid>
-      <description>Für das Oktoberfest baut der Netzbetreiber Telefónica ein eigenes temporäres Netz auf und verwandelt dafür Straßenlaternen in 5G-Antennen. (Telefónica, Mobilfunk)</description>
-      <pubDate>Tue, 25 Aug 2026 11:52:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
