@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 08:25:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:40:19 GMT</lastBuildDate>
+    <item>
+      <title>Ohne Hypervisor: Linux-Fork startet mehrere Kernels auf einem Computer</title>
+      <link>https://www.golem.de/news/ohne-hypervisor-linux-fork-startet-mehrere-kernels-auf-einem-computer-2608-212438.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ohne-hypervisor-linux-fork-startet-mehrere-kernels-auf-einem-computer-2608-212438.html</guid>
+      <description>Ein Entwickler hat den Linux-Kernel so modifiziert, dass mehrere Kernels parallel laufen können. Eine erste Version ist verfügbar. (Linux, Linux-Kernel)</description>
+      <pubDate>Mon, 31 Aug 2026 08:37:10 GMT</pubDate>
+    </item>
     <item>
       <title>Gamescom 2026: Diebe stehlen Laptops mit unveröffentlichten Spielen</title>
       <link>https://www.golem.de/news/gamescom-2026-diebe-stehlen-laptops-mit-unveroeffentlichten-spielen-2608-212437.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kottbusser-tor-in-berlin-kameras-fuer-automatisierte-ueberwachung-installiert-2608-212245.html</guid>
       <description>Die Berliner Polizei will mit Verhaltensscannern einen öffentlichen Platz in Berlin überwachen. 30 Kameras werden installiert. (Videoüberwachung, KI)</description>
       <pubDate>Mon, 24 Aug 2026 17:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Systemdeployment ohne Agenten: Ansible in der Praxis</title>
-      <link>https://www.golem.de/news/anzeige-systemdeployment-ohne-agenten-ansible-in-der-praxis-2608-212193.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-systemdeployment-ohne-agenten-ansible-in-der-praxis-2608-212193.html</guid>
-      <description>Agentenlose Konfigurationsverwaltung mit Ansible gilt als Alternative zu Puppet, Chef und Saltstack. Ein Workshop vermittelt Playbooks und Rollen für den Praxiseinsatz. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Mon, 24 Aug 2026 16:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
