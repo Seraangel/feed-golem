@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 10:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:00:21 GMT</lastBuildDate>
+    <item>
+      <title>12 Terabyte ausgelesen: Alte Steam-Daten legen verworfene Valve-Spiele offen</title>
+      <link>https://www.golem.de/news/12-terabyte-ausgelesen-alte-steam-daten-legen-verworfene-valve-spiele-offen-2608-212449.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/12-terabyte-ausgelesen-alte-steam-daten-legen-verworfene-valve-spiele-offen-2608-212449.html</guid>
+      <description>Die Daten konnten über einen alten Steam-Endpoint abgegriffen werden, der nie geschlossen wurde. (Steam, Half-Life)</description>
+      <pubDate>Mon, 31 Aug 2026 10:58:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Steckschlüsselsatz mit über 200 Teilen jetzt für nur 66 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-steckschluesselsatz-mit-ueber-200-teilen-jetzt-fuer-nur-66-euro-bei-amazon-2608-212450.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/intel-diamond-rapids-soll-mit-256-kernen-zur-epyc-konkurrenz-werden-2608-212254.html</guid>
       <description>Intel hat weitere Details der kommenden P-Core-Xeons enthüllt. Die kommen mit großem Cache, aber ohne Emib mit Wildcat-Lake-Technik. (Prozessor, Intel)</description>
       <pubDate>Tue, 25 Aug 2026 08:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Social Engineering an der Haustür: So dreist wurde ich manipuliert</title>
-      <link>https://www.golem.de/news/social-engineering-an-der-haustuer-so-dreist-wurde-ich-manipuliert-2608-212223.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/social-engineering-an-der-haustuer-so-dreist-wurde-ich-manipuliert-2608-212223.html</guid>
-      <description>Als ITler nehme ich mich als gut informiert und schwer manipulierbar wahr. Wie ich trotzdem - ohne es zu wissen - einen Haustürvertrag abgeschlossen habe. Ein Erfahrungsbericht von Andrea Maurer (Social Engineering, Wirtschaft)</description>
-      <pubDate>Tue, 25 Aug 2026 08:30:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
