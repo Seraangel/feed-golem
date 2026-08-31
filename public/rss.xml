@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 11:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:15:20 GMT</lastBuildDate>
+    <item>
+      <title>Chrome und Edge: Mehrere Browser-Add-ons per Update mit Malware verseucht</title>
+      <link>https://www.golem.de/news/chrome-und-edge-mehrere-browser-add-ons-per-update-mit-malware-verseucht-2608-212452.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chrome-und-edge-mehrere-browser-add-ons-per-update-mit-malware-verseucht-2608-212452.html</guid>
+      <description>Forscher haben 19 mit Malware verseuchte Browsererweiterungen für Chrome und Edge entdeckt. Der Schadcode wurde erst nachträglich eingeschleust. (Malware, Virus)</description>
+      <pubDate>Mon, 31 Aug 2026 11:14:03 GMT</pubDate>
+    </item>
     <item>
       <title>12 Terabyte ausgelesen: Alte Steam-Daten legen verworfene Valve-Spiele offen</title>
       <link>https://www.golem.de/news/12-terabyte-ausgelesen-alte-steam-daten-legen-verworfene-valve-spiele-offen-2608-212449.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nutzer-laengst-geschuetzt-drama-um-veraltete-fingerprinting-technik-bei-aliexpress-2608-212259.html</guid>
       <description>Ein auf der Website von Aliexpress entdecktes Audio-Fingerprinting beschäftigt die IT-Welt. Dabei ist die Technik schon uralt und kaum noch relevant. (Fingerprinting, Browser)</description>
       <pubDate>Tue, 25 Aug 2026 08:49:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel: Diamond Rapids soll mit 256 Kernen zur Epyc-Konkurrenz werden</title>
-      <link>https://www.golem.de/news/intel-diamond-rapids-soll-mit-256-kernen-zur-epyc-konkurrenz-werden-2608-212254.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/intel-diamond-rapids-soll-mit-256-kernen-zur-epyc-konkurrenz-werden-2608-212254.html</guid>
-      <description>Intel hat weitere Details der kommenden P-Core-Xeons enthüllt. Die kommen mit großem Cache, aber ohne Emib mit Wildcat-Lake-Technik. (Prozessor, Intel)</description>
-      <pubDate>Tue, 25 Aug 2026 08:37:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
