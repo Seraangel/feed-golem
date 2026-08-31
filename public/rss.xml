@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 08:40:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 08:55:22 GMT</lastBuildDate>
+    <item>
+      <title>Nach Trump-Erlass: Google Maps nennt Ontariosee in Lake America um</title>
+      <link>https://www.golem.de/news/nach-trump-erlass-google-maps-nennt-ontariosee-in-lake-america-um-2608-212439.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-trump-erlass-google-maps-nennt-ontariosee-in-lake-america-um-2608-212439.html</guid>
+      <description>Im Zollstreit mit Kanada hat US-Präsident Trump einen der Großen Seen umbenannt. Google setzt die Entscheidung unmittelbar um. (Google Maps, Google)</description>
+      <pubDate>Mon, 31 Aug 2026 08:50:10 GMT</pubDate>
+    </item>
     <item>
       <title>Ohne Hypervisor: Linux-Fork startet mehrere Kernels auf einem Computer</title>
       <link>https://www.golem.de/news/ohne-hypervisor-linux-fork-startet-mehrere-kernels-auf-einem-computer-2608-212438.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/xring-o3-xiaomis-smartphone-soc-soll-apple-und-qualcomm-schlagen-2608-212242.html</guid>
       <description>Der Xring O3 nutzt aktuelle ARM-Kerne und LPDDR6. Auch ein SoC für Autos und eines mit aufgestapeltem RAM hat Xiaomi entwickelt. (Smartphone, Apple)</description>
       <pubDate>Mon, 24 Aug 2026 17:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 Kameras: Berlin startet KI-Videoüberwachung am Kottbusser Tor</title>
-      <link>https://www.golem.de/news/kottbusser-tor-in-berlin-kameras-fuer-automatisierte-ueberwachung-installiert-2608-212245.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kottbusser-tor-in-berlin-kameras-fuer-automatisierte-ueberwachung-installiert-2608-212245.html</guid>
-      <description>Die Berliner Polizei will mit Verhaltensscannern einen öffentlichen Platz in Berlin überwachen. 30 Kameras werden installiert. (Videoüberwachung, KI)</description>
-      <pubDate>Mon, 24 Aug 2026 17:05:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
