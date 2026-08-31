@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 12:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:10:17 GMT</lastBuildDate>
+    <item>
+      <title>RAN: Telefónica schliesst kritisches Funkloch in Nordrhein-Westfalen</title>
+      <link>https://www.golem.de/news/ran-telefonica-schliesst-kritisches-funkloch-in-nordrhein-westfalen-2608-212457.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ran-telefonica-schliesst-kritisches-funkloch-in-nordrhein-westfalen-2608-212457.html</guid>
+      <description>100 neue Masten und 1.000 Ausbaumaßnahmen seit Jahresbeginn: Ein prominentes Beispiel für Telefónica ist die Steinbachtalsperre in Euskirchen. (Telefónica, Mobilfunk)</description>
+      <pubDate>Mon, 31 Aug 2026 12:06:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Apple AirTag im 4er-Pack nie günstiger bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-apple-airtag-im-4er-pack-nie-guenstiger-bei-amazon-2608-212453.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/golem-community-wir-bringen-dich-zu-den-container-days-2608-212256.html</guid>
       <description>Du willst zu den Container Days nach Hamburg, hast aber kein Ticket? Dann solltest du dringend weiterlesen! (Kubernetes, In eigener Sache)</description>
       <pubDate>Tue, 25 Aug 2026 09:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Preiserhöhungen: Amazon macht Kindle, FireTV und Echo merklich teurer</title>
-      <link>https://www.golem.de/news/preiserhoehungen-amazon-macht-kindle-firetv-und-echo-merklich-teurer-2608-212236.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/preiserhoehungen-amazon-macht-kindle-firetv-und-echo-merklich-teurer-2608-212236.html</guid>
-      <description>Teilweise müssen Kunden mit gestiegenen Preisen von bis zu 50 Prozent rechnen. Dies ist laut Amazon durch die RAM-Krise notwendig. (Amazon, Kindle)</description>
-      <pubDate>Tue, 25 Aug 2026 09:14:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
