@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 10:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 10:35:16 GMT</lastBuildDate>
+    <item>
+      <title>Für eigene Rechenzentren: SpaceX soll Teile für Gasturbinen bauen</title>
+      <link>https://www.golem.de/news/fuer-eigene-rechenzentren-spacex-soll-teile-fuer-gasturbinen-bauen-2608-212447.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fuer-eigene-rechenzentren-spacex-soll-teile-fuer-gasturbinen-bauen-2608-212447.html</guid>
+      <description>Turbinenschaufeln hat Elon Musk bereits vor Monaten als Engpass beim Bau von Gasturbinen ausgemacht. Die braucht er für seine KI-Rechenzentren. (Energie, KI)</description>
+      <pubDate>Mon, 31 Aug 2026 10:32:13 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Assistenten für Fluglotsen: "Das ist sehr schwer zu programmieren"</title>
       <link>https://www.golem.de/news/ki-assistenten-fuer-fluglotsen-das-ist-sehr-schwer-zu-programmieren-2608-212444.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/block-3-europa-streicht-geplantes-update-der-ariane-6-rakete-2608-212214.html</guid>
       <description>Europa bremst bei der Ariane 6 die geplante Modernisierungen der Rakete. (ESA, Raumfahrt)</description>
       <pubDate>Tue, 25 Aug 2026 07:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github: Nintendo lässt über 400 Switch-Emulator-Repositories löschen</title>
-      <link>https://www.golem.de/news/github-nintendo-laesst-ueber-400-switch-emulator-repositories-loeschen-2608-212253.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/github-nintendo-laesst-ueber-400-switch-emulator-repositories-loeschen-2608-212253.html</guid>
-      <description>Nintendo geht weiter massiv gegen Switch-Emulatoren vor. Sieben Beschwerden haben zur Sperrung von 401 Github-Repositories geführt. (Nintendo Switch, Urheberrecht)</description>
-      <pubDate>Tue, 25 Aug 2026 07:37:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
