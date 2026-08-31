@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 09:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:15:24 GMT</lastBuildDate>
+    <item>
+      <title>Leak: Modder bringen DLSS 5 in immer mehr Spiele</title>
+      <link>https://www.golem.de/news/leak-modder-bringen-dlss-5-in-immer-mehr-spiele-2608-212441.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/leak-modder-bringen-dlss-5-in-immer-mehr-spiele-2608-212441.html</guid>
+      <description>Eine versehentlich veröffentlichte Bibliothek von DLSS 5 ermöglicht schon jetzt Experimente mit zahlreichen Spielen. (DLSS, Nvidia)</description>
+      <pubDate>Mon, 31 Aug 2026 09:12:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ultimea-Poseidon-D80-7.1-Soundsystem jetzt zum Aktionspreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ultimea-poseidon-d80-7-1-soundsystem-jetzt-zum-aktionspreis-bei-amazon-2608-212440.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ram-preise-91-prozent-des-traffics-bei-hardware-haendler-stammt-von-bots-2608-212249.html</guid>
       <description>Seit März ist die Rate des Bot-Traffics laut Datadome von 6 zu 1 auf 10 zu 1 gestiegen. Schuld daran sind RAM-Preise. (RAM, PC-Hardware)</description>
       <pubDate>Tue, 25 Aug 2026 06:43:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Schwachstellenmanagement: Risiken realistisch bewerten</title>
-      <link>https://www.golem.de/news/anzeige-schwachstellenmanagement-risiken-realistisch-bewerten-2608-212240.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-schwachstellenmanagement-risiken-realistisch-bewerten-2608-212240.html</guid>
-      <description>Nicht jede gemeldete Schwachstelle ist für jede IT gleich riskant. Ein Workshop zeigt, wie sich Risiken im Schwachstellenmanagement individuell einschätzen lassen. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 25 Aug 2026 05:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
