@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 07:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 07:10:25 GMT</lastBuildDate>
+    <item>
+      <title>Virenschutz angeblich aus: Microsoft Defender spielt falsche Warnmeldung aus</title>
+      <link>https://www.golem.de/news/virenschutz-angeblich-aus-microsoft-defender-spielt-falsche-warnmeldung-aus-2608-212431.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/virenschutz-angeblich-aus-microsoft-defender-spielt-falsche-warnmeldung-aus-2608-212431.html</guid>
+      <description>Einige Windows-Nutzer erhalten seit Wochen Warnmeldungen vom Microsoft Defender, dass der Virenschutz inaktiv sei. Das ist jedoch ein Anzeigefehler. (Virenscanner, Microsoft)</description>
+      <pubDate>Mon, 31 Aug 2026 07:06:03 GMT</pubDate>
+    </item>
     <item>
       <title>Urheberrechtsklage gegen KI-Entwickler: Sony und Warner verklagen Anthropic</title>
       <link>https://www.golem.de/news/urheberrechtsklage-gegen-ki-entwickler-sony-und-warner-verklagen-anthropic-2608-212432.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bidirektionales-laden-autoindustrie-kritisiert-strombremse-fuer-pv-anlagen-2608-212239.html</guid>
       <description>Wirtschaftsministerin Reiche will die Einspeisung kleiner Solaranlagen pauschal deckeln. Das würde auch für Elektroautos gelten. (Solarenergie, Elektroauto)</description>
       <pubDate>Mon, 24 Aug 2026 14:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: FRITZ!Smart Thermo 302 Heizkörperregler im Angebot für 49 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-fritz-smart-thermo-302-heizkoerperregler-im-angebot-fuer-49-euro-bei-amazon-2608-212237.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fritz-smart-thermo-302-heizkoerperregler-im-angebot-fuer-49-euro-bei-amazon-2608-212237.html</guid>
-      <description>Der FRITZ!Smart Thermo 302 Heizkörperregler ist bei Amazon reduziert, regelt die Raumtemperatur automatisch und lässt sich per App steuern. (Technik/Hardware, Smart Home)</description>
-      <pubDate>Mon, 24 Aug 2026 14:16:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
