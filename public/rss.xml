@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 11:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:25:17 GMT</lastBuildDate>
+    <item>
+      <title>AI Lab Report: KI lernt nicht aus dem Nichts</title>
+      <link>https://www.golem.de/news/ai-lab-report-ki-lernt-nicht-aus-dem-nichts-2608-212434.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ai-lab-report-ki-lernt-nicht-aus-dem-nichts-2608-212434.html</guid>
+      <description>Unser Newsletter AI Lab Report ordnet neue KI-Entwicklungen ein. In der aktuellen Ausgabe geht es darum, warum Modelle Fähigkeiten scheinbar aus dem Nichts entwickeln. (In eigener Sache, KI)</description>
+      <pubDate>Mon, 31 Aug 2026 11:24:06 GMT</pubDate>
+    </item>
     <item>
       <title>Chrome und Edge: Mehrere Browser-Add-ons per Update mit Malware verseucht</title>
       <link>https://www.golem.de/news/chrome-und-edge-mehrere-browser-add-ons-per-update-mit-malware-verseucht-2608-212452.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-smart-home-lautsprecher-amazon-echo-dot-jetzt-fuer-unter-40-euro-im-angebot-2608-212258.html</guid>
       <description>Der Amazon Echo Dot ist bei Amazon stark reduziert, klingt kräftiger als je zuvor und steuert das ganze Smart Home per Sprachbefehl. (Technik/Hardware, Smart Home)</description>
       <pubDate>Tue, 25 Aug 2026 08:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nutzer längst geschützt: Drama um veraltete Fingerprinting-Technik bei Aliexpress</title>
-      <link>https://www.golem.de/news/nutzer-laengst-geschuetzt-drama-um-veraltete-fingerprinting-technik-bei-aliexpress-2608-212259.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nutzer-laengst-geschuetzt-drama-um-veraltete-fingerprinting-technik-bei-aliexpress-2608-212259.html</guid>
-      <description>Ein auf der Website von Aliexpress entdecktes Audio-Fingerprinting beschäftigt die IT-Welt. Dabei ist die Technik schon uralt und kaum noch relevant. (Fingerprinting, Browser)</description>
-      <pubDate>Tue, 25 Aug 2026 08:49:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
