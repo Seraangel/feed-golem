@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 30 Aug 2026 11:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 05:20:15 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: C++ Clean Code: Workshop für robusten C++-Code</title>
+      <link>https://www.golem.de/news/anzeige-c-clean-code-workshop-fuer-robusten-c-code-2608-212427.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-c-clean-code-workshop-fuer-robusten-c-code-2608-212427.html</guid>
+      <description>Moderne C++-Standards bringen neue Features, aber auch Risiken für Wartbarkeit und Komplexität. Ein Workshop vermittelt Prinzipien für sauberen, robusten C++-Code. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Mon, 31 Aug 2026 05:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>WLAN: Asus bringt schon jetzt Wi-Fi-8-Router heraus</title>
       <link>https://www.golem.de/news/wlan-asus-bringt-schon-jetzt-wi-fi-8-router-heraus-2608-212425.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-roborock-qv-35a-mit-dock-und-wischfunktion-bei-amazon-nie-billiger-2608-212229.html</guid>
       <description>Der Roborock QV 35A Set mit Saug- und Wischfunktion sowie einem All-in-One-Dock ist auf den bisher besten Amazon-Preis gefallen. (Roborock, Saugroboter)</description>
       <pubDate>Mon, 24 Aug 2026 12:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smartwatch von Amazfit fällt bei Amazon auf neuen Tiefstpreis</title>
-      <link>https://www.golem.de/news/anzeige-smartwatch-von-amazfit-faellt-bei-amazon-auf-neuen-tiefstpreis-2608-212231.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartwatch-von-amazfit-faellt-bei-amazon-auf-neuen-tiefstpreis-2608-212231.html</guid>
-      <description>Sportler und gesundheitsbewusste Menschen profitieren von einer Smartwatch besonders. Ein Modell von Amazfit gibt es bei Amazon zum Tiefstpreis. (Smartwatch, Wearable)</description>
-      <pubDate>Mon, 24 Aug 2026 12:19:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
