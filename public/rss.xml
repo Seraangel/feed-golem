@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 11:25:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 11:40:18 GMT</lastBuildDate>
+    <item>
+      <title>(g+) KI-Abrechnung nach Energieverbrauch: Um den Faktor vier billiger</title>
+      <link>https://www.golem.de/news/ki-abrechnung-nach-energieverbrauch-um-den-faktor-vier-billiger-2608-212451.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-abrechnung-nach-energieverbrauch-um-den-faktor-vier-billiger-2608-212451.html</guid>
+      <description>Bei Neuralwatt bezahlt man bei KI-Nutzung statt Token verbrauchte Kilowattstunden. 30 Tage nachgerechnet ergeben 100 statt 428 US-Dollar. Ein Erfahrungsbericht von Robert Heide (KI, API)</description>
+      <pubDate>Mon, 31 Aug 2026 11:35:03 GMT</pubDate>
+    </item>
     <item>
       <title>AI Lab Report: KI lernt nicht aus dem Nichts</title>
       <link>https://www.golem.de/news/ai-lab-report-ki-lernt-nicht-aus-dem-nichts-2608-212434.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/flughafen-leipzig-halle-weitere-drohne-und-sprengstoff-gefunden-2608-212257.html</guid>
       <description>Bei dem Vorfall am Flughafen Leipzig/Halle sind möglicherweise weitere Drohnen im Einsatz gewesen. Ermittler haben zudem Sprengstoff gefunden. (Drohne, Politik)</description>
       <pubDate>Tue, 25 Aug 2026 09:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smart-Home-Lautsprecher Amazon Echo Dot jetzt für unter 40 Euro im Angebot</title>
-      <link>https://www.golem.de/news/anzeige-smart-home-lautsprecher-amazon-echo-dot-jetzt-fuer-unter-40-euro-im-angebot-2608-212258.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smart-home-lautsprecher-amazon-echo-dot-jetzt-fuer-unter-40-euro-im-angebot-2608-212258.html</guid>
-      <description>Der Amazon Echo Dot ist bei Amazon stark reduziert, klingt kräftiger als je zuvor und steuert das ganze Smart Home per Sprachbefehl. (Technik/Hardware, Smart Home)</description>
-      <pubDate>Tue, 25 Aug 2026 08:52:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
