@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 06:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 06:25:19 GMT</lastBuildDate>
+    <item>
+      <title>KI-Monitor 2026: Sorge um Arbeitsplatz steigt mit KI-Wissen</title>
+      <link>https://www.golem.de/news/ki-monitor-2026-sorge-um-arbeitsplatz-steigt-mit-ki-wissen-2608-212430.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-monitor-2026-sorge-um-arbeitsplatz-steigt-mit-ki-wissen-2608-212430.html</guid>
+      <description>Eine repräsentative Umfrage der TU Darmstadt zeigt: Wer KI gut versteht, sorgt sich häufiger um den eigenen Arbeitsplatz. (Arbeit, Datenschutz)</description>
+      <pubDate>Mon, 31 Aug 2026 06:22:01 GMT</pubDate>
+    </item>
     <item>
       <title>Spiele: Sony wegen fehlenden Eigentums an digitalen Spielen verklagt</title>
       <link>https://www.golem.de/news/spiele-sony-wegen-fehlenden-eigentums-an-digitalen-spielen-verklagt-2608-212429.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rebel-wolves-the-blood-of-dawnwalker-bekommt-60-fps-modus-nach-protesten-2608-212235.html</guid>
       <description>Erst waren auf Konsolen höchstens 40 fps angekündigt, nun reagiert Rebel Wolves auf die Kritik an The Blood of Dawnwalker. (The Blood of Dawnwalker, Sony)</description>
       <pubDate>Mon, 24 Aug 2026 13:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Systemeinstellungen: Microsoft baut App, die überall Bing als Standard setzt</title>
-      <link>https://www.golem.de/news/systemeinstellungen-microsoft-baut-app-die-ueberall-bing-als-standard-setzt-2608-212234.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/systemeinstellungen-microsoft-baut-app-die-ueberall-bing-als-standard-setzt-2608-212234.html</guid>
-      <description>Die sonderbare App erkennt Browser und setzt bei ihnen Bing als Suchmaschine. Auch installiert sie passende Browsererweiterungen. (Bing, Windows)</description>
-      <pubDate>Mon, 24 Aug 2026 13:44:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
