@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 12:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:15:18 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mini-Kettensäge von Bosch stark reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-mini-kettensaege-von-bosch-stark-reduziert-bei-amazon-2608-212455.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mini-kettensaege-von-bosch-stark-reduziert-bei-amazon-2608-212455.html</guid>
+      <description>Eine Mini-Kettensäge von Bosch mit 13‑Zentimeter-Schnittkreis für Äste, Bretter und Brennholz gibt es zum Aktionspreis bei Amazon. (Technik/Hardware, Bosch)</description>
+      <pubDate>Mon, 31 Aug 2026 12:12:07 GMT</pubDate>
+    </item>
     <item>
       <title>RAN: Telefónica schliesst kritisches Funkloch in Nordrhein-Westfalen</title>
       <link>https://www.golem.de/news/ran-telefonica-schliesst-kritisches-funkloch-in-nordrhein-westfalen-2608-212457.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/projekt-antarktis-kabel-erstes-unterseekabel-nach-antarktika-wird-geprueft-2608-212262.html</guid>
       <description>Trotz Starlink verlassen Daten der Polarforschung die Antarktis weiter in Koffern voller Festplatten. Ein Seekabel soll den Kontinent nun an Supercomputer anbinden. (Seekabel, Telekommunikation)</description>
       <pubDate>Tue, 25 Aug 2026 09:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Golem-Community: Wir bringen dich zu den Container Days</title>
-      <link>https://www.golem.de/news/golem-community-wir-bringen-dich-zu-den-container-days-2608-212256.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/golem-community-wir-bringen-dich-zu-den-container-days-2608-212256.html</guid>
-      <description>Du willst zu den Container Days nach Hamburg, hast aber kein Ticket? Dann solltest du dringend weiterlesen! (Kubernetes, In eigener Sache)</description>
-      <pubDate>Tue, 25 Aug 2026 09:25:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
