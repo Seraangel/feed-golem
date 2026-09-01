@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 09:51:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:06:07 GMT</lastBuildDate>
+    <item>
+      <title>Spielemesse: Indies, die AAA die Show stehlen</title>
+      <link>https://www.golem.de/news/spielemesse-indies-die-aaa-die-show-stehlen-2609-212465.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spielemesse-indies-die-aaa-die-show-stehlen-2609-212465.html</guid>
+      <description>Klein, originell und mit Liebe gemacht: Diese Auswahl an Gamescom-Indies hat nicht nur uns überzeugt. Von Rainer Sigl (Gamescom 2026, Gamescom)</description>
+      <pubDate>Tue, 01 Sep 2026 10:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Markiplier: Gaming-Youtuber wird größter Gopro-Aktionär - Aktie explodiert</title>
       <link>https://www.golem.de/news/markiplier-gaming-youtuber-wird-groesster-gopro-aktionaer-aktie-explodiert-2609-212491.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/remaster-upgrade-fuer-the-witcher-3-modernisiert-grafik-kampf-und-monster-2608-212294.html</guid>
       <description>Im September 2026 veröffentlicht CD Projekt Red ein Remaster von The Witcher 3. Auch zur Erweiterung Songs of the Past gibt es neue Infos. (The Witcher 3, Rollenspiel)</description>
       <pubDate>Wed, 26 Aug 2026 05:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Azure administrieren: Workshop für Admins</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-admins-2608-212293.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-admins-2608-212293.html</guid>
-      <description>Die Administration von Microsoft Azure stellt Systemadministratoren vor komplexe Aufgaben. Ein Online-Workshop vermittelt das nötige Rüstzeug. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Wed, 26 Aug 2026 05:15:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
