@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 11:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 12:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Onimusha im Test: Samurai trifft Slapstick</title>
+      <link>https://www.golem.de/news/onimusha-im-test-samurai-trifft-slapstick-2609-212463.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/onimusha-im-test-samurai-trifft-slapstick-2609-212463.html</guid>
+      <description>Katana plus Krümelmonster: Onimusha - Way of the Sword von Capcom verbindet Humor mit toller Grafik und einem anspruchsvollen Kampfsystem. Ein Test von Peter Steinlechner (Capcom, Steam)</description>
+      <pubDate>Tue, 01 Sep 2026 12:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Metabase Datenbank-Leck: Passwort-Reset - und die Zugangsdaten aller Datenbanken sind weg</title>
       <link>https://www.golem.de/news/metabase-datenbank-leck-passwort-reset-und-die-zugangsdaten-aller-datenbanken-sind-weg-2609-212483.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jetzt-updaten-327-sicherheitsluecken-in-google-chrome-gepatcht-2608-212303.html</guid>
       <description>Unzählige Chrome-Nutzer sind über mehr als 300 Sicherheitslücken Angreifbar. Das jüngste Update schützt davor und sollte zügig installiert werden. (Sicherheitslücke, Google)</description>
       <pubDate>Wed, 26 Aug 2026 08:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT-Sicherheit: Führungskräfte nutzen KI trotz Sicherheitsrisiken</title>
-      <link>https://www.golem.de/news/it-sicherheit-fuehrungskraefte-nutzen-ki-trotz-sicherheitsrisiken-2608-212302.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-fuehrungskraefte-nutzen-ki-trotz-sicherheitsrisiken-2608-212302.html</guid>
-      <description>Eine Umfrage zeigt erhebliche Unterschiede bei der KI-Nutzung und dem Umgang mit vertraulichen Daten im Büro. (Security, Studien)</description>
-      <pubDate>Wed, 26 Aug 2026 07:38:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
