@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 06:50:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:15:20 GMT</lastBuildDate>
+    <item>
+      <title>Deutschland noch ausgenommen: Google erhöht Preise für Smart-Home- und Streaminggeräte deutlich</title>
+      <link>https://www.golem.de/news/deutschland-noch-ausgenommen-google-erhoeht-preise-fuer-smart-home-und-streaminggeraete-deutlich-2609-212478.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/deutschland-noch-ausgenommen-google-erhoeht-preise-fuer-smart-home-und-streaminggeraete-deutlich-2609-212478.html</guid>
+      <description>Wer die Anschaffung von Google-Geräten plant, sollte bald zugreifen. Es deuten sich Preiserhöhungen auch in Deutschland an. (Google, Streaming)</description>
+      <pubDate>Tue, 01 Sep 2026 07:14:10 GMT</pubDate>
+    </item>
     <item>
       <title>Bildung: Hessen führt KI und Digitale Welt als neues Schulfach ein</title>
       <link>https://www.golem.de/news/bildung-hessen-fuehrt-ki-und-digitale-welt-als-neues-schulfach-ein-2609-212477.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html</guid>
       <description>Die Google-Schwesterfirma Waymo bietet ihren Robotaxi-Dienst künftig in München an. Vor dem Start werden zunächst ein Jahr lang Daten gesammelt. (Waymo, Elektroauto)</description>
       <pubDate>Tue, 25 Aug 2026 15:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Workstation: Neuer Mac Studio bekommt M5 Ultra und viel RAM</title>
-      <link>https://www.golem.de/news/ki-workstation-neuer-mac-studio-bekommt-m5-ultra-und-viel-ram-2608-212285.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-workstation-neuer-mac-studio-bekommt-m5-ultra-und-viel-ram-2608-212285.html</guid>
-      <description>Viele CPU- und GPU-Kerne sowie viel Speicher bringen große KI-Modelle auf Apples Mac Studio. Daneben gibt es ein kleineres Modell mit M5 Max. (Apple, Prozessor)</description>
-      <pubDate>Tue, 25 Aug 2026 14:48:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
