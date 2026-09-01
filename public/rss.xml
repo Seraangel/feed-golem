@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 16:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:46:06 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Azure-Infrastruktur professionell administrieren</title>
+      <link>https://www.golem.de/news/anzeige-azure-infrastruktur-professionell-administrieren-2609-212471.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-azure-infrastruktur-professionell-administrieren-2609-212471.html</guid>
+      <description>Die Administration von Microsoft Azure-Infrastrukturdiensten verlangt fundiertes Wissen über Architektur, Sicherheit und Kosten. Ein Workshop vermittelt das nötige Rüstzeug. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Tue, 01 Sep 2026 16:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Flughafen Leipzig/Halle: Regierung weist Russland Verantwortung für Anschlagsversuch zu</title>
       <link>https://www.golem.de/news/flughafen-leipzig-halle-regierung-weist-russland-verantwortung-fuer-anschlagsversuch-zu-2609-212517.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartwatch-von-garmin-zum-aktionspreis-bei-amazon-2608-212326.html</guid>
       <description>Die Smartwatch Garmin Instinct 3 mit AMOLED-Display, Multiband-GPS, ANT+ und 50-Millimeter-Gehäuse ist bei Amazon reduziert. (Smartwatch, Garmin)</description>
       <pubDate>Wed, 26 Aug 2026 12:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Direkt aus Night City: Ein Commodore C64 im Stil von Cyberpunk 2077</title>
-      <link>https://www.golem.de/news/direkt-aus-night-city-ein-commodore-c64-im-stil-von-cyberpunk-2077-2608-212325.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/direkt-aus-night-city-ein-commodore-c64-im-stil-von-cyberpunk-2077-2608-212325.html</guid>
-      <description>Der Commodore 77 könnte auch aus der Welt von Cyberpunk 2077 stammen. Außen kommt er im passenden Look, innen simuliert er den Original-C64. (C64, Commodore)</description>
-      <pubDate>Wed, 26 Aug 2026 12:17:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
