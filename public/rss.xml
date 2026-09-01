@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 13:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 14:21:12 GMT</lastBuildDate>
+    <item>
+      <title>Deutschland 2045: Netzbetreiber planen an der Realität vorbei</title>
+      <link>https://www.golem.de/news/deutschland-2045-netzbetreiber-planen-an-der-realitaet-vorbei-2609-212505.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/deutschland-2045-netzbetreiber-planen-an-der-realitaet-vorbei-2609-212505.html</guid>
+      <description>Die Annahmen zur Entwicklung der Stromerzeugung, Speicherung und des künftigen Verbrauchs gehen an der Realität vorbei. Es drohen Fehlplanungen. (Energiewende, Smart Meter)</description>
+      <pubDate>Tue, 01 Sep 2026 14:18:07 GMT</pubDate>
+    </item>
     <item>
       <title>Preiserhöhung bei Qualcomm: Kosten für Smartphones dürften weiter ansteigen</title>
       <link>https://www.golem.de/news/preiserhoehung-bei-qualcomm-kosten-fuer-smartphones-duerften-weiter-ansteigen-2609-212507.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/viele-softwareprojekte-gefaehrdet-hacker-schleusen-schadcode-auf-gitea-instanzen-2608-212317.html</guid>
       <description>Eine kritische Sicherheitslücke ermöglicht Schadcode-Attacken auf Gitea-Instanzen. Angreifer nutzen das bereits. Admins sollten zügig patchen. (Sicherheitslücke, Server)</description>
       <pubDate>Wed, 26 Aug 2026 10:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jalapeno: OpenAIs erster KI-Chip schlägt Nvidia bei Effizienz</title>
-      <link>https://www.golem.de/news/jalapeno-openais-erster-ki-chip-schlaegt-nvidia-bei-effizienz-2608-212310.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/jalapeno-openais-erster-ki-chip-schlaegt-nvidia-bei-effizienz-2608-212310.html</guid>
-      <description>In weniger als eineinhalb Jahren hat OpenAI einen eigenen KI-Chip entwickelt - mit KI und hoher Effizienz. Das zeigt ein erster Test. (OpenAI, KI)</description>
-      <pubDate>Wed, 26 Aug 2026 10:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
