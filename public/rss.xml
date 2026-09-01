@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 07:26:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:41:05 GMT</lastBuildDate>
+    <item>
+      <title>Automobilindustrie: Elektro-Pickup Slate setzt auf Bring your own Device</title>
+      <link>https://www.golem.de/news/automobilindustrie-elektro-pickup-slate-setzt-auf-bring-your-own-device-2609-212481.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/automobilindustrie-elektro-pickup-slate-setzt-auf-bring-your-own-device-2609-212481.html</guid>
+      <description>Das Start-up Slate bietet seinen Elektro-Pickup ab 24.950 US-Dollar an. Fahrer nutzen dafür ihr eigenes Smartphone oder Tablet. (Auto, Elektroauto)</description>
+      <pubDate>Tue, 01 Sep 2026 07:40:03 GMT</pubDate>
+    </item>
     <item>
       <title>Android-ROM: GrapheneOS-Macher lästern über Pixel 11</title>
       <link>https://www.golem.de/news/android-rom-grapheneos-macher-laestern-ueber-pixel-11-2609-212479.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nvidia-dlss-4-5-startet-und-anti-cheat-kommt-fuer-windows-on-arm-2608-212203.html</guid>
       <description>Geforce Now wird ausgebaut, wichtige Multiplayer-Spiele sollen auf RTX-Spark-Rechnern laufen und DLSS 4.5 startet mit Ray Reconstruction. Von Peter Steinlechner (Nvidia, Spiele)</description>
       <pubDate>Tue, 25 Aug 2026 15:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>E-Mail-Adresse verbergen: Apple belässt Privacy-Funktion auf icloud.com-Domain</title>
-      <link>https://www.golem.de/news/e-mail-adresse-verbergen-apple-belaesst-privacy-funktion-auf-icloud-com-domain-2608-212281.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/e-mail-adresse-verbergen-apple-belaesst-privacy-funktion-auf-icloud-com-domain-2608-212281.html</guid>
-      <description>Apple setzt die geplanten Änderungen für das Verbergen von E-Mail-Adressen aus, hält aber an den Änderungen von Anmelden mit Apple fest. (Apple, E-Mail)</description>
-      <pubDate>Tue, 25 Aug 2026 15:20:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
