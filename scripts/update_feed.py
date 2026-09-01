@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import sqlite3
 import sys
+import time
 from dataclasses import dataclass
 from datetime import datetime, timezone
 from email.utils import format_datetime
@@ -23,6 +24,8 @@ ATOM_NAMESPACE = "http://www.w3.org/2005/Atom"
 ATOM = f"{{{ATOM_NAMESPACE}}}"
 RSS_URL = "https://seraangel.github.io/feed-golem/rss.xml"
 GOLEM_ICON_URL = "https://www.golem.de/staticrl/images/Golem-Logo-black-small.png"
+RETRY_DELAYS = {503: 10, 429: 15}
+RETRY_WINDOW_SECONDS = 60
 ET.register_namespace("atom", ATOM_NAMESPACE)
 
 
@@ -98,13 +101,34 @@ def extract_articles(document: bytes) -> list[Article]:
 
 
 def fetch_feed(timeout: int) -> bytes:
-    response = requests.get(
-        SOURCE_URL,
-        headers={"User-Agent": USER_AGENT, "Accept": "application/atom+xml, application/xml;q=0.9, */*;q=0.8"},
-        timeout=timeout,
-    )
-    response.raise_for_status()
-    return response.content
+    """Fetch the source feed, retrying temporary overload and rate-limit responses.
+
+    The retry window contains the pauses between attempts: 503 is retried every
+    10 seconds and 429 every 15 seconds, for no more than 60 seconds total.
+    """
+    elapsed_wait = 0
+    while True:
+        response = requests.get(
+            SOURCE_URL,
+            headers={"User-Agent": USER_AGENT, "Accept": "application/atom+xml, application/xml;q=0.9, */*;q=0.8"},
+            timeout=timeout,
+        )
+        delay = RETRY_DELAYS.get(response.status_code)
+        if delay is None:
+            response.raise_for_status()
+            return response.content
+
+        if elapsed_wait >= RETRY_WINDOW_SECONDS:
+            response.raise_for_status()
+
+        sleep_for = min(delay, RETRY_WINDOW_SECONDS - elapsed_wait)
+        print(
+            f"Golem feed returned HTTP {response.status_code}; retrying in {sleep_for} seconds "
+            f"({elapsed_wait + sleep_for}/{RETRY_WINDOW_SECONDS} seconds).",
+            file=sys.stderr,
+        )
+        time.sleep(sleep_for)
+        elapsed_wait += sleep_for
 
 
 def ensure_schema(connection: sqlite3.Connection) -> None:

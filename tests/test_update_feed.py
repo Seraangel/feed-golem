@@ -4,9 +4,12 @@ import sqlite3
 import tempfile
 import unittest
 from pathlib import Path
+from unittest.mock import Mock, patch
 from xml.etree import ElementTree as ET
 
-from scripts.update_feed import ATOM, GOLEM_ICON_URL, RSS_URL, build_rss, ensure_schema, extract_articles, load_feed_items, upsert_articles, write_if_changed
+import requests
+
+from scripts.update_feed import ATOM, GOLEM_ICON_URL, RSS_URL, build_rss, ensure_schema, extract_articles, fetch_feed, load_feed_items, upsert_articles, write_if_changed
 
 
 SAMPLE_ATOM = b'''<?xml version="1.0"?>
@@ -48,6 +51,30 @@ class UpdateFeedTests(unittest.TestCase):
             out_path = Path(directory) / "public" / "rss.xml"
             self.assertTrue(write_if_changed(out_path, b"feed"))
             self.assertFalse(write_if_changed(out_path, b"feed"))
+
+    @patch("scripts.update_feed.time.sleep")
+    @patch("scripts.update_feed.requests.get")
+    def test_fetch_feed_retries_503_every_ten_seconds(self, get: Mock, sleep: Mock) -> None:
+        unavailable = Mock(status_code=503)
+        successful = Mock(status_code=200, content=SAMPLE_ATOM)
+        get.side_effect = [unavailable, unavailable, successful]
+
+        self.assertEqual(fetch_feed(30), SAMPLE_ATOM)
+        self.assertEqual(get.call_count, 3)
+        self.assertEqual(sleep.call_args_list, [((10,),), ((10,),)])
+
+    @patch("scripts.update_feed.time.sleep")
+    @patch("scripts.update_feed.requests.get")
+    def test_fetch_feed_stops_429_retries_after_one_minute(self, get: Mock, sleep: Mock) -> None:
+        rate_limited = Mock(status_code=429)
+        rate_limited.raise_for_status.side_effect = requests.HTTPError("429 Client Error")
+        get.return_value = rate_limited
+
+        with self.assertRaises(requests.HTTPError):
+            fetch_feed(30)
+
+        self.assertEqual(get.call_count, 5)
+        self.assertEqual(sleep.call_args_list, [((15,),), ((15,),), ((15,),), ((15,),)])
 
 
 if __name__ == "__main__":
