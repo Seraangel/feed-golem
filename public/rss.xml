@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 08:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:31:05 GMT</lastBuildDate>
+    <item>
+      <title>Segways Navimow i210 Lidar Pro im Test: Rasenmähen ohne Mast und mit wenig Mühe</title>
+      <link>https://www.golem.de/news/segways-navimow-i210-lidar-pro-im-test-rasenmaehen-ohne-mast-und-mit-wenig-muehe-2609-212380.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/segways-navimow-i210-lidar-pro-im-test-rasenmaehen-ohne-mast-und-mit-wenig-muehe-2609-212380.html</guid>
+      <description>Der Segway Navimow i210 Lidar Pro verzichtet auf eine externe Satellitenantenne und kartiert den Garten mit Laser und Kamera. Golem hat geprüft, wie viel Arbeit der Mähroboter Gartenbesitzern abnimmt. Ein Test von Achim Sawall und Martin Wolf (Mähroboter, Test)</description>
+      <pubDate>Tue, 01 Sep 2026 08:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Star Wars: Zero-Company-Macher schickt Großteil des Teams in unbezahlten Urlaub</title>
       <link>https://www.golem.de/news/star-wars-zero-company-macher-schickt-grossteil-des-teams-in-unbezahlten-urlaub-2609-212482.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tech-asia-google-s-china-shift-and-the-battle-over-ai-models-2608-212284.html</guid>
       <description>The inside story on the Asia tech trends that matter, from Nikkei Asia and the Financial Times (TSMC, Google)</description>
       <pubDate>Tue, 25 Aug 2026 16:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bigsky SF-2U870: Sifive zeigt eigenen RISC-V-Server</title>
-      <link>https://www.golem.de/news/bigsky-sf-2u870-sifive-zeigt-eigenen-risc-v-server-2608-212276.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bigsky-sf-2u870-sifive-zeigt-eigenen-risc-v-server-2608-212276.html</guid>
-      <description>Mit 32 Kernen und Cuda soll die RISC-V-Plattform für KI-Server interessant sein. Fertigung in einem älteren Prozess soll den Preis attraktiv machen. (RISCV, Prozessor)</description>
-      <pubDate>Tue, 25 Aug 2026 15:45:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
