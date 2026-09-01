@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 07:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 07:26:02 GMT</lastBuildDate>
+    <item>
+      <title>Android-ROM: GrapheneOS-Macher lästern über Pixel 11</title>
+      <link>https://www.golem.de/news/android-rom-grapheneos-macher-laestern-ueber-pixel-11-2609-212479.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/android-rom-grapheneos-macher-laestern-ueber-pixel-11-2609-212479.html</guid>
+      <description>Google hat bei der Pixel-11-Serie eine für GrapheneOS elementare Funktion deaktiviert - die neuen Modelle werden nicht unterstützt. (GrapheneOS, Smartphone)</description>
+      <pubDate>Tue, 01 Sep 2026 07:22:11 GMT</pubDate>
+    </item>
     <item>
       <title>Deutschland noch ausgenommen: Google erhöht Preise für Smart-Home- und Streaminggeräte deutlich</title>
       <link>https://www.golem.de/news/deutschland-noch-ausgenommen-google-erhoeht-preise-fuer-smart-home-und-streaminggeraete-deutlich-2609-212478.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/e-mail-adresse-verbergen-apple-belaesst-privacy-funktion-auf-icloud-com-domain-2608-212281.html</guid>
       <description>Apple setzt die geplanten Änderungen für das Verbergen von E-Mail-Adressen aus, hält aber an den Änderungen von Anmelden mit Apple fest. (Apple, E-Mail)</description>
       <pubDate>Tue, 25 Aug 2026 15:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonomes Fahren: Waymo bringt Robotaxi-Dienst nach München</title>
-      <link>https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-waymo-bringt-robotaxi-dienst-nach-muenchen-2608-212286.html</guid>
-      <description>Die Google-Schwesterfirma Waymo bietet ihren Robotaxi-Dienst künftig in München an. Vor dem Start werden zunächst ein Jahr lang Daten gesammelt. (Waymo, Elektroauto)</description>
-      <pubDate>Tue, 25 Aug 2026 15:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
