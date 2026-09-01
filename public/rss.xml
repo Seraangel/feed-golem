@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 11:26:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:31:06 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Metabase Datenbank-Leck: Passwort-Reset - und die Zugangsdaten aller Datenbanken sind weg</title>
+      <link>https://www.golem.de/news/metabase-datenbank-leck-passwort-reset-und-die-zugangsdaten-aller-datenbanken-sind-weg-2609-212483.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/metabase-datenbank-leck-passwort-reset-und-die-zugangsdaten-aller-datenbanken-sind-weg-2609-212483.html</guid>
+      <description>Eine SQL-Lücke in Metabase liefert die Zugangsdaten aller angebundenen Datenbanken. Worauf es jetzt ankommt. Ein Ratgebertext von Steffen Zahn (Security, Datenbank)</description>
+      <pubDate>Tue, 01 Sep 2026 11:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>SweepLED: 6-Euro-Aufsatz für Smartphones kann versteckte Kameras entdecken</title>
       <link>https://www.golem.de/news/sweepled-6-euro-aufsatz-fuer-smartphones-kann-versteckte-kameras-entdecken-2609-212498.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-fuehrungskraefte-nutzen-ki-trotz-sicherheitsrisiken-2608-212302.html</guid>
       <description>Eine Umfrage zeigt erhebliche Unterschiede bei der KI-Nutzung und dem Umgang mit vertraulichen Daten im Büro. (Security, Studien)</description>
       <pubDate>Wed, 26 Aug 2026 07:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spielekonsole: Lenovo bestätigt Bios-Update als Ursache für kaputte Legion Go</title>
-      <link>https://www.golem.de/news/spielekonsole-lenovos-bios-update-macht-legion-go-kaputt-2608-212301.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/spielekonsole-lenovos-bios-update-macht-legion-go-kaputt-2608-212301.html</guid>
-      <description>Ein User musste wohl mehrere Hundert Euro für eine Reparatur zahlen, obwohl selbst Lenovo einen Fehler im Bios-Update eingesteht. (Mobile Endgeräte, Lenovo)</description>
-      <pubDate>Wed, 26 Aug 2026 07:28:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
