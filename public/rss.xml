@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 31 Aug 2026 17:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:20:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Identity- und Access-Management mit Keycloak absichern</title>
+      <link>https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-212470.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-212470.html</guid>
+      <description>Identity- und Access-Management wird zunehmend komplex, etwa bei Single Sign-On und Multi-Faktor-Authentifizierung. Ein Workshop vermittelt den sicheren Umgang mit Keycloak. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 01 Sep 2026 05:15:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Referenz Over-Ear-Kopfhörer Sony WH-1000XM6 jetzt wieder zum Tiefpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-referenz-over-ear-kopfhoerer-sony-wh-1000xm6-jetzt-wieder-zum-tiefpreis-bei-amazon-2608-212461.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/teils-erhebliche-wissensluecken-deutsche-kryptoanleger-unterschaetzen-bitcoin-risiken-2608-212274.html</guid>
       <description>Rund die Hälfte der Kryptoanleger in Deutschland hat schwerwiegende Wissenslücken zur Funktionsweise und zu Risiken von Bitcoin. (Bitcoin, Wirtschaft)</description>
       <pubDate>Tue, 25 Aug 2026 13:37:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Samsungs Ultra-Smartphone und Ultra Watch bei o2 zum Sparpreis</title>
-      <link>https://www.golem.de/news/anzeige-samsungs-ultra-smartphone-und-ultra-watch-bei-o2-zum-sparpreis-2608-212273.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-samsungs-ultra-smartphone-und-ultra-watch-bei-o2-zum-sparpreis-2608-212273.html</guid>
-      <description>Bei o2 sind Highend-Produkte von Samsung im Tarif besonders günstig. Das Galaxy Ultra und die Watch Ultra 2 gibt es für 1 Euro. (O2, Samsung)</description>
-      <pubDate>Tue, 25 Aug 2026 12:38:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
