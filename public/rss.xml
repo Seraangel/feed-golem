@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 06:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 06:25:18 GMT</lastBuildDate>
+    <item>
+      <title>Suchmaschine: Google testet komplette KI-Antworten direkt in der Suche</title>
+      <link>https://www.golem.de/news/suchmaschine-google-testet-komplette-ki-antworten-direkt-in-der-suche-2609-212475.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/suchmaschine-google-testet-komplette-ki-antworten-direkt-in-der-suche-2609-212475.html</guid>
+      <description>Google testet eine automatische Erweiterung von AI Overviews. Das verschiebt organische Suchergebnisse weiter nach unten. (Google, KI)</description>
+      <pubDate>Tue, 01 Sep 2026 06:22:06 GMT</pubDate>
+    </item>
     <item>
       <title>Weltweite Ausfälle: Großstörung legt mehrere Microsoft-Dienste lahm</title>
       <link>https://www.golem.de/news/weltweite-ausfaelle-grossstoerung-legt-mehrere-microsoft-dienste-lahm-2609-212476.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/neue-apple-desktops-vorgestellt-mac-mini-bekommt-m6-und-der-mac-studio-512-gbyte-ram-2608-212283.html</guid>
       <description>Apple aktualisiert den Mac Mini und den Mac Studio mit deutlich mehr Leistung für lokale KI-Anwendungen. (Apple, Prozessor)</description>
       <pubDate>Tue, 25 Aug 2026 14:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Playstation Dualsense Edge Pro-Controller bei Amazon so günstig wie nie</title>
-      <link>https://www.golem.de/news/anzeige-playstation-dualsense-edge-pro-controller-bei-amazon-so-guenstig-wie-nie-2608-212279.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-playstation-dualsense-edge-pro-controller-bei-amazon-so-guenstig-wie-nie-2608-212279.html</guid>
-      <description>Sonys Dualsense Edge für die Playstation 5 fällt auf einen neuen Amazon-Tiefstpreis und kostet beim Onlinehändler im Angebot nur 159,99 Euro. (Playstation 5, Gamescom)</description>
-      <pubDate>Tue, 25 Aug 2026 14:30:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
