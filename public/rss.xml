@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 06:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 06:50:20 GMT</lastBuildDate>
+    <item>
+      <title>Bildung: Hessen führt KI und Digitale Welt als neues Schulfach ein</title>
+      <link>https://www.golem.de/news/bildung-hessen-fuehrt-ki-und-digitale-welt-als-neues-schulfach-ein-2609-212477.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bildung-hessen-fuehrt-ki-und-digitale-welt-als-neues-schulfach-ein-2609-212477.html</guid>
+      <description>Hessen nimmt Kürzungspläne zurück, stellt 680 Stellen bereit und führt das Pflichtfach KI und Digitale Welt schrittweise ein. (Schulen, Politik)</description>
+      <pubDate>Tue, 01 Sep 2026 06:46:08 GMT</pubDate>
+    </item>
     <item>
       <title>Suchmaschine: Google testet komplette KI-Antworten direkt in der Suche</title>
       <link>https://www.golem.de/news/suchmaschine-google-testet-komplette-ki-antworten-direkt-in-der-suche-2609-212475.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-workstation-neuer-mac-studio-bekommt-m5-ultra-und-viel-ram-2608-212285.html</guid>
       <description>Viele CPU- und GPU-Kerne sowie viel Speicher bringen große KI-Modelle auf Apples Mac Studio. Daneben gibt es ein kleineres Modell mit M5 Max. (Apple, Prozessor)</description>
       <pubDate>Tue, 25 Aug 2026 14:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neue Apple-Desktops vorgestellt: Mac Mini bekommt M6 und der Mac Studio 512 GByte RAM</title>
-      <link>https://www.golem.de/news/neue-apple-desktops-vorgestellt-mac-mini-bekommt-m6-und-der-mac-studio-512-gbyte-ram-2608-212283.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neue-apple-desktops-vorgestellt-mac-mini-bekommt-m6-und-der-mac-studio-512-gbyte-ram-2608-212283.html</guid>
-      <description>Apple aktualisiert den Mac Mini und den Mac Studio mit deutlich mehr Leistung für lokale KI-Anwendungen. (Apple, Prozessor)</description>
-      <pubDate>Tue, 25 Aug 2026 14:41:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
