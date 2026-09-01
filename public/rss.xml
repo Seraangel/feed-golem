@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 09:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:26:16 GMT</lastBuildDate>
+    <item>
+      <title>AISI Deutschland: KI-Institut soll Gefahren von KI-Modellen bewerten</title>
+      <link>https://www.golem.de/news/aisi-deutschland-ki-institut-soll-gefahren-von-ki-modellen-bewerten-2609-212488.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/aisi-deutschland-ki-institut-soll-gefahren-von-ki-modellen-bewerten-2609-212488.html</guid>
+      <description>Die Bundesregierung sieht in KI-Systemen auch Gefahren für die nationale Sicherheit. BSI und Bundesnetzagentur sollen nun KI-Modelle bewerten. (KI, Politik)</description>
+      <pubDate>Tue, 01 Sep 2026 09:23:10 GMT</pubDate>
+    </item>
     <item>
       <title>Passwörter geleakt: Berliner Senatsverwaltungen schränken Homeoffice ein</title>
       <link>https://www.golem.de/news/passwoerter-geleakt-berliner-senatsverwaltungen-schraenken-homeoffice-ein-2609-212485.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-balkonkraftwerk-mit-1-000-watt-faellt-bei-amazon-befristet-auf-230-euro-2608-212290.html</guid>
       <description>Ein Balkonkraftwerk mit zwei bifazialen Modulen zu je 500 Wattpeak ist auf knapp unter 230 Euro gefallen. Der Kurs gilt bis Sonntag. (Balkonkraftwerk, Technik/Hardware)</description>
       <pubDate>Tue, 25 Aug 2026 16:57:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Zero Trust in Microsoft 365 richtig umsetzen</title>
-      <link>https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-richtig-umsetzen-2608-212247.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-richtig-umsetzen-2608-212247.html</guid>
-      <description>Klassische Netzwerkgrenzen verlieren an Bedeutung. Ein Workshop zeigt, wie Unternehmen ihre Microsoft-365-Umgebung nach dem Zero-Trust-Prinzip absichern. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 25 Aug 2026 16:45:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
