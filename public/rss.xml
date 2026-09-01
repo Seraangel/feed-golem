@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 08:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:11:06 GMT</lastBuildDate>
+    <item>
+      <title>Passwörter geleakt: Berliner Senatsverwaltungen schränken Homeoffice ein</title>
+      <link>https://www.golem.de/news/passwoerter-geleakt-berliner-senatsverwaltungen-schraenken-homeoffice-ein-2609-212485.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/passwoerter-geleakt-berliner-senatsverwaltungen-schraenken-homeoffice-ein-2609-212485.html</guid>
+      <description>Nach einem Cyberangriff auf die Berliner Landes-IT werden die VPN-Zugänge der Mitarbeiter gekappt. Der Grund: Passwörter sind an die Öffentlichkeit gelangt. (Cybercrime, Cyberwar)</description>
+      <pubDate>Tue, 01 Sep 2026 09:10:07 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI: Apple legt neue Beweise für Diebstahl von Geschäftsgeheimnissen vor</title>
       <link>https://www.golem.de/news/openai-apple-legt-neue-beweise-fuer-diebstahl-von-geschaeftsgeheimnissen-vor-2609-212486.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-richtig-umsetzen-2608-212247.html</guid>
       <description>Klassische Netzwerkgrenzen verlieren an Bedeutung. Ein Workshop zeigt, wie Unternehmen ihre Microsoft-365-Umgebung nach dem Zero-Trust-Prinzip absichern. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Tue, 25 Aug 2026 16:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bis zu 115.000 Stellen: VW-Betriebsrat befürchtet hohe Jobverluste in Deutschland</title>
-      <link>https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bis-zu-115-000-stellen-vw-betriebsrat-befuerchtet-hohe-jobverluste-in-deutschland-2608-212289.html</guid>
-      <description>VW-Chef Oliver Blume deutet die Streichung von weiteren 25.000 Stellen bei VW in Deutschland an. Die Schließung von vier Werken ist nicht vom Tisch. (VW, Elektroauto)</description>
-      <pubDate>Tue, 25 Aug 2026 16:40:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
