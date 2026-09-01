@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 10:31:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:46:08 GMT</lastBuildDate>
+    <item>
+      <title>Unibleed: Wenn ein Wurm reihenweise Roboter kompromittieren kann</title>
+      <link>https://www.golem.de/news/unibleed-wenn-ein-wurm-reihenweise-roboter-kompromittieren-kann-2609-212495.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/unibleed-wenn-ein-wurm-reihenweise-roboter-kompromittieren-kann-2609-212495.html</guid>
+      <description>Ein Forscher hat die Firmware eines humanoiden Roboters auf Schwachstellen untersucht. Angreifer hätten wohl ganze Roboterarmeen kapern können. (Sicherheitslücke, WLAN)</description>
+      <pubDate>Tue, 01 Sep 2026 10:44:07 GMT</pubDate>
+    </item>
     <item>
       <title>Smart Home: Ikea bringt smartes Heizkörper-Thermostat zum günstigen Preis</title>
       <link>https://www.golem.de/news/smart-home-ikea-bringt-smartes-heizkoerper-thermostat-zum-guenstigen-preis-2609-212493.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/vorschau-metro-2039-zurueck-in-der-hoelle-unter-moskau-2608-212170.html</guid>
       <description>Golem hat Metro 2039 mehrere Stunden gespielt. Die Rückkehr nach Moskau ist düster, brutal - und vielversprechend. Von Peter Steinlechner (Metro, Spiele)</description>
       <pubDate>Wed, 26 Aug 2026 07:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Studie: 35 Prozent neuer Webseiten zeigen Spuren von künstlicher Intelligenz</title>
-      <link>https://www.golem.de/news/studie-35-prozent-neuer-webseiten-zeigen-spuren-von-kuenstlicher-intelligenz-2608-212300.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/studie-35-prozent-neuer-webseiten-zeigen-spuren-von-kuenstlicher-intelligenz-2608-212300.html</guid>
-      <description>Eine Studie des Pew Research Center zeigt einen deutlichen Anstieg KI-generierter Texte seit dem Start von ChatGPT. (Studien, KI)</description>
-      <pubDate>Wed, 26 Aug 2026 06:56:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
