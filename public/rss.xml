@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 05:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:25:17 GMT</lastBuildDate>
+    <item>
+      <title>Betrugsvorwürfe bei Werbepreisen: US-Behörde klagt gegen Amazon wegen Milliardeneinnahmen</title>
+      <link>https://www.golem.de/news/betrugsvorwuerfe-bei-werbepreisen-us-behoerde-klagt-gegen-amazon-wegen-milliardeneinnahmen-2609-212472.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/betrugsvorwuerfe-bei-werbepreisen-us-behoerde-klagt-gegen-amazon-wegen-milliardeneinnahmen-2609-212472.html</guid>
+      <description>Bei der Auktion von Werbung in Suchergebnissen soll Amazon andere Unternehmen jahrelang ausgenutzt haben. Es drohen hohe Strafzahlungen. (Amazon, Onlinewerbung)</description>
+      <pubDate>Tue, 01 Sep 2026 05:20:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Identity- und Access-Management mit Keycloak absichern</title>
       <link>https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-212470.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/eine-plattform-netflix-denkt-ueber-integration-weiterer-streamingdienste-nach-2608-212275.html</guid>
       <description>Bisher hat sich Netflix gegen alternative Streamingdienste auf der Plattform gewehrt. Die Konkurrenz zeigt aber, dass dies gut funktioniert. (Netflix, Streaming)</description>
       <pubDate>Tue, 25 Aug 2026 13:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Teils erhebliche Wissenslücken: Deutsche Kryptoanleger unterschätzen Bitcoin-Risiken</title>
-      <link>https://www.golem.de/news/teils-erhebliche-wissensluecken-deutsche-kryptoanleger-unterschaetzen-bitcoin-risiken-2608-212274.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/teils-erhebliche-wissensluecken-deutsche-kryptoanleger-unterschaetzen-bitcoin-risiken-2608-212274.html</guid>
-      <description>Rund die Hälfte der Kryptoanleger in Deutschland hat schwerwiegende Wissenslücken zur Funktionsweise und zu Risiken von Bitcoin. (Bitcoin, Wirtschaft)</description>
-      <pubDate>Tue, 25 Aug 2026 13:37:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
