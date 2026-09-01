@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 07:51:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 08:21:04 GMT</lastBuildDate>
+    <item>
+      <title>Star Wars: Zero-Company-Macher schickt Großteil des Teams in unbezahlten Urlaub</title>
+      <link>https://www.golem.de/news/star-wars-zero-company-macher-schickt-grossteil-des-teams-in-unbezahlten-urlaub-2609-212482.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/star-wars-zero-company-macher-schickt-grossteil-des-teams-in-unbezahlten-urlaub-2609-212482.html</guid>
+      <description>Trotz guter Verkaufszahlen und starker Kritiken: Beim dem Team hinter Star Wars - Zero Company arbeitet nur noch eine Rumpfmannschaft. (Star Wars, Steam)</description>
+      <pubDate>Tue, 01 Sep 2026 08:19:04 GMT</pubDate>
+    </item>
     <item>
       <title>Lumi-AI: Europas nächster Supercomputer bekommt AMD-Technik</title>
       <link>https://www.golem.de/news/lumi-ai-europas-naechster-supercomputer-bekommt-amd-technik-2609-212480.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bigsky-sf-2u870-sifive-zeigt-eigenen-risc-v-server-2608-212276.html</guid>
       <description>Mit 32 Kernen und Cuda soll die RISC-V-Plattform für KI-Server interessant sein. Fertigung in einem älteren Prozess soll den Preis attraktiv machen. (RISCV, Prozessor)</description>
       <pubDate>Tue, 25 Aug 2026 15:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Kopfhörer mit ANC und Dolby Audio zum Sparpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-kopfhoerer-mit-anc-und-dolby-audio-zum-sparpreis-bei-amazon-2608-212278.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kopfhoerer-mit-anc-und-dolby-audio-zum-sparpreis-bei-amazon-2608-212278.html</guid>
-      <description>Amazon hat die Kopfhörer Soundcore Liberty 5 im Angebot, die mit adaptivem ANC, Dolby Audio und LDAC ungestörten Hi-Res-Sound liefern. (Kopfhörer, Audio/Video)</description>
-      <pubDate>Tue, 25 Aug 2026 15:35:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
