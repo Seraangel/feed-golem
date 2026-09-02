@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 06:01:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 06:31:07 GMT</lastBuildDate>
+    <item>
+      <title>Datenklau aus der Cloud: Tausende Dropbox-Konten über Lenovo-Bug kompromittiert</title>
+      <link>https://www.golem.de/news/datenklau-aus-der-cloud-tausende-dropbox-konten-ueber-lenovo-bug-kompromittiert-2609-212522.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/datenklau-aus-der-cloud-tausende-dropbox-konten-ueber-lenovo-bug-kompromittiert-2609-212522.html</guid>
+      <description>Angreifer hatten Zugriff auf Dropbox-Inhalte von etwa 5.000 Nutzern. Ursache war eine Sicherheitslücke in einer alten Lenovo-Integration. (Dropbox, Lenovo)</description>
+      <pubDate>Wed, 02 Sep 2026 06:27:04 GMT</pubDate>
+    </item>
     <item>
       <title>Politik: Hamburg fordert Verbot von Smart Glasses</title>
       <link>https://www.golem.de/news/politik-hamburg-fordert-verbot-von-smart-glasses-2609-212520.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/militaer-israels-verteidigungsminister-fordert-waffensysteme-im-weltraum-2608-212316.html</guid>
       <description>Realität werden die Forderungen vermutlich nicht, da technische und finanzielle Hürden im Weg stehen. (Militär, Raumfahrt)</description>
       <pubDate>Wed, 26 Aug 2026 13:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Star Wars im Test: Zero Company ist Zug für Zug galaktisch gut</title>
-      <link>https://www.golem.de/news/star-wars-im-test-zero-company-ist-zug-fuer-zug-galaktisch-gut-2608-212292.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/star-wars-im-test-zero-company-ist-zug-fuer-zug-galaktisch-gut-2608-212292.html</guid>
-      <description>Starke Rundentaktik, sympathische Söldner und überraschend viel Tiefe: Zero Company ist eines der besten Star-Wars-Spiele der vergangenen Jahre. Ein Test von Peter Steinlechner (Star Wars, Spieletest)</description>
-      <pubDate>Wed, 26 Aug 2026 13:00:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
