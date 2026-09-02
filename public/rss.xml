@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 08:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:46:08 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia: DLSS 5 bringt nächste Stufe der KI-Grafik ins Spiel</title>
+      <link>https://www.golem.de/news/nvidia-dlss-5-bringt-naechste-stufe-der-ki-grafik-ins-spiel-2609-212530.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvidia-dlss-5-bringt-naechste-stufe-der-ki-grafik-ins-spiel-2609-212530.html</guid>
+      <description>Nach inoffiziellen Experimenten erscheint DLSS 5 regulär. Die Technik verändert mit generativer KI Beleuchtung, Haut, Haare und Materialien. (DLSS, Nvidia)</description>
+      <pubDate>Wed, 02 Sep 2026 08:42:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: AUTO-VOX-Rückfahrkamera mit großem Bildschirm und KI-Erkennung zum neuen Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-auto-vox-rueckfahrkamera-mit-grossem-bildschirm-und-ki-erkennung-zum-neuen-amazon-bestpreis-2609-212529.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wissensarbeit-perplexities-lokaler-ki-agent-soll-hermes-und-pi-uebertreffen-2608-212336.html</guid>
       <description>Agenten bräuchten für lokale KI eine andere Abstimmung, erklärt Perplexity, und liefert Modell und Agent. Uneigennützig ist das nicht. (Perplexity, Grafikkarten)</description>
       <pubDate>Wed, 26 Aug 2026 15:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Golem Advanced-PC zur Gamescom mit Geschenken im Wert von rund 180 Euro</title>
-      <link>https://www.golem.de/news/anzeige-golem-advanced-pc-zur-gamescom-mit-geschenken-im-wert-von-rund-180-euro-2608-212331.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-golem-advanced-pc-zur-gamescom-mit-geschenken-im-wert-von-rund-180-euro-2608-212331.html</guid>
-      <description>Der Golem Advanced-PC mit RTX 5070 Ti, 40 Euro Rabatt, Gratis-Hardware und Control Resonant gratis dazu. (PC, Gamescom)</description>
-      <pubDate>Wed, 26 Aug 2026 15:35:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
