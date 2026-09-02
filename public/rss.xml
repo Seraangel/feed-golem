@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 08:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 08:51:07 GMT</lastBuildDate>
+    <item>
+      <title>Möglicher Anschlag: Störung an Umspannwerk erzwingt Kraftwerksabschaltung</title>
+      <link>https://www.golem.de/news/moeglicher-anschlag-stoerung-an-umspannwerk-erzwingt-kraftwerksabschaltung-2609-212533.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/moeglicher-anschlag-stoerung-an-umspannwerk-erzwingt-kraftwerksabschaltung-2609-212533.html</guid>
+      <description>Dienstagabend ist es zu einem Erdschluss an Kraftwerksleitungen gekommen. Nach jetzigem Stand wird ein technischer Defekt ausgeschlossen. (Energie &amp; Klima, Drohne)</description>
+      <pubDate>Wed, 02 Sep 2026 08:47:05 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia: DLSS 5 bringt nächste Stufe der KI-Grafik ins Spiel</title>
       <link>https://www.golem.de/news/nvidia-dlss-5-bringt-naechste-stufe-der-ki-grafik-ins-spiel-2609-212530.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/resonance-im-test-ein-abenteuer-voller-raetsel-fallen-und-grosser-momente-2608-212065.html</guid>
       <description>Resonance: A Plague Tale Legacy erzählt die Vorgeschichte der Schmugglerin Sophia und liefert ein starkes Action-Adventure ab. Ein Test von Peter Steinlechner (A Plague Tale, Spieletest)</description>
       <pubDate>Wed, 26 Aug 2026 16:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wissensarbeit: Perplexitys lokaler KI-Agent soll Hermes und Pi übertreffen</title>
-      <link>https://www.golem.de/news/wissensarbeit-perplexities-lokaler-ki-agent-soll-hermes-und-pi-uebertreffen-2608-212336.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wissensarbeit-perplexities-lokaler-ki-agent-soll-hermes-und-pi-uebertreffen-2608-212336.html</guid>
-      <description>Agenten bräuchten für lokale KI eine andere Abstimmung, erklärt Perplexity, und liefert Modell und Agent. Uneigennützig ist das nicht. (Perplexity, Grafikkarten)</description>
-      <pubDate>Wed, 26 Aug 2026 15:49:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
