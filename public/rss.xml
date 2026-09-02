@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 10:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 10:21:10 GMT</lastBuildDate>
+    <item>
+      <title>Truesource: Broadcom will die Software-Welt sicherer machen</title>
+      <link>https://www.golem.de/news/truesource-broadcom-will-die-software-welt-sicherer-machen-2609-212537.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/truesource-broadcom-will-die-software-welt-sicherer-machen-2609-212537.html</guid>
+      <description>Broadcom will vertrauenswürdige Builds von Open-Source-Software anbieten. Eigene Entwickler sollen mit KI-Unterstützung Sicherheitslücken stopfen. (Software, MySQL)</description>
+      <pubDate>Wed, 02 Sep 2026 10:17:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Lego Barad-dur bei Amazon 69 Euro günstiger und zum aktuellen Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-lego-barad-dur-bei-amazon-69-euro-guenstiger-und-zum-aktuellen-bestpreis-2609-212543.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/usa-beauftragen-core-power-atomare-us-handelsflotte-gegen-chinas-schiffsindustrie-2608-212296.html</guid>
       <description>Die USA planen eine atomgetriebene Handelsflotte, um Chinas Vorherrschaft im Schiffbau herauszufordern. (Schifffahrt, Wirtschaft)</description>
       <pubDate>Thu, 27 Aug 2026 06:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Höhenwindkraft: Fliegende Windkraftanlage erzeugt Strom in 4.000 Metern Höhe</title>
-      <link>https://www.golem.de/news/hoehenwindkraft-fliegende-windkraftanlage-erzeugt-strom-in-4-000-metern-hoehe-2608-212345.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hoehenwindkraft-fliegende-windkraftanlage-erzeugt-strom-in-4-000-metern-hoehe-2608-212345.html</guid>
-      <description>Ein chinesischer Prototyp hat in 4.000 Metern Höhe Strom erzeugt. Das System nutzt heliumgefüllte Flugkörper zur Energiegewinnung. (Energiewende, Windpark)</description>
-      <pubDate>Thu, 27 Aug 2026 06:38:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
