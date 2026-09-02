@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 15:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:26:09 GMT</lastBuildDate>
+    <item>
+      <title>Kerze an, Computer an: Bastelcomputer wird mit Stirlingmotor angetrieben</title>
+      <link>https://www.golem.de/news/kerze-an-computer-an-bastelcomputer-wird-mit-stirlingmotor-angetrieben-2609-212568.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kerze-an-computer-an-bastelcomputer-wird-mit-stirlingmotor-angetrieben-2609-212568.html</guid>
+      <description>Statt für ein herkömmliches Netzteil hat sich ein Youtuber bei einem Bastelrechner für eine alternative Energiequelle von 1816 entschieden. (Bastelrechner, OLED)</description>
+      <pubDate>Wed, 02 Sep 2026 15:24:16 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Tablet Amazon Fire Max 11 mit Alexa stark reduziert</title>
       <link>https://www.golem.de/news/anzeige-tablet-amazon-fire-max-11-mit-alexa-stark-reduziert-2609-212564.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/aktionaersklage-us-klage-koennte-telekom-10-milliarden-kosten-2608-212367.html</guid>
       <description>US-Aktionäre möchten mehr Geld aus der Sprint-Übernahme herausholen. "We give them nothing!!!", soll Telekom-Chef Tim Höttges geschrieben haben. (Timotheus Höttges, Telekom)</description>
       <pubDate>Thu, 27 Aug 2026 13:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jalapeño und Nvidias Zukunft: Wenn die besten Kunden Chips selbst bauen</title>
-      <link>https://www.golem.de/news/jalapeno-und-nvidias-zukunft-wenn-die-besten-kunden-chips-selbst-bauen-2608-212362.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/jalapeno-und-nvidias-zukunft-wenn-die-besten-kunden-chips-selbst-bauen-2608-212362.html</guid>
-      <description>Immer mehr Nvidia-Kunden bauen eigene Chips. Das klingt bedrohlicher, als es vorerst ist, zumal sich Nvidia absichert. Der Umsatz hält, die Marge nicht. Eine Analyse von Björn Meschkat (Nvidia, KI)</description>
-      <pubDate>Thu, 27 Aug 2026 13:00:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
