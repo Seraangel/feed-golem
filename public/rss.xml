@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 11:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:31:08 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Selbstständigkeit: Warum das Vermittler-Modell für IT-Freelancer zum Risiko wird</title>
+      <link>https://www.golem.de/news/selbststaendigkeit-warum-das-vermittler-modell-fuer-it-freelancer-zum-risiko-wird-2609-212548.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/selbststaendigkeit-warum-das-vermittler-modell-fuer-it-freelancer-zum-risiko-wird-2609-212548.html</guid>
+      <description>Marktdruck und Scheinselbstständigkeit setzen IT-Freelancer unter Druck, sie sollten ihre Abhängigkeit vom Vermittler-Modell reduzieren. Wir erklären, wie. Ein Ratgebertext von Pierre Wilken (Arbeit, Wirtschaft)</description>
+      <pubDate>Wed, 02 Sep 2026 11:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Actioncams: Gopro soll in KI und Rüstung expandieren</title>
       <link>https://www.golem.de/news/actioncams-gopro-soll-in-ki-und-ruestung-expandieren-2609-212546.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-hugging-face-brisante-neue-details-zum-ki-hack-von-openai-enthuellt-2608-212350.html</guid>
       <description>KI-Agenten von OpenAI haben im Juli Systeme von Hugging Face infiltriert. Jetzt ist bekannt geworden, was sie dort wollten und wie sie sich koordinierten. (OpenAI, KI)</description>
       <pubDate>Thu, 27 Aug 2026 09:23:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Xbox digitalisiert Discs - ein Detail bleibt rätselhaft</title>
-      <link>https://www.golem.de/news/microsoft-xbox-digitalisiert-discs-ein-detail-bleibt-raetselhaft-2608-212352.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-xbox-digitalisiert-discs-ein-detail-bleibt-raetselhaft-2608-212352.html</guid>
-      <description>Wie die Xbox einzelne Datenträger erkennt, verrät der Konzern nicht. Technisch gibt es aber plausible Antworten. (Xbox, Microsoft)</description>
-      <pubDate>Thu, 27 Aug 2026 08:55:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
