@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 11:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 11:11:07 GMT</lastBuildDate>
+    <item>
+      <title>Kunst und Kultur: Münchner Buchmesse verbietet KI-verfasste Bücher</title>
+      <link>https://www.golem.de/news/kunst-und-kultur-muenchner-buchmesse-verbietet-ki-verfasste-buecher-2609-212545.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kunst-und-kultur-muenchner-buchmesse-verbietet-ki-verfasste-buecher-2609-212545.html</guid>
+      <description>Auch Bücher, die nur in Teilen KI-geschrieben wurden, sind auf der Veranstaltung unerwünscht. Der Kreativprozess soll vom Menschen ausgehen. (KI, Software)</description>
+      <pubDate>Wed, 02 Sep 2026 11:10:07 GMT</pubDate>
+    </item>
     <item>
       <title>Gemini: Pixel-Smartphones bekommen Geräteeinstellungen per Sprache</title>
       <link>https://www.golem.de/news/gemini-pixel-smartphones-bekommen-geraeteeinstellungen-per-sprache-2609-212544.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/240-megawatt-schwarz-digits-plant-weiteres-rechenzentrum-in-deutschland-2608-212351.html</guid>
       <description>Nach Lübbenau wird Schwarz Digits nun auch in der Nähe von Rostock ein Rechenzentrum errichten. Windkraft soll intensiv genutzt werden. (Souveränität, KI)</description>
       <pubDate>Thu, 27 Aug 2026 08:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Markenwirrwarr: Microsoft macht aus der 365-Roadmap die AI at Work Roadmap</title>
-      <link>https://www.golem.de/news/markenwirrwarr-microsoft-macht-aus-der-365-roadmap-die-ai-at-work-roadmap-2608-212348.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/markenwirrwarr-microsoft-macht-aus-der-365-roadmap-die-ai-at-work-roadmap-2608-212348.html</guid>
-      <description>Aus der Microsoft 365 Roadmap wird die AI at Work Roadmap. Der Namenswechsel gilt unabhängig vom Lizenzmodell. (Copilot, Microsoft)</description>
-      <pubDate>Thu, 27 Aug 2026 07:30:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
