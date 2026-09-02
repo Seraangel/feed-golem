@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 07:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 07:41:07 GMT</lastBuildDate>
+    <item>
+      <title>Hersteller warnt: Sonicwall-Firewalls werden attackiert</title>
+      <link>https://www.golem.de/news/hersteller-warnt-sonicwall-firewalls-werden-attackiert-2609-212525.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hersteller-warnt-sonicwall-firewalls-werden-attackiert-2609-212525.html</guid>
+      <description>Angreifer haben es auf Firewalls von Sonicwall abgesehen. Sie nutzen laut Hersteller zwei gefährliche Lücken aus. Admins sollten dringend handeln. (Sicherheitslücke, Server)</description>
+      <pubDate>Wed, 02 Sep 2026 07:40:07 GMT</pubDate>
+    </item>
     <item>
       <title>Weltraumsimulation: Wann wird Star Citizen endlich fertig?</title>
       <link>https://www.golem.de/news/weltraumsimulation-wann-wird-star-citizen-endlich-fertig-2609-212466.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-plaene-der-regierung-klingbeil-warnt-vor-gefaehrlicher-ideologie-der-tech-bros-2608-212332.html</guid>
       <description>Auch Bundeskanzler Merz will nicht die besten KI-Modelle für die deutsche Wirtschaft. Souveräne Lösungen für alle Branchen seien wichtiger. (KI, Silicon Valley)</description>
       <pubDate>Wed, 26 Aug 2026 14:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apples Foldable: Leaks zeigen Mainboards des möglichen iPhone Ultra</title>
-      <link>https://www.golem.de/news/apples-foldable-leaks-zeigen-mainboards-des-moeglichen-iphone-ultra-2608-212335.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/apples-foldable-leaks-zeigen-mainboards-des-moeglichen-iphone-ultra-2608-212335.html</guid>
-      <description>In zwei unabhängigen Leaks sind vier Hauptplatinen zu sehen, auf denen unter anderem ein A20-Pro-Chip von Apple Platz findet. (iPhone, Smartphone)</description>
-      <pubDate>Wed, 26 Aug 2026 14:26:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
