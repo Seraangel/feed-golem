@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 01 Sep 2026 16:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 05:16:05 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ansible-Workshop: Konfigurationsmanagement ohne Agent</title>
+      <link>https://www.golem.de/news/anzeige-ansible-workshop-konfigurationsmanagement-ohne-agent-2609-212518.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-workshop-konfigurationsmanagement-ohne-agent-2609-212518.html</guid>
+      <description>Server und Anwendungen manuell zu konfigurieren, kostet Zeit und birgt Fehlerquellen. Ein Workshop der Golem Karrierewelt vermittelt automatisiertes Systemdeployment mit Ansible. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 02 Sep 2026 05:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Azure-Infrastruktur professionell administrieren</title>
       <link>https://www.golem.de/news/anzeige-azure-infrastruktur-professionell-administrieren-2609-212471.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/yxstaby-ikea-und-xbox-schrauben-gaming-moebel-zusammen-2608-212327.html</guid>
       <description>Erstmals arbeiten Ikea und Xbox zusammen und bringen neun Möbelstücke und Accessoires für Gamer auf den Markt. (Xbox, Microsoft)</description>
       <pubDate>Wed, 26 Aug 2026 12:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smartwatch von Garmin zum Aktionspreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-smartwatch-von-garmin-zum-aktionspreis-bei-amazon-2608-212326.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartwatch-von-garmin-zum-aktionspreis-bei-amazon-2608-212326.html</guid>
-      <description>Die Smartwatch Garmin Instinct 3 mit AMOLED-Display, Multiband-GPS, ANT+ und 50-Millimeter-Gehäuse ist bei Amazon reduziert. (Smartwatch, Garmin)</description>
-      <pubDate>Wed, 26 Aug 2026 12:31:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
