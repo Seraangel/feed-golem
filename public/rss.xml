@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 02 Sep 2026 13:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:16:08 GMT</lastBuildDate>
+    <item>
+      <title>Notebook mit 14 Zoll: Acer stellt 800-Gramm-Laptop vor</title>
+      <link>https://www.golem.de/news/notebook-mit-14-zoll-acer-stellt-800-gramm-laptop-vor-2609-212560.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/notebook-mit-14-zoll-acer-stellt-800-gramm-laptop-vor-2609-212560.html</guid>
+      <description>Das Gewicht ist nicht das Einzige, was beim neuen Acer Swift Blade 14 eingespart wird. Es gibt auch weniger RAM als gewohnt. (Acer, Notebook)</description>
+      <pubDate>Wed, 02 Sep 2026 13:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>Sportuhr: Huawei Watch GT 7 Pro wird fast zum Fahrradcomputer</title>
       <link>https://www.golem.de/news/sportuhr-huawei-watch-gt-7-pro-wird-fast-zum-fahrradcomputer-2609-212426.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/urheberrechtsprobleme-webarchiv-des-bundestags-teilweise-gesperrt-2608-212361.html</guid>
       <description>Schon seit Monaten lassen sich ältere Internetseiten des Bundestags nicht mehr aufrufen. Grund sind Nutzungsrechte an verwendeten Fotos. (Deutscher Bundestag, Urheberrecht)</description>
       <pubDate>Thu, 27 Aug 2026 11:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smartphone-Nutzer gefährdet: Angreifer konnten per Anruf Gerätedaten ausspähen</title>
-      <link>https://www.golem.de/news/sicherheitsluecke-beim-mobilfunk-angreifer-haben-per-anruf-geraetedaten-ausgespaeht-2608-212359.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsluecke-beim-mobilfunk-angreifer-haben-per-anruf-geraetedaten-ausgespaeht-2608-212359.html</guid>
-      <description>Reporter haben eine Sicherheitslücke in den Mobilfunknetzen mehrerer Provider entdeckt. Angreifer konnten IMEI-Kennungen und andere Daten abgreifen. (Sicherheitslücke, Smartphone)</description>
-      <pubDate>Thu, 27 Aug 2026 11:04:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
