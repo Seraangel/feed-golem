@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 08:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:11:07 GMT</lastBuildDate>
+    <item>
+      <title>Wordpress: Lücke in Backup-Tool gefährdet Millionen von Websites</title>
+      <link>https://www.golem.de/news/wordpress-luecke-in-backup-tool-gefaehrdet-millionen-von-websites-2609-212585.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wordpress-luecke-in-backup-tool-gefaehrdet-millionen-von-websites-2609-212585.html</guid>
+      <description>In einem Wordpress-Plug-in mit über 5 Millionen Installationen klafft eine gefährliche Sicherheitslücke. Admins sollten dringend handeln. (Sicherheitslücke, Wordpress)</description>
+      <pubDate>Thu, 03 Sep 2026 08:07:07 GMT</pubDate>
+    </item>
     <item>
       <title>Messengerdienste: Ermittler lesen Telegram und Whatsapp ohne Trojaner mit</title>
       <link>https://www.golem.de/news/messengerdienste-ermittler-lesen-telegram-und-whatsapp-ohne-trojaner-mit-2609-212584.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/teampcp-festnahmen-und-razzien-nach-supply-chain-attacken-2608-212384.html</guid>
       <description>Zwei mutmaßliche Mitglieder der Hackergruppe TeamPCP sind verhaftet worden. Sie sollen für Schadcode-Attacken auf zahlreiche Softwareprojekte verantwortlich sein. (Cybercrime, Cyberwar)</description>
       <pubDate>Fri, 28 Aug 2026 07:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Umfrageergebnisse: So steht die Golem-Leserschaft zu KI in Politik und Überwachung</title>
-      <link>https://www.golem.de/news/umfrageergebnisse-so-steht-die-golem-leserschaft-zu-ki-in-politik-und-ueberwachung-2608-212375.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/umfrageergebnisse-so-steht-die-golem-leserschaft-zu-ki-in-politik-und-ueberwachung-2608-212375.html</guid>
-      <description>Die CDU setzt sich für KI in Überwachungskameras ein, während LLMs laut Tests eher linksgerichtet erscheinen. Was sagt die Golem-Community? Von Oliver Nickel (KI, Studien)</description>
-      <pubDate>Fri, 28 Aug 2026 07:00:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
