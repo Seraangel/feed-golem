@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 11:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:51:04 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: USB-C-Kabel mit 60 Watt im Angebot nur 1,57 Euro - Schnell laden, aber Daten nur per USB 2.0</title>
+      <link>https://www.golem.de/news/anzeige-usb-c-kabel-mit-60-watt-im-angebot-nur-1-57-euro-schnell-laden-aber-daten-nur-per-usb-2-0-2609-212609.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-usb-c-kabel-mit-60-watt-im-angebot-nur-1-57-euro-schnell-laden-aber-daten-nur-per-usb-2-0-2609-212609.html</guid>
+      <description>Bei Amazon gibt es für einen Stückpreis von nur 1,57 Euro einen beliebten 4er-Pack USB-C-Schnellladekabel. Doch dieses Angebot gilt nur noch bis Sonntag. (USB PD, Amazon)</description>
+      <pubDate>Thu, 03 Sep 2026 11:49:11 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) KI-Agenten im Entwickleralltag: Vom kleinen Fauxpas zum gravierenden Systemfehler</title>
       <link>https://www.golem.de/news/ki-agenten-im-entwickleralltag-vom-kleinen-fauxpas-zum-gravierenden-systemfehler-2609-212598.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/meta-milliarden-vergleich-verbraucherschuetzer-fordern-social-media-loesung-fuer-deutschland-2608-212406.html</guid>
       <description>Nach dem 18-Milliarden-Dollar-Vergleich von Meta fordern die Verbraucherzentralen hierzulande Jugendschutz. Nachtsperren reichten nicht aus, heißt es. (VZBV, Soziales Netz)</description>
       <pubDate>Fri, 28 Aug 2026 13:21:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speicherbedarf: Cloudflare gibt durch Optimierung 100 Terabyte RAM frei</title>
-      <link>https://www.golem.de/news/speicherbedarf-cloudflare-gibt-durch-optimierung-100-terabyte-ram-frei-2608-212405.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/speicherbedarf-cloudflare-gibt-durch-optimierung-100-terabyte-ram-frei-2608-212405.html</guid>
-      <description>Um den Speicherbedarf im Cloudflare-Netzwerk zu reduzieren, wurde jedes unnötige Byte gespart. (Cloudflare, Unternehmenssoftware)</description>
-      <pubDate>Fri, 28 Aug 2026 13:08:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
