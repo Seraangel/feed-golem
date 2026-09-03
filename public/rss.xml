@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 12:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:31:13 GMT</lastBuildDate>
+    <item>
+      <title>Filmklassiker: Eine Klapperschlange ist keine Kobra</title>
+      <link>https://www.golem.de/news/filmklassiker-eine-klapperschlange-ist-keine-kobra-2609-212552.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/filmklassiker-eine-klapperschlange-ist-keine-kobra-2609-212552.html</guid>
+      <description>New York als riesiges Gefängnis: Mit dem dystopischen Sci-Fi-Film Die Klapperschlange wurde Kurt Russell zum Actionhelden. Die Optik begeistert auch nach 45 Jahren. Von Peter Osteried (Science-Fiction, Film)</description>
+      <pubDate>Thu, 03 Sep 2026 12:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Saugroboter Roborock Saros 10R zum neuen Tiefstpreis</title>
       <link>https://www.golem.de/news/anzeige-saugroboter-roborock-saros-10r-zum-neuen-tiefstpreis-2609-212602.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/klage-gegen-ibm-und-red-hat-us-gericht-entscheidet-im-streit-um-linux-rechte-2608-212410.html</guid>
       <description>Ein Rechtsnachfolger der SCO Group hatte IBM und Red Hat vorgeworfen, unrechtmäßig Code in Linux integriert zu haben. (Linux, IBM)</description>
       <pubDate>Fri, 28 Aug 2026 14:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für bessere Ausbeute: Nvidias Rubin Ultra soll weniger Speicher bekommen</title>
-      <link>https://www.golem.de/news/fuer-bessere-ausbeute-nvidias-rubin-ultra-soll-weniger-speicher-bekommen-2608-212409.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuer-bessere-ausbeute-nvidias-rubin-ultra-soll-weniger-speicher-bekommen-2608-212409.html</guid>
-      <description>Statt regulärem HBM4e will Nvidia auf eigenen NVHBM setzen. Der soll schneller werden, aber eine geringere Kapazität bieten. (3D-Speicher, Grafikkarten)</description>
-      <pubDate>Fri, 28 Aug 2026 13:55:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
