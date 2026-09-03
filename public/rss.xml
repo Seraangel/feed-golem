@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 10:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:21:04 GMT</lastBuildDate>
+    <item>
+      <title>Solarbank Max: Anker präsentiert Heimspeicher mit Solareingangsleistung von 10 kWp</title>
+      <link>https://www.golem.de/news/solarbank-max-anker-praesentiert-heimspeicher-mit-solareingangsleistung-von-10-kwp-2609-212599.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/solarbank-max-anker-praesentiert-heimspeicher-mit-solareingangsleistung-von-10-kwp-2609-212599.html</guid>
+      <description>Ankers neue Solarbank Max kommt mit integriertem Wechselrichter und Speicher und kann über drei MPPTs bis zu 10 kWp Solarleistung aufnehmen. (Ifa 2026, Tracking)</description>
+      <pubDate>Thu, 03 Sep 2026 10:20:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Elektronische Parkscheibe zum Bestpreis für unter 16 Euro</title>
+      <link>https://www.golem.de/news/anzeige-elektronische-parkscheibe-zum-bestpreis-fuer-unter-16-euro-2609-212593.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-elektronische-parkscheibe-zum-bestpreis-fuer-unter-16-euro-2609-212593.html</guid>
+      <description>Das manuelle Einstellen der Parkscheibe entfällt mit elektronischen Modellen vollständig. Amazon bietet die kompakte Needit Park Micro nun besonders günstig an. (Technik/Hardware)</description>
+      <pubDate>Thu, 03 Sep 2026 10:18:04 GMT</pubDate>
+    </item>
     <item>
       <title>SteamDB: Nexus Mods übernimmt die wichtigste Steam-Datenbank</title>
       <link>https://www.golem.de/news/steamdb-nexus-mods-uebernimmt-die-wichtigste-steam-datenbank-2609-212596.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/claude-cowork-videoschnitt-im-test-vier-stunden-fuer-nichts-2608-212369.html</guid>
       <description>Schluss mit stundenlangem Sichten, Sortieren, Zuschneiden? Wir haben getestet, ob Claude Cowork das per Textbefehl übernehmen kann. Das Ergebnis war mehr ein Hm! als ein Oh! Ein Test von Nils Matthiesen (Videobearbeitung, KI)</description>
       <pubDate>Fri, 28 Aug 2026 11:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sticker auf Laptop: Entwickler versteigert Werbeplätze auf seinem Macbook-Deckel</title>
-      <link>https://www.golem.de/news/sticker-auf-laptop-entwickler-versteigert-werbeplaetze-auf-seinem-macbook-deckel-2608-212399.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sticker-auf-laptop-entwickler-versteigert-werbeplaetze-auf-seinem-macbook-deckel-2608-212399.html</guid>
-      <description>Mit den Einnahmen will sich der Entwickler sein neues Macbook Pro finanzieren. Mittlerweile kann er sich schon zwei kaufen. (Macbook, Notebook)</description>
-      <pubDate>Fri, 28 Aug 2026 10:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patch-Defizit in Deutschland: Exploit gefährdet 85 Prozent aller Exchange-Server</title>
-      <link>https://www.golem.de/news/patch-defizit-in-deutschland-exploit-gefaehrdet-85-prozent-aller-exchange-server-2608-212397.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/patch-defizit-in-deutschland-exploit-gefaehrdet-85-prozent-aller-exchange-server-2608-212397.html</guid>
-      <description>Auf Github ist ein Exploit für eine gefährliche Exchange-Lücke aufgetaucht. Einen Patch gibt es zwar, doch den haben in Deutschland nur wenige installiert. (Sicherheitslücke, Microsoft)</description>
-      <pubDate>Fri, 28 Aug 2026 10:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
