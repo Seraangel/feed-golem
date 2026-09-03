@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 07:46:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 08:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Messengerdienste: Ermittler lesen Telegram und Whatsapp ohne Trojaner mit</title>
+      <link>https://www.golem.de/news/messengerdienste-ermittler-lesen-telegram-und-whatsapp-ohne-trojaner-mit-2609-212584.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/messengerdienste-ermittler-lesen-telegram-und-whatsapp-ohne-trojaner-mit-2609-212584.html</guid>
+      <description>Polizei und Zoll koppeln messengerbasierte Zweitgeräte für die Überwachung. Der BGH stellt dafür aber strenge juristische Regeln auf. (Überwachung, Instant Messenger)</description>
+      <pubDate>Thu, 03 Sep 2026 07:57:06 GMT</pubDate>
+    </item>
     <item>
       <title>Formgedächtnislegierung: Wärme wird ohne Strom in Kälte überführt</title>
       <link>https://www.golem.de/news/formgedaechtnislegierung-waerme-wird-ohne-strom-in-kaelte-ueberfuehrt-2609-212583.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/umfrageergebnisse-so-steht-die-golem-leserschaft-zu-ki-in-politik-und-ueberwachung-2608-212375.html</guid>
       <description>Die CDU setzt sich für KI in Überwachungskameras ein, während LLMs laut Tests eher linksgerichtet erscheinen. Was sagt die Golem-Community? Von Oliver Nickel (KI, Studien)</description>
       <pubDate>Fri, 28 Aug 2026 07:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bildbearbeitung: Adobe integriert neuen KI-Assistenten in Photoshop</title>
-      <link>https://www.golem.de/news/bildbearbeitung-adobe-integriert-neuen-ki-assistenten-in-photoshop-2608-212385.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bildbearbeitung-adobe-integriert-neuen-ki-assistenten-in-photoshop-2608-212385.html</guid>
-      <description>Adobe ergänzt Photoshop um den AI Assisted Editor sowie neue Werkzeuge wie Markup und Instruct Edit für präzisere KI-Bearbeitung. (Photoshop, KI)</description>
-      <pubDate>Fri, 28 Aug 2026 06:57:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
