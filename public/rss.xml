@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 14:51:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 15:06:06 GMT</lastBuildDate>
+    <item>
+      <title>Statt RHEL: Cern spart mit Umstieg auf Debian fast 6 Millionen Euro</title>
+      <link>https://www.golem.de/news/statt-rhel-cern-spart-mit-umstieg-auf-debian-fast-6-millionen-euro-2609-212624.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/statt-rhel-cern-spart-mit-umstieg-auf-debian-fast-6-millionen-euro-2609-212624.html</guid>
+      <description>Cern wechselt einmal mehr die Linux-Distribution. Andernfalls müsste viel Hardware ersetzt werden - nicht nur Microsoft sorgt für Obsoleszenz. (Debian, Red Hat)</description>
+      <pubDate>Thu, 03 Sep 2026 15:04:05 GMT</pubDate>
+    </item>
     <item>
       <title>Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher</title>
       <link>https://www.golem.de/news/auto-einfuehrung-von-xiaomis-elektroautos-in-deutschland-rueckt-naeher-2609-212627.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/drohnenabwehr-us-militaer-schiesst-kartelldrohnen-mit-hochenergielaser-ab-2608-212417.html</guid>
       <description>An der Grenze zu Mexiko hat das US-Militär erstmals mutmaßlich von Kartellen eingesetzte Drohnen mit einem Hochenergielaser zerstört. (Militär, Politik)</description>
       <pubDate>Sat, 29 Aug 2026 08:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Mini-Beamer mit Akku, Google TV, Netflix reduziert bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-mini-beamer-mit-akku-google-tv-netflix-reduziert-bei-amazon-2608-212355.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mini-beamer-mit-akku-google-tv-netflix-reduziert-bei-amazon-2608-212355.html</guid>
-      <description>Amazon hat einen smarten Mini-Beamer mit Akku im Angebot, der über Google-TV Zugriff auf Streamingdienste wie Netflix bietet. (Beamer, Google TV)</description>
-      <pubDate>Sat, 29 Aug 2026 08:50:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
