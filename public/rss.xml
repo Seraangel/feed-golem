@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 16:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:46:14 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Entra ID sicher verwalten und härten</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-verwalten-und-haerten-2609-212574.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-verwalten-und-haerten-2609-212574.html</guid>
+      <description>Die sichere Verwaltung von Microsoft Entra ID entscheidet über den Schutz von Cloud-Infrastrukturen. Ein Workshop vermittelt praxisnahes Wissen zu Konfiguration und Härtung. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Thu, 03 Sep 2026 16:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zurück zum Fax: Österreichische Ministerien akzeptieren keine E-Mail-Anfragen</title>
+      <link>https://www.golem.de/news/zurueck-zum-fax-oesterreichische-ministerien-akzeptieren-keine-e-mail-anfragen-2609-212625.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zurueck-zum-fax-oesterreichische-ministerien-akzeptieren-keine-e-mail-anfragen-2609-212625.html</guid>
+      <description>Für Informationsfreiheitsanfragen greift Fragdenstaat in Österreich wieder auf das Fax zurück. (IFG, E-Mail)</description>
+      <pubDate>Thu, 03 Sep 2026 16:42:06 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Opinion: Don't Be Seduced by the Language of AI</title>
       <link>https://www.golem.de/news/opinion-don-t-be-seduced-by-the-language-of-ai-2609-212582.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/id-1-vws-20-000-euro-elektroauto-soll-id-up-heissen-2608-212422.html</guid>
       <description>Volkswagen hat sich wohl bei der Benennung des Kleinwagens für eine bekannte Marke entschieden. Der ID.Up soll weiterhin günstiger bleiben. (Volkswagen ID., Elektroauto)</description>
       <pubDate>Sun, 30 Aug 2026 08:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) LPCAMM2: Wir vergleichen den neuen Arbeitsspeicher mit klassischem SO-DIMM</title>
-      <link>https://www.golem.de/news/lpcamm2-wir-vergleichen-den-neuen-arbeitsspeicher-mit-klassischem-so-dimm-2608-212267.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/lpcamm2-wir-vergleichen-den-neuen-arbeitsspeicher-mit-klassischem-so-dimm-2608-212267.html</guid>
-      <description>LPCAMM2 soll diverse Nachteile ausgleichen, die der bei Laptops verbreitete SO-DIMM-Standard aufweist. Im Test kommen aber Fragen auf. Ein Test von Oliver Nickel (RAM, Test)</description>
-      <pubDate>Sun, 30 Aug 2026 08:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tech-Branche: Vom sympathischen Nerd zum grässlichen Overlord</title>
-      <link>https://www.golem.de/news/tech-branche-vom-sympathischen-nerd-zum-graesslichen-overlord-2608-212407.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/tech-branche-vom-sympathischen-nerd-zum-graesslichen-overlord-2608-212407.html</guid>
-      <description>Grusel-CEOs wie Elon Musk treten die Nerd-Kultur mit Füßen. Zeit, sich zu fragen wie es dazu kommen konnte - und wie wir sie zurückbringen. Ein Essay von Mr. Market (Wirtschaft, Paypal)</description>
-      <pubDate>Sun, 30 Aug 2026 05:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
