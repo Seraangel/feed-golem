@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 09:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:51:13 GMT</lastBuildDate>
+    <item>
+      <title>Trotz Displaysperre: Whatsapp-Lücke lässt Angreifer private Fotos durchstöbern</title>
+      <link>https://www.golem.de/news/trotz-displaysperre-whatsapp-luecke-laesst-angreifer-private-fotos-durchstoebern-2609-212594.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/trotz-displaysperre-whatsapp-luecke-laesst-angreifer-private-fotos-durchstoebern-2609-212594.html</guid>
+      <description>Angreifer können auf einigen Android-Geräten per Videoanruf in Whatsapp Zugriff auf die Galerie erlangen - und das trotz aktiver Displaysperre. (Sicherheitslücke, Smartphone)</description>
+      <pubDate>Thu, 03 Sep 2026 09:49:05 GMT</pubDate>
+    </item>
     <item>
       <title>Gerichtsurteil: Googles Werbegeschäft wird nicht zerschlagen</title>
       <link>https://www.golem.de/news/gerichtsurteil-googles-werbegeschaeft-wird-nicht-zerschlagen-2609-212592.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/luffu-link-fitbit-gruender-bauen-gesundheitsarmband-mit-eigenem-lte-2608-212396.html</guid>
       <description>Das Luffu Link erfasst Gesundheitsdaten und kann dank LTE-M und GPS auch ohne Smartphone Nachrichten verschicken. (Wearable, Fitness)</description>
       <pubDate>Fri, 28 Aug 2026 09:51:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>80 Prozent für Streik: Micron-Angestellte in Taiwan fordern höhere Boni</title>
-      <link>https://www.golem.de/news/80-prozent-fuer-streik-micron-angestellte-in-taiwan-fordern-hoehere-boni-2608-212394.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/80-prozent-fuer-streik-micron-angestellte-in-taiwan-fordern-hoehere-boni-2608-212394.html</guid>
-      <description>Micron-Mitarbeiter in Taiwan wollen wie die Kollegen bei Samsung und SK Hynix am Gewinn beteiligt werden. (Arbeit, TSMC)</description>
-      <pubDate>Fri, 28 Aug 2026 09:22:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
