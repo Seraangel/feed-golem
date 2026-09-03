@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 16:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 16:06:12 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Opinion: Don't Be Seduced by the Language of AI</title>
+      <link>https://www.golem.de/news/opinion-don-t-be-seduced-by-the-language-of-ai-2609-212582.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/opinion-don-t-be-seduced-by-the-language-of-ai-2609-212582.html</guid>
+      <description>The attacks on Hugging Face ran from May to late July, yet the details of what actually happened when OpenAI's artificial-intelligence agents deceived their human overseers and breached the online repository of AI models and datasets are still trickling out. Von Parmy Olson (KI, Elon Musk)</description>
+      <pubDate>Thu, 03 Sep 2026 16:03:03 GMT</pubDate>
+    </item>
     <item>
       <title>Project Swan: Display von Lenovos Laptop fährt zu 21-zu-9-Format aus</title>
       <link>https://www.golem.de/news/project-swan-display-von-lenovos-laptop-faehrt-zu-21-zu-9-format-aus-2609-212621.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tech-branche-vom-sympathischen-nerd-zum-graesslichen-overlord-2608-212407.html</guid>
       <description>Grusel-CEOs wie Elon Musk treten die Nerd-Kultur mit Füßen. Zeit, sich zu fragen wie es dazu kommen konnte - und wie wir sie zurückbringen. Ein Essay von Mr. Market (Wirtschaft, Paypal)</description>
       <pubDate>Sun, 30 Aug 2026 05:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: IT-Jobs in Cloud, Datenbanken und Netzwerktechnik</title>
-      <link>https://www.golem.de/news/anzeige-it-jobs-in-cloud-datenbanken-und-netzwerktechnik-2608-212391.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-cloud-datenbanken-und-netzwerktechnik-2608-212391.html</guid>
-      <description>Sechs neue IT-Stellen in Cloud-Administration, Datenbanktechnik, Netzwerksicherheit und SAP-Entwicklung bei Unternehmen und Behörden. (Golem Karrierewelt, Betriebssysteme)</description>
-      <pubDate>Sun, 30 Aug 2026 05:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
