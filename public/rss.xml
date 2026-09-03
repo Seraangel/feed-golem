@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 06:51:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:01:07 GMT</lastBuildDate>
+    <item>
+      <title>Autoindustrie: "Dann gehen hier die Lichter aus"</title>
+      <link>https://www.golem.de/news/autoindustrie-dann-gehen-hier-die-lichter-aus-2609-212553.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/autoindustrie-dann-gehen-hier-die-lichter-aus-2609-212553.html</guid>
+      <description>Der Strukturwandel in der Auto-Industrie kostet Jobs - bei VW voraussichtlich bis zu 115.000. Vom Jobabbau sind einige Regionen besonders stark betroffen. Eine Analyse von Dirk Kunde (Wirtschaft, Auto)</description>
+      <pubDate>Thu, 03 Sep 2026 07:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Creator: Google vertieft Partnerschaft mit MrBeast</title>
       <link>https://www.golem.de/news/creator-google-vertieft-partnerschaft-mit-mrbeast-2609-212579.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-26-minuten-gta-6-mit-ueberfaellen-schiessereien-und-vice-city-2608-212381.html</guid>
       <description>Ein ausführliches Gameplay-Video auf Netflix zeigt längere Spielszenen aus GTA 6. Rockstar bestätigt erneut den Start am 19. November 2026. (GTA 6, Take-Two)</description>
       <pubDate>Thu, 27 Aug 2026 19:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Mit Claude Code programmieren: Workshop für Entwickler</title>
-      <link>https://www.golem.de/news/anzeige-mit-claude-code-programmieren-workshop-fuer-entwickler-2608-212343.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mit-claude-code-programmieren-workshop-fuer-entwickler-2608-212343.html</guid>
-      <description>KI-gestützte Codegenerierung verändert Entwicklerteams grundlegend. Ein praxisnaher Workshop vermittelt den strukturierten Einsatz agentischer Coding-Tools im Arbeitsalltag. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Thu, 27 Aug 2026 16:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
