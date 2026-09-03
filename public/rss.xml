@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 09:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:41:13 GMT</lastBuildDate>
+    <item>
+      <title>Gerichtsurteil: Googles Werbegeschäft wird nicht zerschlagen</title>
+      <link>https://www.golem.de/news/gerichtsurteil-googles-werbegeschaeft-wird-nicht-zerschlagen-2609-212592.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gerichtsurteil-googles-werbegeschaeft-wird-nicht-zerschlagen-2609-212592.html</guid>
+      <description>Obwohl eine US-Richterin Google eine illegale Monopolstellung auf dem Werbemarkt attestiert hat, hält sie eine Zerschlagung für nicht erforderlich. (Google, Ad-Server)</description>
+      <pubDate>Thu, 03 Sep 2026 09:39:03 GMT</pubDate>
+    </item>
     <item>
       <title>Förderung löst Protest aus: 1Password fördert Linux-Projekt mit 300.000 US-Dollar</title>
       <link>https://www.golem.de/news/foerderung-loest-protest-aus-1password-foerdert-linux-projekt-mit-300-000-us-dollar-2609-212591.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/80-prozent-fuer-streik-micron-angestellte-in-taiwan-fordern-hoehere-boni-2608-212394.html</guid>
       <description>Micron-Mitarbeiter in Taiwan wollen wie die Kollegen bei Samsung und SK Hynix am Gewinn beteiligt werden. (Arbeit, TSMC)</description>
       <pubDate>Fri, 28 Aug 2026 09:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astragon: Police Simulator setzt auf Diensthund und Verfolgungsjagden</title>
-      <link>https://www.golem.de/news/astragon-police-simulator-setzt-auf-diensthund-und-verfolgungsjagden-2608-212393.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/astragon-police-simulator-setzt-auf-diensthund-und-verfolgungsjagden-2608-212393.html</guid>
-      <description>Mehr Action, Unreal Engine 5 und rund 50 Einsätze: Astragon hat einen neuen Police Simulator vorgestellt. (Gamescom 2026, Spiele)</description>
-      <pubDate>Fri, 28 Aug 2026 09:06:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
