@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 09:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 09:16:08 GMT</lastBuildDate>
+    <item>
+      <title>Unbekannte Teilchen: Möglicher Nachweis dunkler Materie</title>
+      <link>https://www.golem.de/news/unbekannte-teilchen-moeglicher-nachweis-dunkler-materie-2609-212590.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/unbekannte-teilchen-moeglicher-nachweis-dunkler-materie-2609-212590.html</guid>
+      <description>Ein Detektor zum Nachweis dunkler Materie konnte in zwei Jahren einen einzelnen Messpunkt liefern. Er passt nicht zur bisher bekannten Materie. (Physik, Neutrino)</description>
+      <pubDate>Thu, 03 Sep 2026 09:12:02 GMT</pubDate>
+    </item>
     <item>
       <title>Bastelprojekte: Modder installieren Windows NT auf Nintendo Gamecube</title>
       <link>https://www.golem.de/news/bastelprojekte-modder-installieren-windows-nt-auf-nintendo-gamecube-2609-212589.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cursor-hacker-bei-cyberangriffen-mittels-ki-agenten-erwischt-2608-212390.html</guid>
       <description>Eine russischsprachige Hackergruppe nutzt offenbar Cursor-Agenten für Ransomware-Attacken. Auch ein deutsches Unternehmen soll betroffen sein. (Cybercrime, KI)</description>
       <pubDate>Fri, 28 Aug 2026 08:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zahlungsdienstleister: Stripe zieht Angebot für Paypal-Übernahme zurück</title>
-      <link>https://www.golem.de/news/zahlungsdienstleister-stripe-zieht-angebot-fuer-paypal-uebernahme-zurueck-2608-212392.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zahlungsdienstleister-stripe-zieht-angebot-fuer-paypal-uebernahme-zurueck-2608-212392.html</guid>
-      <description>Mit dem Übernahmeangebot hat Stripe dazu beigetragen, dass sich der Aktienkurs von Paypal erholt. (Paypal, Börse)</description>
-      <pubDate>Fri, 28 Aug 2026 08:34:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
