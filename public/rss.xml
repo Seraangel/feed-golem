@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 06:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:36:03 GMT</lastBuildDate>
+    <item>
+      <title>Autonomes Fahren: Uber startet erste Robotaxis in London</title>
+      <link>https://www.golem.de/news/autonomes-fahren-uber-startet-erste-robotaxis-in-london-2609-212577.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-uber-startet-erste-robotaxis-in-london-2609-212577.html</guid>
+      <description>In Kooperation mit Wayve bringt Uber autonome Fahrzeuge nach London. Am Steuer sitzt aber vorerst weiterhin menschliches Sicherheitspersonal. (Autonomes Fahren, Elektroauto)</description>
+      <pubDate>Thu, 03 Sep 2026 06:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>Segway Navimow H5 Pro: Neuer Mähroboter schneidet mit ausfahrbarem Arm erstmals bis zur Rasenkante</title>
       <link>https://www.golem.de/news/segway-navimow-h5-pro-neuer-maehroboter-schneidet-mit-ausfahrbarem-arm-erstmals-bis-zur-rasenkante-2609-212571.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tech-asia-why-open-weight-ai-is-the-new-frontier-in-the-us-china-tech-race-2608-212377.html</guid>
       <description>Nvidia, Meta release open models to challenge Chinese offerings Von Yifan Yu und Cissy Zhou (KI, Nvidia)</description>
       <pubDate>Thu, 27 Aug 2026 16:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Europäische Souveränität: Schwarz Digits verdient offenbar kaum Geld und hostet weiter in den USA</title>
-      <link>https://www.golem.de/news/europaeische-souveraenitaet-schwarz-digits-verdient-offenbar-kaum-geld-und-hostet-weiter-in-den-usa-2608-212378.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/europaeische-souveraenitaet-schwarz-digits-verdient-offenbar-kaum-geld-und-hostet-weiter-in-den-usa-2608-212378.html</guid>
-      <description>Die Schwarz-Gruppe ist bei ihrer Digitalsparte Schwarz Digits mit 90 Prozent selbst der beste Kunde. Viel Software läuft weiter in US-Clouds, so Insider. (Souveränität, SAP)</description>
-      <pubDate>Thu, 27 Aug 2026 15:31:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
