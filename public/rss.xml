@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 07:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:46:04 GMT</lastBuildDate>
+    <item>
+      <title>Formgedächtnislegierung: Wärme wird ohne Strom in Kälte überführt</title>
+      <link>https://www.golem.de/news/formgedaechtnislegierung-waerme-wird-ohne-strom-in-kaelte-ueberfuehrt-2609-212583.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/formgedaechtnislegierung-waerme-wird-ohne-strom-in-kaelte-ueberfuehrt-2609-212583.html</guid>
+      <description>Die Kombination zweier außergewöhnlicher Materialien macht aus Abwärme eine Kühlung. Das soll Elektronik viel effizienter kühlen können. (Kühlung, Energiewende)</description>
+      <pubDate>Thu, 03 Sep 2026 07:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Modelle: Google veröffentlicht Gemini 3.8 Flash und Flash Cyber</title>
       <link>https://www.golem.de/news/ki-modelle-google-veroeffentlicht-gemini-3-8-flash-und-flash-cyber-2609-212581.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bildbearbeitung-adobe-integriert-neuen-ki-assistenten-in-photoshop-2608-212385.html</guid>
       <description>Adobe ergänzt Photoshop um den AI Assisted Editor sowie neue Werkzeuge wie Markup und Instruct Edit für präzisere KI-Bearbeitung. (Photoshop, KI)</description>
       <pubDate>Fri, 28 Aug 2026 06:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gerichtsurteil: Pentagon muss Anthropic-Einstufung aufheben</title>
-      <link>https://www.golem.de/news/gerichtsurteil-pentagon-muss-anthropic-einstufung-aufheben-2608-212383.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gerichtsurteil-pentagon-muss-anthropic-einstufung-aufheben-2608-212383.html</guid>
-      <description>Im Streit um Militär-KI erzielt Anthropic einen Etappensieg. Ein Gericht kippt die Einstufung des Unternehmens als Lieferkettenrisiko. (Anthropic, KI)</description>
-      <pubDate>Fri, 28 Aug 2026 06:37:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
