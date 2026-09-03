@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 11:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 11:36:09 GMT</lastBuildDate>
+    <item>
+      <title>(g+) KI-Agenten im Entwickleralltag: Vom kleinen Fauxpas zum gravierenden Systemfehler</title>
+      <link>https://www.golem.de/news/ki-agenten-im-entwickleralltag-vom-kleinen-fauxpas-zum-gravierenden-systemfehler-2609-212598.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-im-entwickleralltag-vom-kleinen-fauxpas-zum-gravierenden-systemfehler-2609-212598.html</guid>
+      <description>Je autonomer KI-Agenten arbeiten, desto folgenreicher können Fehler werden. Wo heutige Agenten scheitern und wie kontrollierte Autonomie aussieht. Ein Ratgebertext von Klaus Manhart (KI, API)</description>
+      <pubDate>Thu, 03 Sep 2026 11:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Zulassungsstatistik: Fast jeder dritte Neuwagen ist vollelektrisch</title>
       <link>https://www.golem.de/news/zulassungsstatistik-fast-jeder-dritte-neuwagen-ist-vollelektrisch-2609-212605.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/speicherbedarf-cloudflare-gibt-durch-optimierung-100-terabyte-ram-frei-2608-212405.html</guid>
       <description>Um den Speicherbedarf im Cloudflare-Netzwerk zu reduzieren, wurde jedes unnötige Byte gespart. (Cloudflare, Unternehmenssoftware)</description>
       <pubDate>Fri, 28 Aug 2026 13:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Gamescom ONL 2026: Diese Spiele ziehen die Aufmerksamkeit auf sich</title>
-      <link>https://www.golem.de/news/anzeige-gamescom-onl-2026-diese-spiele-ziehen-die-aufmerksamkeit-auf-sich-2608-212363.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-gamescom-onl-2026-diese-spiele-ziehen-die-aufmerksamkeit-auf-sich-2608-212363.html</guid>
-      <description>Auf der Gamescom Opening Night Live wurden zahlreiche Spiele gezeigt. Das Interesse fokussierte sich aber auf einige wenige. (Spiele, The Witcher 3)</description>
-      <pubDate>Fri, 28 Aug 2026 13:00:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
