@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 03 Sep 2026 10:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:46:07 GMT</lastBuildDate>
+    <item>
+      <title>Bitkom: Immer weniger offene IT-Stellen in Deutschland</title>
+      <link>https://www.golem.de/news/bitkom-immer-weniger-offene-it-stellen-in-deutschland-2609-212601.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bitkom-immer-weniger-offene-it-stellen-in-deutschland-2609-212601.html</guid>
+      <description>Laut Bitkom-Präsident Ralf Wintergerst kann KI Aufgaben übernehmen, die bislang etwa von Entwicklerinnen und Entwicklern erledigt wurden. (Arbeit, KI)</description>
+      <pubDate>Thu, 03 Sep 2026 10:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix und Synchronisation: Sprecherverband verlangt Prüfung umstrittener KI-Klausel</title>
       <link>https://www.golem.de/news/netflix-und-synchronisation-sprecherverband-verlangt-pruefung-umstrittener-ki-klausel-2609-212600.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/klimakiller-gruenen-fraktionschefin-fuer-strengere-auflagen-bei-ki-rechenzentren-2608-212402.html</guid>
       <description>Katharina Dröge will Konflikte beim Bau von KI-Rechenzentren vermeiden und hat sich deshalb mit US-Protestgruppen getroffen. Höhere Umweltauflagen und mehr kommunale Steuern seien nötig. (Infrastruktur, Wirtschaft)</description>
       <pubDate>Fri, 28 Aug 2026 12:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stromnetz: Netzengpass begrenzt Wachstum des Europa-Parks</title>
-      <link>https://www.golem.de/news/stromnetz-netzengpass-begrenzt-wachstum-des-europa-parks-2608-212401.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/stromnetz-netzengpass-begrenzt-wachstum-des-europa-parks-2608-212401.html</guid>
-      <description>Der Europa-Park in Rust soll weiter wachsen. Doch neue Attraktionen und mehr Elektrifizierung erhöhen den Druck auf das regionale Stromnetz. (Energie &amp; Klima, Industrieanlage)</description>
-      <pubDate>Fri, 28 Aug 2026 11:58:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
