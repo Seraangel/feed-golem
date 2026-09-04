@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 06:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:41:14 GMT</lastBuildDate>
+    <item>
+      <title>Cyberabwehr: Bund rückt von BSI-Grundgesetzänderung ab</title>
+      <link>https://www.golem.de/news/cyberabwehr-bund-rueckt-von-bsi-grundgesetzaenderung-ab-2609-212640.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyberabwehr-bund-rueckt-von-bsi-grundgesetzaenderung-ab-2609-212640.html</guid>
+      <description>Der Bund will das BSI offenbar nicht mehr per Grundgesetz stärken. Stattdessen setzt das Innenministerium auf bestehende Kooperationen. (BSI, Politik)</description>
+      <pubDate>Fri, 04 Sep 2026 06:39:01 GMT</pubDate>
+    </item>
     <item>
       <title>Künstliche Intelligenz: OpenAI veröffentlicht neues KI-Modell GPT-6 Astra</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-openai-veroeffentlicht-neues-ki-modell-gpt-6-astra-2609-212639.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-monitor-2026-sorge-um-arbeitsplatz-steigt-mit-ki-wissen-2608-212430.html</guid>
       <description>Eine repräsentative Umfrage der TU Darmstadt zeigt: Wer KI gut versteht, sorgt sich häufiger um den eigenen Arbeitsplatz. (Arbeit, Datenschutz)</description>
       <pubDate>Mon, 31 Aug 2026 06:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spiele: Sony wegen fehlenden Eigentums an digitalen Spielen verklagt</title>
-      <link>https://www.golem.de/news/spiele-sony-wegen-fehlenden-eigentums-an-digitalen-spielen-verklagt-2608-212429.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/spiele-sony-wegen-fehlenden-eigentums-an-digitalen-spielen-verklagt-2608-212429.html</guid>
-      <description>Vier Kunden verklagen Sony wegen des unklaren Eigentumsstatus bei digitalen Spielen. Das Unternehmen verweist auf Lizenzbedingungen. (Playstation, Sony)</description>
-      <pubDate>Mon, 31 Aug 2026 05:56:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
