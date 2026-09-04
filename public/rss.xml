@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 06:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:21:08 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft gesteht: Windows-11-Update lässt Wallpaper verschwinden</title>
+      <link>https://www.golem.de/news/microsoft-gesteht-windows-11-update-laesst-wallpaper-verschwinden-2609-212638.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-gesteht-windows-11-update-laesst-wallpaper-verschwinden-2609-212638.html</guid>
+      <description>Auch Mauszeigereinstellungen werden durch das Update auf vielen Windows-11-Systemen zurückgesetzt. Microsoft arbeitet an Korrekturen. (Windows 11, Microsoft)</description>
+      <pubDate>Fri, 04 Sep 2026 06:20:09 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft: Xbox führt Stundengrenzen für Cloud-Gaming ein</title>
       <link>https://www.golem.de/news/microsoft-xbox-fuehrt-stundengrenzen-fuer-cloud-gaming-ein-2609-212637.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nancy-grace-roman-spacex-schickt-neues-weltraumeleskop-der-nasa-ins-all-2608-212428.html</guid>
       <description>Mit dem neuen Weltraumteleskop will die Nasa Milliarden Galaxien vermessen, nach Exoplaneten suchen und mehr Dunkle Energie erfahren. (Weltraumteleskop, Nasa)</description>
       <pubDate>Mon, 31 Aug 2026 05:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: C++ Clean Code: Workshop für robusten C++-Code</title>
-      <link>https://www.golem.de/news/anzeige-c-clean-code-workshop-fuer-robusten-c-code-2608-212427.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-c-clean-code-workshop-fuer-robusten-c-code-2608-212427.html</guid>
-      <description>Moderne C++-Standards bringen neue Features, aber auch Risiken für Wartbarkeit und Komplexität. Ein Workshop vermittelt Prinzipien für sauberen, robusten C++-Code. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Mon, 31 Aug 2026 05:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
