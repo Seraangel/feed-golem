@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 07:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:01:06 GMT</lastBuildDate>
+    <item>
+      <title>Gewerbesteuer: Je größer das Rechenzentrum, desto mehr Steuer für Kommunen</title>
+      <link>https://www.golem.de/news/gewerbesteuer-je-groesser-das-rechenzentrum-desto-mehr-steuer-fuer-kommunen-2609-212645.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gewerbesteuer-je-groesser-das-rechenzentrum-desto-mehr-steuer-fuer-kommunen-2609-212645.html</guid>
+      <description>Eine Änderung des Gewerbesteuergesetzes soll die Ansiedelung von Rechenzentren für Kommunen attraktiver machen. Aber es gibt Einschränkungen. (Politik, Bundesregierung)</description>
+      <pubDate>Fri, 04 Sep 2026 08:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Elektroschrott: 65 Milliarden Euro an Rohstoffen in EU ungenutzt</title>
       <link>https://www.golem.de/news/elektroschrott-65-milliarden-euro-an-rohstoffen-in-eu-ungenutzt-2609-212644.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kernel-org-98-prozent-des-linux-kernel-archiv-traffics-sind-wohl-keine-menschen-2608-212436.html</guid>
       <description>Bots scrapen die gesamte Sammlung an Kernel-Commits und -Forks. Schließlich ist der Linux-Kernel eine exzellente Quelle menschlicher Arbeit. (Linux-Kernel, KI)</description>
       <pubDate>Mon, 31 Aug 2026 08:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arbeitsspeicher: CXMT startet Massenfertigung von LPDDR6-RAM</title>
-      <link>https://www.golem.de/news/arbeitsspeicher-cxmt-startet-massenfertigung-von-lpddr6-ram-2608-212435.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/arbeitsspeicher-cxmt-startet-massenfertigung-von-lpddr6-ram-2608-212435.html</guid>
-      <description>Xiaomis nächstes Foldable kommt mit LPDDR6-Arbeitsspeicher - die Produktionsmenge wird aber eher gering sein. (CXMT, PC-Hardware)</description>
-      <pubDate>Mon, 31 Aug 2026 07:58:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
