@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 06:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 06:31:13 GMT</lastBuildDate>
+    <item>
+      <title>Künstliche Intelligenz: OpenAI veröffentlicht neues KI-Modell GPT-6 Astra</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-openai-veroeffentlicht-neues-ki-modell-gpt-6-astra-2609-212639.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-openai-veroeffentlicht-neues-ki-modell-gpt-6-astra-2609-212639.html</guid>
+      <description>OpenAI führt GPT-6 Astra ein. Das Modell soll komplexe Aufgaben in Softwareentwicklung und Forschung schneller und günstiger erledigen. (OpenAI, KI)</description>
+      <pubDate>Fri, 04 Sep 2026 06:29:10 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft gesteht: Windows-11-Update lässt Wallpaper verschwinden</title>
       <link>https://www.golem.de/news/microsoft-gesteht-windows-11-update-laesst-wallpaper-verschwinden-2609-212638.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spiele-sony-wegen-fehlenden-eigentums-an-digitalen-spielen-verklagt-2608-212429.html</guid>
       <description>Vier Kunden verklagen Sony wegen des unklaren Eigentumsstatus bei digitalen Spielen. Das Unternehmen verweist auf Lizenzbedingungen. (Playstation, Sony)</description>
       <pubDate>Mon, 31 Aug 2026 05:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nancy Grace Roman: SpaceX schickt neues Weltraumeleskop der Nasa ins All</title>
-      <link>https://www.golem.de/news/nancy-grace-roman-spacex-schickt-neues-weltraumeleskop-der-nasa-ins-all-2608-212428.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nancy-grace-roman-spacex-schickt-neues-weltraumeleskop-der-nasa-ins-all-2608-212428.html</guid>
-      <description>Mit dem neuen Weltraumteleskop will die Nasa Milliarden Galaxien vermessen, nach Exoplaneten suchen und mehr Dunkle Energie erfahren. (Weltraumteleskop, Nasa)</description>
-      <pubDate>Mon, 31 Aug 2026 05:40:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
