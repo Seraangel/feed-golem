@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 07:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:16:11 GMT</lastBuildDate>
+    <item>
+      <title>Wasserstoff-Hybrid-Motor: Umgerüsteter Dieselmotor verbraucht 24 Prozent weniger</title>
+      <link>https://www.golem.de/news/wasserstoff-hybrid-motor-umgeruesteter-dieselmotor-verbraucht-24-prozent-weniger-2609-212642.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wasserstoff-hybrid-motor-umgeruesteter-dieselmotor-verbraucht-24-prozent-weniger-2609-212642.html</guid>
+      <description>Eine H2-Einspritzung in einen regulären Dieselmotor eines Transportschiffs hat auf 16.000 km knapp ein Viertel an Diesel-Kraftstoff eingespart. (Wasserstoff, Energiewende)</description>
+      <pubDate>Fri, 04 Sep 2026 07:14:03 GMT</pubDate>
+    </item>
     <item>
       <title>Schwerlastverkehr: Acht Konzerne planen europäisches Wasserstoffnetz</title>
       <link>https://www.golem.de/news/schwerlastverkehr-acht-konzerne-planen-europaeisches-wasserstoffnetz-2609-212641.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/virenschutz-angeblich-aus-microsoft-defender-spielt-falsche-warnmeldung-aus-2608-212431.html</guid>
       <description>Einige Windows-Nutzer erhalten seit Wochen Warnmeldungen vom Microsoft Defender, dass der Virenschutz inaktiv sei. Das ist jedoch ein Anzeigefehler. (Virenscanner, Microsoft)</description>
       <pubDate>Mon, 31 Aug 2026 07:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Urheberrechtsklage gegen KI-Entwickler: Sony und Warner verklagen Anthropic</title>
-      <link>https://www.golem.de/news/urheberrechtsklage-gegen-ki-entwickler-sony-und-warner-verklagen-anthropic-2608-212432.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/urheberrechtsklage-gegen-ki-entwickler-sony-und-warner-verklagen-anthropic-2608-212432.html</guid>
-      <description>Sony Music und Warner Chappell werfen Anthropic Urheberrechtsverletzungen beim Training des KI-Modells Claude vor. (Anthropic, Urheberrecht)</description>
-      <pubDate>Mon, 31 Aug 2026 06:55:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
