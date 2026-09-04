@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 08:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:01:08 GMT</lastBuildDate>
+    <item>
+      <title>Tesla Cybercab: Robotaxi von Tesla startet ohne Lenkrad und Pedale</title>
+      <link>https://www.golem.de/news/tesla-cybercab-robotaxi-von-tesla-startet-ohne-lenkrad-und-pedale-2609-212653.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/tesla-cybercab-robotaxi-von-tesla-startet-ohne-lenkrad-und-pedale-2609-212653.html</guid>
+      <description>Nach langer Verzögerung ist ein kleine Flotte Cybercabs für den öffentlichen Verkehr zugelassen worden. Die konsequente Umsetzung macht Probleme. (Tesla, Auto)</description>
+      <pubDate>Fri, 04 Sep 2026 08:57:05 GMT</pubDate>
+    </item>
     <item>
       <title>Project Aeroblade: Lenovo zeigt 830-Gramm-Laptop mit Membrankühlung statt Lüfter</title>
       <link>https://www.golem.de/news/project-aeroblade-lenovo-zeigt-830-gramm-laptop-mit-membrankuehlung-statt-luefter-2609-212648.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-gaming-headset-logitech-g-astro-a50-zum-tiefpreis-bei-amazon-2608-212443.html</guid>
       <description>Das beliebte Gaming-Headset Logitech G Astro A50 Lightspeed mit Pro-G Graphene-Lautsprechern und 48-kHz-Mikrofon ist bei Amazon reduziert. (Headset, Logitech)</description>
       <pubDate>Mon, 31 Aug 2026 09:27:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leak: Modder bringen DLSS 5 in immer mehr Spiele</title>
-      <link>https://www.golem.de/news/leak-modder-bringen-dlss-5-in-immer-mehr-spiele-2608-212441.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/leak-modder-bringen-dlss-5-in-immer-mehr-spiele-2608-212441.html</guid>
-      <description>Eine versehentlich veröffentlichte Bibliothek von DLSS 5 ermöglicht schon jetzt Experimente mit zahlreichen Spielen. (DLSS, Nvidia)</description>
-      <pubDate>Mon, 31 Aug 2026 09:12:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
