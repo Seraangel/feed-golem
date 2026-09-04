@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 07:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 07:31:04 GMT</lastBuildDate>
+    <item>
+      <title>Ladeinfrastruktur für E-Auto: Das BSI befürchtet den ganz großen Hack</title>
+      <link>https://www.golem.de/news/ladeinfrastruktur-fuer-e-auto-das-bsi-befuerchtet-den-ganz-grossen-hack-2609-212631.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ladeinfrastruktur-fuer-e-auto-das-bsi-befuerchtet-den-ganz-grossen-hack-2609-212631.html</guid>
+      <description>Die Ladestationen für E-Autos gehören zur kritischen Infrastruktur. Das BSI hält Angriffe für wahrscheinlich, weiß aber noch nicht, wie und wann. Ein Bericht von Friedhelm Greis (Ladesäule, Elektroauto)</description>
+      <pubDate>Fri, 04 Sep 2026 07:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Wasserstoff-Hybrid-Motor: Umgerüsteter Dieselmotor verbraucht 24 Prozent weniger</title>
       <link>https://www.golem.de/news/wasserstoff-hybrid-motor-umgeruesteter-dieselmotor-verbraucht-24-prozent-weniger-2609-212642.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/energiewende-verplant-ausbau-von-wind-und-solarenergie-muss-neu-gedacht-werden-2608-211420.html</guid>
       <description>Mit wenigen planerischen Eingriffen könnte das deutsche Energiesystem resilienter, fairer und unabhängiger werden. Erste Ansätze sind erkennbar. Eine Analyse von Mario Petzold (Energiewende, Smart Meter)</description>
       <pubDate>Mon, 31 Aug 2026 07:30:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Virenschutz angeblich aus: Microsoft Defender spielt falsche Warnmeldung aus</title>
-      <link>https://www.golem.de/news/virenschutz-angeblich-aus-microsoft-defender-spielt-falsche-warnmeldung-aus-2608-212431.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/virenschutz-angeblich-aus-microsoft-defender-spielt-falsche-warnmeldung-aus-2608-212431.html</guid>
-      <description>Einige Windows-Nutzer erhalten seit Wochen Warnmeldungen vom Microsoft Defender, dass der Virenschutz inaktiv sei. Das ist jedoch ein Anzeigefehler. (Virenscanner, Microsoft)</description>
-      <pubDate>Mon, 31 Aug 2026 07:06:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
