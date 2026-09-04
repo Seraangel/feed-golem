@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 09:06:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:16:07 GMT</lastBuildDate>
+    <item>
+      <title>Blutsauger: Netflix macht Ravenloft zur düsteren D&amp;D-Serie</title>
+      <link>https://www.golem.de/news/blutsauger-netflix-macht-ravenloft-zur-duesteren-d-d-serie-2609-212650.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/blutsauger-netflix-macht-ravenloft-zur-duesteren-d-d-serie-2609-212650.html</guid>
+      <description>Dungeons &amp; Dragons bekommt offenbar eine neue Realserie: Netflix arbeitet an Ravenloft mit Vampirfürst Strahd von Zarovich. (Netflix, Spiele)</description>
+      <pubDate>Fri, 04 Sep 2026 09:11:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Tragbarer Monitor mit 15,6'' IPS und FHD für 67,94 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-tragbarer-monitor-mit-15-6-ips-und-fhd-fuer-67-94-euro-bei-amazon-2609-212652.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/altersverifikation-in-betriebssystemen-kalifornien-nimmt-open-source-von-altersabfrage-aus-2608-212445.html</guid>
       <description>Die Ausnahmen für Open Source von der Altersprüfung betreffen nicht nur Linux, sondern auch Bibliotheken und Paketmanager. (Open Source, Linux)</description>
       <pubDate>Mon, 31 Aug 2026 09:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bei Sandboxing-Tests: KI-Agent bricht mehrfach aus VM aus</title>
-      <link>https://www.golem.de/news/bei-sandboxing-tests-ki-agent-bricht-mehrfach-aus-vm-aus-2608-212442.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bei-sandboxing-tests-ki-agent-bricht-mehrfach-aus-vm-aus-2608-212442.html</guid>
-      <description>Ein Forscher hat getestet, ob sich moderne KI-Modelle mit Virtualisierung sinnvoll isolieren lassen. Die KI ist mehrfach aus einer VM entkommen. (KI, Virtualisierung)</description>
-      <pubDate>Mon, 31 Aug 2026 09:36:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
