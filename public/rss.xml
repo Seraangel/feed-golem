@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 08:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 08:21:08 GMT</lastBuildDate>
+    <item>
+      <title>Cyberangriff trifft Flughäfen: Hacker leaken Daten von Millionen von Fluggästen</title>
+      <link>https://www.golem.de/news/cyberangriff-trifft-flughaefen-hacker-leaken-daten-von-millionen-von-fluggaesten-2609-212647.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-trifft-flughaefen-hacker-leaken-daten-von-millionen-von-fluggaesten-2609-212647.html</guid>
+      <description>Eine Hackergruppe hat Daten eines britischen Flughafenbetreibers erbeutet und veröffentlicht. Mehr als 8 Millionen Menschen sind betroffen. (Datenleck, Cyberwar)</description>
+      <pubDate>Fri, 04 Sep 2026 08:18:08 GMT</pubDate>
+    </item>
     <item>
       <title>Ask Me Anything am 16.9.: Open Source für Unternehmen und Verwaltung? Stellt eure Fragen unserem Experten!</title>
       <link>https://www.golem.de/news/ask-me-anything-am-16-9-open-source-fuer-unternehmen-und-verwaltung-stellt-eure-fragen-unserem-experten-2609-212494.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-trump-erlass-google-maps-nennt-ontariosee-in-lake-america-um-2608-212439.html</guid>
       <description>Im Zollstreit mit Kanada hat US-Präsident Trump einen der Großen Seen umbenannt. Google setzt die Entscheidung unmittelbar um. (Google Maps, Google)</description>
       <pubDate>Mon, 31 Aug 2026 08:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ohne Hypervisor: Linux-Fork startet mehrere Kernels auf einem Computer</title>
-      <link>https://www.golem.de/news/ohne-hypervisor-linux-fork-startet-mehrere-kernels-auf-einem-computer-2608-212438.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ohne-hypervisor-linux-fork-startet-mehrere-kernels-auf-einem-computer-2608-212438.html</guid>
-      <description>Ein Entwickler hat den Linux-Kernel so modifiziert, dass mehrere Kernels parallel laufen können. Eine erste Version ist verfügbar. (Linux, Linux-Kernel)</description>
-      <pubDate>Mon, 31 Aug 2026 08:37:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
