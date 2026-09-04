@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 09:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:26:13 GMT</lastBuildDate>
+    <item>
+      <title>Betriebssystem: Windows 11 wird Altersprüfung selbst übernehmen</title>
+      <link>https://www.golem.de/news/betriebssystem-windows-11-wird-alterspruefung-selbst-uebernehmen-2609-212655.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/betriebssystem-windows-11-wird-alterspruefung-selbst-uebernehmen-2609-212655.html</guid>
+      <description>Mithilfe von Age Signals können Apps Windows 11 nach dem Alter der User fragen. Das ist laut Microsoft anonymisiert und sicher. (Windows 11, Microsoft)</description>
+      <pubDate>Fri, 04 Sep 2026 09:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>Blutsauger: Netflix macht Ravenloft zur düsteren D&amp;D-Serie</title>
       <link>https://www.golem.de/news/blutsauger-netflix-macht-ravenloft-zur-duesteren-d-d-serie-2609-212650.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/vw-id-california-cruise-elektrischer-camper-startet-bei-60-761-euro-2608-212446.html</guid>
       <description>VW bringt eine Campingversion des ID.Buzz auf den Markt. Der Aufpreis beträgt 4.700 Euro. (Elektroauto, Auto)</description>
       <pubDate>Mon, 31 Aug 2026 10:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Altersverifikation in Betriebssystemen: Kalifornien nimmt Open Source von Altersabfrage aus</title>
-      <link>https://www.golem.de/news/altersverifikation-in-betriebssystemen-kalifornien-nimmt-open-source-von-altersabfrage-aus-2608-212445.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/altersverifikation-in-betriebssystemen-kalifornien-nimmt-open-source-von-altersabfrage-aus-2608-212445.html</guid>
-      <description>Die Ausnahmen für Open Source von der Altersprüfung betreffen nicht nur Linux, sondern auch Bibliotheken und Paketmanager. (Open Source, Linux)</description>
-      <pubDate>Mon, 31 Aug 2026 09:50:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
