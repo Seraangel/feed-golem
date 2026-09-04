@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 09:46:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 10:01:15 GMT</lastBuildDate>
+    <item>
+      <title>Xteink X3 im Test: Dieser winzige E-Reader passt in jede Tasche</title>
+      <link>https://www.golem.de/news/xteink-x3-im-test-dieser-winzige-e-reader-passt-in-jede-tasche-2609-212606.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/xteink-x3-im-test-dieser-winzige-e-reader-passt-in-jede-tasche-2609-212606.html</guid>
+      <description>Der winzige Xteink X3 hat ab Werk ein paar wenige Schwächen, wird aber durch eine alternative Open-Source-Firmware zum spannenden E-Book-Reader. Ein Test von Mike Faust (E-Book, Test)</description>
+      <pubDate>Fri, 04 Sep 2026 10:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Ein falscher Klick reicht: Schadcode-Attacken auf Chrome-Nutzer beobachtet</title>
       <link>https://www.golem.de/news/ein-falscher-klick-reicht-schadcode-attacken-auf-chrome-nutzer-beobachtet-2609-212654.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fuer-eigene-rechenzentren-spacex-soll-teile-fuer-gasturbinen-bauen-2608-212447.html</guid>
       <description>Turbinenschaufeln hat Elon Musk bereits vor Monaten als Engpass beim Bau von Gasturbinen ausgemacht. Die braucht er für seine KI-Rechenzentren. (Energie, KI)</description>
       <pubDate>Mon, 31 Aug 2026 10:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Assistenten für Fluglotsen: "Das ist sehr schwer zu programmieren"</title>
-      <link>https://www.golem.de/news/ki-assistenten-fuer-fluglotsen-das-ist-sehr-schwer-zu-programmieren-2608-212444.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-assistenten-fuer-fluglotsen-das-ist-sehr-schwer-zu-programmieren-2608-212444.html</guid>
-      <description>Es gibt zu wenige Fluglotsen, KI soll helfen. Bald schon soll KI Flüge allein führen können, die Erfahrung von Lotsen kann sie aber vorerst kaum abbilden. Ein Bericht von Friedrich List (KI, DLR)</description>
-      <pubDate>Mon, 31 Aug 2026 10:18:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
