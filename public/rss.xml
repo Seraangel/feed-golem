@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 09:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 09:46:41 GMT</lastBuildDate>
+    <item>
+      <title>Ein falscher Klick reicht: Schadcode-Attacken auf Chrome-Nutzer beobachtet</title>
+      <link>https://www.golem.de/news/ein-falscher-klick-reicht-schadcode-attacken-auf-chrome-nutzer-beobachtet-2609-212654.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ein-falscher-klick-reicht-schadcode-attacken-auf-chrome-nutzer-beobachtet-2609-212654.html</guid>
+      <description>Google hat Patches für hochgefährliche Chrome-Lücken veröffentlicht. Eine davon wird bereits aktiv ausgenutzt. Anwender sollten zügig updaten. (Sicherheitslücke, Google)</description>
+      <pubDate>Fri, 04 Sep 2026 09:44:05 GMT</pubDate>
+    </item>
     <item>
       <title>Betriebssystem: Windows 11 wird Altersprüfung selbst übernehmen</title>
       <link>https://www.golem.de/news/betriebssystem-windows-11-wird-alterspruefung-selbst-uebernehmen-2609-212655.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-assistenten-fuer-fluglotsen-das-ist-sehr-schwer-zu-programmieren-2608-212444.html</guid>
       <description>Es gibt zu wenige Fluglotsen, KI soll helfen. Bald schon soll KI Flüge allein führen können, die Erfahrung von Lotsen kann sie aber vorerst kaum abbilden. Ein Bericht von Friedrich List (KI, DLR)</description>
       <pubDate>Mon, 31 Aug 2026 10:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>VW ID.California Cruise: Elektrischer Camper startet bei 60.761 Euro</title>
-      <link>https://www.golem.de/news/vw-id-california-cruise-elektrischer-camper-startet-bei-60-761-euro-2608-212446.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vw-id-california-cruise-elektrischer-camper-startet-bei-60-761-euro-2608-212446.html</guid>
-      <description>VW bringt eine Campingversion des ID.Buzz auf den Markt. Der Aufpreis beträgt 4.700 Euro. (Elektroauto, Auto)</description>
-      <pubDate>Mon, 31 Aug 2026 10:03:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
