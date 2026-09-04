@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 15:41:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:01:10 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Anthropic: Anthropic's $2tn IPO puts powerful external trustees in spotlight</title>
+      <link>https://www.golem.de/news/anthropic-anthropic-s-2tn-ipo-puts-powerful-external-trustees-in-spotlight-2609-212674.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anthropic-anthropic-s-2tn-ipo-puts-powerful-external-trustees-in-spotlight-2609-212674.html</guid>
+      <description>Public-market scrutiny will intensify pressure on the Claude maker's unusual attempt to balance profit and purpose Von Madhumita Murgia (Wirtschaft, KI)</description>
+      <pubDate>Fri, 04 Sep 2026 16:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Künstliche Intelligenz: OpenAI-Agenten sollen deutsche Webseite gekapert haben</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-openai-agenten-sollen-deutsche-webseite-gekapert-haben-2609-212677.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ard-sommerinterview-merz-hat-den-hocheffizienten-verbrenner-gefunden-2608-212468.html</guid>
       <description>Bundeskanzler Merz will auf EU-Ebene für das "klimaneutrale" Auto eintreten. Das kann für ihn durchaus ein Verbrenner sein. (Verbrennerverbot, Politik)</description>
       <pubDate>Mon, 31 Aug 2026 16:09:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Opinion: Data Centers Going Off-Grid Doesn't Make Them Good Neighbors</title>
-      <link>https://www.golem.de/news/opinion-data-centers-going-off-grid-doesn-t-make-them-good-neighbors-2608-212460.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/opinion-data-centers-going-off-grid-doesn-t-make-them-good-neighbors-2608-212460.html</guid>
-      <description>As a forest of pitchforks approaches America's data centers, Big Tech can turn to a time-tested strategy: Hiding. Von (KI, Wirtschaft)</description>
-      <pubDate>Mon, 31 Aug 2026 16:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
