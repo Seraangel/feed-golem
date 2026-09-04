@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 10:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 11:01:05 GMT</lastBuildDate>
+    <item>
+      <title>NBA 2K27 ausprobiert: Mit DLSS 5 sehen Gesichter viel realistischer aus</title>
+      <link>https://www.golem.de/news/nba-2k27-ausprobiert-mit-dlss-5-sehen-gesichter-viel-realistischer-aus-2609-212661.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nba-2k27-ausprobiert-mit-dlss-5-sehen-gesichter-viel-realistischer-aus-2609-212661.html</guid>
+      <description>Mit NBA 2K27 lässt sich DLSS 5 erstmals in einem fertigen Spiel ausprobieren. Wir haben Nvidias neue KI-Grafik über Geforce Now angespielt. (DLSS, Nvidia)</description>
+      <pubDate>Fri, 04 Sep 2026 10:58:02 GMT</pubDate>
+    </item>
     <item>
       <title>Halbleiterfertigung: Zeiss-SMT-CEO sieht China bei EUV über 20 Jahre zurück</title>
       <link>https://www.golem.de/news/halbleiterfertigung-zeiss-smt-ceo-sieht-china-bei-euv-ueber-20-jahre-zurueck-2609-212660.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/chrome-und-edge-mehrere-browser-add-ons-per-update-mit-malware-verseucht-2608-212452.html</guid>
       <description>Forscher haben 19 mit Malware verseuchte Browsererweiterungen für Chrome und Edge entdeckt. Der Schadcode wurde erst nachträglich eingeschleust. (Malware, Virus)</description>
       <pubDate>Mon, 31 Aug 2026 11:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 Terabyte ausgelesen: Alte Steam-Daten legen verworfene Valve-Spiele offen</title>
-      <link>https://www.golem.de/news/12-terabyte-ausgelesen-alte-steam-daten-legen-verworfene-valve-spiele-offen-2608-212449.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/12-terabyte-ausgelesen-alte-steam-daten-legen-verworfene-valve-spiele-offen-2608-212449.html</guid>
-      <description>Die Daten konnten über einen alten Steam-Endpoint abgegriffen werden, der nie geschlossen wurde. (Steam, Half-Life)</description>
-      <pubDate>Mon, 31 Aug 2026 10:58:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
