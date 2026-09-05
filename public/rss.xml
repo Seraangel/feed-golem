@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 05 Sep 2026 11:46:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:21:02 GMT</lastBuildDate>
+    <item>
+      <title>Klimaanlagen: Midea stellt neue Portasplit mit Propan vor</title>
+      <link>https://www.golem.de/news/klimaanlagen-midea-stellt-neue-portasplit-mit-propan-vor-2609-212685.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/klimaanlagen-midea-stellt-neue-portasplit-mit-propan-vor-2609-212685.html</guid>
+      <description>Midea überarbeitet die Splitklimaanlage Portasplit. Das neue Modell nutzt Propan statt R32 und unterstützt Matter 1.6. (Energie &amp; Klima, Matter)</description>
+      <pubDate>Sat, 05 Sep 2026 12:16:06 GMT</pubDate>
+    </item>
     <item>
       <title>Telefonat: Zuckerberg teilt Trump Abneigung gegen KI-Regulierung mit</title>
       <link>https://www.golem.de/news/telefonat-zuckerberg-teilt-trump-abneigung-gegen-ki-regulierung-mit-2609-212689.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/star-wars-zero-company-macher-schickt-grossteil-des-teams-in-unbezahlten-urlaub-2609-212482.html</guid>
       <description>Trotz guter Verkaufszahlen und starker Kritiken: Beim dem Team hinter Star Wars - Zero Company arbeitet nur noch eine Rumpfmannschaft. (Star Wars, Steam)</description>
       <pubDate>Tue, 01 Sep 2026 08:19:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lumi-AI: Europas nächster Supercomputer bekommt AMD-Technik</title>
-      <link>https://www.golem.de/news/lumi-ai-europas-naechster-supercomputer-bekommt-amd-technik-2609-212480.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/lumi-ai-europas-naechster-supercomputer-bekommt-amd-technik-2609-212480.html</guid>
-      <description>In Finnland baut EuroHPC den nächsten europäischen Supercomputer. Der Fokus liegt auf KI, in Betrieb gehen soll Lumi-AI 2027. (Supercomputer, AMD)</description>
-      <pubDate>Tue, 01 Sep 2026 07:49:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
