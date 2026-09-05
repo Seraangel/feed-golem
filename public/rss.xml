@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 05 Sep 2026 10:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 10:31:05 GMT</lastBuildDate>
+    <item>
+      <title>Mit NAS-Speicher: Ugreen bringt KI-System mit Jetson Thor fürs Zuhause</title>
+      <link>https://www.golem.de/news/mit-nas-speicher-ugreen-bringt-ki-system-mit-jetson-thor-fuers-zuhause-2609-212687.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mit-nas-speicher-ugreen-bringt-ki-system-mit-jetson-thor-fuers-zuhause-2609-212687.html</guid>
+      <description>Ugreens Homeagent- und Masteragent-Speicher bringen KI ohne Cloudanbindung nach Hause. Der Masteragent kommt mit Nvidias Jetson Thor. (Ifa 2026, Nvidia)</description>
+      <pubDate>Sat, 05 Sep 2026 10:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Urheberrecht: Tetris-Entwickler kritisieren White-House-Spieleklon</title>
       <link>https://www.golem.de/news/urheberrecht-tetris-entwickler-kritisieren-white-house-spieleklon-2609-212684.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/android-rom-grapheneos-macher-laestern-ueber-pixel-11-2609-212479.html</guid>
       <description>Google hat bei der Pixel-11-Serie eine für GrapheneOS elementare Funktion deaktiviert - die neuen Modelle werden nicht unterstützt. (GrapheneOS, Smartphone)</description>
       <pubDate>Tue, 01 Sep 2026 07:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deutschland noch ausgenommen: Google erhöht Preise für Smart-Home- und Streaminggeräte deutlich</title>
-      <link>https://www.golem.de/news/deutschland-noch-ausgenommen-google-erhoeht-preise-fuer-smart-home-und-streaminggeraete-deutlich-2609-212478.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/deutschland-noch-ausgenommen-google-erhoeht-preise-fuer-smart-home-und-streaminggeraete-deutlich-2609-212478.html</guid>
-      <description>Wer die Anschaffung von Google-Geräten plant, sollte bald zugreifen. Es deuten sich Preiserhöhungen auch in Deutschland an. (Google, Streaming)</description>
-      <pubDate>Tue, 01 Sep 2026 07:14:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
