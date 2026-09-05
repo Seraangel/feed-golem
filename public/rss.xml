@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 04 Sep 2026 16:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 05:31:05 GMT</lastBuildDate>
+    <item>
+      <title>Garmin Fenix 9 Pro im Test: Großes Upgrade - aber längst nicht für alle</title>
+      <link>https://www.golem.de/news/garmin-fenix-9-pro-im-test-grosses-upgrade-aber-laengst-nicht-fuer-alle-2609-212595.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/garmin-fenix-9-pro-im-test-grosses-upgrade-aber-laengst-nicht-fuer-alle-2609-212595.html</guid>
+      <description>Die Fenix 9 Pro bietet schnellere Karten, besseres Training und Satelliten-SOS. Für Besitzer des Vorgängers lohnt sich das Upgrade nur selten. Ein Test von Peter Steinlechner (Garmin Fenix, Garmin)</description>
+      <pubDate>Sat, 05 Sep 2026 05:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Claude Code im Griff: Workshop zu Agentic Coding</title>
       <link>https://www.golem.de/news/anzeige-claude-code-im-griff-workshop-zu-agentic-coding-2609-212634.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-212470.html</guid>
       <description>Identity- und Access-Management wird zunehmend komplex, etwa bei Single Sign-On und Multi-Faktor-Authentifizierung. Ein Workshop vermittelt den sicheren Umgang mit Keycloak. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Tue, 01 Sep 2026 05:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Referenz Over-Ear-Kopfhörer Sony WH-1000XM6 jetzt wieder zum Tiefpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-referenz-over-ear-kopfhoerer-sony-wh-1000xm6-jetzt-wieder-zum-tiefpreis-bei-amazon-2608-212461.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-referenz-over-ear-kopfhoerer-sony-wh-1000xm6-jetzt-wieder-zum-tiefpreis-bei-amazon-2608-212461.html</guid>
-      <description>Der Sony WH-1000XM6 zum Amazon-Tiefpreis ist Testsieger bei Stiftung Warentest und bietet unter anderem das beste Noise Cancelling. (Technik/Hardware, Sony)</description>
-      <pubDate>Mon, 31 Aug 2026 17:04:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
