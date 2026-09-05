@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 05 Sep 2026 10:31:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 11:16:14 GMT</lastBuildDate>
+    <item>
+      <title>Umspannwerke: Suche nach verdächtigem Stromsaboteur läuft</title>
+      <link>https://www.golem.de/news/umspannwerke-suche-nach-verdaechtigem-stromsaboteur-laeuft-2609-212688.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/umspannwerke-suche-nach-verdaechtigem-stromsaboteur-laeuft-2609-212688.html</guid>
+      <description>Die versuchten Sabotageakte gegen das Strom-Netz häufen sich, es gibt Bekennerschreiben. Das Fahrzeug des mutmaßlichen Verfassers hat die Polizei gefunden - er selbst ist flüchtig. (Energie &amp; Klima, Security)</description>
+      <pubDate>Sat, 05 Sep 2026 11:13:10 GMT</pubDate>
+    </item>
     <item>
       <title>Mit NAS-Speicher: Ugreen bringt KI-System mit Jetson Thor fürs Zuhause</title>
       <link>https://www.golem.de/news/mit-nas-speicher-ugreen-bringt-ki-system-mit-jetson-thor-fuers-zuhause-2609-212687.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/automobilindustrie-elektro-pickup-slate-setzt-auf-bring-your-own-device-2609-212481.html</guid>
       <description>Das Start-up Slate bietet seinen Elektro-Pickup ab 24.950 US-Dollar an. Fahrer nutzen dafür ihr eigenes Smartphone oder Tablet. (Auto, Elektroauto)</description>
       <pubDate>Tue, 01 Sep 2026 07:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android-ROM: GrapheneOS-Macher lästern über Pixel 11</title>
-      <link>https://www.golem.de/news/android-rom-grapheneos-macher-laestern-ueber-pixel-11-2609-212479.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/android-rom-grapheneos-macher-laestern-ueber-pixel-11-2609-212479.html</guid>
-      <description>Google hat bei der Pixel-11-Serie eine für GrapheneOS elementare Funktion deaktiviert - die neuen Modelle werden nicht unterstützt. (GrapheneOS, Smartphone)</description>
-      <pubDate>Tue, 01 Sep 2026 07:22:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
