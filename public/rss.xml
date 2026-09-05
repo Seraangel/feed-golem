@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 05 Sep 2026 09:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:41:14 GMT</lastBuildDate>
+    <item>
+      <title>MS Office: Microsoft streicht Ähnlichkeitsprüfung in Word</title>
+      <link>https://www.golem.de/news/ms-office-microsoft-streicht-aehnlichkeitspruefung-in-word-2609-212683.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ms-office-microsoft-streicht-aehnlichkeitspruefung-in-word-2609-212683.html</guid>
+      <description>Microsoft entfernt die Ähnlichkeitsprüfung aus Word. Ab Oktober 2026 steht die Funktion im Microsoft Editor nicht mehr bereit. (Office, Microsoft)</description>
+      <pubDate>Sat, 05 Sep 2026 09:39:04 GMT</pubDate>
+    </item>
     <item>
       <title>Politik: Eco kritisiert Pläne der SPD für eine KI-Steuer</title>
       <link>https://www.golem.de/news/politik-eco-kritisiert-plaene-der-spd-fuer-eine-ki-steuer-2609-212682.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bildung-hessen-fuehrt-ki-und-digitale-welt-als-neues-schulfach-ein-2609-212477.html</guid>
       <description>Hessen nimmt Kürzungspläne zurück, stellt 680 Stellen bereit und führt das Pflichtfach KI und Digitale Welt schrittweise ein. (Schulen, Politik)</description>
       <pubDate>Tue, 01 Sep 2026 06:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Suchmaschine: Google testet komplette KI-Antworten direkt in der Suche</title>
-      <link>https://www.golem.de/news/suchmaschine-google-testet-komplette-ki-antworten-direkt-in-der-suche-2609-212475.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/suchmaschine-google-testet-komplette-ki-antworten-direkt-in-der-suche-2609-212475.html</guid>
-      <description>Google testet eine automatische Erweiterung von AI Overviews. Das verschiebt organische Suchergebnisse weiter nach unten. (Google, KI)</description>
-      <pubDate>Tue, 01 Sep 2026 06:22:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
