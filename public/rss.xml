@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 05 Sep 2026 08:56:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:16:09 GMT</lastBuildDate>
+    <item>
+      <title>Politik: Eco kritisiert Pläne der SPD für eine KI-Steuer</title>
+      <link>https://www.golem.de/news/politik-eco-kritisiert-plaene-der-spd-fuer-eine-ki-steuer-2609-212682.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/politik-eco-kritisiert-plaene-der-spd-fuer-eine-ki-steuer-2609-212682.html</guid>
+      <description>Die SPD erwägt Abgaben auf KI-Gewinne. Der Verband Eco sieht darin Belastungen für Unternehmen und fordert verlässliche Rahmenbedingungen. (Politik, KI)</description>
+      <pubDate>Sat, 05 Sep 2026 09:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Berlin: BSI warnt nach Datenveröffentlichung durch Hacker vor erhöhter Gefahr</title>
       <link>https://www.golem.de/news/berlin-bsi-warnt-nach-datenveroeffentlichung-durch-hacker-vor-erhoehter-gefahr-2609-212686.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/suchmaschine-google-testet-komplette-ki-antworten-direkt-in-der-suche-2609-212475.html</guid>
       <description>Google testet eine automatische Erweiterung von AI Overviews. Das verschiebt organische Suchergebnisse weiter nach unten. (Google, KI)</description>
       <pubDate>Tue, 01 Sep 2026 06:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weltweite Ausfälle: Großstörung legt mehrere Microsoft-Dienste lahm</title>
-      <link>https://www.golem.de/news/weltweite-ausfaelle-grossstoerung-legt-mehrere-microsoft-dienste-lahm-2609-212476.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/weltweite-ausfaelle-grossstoerung-legt-mehrere-microsoft-dienste-lahm-2609-212476.html</guid>
-      <description>Seit Montagnachmittag sind weltweit zahlreiche Microsoft-Dienste wie Exchange, Teams und Onedrive gestört. Der Konzern arbeitet an einer Lösung. (Microsoft, E-Mail)</description>
-      <pubDate>Tue, 01 Sep 2026 06:10:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
