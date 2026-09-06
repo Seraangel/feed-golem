@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 06 Sep 2026 12:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 13:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Berliner Verwaltungsdaten geleakt: Der "Daten-Super-GAU" aus der Hauptstadt</title>
+      <link>https://www.golem.de/news/berliner-verwaltungsdaten-geleakt-der-daten-super-gau-aus-der-hauptstadt-2609-212694.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/berliner-verwaltungsdaten-geleakt-der-daten-super-gau-aus-der-hauptstadt-2609-212694.html</guid>
+      <description>Die Hackertruppe Rhysida hat 5,8 Terabyte an Verwaltungsdaten aus Berlin geleakt. Das ist nicht nur für Stadt selbst ein Problem. Ein Bericht von Friedhelm Greis (Security, Phishing)</description>
+      <pubDate>Sun, 06 Sep 2026 13:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Vodafone gegen 1&amp;1: Bundeskartellamt darf Urteil zu Marktmissbrauch fällen</title>
       <link>https://www.golem.de/news/vodafone-gegen-1-1-bundeskartellamt-darf-urteil-zu-marktmissbrauch-faellen-2609-212693.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mediatek-investment-nvidia-will-an-ki-hardware-der-konkurrenz-mitverdienen-2609-212490.html</guid>
       <description>Nvidia investiert erneut in einen Dienstleister für Custom-Asics. Mediatek soll NVLink verbauen und damit Lizenzeinnahmen generieren. (Nvidia, KI)</description>
       <pubDate>Tue, 01 Sep 2026 10:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spielemesse: Indies, die AAA die Show stehlen</title>
-      <link>https://www.golem.de/news/spielemesse-indies-die-aaa-die-show-stehlen-2609-212465.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/spielemesse-indies-die-aaa-die-show-stehlen-2609-212465.html</guid>
-      <description>Klein, originell und mit Liebe gemacht: Diese Auswahl an Gamescom-Indies hat nicht nur uns überzeugt. Von Rainer Sigl (Gamescom 2026, Gamescom)</description>
-      <pubDate>Tue, 01 Sep 2026 10:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
