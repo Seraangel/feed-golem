@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 06 Sep 2026 06:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:01:15 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Rechenleistung nach Bedarf: Wie serverless sind Serverless-Datenbanken wirklich?</title>
+      <link>https://www.golem.de/news/rechenleistung-nach-bedarf-wie-serverless-sind-serverless-datenbanken-wirklich-2609-212657.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rechenleistung-nach-bedarf-wie-serverless-sind-serverless-datenbanken-wirklich-2609-212657.html</guid>
+      <description>Serverless-Datenbanken versprechen Rechenleistung nach Bedarf und weniger Kosten für Leerlauf. Aber erst im Alltag zeigt sich, wie viel serverless tatsächlich in diesem Modell steckt. Ein Ratgebertext von Fabian Deitelhoff (Datenbank, Server-Applikationen)</description>
+      <pubDate>Sun, 06 Sep 2026 08:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>"Zizianer": Gewalt aus dem Silicon Valley</title>
       <link>https://www.golem.de/news/zizianer-gewalt-aus-dem-silicon-valley-2609-212532.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/passwoerter-geleakt-berliner-senatsverwaltungen-schraenken-homeoffice-ein-2609-212485.html</guid>
       <description>Nach einem Cyberangriff auf die Berliner Landes-IT werden die VPN-Zugänge der Mitarbeiter gekappt. Der Grund: Passwörter sind an die Öffentlichkeit gelangt. (Cybercrime, Cyberwar)</description>
       <pubDate>Tue, 01 Sep 2026 09:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI: Apple legt neue Beweise für Diebstahl von Geschäftsgeheimnissen vor</title>
-      <link>https://www.golem.de/news/openai-apple-legt-neue-beweise-fuer-diebstahl-von-geschaeftsgeheimnissen-vor-2609-212486.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/openai-apple-legt-neue-beweise-fuer-diebstahl-von-geschaeftsgeheimnissen-vor-2609-212486.html</guid>
-      <description>Apple verklagt OpenAI wegen Diebstahls von geistigem Eigentum - und hat im Verfahren neue Beweise für Datendiebstahl vorgelegt. (OpenAI, Apple)</description>
-      <pubDate>Tue, 01 Sep 2026 08:53:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
