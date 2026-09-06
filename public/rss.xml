@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 06 Sep 2026 08:45:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 08:55:56 GMT</lastBuildDate>
+    <item>
+      <title>Hackerangriff in Berlin: Bezirk verweigert Einsatz von Crowdstrike</title>
+      <link>https://www.golem.de/news/hackerangriff-in-berlin-bezirk-verweigert-einsatz-von-crowdstrike-2609-212690.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hackerangriff-in-berlin-bezirk-verweigert-einsatz-von-crowdstrike-2609-212690.html</guid>
+      <description>Der Berliner Senat will mithilfe der US-Software Crowdstrike nach Spuren des Hackerangriffs suchen. Doch das geht einem Bezirk zu weit. (Security, Server)</description>
+      <pubDate>Sun, 06 Sep 2026 08:52:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 4K-Mini-Überwachungskamera mit App-Unterstützung wieder zum Tiefstpreis</title>
       <link>https://www.golem.de/news/anzeige-4k-mini-ueberwachungskamera-mit-app-unterstuetzung-wieder-zum-tiefstpreis-2609-212672.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/e-fuels-und-h2-synthetische-kraftstoffe-benoetigen-nur-luft-2609-212489.html</guid>
       <description>Die Wasserknappheit nimmt weltweit zu, was die zukünftige Herstellung von grünem Wasserstoff und Methanol gefährdet. Es gibt eine bessere Lösung. (Energiewende, Wasserstoff)</description>
       <pubDate>Tue, 01 Sep 2026 09:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>AISI Deutschland: KI-Institut soll Gefahren von KI-Modellen bewerten</title>
-      <link>https://www.golem.de/news/aisi-deutschland-ki-institut-soll-gefahren-von-ki-modellen-bewerten-2609-212488.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/aisi-deutschland-ki-institut-soll-gefahren-von-ki-modellen-bewerten-2609-212488.html</guid>
-      <description>Die Bundesregierung sieht in KI-Systemen auch Gefahren für die nationale Sicherheit. BSI und Bundesnetzagentur sollen nun KI-Modelle bewerten. (KI, Politik)</description>
-      <pubDate>Tue, 01 Sep 2026 09:23:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
