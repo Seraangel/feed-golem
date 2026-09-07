@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 11:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:35:56 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Softwareentwicklung: Lese- und Schreibmodelle gezielt trennen - CQRS mit Augenmaß</title>
+      <link>https://www.golem.de/news/softwareentwicklung-lese-und-schreibmodelle-gezielt-trennen-cqrs-mit-augenmass-2609-212710.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-lese-und-schreibmodelle-gezielt-trennen-cqrs-mit-augenmass-2609-212710.html</guid>
+      <description>Zwischen Monolithen und verteiltem System liegt viel Spielraum. Wir zeigen, wo CQRS hilft und wann zusätzliche Architektur mehr kostet, als sie bringt. Ein Ratgebertext von Fabian Deitelhoff (Softwarearchitektur, API)</description>
+      <pubDate>Mon, 07 Sep 2026 11:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Über Zero-Day-Lücke: Angreifer schleusen Backdoor in Onlineshops ein</title>
       <link>https://www.golem.de/news/ueber-zero-day-luecke-angreifer-schleusen-backdoor-in-onlineshops-ein-2609-212724.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-minizange-von-knipex-unter-vergleichspreis-2609-212516.html</guid>
       <description>Amazon hat auf einen Mitbewerber reagiert und die Knipex Cobra XS reduziert. Dieser und andere Shops werden nun effektiv unterboten. (Technik/Hardware)</description>
       <pubDate>Tue, 01 Sep 2026 16:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Apple Inc: Tim Cook's Apple legacy by the numbers</title>
-      <link>https://www.golem.de/news/apple-inc-tim-cook-s-apple-legacy-by-the-numbers-2609-212487.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/apple-inc-tim-cook-s-apple-legacy-by-the-numbers-2609-212487.html</guid>
-      <description>CEO hands over to John Ternus on Tuesday after 15 years Von Michael Acton (Apple, Wirtschaft)</description>
-      <pubDate>Tue, 01 Sep 2026 16:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
