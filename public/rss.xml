@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 05:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 05:31:04 GMT</lastBuildDate>
+    <item>
+      <title>Werbepläne: Miami streitet über Verwandlung in Vice City</title>
+      <link>https://www.golem.de/news/werbeplaene-miami-streitet-ueber-verwandlung-in-vice-city-2609-212695.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/werbeplaene-miami-streitet-ueber-verwandlung-in-vice-city-2609-212695.html</guid>
+      <description>Rund um den Start von GTA 6 könnte Miami teilweise zu Vice City werden. Die Verwaltung hofft auf Einnahmen, Sheriff und Politiker protestieren. (GTA 6, Take-Two)</description>
+      <pubDate>Mon, 07 Sep 2026 05:27:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Zero Trust in Microsoft 365 sicher implementieren</title>
       <link>https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-sicher-implementieren-2609-212696.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/unibleed-wenn-ein-wurm-reihenweise-roboter-kompromittieren-kann-2609-212495.html</guid>
       <description>Ein Forscher hat die Firmware eines Unitree-Roboters auf Schwachstellen untersucht. Schadcode hätte wohl von Roboter zu Roboter springen können. (Sicherheitslücke, WLAN)</description>
       <pubDate>Tue, 01 Sep 2026 10:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smart Home: Ikea bringt smartes Heizkörper-Thermostat zum günstigen Preis</title>
-      <link>https://www.golem.de/news/smart-home-ikea-bringt-smartes-heizkoerper-thermostat-zum-guenstigen-preis-2609-212493.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smart-home-ikea-bringt-smartes-heizkoerper-thermostat-zum-guenstigen-preis-2609-212493.html</guid>
-      <description>Ikea setzt andere Smart-Home-Anbieter unter Druck. Das Möbelhaus bereitet die Markteinführung eines smarten Heizkörper-Thermostats zum Vorzugspreis vor. (Ikea, Smart Home)</description>
-      <pubDate>Tue, 01 Sep 2026 10:27:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
