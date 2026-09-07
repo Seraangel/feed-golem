@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 16:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:51:07 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Vibe Coding: Mit KI Software bauen ohne Programmierkenntnisse</title>
+      <link>https://www.golem.de/news/anzeige-vibe-coding-mit-ki-software-bauen-ohne-programmierkenntnisse-2609-212742.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-vibe-coding-mit-ki-software-bauen-ohne-programmierkenntnisse-2609-212742.html</guid>
+      <description>Vibe Coding verändert die Softwareentwicklung: Aus einer Idee entsteht mit KI-Unterstützung in kurzer Zeit ein funktionierender Prototyp. Ein Workshop zeigt die praktische Umsetzung. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Mon, 07 Sep 2026 16:45:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Powerbank von Cuktech mit 85 W und 20.000 mAh für unter 30 Euro</title>
       <link>https://www.golem.de/news/anzeige-powerbank-von-cuktech-mit-85-w-und-20-000-mah-fuer-unter-30-euro-2609-212744.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bis-zu-45-prozent-guenstiger-anthropic-senkt-kosten-fuer-fable-5-1-2609-212541.html</guid>
       <description>Anthropic lockert bei Fable 5.1 einzelne Sicherheitsfilter und verbessert die Leistung bei agentischen Aufgaben. (KI, Fable)</description>
       <pubDate>Wed, 02 Sep 2026 10:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tausende Systeme infiziert: Behörden zerschlagen 23 Jahre altes Botnetz</title>
-      <link>https://www.golem.de/news/tausende-systeme-infiziert-behoerden-zerschlagen-23-jahre-altes-botnetz-2609-212539.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/tausende-systeme-infiziert-behoerden-zerschlagen-23-jahre-altes-botnetz-2609-212539.html</guid>
-      <description>Über 15.000 PCs waren zuletzt Teil des seit 2003 aktiven Sality-Botnetzes - darunter auch solche aus Deutschland. Damit ist jetzt Schluss. (Botnet, Virus)</description>
-      <pubDate>Wed, 02 Sep 2026 09:50:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
