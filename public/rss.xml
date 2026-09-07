@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 13:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:01:10 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia: DLSS 5 treibt RTX 5090 über 600 Watt - Stromstecker schmilzt</title>
+      <link>https://www.golem.de/news/nvidia-dlss-5-treibt-rtx-5090-ueber-600-watt-stromstecker-schmilzt-2609-212736.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvidia-dlss-5-treibt-rtx-5090-ueber-600-watt-stromstecker-schmilzt-2609-212736.html</guid>
+      <description>Nvidias neues DLSS 5 kann die Leistungsaufnahme von Grafikkarten stark erhöhen. Unter Umständen zu stark. (Nvidia, Spielestreaming)</description>
+      <pubDate>Mon, 07 Sep 2026 13:55:08 GMT</pubDate>
+    </item>
     <item>
       <title>Militär: Trumps Space-Force-Uniform erinnert an Imperium aus Star Wars</title>
       <link>https://www.golem.de/news/militaer-trumps-space-force-uniform-erinnert-an-imperium-aus-star-wars-2609-212735.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-auto-vox-rueckfahrkamera-mit-grossem-bildschirm-und-ki-erkennung-zum-neuen-amazon-bestpreis-2609-212529.html</guid>
       <description>Die kabellose AUTO-VOX-Rückfahrkamera mit KI-Fußgängererkennung und Solarladung ist gerade auf ihren bisher niedrigsten Amazon-Preis gefallen. (Technik/Hardware)</description>
       <pubDate>Wed, 02 Sep 2026 08:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lärm durch KI-Rechenzentren: Akustiker bekommen mehr Rechenzentrums-Aufträge</title>
-      <link>https://www.golem.de/news/laerm-durch-ki-rechenzentren-akustiker-bekommen-mehr-rechenzentrums-auftraege-2609-212527.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/laerm-durch-ki-rechenzentren-akustiker-bekommen-mehr-rechenzentrums-auftraege-2609-212527.html</guid>
-      <description>KI-Rechenzentren erhöhen die Nachfrage nach Akustikberatung. Ein US-Büro erhält monatlich so viele Anfragen wie früher jährlich. (Arbeit, KI)</description>
-      <pubDate>Wed, 02 Sep 2026 08:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
