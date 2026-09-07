@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 06:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 07:06:01 GMT</lastBuildDate>
+    <item>
+      <title>Mikrotik: Über 100.000 Router sind laufenden Angriffen ausgesetzt</title>
+      <link>https://www.golem.de/news/mikrotik-ueber-100-000-router-sind-laufenden-angriffen-ausgesetzt-2609-212701.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mikrotik-ueber-100-000-router-sind-laufenden-angriffen-ausgesetzt-2609-212701.html</guid>
+      <description>Wer einen Mikrotik-Router verwendet, sollte diesen dringend aktualisieren. Angreifer nutzen Sicherheitslücken aus, um die Geräte über SSH zu kapern. (Sicherheitslücke, Netzwerk)</description>
+      <pubDate>Mon, 07 Sep 2026 07:04:02 GMT</pubDate>
+    </item>
     <item>
       <title>Softwareentwicklung: "Typing Code is absolutely over"</title>
       <link>https://www.golem.de/news/softwareentwicklung-typing-code-is-absolutely-over-2609-212699.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/metabase-datenbank-leck-passwort-reset-und-die-zugangsdaten-aller-datenbanken-sind-weg-2609-212483.html</guid>
       <description>Eine SQL-Lücke in Metabase liefert die Zugangsdaten aller angebundenen Datenbanken. Worauf es jetzt ankommt. Ein Ratgebertext von Steffen Zahn (Security, Datenbank)</description>
       <pubDate>Tue, 01 Sep 2026 11:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>SweepLED: 6-Euro-Aufsatz für Smartphones kann versteckte Kameras entdecken</title>
-      <link>https://www.golem.de/news/sweepled-6-euro-aufsatz-fuer-smartphones-kann-versteckte-kameras-entdecken-2609-212498.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sweepled-6-euro-aufsatz-fuer-smartphones-kann-versteckte-kameras-entdecken-2609-212498.html</guid>
-      <description>Wissenschaftler aus Südkorea und Singapur haben einen preiswerten Smartphone-Aufsatz entwickelt, der versteckte Kameras mithilfe von LEDs entdeckt. (Privatsphäre, Smartphone)</description>
-      <pubDate>Tue, 01 Sep 2026 11:21:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
