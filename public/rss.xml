@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 05:31:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 06:26:02 GMT</lastBuildDate>
+    <item>
+      <title>Wahlen in Sachsen-Anhalt: Musk und US-Politiker gratulieren der AfD zum Wahlsieg</title>
+      <link>https://www.golem.de/news/wahlen-in-sachsen-anhalt-musk-und-us-politiker-gratulieren-der-afd-zum-wahlsieg-2609-212697.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wahlen-in-sachsen-anhalt-musk-und-us-politiker-gratulieren-der-afd-zum-wahlsieg-2609-212697.html</guid>
+      <description>Nach der Wahl in Sachsen-Anhalt gratulieren Elon Musk, Richard Grenell und Kirill Dmitrijew der AfD. Die Partei bietet Musk Kooperation an. (Donald Trump, Politik)</description>
+      <pubDate>Mon, 07 Sep 2026 06:24:09 GMT</pubDate>
+    </item>
     <item>
       <title>Werbepläne: Miami streitet über Verwandlung in Vice City</title>
       <link>https://www.golem.de/news/werbeplaene-miami-streitet-ueber-verwandlung-in-vice-city-2609-212695.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-drehmomentschluessel-set-fuer-fahrrad-und-motorrad-reduziert-nur-44-euro-bei-amazon-2609-212496.html</guid>
       <description>LEXIVON verkauft sein Drehmomentschlüssel-Set gerade zum Sparpreis, mit Dual-Range-Skala, 72-Zahn-Ratschenkopf und 15 Bits für Hex und Torx. (Technik/Hardware, Auto)</description>
       <pubDate>Tue, 01 Sep 2026 10:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unibleed: Wenn ein Wurm ganze Armeen humanoider Roboter kapern kann</title>
-      <link>https://www.golem.de/news/unibleed-wenn-ein-wurm-reihenweise-roboter-kompromittieren-kann-2609-212495.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/unibleed-wenn-ein-wurm-reihenweise-roboter-kompromittieren-kann-2609-212495.html</guid>
-      <description>Ein Forscher hat die Firmware eines Unitree-Roboters auf Schwachstellen untersucht. Schadcode hätte wohl von Roboter zu Roboter springen können. (Sicherheitslücke, WLAN)</description>
-      <pubDate>Tue, 01 Sep 2026 10:44:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
