@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 11:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:21:02 GMT</lastBuildDate>
+    <item>
+      <title>Über Zero-Day-Lücke: Angreifer schleusen Backdoor in Onlineshops ein</title>
+      <link>https://www.golem.de/news/ueber-zero-day-luecke-angreifer-schleusen-backdoor-in-onlineshops-ein-2609-212724.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ueber-zero-day-luecke-angreifer-schleusen-backdoor-in-onlineshops-ein-2609-212724.html</guid>
+      <description>Hacker kompromittieren Onlineshops auf Basis von Magento über eine Sicherheitslücke. Sie schleusen Schadcode ein und platzieren eine Backdoor. (Sicherheitslücke, Onlineshop)</description>
+      <pubDate>Mon, 07 Sep 2026 11:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ninja Foodi MAX Dual Zone Heißluftfritteuse zum Amazon-Aktionspreis unter 150 Euro</title>
       <link>https://www.golem.de/news/anzeige-ninja-foodi-max-dual-zone-heissluftfritteuse-zum-amazon-aktionspreis-unter-150-euro-2609-212720.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/apple-inc-tim-cook-s-apple-legacy-by-the-numbers-2609-212487.html</guid>
       <description>CEO hands over to John Ternus on Tuesday after 15 years Von Michael Acton (Apple, Wirtschaft)</description>
       <pubDate>Tue, 01 Sep 2026 16:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aus Versehen v2.0: Openclaw 2.0 bringt Widgets und verbesserte Zusammenarbeit</title>
-      <link>https://www.golem.de/news/aus-versehen-v2-0-openclaw-2-0-bringt-widgets-und-verbesserte-zusammenarbeit-2609-212515.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/aus-versehen-v2-0-openclaw-2-0-bringt-widgets-und-verbesserte-zusammenarbeit-2609-212515.html</guid>
-      <description>Eigentlich wollten die Entwickler nur die Installation von Openclaw vereinfachen, haben aber stattdessen Openclaw 2.0 erstellt. (Openclaw, KI)</description>
-      <pubDate>Tue, 01 Sep 2026 15:59:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
