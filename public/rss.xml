@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 09:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 09:51:17 GMT</lastBuildDate>
+    <item>
+      <title>BSI-Warnung: Berliner Landes-IT offenbar über Fake-Captcha gehackt</title>
+      <link>https://www.golem.de/news/bsi-warnung-berliner-landes-it-offenbar-ueber-fake-captcha-gehackt-2609-212711.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bsi-warnung-berliner-landes-it-offenbar-ueber-fake-captcha-gehackt-2609-212711.html</guid>
+      <description>Nach dem Hackerangriff auf Berlin warnt das BSI vor den Methoden der Angreifer. Einstiegspunkt sind demnach betrügerische Captchas auf Webseiten. (Cybercrime, Security)</description>
+      <pubDate>Mon, 07 Sep 2026 09:50:03 GMT</pubDate>
+    </item>
     <item>
       <title>Streit um Luftraum: Verband will private Drohnenflüge massiv einschränken</title>
       <link>https://www.golem.de/news/streit-um-luftraum-verband-will-private-drohnenfluege-massiv-einschraenken-2609-212713.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-4k-dashcam-mit-128-gb-speicherkarte-jetzt-zum-amazon-bestpreis-fuer-119-69-euro-2609-212509.html</guid>
       <description>Die Redtiger-Dashcam filmt in 4K, speichert GPS-Daten und bietet selbst bei Dunkelheit scharfe und gerichtsverwertbare Beweisbilder. (Technik/Hardware)</description>
       <pubDate>Tue, 01 Sep 2026 15:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kraftwerk Jänschwalde: Selbstgebaute Rakete trifft Stromnetz in Brandenburg</title>
-      <link>https://www.golem.de/news/kraftwerk-jaenschwalde-selbstgebaute-rakete-trifft-stromnetz-in-brandenburg-2609-212508.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kraftwerk-jaenschwalde-selbstgebaute-rakete-trifft-stromnetz-in-brandenburg-2609-212508.html</guid>
-      <description>Kurzzeitig ist durch eine Detonation ein Kraftwerksblock ausgefallen. Mehrere nicht explodierte Sprengsätze wurden gefunden. (Energie, Politik)</description>
-      <pubDate>Tue, 01 Sep 2026 14:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
