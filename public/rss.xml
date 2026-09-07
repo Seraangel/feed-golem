@@ -11,9 +11,16 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 11:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:01:04 GMT</lastBuildDate>
     <item>
-      <title>Anzeige: Bluetooth-Kopfhörer mit ANC und Hi-Res-Audio für 31,99</title>
+      <title>Elektromobilität: VW ID.Polo und Skoda Epiq auf Monate ausverkauft</title>
+      <link>https://www.golem.de/news/elektromobilitaet-vw-id-polo-und-skoda-epiq-auf-monate-ausverkauft-2609-212725.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-vw-id-polo-und-skoda-epiq-auf-monate-ausverkauft-2609-212725.html</guid>
+      <description>Die günstigen E-Autos aus dem VW-Konzern stoßen auf eine große Nachfrage. Bislang werden über die Kaufprämie eher asiatische Kleinwagen gefördert. Ein Bericht von Friedhelm Greis (Elektroauto, Auto)</description>
+      <pubDate>Mon, 07 Sep 2026 11:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Bluetooth-Kopfhörer mit ANC und Hi-Res-Audio für 31,99 Euro</title>
       <link>https://www.golem.de/news/anzeige-bluetooth-kopfhoerer-mit-anc-und-hi-res-audio-fuer-31-99-2609-212726.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-bluetooth-kopfhoerer-mit-anc-und-hi-res-audio-fuer-31-99-2609-212726.html</guid>
       <description>Die beliebten Bluetooth-Kopfhörer Soundcore Q20i mit hybridem ANC, Hi-Res-Audio und BassUp-Technologie sind bei Amazon reduziert. (Kopfhörer, Audio/Video)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/politik-hamburg-fordert-verbot-von-smart-glasses-2609-212520.html</guid>
       <description>Hamburgs Politik fordert klare Regeln für Smart Glasses in Bädern und im ÖPNV sowie strengere Vorgaben auf Bundesebene. (Datenschutz, Foto)</description>
       <pubDate>Wed, 02 Sep 2026 05:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Ansible-Workshop: Konfigurationsmanagement ohne Agent</title>
-      <link>https://www.golem.de/news/anzeige-ansible-workshop-konfigurationsmanagement-ohne-agent-2609-212518.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-workshop-konfigurationsmanagement-ohne-agent-2609-212518.html</guid>
-      <description>Server und Anwendungen manuell zu konfigurieren, kostet Zeit und birgt Fehlerquellen. Ein Workshop der Golem Karrierewelt vermittelt automatisiertes Systemdeployment mit Ansible. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Wed, 02 Sep 2026 05:15:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
