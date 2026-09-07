@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 13:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 13:25:59 GMT</lastBuildDate>
+    <item>
+      <title>Von Cabrio zur Rakete: VW-Werk Osnabrück wird zur Rüstungsfabrik</title>
+      <link>https://www.golem.de/news/von-cabrio-zur-rakete-vw-werk-osnabrueck-wird-zur-ruestungsfabrik-2609-212734.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/von-cabrio-zur-rakete-vw-werk-osnabrueck-wird-zur-ruestungsfabrik-2609-212734.html</guid>
+      <description>Aus dem Karmann-Werk in Osnabrück wird ein Kompetenzzentrum für Verteidigungstechnik. Rafael produziert dort künftig Luftverteidigungssysteme. (Militär, Politik)</description>
+      <pubDate>Mon, 07 Sep 2026 13:24:06 GMT</pubDate>
+    </item>
     <item>
       <title>Verteilung von Betriebssystemen: Windows 10 legt zu, Windows 11 verliert</title>
       <link>https://www.golem.de/news/verteilung-von-betriebssystemen-windows-10-legt-zu-windows-11-verliert-2609-212733.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/allgemeine-relativitaetstheorie-satellitenbahnen-durch-raumzeitverzerrung-beeinflusst-2609-212528.html</guid>
       <description>Die Erde verzerrt die umgebende Raumzeit, wodurch Satellitenbahnen beeinflusst werden. Der Effekt ist nun präzise nachgemessen worden. (Physik, Wissenschaft)</description>
       <pubDate>Wed, 02 Sep 2026 08:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kritische Sicherheitslücke: Sonicwall-Firewalls werden attackiert</title>
-      <link>https://www.golem.de/news/hersteller-warnt-sonicwall-firewalls-werden-attackiert-2609-212525.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hersteller-warnt-sonicwall-firewalls-werden-attackiert-2609-212525.html</guid>
-      <description>Angreifer haben es auf Firewalls von Sonicwall abgesehen. Sie nutzen laut Hersteller zwei gefährliche Lücken aus. Admins sollten dringend handeln. (Sicherheitslücke, Server)</description>
-      <pubDate>Wed, 02 Sep 2026 07:40:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
