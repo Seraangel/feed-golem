@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 11:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:51:01 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Bluetooth-Kopfhörer mit ANC und Hi-Res-Audio für 31,99</title>
+      <link>https://www.golem.de/news/anzeige-bluetooth-kopfhoerer-mit-anc-und-hi-res-audio-fuer-31-99-2609-212726.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bluetooth-kopfhoerer-mit-anc-und-hi-res-audio-fuer-31-99-2609-212726.html</guid>
+      <description>Die beliebten Bluetooth-Kopfhörer Soundcore Q20i mit hybridem ANC, Hi-Res-Audio und BassUp-Technologie sind bei Amazon reduziert. (Kopfhörer, Audio/Video)</description>
+      <pubDate>Mon, 07 Sep 2026 11:47:08 GMT</pubDate>
+    </item>
     <item>
       <title>Sachsen-Anhalt: Wie die Techbranche auf den Wahlsieg der AfD reagiert</title>
       <link>https://www.golem.de/news/sachsen-anhalt-wie-die-techbranche-auf-den-wahlsieg-der-afd-reagiert-2609-212719.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-workshop-konfigurationsmanagement-ohne-agent-2609-212518.html</guid>
       <description>Server und Anwendungen manuell zu konfigurieren, kostet Zeit und birgt Fehlerquellen. Ein Workshop der Golem Karrierewelt vermittelt automatisiertes Systemdeployment mit Ansible. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Wed, 02 Sep 2026 05:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Azure-Infrastruktur professionell administrieren</title>
-      <link>https://www.golem.de/news/anzeige-azure-infrastruktur-professionell-administrieren-2609-212471.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-azure-infrastruktur-professionell-administrieren-2609-212471.html</guid>
-      <description>Die Administration von Microsoft Azure-Infrastrukturdiensten verlangt fundiertes Wissen über Architektur, Sicherheit und Kosten. Ein Workshop vermittelt das nötige Rüstzeug. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Tue, 01 Sep 2026 16:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
