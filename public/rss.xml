@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 08 Sep 2026 16:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 16:46:28 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mobile Geräte sicher verwalten mit Microsoft Intune</title>
+      <link>https://www.golem.de/news/anzeige-mobile-geraete-sicher-verwalten-mit-microsoft-intune-2609-212785.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobile-geraete-sicher-verwalten-mit-microsoft-intune-2609-212785.html</guid>
+      <description>Windows, iOS, MacOS und Android parallel zu verwalten stellt IT-Administratoren vor komplexe Aufgaben. Ein Workshop zu Microsoft Intune vermittelt das nötige Praxiswissen. (Golem Karrierewelt, Betriebssysteme)</description>
+      <pubDate>Tue, 08 Sep 2026 16:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) IPOs: Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO</title>
       <link>https://www.golem.de/news/ipos-anthropic-and-openai-bankers-push-for-top-tier-credit-ratings-post-ipo-2609-212782.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/samsung-siegt-vor-gericht-stadt-darf-schul-tablets-nicht-exklusiv-von-apple-bestellen-2609-212587.html</guid>
       <description>Die Anschaffung 650 neuer iPads für Schulen wurde per Gericht gestoppt. Samsung klagte, weil es keine produktneutrale Ausschreibung gab. (iPad, Apple)</description>
       <pubDate>Thu, 03 Sep 2026 08:18:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordpress: Lücke in Backup-Tool gefährdet Millionen von Websites</title>
-      <link>https://www.golem.de/news/wordpress-luecke-in-backup-tool-gefaehrdet-millionen-von-websites-2609-212585.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wordpress-luecke-in-backup-tool-gefaehrdet-millionen-von-websites-2609-212585.html</guid>
-      <description>In einem Wordpress-Plug-in mit über 5 Millionen Installationen klafft eine gefährliche Sicherheitslücke. Admins sollten dringend handeln. (Sicherheitslücke, Wordpress)</description>
-      <pubDate>Thu, 03 Sep 2026 08:07:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
