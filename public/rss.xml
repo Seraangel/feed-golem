@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 08 Sep 2026 09:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 09:25:57 GMT</lastBuildDate>
+    <item>
+      <title>Neoverse CSS-N4: ARM ermöglicht bis zu 128 Kerne pro Chiplet für Server</title>
+      <link>https://www.golem.de/news/neoverse-css-n4-arm-ermoeglicht-bis-zu-128-kerne-pro-chiplet-fuer-server-2609-212762.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/neoverse-css-n4-arm-ermoeglicht-bis-zu-128-kerne-pro-chiplet-fuer-server-2609-212762.html</guid>
+      <description>Bei Kernen für Server-CPUs geht ARM neue Wege: Vorerst gibt es eine vierte Neoverse-Generation nur bei den kompakteren N-Kernen. (Prozessor, Mesh)</description>
+      <pubDate>Tue, 08 Sep 2026 09:24:03 GMT</pubDate>
+    </item>
     <item>
       <title>Künstliche Intelligenz: Forscher wird von KI-Agent per E-Mail für KI-Podcast befragt</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-forscher-wird-von-ki-agent-per-e-mail-fuer-ki-podcast-befragt-2609-212763.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sportuhr-huawei-watch-gt-7-pro-wird-fast-zum-fahrradcomputer-2609-212426.html</guid>
       <description>Huawei baut die Outdoor-Sportuhr vor allem für Radfahrer, Skifahrer und Golfer aus. Wir haben das Wearable ausprobiert - so gut es ging. Ein Hands-on von Peter Steinlechner (Sportuhr, Huawei)</description>
       <pubDate>Wed, 02 Sep 2026 13:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Einhell Werkzeugkoffer bei Amazon zum Bestpreis</title>
-      <link>https://www.golem.de/news/anzeige-einhell-werkzeugkoffer-bei-amazon-zum-bestpreis-2609-212555.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-werkzeugkoffer-bei-amazon-zum-bestpreis-2609-212555.html</guid>
-      <description>Für Reparaturen und Heimwerkerprojekte ist das richtige Werkzeug entscheidend. Amazon bietet gegenwärtig den Einhell E-Case-Werkzeugkoffer zum aktuellen Bestpreis an. (Technik/Hardware)</description>
-      <pubDate>Wed, 02 Sep 2026 12:55:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
