@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 08 Sep 2026 03:01:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 05:20:54 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Grundschutz-Praktiker: Workshop mit BSI-Zertifikat</title>
+      <link>https://www.golem.de/news/anzeige-it-grundschutz-praktiker-workshop-mit-bsi-zertifikat-2609-212747.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-grundschutz-praktiker-workshop-mit-bsi-zertifikat-2609-212747.html</guid>
+      <description>Informationssicherheit nach dem IT-Grundschutz des BSI aufzubauen, verlangt fundiertes Methodenwissen. Ein Training vermittelt Grundlagen für Risikoanalyse und Zertifizierung. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 08 Sep 2026 05:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>CSS for Mobile 2: ARM will weiterhin ohne NPU auskommen</title>
       <link>https://www.golem.de/news/css-for-mobile-2-arm-will-weiterhin-ohne-npu-auskommen-2609-212746.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mih-net-eurofiber-telefonica-bietet-glasfaseranschluesse-in-berlin-2609-212538.html</guid>
       <description>Telefónica Deutschland vermarktet in Berlin O2-Glasfaser auf dem Open-Access-Netz von MIH Net Berlin. Das Glasfasernetz erreicht bis zu 1 GBit/s. (Telefónica, Glasfaser)</description>
       <pubDate>Wed, 02 Sep 2026 10:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Truesource: Broadcom will die Software-Welt sicherer machen</title>
-      <link>https://www.golem.de/news/truesource-broadcom-will-die-software-welt-sicherer-machen-2609-212537.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/truesource-broadcom-will-die-software-welt-sicherer-machen-2609-212537.html</guid>
-      <description>Broadcom will vertrauenswürdige Builds von Open-Source-Software anbieten. Eigene Entwickler sollen mit KI-Unterstützung Sicherheitslücken stopfen. (Software, MySQL)</description>
-      <pubDate>Wed, 02 Sep 2026 10:17:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
