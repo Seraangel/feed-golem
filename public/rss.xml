@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 07 Sep 2026 16:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 03:01:00 GMT</lastBuildDate>
+    <item>
+      <title>CSS for Mobile 2: ARM will weiterhin ohne NPU auskommen</title>
+      <link>https://www.golem.de/news/css-for-mobile-2-arm-will-weiterhin-ohne-npu-auskommen-2609-212746.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/css-for-mobile-2-arm-will-weiterhin-ohne-npu-auskommen-2609-212746.html</guid>
+      <description>ARM hat eine neue Generation an CPU-Kernen für Smartphones vorgestellt. Die sieht Matrixeinheiten für KI bereits im Einstiegssegment vor. (Prozessor, Smartphone)</description>
+      <pubDate>Tue, 08 Sep 2026 02:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mali G2-Ultra NX: KI-Rendering ist auch bei ARM angekommen</title>
+      <link>https://www.golem.de/news/mali-g2-ultra-nx-ki-rendering-ist-auch-bei-arm-angekommen-2609-212741.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mali-g2-ultra-nx-ki-rendering-ist-auch-bei-arm-angekommen-2609-212741.html</guid>
+      <description>Bessere Grafik, höhere Frameraten bei gleichzeitig niedrigerer Leistungsaufnahme verspricht ARMs neue Mali-GPU-Generation dank KI-Kernen. (Grafikkarten, KI)</description>
+      <pubDate>Tue, 08 Sep 2026 02:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Vibe Coding: Mit KI Software bauen ohne Programmierkenntnisse</title>
       <link>https://www.golem.de/news/anzeige-vibe-coding-mit-ki-software-bauen-ohne-programmierkenntnisse-2609-212742.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/truesource-broadcom-will-die-software-welt-sicherer-machen-2609-212537.html</guid>
       <description>Broadcom will vertrauenswürdige Builds von Open-Source-Software anbieten. Eigene Entwickler sollen mit KI-Unterstützung Sicherheitslücken stopfen. (Software, MySQL)</description>
       <pubDate>Wed, 02 Sep 2026 10:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Lego Barad-dur bei Amazon 69 Euro günstiger und zum aktuellen Bestpreis</title>
-      <link>https://www.golem.de/news/anzeige-lego-barad-dur-bei-amazon-69-euro-guenstiger-und-zum-aktuellen-bestpreis-2609-212543.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-lego-barad-dur-bei-amazon-69-euro-guenstiger-und-zum-aktuellen-bestpreis-2609-212543.html</guid>
-      <description>Amazon senkt Lego Barad-dur um 69 Euro im befristeten Angebot. Laut Geizhals ist das derzeit der günstigste Gesamtpreis im Onlinehandel. (Lego, Amazon)</description>
-      <pubDate>Wed, 02 Sep 2026 10:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bis zu 45 Prozent günstiger: Anthropic senkt Kosten für Fable 5.1</title>
-      <link>https://www.golem.de/news/bis-zu-45-prozent-guenstiger-anthropic-senkt-kosten-fuer-fable-5-1-2609-212541.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bis-zu-45-prozent-guenstiger-anthropic-senkt-kosten-fuer-fable-5-1-2609-212541.html</guid>
-      <description>Anthropic lockert bei Fable 5.1 einzelne Sicherheitsfilter und verbessert die Leistung bei agentischen Aufgaben. (KI, Fable)</description>
-      <pubDate>Wed, 02 Sep 2026 10:05:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
