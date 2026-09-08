@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 08 Sep 2026 06:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:41:01 GMT</lastBuildDate>
+    <item>
+      <title>DIY: Das Balkonkraftwerk als E-Auto-Tankstelle</title>
+      <link>https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html</guid>
+      <description>Das E-Auto mit Strom aus eigener Produktion zu laden, war lange Hausbesitzern mit großer Dach-PV vorbehalten. Nun gibt es moderne Akku-Balkonkraftwerke - was geht damit bereits? Ein Erfahrungsbericht von Dennis Ziesecke (Elektroauto, Auto)</description>
+      <pubDate>Tue, 08 Sep 2026 06:38:08 GMT</pubDate>
+    </item>
     <item>
       <title>Experiment: KI-Agenten scheitern beim autonomen Geldverdienen</title>
       <link>https://www.golem.de/news/experiment-ki-agenten-scheitern-beim-autonomen-geldverdienen-2609-212750.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gemini-pixel-smartphones-bekommen-geraeteeinstellungen-per-sprache-2609-212544.html</guid>
       <description>Um Einstellungen vorzunehmen oder Probleme mit dem Smartphone zu lösen, können Pixel-Besitzer ab sofort Gemini fragen. (Google Pixel, Google)</description>
       <pubDate>Wed, 02 Sep 2026 10:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Anker-100W-GaN-Ladegerät mit Display und drei Ports zum Amazon-Tiefpreis für unter 50 Euro</title>
-      <link>https://www.golem.de/news/anzeige-anker-100w-gan-ladegeraet-mit-display-und-drei-ports-zum-amazon-tiefpreis-fuer-unter-50-euro-2609-212547.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-anker-100w-gan-ladegeraet-mit-display-und-drei-ports-zum-amazon-tiefpreis-fuer-unter-50-euro-2609-212547.html</guid>
-      <description>Amazon unterbietet mit dem 100W-GaN-Ladegerät mit Smart Display, drei Ports und einklappbarem Stecker sogar den eigenen Prime-Day-Preis. (Technik/Hardware, Notebook)</description>
-      <pubDate>Wed, 02 Sep 2026 10:51:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
