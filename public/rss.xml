@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 08 Sep 2026 06:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:56:22 GMT</lastBuildDate>
+    <item>
+      <title>Phishing-Warnung: Kleinanzeigen informiert Nutzer über Datenpanne</title>
+      <link>https://www.golem.de/news/phishing-warnung-kleinanzeigen-informiert-nutzer-ueber-datenpanne-2609-212751.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/phishing-warnung-kleinanzeigen-informiert-nutzer-ueber-datenpanne-2609-212751.html</guid>
+      <description>Angreifer sind über eine Schnittstelle von Kleinanzeigen an Nutzerdaten gelangt. Der Anbieter warnt vor einem möglichen Missbrauch für Phishing. (Phishing, E-Mail)</description>
+      <pubDate>Tue, 08 Sep 2026 06:50:08 GMT</pubDate>
+    </item>
     <item>
       <title>DIY: Das Balkonkraftwerk als E-Auto-Tankstelle</title>
       <link>https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 08 Sep 2026 06:25:01 GMT</pubDate>
     </item>
     <item>
-      <title>Scharfe Kritik in Rokus KI-Sender: So spannend wie ein DVD-Menü oder das Betrachten eines Kühlschranks</title>
+      <title>Scharfe Kritik an Rokus KI-Sender: So spannend wie ein DVD-Menü oder das Betrachten eines Kühlschranks</title>
       <link>https://www.golem.de/news/scharfe-kritik-in-rokus-ki-sender-so-spannend-wie-ein-dvd-menue-oder-das-betrachten-eines-kuehlschranks-2609-212749.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/scharfe-kritik-in-rokus-ki-sender-so-spannend-wie-ein-dvd-menue-oder-das-betrachten-eines-kuehlschranks-2609-212749.html</guid>
       <description>Das Streamingunternehmen Roku bietet einen Sender, der ausschließlich KI-generierte Inhalte zeigt. Das Ergebnis ist schlimmer als erwartet. (Roku, KI)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kunst-und-kultur-muenchner-buchmesse-verbietet-ki-verfasste-buecher-2609-212545.html</guid>
       <description>Auch Bücher, die nur in Teilen KI-geschrieben wurden, sind auf der Veranstaltung unerwünscht. Der Kreativprozess soll vom Menschen ausgehen. (KI, Software)</description>
       <pubDate>Wed, 02 Sep 2026 11:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini: Pixel-Smartphones bekommen Geräteeinstellungen per Sprache</title>
-      <link>https://www.golem.de/news/gemini-pixel-smartphones-bekommen-geraeteeinstellungen-per-sprache-2609-212544.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gemini-pixel-smartphones-bekommen-geraeteeinstellungen-per-sprache-2609-212544.html</guid>
-      <description>Um Einstellungen vorzunehmen oder Probleme mit dem Smartphone zu lösen, können Pixel-Besitzer ab sofort Gemini fragen. (Google Pixel, Google)</description>
-      <pubDate>Wed, 02 Sep 2026 10:58:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
