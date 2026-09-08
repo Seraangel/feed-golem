@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 08 Sep 2026 06:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 06:31:00 GMT</lastBuildDate>
+    <item>
+      <title>Experiment: KI-Agenten scheitern beim autonomen Geldverdienen</title>
+      <link>https://www.golem.de/news/experiment-ki-agenten-scheitern-beim-autonomen-geldverdienen-2609-212750.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/experiment-ki-agenten-scheitern-beim-autonomen-geldverdienen-2609-212750.html</guid>
+      <description>Ein Test von Bottleneck Labs offenbart, dass autonome KI-Modelle kein Geld verdienen, sondern Spam und unberechtigte Rechnungen erzeugen. (KI, API)</description>
+      <pubDate>Tue, 08 Sep 2026 06:25:01 GMT</pubDate>
+    </item>
     <item>
       <title>Scharfe Kritik in Rokus KI-Sender: So spannend wie ein DVD-Menü oder das Betrachten eines Kühlschranks</title>
       <link>https://www.golem.de/news/scharfe-kritik-in-rokus-ki-sender-so-spannend-wie-ein-dvd-menue-oder-das-betrachten-eines-kuehlschranks-2609-212749.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-anker-100w-gan-ladegeraet-mit-display-und-drei-ports-zum-amazon-tiefpreis-fuer-unter-50-euro-2609-212547.html</guid>
       <description>Amazon unterbietet mit dem 100W-GaN-Ladegerät mit Smart Display, drei Ports und einklappbarem Stecker sogar den eigenen Prime-Day-Preis. (Technik/Hardware, Notebook)</description>
       <pubDate>Wed, 02 Sep 2026 10:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rockstar Games: NPCs in GTA 6 reagieren auf Kleidung, Streit und ihre Umgebung</title>
-      <link>https://www.golem.de/news/rockstar-games-npcs-in-gta-6-reagieren-auf-kleidung-streit-und-ihre-umgebung-2609-212542.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-npcs-in-gta-6-reagieren-auf-kleidung-streit-und-ihre-umgebung-2609-212542.html</guid>
-      <description>Neue Infos zu GTA 6 zeigen, wie die Welt lebendiger wird: NPCs reagieren auf Provokationen und Polizeiunfälle sollen nicht geskriptet sein. (GTA 6, Rockstar)</description>
-      <pubDate>Wed, 02 Sep 2026 10:45:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
