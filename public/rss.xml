@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 07:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:56:11 GMT</lastBuildDate>
+    <item>
+      <title>Ein falscher Klick genügt: Google warnt vor Schadcode-Attacken auf Chrome-Nutzer</title>
+      <link>https://www.golem.de/news/ein-falscher-klick-genuegt-google-warnt-vor-schadcode-attacken-auf-chrome-nutzer-2609-212799.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ein-falscher-klick-genuegt-google-warnt-vor-schadcode-attacken-auf-chrome-nutzer-2609-212799.html</guid>
+      <description>Die jüngsten Chrome-Updates schließen 230 Sicherheitslücken. Mindestens eine wird schon aktiv ausgenutzt. Anwender sollten zügig patchen. (Sicherheitslücke, Google)</description>
+      <pubDate>Wed, 09 Sep 2026 07:51:15 GMT</pubDate>
+    </item>
     <item>
       <title>Trickfilmserie kritisiert Trump: South Park wird zu South America</title>
       <link>https://www.golem.de/news/trickfilmserie-kritisiert-trump-south-park-wird-zu-south-america-2609-212798.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bitkom-immer-weniger-offene-it-stellen-in-deutschland-2609-212601.html</guid>
       <description>Laut Bitkom-Präsident Ralf Wintergerst kann KI Aufgaben übernehmen, die bislang etwa von Entwicklerinnen und Entwicklern erledigt wurden. (Arbeit, KI)</description>
       <pubDate>Thu, 03 Sep 2026 10:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix und Synchronisation: Sprecherverband verlangt Prüfung umstrittener KI-Klausel</title>
-      <link>https://www.golem.de/news/netflix-und-synchronisation-sprecherverband-verlangt-pruefung-umstrittener-ki-klausel-2609-212600.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/netflix-und-synchronisation-sprecherverband-verlangt-pruefung-umstrittener-ki-klausel-2609-212600.html</guid>
-      <description>Der Streit um Netflix' KI-Klauseln für Synchronsprecher intensiviert sich. Ein Verband fordert das Bundeskartellamt zur Untersuchung auf. (Netflix, KI)</description>
-      <pubDate>Thu, 03 Sep 2026 10:33:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
