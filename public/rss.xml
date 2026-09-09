@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 12:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 12:55:58 GMT</lastBuildDate>
+    <item>
+      <title>Aktion: Telekom erhöht Datenvolumen bei Prepaid-Tarifen</title>
+      <link>https://www.golem.de/news/aktion-telekom-erhoeht-datenvolumen-bei-prepaid-tarifen-2609-212825.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/aktion-telekom-erhoeht-datenvolumen-bei-prepaid-tarifen-2609-212825.html</guid>
+      <description>Neukunden erhalten aktuell bei Magenta Mobil Prepaid mehr Inklusivvolumen. Die Tarife der Telekom bieten bis zu 100 GByte. (Telekom, Mobilfunktarif)</description>
+      <pubDate>Wed, 09 Sep 2026 12:50:07 GMT</pubDate>
+    </item>
     <item>
       <title>Reclusa X Mini 65%: Razers neue Tastatur hat vorgeschmierte Switches und Dämpfung</title>
       <link>https://www.golem.de/news/reclusa-x-mini-65-razers-neue-tastatur-hat-vorgeschmierte-switches-und-daempfung-2609-212830.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/zurueck-zum-fax-oesterreichische-ministerien-akzeptieren-keine-e-mail-anfragen-2609-212625.html</guid>
       <description>Für Informationsfreiheitsanfragen greift FragDenStaat in Österreich wieder auf das Fax zurück. (IFG, E-Mail)</description>
       <pubDate>Thu, 03 Sep 2026 16:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Opinion: Don't Be Seduced by the Language of AI</title>
-      <link>https://www.golem.de/news/opinion-don-t-be-seduced-by-the-language-of-ai-2609-212582.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/opinion-don-t-be-seduced-by-the-language-of-ai-2609-212582.html</guid>
-      <description>The attacks on Hugging Face ran from May to late July, yet the details of what actually happened when OpenAI's artificial-intelligence agents deceived their human overseers and breached the online repository of AI models and datasets are still trickling out. Von Parmy Olson (KI, Elon Musk)</description>
-      <pubDate>Thu, 03 Sep 2026 16:03:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
