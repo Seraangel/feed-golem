@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 16:51:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:55:58 GMT</lastBuildDate>
+    <item>
+      <title>Kirin 9050 Pro: Huawei will mit Logic Folding die 3-nm-Grenze geknackt haben</title>
+      <link>https://www.golem.de/news/kirin-9050-pro-huawei-will-mit-logic-folding-die-3-nm-grenze-geknackt-haben-2609-212842.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kirin-9050-pro-huawei-will-mit-logic-folding-die-3-nm-grenze-geknackt-haben-2609-212842.html</guid>
+      <description>Huaweis neues Smartphone-SoC soll die Transistordichte von TSMCs N3E übertreffen. Skepsis ist angebracht, die 5-nm-Ambitionen sind tot. (Halbleiterfertigung, Smartphone)</description>
+      <pubDate>Wed, 09 Sep 2026 16:51:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft 365 DSGVO-konform betreiben und absichern</title>
       <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2609-212841.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wasserstoff-hybrid-motor-umgeruesteter-dieselmotor-verbraucht-24-prozent-weniger-2609-212642.html</guid>
       <description>Eine H2-Einspritzung in einen regulären Dieselmotor eines Transportschiffs hat auf 16.000 km knapp ein Viertel an Diesel-Kraftstoff eingespart. (Wasserstoff, Energiewende)</description>
       <pubDate>Fri, 04 Sep 2026 07:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schwerlastverkehr: Acht Konzerne planen europäisches Wasserstoffnetz</title>
-      <link>https://www.golem.de/news/schwerlastverkehr-acht-konzerne-planen-europaeisches-wasserstoffnetz-2609-212641.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schwerlastverkehr-acht-konzerne-planen-europaeisches-wasserstoffnetz-2609-212641.html</guid>
-      <description>Daimler Truck, Volvo und Partner wollen in Europa ein Tankstellennetz für wasserstoffbetriebene Lastwagen aufbauen. (Wasserstoff, Brennstoffzelle)</description>
-      <pubDate>Fri, 04 Sep 2026 07:06:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
