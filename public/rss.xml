@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 16:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:51:13 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft 365 DSGVO-konform betreiben und absichern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2609-212841.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2609-212841.html</guid>
+      <description>Datenresidenz, Drittlandtransfer und Audit-Pflichten stellen Unternehmen bei Microsoft 365 vor Herausforderungen. Ein Onlineworkshop zeigt die DSGVO-konforme Konfiguration. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 09 Sep 2026 16:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Anker-Powerbank mit 165 W, 25.000 mAh und Display wieder für unter 80 Euro im Angebot</title>
       <link>https://www.golem.de/news/anzeige-anker-powerbank-mit-165-w-25-000-mah-und-display-wieder-fuer-unter-80-euro-im-angebot-2609-212840.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/schwerlastverkehr-acht-konzerne-planen-europaeisches-wasserstoffnetz-2609-212641.html</guid>
       <description>Daimler Truck, Volvo und Partner wollen in Europa ein Tankstellennetz für wasserstoffbetriebene Lastwagen aufbauen. (Wasserstoff, Brennstoffzelle)</description>
       <pubDate>Fri, 04 Sep 2026 07:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cyberabwehr: Bund rückt von BSI-Grundgesetzänderung ab</title>
-      <link>https://www.golem.de/news/cyberabwehr-bund-rueckt-von-bsi-grundgesetzaenderung-ab-2609-212640.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cyberabwehr-bund-rueckt-von-bsi-grundgesetzaenderung-ab-2609-212640.html</guid>
-      <description>Der Bund will das BSI offenbar nicht mehr per Grundgesetz stärken. Stattdessen setzt das Innenministerium auf bestehende Kooperationen. (BSI, Politik)</description>
-      <pubDate>Fri, 04 Sep 2026 06:39:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
