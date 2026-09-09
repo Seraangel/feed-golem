@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 06:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:45:53 GMT</lastBuildDate>
+    <item>
+      <title>Office-Alternative zu Microsoft: Libreoffice ohne KI-Funktionen bricht Download-Rekord</title>
+      <link>https://www.golem.de/news/office-alternative-zu-microsoft-libreoffice-ohne-ki-funktionen-bricht-download-rekord-2609-212794.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/office-alternative-zu-microsoft-libreoffice-ohne-ki-funktionen-bricht-download-rekord-2609-212794.html</guid>
+      <description>Der bewusste Verzicht auf jegliche KI-Funktionen kommt bei den Nutzern von Libreoffice gut an. (Libreoffice, Office-Suite)</description>
+      <pubDate>Wed, 09 Sep 2026 06:40:06 GMT</pubDate>
+    </item>
     <item>
       <title>Bing-Wallpaper-App: Microsoft zeigt Filmwerbung auf Windows Desktop</title>
       <link>https://www.golem.de/news/bing-wallpaper-app-microsoft-zeigt-filmwerbung-auf-windows-desktop-2609-212792.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/trotz-displaysperre-whatsapp-luecke-laesst-angreifer-private-fotos-durchstoebern-2609-212594.html</guid>
       <description>Angreifer können auf einigen Android-Geräten per Videoanruf in Whatsapp Zugriff auf die Galerie erlangen - und das trotz aktiver Displaysperre. (Sicherheitslücke, Smartphone)</description>
       <pubDate>Thu, 03 Sep 2026 09:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gerichtsurteil: Googles Werbegeschäft wird nicht zerschlagen</title>
-      <link>https://www.golem.de/news/gerichtsurteil-googles-werbegeschaeft-wird-nicht-zerschlagen-2609-212592.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gerichtsurteil-googles-werbegeschaeft-wird-nicht-zerschlagen-2609-212592.html</guid>
-      <description>Obwohl eine US-Richterin Google eine illegale Monopolstellung auf dem Werbemarkt attestiert hat, hält sie eine Zerschlagung für nicht erforderlich. (Google, Ad-Server)</description>
-      <pubDate>Thu, 03 Sep 2026 09:39:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
