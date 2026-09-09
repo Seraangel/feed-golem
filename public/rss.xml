@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 06:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:55:54 GMT</lastBuildDate>
+    <item>
+      <title>Patchday-Rekord: Fast 1.000 Sicherheitslücken in Windows, Office und Co.</title>
+      <link>https://www.golem.de/news/patchday-rekord-fast-1-000-sicherheitsluecken-in-windows-office-und-co-2609-212793.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/patchday-rekord-fast-1-000-sicherheitsluecken-in-windows-office-und-co-2609-212793.html</guid>
+      <description>Noch nie zuvor hat Microsoft innerhalb eines Monats so viele Sicherheitslücken gepatcht. Anwender sollten zügig updaten, denn Attacken laufen bereits. (Patchday, Microsoft)</description>
+      <pubDate>Wed, 09 Sep 2026 06:50:05 GMT</pubDate>
+    </item>
     <item>
       <title>Office-Alternative zu Microsoft: Libreoffice ohne KI-Funktionen bricht Download-Rekord</title>
       <link>https://www.golem.de/news/office-alternative-zu-microsoft-libreoffice-ohne-ki-funktionen-bricht-download-rekord-2609-212794.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-digitalkameras-von-canon-sony-nikon-guenstig-bei-back-market-2609-212597.html</guid>
       <description>Digitalkameras von Canon, Sony, Nikon und anderen Herstellern gibt es bei Back Market professionell erneuert zu günstigen Preisen. (Kameras, Sony)</description>
       <pubDate>Thu, 03 Sep 2026 09:54:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trotz Displaysperre: Whatsapp-Lücke lässt Angreifer private Fotos durchstöbern</title>
-      <link>https://www.golem.de/news/trotz-displaysperre-whatsapp-luecke-laesst-angreifer-private-fotos-durchstoebern-2609-212594.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/trotz-displaysperre-whatsapp-luecke-laesst-angreifer-private-fotos-durchstoebern-2609-212594.html</guid>
-      <description>Angreifer können auf einigen Android-Geräten per Videoanruf in Whatsapp Zugriff auf die Galerie erlangen - und das trotz aktiver Displaysperre. (Sicherheitslücke, Smartphone)</description>
-      <pubDate>Thu, 03 Sep 2026 09:49:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
