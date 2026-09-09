@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 05:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 06:35:53 GMT</lastBuildDate>
+    <item>
+      <title>Bing-Wallpaper-App: Microsoft zeigt Filmwerbung auf Windows Desktop</title>
+      <link>https://www.golem.de/news/bing-wallpaper-app-microsoft-zeigt-filmwerbung-auf-windows-desktop-2609-212792.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bing-wallpaper-app-microsoft-zeigt-filmwerbung-auf-windows-desktop-2609-212792.html</guid>
+      <description>Microsoft blendet über die Bing-Wallpaper-App Werbung für die Harry-Potter-Filmreihe auf dem Windows-Desktop ein. Nutzer reagieren verärgert. (Windows 11, Microsoft)</description>
+      <pubDate>Wed, 09 Sep 2026 06:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Azure sicher administrieren</title>
       <link>https://www.golem.de/news/anzeige-microsoft-azure-sicher-administrieren-2609-212790.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gerichtsurteil-googles-werbegeschaeft-wird-nicht-zerschlagen-2609-212592.html</guid>
       <description>Obwohl eine US-Richterin Google eine illegale Monopolstellung auf dem Werbemarkt attestiert hat, hält sie eine Zerschlagung für nicht erforderlich. (Google, Ad-Server)</description>
       <pubDate>Thu, 03 Sep 2026 09:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Förderung löst Protest aus: 1Password fördert Linux-Projekt mit 300.000 US-Dollar</title>
-      <link>https://www.golem.de/news/foerderung-loest-protest-aus-1password-foerdert-linux-projekt-mit-300-000-us-dollar-2609-212591.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/foerderung-loest-protest-aus-1password-foerdert-linux-projekt-mit-300-000-us-dollar-2609-212591.html</guid>
-      <description>Die begünstigte Stiftung betreut auch das auf Arch-Linux basierende Omarchy, dessen Verbindung zu David Heinemeier Hansson negativ gesehen wird. (Open Source, Ruby)</description>
-      <pubDate>Thu, 03 Sep 2026 09:26:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
