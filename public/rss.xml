@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 13:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 13:36:14 GMT</lastBuildDate>
+    <item>
+      <title>100. Ausgabe Chefs von Devs: "Wollt ihr wirklich, dass ich das entscheide?"</title>
+      <link>https://www.golem.de/news/100-ausgabe-chefs-von-devs-wollt-ihr-wirklich-dass-ich-das-entscheide-2609-212827.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/100-ausgabe-chefs-von-devs-wollt-ihr-wirklich-dass-ich-das-entscheide-2609-212827.html</guid>
+      <description>René Wienholtz ist für manche der Prototyp eines modernen CTO. In der Jubiläumsausgabe unseres Newsletters für IT-Führungskräfte erzählt er, was er unter Führung versteht. (Chefs von Devs, Wirtschaft)</description>
+      <pubDate>Wed, 09 Sep 2026 13:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kabelloser Akku-Autostaubsauger mit viel Zubehör für unter 67 Euro</title>
       <link>https://www.golem.de/news/anzeige-kabelloser-akku-autostaubsauger-mit-viel-zubehoer-fuer-unter-67-euro-2609-212831.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/michael-martin-1-1-hofft-weiterhin-irgendwann-auf-vorteile-mit-open-ran-2609-212632.html</guid>
       <description>Der Chef von 1&amp;1 Mobilfunk liefert ungewollt eine Bankrotterklärung für Open RAN ab. Der frühere Manager von Sunrise Communication Schweiz bleibt zuallererst ein ehrlicher Mobilfunk-Fachmann. Open RAN bleibt für ihn und 1&amp;1 aber unumstritten. Eine Analyse von Achim Sawall (1&amp;1, GreenIT)</description>
       <pubDate>Thu, 03 Sep 2026 17:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Entra ID sicher verwalten und härten</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-verwalten-und-haerten-2609-212574.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-verwalten-und-haerten-2609-212574.html</guid>
-      <description>Die sichere Verwaltung von Microsoft Entra ID entscheidet über den Schutz von Cloud-Infrastrukturen. Ein Workshop vermittelt praxisnahes Wissen zu Konfiguration und Härtung. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Thu, 03 Sep 2026 16:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
