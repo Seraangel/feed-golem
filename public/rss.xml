@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 11:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:35:57 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Videoüberwachung: Hilfssheriffs im Supermarkt</title>
+      <link>https://www.golem.de/news/videoueberwachung-hilfssheriffs-im-supermarkt-2609-212820.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/videoueberwachung-hilfssheriffs-im-supermarkt-2609-212820.html</guid>
+      <description>Wie Videoüberwachungsanlagen mithilfe von KI und privater Datenbanken zum Hilfssheriff der Polizeibehörden umfunktioniert werden können, zeigt das Beispiel Großbritannien. Eine Analyse von Erik Bärwaldt (Videoüberwachung, KI)</description>
+      <pubDate>Wed, 09 Sep 2026 11:30:01 GMT</pubDate>
+    </item>
     <item>
       <title>Ohne Nutzerinteraktion: Angreifer können Android-Geräte aus der Ferne kapern</title>
       <link>https://www.golem.de/news/ohne-nutzerinteraktion-angreifer-koennen-android-geraete-aus-der-ferne-kapern-2609-212819.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elliott-gefuerchteter-hedgefonds-will-hoettges-fusion-mit-t-mobile-verhindern-2609-212628.html</guid>
       <description>Ein destruktiver Hedgefonds hat sich bei der Telekom eingenistet. Wird sich Tim Höttges in seinen letzten Jahren an der Konzernführung Elliott Investment unterordnen? Eine Analyse von Achim Sawall (Timotheus Höttges, Telekom)</description>
       <pubDate>Thu, 03 Sep 2026 15:24:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Statt RHEL: Cern spart mit Umstieg auf Debian fast 6 Millionen Euro</title>
-      <link>https://www.golem.de/news/statt-rhel-cern-spart-mit-umstieg-auf-debian-fast-6-millionen-euro-2609-212624.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/statt-rhel-cern-spart-mit-umstieg-auf-debian-fast-6-millionen-euro-2609-212624.html</guid>
-      <description>Cern wechselt einmal mehr die Linux-Distribution. Andernfalls müsste viel Hardware ersetzt werden - nicht nur Microsoft führt zu Obsoleszenz. (Debian, Red Hat)</description>
-      <pubDate>Thu, 03 Sep 2026 15:04:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
