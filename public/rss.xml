@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 05:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 05:21:04 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Azure sicher administrieren</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-azure-sicher-administrieren-2609-212790.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-azure-sicher-administrieren-2609-212790.html</guid>
+      <description>Die Administration von Microsoft Azure verlangt fundiertes Wissen zu Netzwerken, Storage und Security. Ein Online-Workshop vermittelt das nötige Rüstzeug für den Praxiseinsatz. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 09 Sep 2026 05:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>Höhere Preise für laufende Abos: Bestandskunden können die Neflix-Preiserhöhung aufschieben</title>
       <link>https://www.golem.de/news/hoehere-preise-fuer-laufende-abos-bestandskunden-koennen-die-neflix-preiserhoehung-aufschieben-2609-212791.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/foerderung-loest-protest-aus-1password-foerdert-linux-projekt-mit-300-000-us-dollar-2609-212591.html</guid>
       <description>Die begünstigte Stiftung betreut auch das auf Arch-Linux basierende Omarchy, dessen Verbindung zu David Heinemeier Hansson negativ gesehen wird. (Open Source, Ruby)</description>
       <pubDate>Thu, 03 Sep 2026 09:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unbekannte Teilchen: Möglicher Nachweis dunkler Materie</title>
-      <link>https://www.golem.de/news/unbekannte-teilchen-moeglicher-nachweis-dunkler-materie-2609-212590.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/unbekannte-teilchen-moeglicher-nachweis-dunkler-materie-2609-212590.html</guid>
-      <description>Ein Detektor zum Nachweis dunkler Materie konnte in zwei Jahren einen einzelnen Messpunkt liefern. Er passt nicht zur bisher bekannten Materie. (Physik, Neutrino)</description>
-      <pubDate>Thu, 03 Sep 2026 09:12:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
