@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 08:35:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:46:01 GMT</lastBuildDate>
+    <item>
+      <title>Apple: Leak zu faltbarem iPhone Duo, iPhone 18 Pro und Apple Watch</title>
+      <link>https://www.golem.de/news/apple-leak-zu-faltbarem-iphone-duo-iphone-18-pro-und-apple-watch-2609-212805.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/apple-leak-zu-faltbarem-iphone-duo-iphone-18-pro-und-apple-watch-2609-212805.html</guid>
+      <description>Kurz vor Apples Hardware-Event hat Mark Gurman zahlreiche Details zu den neuen Geräten veröffentlicht. Das faltbare iPhone Duo kostet ab 2.000 US-Dollar. (Apple, iPhone)</description>
+      <pubDate>Wed, 09 Sep 2026 08:40:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Samsung Galaxy Watch Ultra 2025 jetzt mit unter 300 Euro bei Amazon so günstig wie noch nie</title>
       <link>https://www.golem.de/news/anzeige-samsung-galaxy-watch-ultra-2025-jetzt-mit-unter-300-euro-bei-amazon-so-guenstig-wie-noch-nie-2609-212803.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-usb-c-kabel-mit-60-watt-im-angebot-nur-1-57-euro-schnell-laden-aber-daten-nur-per-usb-2-0-2609-212609.html</guid>
       <description>Bei Amazon gibt es für einen Stückpreis von nur 1,57 Euro einen beliebten 4er-Pack USB-C-Schnellladekabel. Doch dieses Angebot gilt nur noch bis Sonntag. (USB PD, Amazon)</description>
       <pubDate>Thu, 03 Sep 2026 11:49:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) KI-Agenten im Entwickleralltag: Vom kleinen Fauxpas zum gravierenden Systemfehler</title>
-      <link>https://www.golem.de/news/ki-agenten-im-entwickleralltag-vom-kleinen-fauxpas-zum-gravierenden-systemfehler-2609-212598.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-im-entwickleralltag-vom-kleinen-fauxpas-zum-gravierenden-systemfehler-2609-212598.html</guid>
-      <description>Je autonomer KI-Agenten arbeiten, desto folgenreicher können Fehler werden. Wo heutige Agenten scheitern und wie kontrollierte Autonomie aussieht. Ein Ratgebertext von Klaus Manhart (KI, API)</description>
-      <pubDate>Thu, 03 Sep 2026 11:30:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
