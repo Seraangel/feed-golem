@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 10:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:46:02 GMT</lastBuildDate>
+    <item>
+      <title>Muse Spark 1.3: Meta startet KI-Agenten für Mails, Einkäufe und Reisen</title>
+      <link>https://www.golem.de/news/muse-spark-1-3-meta-startet-ki-agenten-fuer-mails-einkaeufe-und-reisen-2609-212818.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/muse-spark-1-3-meta-startet-ki-agenten-fuer-mails-einkaeufe-und-reisen-2609-212818.html</guid>
+      <description>Metas KI-Agent bekommt Zugriff auf E-Mails, Zahlungen und persönliche Daten, soll aber ohne Zustimmung nicht nach außen handeln dürfen. (KI, OAuth)</description>
+      <pubDate>Wed, 09 Sep 2026 10:43:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Neue Nintendo Switch 2 im Zelda-Design jetzt vorbestellbar</title>
       <link>https://www.golem.de/news/anzeige-neue-nintendo-switch-2-im-zelda-design-jetzt-vorbestellbar-2609-212816.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-powerbank-mit-flexiblem-usb-c-stecker-fuer-18-97-euro-bei-amazon-2609-212626.html</guid>
       <description>Eine kompakte Powerbank mit flexiblem USB-C-Stecker, 5.000 mAh und 22,5 W zum Nachladen unterwegs ist bei Amazon reduziert. (Technik/Hardware, Anker)</description>
       <pubDate>Thu, 03 Sep 2026 14:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Eingabegeräte: Sony bringt zwei limitierte GTA-6-Controller für die PS5</title>
-      <link>https://www.golem.de/news/eingabegeraete-sony-bringt-zwei-limitierte-gta-6-controller-fuer-die-ps5-2609-212623.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/eingabegeraete-sony-bringt-zwei-limitierte-gta-6-controller-fuer-die-ps5-2609-212623.html</guid>
-      <description>Parallel zum Start von GTA 6 veröffentlicht Sony zwei limitierte Dualsense-Controller. Beide greifen den Look von Vice City auf. (GTA 6, Sony)</description>
-      <pubDate>Thu, 03 Sep 2026 14:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
