@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 10:55:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 11:00:56 GMT</lastBuildDate>
+    <item>
+      <title>Ohne Nutzerinteraktion: Angreifer können Android-Geräte aus der Ferne kapern</title>
+      <link>https://www.golem.de/news/ohne-nutzerinteraktion-angreifer-koennen-android-geraete-aus-der-ferne-kapern-2609-212819.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ohne-nutzerinteraktion-angreifer-koennen-android-geraete-aus-der-ferne-kapern-2609-212819.html</guid>
+      <description>Die neuesten Android-Updates schließen 200 Sicherheitslücken. Einige davon sind besonders gefährlich und ermöglichen etwa Schadcode-Attacken. (Sicherheitslücke, Smartphone)</description>
+      <pubDate>Wed, 09 Sep 2026 10:57:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: UGREEN FineTrack Slim Tracker-Karte für die Geldbörse jetzt für rund 17 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ugreen-finetrack-slim-tracker-karte-fuer-die-geldboerse-jetzt-fuer-rund-17-euro-bei-amazon-2609-212821.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/statt-rhel-cern-spart-mit-umstieg-auf-debian-fast-6-millionen-euro-2609-212624.html</guid>
       <description>Cern wechselt einmal mehr die Linux-Distribution. Andernfalls müsste viel Hardware ersetzt werden - nicht nur Microsoft führt zu Obsoleszenz. (Debian, Red Hat)</description>
       <pubDate>Thu, 03 Sep 2026 15:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auto: Einführung von Xiaomis Elektroautos in Deutschland rückt näher</title>
-      <link>https://www.golem.de/news/auto-einfuehrung-von-xiaomis-elektroautos-in-deutschland-rueckt-naeher-2609-212627.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/auto-einfuehrung-von-xiaomis-elektroautos-in-deutschland-rueckt-naeher-2609-212627.html</guid>
-      <description>Mit Rundenrekorden am Nürburgring und starken Verkaufszahlen in China bereitet Xiaomi den Markteintritt seiner Elektroautos in Europa vor. (Ifa 2026, Elektroauto)</description>
-      <pubDate>Thu, 03 Sep 2026 14:49:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
