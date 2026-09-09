@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 07:01:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 07:05:54 GMT</lastBuildDate>
+    <item>
+      <title>EU-Regulierungen: Google warnt vor schlechteren Suchergebnissen durch EU-Regeln</title>
+      <link>https://www.golem.de/news/eu-regulierungen-google-warnt-vor-schlechteren-suchergebnissen-durch-eu-regeln-2609-212795.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/eu-regulierungen-google-warnt-vor-schlechteren-suchergebnissen-durch-eu-regeln-2609-212795.html</guid>
+      <description>Wegen EU-Vorgaben passt Google seine Suche in Europa an. Laut dem Konzern sinkt dadurch die Qualität der Ergebnisse. (Google, Datenschutz)</description>
+      <pubDate>Wed, 09 Sep 2026 07:02:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Wearables verändern die Datenanalyse im Breitensport</title>
       <link>https://www.golem.de/news/anzeige-wearables-veraendern-die-datenanalyse-im-breitensport-2609-212722.html</link>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 09 Sep 2026 05:15:02 GMT</pubDate>
     </item>
     <item>
-      <title>Höhere Preise für laufende Abos: Bestandskunden können die Neflix-Preiserhöhung aufschieben</title>
+      <title>Höhere Preise für laufende Abos: Bestandskunden können die Netflix-Preiserhöhung aufschieben</title>
       <link>https://www.golem.de/news/hoehere-preise-fuer-laufende-abos-bestandskunden-koennen-die-neflix-preiserhoehung-aufschieben-2609-212791.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/hoehere-preise-fuer-laufende-abos-bestandskunden-koennen-die-neflix-preiserhoehung-aufschieben-2609-212791.html</guid>
       <description>Netflix erhöht die Abopreise für erste Bestandskunden. Sie können die Netflix-Preiserhöhung immerhin knapp drei Monate aufschieben. (Netflix, Streaming)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-elektronische-parkscheibe-zum-bestpreis-fuer-unter-16-euro-2609-212593.html</guid>
       <description>Das manuelle Einstellen der Parkscheibe entfällt mit elektronischen Modellen vollständig. Amazon bietet die kompakte Needit Park Micro nun besonders günstig an. (Technik/Hardware)</description>
       <pubDate>Thu, 03 Sep 2026 10:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>SteamDB: Nexus Mods übernimmt die wichtigste Steam-Datenbank</title>
-      <link>https://www.golem.de/news/steamdb-nexus-mods-uebernimmt-die-wichtigste-steam-datenbank-2609-212596.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/steamdb-nexus-mods-uebernimmt-die-wichtigste-steam-datenbank-2609-212596.html</guid>
-      <description>Nach 13 Jahren bekommt SteamDB einen neuen Eigentümer. Durch den Deal könnten Mods deutlich zuverlässiger werden. (Mods, API)</description>
-      <pubDate>Thu, 03 Sep 2026 10:05:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
