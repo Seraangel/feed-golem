@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 07:56:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 08:06:00 GMT</lastBuildDate>
+    <item>
+      <title>Router-Überblick: Welche Fritzbox passt am besten zu DSL, Cable, LTE, 5G, Glasfaser?</title>
+      <link>https://www.golem.de/news/router-ueberblick-welche-fritzbox-passt-am-besten-zu-dsl-cable-lte-5g-glasfaser-2609-212766.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/router-ueberblick-welche-fritzbox-passt-am-besten-zu-dsl-cable-lte-5g-glasfaser-2609-212766.html</guid>
+      <description>DSL-Fritzbox für den DSL-Anschluss, Cable-Fritzbox für den Kabelanschluss - also auch Fiber-Fritzbox für den Glasfaser-Anschluss? Jein. Denn es geht auch anders. Ein Ratgebertext von Harald Karcher (Router, DSL)</description>
+      <pubDate>Wed, 09 Sep 2026 08:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Ein falscher Klick genügt: Google warnt vor Schadcode-Attacken auf Chrome-Nutzer</title>
       <link>https://www.golem.de/news/ein-falscher-klick-genuegt-google-warnt-vor-schadcode-attacken-auf-chrome-nutzer-2609-212799.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/extrem-praezise-forscher-erzeugen-regenbogen-von-millimeterwellen-2609-212603.html</guid>
       <description>Britische Forscher haben die optische Erzeugung von Frequenzkämmen verbessert. Ihr Ansatz eliminiert Frequenzfehler und könnte für 6G genutzt werden. (Innovation &amp; Forschung, Mobilfunk)</description>
       <pubDate>Thu, 03 Sep 2026 10:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitkom: Immer weniger offene IT-Stellen in Deutschland</title>
-      <link>https://www.golem.de/news/bitkom-immer-weniger-offene-it-stellen-in-deutschland-2609-212601.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bitkom-immer-weniger-offene-it-stellen-in-deutschland-2609-212601.html</guid>
-      <description>Laut Bitkom-Präsident Ralf Wintergerst kann KI Aufgaben übernehmen, die bislang etwa von Entwicklerinnen und Entwicklern erledigt wurden. (Arbeit, KI)</description>
-      <pubDate>Thu, 03 Sep 2026 10:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
