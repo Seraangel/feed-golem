@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 09 Sep 2026 15:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:55:54 GMT</lastBuildDate>
+    <item>
+      <title>Nintendo: Metroid Ravenous bringt Samus zurück in die zweite Dimension</title>
+      <link>https://www.golem.de/news/nintendo-metroid-ravenous-bringt-samus-zurueck-in-die-zweite-dimension-2609-212839.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nintendo-metroid-ravenous-bringt-samus-zurueck-in-die-zweite-dimension-2609-212839.html</guid>
+      <description>Nintendo setzt die klassische Metroid-Reihe fort. Das neue 2D-Abenteuer mit Samus erscheint bereits im Januar 2027 für Switch 2. (Metroid, Nintendo)</description>
+      <pubDate>Wed, 09 Sep 2026 15:50:11 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Opinion: A $2,000 iPhone Gives Apple's New CEO His Steve Jobs Moment</title>
       <link>https://www.golem.de/news/opinion-a-2-000-iphone-gives-apple-s-new-ceo-his-steve-jobs-moment-2609-212832.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-openai-veroeffentlicht-neues-ki-modell-gpt-6-astra-2609-212639.html</guid>
       <description>OpenAI führt GPT-6 Astra ein. Das Modell soll komplexe Aufgaben in Softwareentwicklung und Forschung schneller und günstiger erledigen. (OpenAI, KI)</description>
       <pubDate>Fri, 04 Sep 2026 06:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft gesteht Update-Panne: Windows-11-Update macht den Desktop schwarz</title>
-      <link>https://www.golem.de/news/microsoft-gesteht-windows-11-update-laesst-wallpaper-verschwinden-2609-212638.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-gesteht-windows-11-update-laesst-wallpaper-verschwinden-2609-212638.html</guid>
-      <description>Auch Mauszeigereinstellungen werden durch das Update auf vielen Windows-11-Systemen zurückgesetzt. Microsoft arbeitet an Korrekturen. (Windows 11, Microsoft)</description>
-      <pubDate>Fri, 04 Sep 2026 06:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
