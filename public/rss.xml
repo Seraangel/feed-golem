@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 10 Sep 2026 16:50:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:01:00 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Beliebter Gigabit-Netzwerk-Switch mit fünf Ports für unter 15 Euro</title>
+      <link>https://www.golem.de/news/anzeige-beliebter-gigabit-netzwerk-switch-mit-fuenf-ports-fuer-unter-15-euro-2609-212893.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebter-gigabit-netzwerk-switch-mit-fuenf-ports-fuer-unter-15-euro-2609-212893.html</guid>
+      <description>Der TP-Link TL-SG105 gehört zu den meistbestellten Produkten seiner Art bei Amazon und wird dort wieder günstiger angeboten. (Technik/Hardware, Amazon)</description>
+      <pubDate>Thu, 10 Sep 2026 16:55:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: IT-Notfallmanagement: Business Continuity Management gestalten</title>
       <link>https://www.golem.de/news/anzeige-it-notfallmanagement-business-continuity-management-gestalten-2609-212892.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-4k-mini-ueberwachungskamera-mit-app-unterstuetzung-wieder-zum-tiefstpreis-2609-212672.html</guid>
       <description>Zum zweiten Mal verkauft Amazon eine beliebte 4K-Mini-Überwachungskamera von Javiscam zum bisher niedrigsten Preis. (Technik/Hardware, Amazon)</description>
       <pubDate>Sun, 06 Sep 2026 08:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Rechenleistung nach Bedarf: Wie serverless sind Serverless-Datenbanken wirklich?</title>
-      <link>https://www.golem.de/news/rechenleistung-nach-bedarf-wie-serverless-sind-serverless-datenbanken-wirklich-2609-212657.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rechenleistung-nach-bedarf-wie-serverless-sind-serverless-datenbanken-wirklich-2609-212657.html</guid>
-      <description>Serverless-Datenbanken versprechen Rechenleistung nach Bedarf und weniger Kosten für Leerlauf. Aber erst im Alltag zeigt sich, wie viel serverless tatsächlich in diesem Modell steckt. Ein Ratgebertext von Fabian Deitelhoff (Datenbank, Server-Applikationen)</description>
-      <pubDate>Sun, 06 Sep 2026 08:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
