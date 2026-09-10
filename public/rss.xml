@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 10 Sep 2026 06:50:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:00:51 GMT</lastBuildDate>
+    <item>
+      <title>Shieldcrash: Forscher ärgert Microsoft mit neuem Defender-Exploit</title>
+      <link>https://www.golem.de/news/shieldcrash-forscher-aergert-microsoft-mit-neuem-defender-exploit-2609-212855.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/shieldcrash-forscher-aergert-microsoft-mit-neuem-defender-exploit-2609-212855.html</guid>
+      <description>Microsofts "High-Quality-Update" gegen den Shieldbreak-Exploit ist offenbar wenig effektiv. Ein frisch geleakter Exploit umgeht den Schutz. (Sicherheitslücke, Microsoft)</description>
+      <pubDate>Thu, 10 Sep 2026 06:55:06 GMT</pubDate>
+    </item>
     <item>
       <title>Polizeisoftware: Bayern hält vorerst an Palantir fest</title>
       <link>https://www.golem.de/news/polizeisoftware-bayern-haelt-vorerst-an-palantir-fest-2609-212854.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ein-falscher-klick-reicht-schadcode-attacken-auf-chrome-nutzer-beobachtet-2609-212654.html</guid>
       <description>Google hat Patches für hochgefährliche Chrome-Lücken veröffentlicht. Eine davon wird bereits aktiv ausgenutzt. Anwender sollten zügig updaten. (Sicherheitslücke, Google)</description>
       <pubDate>Fri, 04 Sep 2026 09:44:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Betriebssystem: Windows 11 wird Altersprüfung selbst übernehmen</title>
-      <link>https://www.golem.de/news/betriebssystem-windows-11-wird-alterspruefung-selbst-uebernehmen-2609-212655.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/betriebssystem-windows-11-wird-alterspruefung-selbst-uebernehmen-2609-212655.html</guid>
-      <description>Mithilfe von Age Signals können Apps Windows 11 nach dem Alter der User fragen. Das ist laut Microsoft anonymisiert und sicher. (Windows 11, Microsoft)</description>
-      <pubDate>Fri, 04 Sep 2026 09:25:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
