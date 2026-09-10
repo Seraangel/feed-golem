@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 10 Sep 2026 10:21:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:35:56 GMT</lastBuildDate>
+    <item>
+      <title>Auch in Deutschland: Rund 34.000 Plex-Server sind angreifbar</title>
+      <link>https://www.golem.de/news/auch-in-deutschland-rund-34-000-plex-server-sind-angreifbar-2609-212872.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/auch-in-deutschland-rund-34-000-plex-server-sind-angreifbar-2609-212872.html</guid>
+      <description>Für Plex-Media-Server gibt es wichtige Sicherheitsupdates. Auf Tausenden Instanzen sind diese noch nicht angekommen. (Sicherheitslücke, Server)</description>
+      <pubDate>Thu, 10 Sep 2026 10:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>Internationaler Weltraumgipfel: Europa wird Pilot im All oder bleibt Passagier</title>
       <link>https://www.golem.de/news/internationaler-weltraumgipfel-europa-wird-pilot-im-all-oder-bleibt-passagier-2609-212870.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kurz-vor-der-blizzcon-blizzard-deutet-neues-starcraft-spiel-an-2609-212675.html</guid>
       <description>Nach jahrelanger Pause verdichten sich die Hinweise auf ein neues Starcraft. Statt Starcraft 3 könnte Blizzard allerdings einen Shooter vorstellen. (Starcraft, Blizzard)</description>
       <pubDate>Fri, 04 Sep 2026 14:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kabelnetzbetreiber: Tele Columbus mit gezieltem Glasfaserausbau erfolgreich</title>
-      <link>https://www.golem.de/news/kabelnetzbetreiber-tele-columbus-mit-gezieltem-glasfaserausbau-erfolgreich-2609-212673.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kabelnetzbetreiber-tele-columbus-mit-gezieltem-glasfaserausbau-erfolgreich-2609-212673.html</guid>
-      <description>Tele Columbus kommt in den Turnaround. Kabelkunden lassen sich in Glasfaser-Kunden umwandeln. (Tele Columbus, Glasfaser)</description>
-      <pubDate>Fri, 04 Sep 2026 14:15:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
