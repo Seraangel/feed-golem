@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 10 Sep 2026 07:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 07:06:26 GMT</lastBuildDate>
+    <item>
+      <title>Nach der Preiserhöhung: Hier gibt es Netflix zum alten Preis und teilweise mit ordentlich Rabatt</title>
+      <link>https://www.golem.de/news/nach-der-preiserhoehung-hier-gibt-es-netflix-zum-alten-preis-und-teilweise-mit-ordentlich-rabatt-2609-212800.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-der-preiserhoehung-hier-gibt-es-netflix-zum-alten-preis-und-teilweise-mit-ordentlich-rabatt-2609-212800.html</guid>
+      <description>Neukunden von Netflix müssen seit Anfang September 2026 mehr für das Abo bezahlen. Diese höheren Kosten lassen sich umgehen. Ein Ratgebertext von Ingo Pakalski (Netflix, Telekom)</description>
+      <pubDate>Thu, 10 Sep 2026 07:01:02 GMT</pubDate>
+    </item>
     <item>
       <title>Shieldcrash: Forscher ärgert Microsoft mit neuem Defender-Exploit</title>
       <link>https://www.golem.de/news/shieldcrash-forscher-aergert-microsoft-mit-neuem-defender-exploit-2609-212855.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/xteink-x3-im-test-dieser-winzige-e-reader-passt-in-jede-tasche-2609-212606.html</guid>
       <description>Der winzige Xteink X3 hat ab Werk ein paar wenige Schwächen, wird aber durch eine alternative Open-Source-Firmware zum spannenden E-Book-Reader. Ein Test von Mike Faust (E-Book, Test)</description>
       <pubDate>Fri, 04 Sep 2026 10:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ein falscher Klick reicht: Schadcode-Attacken auf Chrome-Nutzer beobachtet</title>
-      <link>https://www.golem.de/news/ein-falscher-klick-reicht-schadcode-attacken-auf-chrome-nutzer-beobachtet-2609-212654.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ein-falscher-klick-reicht-schadcode-attacken-auf-chrome-nutzer-beobachtet-2609-212654.html</guid>
-      <description>Google hat Patches für hochgefährliche Chrome-Lücken veröffentlicht. Eine davon wird bereits aktiv ausgenutzt. Anwender sollten zügig updaten. (Sicherheitslücke, Google)</description>
-      <pubDate>Fri, 04 Sep 2026 09:44:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
