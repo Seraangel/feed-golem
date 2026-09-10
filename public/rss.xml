@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 10 Sep 2026 12:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:21:01 GMT</lastBuildDate>
+    <item>
+      <title>Matt Mullenweg: Wordpress-Mitbegründer wird von Vorstand beurlaubt</title>
+      <link>https://www.golem.de/news/matt-mullenweg-wordpress-mitbegruender-wird-von-vorstand-beurlaubt-2609-212880.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/matt-mullenweg-wordpress-mitbegruender-wird-von-vorstand-beurlaubt-2609-212880.html</guid>
+      <description>Wordpress-Mitbegründer Matt Mullenweg verursachte in den vergangenen Jahren einige Kontroversen durch seine Unternehmensführung. (Wordpress, Wirtschaft)</description>
+      <pubDate>Thu, 10 Sep 2026 12:19:02 GMT</pubDate>
+    </item>
     <item>
       <title>Kosmologie: Entstehung schwarzer Löcher muss infrage gestellt werden</title>
       <link>https://www.golem.de/news/kosmologie-entstehung-schwarzer-loecher-muss-infrage-gestellt-werden-2609-212879.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/garmin-fenix-9-pro-im-test-grosses-upgrade-aber-laengst-nicht-fuer-alle-2609-212595.html</guid>
       <description>Die Fenix 9 Pro bietet schnellere Karten, besseres Training und Satelliten-SOS. Für Besitzer des Vorgängers lohnt sich das Upgrade nur selten. Ein Test von Peter Steinlechner (Garmin Fenix, Garmin)</description>
       <pubDate>Sat, 05 Sep 2026 05:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Claude Code im Griff: Workshop zu Agentic Coding</title>
-      <link>https://www.golem.de/news/anzeige-claude-code-im-griff-workshop-zu-agentic-coding-2609-212634.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-claude-code-im-griff-workshop-zu-agentic-coding-2609-212634.html</guid>
-      <description>Claude Code verändert, wie Entwickler Software bauen. Ein praxisnaher Workshop vermittelt den souveränen Einsatz von Claude Code in agentischen Workflows. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Fri, 04 Sep 2026 16:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
