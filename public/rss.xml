@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 10 Sep 2026 14:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:41:02 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ergonomischer Bürostuhl von Daccormax reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-ergonomischer-buerostuhl-von-daccormax-reduziert-bei-amazon-2609-212887.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ergonomischer-buerostuhl-von-daccormax-reduziert-bei-amazon-2609-212887.html</guid>
+      <description>Amazon hat einen ergonomischen Bürostuhl von Daccormax mit Kopf- und Lendenwirbelstütze im Angebot, der sich vielseitig anpassen lässt. (Technik/Hardware)</description>
+      <pubDate>Thu, 10 Sep 2026 14:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nach Beschwerde von Noyb: Schufa weist Vorwurf zu Schattendatenbank zurück</title>
+      <link>https://www.golem.de/news/nach-beschwerde-von-noyb-schufa-weist-vorwurf-zu-schattendatenbank-zurueck-2609-212888.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-beschwerde-von-noyb-schufa-weist-vorwurf-zu-schattendatenbank-zurueck-2609-212888.html</guid>
+      <description>Zum Ablauf der von Noyb gesetzten Frist rechtfertigt die Schufa die Speicherung von historischen Verbraucherdaten. (Schufa, Datenschutz)</description>
+      <pubDate>Thu, 10 Sep 2026 14:37:09 GMT</pubDate>
+    </item>
     <item>
       <title>Digitalkamera: Insta360 Luna Pro setzt auf 1-Zoll-Sensor für Selfies</title>
       <link>https://www.golem.de/news/digitalkamera-insta360-luna-pro-setzt-auf-1-zoll-sensor-fuer-selfies-2609-212884.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mit-nas-speicher-ugreen-bringt-ki-system-mit-jetson-thor-fuers-zuhause-2609-212687.html</guid>
       <description>Ugreens Homeagent- und Masteragent-Speicher bringen KI ohne Cloudanbindung nach Hause. Der Masteragent kommt mit Nvidias Jetson Thor. (Ifa 2026, Nvidia)</description>
       <pubDate>Sat, 05 Sep 2026 10:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Urheberrecht: Tetris-Entwickler kritisieren White-House-Spieleklon</title>
-      <link>https://www.golem.de/news/urheberrecht-tetris-entwickler-kritisieren-white-house-spieleklon-2609-212684.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/urheberrecht-tetris-entwickler-kritisieren-white-house-spieleklon-2609-212684.html</guid>
-      <description>The Tetris Company distanziert sich von dem Regierungsspiel Build the Wall und prüft rechtliche Schritte wegen Urheberrechtsverletzung. (Donald Trump, Urheberrecht)</description>
-      <pubDate>Sat, 05 Sep 2026 10:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>MS Office: Microsoft streicht Ähnlichkeitsprüfung in Word</title>
-      <link>https://www.golem.de/news/ms-office-microsoft-streicht-aehnlichkeitspruefung-in-word-2609-212683.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ms-office-microsoft-streicht-aehnlichkeitspruefung-in-word-2609-212683.html</guid>
-      <description>Microsoft entfernt die Ähnlichkeitsprüfung aus Word. Ab Oktober 2026 steht die Funktion im Microsoft Editor nicht mehr bereit. (Office, Microsoft)</description>
-      <pubDate>Sat, 05 Sep 2026 09:39:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
