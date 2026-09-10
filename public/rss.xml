@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 10 Sep 2026 04:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 05:20:54 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ansible für automatisiertes Systemmanagement</title>
+      <link>https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-212809.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-212809.html</guid>
+      <description>Ansible automatisiert Konfiguration und Deployment von Linux-Systemen ohne Agent auf den Zielsystemen. Ein Online-Workshop vermittelt dafür zentrale Werkzeuge und Abläufe. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Thu, 10 Sep 2026 05:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>FRK: An das Behördenregister gemeldeten Daten müssten sicher vor Hackern sein</title>
       <link>https://www.golem.de/news/frk-an-das-behoerdenregister-gemeldeten-daten-muessten-sicher-vor-hackern-sein-2609-212851.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/project-aeroblade-lenovo-zeigt-830-gramm-laptop-mit-membrankuehlung-statt-luefter-2609-212648.html</guid>
       <description>Für das Project Aeroblade arbeitet Lenovo mit Frore Systems zusammen. 30 Watt sollen ohne Lüfter gekühlt werden. (Lenovo, Notebook)</description>
       <pubDate>Fri, 04 Sep 2026 08:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Basisabo wird eingestellt: Netflix-Abonnenten droht Preiserhöhung von 60 Prozent</title>
-      <link>https://www.golem.de/news/basisabo-wird-eingestellt-netflix-abonnenten-droht-preiserhoehung-von-60-prozent-2609-212649.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/basisabo-wird-eingestellt-netflix-abonnenten-droht-preiserhoehung-von-60-prozent-2609-212649.html</guid>
-      <description>Bestandskunden können das Netflix-Basisabo noch drei Monate nutzen, danach wird das Abo durch Netflix gekündigt. (Netflix, Streaming)</description>
-      <pubDate>Fri, 04 Sep 2026 08:27:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
