@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 10 Sep 2026 19:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 05:20:57 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Power Automate: Flows erstellen ohne Programmieren</title>
+      <link>https://www.golem.de/news/anzeige-power-automate-flows-erstellen-ohne-programmieren-2609-212895.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-power-automate-flows-erstellen-ohne-programmieren-2609-212895.html</guid>
+      <description>Wiederkehrende Aufgaben in Microsoft 365 kosten Zeit. Mit Power Automate lassen sich Prozesse ohne Programmierung automatisieren. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Fri, 11 Sep 2026 05:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>CATV und DOCSIS: Einen ganzen Satelliten direkt ins Kabelnetz einspeisen</title>
       <link>https://www.golem.de/news/catv-und-docsis-einen-ganzen-satelliten-direkt-ins-kabelnetz-einspeisen-2609-212894.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/isar-aerospace-spectrum-rakete-zeigt-erfolgreichen-qualifikationsflug-2609-212691.html</guid>
       <description>Nach dem ersten Flug in den Orbit ist vor dem zweiten Flug in den Orbit. Die wichtigsten Aufgaben stehen Isar Aerospace noch bevor. Eine Analyse von Frank Wunderlich-Pfeiffer (Raumfahrt, SpaceX)</description>
       <pubDate>Sun, 06 Sep 2026 09:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hackerangriff in Berlin: Bezirk verweigert Einsatz von Crowdstrike</title>
-      <link>https://www.golem.de/news/hackerangriff-in-berlin-bezirk-verweigert-einsatz-von-crowdstrike-2609-212690.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hackerangriff-in-berlin-bezirk-verweigert-einsatz-von-crowdstrike-2609-212690.html</guid>
-      <description>Der Berliner Senat will mithilfe der US-Software Crowdstrike nach Spuren des Hackerangriffs suchen. Doch das geht einem Bezirk zu weit. (Security, Server)</description>
-      <pubDate>Sun, 06 Sep 2026 08:52:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
