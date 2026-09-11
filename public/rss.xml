@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 06:30:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:50:53 GMT</lastBuildDate>
+    <item>
+      <title>Beschwerden häufen sich: Windows-Updates machen RDP-Verbindungen kaputt</title>
+      <link>https://www.golem.de/news/beschwerden-haeufen-sich-windows-updates-machen-rdp-verbindungen-kaputt-2609-212898.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/beschwerden-haeufen-sich-windows-updates-machen-rdp-verbindungen-kaputt-2609-212898.html</guid>
+      <description>Zahlreiche Nutzer können seit dem September-Patchday keine RDP-Verbindung mehr zu Windows-Servern aufbauen. Ein Fix ist noch nicht in Sicht. (Windows, Microsoft)</description>
+      <pubDate>Fri, 11 Sep 2026 06:47:10 GMT</pubDate>
+    </item>
     <item>
       <title>Grafikkartenmarkt: Geforce RTX 5090 überschreitet Marke von 5.000 Euro</title>
       <link>https://www.golem.de/news/grafikkartenmarkt-geforce-rtx-5090-ueberschreitet-marke-von-5-000-euro-2609-212897.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/berliner-verwaltungsdaten-geleakt-der-daten-super-gau-aus-der-hauptstadt-2609-212694.html</guid>
       <description>Die Hackertruppe Rhysida hat 5,8 Terabyte an Verwaltungsdaten aus Berlin geleakt. Das ist nicht nur für Stadt selbst ein Problem. Ein Bericht von Friedhelm Greis (Security, Phishing)</description>
       <pubDate>Sun, 06 Sep 2026 13:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vodafone gegen 1&amp;1: Bundeskartellamt darf Urteil zu Marktmissbrauch fällen</title>
-      <link>https://www.golem.de/news/vodafone-gegen-1-1-bundeskartellamt-darf-urteil-zu-marktmissbrauch-faellen-2609-212693.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vodafone-gegen-1-1-bundeskartellamt-darf-urteil-zu-marktmissbrauch-faellen-2609-212693.html</guid>
-      <description>Ist 1&amp;1 beim Antennenaufbau behindert worden? Vodafone hat im Streit mit dem Bundeskartellamt nun eine Niederlage hinnehmen müssen. (Bundeskartellamt, Mobilfunk)</description>
-      <pubDate>Sun, 06 Sep 2026 11:09:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
