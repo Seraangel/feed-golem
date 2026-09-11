@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 07:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 07:51:01 GMT</lastBuildDate>
+    <item>
+      <title>Kollaborationsplattform: Bending Spoons kauft Miro</title>
+      <link>https://www.golem.de/news/kollaborationsplattform-bending-spoons-kauft-miro-2609-212905.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kollaborationsplattform-bending-spoons-kauft-miro-2609-212905.html</guid>
+      <description>Der italienische Softwarekonzern Bending Spoons schnappt sich die Kollaborationsplattform Miro für 1,36 Milliarden US-Dollar. Ein Schnäppchen. (Software, Techcrunch)</description>
+      <pubDate>Fri, 11 Sep 2026 07:49:07 GMT</pubDate>
+    </item>
     <item>
       <title>Android: Google stellt Pixel Tablet ein</title>
       <link>https://www.golem.de/news/android-google-stellt-pixel-tablet-ein-2609-212902.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mikrotik-ueber-100-000-router-sind-laufenden-angriffen-ausgesetzt-2609-212701.html</guid>
       <description>Wer einen Mikrotik-Router verwendet, sollte diesen dringend aktualisieren. Angreifer nutzen mehrere Sicherheitslücken aus, um die Geräte zu kapern. (Sicherheitslücke, Netzwerk)</description>
       <pubDate>Mon, 07 Sep 2026 07:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Softwareentwicklung: "Typing Code is absolutely over"</title>
-      <link>https://www.golem.de/news/softwareentwicklung-typing-code-is-absolutely-over-2609-212699.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-typing-code-is-absolutely-over-2609-212699.html</guid>
-      <description>Microsoft setzt verstärkt auf KI-Agenten. Laut David Fowler verlagert sich die Arbeit von der Codeeingabe zur Architektur. (Softwareentwicklung, Microsoft)</description>
-      <pubDate>Mon, 07 Sep 2026 06:42:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
