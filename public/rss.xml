@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 11:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 11:46:14 GMT</lastBuildDate>
+    <item>
+      <title>KI-Effekt: Shopify setzt wieder auf native Apps</title>
+      <link>https://www.golem.de/news/ki-effekt-shopify-setzt-wieder-auf-native-apps-2609-212922.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-effekt-shopify-setzt-wieder-auf-native-apps-2609-212922.html</guid>
+      <description>React Native hat bei Shopify ausgedient. Fortschritte beim KI-Coding ermöglichen die Rückkehr zur nativen Entwicklung mobiler Apps. (Softwareentwicklung, KI)</description>
+      <pubDate>Fri, 11 Sep 2026 11:42:03 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Künstliche Intelligenz: Lokal gehostete Sprachmodelle auf SBCs</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-lokal-gehostete-sprachmodelle-auf-sbcs-2609-212923.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/synchrotron-teilchenbeschleuniger-mit-zehnfachem-gewinn-gegenueber-kosten-2609-212717.html</guid>
       <description>Eine Kosten-Nutzen-Analyse der Röntgenquelle Bessy II kommt zu dem Schluss, dass Berlin für jeden investierten Euro 10 Euro zurückbekommt. (Wissenschaft, Akku)</description>
       <pubDate>Mon, 07 Sep 2026 10:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wasserkraftwerke: 2.600 Standorte für Wasserkraft in den USA bisher ungenutzt</title>
-      <link>https://www.golem.de/news/wasserkraftwerke-2-600-standorte-fuer-wasserkraft-in-den-usa-bisher-ungenutzt-2609-212709.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wasserkraftwerke-2-600-standorte-fuer-wasserkraft-in-den-usa-bisher-ungenutzt-2609-212709.html</guid>
-      <description>In Summe könnten Wasserkraftwerke mit der Leistung mehrerer Großkraftwerke installiert werden. Die entscheidenden Vorarbeiten sind längst erledigt. (Wasserkraft, Energiewende)</description>
-      <pubDate>Mon, 07 Sep 2026 10:19:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
