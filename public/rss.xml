@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 05:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:20:53 GMT</lastBuildDate>
+    <item>
+      <title>Kehrtwende: Zeiss verwirft bisherige SAP-Strategie</title>
+      <link>https://www.golem.de/news/kehrtwende-zeiss-verwirft-bisherige-sap-strategie-2609-212896.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kehrtwende-zeiss-verwirft-bisherige-sap-strategie-2609-212896.html</guid>
+      <description>Der geplante SAP-Neustart bei Zeiss ist vom Tisch. Stattdessen soll zunächst die bestehende ERP-Umgebung auf S/4HANA übertragen werden. (SAP, Carl Zeiss)</description>
+      <pubDate>Fri, 11 Sep 2026 06:18:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Power Automate: Flows erstellen ohne Programmieren</title>
       <link>https://www.golem.de/news/anzeige-power-automate-flows-erstellen-ohne-programmieren-2609-212895.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/us-arbeitsmarkt-silicon-valley-baut-vermehrt-stellen-ab-2609-212692.html</guid>
       <description>Der KI-Boom führt im IT- und Finanzsektor verstärkt zum Abbau von Stellen. Im August 2026 lag das Minus bei 34.000 Jobs. (Arbeit, KI)</description>
       <pubDate>Sun, 06 Sep 2026 10:44:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Isar Aerospace: Spectrum Rakete zeigt erfolgreichen Qualifikationsflug</title>
-      <link>https://www.golem.de/news/isar-aerospace-spectrum-rakete-zeigt-erfolgreichen-qualifikationsflug-2609-212691.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/isar-aerospace-spectrum-rakete-zeigt-erfolgreichen-qualifikationsflug-2609-212691.html</guid>
-      <description>Nach dem ersten Flug in den Orbit ist vor dem zweiten Flug in den Orbit. Die wichtigsten Aufgaben stehen Isar Aerospace noch bevor. Eine Analyse von Frank Wunderlich-Pfeiffer (Raumfahrt, SpaceX)</description>
-      <pubDate>Sun, 06 Sep 2026 09:34:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
