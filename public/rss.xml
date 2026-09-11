@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 08:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:21:02 GMT</lastBuildDate>
+    <item>
+      <title>Enisa: Anthropic öffnet Mythos-Modell für EU-Cyberagentur</title>
+      <link>https://www.golem.de/news/enisa-anthropic-oeffnet-mythos-modell-fuer-eu-cyberagentur-2609-212904.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/enisa-anthropic-oeffnet-mythos-modell-fuer-eu-cyberagentur-2609-212904.html</guid>
+      <description>Nach monatelangen Verhandlungen gibt Anthropic der EU-Agentur Enisa Zugang zu seinem KI-Modell Mythos. Doch die neueste Version gibt es nicht. (Anthropic, KI)</description>
+      <pubDate>Fri, 11 Sep 2026 08:16:06 GMT</pubDate>
+    </item>
     <item>
       <title>Bye-Bye zu "Nur Bares ist Wahres": Klingbeil plant Kartenpflicht in Läden und Restaurants</title>
       <link>https://www.golem.de/news/bye-bye-zu-nur-bares-ist-wahres-klingbeil-plant-kartenpflicht-in-laeden-und-restaurants-2609-212903.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/china-e-autos-volle-punktzahl-beim-crashtest-euro-ncap-2609-212700.html</guid>
       <description>Drei Elektroautos aus China, der GAC Aion UT, der Geely E2 und der Leapmotor B05, erreichen bei Euro NCAP jeweils fünf Sterne. (Elektroauto, Auto)</description>
       <pubDate>Mon, 07 Sep 2026 08:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kritische Infrastruktur: Energiecontainer liefert klimafreundlichen Notstrom</title>
-      <link>https://www.golem.de/news/kritische-infrastruktur-energiecontainer-liefert-klimafreundlichen-notstrom-2609-212702.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kritische-infrastruktur-energiecontainer-liefert-klimafreundlichen-notstrom-2609-212702.html</guid>
-      <description>Um den Mobilfunk über Tage hinweg aufrechtzuerhalten, kombiniert das System Batteriespeicher und Wasserstoffverbrennung. (Wasserstoff, Mobilfunk)</description>
-      <pubDate>Mon, 07 Sep 2026 07:26:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
