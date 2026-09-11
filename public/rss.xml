@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 12:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:01:22 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Kommen mit dem iPhone Duo Foldables endlich im Mainstream an?</title>
+      <link>https://www.golem.de/news/anzeige-kommen-mit-dem-iphone-duo-foldables-endlich-im-mainstream-an-2609-212917.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kommen-mit-dem-iphone-duo-foldables-endlich-im-mainstream-an-2609-212917.html</guid>
+      <description>Am vergangenen Mittwoch hat Apple endlich das lange erwartete iPhone Duo vorgestellt. Dem Faltsmartphone wird großes Potenzial zugerechnet. (iPhone Duo, Apple)</description>
+      <pubDate>Fri, 11 Sep 2026 13:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: XR/AR-Brille Viture Pro 2 zum Tiefpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-xr-ar-brille-viture-pro-2-zum-tiefpreis-bei-amazon-2609-212928.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-neue-dji-drohne-mit-8k-fotos-bei-amazon-nie-guenstiger-2609-212723.html</guid>
       <description>Die neue DJI Lito 1 Drohne hebt im befristeten Angebot mit zwei Akkus und Fernsteuerung zum Amazon-Tiefstpreis von nur 319 Euro ab. (Technik/Hardware, Akku)</description>
       <pubDate>Mon, 07 Sep 2026 11:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Softwareentwicklung: Lese- und Schreibmodelle gezielt trennen - CQRS mit Augenmaß</title>
-      <link>https://www.golem.de/news/softwareentwicklung-lese-und-schreibmodelle-gezielt-trennen-cqrs-mit-augenmass-2609-212710.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-lese-und-schreibmodelle-gezielt-trennen-cqrs-mit-augenmass-2609-212710.html</guid>
-      <description>Zwischen Monolithen und verteiltem System liegt viel Spielraum. Wir zeigen, wo CQRS hilft und wann zusätzliche Architektur mehr kostet, als sie bringt. Ein Ratgebertext von Fabian Deitelhoff (Softwarearchitektur, API)</description>
-      <pubDate>Mon, 07 Sep 2026 11:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
