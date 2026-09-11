@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 07:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 08:06:02 GMT</lastBuildDate>
+    <item>
+      <title>Bye-Bye zu "Nur Bares ist Wahres": Klingbeil plant Kartenpflicht in Läden und Restaurants</title>
+      <link>https://www.golem.de/news/bye-bye-zu-nur-bares-ist-wahres-klingbeil-plant-kartenpflicht-in-laeden-und-restaurants-2609-212903.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bye-bye-zu-nur-bares-ist-wahres-klingbeil-plant-kartenpflicht-in-laeden-und-restaurants-2609-212903.html</guid>
+      <description>Wer künftig ohne Bargeld einkaufen geht, soll keine Nachteile mehr haben: Das Finanzministerium will Geschäfte und Gastronomie dazu verpflichten, digitale Zahlungen anzunehmen. (Koalitionsvertrag, Wirtschaft)</description>
+      <pubDate>Fri, 11 Sep 2026 08:03:05 GMT</pubDate>
+    </item>
     <item>
       <title>Kollaborationsplattform: Bending Spoons kauft Miro</title>
       <link>https://www.golem.de/news/kollaborationsplattform-bending-spoons-kauft-miro-2609-212905.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kritische-infrastruktur-energiecontainer-liefert-klimafreundlichen-notstrom-2609-212702.html</guid>
       <description>Um den Mobilfunk über Tage hinweg aufrechtzuerhalten, kombiniert das System Batteriespeicher und Wasserstoffverbrennung. (Wasserstoff, Mobilfunk)</description>
       <pubDate>Mon, 07 Sep 2026 07:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mikrotik: Über 100.000 Router sind laufenden Angriffen ausgesetzt</title>
-      <link>https://www.golem.de/news/mikrotik-ueber-100-000-router-sind-laufenden-angriffen-ausgesetzt-2609-212701.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mikrotik-ueber-100-000-router-sind-laufenden-angriffen-ausgesetzt-2609-212701.html</guid>
-      <description>Wer einen Mikrotik-Router verwendet, sollte diesen dringend aktualisieren. Angreifer nutzen mehrere Sicherheitslücken aus, um die Geräte zu kapern. (Sicherheitslücke, Netzwerk)</description>
-      <pubDate>Mon, 07 Sep 2026 07:04:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
