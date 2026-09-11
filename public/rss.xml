@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 11 Sep 2026 06:50:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 06:55:53 GMT</lastBuildDate>
+    <item>
+      <title>KI-Sicherheit: Anthropic sperrt Wissenschaftler wegen Biowaffen-Forschung</title>
+      <link>https://www.golem.de/news/ki-sicherheit-anthropic-sperrt-wissenschaftler-wegen-biowaffen-forschung-2609-212899.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-anthropic-sperrt-wissenschaftler-wegen-biowaffen-forschung-2609-212899.html</guid>
+      <description>Anthropic blockiert Konten von Forschern, die KI-Modelle wie Claude zur Entwicklung von biologischen Waffen nutzen wollten. (Anthropic, KI)</description>
+      <pubDate>Fri, 11 Sep 2026 06:53:10 GMT</pubDate>
+    </item>
     <item>
       <title>Beschwerden häufen sich: Windows-Updates machen RDP-Verbindungen kaputt</title>
       <link>https://www.golem.de/news/beschwerden-haeufen-sich-windows-updates-machen-rdp-verbindungen-kaputt-2609-212898.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-in-microsoft-365-sicher-implementieren-2609-212696.html</guid>
       <description>Da Cloud-Umgebungen keine klassischen Netzwerkgrenzen mehr kennen, wird Zero Trust zum zentralen Sicherheitsmodell. Ein Workshop zeigt die praktische Umsetzung in Microsoft 365. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Mon, 07 Sep 2026 05:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Geheime Dokumente geleakt: Der "Daten-Super-GAU" aus der Hauptstadt</title>
-      <link>https://www.golem.de/news/berliner-verwaltungsdaten-geleakt-der-daten-super-gau-aus-der-hauptstadt-2609-212694.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/berliner-verwaltungsdaten-geleakt-der-daten-super-gau-aus-der-hauptstadt-2609-212694.html</guid>
-      <description>Die Hackertruppe Rhysida hat 5,8 Terabyte an Verwaltungsdaten aus Berlin geleakt. Das ist nicht nur für Stadt selbst ein Problem. Ein Bericht von Friedhelm Greis (Security, Phishing)</description>
-      <pubDate>Sun, 06 Sep 2026 13:00:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
