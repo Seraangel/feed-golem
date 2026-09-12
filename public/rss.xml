@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 12 Sep 2026 08:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:45:38 GMT</lastBuildDate>
+    <item>
+      <title>Elektromobilität: Tesla bringt den Semi nach Europa</title>
+      <link>https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html</guid>
+      <description>Tesla hat konkrete Leistungsdaten zum elektrischen Semi für Europa veröffentlicht. Der Marktstart erfolgt jedoch erst im Jahr 2027. (Tesla, Elektroauto)</description>
+      <pubDate>Sat, 12 Sep 2026 08:42:04 GMT</pubDate>
+    </item>
     <item>
       <title>Gamedev: Roblox-Spiele sollen ohne App im Browser laufen</title>
       <link>https://www.golem.de/news/gamedev-roblox-spiele-sollen-ohne-app-im-browser-laufen-2609-212941.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nvidia-dlss-5-treibt-rtx-5090-ueber-600-watt-stromstecker-schmilzt-2609-212736.html</guid>
       <description>Nvidias neues DLSS 5 kann die Leistungsaufnahme von Grafikkarten stark erhöhen. Unter Umständen zu stark. (Nvidia, Spielestreaming)</description>
       <pubDate>Mon, 07 Sep 2026 13:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Militär: Trumps Space-Force-Uniform erinnert an Imperium aus Star Wars</title>
-      <link>https://www.golem.de/news/militaer-trumps-space-force-uniform-erinnert-an-imperium-aus-star-wars-2609-212735.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/militaer-trumps-space-force-uniform-erinnert-an-imperium-aus-star-wars-2609-212735.html</guid>
-      <description>Donald Trump hat einen Vorschlag für eine neue Ausgehuniform für Soldaten der Space Force gepostet - der an imperiale Offiziere in Star Wars erinnert. (Donald Trump, Star Wars)</description>
-      <pubDate>Mon, 07 Sep 2026 13:39:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
