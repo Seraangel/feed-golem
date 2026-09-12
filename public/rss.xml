@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 12 Sep 2026 08:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:15:40 GMT</lastBuildDate>
+    <item>
+      <title>Urteil zu Rabatt-Apps: Laut OLG gelten Daten rechtlich nicht als Preis</title>
+      <link>https://www.golem.de/news/urteil-zu-rabatt-apps-laut-olg-gelten-daten-rechtlich-nicht-als-preis-2609-212944.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/urteil-zu-rabatt-apps-laut-olg-gelten-daten-rechtlich-nicht-als-preis-2609-212944.html</guid>
+      <description>Nutzerdaten in Rabatt-Apps gelten rechtlich nicht als Preis. Das OLG Köln weist eine Klage des Verbraucherzentrale Bundesverbands ab. (Verbraucherschutz, Lidl)</description>
+      <pubDate>Sat, 12 Sep 2026 09:11:06 GMT</pubDate>
+    </item>
     <item>
       <title>Elektromobilität: Tesla bringt den Semi nach Europa</title>
       <link>https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebter-multitool-stift-mit-led-lampe-wieder-zum-jahresbestpreis-bei-amazon-2609-212737.html</guid>
       <description>Taschenlampe, Glasbrecher, Kugelschreiber und Multitool in einem: der Multitool-Stift jetzt wieder günstig bei Amazon (Technik/Hardware)</description>
       <pubDate>Mon, 07 Sep 2026 14:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia: DLSS 5 treibt RTX 5090 über 600 Watt - Stromstecker schmilzt</title>
-      <link>https://www.golem.de/news/nvidia-dlss-5-treibt-rtx-5090-ueber-600-watt-stromstecker-schmilzt-2609-212736.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nvidia-dlss-5-treibt-rtx-5090-ueber-600-watt-stromstecker-schmilzt-2609-212736.html</guid>
-      <description>Nvidias neues DLSS 5 kann die Leistungsaufnahme von Grafikkarten stark erhöhen. Unter Umständen zu stark. (Nvidia, Spielestreaming)</description>
-      <pubDate>Mon, 07 Sep 2026 13:55:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
