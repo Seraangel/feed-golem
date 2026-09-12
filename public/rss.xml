@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 12 Sep 2026 05:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 08:05:32 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Sidecar-Angriffsfläche: Die Dienste, die kein Portscan sieht</title>
+      <link>https://www.golem.de/news/sidecar-angriffsflaeche-die-dienste-die-kein-portscan-sieht-2609-212900.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sidecar-angriffsflaeche-die-dienste-die-kein-portscan-sieht-2609-212900.html</guid>
+      <description>Ein Postgresql-Helfer riss Splunk auf. Solche Dienste laufen überall mit, ungezählt. Worauf Admins achten müssen. Ein Ratgebertext von Steffen Zahn (Security, PostgreSQL)</description>
+      <pubDate>Sat, 12 Sep 2026 08:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>So war euer Informatikunterricht: "Die Schüler hielten den Unterricht"</title>
       <link>https://www.golem.de/news/so-war-euer-informatikunterricht-die-schueler-hielten-den-unterricht-2609-212931.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/von-cabrio-zur-rakete-vw-werk-osnabrueck-wird-zur-ruestungsfabrik-2609-212734.html</guid>
       <description>Aus dem Karmann-Werk in Osnabrück wird ein Kompetenzzentrum für Verteidigungstechnik. Rafael produziert dort künftig Luftverteidigungssysteme. (Militär, Politik)</description>
       <pubDate>Mon, 07 Sep 2026 13:24:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Verteilung von Betriebssystemen: Windows 10 legt zu, Windows 11 verliert</title>
-      <link>https://www.golem.de/news/verteilung-von-betriebssystemen-windows-10-legt-zu-windows-11-verliert-2609-212733.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/verteilung-von-betriebssystemen-windows-10-legt-zu-windows-11-verliert-2609-212733.html</guid>
-      <description>In Deutschland kann Windows 10 besonders deutlich zulegen, weltweit ist der Zuwachs aber geringer. (Windows, Microsoft)</description>
-      <pubDate>Mon, 07 Sep 2026 13:08:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
