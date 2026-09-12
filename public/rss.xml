@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 12 Sep 2026 10:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 11:20:32 GMT</lastBuildDate>
+    <item>
+      <title>Künstliche Intelligenz: OpenAI erwägt Verlangsamung der KI-Entwicklung</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-openai-erwaegt-verlangsamung-der-ki-entwicklung-2609-212946.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-openai-erwaegt-verlangsamung-der-ki-entwicklung-2609-212946.html</guid>
+      <description>OpenAI prüft eine Drosselung der Entwicklungsgeschwindigkeit bei KI. Sam Altman hofft dabei auf eine Branchenvereinbarung. (Anthropic, KI)</description>
+      <pubDate>Sat, 12 Sep 2026 11:18:08 GMT</pubDate>
+    </item>
     <item>
       <title>E-Commerce im Streaming: Amazon verknüpft Prime Video enger mit Onlineshopping</title>
       <link>https://www.golem.de/news/e-commerce-im-streaming-amazon-verknuepft-prime-video-enger-mit-onlineshopping-2609-212945.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/berliner-datenleak-ermittler-noch-tagelang-mit-datendownload-beschaeftigt-2609-212740.html</guid>
       <description>Nach Einschätzung des Berliner Senats sind keine streng geheimen Unterlagen geleakt worden. Doch die Prüfung des Materials ist aufwendig. (Datenleck, Phishing)</description>
       <pubDate>Mon, 07 Sep 2026 15:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: FM-Transmitter mit USB und microSD für 15,98 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-fm-transmitter-mit-usb-und-microsd-fuer-15-98-euro-bei-amazon-2609-212738.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fm-transmitter-mit-usb-und-microsd-fuer-15-98-euro-bei-amazon-2609-212738.html</guid>
-      <description>Amazon hat einen FM-Transmitter im Angebot, der Musik von Smartphones, USB-Speichern und microSD-Karten auf die Autolautsprecher überträgt. (Technik/Hardware)</description>
-      <pubDate>Mon, 07 Sep 2026 14:42:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
