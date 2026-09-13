@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 12 Sep 2026 22:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 05:05:17 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Jobs in Datenmanagement, Administration und digitaler Transformation</title>
+      <link>https://www.golem.de/news/anzeige-it-jobs-in-datenmanagement-administration-und-digitaler-transformation-2609-212906.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-datenmanagement-administration-und-digitaler-transformation-2609-212906.html</guid>
+      <description>Von der Datenplattform in der Verwaltung bis zur Backup-Infrastruktur für die Astrophysik - aktuell sind sechs vielseitige Positionen im Angebot. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Sun, 13 Sep 2026 05:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Toyplosion in Deutschland: Action-Figuren-Messe verzeichnet neuen Besucherrekord</title>
       <link>https://www.golem.de/news/toyplosion-in-deutschland-action-figuren-messe-verzeichnet-neue-besucherrekorde-2609-212952.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/css-for-mobile-2-arm-will-weiterhin-ohne-npu-auskommen-2609-212746.html</guid>
       <description>ARM hat eine neue Generation an CPU-Kernen für Smartphones vorgestellt. Die sieht Matrixeinheiten für KI bereits im Einstiegssegment vor. (Prozessor, Smartphone)</description>
       <pubDate>Tue, 08 Sep 2026 02:01:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mali G2-Ultra NX: KI-Rendering ist auch bei ARM angekommen</title>
-      <link>https://www.golem.de/news/mali-g2-ultra-nx-ki-rendering-ist-auch-bei-arm-angekommen-2609-212741.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mali-g2-ultra-nx-ki-rendering-ist-auch-bei-arm-angekommen-2609-212741.html</guid>
-      <description>Bessere Grafik, höhere Frameraten bei gleichzeitig niedrigerer Leistungsaufnahme verspricht ARMs neue Mali-GPU-Generation dank KI-Kernen. (Grafikkarten, KI)</description>
-      <pubDate>Tue, 08 Sep 2026 02:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
