@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 13 Sep 2026 05:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 06:05:24 GMT</lastBuildDate>
+    <item>
+      <title>Indiegames: Sieben besondere Games abseits der großen Blockbuster</title>
+      <link>https://www.golem.de/news/indiegames-sieben-besondere-games-abseits-der-grossen-blockbuster-2609-212838.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/indiegames-sieben-besondere-games-abseits-der-grossen-blockbuster-2609-212838.html</guid>
+      <description>Von Mortal Shell 2 bis Corsair Cove: Diese kleineren Games-Neuheiten bieten ungewöhnliche Ideen, starke Atmosphäre und viel Spielspaß. Von Rainer Sigl (Indiegames, Rollenspiel)</description>
+      <pubDate>Sun, 13 Sep 2026 06:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: IT-Jobs in Datenmanagement, Administration und digitaler Transformation</title>
       <link>https://www.golem.de/news/anzeige-it-jobs-in-datenmanagement-administration-und-digitaler-transformation-2609-212906.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-grundschutz-praktiker-workshop-mit-bsi-zertifikat-2609-212747.html</guid>
       <description>Informationssicherheit nach dem IT-Grundschutz des BSI aufzubauen, verlangt fundiertes Methodenwissen. Ein Training vermittelt Grundlagen für Risikoanalyse und Zertifizierung. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Tue, 08 Sep 2026 05:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS for Mobile 2: ARM will weiterhin ohne NPU auskommen</title>
-      <link>https://www.golem.de/news/css-for-mobile-2-arm-will-weiterhin-ohne-npu-auskommen-2609-212746.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/css-for-mobile-2-arm-will-weiterhin-ohne-npu-auskommen-2609-212746.html</guid>
-      <description>ARM hat eine neue Generation an CPU-Kernen für Smartphones vorgestellt. Die sieht Matrixeinheiten für KI bereits im Einstiegssegment vor. (Prozessor, Smartphone)</description>
-      <pubDate>Tue, 08 Sep 2026 02:01:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
