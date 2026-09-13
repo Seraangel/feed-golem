@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 13 Sep 2026 07:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:05:17 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Vibecoding: Welche Fähigkeiten Entwickler im KI-Zeitalter bewahren müssen</title>
+      <link>https://www.golem.de/news/vibecoding-welche-faehigkeiten-entwickler-im-ki-zeitalter-bewahren-muessen-2609-212925.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/vibecoding-welche-faehigkeiten-entwickler-im-ki-zeitalter-bewahren-muessen-2609-212925.html</guid>
+      <description>Dank LLMs und Coding-Assistenten lagern Entwickler ihre kognitiven Aufgaben zunehmend an die KI aus. Aber wer trainiert dann das problemlösende Denken, das hinter jedem Code steckt? Ein Ratgebertext von Marc Favre (Arbeit, KI)</description>
+      <pubDate>Sun, 13 Sep 2026 08:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Blizzard: Blizzard Starcraft kehrt als Open-World-Shooter zurück</title>
       <link>https://www.golem.de/news/blizzard-blizzard-starcraft-kehrt-als-open-world-shooter-zurueck-2609-212951.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/experiment-ki-agenten-scheitern-beim-autonomen-geldverdienen-2609-212750.html</guid>
       <description>Ein Test von Bottleneck Labs offenbart, dass autonome KI-Modelle kein Geld verdienen, sondern Spam und unberechtigte Rechnungen erzeugen. (KI, API)</description>
       <pubDate>Tue, 08 Sep 2026 06:25:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scharfe Kritik an Rokus KI-Sender: So spannend wie ein DVD-Menü oder das Betrachten eines Kühlschranks</title>
-      <link>https://www.golem.de/news/scharfe-kritik-in-rokus-ki-sender-so-spannend-wie-ein-dvd-menue-oder-das-betrachten-eines-kuehlschranks-2609-212749.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/scharfe-kritik-in-rokus-ki-sender-so-spannend-wie-ein-dvd-menue-oder-das-betrachten-eines-kuehlschranks-2609-212749.html</guid>
-      <description>Das Streamingunternehmen Roku bietet einen Sender, der ausschließlich KI-generierte Inhalte zeigt. Das Ergebnis ist schlimmer als erwartet. (Roku, KI)</description>
-      <pubDate>Tue, 08 Sep 2026 06:16:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
