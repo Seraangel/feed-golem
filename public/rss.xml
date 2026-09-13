@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 13 Sep 2026 08:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:50:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Balkonkraftwerk exklusiv für Golem-Leser nur 359 Euro bei Kleines Kraftwerk</title>
+      <link>https://www.golem.de/news/anzeige-balkonkraftwerk-exklusiv-fuer-golem-leser-nur-359-euro-bei-kleines-kraftwerk-2609-212910.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-balkonkraftwerk-exklusiv-fuer-golem-leser-nur-359-euro-bei-kleines-kraftwerk-2609-212910.html</guid>
+      <description>Mit dem bifazialen Balkonkraftwerk von Kleines Kraftwerk sichern sich Golem-Leser einen Exklusivrabatt und reduzieren ihre Stromrechnung. (Balkonkraftwerk, Solarenergie)</description>
+      <pubDate>Sun, 13 Sep 2026 08:40:02 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Vibecoding: Welche Fähigkeiten Entwickler im KI-Zeitalter bewahren müssen</title>
       <link>https://www.golem.de/news/vibecoding-welche-faehigkeiten-entwickler-im-ki-zeitalter-bewahren-muessen-2609-212925.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/diy-das-balkonkraftwerk-als-e-auto-tankstelle-2609-212716.html</guid>
       <description>Das E-Auto mit Strom aus eigener Produktion zu laden, war lange Hausbesitzern mit großer Dach-PV vorbehalten. Nun gibt es moderne Akku-Balkonkraftwerke - was geht damit bereits? Ein Erfahrungsbericht von Dennis Ziesecke (Elektroauto, Auto)</description>
       <pubDate>Tue, 08 Sep 2026 06:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Experiment: KI-Agenten scheitern beim autonomen Geldverdienen</title>
-      <link>https://www.golem.de/news/experiment-ki-agenten-scheitern-beim-autonomen-geldverdienen-2609-212750.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/experiment-ki-agenten-scheitern-beim-autonomen-geldverdienen-2609-212750.html</guid>
-      <description>Ein Test von Bottleneck Labs offenbart, dass autonome KI-Modelle kein Geld verdienen, sondern Spam und unberechtigte Rechnungen erzeugen. (KI, API)</description>
-      <pubDate>Tue, 08 Sep 2026 06:25:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
