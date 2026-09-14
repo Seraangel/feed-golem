@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 07:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:30:31 GMT</lastBuildDate>
+    <item>
+      <title>Hochtemperatur-Supraleitung: Proxima Fusion baut Kernfusions-Industrie auf</title>
+      <link>https://www.golem.de/news/hochtemperatur-supraleitung-proxima-fusion-baut-kernfusions-industrie-auf-2609-212964.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hochtemperatur-supraleitung-proxima-fusion-baut-kernfusions-industrie-auf-2609-212964.html</guid>
+      <description>Das Fusions-Start-up und das Land Niedersachsen konkretisieren das Vorhaben, die Supraleiter erstmals in relevanten Mengen in Europa zu fertigen. (Kernfusion, Start-up)</description>
+      <pubDate>Mon, 14 Sep 2026 07:25:05 GMT</pubDate>
+    </item>
     <item>
       <title>MacOS 27 Golden Gate im Test: Mehr Speed, mehr KI, kaum Bugs - und was ist mit Siri AI?</title>
       <link>https://www.golem.de/news/macos-27-golden-gate-im-test-mehr-speed-mehr-ki-kaum-bugs-und-was-ist-mit-siri-ai-2609-212958.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-curved-gaming-monitor-mit-27-fhd-und-180-hz-reduziert-bei-amazon-2609-212765.html</guid>
       <description>Amazon hat einen Curved Gaming-Monitor mit 27'' großem FHD-Display, 180 Hz, 1 Millisekunde MPRT und integrierten Lautsprechern im Angebot. (Technik/Hardware)</description>
       <pubDate>Tue, 08 Sep 2026 09:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neoverse CSS-N4: ARM ermöglicht bis zu 128 Kerne pro Chiplet für Server</title>
-      <link>https://www.golem.de/news/neoverse-css-n4-arm-ermoeglicht-bis-zu-128-kerne-pro-chiplet-fuer-server-2609-212762.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neoverse-css-n4-arm-ermoeglicht-bis-zu-128-kerne-pro-chiplet-fuer-server-2609-212762.html</guid>
-      <description>Bei Kernen für Server-CPUs geht ARM neue Wege: Vorerst gibt es eine vierte Neoverse-Generation nur bei den kompakteren N-Kernen. (Prozessor, Mesh)</description>
-      <pubDate>Tue, 08 Sep 2026 09:24:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
