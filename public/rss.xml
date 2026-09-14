@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 07:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 07:35:23 GMT</lastBuildDate>
+    <item>
+      <title>Physical Address Extension: Warum 32-Bit-Windows auf 4 GByte RAM begrenzt war</title>
+      <link>https://www.golem.de/news/physical-address-extension-warum-32-bit-windows-auf-4-gbyte-ram-begrenzt-war-2609-212965.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/physical-address-extension-warum-32-bit-windows-auf-4-gbyte-ram-begrenzt-war-2609-212965.html</guid>
+      <description>Fehlerhafte Treiber haben Microsoft daran gehindert, mehr als 4 GByte Arbeitsspeicher in 32-Bit-Client-Versionen freizugeben. (Windows XP, Microsoft)</description>
+      <pubDate>Mon, 14 Sep 2026 07:33:07 GMT</pubDate>
+    </item>
     <item>
       <title>Hochtemperatur-Supraleitung: Proxima Fusion baut Kernfusions-Industrie auf</title>
       <link>https://www.golem.de/news/hochtemperatur-supraleitung-proxima-fusion-baut-kernfusions-industrie-auf-2609-212964.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bahnsparer-app-geld-beim-kauf-von-zugtickets-sparen-und-vieles-mehr-2609-212764.html</guid>
       <description>Die neue App Bahnsparer soll Fahrten mit dem Zug nicht nur preiswerter, sondern auch verlässlicher machen. (ÖPNV, Deutsche Bahn)</description>
       <pubDate>Tue, 08 Sep 2026 09:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Curved Gaming-Monitor mit 27'' FHD und 180 Hz reduziert bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-curved-gaming-monitor-mit-27-fhd-und-180-hz-reduziert-bei-amazon-2609-212765.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-curved-gaming-monitor-mit-27-fhd-und-180-hz-reduziert-bei-amazon-2609-212765.html</guid>
-      <description>Amazon hat einen Curved Gaming-Monitor mit 27'' großem FHD-Display, 180 Hz, 1 Millisekunde MPRT und integrierten Lautsprechern im Angebot. (Technik/Hardware)</description>
-      <pubDate>Tue, 08 Sep 2026 09:28:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
