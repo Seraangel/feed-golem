@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 11:00:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 11:35:26 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Der Mythos vom Millionen-Token-Kontext: Warum KI bei längeren Eingaben schwächelt</title>
+      <link>https://www.golem.de/news/der-mythos-vom-millionen-token-kontext-warum-ki-bei-laengeren-eingaben-schwaechelt-2609-212718.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/der-mythos-vom-millionen-token-kontext-warum-ki-bei-laengeren-eingaben-schwaechelt-2609-212718.html</guid>
+      <description>KI-Hersteller bewerben Kontextlängen von Millionen von Zeichen, doch trotzdem versagen die Modelle bei großen Dokumenten. Wir erklären die Hintergründe. Eine Analyse von Tim Elsner (KI, Software)</description>
+      <pubDate>Mon, 14 Sep 2026 11:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Dreo Heizlüfter für unter 45 Euro bei Amazon im Angebot</title>
       <link>https://www.golem.de/news/anzeige-dreo-heizluefter-fuer-unter-45-euro-bei-amazon-im-angebot-2609-212979.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tim-hoettges-telekom-bereitet-sich-auf-bewerbung-fuer-ki-gigafactory-vor-2609-212783.html</guid>
       <description>Telekom-Chef Tim Höttges verhandelt um massive Subventionen und staatliche Energierabatte. Es geht um das Aufteilen öffentlicher Fördergelder. (Telekom, Wirtschaft)</description>
       <pubDate>Tue, 08 Sep 2026 15:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Bifaziale Solakon-500-W-Solarmodule im 2er-Set zum Aktionspreis für nur 89 Euro pro Stück</title>
-      <link>https://www.golem.de/news/anzeige-solakon-500w-bifazial-solarmodule-im-2er-set-zum-aktionspreis-fuer-nur-89-euro-pro-stueck-2609-212781.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-solakon-500w-bifazial-solarmodule-im-2er-set-zum-aktionspreis-fuer-nur-89-euro-pro-stueck-2609-212781.html</guid>
-      <description>Die bifazialen Solakon-500-W-Solarmodule mit N-Type-Zellen und Full-Black-Design im Doppelpack sind aktuell zum Sparpreis erhältlich. (Technik/Hardware, Balkonkraftwerk)</description>
-      <pubDate>Tue, 08 Sep 2026 14:16:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
