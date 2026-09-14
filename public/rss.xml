@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 08:30:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:35:18 GMT</lastBuildDate>
+    <item>
+      <title>Noch vor Hugging-Face-Hack: KI-Agenten von OpenAI haben Rubygems attackiert</title>
+      <link>https://www.golem.de/news/noch-vor-hugging-face-hack-ki-agenten-von-openai-haben-rubygems-attackiert-2609-212970.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/noch-vor-hugging-face-hack-ki-agenten-von-openai-haben-rubygems-attackiert-2609-212970.html</guid>
+      <description>Im Mai ist die Paketverwaltung Rubygems Ziel einer merkwürdigen Cyberattacke worden. Nun zeigt sich, dass KI-Agenten von OpenAI dahinter steckten. (KI, API)</description>
+      <pubDate>Mon, 14 Sep 2026 08:33:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 30 Jahre Pokémon-Jubiläums-Sammelkarten bei Amazon zur UVP vorbestellen</title>
       <link>https://www.golem.de/news/anzeige-30-jahre-pokemon-jubilaeums-sammelkarten-bei-amazon-zur-uvp-vorbestellen-2609-212968.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/2-ghz-mss-band-telekom-vodafone-telefonica-wollen-gemeinsamen-satelliten-mobilfunk-2609-212768.html</guid>
       <description>Um nicht weiter in Abhängigkeit von Starlink zu geraten, wollen die führenden EU-Mobilfunkbetreiber zusammen ein Satellitennetz aufbauen. Sie wollen wohl für einen Teil des 2-GHz-MSS-Bands bieten. (Satelliten, Politik)</description>
       <pubDate>Tue, 08 Sep 2026 10:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Liquid Network: Hacker stehlen 4.000 Bitcoin und geben 3.400 wieder zurück</title>
-      <link>https://www.golem.de/news/liquid-network-hacker-stehlen-4-000-bitcoin-und-geben-3-400-wieder-zurueck-2609-212767.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/liquid-network-hacker-stehlen-4-000-bitcoin-und-geben-3-400-wieder-zurueck-2609-212767.html</guid>
-      <description>Ein Hackerangriff auf eine beliebte Bitcoin-Sidechain erschüttert die Krypto-Branche. Ein Millionenvermögen wechselt unerwartet den Besitzer. (Bitcoin, Sicherheitslücke)</description>
-      <pubDate>Tue, 08 Sep 2026 10:39:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
