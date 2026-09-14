@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 13 Sep 2026 15:05:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:20:17 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Keycloak richtig einsetzen: Identity- und Access-Management</title>
+      <link>https://www.golem.de/news/anzeige-keycloak-richtig-einsetzen-identity-und-access-management-2609-212942.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-keycloak-richtig-einsetzen-identity-und-access-management-2609-212942.html</guid>
+      <description>Sichere Authentifizierung und zentrales Identity-Management sind zentrale Aufgaben in Unternehmensnetzwerken. Ein Workshop vermittelt den Umgang mit Keycloak als Identity-Provider. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Mon, 14 Sep 2026 05:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kampf der Maschinen: Ukraine versenkt erstmals russische Seedrohne mit Seedrohne</title>
+      <link>https://www.golem.de/news/kampf-der-maschinen-ukraine-versenkt-erstmals-russische-seedrohne-mit-seedrohne-2609-212960.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kampf-der-maschinen-ukraine-versenkt-erstmals-russische-seedrohne-mit-seedrohne-2609-212960.html</guid>
+      <description>Erstmals in der Militärgeschichte hat ein unbemanntes Kriegsschiff eine andere Seedrohne versenkt. (Militär, Politik)</description>
+      <pubDate>Mon, 14 Sep 2026 05:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: WLAN-Repeater mit bis zu 2.600 MBit/s reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-wlan-repeater-mit-bis-zu-2-600-mbit-s-reduziert-bei-amazon-2609-212933.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-schweizer-regierung-will-weg-von-microsoft-2609-212758.html</guid>
       <description>Die Schweizer Regierung sieht Schleswig-Holstein als Vorbild und will sich langfristig möglichst umfassend von Microsoft lösen. (Souveränität, Microsoft)</description>
       <pubDate>Tue, 08 Sep 2026 08:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vom Klimaretter zum Schmutzteufel: Plug-in-Hybride stoßen im Alltag bis zu sechs Mal mehr CO2 aus</title>
-      <link>https://www.golem.de/news/vom-klimaretter-zum-schmutzteufel-plug-in-hybride-stossen-im-alltag-bis-zu-sechs-mal-mehr-co2-aus-2609-212757.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vom-klimaretter-zum-schmutzteufel-plug-in-hybride-stossen-im-alltag-bis-zu-sechs-mal-mehr-co2-aus-2609-212757.html</guid>
-      <description>Neue Daten der Europäischen Umweltagentur legen eine wachsende Lücke zwischen Labor und Realität bei Plug-in-Hybriden offen. (Plugin-Hybrid, Studien)</description>
-      <pubDate>Tue, 08 Sep 2026 07:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Verbraucherschutz: Australien lässt Social-Media-Nutzer den Algorithmus abschalten</title>
-      <link>https://www.golem.de/news/verbraucherschutz-australien-laesst-social-media-nutzer-den-algorithmus-abschalten-2609-212756.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/verbraucherschutz-australien-laesst-social-media-nutzer-den-algorithmus-abschalten-2609-212756.html</guid>
-      <description>Soziale Netzwerke leben von Algorithmen, die Nutzer ständig mit neuem Content versorgen - und süchtig machen können. Australien stellt sich dem entgegen. (Jugendschutz, Soziales Netz)</description>
-      <pubDate>Tue, 08 Sep 2026 07:48:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
