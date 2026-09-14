@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 16:45:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:50:15 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft 365 sicher administrieren im Workshop</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-365-sicher-administrieren-im-workshop-2609-212953.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-sicher-administrieren-im-workshop-2609-212953.html</guid>
+      <description>Die Verwaltung von Microsoft 365 Umgebungen stellt IT-Administratoren vor komplexe Aufgaben bei Lizenzierung, Migration und Sicherheit. Ein Training vermittelt das nötige Rüstzeug. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Mon, 14 Sep 2026 16:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Trotz KI und Cloud: Nachfrage nach klassischer Softwareentwicklung weiterhin hoch</title>
       <link>https://www.golem.de/news/trotz-ki-und-cloud-nachfrage-nach-klassischer-softwareentwicklung-weiterhin-hoch-2609-213003.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/maps-google-schickt-autofahrer-absichtlich-auf-umwege-2609-212802.html</guid>
       <description>Sechs Monate lang hat Google getestet, wie sich der Verkehr auf verstopften Straßen verbessern lässt. Ein Mittel: Fahrer mit Maps umleiten. (Google Maps, Google)</description>
       <pubDate>Wed, 09 Sep 2026 08:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Take Two: Warum fällt die GTA-6-Aktie trotz nahendem Release?</title>
-      <link>https://www.golem.de/news/take-two-warum-faellt-die-gta-6-aktie-trotz-nahendem-release-2609-212801.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/take-two-warum-faellt-die-gta-6-aktie-trotz-nahendem-release-2609-212801.html</guid>
-      <description>Kurz vor GTA 6 müsste die Take-Two-Aktie eigentlich steigen. Stattdessen verliert sie deutlich an Wert - aus rätselhaften Gründen. (GTA 6, Rockstar)</description>
-      <pubDate>Wed, 09 Sep 2026 08:13:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
