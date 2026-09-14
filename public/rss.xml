@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 14:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:40:22 GMT</lastBuildDate>
+    <item>
+      <title>Nicht empirisch belegbar: Bedrohung durch KI-Systeme nur subjektiv</title>
+      <link>https://www.golem.de/news/nicht-empirisch-belegbar-bedrohung-durch-ki-systeme-nur-subjektiv-2609-212996.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nicht-empirisch-belegbar-bedrohung-durch-ki-systeme-nur-subjektiv-2609-212996.html</guid>
+      <description>Am Max-Planck-Institut für Sicherheit und Privatsphäre wird die Warnung vor KI zwar ernst genommen, aber nicht überbewertet. (KI, Security)</description>
+      <pubDate>Mon, 14 Sep 2026 14:36:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bosch GO 3 Akkuschrauber-Set mit Bits und Koffer jetzt zum neuen Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-bosch-go-3-akkuschrauber-set-mit-bits-und-koffer-jetzt-zum-neuen-amazon-bestpreis-2609-212995.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-wearables-veraendern-die-datenanalyse-im-breitensport-2609-212722.html</guid>
       <description>Vom Profisport in den Alltag: Moderne Sport-Algorithmen werten nicht mehr nur Schritte und Herzfrequenz aus, sondern analysieren jetzt auch Geländeneigungen, Kurvenlagen und Erholungsprozesse. (Technik/Hardware, Huawei)</description>
       <pubDate>Wed, 09 Sep 2026 07:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patchday-Rekord: Fast 1.000 Sicherheitslücken in Windows, Office und Co.</title>
-      <link>https://www.golem.de/news/patchday-rekord-fast-1-000-sicherheitsluecken-in-windows-office-und-co-2609-212793.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/patchday-rekord-fast-1-000-sicherheitsluecken-in-windows-office-und-co-2609-212793.html</guid>
-      <description>Noch nie zuvor hat Microsoft innerhalb eines Monats so viele Sicherheitslücken gepatcht. Anwender sollten zügig updaten, denn Attacken laufen bereits. (Patchday, Microsoft)</description>
-      <pubDate>Wed, 09 Sep 2026 06:50:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
