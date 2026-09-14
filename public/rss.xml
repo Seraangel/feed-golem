@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 06:20:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 06:25:23 GMT</lastBuildDate>
+    <item>
+      <title>Klimaanlage: Sicherheitslücke in Midea Portasplit wird geschlossen</title>
+      <link>https://www.golem.de/news/klimaanlage-sicherheitsluecke-in-midea-portasplit-wird-geschlossen-2609-212963.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/klimaanlage-sicherheitsluecke-in-midea-portasplit-wird-geschlossen-2609-212963.html</guid>
+      <description>Angreifer können die Klimaanlage Midea Portasplit ohne Anmeldung per Bluetooth steuern. Ein neues Firmware-Update korrigiert das. (Sicherheitslücke, Bluetooth)</description>
+      <pubDate>Mon, 14 Sep 2026 06:23:04 GMT</pubDate>
+    </item>
     <item>
       <title>Erfolgreicher Angriff: Revolut gibt vertrauliche Kundendaten an gefälschte Behörden-E-Mail</title>
       <link>https://www.golem.de/news/erfolgreicher-angriff-revolut-gab-vertrauliche-kundendaten-an-gefaelschte-behoerden-e-mail-2609-212962.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-forscher-wird-von-ki-agent-per-e-mail-fuer-ki-podcast-befragt-2609-212763.html</guid>
       <description>Toby Ord ist Philosoph. In den letzten Wochen wurde er mehrmals von KIs per E-Mail kontaktiert. Jetzt ist er für einen Podcast befragt worden - von einer KI. (KI, Wissenschaft)</description>
       <pubDate>Tue, 08 Sep 2026 09:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auch im Standby: LG-Fernseher wohl anfällig für weitreichende Spionageangriffe</title>
-      <link>https://www.golem.de/news/auch-im-standby-lg-fernseher-wohl-anfaellig-fuer-weitreichende-spionageangriffe-2609-212761.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/auch-im-standby-lg-fernseher-wohl-anfaellig-fuer-weitreichende-spionageangriffe-2609-212761.html</guid>
-      <description>Forscher haben untersucht, wie weitreichend Smart TVs von LG ihre Nutzer tracken und ausspionieren. Ihr Fazit: "Vergleichbar mit Malware". (Sicherheitslücke, LG)</description>
-      <pubDate>Tue, 08 Sep 2026 08:54:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
