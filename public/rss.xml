@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 12:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:55:20 GMT</lastBuildDate>
+    <item>
+      <title>Künstliche Intelligenz: China warnt vor "böswilligem Wettbewerb" bei KI-Entwicklung</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-china-warnt-vor-boeswilligem-wettbewerb-bei-ki-entwicklung-2609-212991.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-china-warnt-vor-boeswilligem-wettbewerb-bei-ki-entwicklung-2609-212991.html</guid>
+      <description>Mehrere Chefs von KI-Unternehmen aus den USA schlagen vor, die Entwicklung der Technologie zu verlangsamen. China will eine gemeinsame Regulierung. (KI, Wirtschaft)</description>
+      <pubDate>Mon, 14 Sep 2026 12:53:03 GMT</pubDate>
+    </item>
     <item>
       <title>Starlink mit Femtocells: T-Mobile und Verizon lachen über Musks Mobilfunkpläne</title>
       <link>https://www.golem.de/news/starlink-mit-femtocells-t-mobile-und-verizon-lachen-ueber-musks-mobilfunkplaene-2609-212989.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/finanzierungsrunde-franzoesisches-ki-start-up-mistral-mit-21-milliarden-euro-bewertet-2609-212789.html</guid>
       <description>Der größte Investor in der Runde ist Samsung, der führende Hersteller von HBM-Speicher. Mistral wirbt weiter mit Souveränität als Geschäftsmodell. (Souveränität, KI)</description>
       <pubDate>Tue, 08 Sep 2026 17:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Custom Silicon: Amazon ordert KI-Chips für 60 Milliarden US-Dollar bei Qualcomm</title>
-      <link>https://www.golem.de/news/custom-silicon-amazon-ordert-ki-chips-fuer-60-milliarden-us-dollar-bei-qualcomm-2609-212788.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/custom-silicon-amazon-ordert-ki-chips-fuer-60-milliarden-us-dollar-bei-qualcomm-2609-212788.html</guid>
-      <description>Amazons AWS sichert sich Custom-Silicon von Qualcomm, um der rasant steigenden Last bei KI-Inferenz und Agentic Workloads Herr zu werden. Der Megadeal geht mit einer tiefen finanziellen Verflechtung einher. (Qualcomm, Cloud Computing)</description>
-      <pubDate>Tue, 08 Sep 2026 17:16:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
