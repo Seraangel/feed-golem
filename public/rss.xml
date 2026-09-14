@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 11:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 12:05:17 GMT</lastBuildDate>
+    <item>
+      <title>Zwei Controller in Arbeit: Apples geheimer Gamepad-Plan</title>
+      <link>https://www.golem.de/news/zwei-controller-in-arbeit-apples-geheimer-gamepad-plan-2609-212969.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zwei-controller-in-arbeit-apples-geheimer-gamepad-plan-2609-212969.html</guid>
+      <description>Codefunde im ersten Release Candidate von macOS 26.7 deuten auf zwei neue Apple-Hardwaregeräte hin. Möglicherweise sind es Gaming-Controller. (Apple, Apple TV)</description>
+      <pubDate>Mon, 14 Sep 2026 12:01:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Teilbare Soundbar mit Subwoofer zum Aktionspreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-teilbare-soundbar-mit-subwoofer-zum-aktionspreis-bei-amazon-2609-212987.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobile-geraete-sicher-verwalten-mit-microsoft-intune-2609-212785.html</guid>
       <description>Windows, iOS, MacOS und Android parallel zu verwalten stellt IT-Administratoren vor komplexe Aufgaben. Ein Workshop zu Microsoft Intune vermittelt das nötige Praxiswissen. (Golem Karrierewelt, Betriebssysteme)</description>
       <pubDate>Tue, 08 Sep 2026 16:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) IPOs: Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO</title>
-      <link>https://www.golem.de/news/ipos-anthropic-and-openai-bankers-push-for-top-tier-credit-ratings-post-ipo-2609-212782.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ipos-anthropic-and-openai-bankers-push-for-top-tier-credit-ratings-post-ipo-2609-212782.html</guid>
-      <description>Investment-grade designation would unlock cheaper financing for AI labs and their infrastructure partners Von Michelle Chan (Unternehmen, KI)</description>
-      <pubDate>Tue, 08 Sep 2026 16:00:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
