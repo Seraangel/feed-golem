@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 05:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 05:30:22 GMT</lastBuildDate>
+    <item>
+      <title>Jugendliche mit Waffe entdeckt: Robotertaxi ruft selbstständig die Polizei</title>
+      <link>https://www.golem.de/news/jugendliche-mit-waffe-entdeckt-robotertaxi-ruft-selbststaendig-die-polizei-2609-212961.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/jugendliche-mit-waffe-entdeckt-robotertaxi-ruft-selbststaendig-die-polizei-2609-212961.html</guid>
+      <description>Ein autonomes Fahrzeug von Waymo hat die Polizei alarmiert, weil seine Systeme eine Waffe bei den Passagieren entdeckt haben. (Autonomes Fahren, Auto)</description>
+      <pubDate>Mon, 14 Sep 2026 05:28:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Keycloak richtig einsetzen: Identity- und Access-Management</title>
       <link>https://www.golem.de/news/anzeige-keycloak-richtig-einsetzen-identity-und-access-management-2609-212942.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-matter-steckdosen-im-4er-pack-zum-tiefpreis-nur-8-12-euro-pro-stueck-2609-212760.html</guid>
       <description>Universell kompatible WLAN-Steckdosen mit Matter-Standard: Vier Antela-Smart-Plugs jetzt zum Tiefpreis bei Amazon. (Technik/Hardware, Smart Home)</description>
       <pubDate>Tue, 08 Sep 2026 08:35:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digitale Souveränität: Schweizer Regierung will weg von Microsoft</title>
-      <link>https://www.golem.de/news/digitale-souveraenitaet-schweizer-regierung-will-weg-von-microsoft-2609-212758.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-schweizer-regierung-will-weg-von-microsoft-2609-212758.html</guid>
-      <description>Die Schweizer Regierung sieht Schleswig-Holstein als Vorbild und will sich langfristig möglichst umfassend von Microsoft lösen. (Souveränität, Microsoft)</description>
-      <pubDate>Tue, 08 Sep 2026 08:10:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
