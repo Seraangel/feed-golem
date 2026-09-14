@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 14 Sep 2026 07:50:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 08:00:23 GMT</lastBuildDate>
+    <item>
+      <title>Röhrencomputer: Eigenbau-Rechner arbeitet ohne Mikrochips</title>
+      <link>https://www.golem.de/news/roehrencomputer-eigenbau-rechner-arbeitet-ohne-mikrochips-2609-212967.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/roehrencomputer-eigenbau-rechner-arbeitet-ohne-mikrochips-2609-212967.html</guid>
+      <description>Ein Bastler baut einen wandmontierten 8-Bit-Computer aus 460 sowjetischen Vakuumröhren, der ganz ohne moderne Mikrochips auskommt. (PC &amp; Notebooks, Prozessor)</description>
+      <pubDate>Mon, 14 Sep 2026 07:56:08 GMT</pubDate>
+    </item>
     <item>
       <title>Smart Glasses: Meta-Ray-Ban laut Datenschutzbeauftragtem untauglich für Alltag</title>
       <link>https://www.golem.de/news/smart-glasses-meta-ray-ban-laut-datenschutzbeauftragtem-untauglich-fuer-alltag-2609-212966.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-philips-airfryer-mit-dampfgar-funktion-jetzt-zum-neuen-amazon-bestpreis-nur-155-euro-2609-212769.html</guid>
       <description>Der Philips Steam Airfryer 5000 mit Doppelkammer, Dampfgar- und Frittierfunktion erreicht einen neuen Bestpreis bei Amazon. (Technik/Hardware, Philips)</description>
       <pubDate>Tue, 08 Sep 2026 10:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixel-11-Serie im Praxistest: Ein bisschen Hardware und viel Software</title>
-      <link>https://www.golem.de/news/pixel-11-serie-im-praxistest-ein-bisschen-hardware-und-viel-software-2609-212616.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pixel-11-serie-im-praxistest-ein-bisschen-hardware-und-viel-software-2609-212616.html</guid>
-      <description>Google geht auch bei den neuen Pixel-11-Geräten bei der Hardware auf Nummer sicher - und lässt vieles beim Alten. Reicht das, um gegen die Konkurrenz zu bestehen? Ein Test von Tobias Költzsch (Pixel 11, Smartphone)</description>
-      <pubDate>Tue, 08 Sep 2026 10:04:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
