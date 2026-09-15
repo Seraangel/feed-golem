@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 11:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:45:18 GMT</lastBuildDate>
+    <item>
+      <title>Dimensity 9600 Pro: Mediatek präsentiert neues 2-nm-SoC mit Arm-C2-Kernen</title>
+      <link>https://www.golem.de/news/dimensity-9600-pro-mediatek-praesentiert-neues-2-nm-soc-mit-arm-c2-kernen-2609-213039.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/dimensity-9600-pro-mediatek-praesentiert-neues-2-nm-soc-mit-arm-c2-kernen-2609-213039.html</guid>
+      <description>Der Dimensity 9600 Pro kommt mit Arms jüngst vorgestellten, leistungsfähigen C2-Kernen und wird von TSMC im 2-nm-Verfahren hergestellt. (Mediatek, Smartphone)</description>
+      <pubDate>Tue, 15 Sep 2026 11:44:10 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Typsicherheit für Javascript: Wie Typescript die Webentwicklung verändert hat</title>
       <link>https://www.golem.de/news/typsicherheit-fuer-javascript-wie-typescript-die-webentwicklung-veraendert-hat-2609-213026.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-17-anschluesse-und-thunderbolt-5-ugreen-dock-mit-m-2-slot-und-140-watt-im-angebot-2609-212836.html</guid>
       <description>Noch bis Sonntag gibt es die 17-in-1-Thunderbolt-5-Dock Maxidok von Ugreen im Amazon-Angebot. Wer nicht 360 Euro ausgeben will, für den gibt es eine USB-C-Dock für nur 27 Euro. (USB4, Amazon)</description>
       <pubDate>Wed, 09 Sep 2026 14:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Bestseller-Taschenlampe zum Aktionspreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-bestseller-taschenlampe-zum-aktionspreis-bei-amazon-2609-212833.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bestseller-taschenlampe-zum-aktionspreis-bei-amazon-2609-212833.html</guid>
-      <description>Amazon hat eine Taschenlampe mit starker Leuchtkraft und einstellbarem Fokus im Angebot, die bereits Tausende von Kunden überzeugt hat. (Technik/Hardware)</description>
-      <pubDate>Wed, 09 Sep 2026 14:50:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
