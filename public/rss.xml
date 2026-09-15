@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 08:40:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:55:22 GMT</lastBuildDate>
+    <item>
+      <title>Grok: Musk lässt Klage gegen Apple fallen</title>
+      <link>https://www.golem.de/news/grok-musk-laesst-klage-gegen-apple-fallen-2609-213024.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/grok-musk-laesst-klage-gegen-apple-fallen-2609-213024.html</guid>
+      <description>Elon Musk war verärgert, dass sein Chatbot Grok nicht die Download-Charts in Apples App Store angeführt hat. Jetzt ist die der Vorwurf ausgeräumt. (Elon Musk, Apple)</description>
+      <pubDate>Tue, 15 Sep 2026 08:54:06 GMT</pubDate>
+    </item>
     <item>
       <title>Softwareprojekte in Gefahr: BSI warnt vor laufenden Angriffen auf Gitlab</title>
       <link>https://www.golem.de/news/softwareprojekte-in-gefahr-bsi-warnt-vor-laufenden-angriffen-auf-gitlab-2609-213022.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/biennale-di-venezia-dokumentation-zeigt-musk-als-fallstudie-ueber-machtmissbrauch-2609-212826.html</guid>
       <description>Weil Elon Musk ein Interview für die Dokumentation abgelehnt hat, hat der Filmemacher einen KI-Avatar mit originalen Aussagen antworten lassen. (Elon Musk, Unterhaltung &amp; Hobby)</description>
       <pubDate>Wed, 09 Sep 2026 12:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>High-NA-EUV: ASML plant größere Masken, Intel knackt die Millionen-Wafer-Marke</title>
-      <link>https://www.golem.de/news/high-na-euv-asml-plant-groessere-masken-intel-knackt-die-millionen-wafer-marke-2609-212822.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/high-na-euv-asml-plant-groessere-masken-intel-knackt-die-millionen-wafer-marke-2609-212822.html</guid>
-      <description>Größere Masken bringen bei High-NA-EUV die aktuelle Reticle Size zurück. Intel nutzt ASMLs nächste Scanner-Generation bereits in der Serienfertigung. (Halbleiterfertigung, Intel)</description>
-      <pubDate>Wed, 09 Sep 2026 11:46:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
