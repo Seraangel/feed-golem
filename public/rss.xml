@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 16:45:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:52:53 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Claude Code für agentische Softwareentwicklung</title>
+      <link>https://www.golem.de/news/anzeige-claude-code-fuer-agentische-softwareentwicklung-2609-213006.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-claude-code-fuer-agentische-softwareentwicklung-2609-213006.html</guid>
+      <description>Claude Code überträgt AI-Coding in konkrete Entwicklungsabläufe. Ein Workshop der Golem Karrierewelt vermittelt Grundlagen und fortgeschrittene agentische Workflows. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Tue, 15 Sep 2026 16:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 16 Zoll großer Portable Monitor mit 2,5K-Auflösung für unter 130 Euro</title>
       <link>https://www.golem.de/news/anzeige-16-zoll-grosser-portable-monitor-mit-2-5k-aufloesung-fuer-unter-130-euro-2609-213061.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-tp-link-tapo-p100-smart-steckdose-mit-alexa-und-google-home-zum-amazon-bestpreis-unter-7-euro-2609-212859.html</guid>
       <description>Die TP-Link Tapo P100 WLAN-Steckdose mit Abwesenheitsmodus und Sprachsteuerung erreicht jetzt noch kurz einen neuen Bestpreis bei Amazon. (Technik/Hardware, Smart Home)</description>
       <pubDate>Thu, 10 Sep 2026 08:43:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Playstation: Sony macht keine Physint-Games mehr und Kojima wechselt zu Xbox</title>
-      <link>https://www.golem.de/news/playstation-sony-macht-keine-physint-games-mehr-und-kojima-wechselt-zu-xbox-2609-212858.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/playstation-sony-macht-keine-physint-games-mehr-und-kojima-wechselt-zu-xbox-2609-212858.html</guid>
-      <description>Hideo Kojimas Physint verliert Sony als Partner. In der Community erregt schon der Name Spott - schließlich klingt er nach Physical Games. (Hideo Kojima, Microsoft)</description>
-      <pubDate>Thu, 10 Sep 2026 08:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
