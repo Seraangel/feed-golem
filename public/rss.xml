@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 15:10:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:15:17 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mobile Wallbox mit 3,7 kW, 7-Meter-Kabel und Display für unter 110 Euro</title>
+      <link>https://www.golem.de/news/anzeige-mobile-wallbox-mit-3-7-kw-7-meter-kabel-und-display-fuer-unter-110-euro-2609-213057.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobile-wallbox-mit-3-7-kw-7-meter-kabel-und-display-fuer-unter-110-euro-2609-213057.html</guid>
+      <description>Ein Typ-2-Ladekabel von Voltbox für Elektro- und Hybridautos ist aktuell günstiger bei Amazon. (Wallbox, Amazon)</description>
+      <pubDate>Tue, 15 Sep 2026 15:13:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wegen KI-Regulierung: Trump ruft Nvidia-Chef während Live-Auftritt an</title>
+      <link>https://www.golem.de/news/wegen-ki-regulierung-trump-ruft-nvidia-chef-waehrend-live-auftritt-an-2609-213056.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wegen-ki-regulierung-trump-ruft-nvidia-chef-waehrend-live-auftritt-an-2609-213056.html</guid>
+      <description>Der Nvidia-CEO Jensen Huang steht KI-Regulierungen ebenfalls ablehnend gegenüber. (KI, Politik)</description>
+      <pubDate>Tue, 15 Sep 2026 15:11:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Laptop-Powerbank mit 25.000 mAh und 100 W im Angebot bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-laptop-powerbank-mit-25-000-mah-und-100-w-im-angebot-bei-amazon-2609-213055.html</link>
@@ -51,7 +65,7 @@
       <title>Connect Europe: Wie Europas Telco-Konzerne den Digital Networks Act kapern wollen</title>
       <link>https://www.golem.de/news/connect-europe-wie-europas-telco-konzerne-den-digital-networks-act-kapern-wollen-2609-213049.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/connect-europe-wie-europas-telco-konzerne-den-digital-networks-act-kapern-wollen-2609-213049.html</guid>
-      <description>Ein Bündnis der ehemals staatlichen Telco-Konzerne fordert fast schrankenlose Marktmacht unter dem Deckmantel digitaler Souveränität. Der Wettbewerb übt scharfe Kritik an der Konservierung veralteter Kupfernetze. Ein Bericht von Achim Sawall (Breko, Glasfaser)</description>
+      <description>Ehemals staatliche Telcos fordern schrankenlose Marktmacht. Der Wettbewerb übt scharfe Kritik an der Konservierung der Kupfernetze. Ein Bericht von Achim Sawall (Breko, Glasfaser)</description>
       <pubDate>Tue, 15 Sep 2026 13:49:10 GMT</pubDate>
     </item>
     <item>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-der-preiserhoehung-hier-gibt-es-netflix-zum-alten-preis-und-teilweise-mit-ordentlich-rabatt-2609-212800.html</guid>
       <description>Neukunden von Netflix müssen seit Anfang September 2026 mehr für das Abo bezahlen. Diese höheren Kosten lassen sich umgehen. Ein Ratgebertext von Ingo Pakalski (Netflix, Telekom)</description>
       <pubDate>Thu, 10 Sep 2026 07:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shieldcrash: Forscher ärgert Microsoft mit neuem Defender-Exploit</title>
-      <link>https://www.golem.de/news/shieldcrash-forscher-aergert-microsoft-mit-neuem-defender-exploit-2609-212855.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/shieldcrash-forscher-aergert-microsoft-mit-neuem-defender-exploit-2609-212855.html</guid>
-      <description>Microsofts "High-Quality-Update" gegen den Shieldbreak-Exploit ist offenbar wenig effektiv. Ein frisch geleakter Exploit umgeht den Schutz. (Sicherheitslücke, Microsoft)</description>
-      <pubDate>Thu, 10 Sep 2026 06:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polizeisoftware: Bayern hält vorerst an Palantir fest</title>
-      <link>https://www.golem.de/news/polizeisoftware-bayern-haelt-vorerst-an-palantir-fest-2609-212854.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/polizeisoftware-bayern-haelt-vorerst-an-palantir-fest-2609-212854.html</guid>
-      <description>Bayerns Polizei soll Palantirs Software länger nutzen, da Alternativen fehlen. Die geplante Vertragsverlängerung ist umstritten. (Politik, Wirtschaft)</description>
-      <pubDate>Thu, 10 Sep 2026 06:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
