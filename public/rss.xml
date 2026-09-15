@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 06:50:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 07:00:18 GMT</lastBuildDate>
+    <item>
+      <title>Mehrere Bugs beseitigt: Microsoft verteilt Notfallupdates für Windows</title>
+      <link>https://www.golem.de/news/mehrere-bugs-beseitigt-microsoft-verteilt-notfallupdates-fuer-windows-2609-213014.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mehrere-bugs-beseitigt-microsoft-verteilt-notfallupdates-fuer-windows-2609-213014.html</guid>
+      <description>Die neuen Windows-Updates beheben mehrere seit dem September-Patchday bestehende Bugs. Zudem adressiert Microsoft eine vergessene Schwachstelle. (Windows, Microsoft)</description>
+      <pubDate>Tue, 15 Sep 2026 06:57:05 GMT</pubDate>
+    </item>
     <item>
       <title>Österreich: Alterskontrollen im Netz als Doppelblindverfahren</title>
       <link>https://www.golem.de/news/oesterreich-alterskontrollen-im-netz-als-doppelblindverfahren-2609-212978.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/windows-11-update-erlaubt-verschieben-der-taskleiste-2609-212815.html</guid>
       <description>Nach fast fünf Jahren reagiert Microsoft auf Kundenwünsche und integriert eine verschiebbare Taskleiste in Windows 11. (Windows 11, Microsoft)</description>
       <pubDate>Wed, 09 Sep 2026 10:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>BMW iX3 im Praxistest: Ein gutes Argument für das Verbrennerverbot</title>
-      <link>https://www.golem.de/news/bmw-ix3-im-praxistest-ein-gutes-argument-fuer-das-verbrennerverbot-2609-212787.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bmw-ix3-im-praxistest-ein-gutes-argument-fuer-das-verbrennerverbot-2609-212787.html</guid>
-      <description>BMW liefert mit dem iX3 gute Argumente gegen die Technologieoffenheit. Allerdings ist der Verbrauch auf der Autobahn nicht so niedrig wie erwartet. Ein Test von Friedhelm Greis (Elektroauto, Test)</description>
-      <pubDate>Wed, 09 Sep 2026 10:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
