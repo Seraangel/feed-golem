@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 07:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:25:17 GMT</lastBuildDate>
+    <item>
+      <title>Halbleiterindustrie in Europa: Umweltauflagen bedrohen den Ausbau der Chipfabriken</title>
+      <link>https://www.golem.de/news/halbleiterindustrie-in-europa-umweltauflagen-bedrohen-den-ausbau-der-chipfabriken-2609-213020.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/halbleiterindustrie-in-europa-umweltauflagen-bedrohen-den-ausbau-der-chipfabriken-2609-213020.html</guid>
+      <description>Neue Auflagen zur Wasser- und Luftverschmutzung können hohe Investitionen gefährden. Die Frage ist, wer am Ende zahlt: die Industrie oder alle? (Technik/Hardware, Prozessor)</description>
+      <pubDate>Tue, 15 Sep 2026 08:24:01 GMT</pubDate>
+    </item>
     <item>
       <title>Grafikkarten: Nvidia baut RTX 5090 mit 84 GByte für KI</title>
       <link>https://www.golem.de/news/grafikkarten-nvidia-baut-rtx-5090-mit-84-gbyte-fuer-ki-2609-213018.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ugreen-finetrack-slim-tracker-karte-fuer-die-geldboerse-jetzt-fuer-rund-17-euro-bei-amazon-2609-212821.html</guid>
       <description>Der UGREEN FineTrack Slim Tracker ist jetzt zum Sparpreis erhältlich, nur 1,7 Millimeter dünn und kompatibel mit Apples "Wo ist?"-Netzwerk. (Technik/Hardware)</description>
       <pubDate>Wed, 09 Sep 2026 10:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Spark 1.3: Meta startet KI-Agenten für Mails, Einkäufe und Reisen</title>
-      <link>https://www.golem.de/news/muse-spark-1-3-meta-startet-ki-agenten-fuer-mails-einkaeufe-und-reisen-2609-212818.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/muse-spark-1-3-meta-startet-ki-agenten-fuer-mails-einkaeufe-und-reisen-2609-212818.html</guid>
-      <description>Metas KI-Agent bekommt Zugriff auf E-Mails, Zahlungen und persönliche Daten, soll aber ohne Zustimmung nicht nach außen handeln dürfen. (KI, OAuth)</description>
-      <pubDate>Wed, 09 Sep 2026 10:43:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
