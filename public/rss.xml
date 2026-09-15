@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 11:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:35:15 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Typsicherheit für Javascript: Wie Typescript die Webentwicklung verändert hat</title>
+      <link>https://www.golem.de/news/typsicherheit-fuer-javascript-wie-typescript-die-webentwicklung-veraendert-hat-2609-213026.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/typsicherheit-fuer-javascript-wie-typescript-die-webentwicklung-veraendert-hat-2609-213026.html</guid>
+      <description>Javascript ohne Typen war lange der Normalzustand. Typescript setzt genau dort an und macht dynamischen Code robuster. Ein Ratgebertext von Marco Dahms (TypeScript, Programmiersprachen)</description>
+      <pubDate>Tue, 15 Sep 2026 11:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>Donald Trump: "Für KI-Kontrolle reicht ein intelligenter US-Präsident"</title>
       <link>https://www.golem.de/news/donald-trump-fuer-ki-kontrolle-reicht-ein-intelligenter-us-praesident-2609-213034.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-bestseller-taschenlampe-zum-aktionspreis-bei-amazon-2609-212833.html</guid>
       <description>Amazon hat eine Taschenlampe mit starker Leuchtkraft und einstellbarem Fokus im Angebot, die bereits Tausende von Kunden überzeugt hat. (Technik/Hardware)</description>
       <pubDate>Wed, 09 Sep 2026 14:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Sicherheit: Anthropic-Forscher sieht über 10 Prozent Auslöschungsrisiko</title>
-      <link>https://www.golem.de/news/ki-sicherheit-anthropic-forscher-sieht-ueber-10-prozent-ausloeschungsrisiko-2609-212835.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-anthropic-forscher-sieht-ueber-10-prozent-ausloeschungsrisiko-2609-212835.html</guid>
-      <description>Der Anthropic-Forscher Jacob Coxon zieht sich aus der KI-Branche zurück. Er befürchtet, dass sich selbst verbessernde KI-Systeme künftig menschliche Befehle verweigern könnten. (KI, Security)</description>
-      <pubDate>Wed, 09 Sep 2026 14:38:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
