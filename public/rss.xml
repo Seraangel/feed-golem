@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 05:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 05:35:16 GMT</lastBuildDate>
+    <item>
+      <title>Code-Fund: Apples Siri könnte bald auf Claude oder ChatGPT setzen</title>
+      <link>https://www.golem.de/news/code-fund-apples-siri-koennte-bald-auf-claude-oder-chatgpt-setzen-2609-213010.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/code-fund-apples-siri-koennte-bald-auf-claude-oder-chatgpt-setzen-2609-213010.html</guid>
+      <description>In Vorabversionen von iOS 27 und MacOS Golden Gate sind Hinweise entdeckt worden, dass Siri für KI-Modelle von Drittanbietern vorbereitet ist. (Siri, Apple)</description>
+      <pubDate>Tue, 15 Sep 2026 05:32:01 GMT</pubDate>
+    </item>
     <item>
       <title>Virtual Reality: Steam Frame startet für 1.050 Euro und mit Schwächen</title>
       <link>https://www.golem.de/news/virtual-reality-steam-frame-startet-fuer-1-050-euro-und-mit-schwaechen-2609-213009.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-sandisk-ultra-usb-sticks-zum-amazon-bestpreis-2609-212808.html</guid>
       <description>Das praktische 3er-Pack der SanDisk Ultra USB-Sticks gibt es aktuell für unter 40 Euro zum Amazon-Bestpreis. (Technik/Hardware)</description>
       <pubDate>Wed, 09 Sep 2026 09:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektrohydraulik: Aus Vibration von Schienen wird Strom</title>
-      <link>https://www.golem.de/news/elektrohydraulik-aus-vibration-von-schienen-wird-strom-2609-212804.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektrohydraulik-aus-vibration-von-schienen-wird-strom-2609-212804.html</guid>
-      <description>Energie, die ansonsten als Vibration im Gleisbett verloren geht, kann in Strom umgewandelt werden. Bremsvorgänge sind nicht notwendig. (Strom, Energiewende)</description>
-      <pubDate>Wed, 09 Sep 2026 08:55:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
