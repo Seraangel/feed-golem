@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 08:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 08:40:15 GMT</lastBuildDate>
+    <item>
+      <title>Softwareprojekte in Gefahr: BSI warnt vor laufenden Angriffen auf Gitlab</title>
+      <link>https://www.golem.de/news/softwareprojekte-in-gefahr-bsi-warnt-vor-laufenden-angriffen-auf-gitlab-2609-213022.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/softwareprojekte-in-gefahr-bsi-warnt-vor-laufenden-angriffen-auf-gitlab-2609-213022.html</guid>
+      <description>Angreifer haben es auf Gitlab-Instanzen abgesehen. Durch eine kritische Path-Traversal-Lücke können sie unter anderem Zugangsdaten abgreifen. (Sicherheitslücke, API)</description>
+      <pubDate>Tue, 15 Sep 2026 08:39:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Samsung Galaxy Watch8 mit KI und Antioxidantien-Sensor zum Aktionspreis für 195 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-samsung-galaxy-watch8-mit-ki-und-antioxidantien-sensor-zum-aktionspreis-fuer-195-euro-bei-amazon-2609-213023.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/high-na-euv-asml-plant-groessere-masken-intel-knackt-die-millionen-wafer-marke-2609-212822.html</guid>
       <description>Größere Masken bringen bei High-NA-EUV die aktuelle Reticle Size zurück. Intel nutzt ASMLs nächste Scanner-Generation bereits in der Serienfertigung. (Halbleiterfertigung, Intel)</description>
       <pubDate>Wed, 09 Sep 2026 11:46:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Videoüberwachung: Hilfssheriffs im Supermarkt</title>
-      <link>https://www.golem.de/news/videoueberwachung-hilfssheriffs-im-supermarkt-2609-212820.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/videoueberwachung-hilfssheriffs-im-supermarkt-2609-212820.html</guid>
-      <description>Wie Videoüberwachungsanlagen mithilfe von KI und privater Datenbanken zum Hilfssheriff der Polizeibehörden umfunktioniert werden können, zeigt das Beispiel Großbritannien. Eine Analyse von Erik Bärwaldt (Videoüberwachung, KI)</description>
-      <pubDate>Wed, 09 Sep 2026 11:30:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
