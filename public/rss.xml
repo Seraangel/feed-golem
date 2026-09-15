@@ -11,7 +11,7 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 11:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:15:24 GMT</lastBuildDate>
     <item>
       <title>The Exploration Company: Nyx-Raumkapsel erhält Esa-Vertrag für Flug zur ISS</title>
       <link>https://www.golem.de/news/the-exploration-company-nyx-raumkapsel-erhaelt-esa-vertrag-fuer-flug-zur-iss-2609-213021.html</link>
@@ -23,7 +23,7 @@
       <title>Confidential Computing gebrochen: DDRop-Angriff ermöglicht Datenklau in der Cloud</title>
       <link>https://www.golem.de/news/confidential-computing-gebrochen-ddrop-angriff-ermoeglicht-datenklau-in-der-cloud-2609-213031.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/confidential-computing-gebrochen-ddrop-angriff-ermoeglicht-datenklau-in-der-cloud-2609-213031.html</guid>
-      <description>Ein kleines Gerät für nur 159 US-Dollar lässt Angreifer verschlüsselte Daten aus fremden Cloud-Instanzen abgreifen. Einen Patch gibt es nicht. (Sicherheitslücke, Prozessor)</description>
+      <description>Ein kleines Gerät für nur 159 US-Dollar lässt Angreifer verschlüsselte Daten aus dem RAM fremder Cloud-Instanzen abgreifen. Einen Patch gibt es nicht. (Sicherheitslücke, Prozessor)</description>
       <pubDate>Tue, 15 Sep 2026 10:55:03 GMT</pubDate>
     </item>
     <item>
