@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 16 Sep 2026 13:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:45:25 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX: Starship fliegt als Wegwerfrakete in den Orbit</title>
+      <link>https://www.golem.de/news/spacex-starship-fliegt-als-wegwerfrakete-in-den-orbit-2609-213100.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spacex-starship-fliegt-als-wegwerfrakete-in-den-orbit-2609-213100.html</guid>
+      <description>Booster und Starship werden nach dem Flug ins Meer fallen. SpaceX bestätigte das Versagen des Hitzeschutzschildes beim letzten Flug. Von Frank Wunderlich-Pfeiffer (Starship, Raumfahrt)</description>
+      <pubDate>Wed, 16 Sep 2026 13:41:01 GMT</pubDate>
+    </item>
     <item>
       <title>Mobilität: Bau des bundesweiten E-Lkw-Ladenetzes an Autobahnen startet</title>
       <link>https://www.golem.de/news/mobilitaet-bau-des-bundesweiten-e-lkw-ladenetzes-an-autobahnen-startet-2609-213106.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/beschwerden-haeufen-sich-windows-updates-machen-rdp-verbindungen-kaputt-2609-212898.html</guid>
       <description>Zahlreiche Nutzer können seit dem September-Patchday keine RDP-Verbindung mehr zu Windows-Servern aufbauen. Ein Fix ist noch nicht in Sicht. (Windows, Microsoft)</description>
       <pubDate>Fri, 11 Sep 2026 06:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grafikkartenmarkt: Geforce RTX 5090 überschreitet Marke von 5.000 Euro</title>
-      <link>https://www.golem.de/news/grafikkartenmarkt-geforce-rtx-5090-ueberschreitet-marke-von-5-000-euro-2609-212897.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/grafikkartenmarkt-geforce-rtx-5090-ueberschreitet-marke-von-5-000-euro-2609-212897.html</guid>
-      <description>Die Preise für Grafikkarten steigen weiter. Selbst "günstige" Modelle der Geforce RTX 5090 kosten im Handel inzwischen über 5.000 Euro. (Geforce RTX, Grafikkarten)</description>
-      <pubDate>Fri, 11 Sep 2026 06:26:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
