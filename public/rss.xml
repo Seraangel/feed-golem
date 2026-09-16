@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 16 Sep 2026 12:20:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:40:21 GMT</lastBuildDate>
+    <item>
+      <title>Rasswet: Russische Starlink-Alternative bereits in Gebrauch</title>
+      <link>https://www.golem.de/news/rasswet-russische-starlink-alternative-bereits-in-gebrauch-2609-213099.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rasswet-russische-starlink-alternative-bereits-in-gebrauch-2609-213099.html</guid>
+      <description>Die Bundeswehr warnt vor einer russischen Megakonstellation aus Kommunikationssatelliten. Wann diese komplett sein könnte, ist unklar. (Satelliteninternet, Politik)</description>
+      <pubDate>Wed, 16 Sep 2026 12:35:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: AVM FRITZ!Box Router zum Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-avm-fritz-box-router-zum-amazon-bestpreis-2609-213096.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-power-automate-flows-erstellen-ohne-programmieren-2609-212895.html</guid>
       <description>Wiederkehrende Aufgaben in Microsoft 365 kosten Zeit. Mit Power Automate lassen sich Prozesse ohne Programmierung automatisieren. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Fri, 11 Sep 2026 05:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>CATV und DOCSIS: Einen ganzen Satelliten direkt ins Kabelnetz einspeisen</title>
-      <link>https://www.golem.de/news/catv-und-docsis-einen-ganzen-satelliten-direkt-ins-kabelnetz-einspeisen-2609-212894.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/catv-und-docsis-einen-ganzen-satelliten-direkt-ins-kabelnetz-einspeisen-2609-212894.html</guid>
-      <description>Alle Satellitenprogramme ins Kabelnetz schicken, das funktioniert. Doch ohne sehr hochwertige Technik gebe es Probleme, sagt Jultec-Chef Müller. (Kabelnetz, DSL)</description>
-      <pubDate>Thu, 10 Sep 2026 18:46:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
