@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 15 Sep 2026 17:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:20:14 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ansible für automatisiertes Systemmanagement</title>
+      <link>https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-213058.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-213058.html</guid>
+      <description>Ansible ermöglicht die automatisierte Konfiguration und Verwaltung von Linux-Systemen. Die Golem Karrierewelt vermittelt dafür Grundlagen und fortgeschrittene Techniken. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 16 Sep 2026 05:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Lego Star Wars Adventskalender bei Amazon nun unter Vergleichspreis</title>
       <link>https://www.golem.de/news/anzeige-lego-star-wars-adventskalender-bei-amazon-nun-unter-vergleichspreis-2609-213062.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/steigende-gaspreise-wette-auf-warmen-winter-in-vollem-gange-2609-212861.html</guid>
       <description>Lediglich zur Hälfte sind die deutschen Gasspeicher gefüllt. Schon in drei Wochen beginnt die Heizperiode und der Gaspreis zieht bereits an. (Energie, Energiewende)</description>
       <pubDate>Thu, 10 Sep 2026 09:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dyson Camerajet: Wasser im Batteriefach beschädigt teure KI-Zahnbürsten</title>
-      <link>https://www.golem.de/news/dyson-camerajet-wasser-im-batteriefach-beschaedigt-teure-ki-zahnbuersten-2609-212862.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/dyson-camerajet-wasser-im-batteriefach-beschaedigt-teure-ki-zahnbuersten-2609-212862.html</guid>
-      <description>Erste Nutzer von Dysons Camerajet-Zahnbürste berichten von Defekten nach nicht einmal 30 Sekunden Nutzungsdauer. (Technik/Hardware, Smart Home)</description>
-      <pubDate>Thu, 10 Sep 2026 08:55:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
