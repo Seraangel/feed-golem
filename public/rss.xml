@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 16 Sep 2026 07:00:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:05:15 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: NIS-2 verlangt MFA - so rüsten Firmen ihr Active Directory nach</title>
+      <link>https://www.golem.de/news/anzeige-nis-2-verlangt-mfa-so-ruesten-firmen-ihr-active-directory-nach-2609-212806.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-nis-2-verlangt-mfa-so-ruesten-firmen-ihr-active-directory-nach-2609-212806.html</guid>
+      <description>NIS-2 schreibt MFA vor - Active Directory bietet dafür kaum Bordmittel. Specops Secure Access sichert Windows, VPN und RDP: phishing-resistent und offline-fähig. (Security, Datensicherheit)</description>
+      <pubDate>Wed, 16 Sep 2026 07:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Künstliche Intelligenz: Nvidia-CEO Jensen Huang lehnt Regulierung ab</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-nvidia-ceo-jensen-huang-lehnt-regulierung-ab-2609-213071.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/auch-in-deutschland-rund-34-000-plex-server-sind-angreifbar-2609-212872.html</guid>
       <description>Für Plex-Media-Server gibt es wichtige Sicherheitsupdates. Auf Tausenden Instanzen sind diese noch nicht angekommen. (Sicherheitslücke, Server)</description>
       <pubDate>Thu, 10 Sep 2026 10:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Internationaler Weltraumgipfel: Europa wird Pilot im All oder bleibt Passagier</title>
-      <link>https://www.golem.de/news/internationaler-weltraumgipfel-europa-wird-pilot-im-all-oder-bleibt-passagier-2609-212870.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/internationaler-weltraumgipfel-europa-wird-pilot-im-all-oder-bleibt-passagier-2609-212870.html</guid>
-      <description>In Paris treffen sich die internationale Politik und Industrie, um auch Europas Zukunft im Weltall zu besprechen. Es steht Wettbewerb gegen Regulierung. (Weltall, Nasa)</description>
-      <pubDate>Thu, 10 Sep 2026 10:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
