@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 16 Sep 2026 07:05:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 07:10:16 GMT</lastBuildDate>
+    <item>
+      <title>Certified Re-Newed: Galaxy S26 generalüberholt oft teurer als Neuware</title>
+      <link>https://www.golem.de/news/certified-re-newed-galaxy-s26-generalueberholt-oft-teurer-als-neuware-2609-213072.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/certified-re-newed-galaxy-s26-generalueberholt-oft-teurer-als-neuware-2609-213072.html</guid>
+      <description>Samsung nimmt die Galaxy-S26-Reihe in sein Aufbereitungsprogramm auf. Der Kauf gebrauchter Modelle lohnt sich preislich aber kaum. (Smartphone, Samsung)</description>
+      <pubDate>Wed, 16 Sep 2026 07:05:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: NIS-2 verlangt MFA - so rüsten Firmen ihr Active Directory nach</title>
       <link>https://www.golem.de/news/anzeige-nis-2-verlangt-mfa-so-ruesten-firmen-ihr-active-directory-nach-2609-212806.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nasa-streit-um-die-finanzierung-der-raumsonde-new-horizons-2609-212864.html</guid>
       <description>Aufgrund von Budgetproblemen könnten wichtige Instrumente der Sonde New Horizons abgeschaltet werden. Nun soll der Nasa-interne Streit geprüft werden. (New Horizons, Nasa)</description>
       <pubDate>Thu, 10 Sep 2026 10:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auch in Deutschland: Rund 34.000 Plex-Server sind angreifbar</title>
-      <link>https://www.golem.de/news/auch-in-deutschland-rund-34-000-plex-server-sind-angreifbar-2609-212872.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/auch-in-deutschland-rund-34-000-plex-server-sind-angreifbar-2609-212872.html</guid>
-      <description>Für Plex-Media-Server gibt es wichtige Sicherheitsupdates. Auf Tausenden Instanzen sind diese noch nicht angekommen. (Sicherheitslücke, Server)</description>
-      <pubDate>Thu, 10 Sep 2026 10:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
