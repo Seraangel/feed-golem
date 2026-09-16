@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 16 Sep 2026 13:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:50:21 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Cardo-Motorrad-Gegensprechanlagen zum Jahrestiefstpreis</title>
+      <link>https://www.golem.de/news/anzeige-cardo-motorrad-gegensprechanlagen-zum-jahrestiefstpreis-2609-213112.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-cardo-motorrad-gegensprechanlagen-zum-jahrestiefstpreis-2609-213112.html</guid>
+      <description>Für Motorradfahrer bietet Amazon aktuell das Kommunikationssystem Cardo Freecom 4X Solo zu einem attraktiven Preis von unter 200 Euro an. (Technik/Hardware)</description>
+      <pubDate>Wed, 16 Sep 2026 13:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX: Starship fliegt als Wegwerfrakete in den Orbit</title>
       <link>https://www.golem.de/news/spacex-starship-fliegt-als-wegwerfrakete-in-den-orbit-2609-213100.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-anthropic-sperrt-wissenschaftler-wegen-biowaffen-forschung-2609-212899.html</guid>
       <description>Anthropic blockiert Konten von Forschern, die KI-Modelle wie Claude zur Entwicklung von biologischen Waffen nutzen wollten. (Anthropic, KI)</description>
       <pubDate>Fri, 11 Sep 2026 06:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beschwerden häufen sich: Windows-Updates machen RDP-Verbindungen kaputt</title>
-      <link>https://www.golem.de/news/beschwerden-haeufen-sich-windows-updates-machen-rdp-verbindungen-kaputt-2609-212898.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/beschwerden-haeufen-sich-windows-updates-machen-rdp-verbindungen-kaputt-2609-212898.html</guid>
-      <description>Zahlreiche Nutzer können seit dem September-Patchday keine RDP-Verbindung mehr zu Windows-Servern aufbauen. Ein Fix ist noch nicht in Sicht. (Windows, Microsoft)</description>
-      <pubDate>Fri, 11 Sep 2026 06:47:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
