@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 16 Sep 2026 12:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 12:50:21 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mechanische Gaming-Tastatur von Logitech reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-mechanische-gaming-tastatur-von-logitech-reduziert-bei-amazon-2609-213102.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mechanische-gaming-tastatur-von-logitech-reduziert-bei-amazon-2609-213102.html</guid>
+      <description>Eine mechanische Gaming-Tastatur mit taktilen GL-Switches, Keycontrol-Funktion und Signalraten von 1 Millisekunde ist bei Amazon reduziert. (Logitech, Eingabegerät)</description>
+      <pubDate>Wed, 16 Sep 2026 12:49:04 GMT</pubDate>
+    </item>
     <item>
       <title>Rasswet: Russische Starlink-Alternative bereits in Gebrauch</title>
       <link>https://www.golem.de/news/rasswet-russische-starlink-alternative-bereits-in-gebrauch-2609-213099.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kehrtwende-zeiss-verwirft-bisherige-sap-strategie-2609-212896.html</guid>
       <description>Der geplante SAP-Neustart bei Zeiss ist vom Tisch. Stattdessen soll zunächst die bestehende ERP-Umgebung auf S/4HANA übertragen werden. (SAP, Carl Zeiss)</description>
       <pubDate>Fri, 11 Sep 2026 06:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Power Automate: Flows erstellen ohne Programmieren</title>
-      <link>https://www.golem.de/news/anzeige-power-automate-flows-erstellen-ohne-programmieren-2609-212895.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-power-automate-flows-erstellen-ohne-programmieren-2609-212895.html</guid>
-      <description>Wiederkehrende Aufgaben in Microsoft 365 kosten Zeit. Mit Power Automate lassen sich Prozesse ohne Programmierung automatisieren. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Fri, 11 Sep 2026 05:15:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
