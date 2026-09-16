@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 16 Sep 2026 05:55:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 06:20:18 GMT</lastBuildDate>
+    <item>
+      <title>Esa-Bericht: Abstürzende Satelliten sind eine wachsende Gefahr für Menschenleben</title>
+      <link>https://www.golem.de/news/esa-bericht-abstuerzende-satelliten-sind-eine-wachsende-gefahr-fuer-menschenleben-2609-213033.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/esa-bericht-abstuerzende-satelliten-sind-eine-wachsende-gefahr-fuer-menschenleben-2609-213033.html</guid>
+      <description>Immer mehr Satelliten, immer mehr Abstürze: Ein Bericht der Esa gibt erstmals Aufschluss über die Gefahr von Weltraumschrott für Menschen. (Weltraumschrott, Raumfahrt)</description>
+      <pubDate>Wed, 16 Sep 2026 06:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>Debattenkultur im Netz: Merz pocht auf Klarnamenpflicht</title>
       <link>https://www.golem.de/news/debattenkultur-im-netz-merz-pocht-auf-klarnamenpflicht-2609-213068.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/akkulaufzeit-apple-warum-bekommen-wir-das-schlechtere-iphone-2609-212867.html</guid>
       <description>Apples neue Pro-iPhones halten in den USA länger durch als in Deutschland. Dafür gibt es einen simplen Grund - aber keine gute Entschuldigung. Ein IMHO von Peter Steinlechner (iPhone 18, Smartphone)</description>
       <pubDate>Thu, 10 Sep 2026 09:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nutzerbeschwerden: Kopierfunktion in Excel nach Office-Update kaputt</title>
-      <link>https://www.golem.de/news/nutzerbeschwerden-kopierfunktion-in-excel-nach-office-update-kaputt-2609-212865.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nutzerbeschwerden-kopierfunktion-in-excel-nach-office-update-kaputt-2609-212865.html</guid>
-      <description>Im Netz häufen sich Beschwerden von Nutzern, die in Excel nicht mehr kopieren können. Ursache scheint ein Bug im neuen Microsoft-Office-Update zu sein. (Office, Microsoft)</description>
-      <pubDate>Thu, 10 Sep 2026 09:38:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
