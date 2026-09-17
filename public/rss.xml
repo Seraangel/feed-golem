@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 16:41:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:46:23 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Kubernetes für automatisierte Container-Orchestrierung</title>
+      <link>https://www.golem.de/news/anzeige-kubernetes-fuer-automatisierte-container-orchestrierung-2609-213064.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kubernetes-fuer-automatisierte-container-orchestrierung-2609-213064.html</guid>
+      <description>Kubernetes automatisiert die Bereitstellung und Verwaltung von Containern, verlangt aber fundiertes Know-how. Ein Workshop der Golem Karrierewelt vermittelt die zentralen Komponenten. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Thu, 17 Sep 2026 16:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Logitech G305 Lightspeed Gaming-Maus für unter 30 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-logitech-g305-lightspeed-gaming-maus-fuer-unter-30-euro-bei-amazon-2609-213177.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anthropic-angst-vor-super-ki-eint-ploetzlich-die-groessten-rivalen-2609-212954.html</guid>
       <description>Anthropic-Chef Dario Amodei fordert eine Notbremse bei der KI-Entwicklung. Seine härtesten Rivalen Sam Altman und Elon Musk stimmen zu. (Anthropic, KI)</description>
       <pubDate>Sun, 13 Sep 2026 09:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Balkonkraftwerk exklusiv für Golem-Leser nur 359 Euro bei Kleines Kraftwerk</title>
-      <link>https://www.golem.de/news/anzeige-balkonkraftwerk-exklusiv-fuer-golem-leser-nur-359-euro-bei-kleines-kraftwerk-2609-212910.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-balkonkraftwerk-exklusiv-fuer-golem-leser-nur-359-euro-bei-kleines-kraftwerk-2609-212910.html</guid>
-      <description>Mit dem bifazialen Balkonkraftwerk von Kleines Kraftwerk sichern sich Golem-Leser einen Exklusivrabatt und reduzieren ihre Stromrechnung. (Balkonkraftwerk, Solarenergie)</description>
-      <pubDate>Sun, 13 Sep 2026 08:40:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
