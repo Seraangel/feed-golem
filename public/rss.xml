@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 07:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:31:17 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft-Alternative: Euro-Office bekommt Desktop-Client</title>
+      <link>https://www.golem.de/news/microsoft-alternative-euro-office-bekommt-desktop-client-2609-213134.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-alternative-euro-office-bekommt-desktop-client-2609-213134.html</guid>
+      <description>Mit einem neuen Nextcloud-Update bekommt Euro-Office einen Desktop-Client. Damit können Nutzer auch lokal arbeiten. (Nextloud, Office-Suite)</description>
+      <pubDate>Thu, 17 Sep 2026 07:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Gefährliche Sicherheitslücke: Apple-Geräte lassen sich per Bluetooth kapern</title>
       <link>https://www.golem.de/news/gefaehrliche-sicherheitsluecke-apple-geraete-lassen-sich-per-bluetooth-kapern-2609-213132.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/interworld-slingshot-nasa-foerdert-studie-zur-mineraliensuche-2609-212911.html</guid>
       <description>Die Nasa fördert eine Studie, die zukünftig bei der Entwicklung einer Raumsonde helfen soll, die nach Mineralien auf fremden Welten und dem Mond suchen soll. (Nasa, Raumfahrt)</description>
       <pubDate>Fri, 11 Sep 2026 12:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Effekt: Shopify setzt wieder auf native Apps</title>
-      <link>https://www.golem.de/news/ki-effekt-shopify-setzt-wieder-auf-native-apps-2609-212922.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-effekt-shopify-setzt-wieder-auf-native-apps-2609-212922.html</guid>
-      <description>React Native hat bei Shopify ausgedient. Fortschritte beim KI-Coding ermöglichen die Rückkehr zur nativen Entwicklung mobiler Apps. (Softwareentwicklung, KI)</description>
-      <pubDate>Fri, 11 Sep 2026 11:42:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
