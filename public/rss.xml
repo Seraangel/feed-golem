@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 06:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:31:06 GMT</lastBuildDate>
+    <item>
+      <title>Justwatch startet JustwatchTV: Von der Streamingsuchmaschine zum Gratis-Streamingabo</title>
+      <link>https://www.golem.de/news/justwatch-startet-justwatchtv-von-der-streamingsuchmaschine-zum-gratis-streamingabo-2609-213130.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/justwatch-startet-justwatchtv-von-der-streamingsuchmaschine-zum-gratis-streamingabo-2609-213130.html</guid>
+      <description>Die Streamingsuchmaschine Justwatch bietet mit Justwatch TV ein eigenes Streamingabo an. Es ist bereits nutzbar. Richtig los geht es im Oktober. (Justwatch, Streaming)</description>
+      <pubDate>Thu, 17 Sep 2026 06:27:02 GMT</pubDate>
+    </item>
     <item>
       <title>Mondkartierung: KI-Modell von IBM und Nasa verarbeitet Monddaten</title>
       <link>https://www.golem.de/news/mondkartierung-ki-modell-von-ibm-und-nasa-verarbeitet-monddaten-2609-213037.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/exploit-kit-bluemoon-chinesische-hacker-bei-angriffen-auf-windows-nutzer-erwischt-2609-212919.html</guid>
       <description>Ein neues Exploit-Kit nutzt gefährliche Sicherheitslücken in Windows und Google Chrome aus. Mehrere Cybergruppierungen machen davon Gebrauch. (Cybercrime, Google)</description>
       <pubDate>Fri, 11 Sep 2026 11:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektromobilität: Ungleichgewicht in Batterien verkürzt Lebenszeit deutlich</title>
-      <link>https://www.golem.de/news/elektromobilitaet-ungleichgewicht-in-batterien-verkuerzt-lebenszeit-deutlich-2609-212920.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-ungleichgewicht-in-batterien-verkuerzt-lebenszeit-deutlich-2609-212920.html</guid>
-      <description>Weisen einzelne Batteriezellen Fehler auf, kann das die gesamte Laufzeit der E-Auto-Batterie um ein Viertel verkürzen. Dabei wäre die Kapazität noch vorhanden. (Elektromobilität, Elektroauto)</description>
-      <pubDate>Fri, 11 Sep 2026 10:45:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
