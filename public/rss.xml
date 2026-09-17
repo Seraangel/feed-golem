@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 07:01:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:11:41 GMT</lastBuildDate>
+    <item>
+      <title>Künstliche Intelligenz: KI-Agenten entwickeln eigene Sprache</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-ki-agenten-entwickeln-eigene-sprache-2609-213133.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-ki-agenten-entwickeln-eigene-sprache-2609-213133.html</guid>
+      <description>In Simulationen verändern autonom agierende KI-Systeme ihre Kommunikation deutlich. Das erschwert die Kontrolle durch Menschen. (KI, Wissenschaft)</description>
+      <pubDate>Thu, 17 Sep 2026 07:09:04 GMT</pubDate>
+    </item>
     <item>
       <title>Energieversorgung: Solarzellen erzeugen Strom in zehn Metern Wassertiefe</title>
       <link>https://www.golem.de/news/energieversorgung-solarzellen-erzeugen-strom-in-zehn-metern-wassertiefe-2609-213129.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-lokal-gehostete-sprachmodelle-auf-sbcs-2609-212923.html</guid>
       <description>Bei KI denken die meisten an Rechenzentren, die Sprachmodelle und Agenten mit enormem Rechen- und Speicheraufwand betreiben. Doch inzwischen taugen sogar Einplatinencomputer für den KI-Einsatz. Eine Anleitung von Erik Bärwaldt (Technik/Hardware, KI)</description>
       <pubDate>Fri, 11 Sep 2026 11:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smart Band: Garmins Cirqa Pro könnte eine zweite Taste bekommen</title>
-      <link>https://www.golem.de/news/smart-band-garmins-cirqa-pro-koennte-eine-zweite-taste-bekommen-2609-212921.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smart-band-garmins-cirqa-pro-koennte-eine-zweite-taste-bekommen-2609-212921.html</guid>
-      <description>Hinweise in Garmin Connect deuten auf zwei Tasten und möglicherweise Audiofunktionen hin. (Garmin Cirqa, Fitness)</description>
-      <pubDate>Fri, 11 Sep 2026 11:16:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
