@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 11:51:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:01:17 GMT</lastBuildDate>
+    <item>
+      <title>Schnellladesäulen: Wenn der Ladestecker zickt</title>
+      <link>https://www.golem.de/news/schnellladesaeulen-wenn-der-ladestecker-zickt-2609-213125.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schnellladesaeulen-wenn-der-ladestecker-zickt-2609-213125.html</guid>
+      <description>Bei mehreren Autotests in diesem Sommer hatten wir Probleme mit Ladesteckern. Grund dafür ist unter anderem ein Fertigungsfehler. Ein Bericht von Friedhelm Greis (Ladesäule, Elektroauto)</description>
+      <pubDate>Thu, 17 Sep 2026 12:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) GPT-6 Astra aus Praxissicht: So steuert GPT-6 Astra den Computer</title>
       <link>https://www.golem.de/news/gpt-6-astra-aus-praxissicht-so-steuert-gpt-6-astra-den-computer-2609-213150.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/e-commerce-im-streaming-amazon-verknuepft-prime-video-enger-mit-onlineshopping-2609-212945.html</guid>
       <description>Neue X-Ray-Funktionen und bildbasierte Suche in Prime Video ermöglichen das direkte Einkaufen von Produkten aus Filmen und Serien. (Prime Video, Amazon)</description>
       <pubDate>Sat, 12 Sep 2026 10:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Urteil zu Rabatt-Apps: Laut OLG gelten Daten rechtlich nicht als Preis</title>
-      <link>https://www.golem.de/news/urteil-zu-rabatt-apps-laut-olg-gelten-daten-rechtlich-nicht-als-preis-2609-212944.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/urteil-zu-rabatt-apps-laut-olg-gelten-daten-rechtlich-nicht-als-preis-2609-212944.html</guid>
-      <description>Nutzerdaten in Rabatt-Apps gelten rechtlich nicht als Preis. Das OLG Köln weist eine Klage des Verbraucherzentrale Bundesverbands ab. (Verbraucherschutz, Lidl)</description>
-      <pubDate>Sat, 12 Sep 2026 09:11:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
