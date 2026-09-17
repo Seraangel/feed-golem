@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 10:56:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:11:38 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ninja zu teuer? Dieser Dual-Zone-Airfryer kostet im Angebot keine 100 Euro</title>
+      <link>https://www.golem.de/news/anzeige-ninja-zu-teuer-dieser-dual-zone-airfryer-kostet-im-angebot-keine-100-euro-2609-213149.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ninja-zu-teuer-dieser-dual-zone-airfryer-kostet-im-angebot-keine-100-euro-2609-213149.html</guid>
+      <description>Die Tefal Dual Easy Fry bietet zwei Garkammern und 8,3 Liter Volumen. Bei Amazon kostet der Airfryer derzeit 99,99 Euro. (Amazon, Technik/Hardware)</description>
+      <pubDate>Thu, 17 Sep 2026 11:09:10 GMT</pubDate>
+    </item>
     <item>
       <title>Update-Panne bei Microsoft: Windows-11-Update sperrt Nutzer aus Domänen aus</title>
       <link>https://www.golem.de/news/update-panne-bei-microsoft-windows-11-update-sperrt-nutzer-aus-domaenen-aus-2609-213147.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gamedev-roblox-spiele-sollen-ohne-app-im-browser-laufen-2609-212941.html</guid>
       <description>Die Spieleplattform von Roblox öffnet sich: Spiele sollen direkt im Browser, offline und sogar als eigenständige Apps laufen. (Roblox, Spiele)</description>
       <pubDate>Sat, 12 Sep 2026 08:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Sidecar-Angriffsfläche: Die Dienste, die kein Portscan sieht</title>
-      <link>https://www.golem.de/news/sidecar-angriffsflaeche-die-dienste-die-kein-portscan-sieht-2609-212900.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sidecar-angriffsflaeche-die-dienste-die-kein-portscan-sieht-2609-212900.html</guid>
-      <description>Ein Postgresql-Helfer riss Splunk auf. Solche Dienste laufen überall mit, ungezählt. Worauf Admins achten müssen. Ein Ratgebertext von Steffen Zahn (Security, PostgreSQL)</description>
-      <pubDate>Sat, 12 Sep 2026 08:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
