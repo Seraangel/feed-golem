@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 11:11:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:41:34 GMT</lastBuildDate>
+    <item>
+      <title>Solar-Diesel-Hydrid: Afrikas Energiewende führt über Diesel</title>
+      <link>https://www.golem.de/news/solar-diesel-hydrid-afrikas-energiewende-fuehrt-ueber-diesel-2609-213153.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/solar-diesel-hydrid-afrikas-energiewende-fuehrt-ueber-diesel-2609-213153.html</guid>
+      <description>Das Konzept mit einem Hybridsystem kann sowohl die Stromnetze stabilisieren als auch die Energiekosten halbieren. Weniger Abhängigkeit inklusive. (Solarenergie, Energiewende)</description>
+      <pubDate>Thu, 17 Sep 2026 11:36:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ninja zu teuer? Dieser Dual-Zone-Airfryer kostet im Angebot keine 100 Euro</title>
       <link>https://www.golem.de/news/anzeige-ninja-zu-teuer-dieser-dual-zone-airfryer-kostet-im-angebot-keine-100-euro-2609-213149.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-tesla-bringt-den-semi-nach-europa-2609-212943.html</guid>
       <description>Tesla hat konkrete Leistungsdaten zum elektrischen Semi für Europa veröffentlicht. Der Marktstart erfolgt jedoch erst im Jahr 2027. (Tesla, Elektroauto)</description>
       <pubDate>Sat, 12 Sep 2026 08:42:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gamedev: Nie wieder Roblox installieren</title>
-      <link>https://www.golem.de/news/gamedev-roblox-spiele-sollen-ohne-app-im-browser-laufen-2609-212941.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gamedev-roblox-spiele-sollen-ohne-app-im-browser-laufen-2609-212941.html</guid>
-      <description>Die Spieleplattform von Roblox öffnet sich: Spiele sollen direkt im Browser, offline und sogar als eigenständige Apps laufen. (Roblox, Spiele)</description>
-      <pubDate>Sat, 12 Sep 2026 08:14:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
