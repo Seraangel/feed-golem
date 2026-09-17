@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 10:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:31:20 GMT</lastBuildDate>
+    <item>
+      <title>Angriff auf Nvidia: Huawei stellt leistungsfähige Ascend-960-Serie vor</title>
+      <link>https://www.golem.de/news/angriff-auf-nvidia-huawei-stellt-leistungsfaehige-ascend-960-serie-vor-2609-213145.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-nvidia-huawei-stellt-leistungsfaehige-ascend-960-serie-vor-2609-213145.html</guid>
+      <description>Huawei schickt zwei neue Prozessoren ins Rennen. Mit verdoppelter Rechenleistung auf bis zu 4 PFlops fordert das US-sanktionierte Unternehmen die Konkurrenz heraus. (Huawei, KI)</description>
+      <pubDate>Thu, 17 Sep 2026 10:26:06 GMT</pubDate>
+    </item>
     <item>
       <title>Resident Evil Reboot von Zach Cregger: Selten so gelacht beim Gruseln</title>
       <link>https://www.golem.de/news/resident-evil-reboot-von-zach-cregger-selten-so-gelacht-beim-gruseln-2609-213128.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ipo-chinese-nvidia-challenger-enflame-jumps-179-in-shanghai-market-debut-2609-212927.html</guid>
       <description>Tencent-backed 'little dragon' raises $910m; tech stocks' post-IPO slumps draw scrutiny Von Loretta Chen und Wataru Suzuki (Prozessor, Nvidia)</description>
       <pubDate>Fri, 11 Sep 2026 16:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hypertune: Kostenpflichtige Software will Gaming-PC optimieren</title>
-      <link>https://www.golem.de/news/hypertune-kostenpflichtige-software-will-gaming-pc-optimieren-2609-212936.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hypertune-kostenpflichtige-software-will-gaming-pc-optimieren-2609-212936.html</guid>
-      <description>Hypertune verspricht per automatischem Tuning mehr Spieleleistung. Dafür verändert die Software Einstellungen von CPU, GPU und Windows. (PC, Intel)</description>
-      <pubDate>Fri, 11 Sep 2026 15:29:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
