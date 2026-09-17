@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 12:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 12:46:32 GMT</lastBuildDate>
+    <item>
+      <title>DSA-Verstöße: Gericht zwingt Amazon zu mehr Transparenz bei Produktempfehlungen</title>
+      <link>https://www.golem.de/news/dsa-verstoesse-gericht-zwingt-amazon-zu-mehr-transparenz-bei-produktempfehlungen-2609-213157.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/dsa-verstoesse-gericht-zwingt-amazon-zu-mehr-transparenz-bei-produktempfehlungen-2609-213157.html</guid>
+      <description>Amazon hat vor Gericht verloren und muss bei Produktempfehlungen transparenter sein. Das Melden illegaler Inhalte darf nicht erschwert werden. (Amazon, Onlineshop)</description>
+      <pubDate>Thu, 17 Sep 2026 12:44:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kompakte Powerstation mit 240 Wh zum Sparpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-kompakte-powerstation-mit-240-wh-zum-sparpreis-bei-amazon-2609-213156.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/eactros-600-amazon-laesst-mercedes-e-lkw-auf-deutschen-strassen-fahren-2609-212948.html</guid>
       <description>Amazon setzt über 50 batterieelektrische eActros 600 in Deutschland ein. (Amazon, Elektroauto)</description>
       <pubDate>Sat, 12 Sep 2026 13:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI als Waffeningenieur: Huthi sollen Claude für Raketensoftware missbraucht haben</title>
-      <link>https://www.golem.de/news/ki-als-waffeningenieur-huthi-sollen-claude-fuer-raketensoftware-missbraucht-haben-2609-212947.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-als-waffeningenieur-huthi-sollen-claude-fuer-raketensoftware-missbraucht-haben-2609-212947.html</guid>
-      <description>Huthi-Rebellen haben offenbar Claude genutzt, Steuerungssoftware für ballistische Raketen zu entwickeln, und dabei die eingebauten Sicherheitsvorkehrungen umgangen. (KI, Politik)</description>
-      <pubDate>Sat, 12 Sep 2026 12:03:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
