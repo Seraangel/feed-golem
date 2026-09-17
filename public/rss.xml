@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 09:36:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:06:23 GMT</lastBuildDate>
+    <item>
+      <title>Mistral-Integration: Mit Open Source macht Mozilla Firefox zum KI-Browser</title>
+      <link>https://www.golem.de/news/mistral-integration-mit-open-source-macht-mozilla-firefox-zum-ki-browser-2609-213144.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mistral-integration-mit-open-source-macht-mozilla-firefox-zum-ki-browser-2609-213144.html</guid>
+      <description>Der Firefox-Browser wird künftig mit KI-Funktionen von Mistral versorgt. Mozilla setzt dabei bewusst auf ein Open-Source-Produkt. (Firefox, Browser)</description>
+      <pubDate>Thu, 17 Sep 2026 10:02:06 GMT</pubDate>
+    </item>
     <item>
       <title>"Rotes Telefon": Forscher fordern KI-Regeln wie bei Nuklearwaffen im Kalten Krieg</title>
       <link>https://www.golem.de/news/rotes-telefon-forscher-fordern-ki-regeln-wie-bei-nuklearwaffen-im-kalten-krieg-2609-213141.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-dual-usb-sd-kartenleser-von-acer-fuer-unter-8-euro-bei-amazon-2609-212938.html</guid>
       <description>Einfacher und schneller Daten übertragen: Acers Dual-USB-Kartenleser für SDs und MicroSDs ist bei Amazon wieder günstiger. (Technik/Hardware, Amazon)</description>
       <pubDate>Fri, 11 Sep 2026 15:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arbeit: Uber-Fahrten sollen preiswerter werden - durch 3.300 Entlassungen</title>
-      <link>https://www.golem.de/news/arbeit-uber-fahrten-sollen-preiswerter-werden-durch-3-300-entlassungen-2609-212935.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/arbeit-uber-fahrten-sollen-preiswerter-werden-durch-3-300-entlassungen-2609-212935.html</guid>
-      <description>Uber will zehn Prozent der Mitarbeiter entlassen. Die Einsparungen sollen sich positiv auf die Fahrpreise auswirken, verspricht CEO Dara Khosrowshahi. (Uber, Wirtschaft)</description>
-      <pubDate>Fri, 11 Sep 2026 15:12:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
