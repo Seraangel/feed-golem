@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 07:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:21:04 GMT</lastBuildDate>
+    <item>
+      <title>Gefährliche Sicherheitslücke: Apple-Geräte lassen sich per Bluetooth kapern</title>
+      <link>https://www.golem.de/news/gefaehrliche-sicherheitsluecke-apple-geraete-lassen-sich-per-bluetooth-kapern-2609-213132.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gefaehrliche-sicherheitsluecke-apple-geraete-lassen-sich-per-bluetooth-kapern-2609-213132.html</guid>
+      <description>Bei iPhones, iPads, Macs und anderen Apple-Geräten lässt sich ohne Zutun des Nutzers über Bluetooth Schadcode einschleusen. Neue Updates beheben das. (Sicherheitslücke, Apple)</description>
+      <pubDate>Thu, 17 Sep 2026 07:20:03 GMT</pubDate>
+    </item>
     <item>
       <title>Künstliche Intelligenz: KI-Agenten entwickeln eigene Sprache</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-ki-agenten-entwickeln-eigene-sprache-2609-213133.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-effekt-shopify-setzt-wieder-auf-native-apps-2609-212922.html</guid>
       <description>React Native hat bei Shopify ausgedient. Fortschritte beim KI-Coding ermöglichen die Rückkehr zur nativen Entwicklung mobiler Apps. (Softwareentwicklung, KI)</description>
       <pubDate>Fri, 11 Sep 2026 11:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Künstliche Intelligenz: Lokal gehostete Sprachmodelle auf SBCs</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-lokal-gehostete-sprachmodelle-auf-sbcs-2609-212923.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-lokal-gehostete-sprachmodelle-auf-sbcs-2609-212923.html</guid>
-      <description>Bei KI denken die meisten an Rechenzentren, die Sprachmodelle und Agenten mit enormem Rechen- und Speicheraufwand betreiben. Doch inzwischen taugen sogar Einplatinencomputer für den KI-Einsatz. Eine Anleitung von Erik Bärwaldt (Technik/Hardware, KI)</description>
-      <pubDate>Fri, 11 Sep 2026 11:30:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
