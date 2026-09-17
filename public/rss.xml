@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 15:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:01:15 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Militär: Das Zeitalter der KI-Kriegsführung ist angebrochen</title>
+      <link>https://www.golem.de/news/militaer-das-zeitalter-der-ki-kriegsfuehrung-ist-angebrochen-2609-213165.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/militaer-das-zeitalter-der-ki-kriegsfuehrung-ist-angebrochen-2609-213165.html</guid>
+      <description>Drohnen, die ihre Ziele selbst suchen und KI-Systeme, die Schlachtpläne entwickeln - die Financial Times hat eine umfangreiche Recherche zu autonomen Waffen veröffentlicht. Von Alison Killing, John Thornhill und Charles Clover (Militär, KI)</description>
+      <pubDate>Thu, 17 Sep 2026 16:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Personaler: Menschliche Expertise wird durch KI "nicht automatisch überflüssig"</title>
       <link>https://www.golem.de/news/personaler-menschliche-expertise-wird-durch-ki-nicht-automatisch-ueberfluessig-2609-213176.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/vibecoding-welche-faehigkeiten-entwickler-im-ki-zeitalter-bewahren-muessen-2609-212925.html</guid>
       <description>Dank LLMs und Coding-Assistenten lagern Entwickler ihre kognitiven Aufgaben zunehmend an die KI aus. Aber wer trainiert dann das problemlösende Denken, das hinter jedem Code steckt? Ein Ratgebertext von Marc Favre (Arbeit, KI)</description>
       <pubDate>Sun, 13 Sep 2026 08:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blizzard: Starcraft kehrt als Open-World-Shooter zurück</title>
-      <link>https://www.golem.de/news/blizzard-blizzard-starcraft-kehrt-als-open-world-shooter-zurueck-2609-212951.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/blizzard-blizzard-starcraft-kehrt-als-open-world-shooter-zurueck-2609-212951.html</guid>
-      <description>Unter der Leitung eines Far-Cry-Entwicklers entsteht ein neues Starcraft. Im ersten Trailer schickt Blizzard einen Marine in den Kampf gegen die Zerg. (Blizzard, Far Cry)</description>
-      <pubDate>Sun, 13 Sep 2026 07:06:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
