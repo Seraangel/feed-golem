@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 10:46:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:56:23 GMT</lastBuildDate>
+    <item>
+      <title>Update-Panne bei Microsoft: Windows-11-Update sperrt Nutzer aus Domänen aus</title>
+      <link>https://www.golem.de/news/update-panne-bei-microsoft-windows-11-update-sperrt-nutzer-aus-domaenen-aus-2609-213147.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/update-panne-bei-microsoft-windows-11-update-sperrt-nutzer-aus-domaenen-aus-2609-213147.html</guid>
+      <description>Bei einigen Windows-Domänen gibt es seit dem letzten Patchday Probleme mit der Anmeldung. Ursache ist die erzwungene Aktivierung eines neuen Features. (Windows, Microsoft)</description>
+      <pubDate>Thu, 17 Sep 2026 10:53:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: UGREEN NVMe/SATA-SSD-Gehäuse mit 20 Gbps jetzt für nur 23 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ugreen-nvme-sata-ssd-gehaeuse-mit-20-gbps-jetzt-fuer-nur-23-euro-bei-amazon-2609-213148.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sidecar-angriffsflaeche-die-dienste-die-kein-portscan-sieht-2609-212900.html</guid>
       <description>Ein Postgresql-Helfer riss Splunk auf. Solche Dienste laufen überall mit, ungezählt. Worauf Admins achten müssen. Ein Ratgebertext von Steffen Zahn (Security, PostgreSQL)</description>
       <pubDate>Sat, 12 Sep 2026 08:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>So war euer Informatikunterricht: "Die Schüler hielten den Unterricht"</title>
-      <link>https://www.golem.de/news/so-war-euer-informatikunterricht-die-schueler-hielten-den-unterricht-2609-212931.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/so-war-euer-informatikunterricht-die-schueler-hielten-den-unterricht-2609-212931.html</guid>
-      <description>Während eurer Schulzeit trafen oft planlose Lehrer auf engagierte Schüler. Dennoch erinnert ihr euch gern zurück, an den Informatikunterricht. Von Mike Faust (Schulen, Studium)</description>
-      <pubDate>Sat, 12 Sep 2026 05:30:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
