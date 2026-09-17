@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 08:01:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 08:16:31 GMT</lastBuildDate>
+    <item>
+      <title>Neural Rendering: AMD arbeitet offenbar an Konkurrenten für DLSS 5</title>
+      <link>https://www.golem.de/news/neural-rendering-amd-arbeitet-offenbar-an-konkurrenten-fuer-dlss-5-2609-213135.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/neural-rendering-amd-arbeitet-offenbar-an-konkurrenten-fuer-dlss-5-2609-213135.html</guid>
+      <description>Eine eigene Technik für Neural Rendering soll bei AMD in Entwicklung sein. Sie könnte mit RDNA 5 und damit voraussichtlich 2027 auf den Markt kommen. (DLSS, AMD)</description>
+      <pubDate>Thu, 17 Sep 2026 08:14:07 GMT</pubDate>
+    </item>
     <item>
       <title>Andreessen Horowitz: Wie Tech-Milliardäre Einfluss auf KI-Regeln nehmen</title>
       <link>https://www.golem.de/news/andreessen-horowitz-wie-tech-milliardaere-einfluss-auf-ki-regeln-nehmen-2609-213093.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-mehrheit-der-amerikaner-will-ki-enwicklungspause-2609-212926.html</guid>
       <description>Bernie Sanders fordert eine Pause bei der KI-Entwicklung, bis Sicherungsmaßnahmen umgesetzt sind. Eine große Mehrheit steht hinter ihm, über Parteigrenzen hinweg. (KI, Rechenzentrum)</description>
       <pubDate>Fri, 11 Sep 2026 12:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smarte Govee-Glühbirnen zu echten Sparpreisen bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-smarte-govee-gluehbirnen-zu-echten-sparpreisen-bei-amazon-2609-212924.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smarte-govee-gluehbirnen-zu-echten-sparpreisen-bei-amazon-2609-212924.html</guid>
-      <description>Smarte Glühbirnen sorgen für stimmungsvolles Licht im Smart Home. Amazon hat aktuell Modelle von Govee mit Standardfassungen bis hin zum Retro-Look stark rabattiert. (Technik/Hardware)</description>
-      <pubDate>Fri, 11 Sep 2026 12:15:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
