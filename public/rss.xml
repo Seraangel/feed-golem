@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 06:31:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 06:51:33 GMT</lastBuildDate>
+    <item>
+      <title>Milliardendeal: Infineon verkauft Speichergeschäft an Winbond</title>
+      <link>https://www.golem.de/news/milliardendeal-infineon-verkauft-speichergeschaeft-an-winbond-2609-213131.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/milliardendeal-infineon-verkauft-speichergeschaeft-an-winbond-2609-213131.html</guid>
+      <description>Infineon will sein Speichergeschäft neu aufstellen und einen Teil davon an Winbond abgeben. Der Bereich soll künftig eigenständig arbeiten. (Infineon, Wirtschaft)</description>
+      <pubDate>Thu, 17 Sep 2026 06:49:03 GMT</pubDate>
+    </item>
     <item>
       <title>Justwatch startet JustwatchTV: Von der Streamingsuchmaschine zum Gratis-Streamingabo</title>
       <link>https://www.golem.de/news/justwatch-startet-justwatchtv-von-der-streamingsuchmaschine-zum-gratis-streamingabo-2609-213130.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-nintendo-switch-zum-guenstigen-dealpreis-bei-back-market-2609-212915.html</guid>
       <description>Die Nintendo Switch, Switch Lite und Switch OLED gibt es in verschiedenen Varianten professionell erneuert günstig bei Back Market. (Nintendo Switch, Nintendo)</description>
       <pubDate>Fri, 11 Sep 2026 11:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exploit-Kit Bluemoon: Chinesische Hacker attackieren Windows-Nutzer</title>
-      <link>https://www.golem.de/news/exploit-kit-bluemoon-chinesische-hacker-bei-angriffen-auf-windows-nutzer-erwischt-2609-212919.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/exploit-kit-bluemoon-chinesische-hacker-bei-angriffen-auf-windows-nutzer-erwischt-2609-212919.html</guid>
-      <description>Ein neues Exploit-Kit nutzt gefährliche Sicherheitslücken in Windows und Google Chrome aus. Mehrere Cybergruppierungen machen davon Gebrauch. (Cybercrime, Google)</description>
-      <pubDate>Fri, 11 Sep 2026 11:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
