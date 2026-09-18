@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 10:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:51:16 GMT</lastBuildDate>
+    <item>
+      <title>Google-Brain-Mitbegründer: Andrew Ng warnt vor KI-Panikmache</title>
+      <link>https://www.golem.de/news/google-brain-mitbegruender-andrew-ng-warnt-vor-ki-panikmache-2609-213203.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/google-brain-mitbegruender-andrew-ng-warnt-vor-ki-panikmache-2609-213203.html</guid>
+      <description>Andrew Ng sieht in den Warnungen vor KI größere Gefahren als durch die Technologie an sich. (KI, Security)</description>
+      <pubDate>Fri, 18 Sep 2026 10:46:05 GMT</pubDate>
+    </item>
     <item>
       <title>API-Key geleakt: Plötzlich Malware über 100.000 Websites verbreitet</title>
       <link>https://www.golem.de/news/api-key-geleakt-ploetzlich-malware-ueber-100-000-websites-verbreitet-2609-213201.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mobilitaet-flughafen-zuerich-startet-autonome-level-4-shuttles-ohne-begleitfahrer-2609-212975.html</guid>
       <description>Am Flughafen Zürich fahren ab sofort zwei unbemannte Mitarbeitershuttles ohne Begleitperson - zunächst aber auch ohne Fahrgäste. (Autonomes Fahren, Auto)</description>
       <pubDate>Mon, 14 Sep 2026 09:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: HD-Tablet mit Stift und 11''-IPS-Display günstig bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-hd-tablet-mit-stift-und-11-ips-display-guenstig-bei-amazon-2609-212976.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-hd-tablet-mit-stift-und-11-ips-display-guenstig-bei-amazon-2609-212976.html</guid>
-      <description>Ein Tablet mit 11'' großem IPS-Display, HD-Auflösung, 90 Hz und Octa-Core-Prozessor gibt es mit Stift zum Sparpreis bei Amazon. (Tablet, Mobil)</description>
-      <pubDate>Mon, 14 Sep 2026 09:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
