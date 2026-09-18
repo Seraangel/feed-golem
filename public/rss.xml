@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 13:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:11:22 GMT</lastBuildDate>
+    <item>
+      <title>Batteriespeicher: Speicherschwarm senkt Preise und entlastet Stromnetz</title>
+      <link>https://www.golem.de/news/batteriespeicher-speicherschwarm-senkt-preise-und-entlastet-stromnetz-2609-213214.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/batteriespeicher-speicherschwarm-senkt-preise-und-entlastet-stromnetz-2609-213214.html</guid>
+      <description>Ein Verbund aus Millionen Heimspeichern könnte nicht nur das Stromnetz flexibilisieren. Privathaushalte hätten damit auch Zugriff auf Notstrom. (Akku, Energiewende)</description>
+      <pubDate>Fri, 18 Sep 2026 13:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Control Resonant im Test: Tolle Kämpfe in einer traurigen Spielwelt</title>
       <link>https://www.golem.de/news/control-resonant-im-test-tolle-kaempfe-in-einer-traurigen-spielwelt-2609-213101.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-dreo-heizluefter-fuer-unter-45-euro-bei-amazon-im-angebot-2609-212979.html</guid>
       <description>Der kompakte und leise Dreo Heizlüfter bringt Räume schnell auf Temperatur. Bei Amazon gibt es das Modell aktuell für weit unter 50 Euro zum Sparpreis. (Technik/Hardware)</description>
       <pubDate>Mon, 14 Sep 2026 10:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>RDP, Sound und mehr: Windows-Updates bereiten Nutzern allerhand Probleme</title>
-      <link>https://www.golem.de/news/rdp-sound-und-mehr-windows-updates-bereiten-nutzern-allerhand-probleme-2609-212982.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rdp-sound-und-mehr-windows-updates-bereiten-nutzern-allerhand-probleme-2609-212982.html</guid>
-      <description>Laut Microsoft lösen die neuen Windows-Updates Probleme mit Linux-VMs, USB-Audio und RDP-Verbindungen aus. Doch da scheint noch mehr kaputt zu sein. (Windows, Microsoft)</description>
-      <pubDate>Mon, 14 Sep 2026 10:56:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
