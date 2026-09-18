@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 11:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:31:34 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Praxis-Workshop: TPM 2.0 unter Linux</title>
+      <link>https://www.golem.de/news/praxis-workshop-tpm-2-0-unter-linux-2609-213171.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/praxis-workshop-tpm-2-0-unter-linux-2609-213171.html</guid>
+      <description>Das einst verteufelte TPM ist längst im Linux-Alltag angekommen: Es entsperrt LUKS-Volumes, hütet SSH-Schlüssel und versiegelt Geheimnisse. Eine Anleitung von Martin Loschwitz (Linux, Malware)</description>
+      <pubDate>Fri, 18 Sep 2026 11:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Urteil: Meta haftet für Fake-Anzeigen auf Facebook und Instagram</title>
       <link>https://www.golem.de/news/urteil-meta-haftet-fuer-fake-anzeigen-auf-facebook-und-instagram-2609-213205.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-switchbot-lock-ultra-zum-amazon-sparpreis-2609-212972.html</guid>
       <description>Das smarte Türschloss SwitchBot Lock Ultra gibt es bei Amazon aktuell im Bundle mit Keypad und Hub für weit unter 200 Euro zum Sparpreis. (Technik/Hardware, Netzwerk)</description>
       <pubDate>Mon, 14 Sep 2026 10:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Behörden-PDFs: Vertrauliche Daten trotz Schwärzung rekonstruierbar</title>
-      <link>https://www.golem.de/news/behoerden-pdfs-vertrauliche-daten-trotz-schwaerzung-rekonstruierbar-2609-212878.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/behoerden-pdfs-vertrauliche-daten-trotz-schwaerzung-rekonstruierbar-2609-212878.html</guid>
-      <description>Unsere Analyse von knapp 5.000 Behörden-PDFs zeigt, wie scheinbar geschwärzte Angaben wieder sichtbar werden und warum das nicht nur am eingesetzten Programm festzumachen ist. Eine Recherche von Oliver Jessner (Datenschutz, PDF)</description>
-      <pubDate>Mon, 14 Sep 2026 10:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
