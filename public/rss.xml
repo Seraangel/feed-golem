@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 06:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 06:51:15 GMT</lastBuildDate>
+    <item>
+      <title>Urheberrechtsstreit um KI-Training: Dokumente belasten Microsoft und OpenAI im NYT-Prozess</title>
+      <link>https://www.golem.de/news/urheberrechtsstreit-um-ki-training-dokumente-belasten-microsoft-und-openai-im-nyt-prozess-2609-213181.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/urheberrechtsstreit-um-ki-training-dokumente-belasten-microsoft-und-openai-im-nyt-prozess-2609-213181.html</guid>
+      <description>Interne Dokumente aus dem NYT-Prozess zeigen: Microsoft und OpenAI räumen Traffic-Einbrüche, gestohlene Inhalte und Paywall-Umgehung ein. (Urheberrecht, Microsoft)</description>
+      <pubDate>Fri, 18 Sep 2026 06:49:03 GMT</pubDate>
+    </item>
     <item>
       <title>Kryptozahlungen: Orlen verliert Hunderte Millionen bei Ölkauf</title>
       <link>https://www.golem.de/news/kryptozahlungen-orlen-verliert-hunderte-millionen-bei-oelkauf-2609-213179.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kampf-der-maschinen-ukraine-versenkt-erstmals-russische-seedrohne-mit-seedrohne-2609-212960.html</guid>
       <description>Erstmals in der Militärgeschichte hat ein unbemanntes Kriegsschiff eine andere Seedrohne versenkt. (Militär, Politik)</description>
       <pubDate>Mon, 14 Sep 2026 05:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: WLAN-Repeater mit bis zu 2.600 MBit/s reduziert bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-wlan-repeater-mit-bis-zu-2-600-mbit-s-reduziert-bei-amazon-2609-212933.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-wlan-repeater-mit-bis-zu-2-600-mbit-s-reduziert-bei-amazon-2609-212933.html</guid>
-      <description>Ein WLAN-Repeater von TP-Link mit bis zu 2.600 MBit/s, Gigabit-LAN und Access-Point-Modus gibt es bei Amazon zum Aktionspreis. (TP-Link, WLAN)</description>
-      <pubDate>Sun, 13 Sep 2026 11:40:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
