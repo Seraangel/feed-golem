@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 08:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:06:11 GMT</lastBuildDate>
+    <item>
+      <title>KI-Forscher Kokotajlo: "Müssen die KI-Entwicklung im Wesentlichen abschalten"</title>
+      <link>https://www.golem.de/news/ki-forscher-kokotajlo-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-2609-213191.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-forscher-kokotajlo-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-2609-213191.html</guid>
+      <description>Kokotajlo warnt vor unkontrollierbaren Risiken durch sich selbst verbessernde KI-Systeme: vor neuartigen Biowaffen und automatisierten Cyberangriffen. (OpenAI, KI)</description>
+      <pubDate>Fri, 18 Sep 2026 09:01:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Smart-Home-Produkte von Tapo mit attraktivem Jubiläumsrabatt</title>
       <link>https://www.golem.de/news/anzeige-smart-home-produkte-von-tapo-mit-attraktivem-jubilaeumsrabatt-2609-213152.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smart-glasses-meta-ray-ban-laut-datenschutzbeauftragtem-untauglich-fuer-alltag-2609-212966.html</guid>
       <description>Metas Smart Glasses fallen in einer Untersuchung des Hamburgischen Datenschutzbeauftragten durch - rechtlich sicher lassen sie sich im Alltag kaum benutzen. (Datenbrille, Datenschutz)</description>
       <pubDate>Mon, 14 Sep 2026 07:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Physical Address Extension: Warum 32-Bit-Windows auf 4 GByte RAM begrenzt war</title>
-      <link>https://www.golem.de/news/physical-address-extension-warum-32-bit-windows-auf-4-gbyte-ram-begrenzt-war-2609-212965.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/physical-address-extension-warum-32-bit-windows-auf-4-gbyte-ram-begrenzt-war-2609-212965.html</guid>
-      <description>Fehlerhafte Treiber haben Microsoft daran gehindert, mehr als 4 GByte Arbeitsspeicher in 32-Bit-Client-Versionen freizugeben. (Windows XP, Microsoft)</description>
-      <pubDate>Mon, 14 Sep 2026 07:33:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
