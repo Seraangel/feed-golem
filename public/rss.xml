@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 17 Sep 2026 16:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 05:16:23 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Power Automate: Prozesse mit Flows automatisieren</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-power-automate-prozesse-mit-flows-automatisieren-2609-213105.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-power-automate-prozesse-mit-flows-automatisieren-2609-213105.html</guid>
+      <description>Microsoft Power Automate automatisiert wiederkehrende Abläufe in Microsoft 365. Ein zweitägiges Training vermittelt den Aufbau eigener Flows ohne Programmierung. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Fri, 18 Sep 2026 05:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kubernetes für automatisierte Container-Orchestrierung</title>
       <link>https://www.golem.de/news/anzeige-kubernetes-fuer-automatisierte-container-orchestrierung-2609-213064.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elon-musk-teslas-neuer-roadster-soll-mit-raketentechnik-abheben-2609-212955.html</guid>
       <description>Neun Jahre nach der ersten Vorstellung soll Teslas neuer Roadster wieder öffentlich gezeigt werden. Elon Musk deutet eine außergewöhnliche Vorführung an. (Tesla, Elektroauto)</description>
       <pubDate>Sun, 13 Sep 2026 09:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic: Angst vor Super-KI eint plötzlich die größten Rivalen</title>
-      <link>https://www.golem.de/news/anthropic-angst-vor-super-ki-eint-ploetzlich-die-groessten-rivalen-2609-212954.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anthropic-angst-vor-super-ki-eint-ploetzlich-die-groessten-rivalen-2609-212954.html</guid>
-      <description>Anthropic-Chef Dario Amodei fordert eine Notbremse bei der KI-Entwicklung. Seine härtesten Rivalen Sam Altman und Elon Musk stimmen zu. (Anthropic, KI)</description>
-      <pubDate>Sun, 13 Sep 2026 09:08:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
