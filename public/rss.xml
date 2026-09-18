@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 11:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:26:26 GMT</lastBuildDate>
+    <item>
+      <title>iPhone Duo im Hands-on: Unser erster Eindruck von Apples iPhone Duo</title>
+      <link>https://www.golem.de/news/iphone-duo-im-hands-on-unser-erster-eindruck-von-apples-iphone-duo-2609-213208.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/iphone-duo-im-hands-on-unser-erster-eindruck-von-apples-iphone-duo-2609-213208.html</guid>
+      <description>Apple hat bei seinem ersten faltbaren iPhone Duo den Fokus auf den Falz und die Software gelegt - wir konnten uns einen ersten Eindruck verschaffen. Ein Hands-on von Tobias Költzsch (iPhone Duo, Smartphone)</description>
+      <pubDate>Fri, 18 Sep 2026 12:22:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: iPhone 18 Pro Max mit unbegrenztem Datenvolumen bei o2</title>
       <link>https://www.golem.de/news/anzeige-iphone-18-pro-max-mit-unbegrenztem-datenvolumen-bei-o2-2609-213196.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digitaler-tierversuch-doom-laeuft-jetzt-auch-auf-fruchtfliegen-2609-212980.html</guid>
       <description>Ein Experiment zeigt, wie sich biologische Verschaltungen auf virtuelle Umgebungen wie Doom übertragen lassen. (Doom, id Software)</description>
       <pubDate>Mon, 14 Sep 2026 10:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia: MFG läuft auf RTX 4000 und könnte DLSS 5 beschleunigen</title>
-      <link>https://www.golem.de/news/nvidia-mfg-laeuft-auf-rtx-4000-und-koennte-dlss-5-beschleunigen-2609-212977.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nvidia-mfg-laeuft-auf-rtx-4000-und-koennte-dlss-5-beschleunigen-2609-212977.html</guid>
-      <description>Eine Mod schaltet Multi Frame Generation (MFG) auf Geforce RTX 4000 frei. Für das extrem rechenintensive DLSS 5 könnte das interessant werden. (DLSS, Nvidia)</description>
-      <pubDate>Mon, 14 Sep 2026 10:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
