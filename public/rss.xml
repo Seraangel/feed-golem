@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 07:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 08:16:20 GMT</lastBuildDate>
+    <item>
+      <title>Durch einfache Wischgesten: Kurioser iOS-Bug macht iPhones unbedienbar</title>
+      <link>https://www.golem.de/news/durch-einfache-wischgesten-kurioser-ios-bug-macht-iphones-unbedienbar-2609-213188.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/durch-einfache-wischgesten-kurioser-ios-bug-macht-iphones-unbedienbar-2609-213188.html</guid>
+      <description>Durch ein paar Wischgesten auf dem Homescreen lassen sich iPhones unter iOS 27 in einen unbedienbaren Zustand versetzen. Doch es gibt eine Lösung. (iOS, Apple)</description>
+      <pubDate>Fri, 18 Sep 2026 08:14:13 GMT</pubDate>
+    </item>
     <item>
       <title>Arbeitswelt: KI löst weltweit Ängste vor Jobverlust aus</title>
       <link>https://www.golem.de/news/arbeitswelt-ki-loest-weltweit-aengste-vor-jobverlust-aus-2609-213185.html</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 18 Sep 2026 07:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>Nightmare Stresser: DDoS-Portal mit über 500.000 Nutzern vom Netz genommen</title>
+      <title>Nightmare Stresser: FBI greift gegen DDoS-Dienst mit über 500.000 Nutzern durch</title>
       <link>https://www.golem.de/news/nightmare-stresser-ddos-portal-mit-ueber-500-000-nutzern-vom-netz-genommen-2609-213180.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/nightmare-stresser-ddos-portal-mit-ueber-500-000-nutzern-vom-netz-genommen-2609-213180.html</guid>
       <description>Das FBI hat eine Plattform zerschlagen, die für Hunderttausende DDoS-Angriffe auf weltweit verteilte Ziele genutzt worden sein soll. (DoS, Server)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/macos-27-golden-gate-im-test-mehr-speed-mehr-ki-kaum-bugs-und-was-ist-mit-siri-ai-2609-212958.html</guid>
       <description>Mit MacOS 27 fällt die letzte Unterstützung für Intel-Macs. Dafür hat Apple die KI jetzt tief im System verankert. Viel davon ist hilfreich, aber das Haupt-Feature derzeit eher nicht. Ein Test von Christian Rentrop (MacOS, Apple)</description>
       <pubDate>Mon, 14 Sep 2026 07:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheitslücke in Klimaanlage: Midea Portasplit bekommt ein wichtiges Update</title>
-      <link>https://www.golem.de/news/klimaanlage-sicherheitsluecke-in-midea-portasplit-wird-geschlossen-2609-212963.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/klimaanlage-sicherheitsluecke-in-midea-portasplit-wird-geschlossen-2609-212963.html</guid>
-      <description>Angreifer können die Klimaanlage Midea Portasplit ohne Anmeldung per Bluetooth steuern. Ein neues Firmware-Update korrigiert das. (Sicherheitslücke, Bluetooth)</description>
-      <pubDate>Mon, 14 Sep 2026 06:23:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
