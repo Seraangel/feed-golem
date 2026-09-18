@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 15:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:06:18 GMT</lastBuildDate>
+    <item>
+      <title>Maßnahme gegen Webcrawler: Cloudflare ermöglicht Trennung von KI- und Suchbots</title>
+      <link>https://www.golem.de/news/massnahme-gegen-webcrawler-cloudflare-ermoeglicht-trennung-von-ki-und-suchbots-2609-213221.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/massnahme-gegen-webcrawler-cloudflare-ermoeglicht-trennung-von-ki-und-suchbots-2609-213221.html</guid>
+      <description>Cloudflare bietet Webseitenbetreibern die Möglichkeit, keine Suchbots sperren zu müssen, wenn sie das Sammeln ihrer Daten verhindern möchten. (Cloudflare, KI)</description>
+      <pubDate>Fri, 18 Sep 2026 15:04:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Faltbares Laufband mit Steigung für zu Hause günstig wie nie</title>
       <link>https://www.golem.de/news/anzeige-faltbares-laufband-mit-steigung-fuer-zu-hause-guenstig-wie-nie-2609-213222.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/aktion-klarmobil-bietet-mehr-datenvolumen-im-vodafone-netz-2609-212992.html</guid>
       <description>Die Freenet-Marke hat ihre Allnet-Flats im 5G-Netz von Vodafone aufgewertet. Neukunden erhalten bis zu 200 GByte. (Freenet, Vodafone)</description>
       <pubDate>Mon, 14 Sep 2026 13:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für den eigenen Profit: Warum KI-Konzerne plötzlich auf die Bremse treten wollen</title>
-      <link>https://www.golem.de/news/fuer-den-eigenen-profit-warum-ki-konzerne-ploetzlich-auf-die-bremse-treten-wollen-2609-212986.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuer-den-eigenen-profit-warum-ki-konzerne-ploetzlich-auf-die-bremse-treten-wollen-2609-212986.html</guid>
-      <description>Altman, Amodei und andere KI-Größen warnen vor immer mächtigeren Modellen. Das wiederum könnte zugleich ihre Konkurrenz ausbremsen. Eine Analyse von Mike Faust (KI, Wirtschaft)</description>
-      <pubDate>Mon, 14 Sep 2026 13:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
