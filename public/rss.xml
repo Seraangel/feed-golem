@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 10:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 10:36:23 GMT</lastBuildDate>
+    <item>
+      <title>API-Key geleakt: Plötzlich Malware über 100.000 Websites verbreitet</title>
+      <link>https://www.golem.de/news/api-key-geleakt-ploetzlich-malware-ueber-100-000-websites-verbreitet-2609-213201.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/api-key-geleakt-ploetzlich-malware-ueber-100-000-websites-verbreitet-2609-213201.html</guid>
+      <description>Angreifer sind an einen API-Schlüssel von Brevo gelangt. Dieser hat mit einem Schlag Clickfix-Attacken über mehr als 100.000 Websites ermöglicht. (Malware, Virus)</description>
+      <pubDate>Fri, 18 Sep 2026 10:33:03 GMT</pubDate>
+    </item>
     <item>
       <title>Bundeswehr-Drohnenfund: Bundesanwaltschaft prüft Verbindung zu Leipziger Drohnenvorfall</title>
       <link>https://www.golem.de/news/bundeswehr-drohnenfund-bundesanwaltschaft-prueft-verbindung-zu-leipziger-drohnenvorfall-2609-213202.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-hd-tablet-mit-stift-und-11-ips-display-guenstig-bei-amazon-2609-212976.html</guid>
       <description>Ein Tablet mit 11'' großem IPS-Display, HD-Auflösung, 90 Hz und Octa-Core-Prozessor gibt es mit Stift zum Sparpreis bei Amazon. (Tablet, Mobil)</description>
       <pubDate>Mon, 14 Sep 2026 09:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>EuGH stärkt Verbraucherrechte: Vodafones AGB erlauben keine einseitigen Preiserhöhungen</title>
-      <link>https://www.golem.de/news/eugh-staerkt-verbraucherrechte-vodafones-agb-erlauben-keine-einseitigen-preiserhoehungen-2609-212974.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/eugh-staerkt-verbraucherrechte-vodafones-agb-erlauben-keine-einseitigen-preiserhoehungen-2609-212974.html</guid>
-      <description>Telekommunikationsfirmen dürfen laufende Verträge nicht einseitig ändern. Damit steigen die Siegchancen bei der Sammelklage gegen Vodafone. (Vodafone, Verbraucherschutz)</description>
-      <pubDate>Mon, 14 Sep 2026 09:36:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
