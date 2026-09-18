@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 06:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:01:51 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: MSI PRO MAX - Konzepte für produktiveres Arbeiten</title>
+      <link>https://www.golem.de/news/anzeige-msi-pro-max-konzepte-fuer-produktiveres-arbeiten-2609-213143.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-msi-pro-max-konzepte-fuer-produktiveres-arbeiten-2609-213143.html</guid>
+      <description>Monitor, All-in-One oder leistungsstarker KI-PC: Die PRO MAX-Serie von MSI bietet verschiedene Konzepte für anspruchsvolle Anwender und produktiveres Arbeiten. (Technik/Hardware, MSI)</description>
+      <pubDate>Fri, 18 Sep 2026 07:00:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Disney bestätigt offiziell: Alle Abostufen von Disney+ ohne Airplay-Funktion, Abopreis bleibt</title>
+      <link>https://www.golem.de/news/disney-bestaetigt-offiziell-alle-abostufen-von-disney-ohne-airplay-funktion-abopreis-bleibt-2609-213182.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/disney-bestaetigt-offiziell-alle-abostufen-von-disney-ohne-airplay-funktion-abopreis-bleibt-2609-213182.html</guid>
+      <description>Aufgrund von Rechtsstreitigkeiten ist die Airplay-Funktion aus Disney+ gestrichen worden. Abonnenten müssen trotzdem den vollen Preis zahlen. (Disney+, Disney)</description>
+      <pubDate>Fri, 18 Sep 2026 06:58:03 GMT</pubDate>
+    </item>
     <item>
       <title>Urheberrechtsstreit um KI-Training: Dokumente belasten Microsoft und OpenAI im NYT-Prozess</title>
       <link>https://www.golem.de/news/urheberrechtsstreit-um-ki-training-dokumente-belasten-microsoft-und-openai-im-nyt-prozess-2609-213181.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jugendliche-mit-waffe-entdeckt-robotertaxi-ruft-selbststaendig-die-polizei-2609-212961.html</guid>
       <description>Ein autonomes Fahrzeug von Waymo hat Polizei alarmieren lassen, weil seine Systeme eine Waffe bei den Passagieren entdeckt haben. (Autonomes Fahren, Auto)</description>
       <pubDate>Mon, 14 Sep 2026 05:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Keycloak richtig einsetzen: Identity- und Access-Management</title>
-      <link>https://www.golem.de/news/anzeige-keycloak-richtig-einsetzen-identity-und-access-management-2609-212942.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-keycloak-richtig-einsetzen-identity-und-access-management-2609-212942.html</guid>
-      <description>Sichere Authentifizierung und zentrales Identity-Management sind zentrale Aufgaben in Unternehmensnetzwerken. Ein Workshop vermittelt den Umgang mit Keycloak als Identity-Provider. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Mon, 14 Sep 2026 05:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kampf der Maschinen: Ukraine versenkt erstmals russische Seedrohne mit Seedrohne</title>
-      <link>https://www.golem.de/news/kampf-der-maschinen-ukraine-versenkt-erstmals-russische-seedrohne-mit-seedrohne-2609-212960.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kampf-der-maschinen-ukraine-versenkt-erstmals-russische-seedrohne-mit-seedrohne-2609-212960.html</guid>
-      <description>Erstmals in der Militärgeschichte hat ein unbemanntes Kriegsschiff eine andere Seedrohne versenkt. (Militär, Politik)</description>
-      <pubDate>Mon, 14 Sep 2026 05:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
