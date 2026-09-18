@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 09:36:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 09:51:30 GMT</lastBuildDate>
+    <item>
+      <title>Wellenenergie: Bojenschwarm kann fast komplette Energie von Wellen umwandeln</title>
+      <link>https://www.golem.de/news/wellenenergie-bojenschwarm-kann-fast-komplette-energie-von-wellen-umwandeln-2609-213194.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wellenenergie-bojenschwarm-kann-fast-komplette-energie-von-wellen-umwandeln-2609-213194.html</guid>
+      <description>Versuche zur Nutzung von Wellenenergie gibt es weltweit, aber die Bojen verändern die Wellen. Eine Lösung dieses Problems kommt aus Augsburg. (Wasserkraft, Start-up)</description>
+      <pubDate>Fri, 18 Sep 2026 09:46:05 GMT</pubDate>
+    </item>
     <item>
       <title>Simulation: Atombomben könnten gefährliche Asteroiden ablenken oder zerstören</title>
       <link>https://www.golem.de/news/simulation-atombomben-koennten-gefaehrliche-asteroiden-ablenken-oder-zerstoeren-2609-213035.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-anker-4-in-1-ladegeraet-mit-140-watt-und-display-zum-tiefstpreis-bei-amazon-2609-212973.html</guid>
       <description>Das Anker-140-W-GaN-Ladegerät lädt vier Geräte gleichzeitig und zeigt den Ladestatus und die Temperatur per Display an. (Technik/Hardware, iPhone)</description>
       <pubDate>Mon, 14 Sep 2026 08:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Noch vor Hugging-Face-Hack: KI-Agenten von OpenAI haben Rubygems attackiert</title>
-      <link>https://www.golem.de/news/noch-vor-hugging-face-hack-ki-agenten-von-openai-haben-rubygems-attackiert-2609-212970.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/noch-vor-hugging-face-hack-ki-agenten-von-openai-haben-rubygems-attackiert-2609-212970.html</guid>
-      <description>Im Mai ist die Paketverwaltung Rubygems Ziel einer merkwürdigen Cyberattacke worden. Nun zeigt sich, dass KI-Agenten von OpenAI dahinter steckten. (KI, API)</description>
-      <pubDate>Mon, 14 Sep 2026 08:33:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
