@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 13:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:26:26 GMT</lastBuildDate>
+    <item>
+      <title>Spritpreise steigen: ADAC und Handwerk fordern niedrigere Stromsteuer</title>
+      <link>https://www.golem.de/news/spritpreise-steigen-adac-und-handwerk-fordern-niedrigere-stromsteuer-2609-213212.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spritpreise-steigen-adac-und-handwerk-fordern-niedrigere-stromsteuer-2609-213212.html</guid>
+      <description>Der ADAC und Handwerksvertreter fordern eine Senkung der Stromsteuer. Dadurch soll der Umstieg auf Elektromobilität beschleunigt werden. (Elektroauto, Politik)</description>
+      <pubDate>Fri, 18 Sep 2026 13:24:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Oktoberfest aus 3.246 Klemmbausteinen: Wirtshaus fällt bei Amazon auf 4,2 Cent pro Teil</title>
       <link>https://www.golem.de/news/anzeige-oktoberfest-aus-3-246-klemmbausteinen-wirtshaus-faellt-bei-amazon-auf-4-2-cent-pro-teil-2609-213211.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-klappbarer-50-liter-kofferraum-organizer-jetzt-reduziert-bei-amazon-2609-212984.html</guid>
       <description>Der faltbare Fortem Kofferraum-Organizer bringt mit klappbarem Deckel, drei Fächern und rutschfestem Boden Ordnung in den Kofferraum. (Auto, Technik/Hardware)</description>
       <pubDate>Mon, 14 Sep 2026 11:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Der Mythos vom Millionen-Token-Kontext: Warum KI bei längeren Eingaben schwächelt</title>
-      <link>https://www.golem.de/news/der-mythos-vom-millionen-token-kontext-warum-ki-bei-laengeren-eingaben-schwaechelt-2609-212718.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/der-mythos-vom-millionen-token-kontext-warum-ki-bei-laengeren-eingaben-schwaechelt-2609-212718.html</guid>
-      <description>KI-Hersteller bewerben Kontextlängen von Millionen von Zeichen, doch trotzdem versagen die Modelle bei großen Dokumenten. Wir erklären die Hintergründe. Eine Analyse von Tim Elsner (KI, Software)</description>
-      <pubDate>Mon, 14 Sep 2026 11:30:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
