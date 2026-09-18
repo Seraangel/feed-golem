@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 15:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:02:13 GMT</lastBuildDate>
+    <item>
+      <title>Steer-by-Wire in der Praxis: Mit dem Jochlenker übers Penser Joch</title>
+      <link>https://www.golem.de/news/steer-by-wire-in-der-praxis-mit-dem-jochlenker-uebers-penser-joch-2609-213186.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/steer-by-wire-in-der-praxis-mit-dem-jochlenker-uebers-penser-joch-2609-213186.html</guid>
+      <description>Das elektronische Lenkrad geht bei Mercedes demnächst in Serie. Wie sich das System in der Praxis fährt, haben wir mit dem EQS in den Alpen ausprobiert. Ein Bericht von Friedhelm Greis (Elektroauto, Tesla)</description>
+      <pubDate>Fri, 18 Sep 2026 16:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>ALPSiX: Berliner Inter.link errichtet neuen Peeringknoten des DE-CIX in Südöstereich</title>
+      <link>https://www.golem.de/news/alpsix-berliner-inter-link-errichtet-neuen-peeringknoten-des-de-cix-in-suedoestereich-2609-213224.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/alpsix-berliner-inter-link-errichtet-neuen-peeringknoten-des-de-cix-in-suedoestereich-2609-213224.html</guid>
+      <description>Der neue Internetknoten ALPSiX in Klagenfurt-Villach setzt auf Edge-Container, um die Unabhängigkeit von Wien zu stärken und Daten direkt nach Norditalien, Bayern und auf den Balkan zu leiten. (DE-CIX, Rechenzentrum)</description>
+      <pubDate>Fri, 18 Sep 2026 15:57:06 GMT</pubDate>
+    </item>
     <item>
       <title>Maßnahme gegen Webcrawler: Cloudflare ermöglicht Trennung von KI- und Suchbots</title>
       <link>https://www.golem.de/news/massnahme-gegen-webcrawler-cloudflare-ermoeglicht-trennung-von-ki-und-suchbots-2609-213221.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/youtube-elon-musk-teilt-erneut-verstoss-gegen-fsd-nutzungsregeln-2609-212990.html</guid>
       <description>Ein 98-jähriger Mann erklärt in einem Video, dass er in seinem Tesla nicht mehr auf den Verkehr achten müsse. Elon Musk findet das gut - für Tesla ein Problem. (Elon Musk, Elektroauto)</description>
       <pubDate>Mon, 14 Sep 2026 14:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Batterieforschung: Höhere Energiedichte durch simple Zellarchitekturänderung</title>
-      <link>https://www.golem.de/news/batterieforschung-dickere-elektrode-hebt-energiedichte-von-akkus-an-2609-212993.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/batterieforschung-dickere-elektrode-hebt-energiedichte-von-akkus-an-2609-212993.html</guid>
-      <description>Um 15 Prozent steigt die Kapazität von Batterien durch eine Methode, die das Gewicht nicht erhöht und einfach umzusetzen ist. (Akku, Fraunhofer)</description>
-      <pubDate>Mon, 14 Sep 2026 13:46:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aktion: Klarmobil bietet mehr Datenvolumen im Vodafone-Netz</title>
-      <link>https://www.golem.de/news/aktion-klarmobil-bietet-mehr-datenvolumen-im-vodafone-netz-2609-212992.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/aktion-klarmobil-bietet-mehr-datenvolumen-im-vodafone-netz-2609-212992.html</guid>
-      <description>Die Freenet-Marke hat ihre Allnet-Flats im 5G-Netz von Vodafone aufgewertet. Neukunden erhalten bis zu 200 GByte. (Freenet, Vodafone)</description>
-      <pubDate>Mon, 14 Sep 2026 13:36:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
