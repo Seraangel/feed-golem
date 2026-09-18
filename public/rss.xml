@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 11:31:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 11:41:26 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: iPhone 18 Pro Max mit unbegrenztem Datenvolumen bei o2</title>
+      <link>https://www.golem.de/news/anzeige-iphone-18-pro-max-mit-unbegrenztem-datenvolumen-bei-o2-2609-213196.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-iphone-18-pro-max-mit-unbegrenztem-datenvolumen-bei-o2-2609-213196.html</guid>
+      <description>Das neue iPhone 18 Pro Max gibt es mit unbegrenztem Datenvolumen für 72,99 Euro pro Monat im Tarif o2 Mobil Unlimited M. (O2, iPhone)</description>
+      <pubDate>Fri, 18 Sep 2026 11:40:08 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Praxis-Workshop: TPM 2.0 unter Linux</title>
       <link>https://www.golem.de/news/praxis-workshop-tpm-2-0-unter-linux-2609-213171.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nvidia-mfg-laeuft-auf-rtx-4000-und-koennte-dlss-5-beschleunigen-2609-212977.html</guid>
       <description>Eine Mod schaltet Multi Frame Generation (MFG) auf Geforce RTX 4000 frei. Für das extrem rechenintensive DLSS 5 könnte das interessant werden. (DLSS, Nvidia)</description>
       <pubDate>Mon, 14 Sep 2026 10:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: SwitchBot Lock Ultra zum Amazon-Sparpreis</title>
-      <link>https://www.golem.de/news/anzeige-switchbot-lock-ultra-zum-amazon-sparpreis-2609-212972.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-switchbot-lock-ultra-zum-amazon-sparpreis-2609-212972.html</guid>
-      <description>Das smarte Türschloss SwitchBot Lock Ultra gibt es bei Amazon aktuell im Bundle mit Keypad und Hub für weit unter 200 Euro zum Sparpreis. (Technik/Hardware, Netzwerk)</description>
-      <pubDate>Mon, 14 Sep 2026 10:04:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
