@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 14:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:16:09 GMT</lastBuildDate>
+    <item>
+      <title>KI-Assistent in der Seitenleiste: ChatGPT zieht in Word ein</title>
+      <link>https://www.golem.de/news/ki-assistent-in-der-seitenleiste-chatgpt-zieht-in-word-ein-2609-213213.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-assistent-in-der-seitenleiste-chatgpt-zieht-in-word-ein-2609-213213.html</guid>
+      <description>OpenAI bringt ChatGPT als Add-in in Microsoft Word. Nutzer können Texte entwerfen, überarbeiten und zusammenfassen lassen, ohne Word zu verlassen. (Office, Microsoft)</description>
+      <pubDate>Fri, 18 Sep 2026 14:14:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Rund 70 Euro unter UVP - Preisrutsch bei neuer Huawei Watch GT 7</title>
       <link>https://www.golem.de/news/anzeige-rund-70-euro-unter-uvp-preisrutsch-bei-neuer-huawei-watch-gt-7-2609-213218.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-redtiger-f7np-bestseller-dashcam-mit-4k-video-fuer-119-69-euro-im-deal-2609-212988.html</guid>
       <description>Die Redtiger F7NP filmt vorne und hinten, verfügt über GPS und 128 GB Speicher. Bei Amazon kostet der Bestseller 119,69 Euro. (Technik/Hardware, Film)</description>
       <pubDate>Mon, 14 Sep 2026 12:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zwei Controller in Arbeit: Apples geheimer Gamepad-Plan</title>
-      <link>https://www.golem.de/news/zwei-controller-in-arbeit-apples-geheimer-gamepad-plan-2609-212969.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zwei-controller-in-arbeit-apples-geheimer-gamepad-plan-2609-212969.html</guid>
-      <description>Codefunde im ersten Release Candidate von macOS 26.7 deuten auf zwei neue Apple-Hardwaregeräte hin. Möglicherweise sind es Gaming-Controller. (Apple, Apple TV)</description>
-      <pubDate>Mon, 14 Sep 2026 12:01:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
