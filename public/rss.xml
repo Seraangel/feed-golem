@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 12:31:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:01:14 GMT</lastBuildDate>
+    <item>
+      <title>Control Resonant im Test: Tolle Kämpfe in einer traurigen Spielwelt</title>
+      <link>https://www.golem.de/news/control-resonant-im-test-tolle-kaempfe-in-einer-traurigen-spielwelt-2609-213101.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/control-resonant-im-test-tolle-kaempfe-in-einer-traurigen-spielwelt-2609-213101.html</guid>
+      <description>Control Resonant begeistert mit Kämpfen und Effekten. Doch die leblose Welt und eine schwache Missionsführung bremsen den Spielspaß. Ein Test von Peter Steinlechner (Control, Test)</description>
+      <pubDate>Fri, 18 Sep 2026 13:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kompakte Kapselmaschine von Krups zum Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-kompakte-kapselmaschine-von-krups-zum-amazon-bestpreis-2609-213210.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rdp-sound-und-mehr-windows-updates-bereiten-nutzern-allerhand-probleme-2609-212982.html</guid>
       <description>Laut Microsoft lösen die neuen Windows-Updates Probleme mit Linux-VMs, USB-Audio und RDP-Verbindungen aus. Doch da scheint noch mehr kaputt zu sein. (Windows, Microsoft)</description>
       <pubDate>Mon, 14 Sep 2026 10:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft-Kontozwang lässt sich umgehen: Windows 11 lässt sich mit einem lokalen Konto installieren</title>
-      <link>https://www.golem.de/news/microsoft-kontozwang-laesst-sich-umgehen-windows-11-laesst-sich-mit-einem-lokalen-konto-installieren-2609-212983.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-kontozwang-laesst-sich-umgehen-windows-11-laesst-sich-mit-einem-lokalen-konto-installieren-2609-212983.html</guid>
-      <description>Absicht oder Fehler, das ist hier die Frage: Derzeit kann Windows 11 mit einem Kniff auch ohne Microsoft-Konto installiert werden. (Windows 11, Microsoft)</description>
-      <pubDate>Mon, 14 Sep 2026 10:42:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
