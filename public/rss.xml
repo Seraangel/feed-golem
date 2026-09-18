@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 18 Sep 2026 07:01:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 07:11:27 GMT</lastBuildDate>
+    <item>
+      <title>Nightmare Stresser: DDoS-Portal mit über 500.000 Nutzern vom Netz genommen</title>
+      <link>https://www.golem.de/news/nightmare-stresser-ddos-portal-mit-ueber-500-000-nutzern-vom-netz-genommen-2609-213180.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nightmare-stresser-ddos-portal-mit-ueber-500-000-nutzern-vom-netz-genommen-2609-213180.html</guid>
+      <description>Das FBI hat eine Plattform zerschlagen, die für Hunderttausende DDoS-Angriffe auf weltweit verteilte Ziele genutzt worden sein soll. (DoS, Server)</description>
+      <pubDate>Fri, 18 Sep 2026 07:08:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: MSI PRO MAX - Konzepte für produktiveres Arbeiten</title>
       <link>https://www.golem.de/news/anzeige-msi-pro-max-konzepte-fuer-produktiveres-arbeiten-2609-213143.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-zwei-18v-akkus-fuer-makita-kosten-bei-amazon-zusammen-keine-40-euro-2609-212959.html</guid>
       <description>Zwei 5-Ah-Akkus für Makita-Werkzeuge kosten bei Amazon nur 39,08 Euro. Was steckt dahinter? (Technik/Hardware)</description>
       <pubDate>Mon, 14 Sep 2026 05:37:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jugendliche mit Waffe entdeckt: Robotertaxi-Betreiber ruft die Polizei</title>
-      <link>https://www.golem.de/news/jugendliche-mit-waffe-entdeckt-robotertaxi-ruft-selbststaendig-die-polizei-2609-212961.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/jugendliche-mit-waffe-entdeckt-robotertaxi-ruft-selbststaendig-die-polizei-2609-212961.html</guid>
-      <description>Ein autonomes Fahrzeug von Waymo hat Polizei alarmieren lassen, weil seine Systeme eine Waffe bei den Passagieren entdeckt haben. (Autonomes Fahren, Auto)</description>
-      <pubDate>Mon, 14 Sep 2026 05:28:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
