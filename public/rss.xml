@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 19 Sep 2026 10:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:36:16 GMT</lastBuildDate>
+    <item>
+      <title>Hohe Spritpreise: Tankrabatt kehrt zurück, Preisdeckel ab 2027 geplant</title>
+      <link>https://www.golem.de/news/hohe-spritpreise-tankrabatt-kehrt-zurueck-preisdeckel-ab-2027-geplant-2609-213243.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hohe-spritpreise-tankrabatt-kehrt-zurueck-preisdeckel-ab-2027-geplant-2609-213243.html</guid>
+      <description>Bund und Länder haben sich auf ein Paket gegen hohe Spritpreise geeinigt. Ab Oktober kommt der Tankrabatt zurück, 2027 soll eine Preisobergrenze folgen. (Auto, Elektromobilität)</description>
+      <pubDate>Sat, 19 Sep 2026 10:31:05 GMT</pubDate>
+    </item>
     <item>
       <title>Luftfahrt: Joby fliegt erstmals vollautonom quer durch die USA</title>
       <link>https://www.golem.de/news/luftfahrt-joby-fliegt-erstmals-vollautonom-quer-durch-die-usa-2609-213242.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/virtual-reality-steam-frame-startet-fuer-1-050-euro-und-mit-schwaechen-2609-213009.html</guid>
       <description>Valves neues VR-Headset kann vorbestellt werden. Tests loben Komfort und Streaming, zeigen aber Probleme bei Kompatibilität und Akkulaufzeit. (VR, Steam)</description>
       <pubDate>Tue, 15 Sep 2026 05:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Azure administrieren: Workshop für IT-Profis</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-it-profis-2609-213008.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-azure-administrieren-workshop-fuer-it-profis-2609-213008.html</guid>
-      <description>Viele Unternehmen nutzen Microsoft Azure, doch die sichere und effiziente Verwaltung der Cloud-Infrastruktur bleibt anspruchsvoll. Ein Workshop vermittelt das nötige Rüstzeug. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 15 Sep 2026 05:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
