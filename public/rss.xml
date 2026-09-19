@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 19 Sep 2026 08:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:36:20 GMT</lastBuildDate>
+    <item>
+      <title>Defense Radar: Wie funktioniert Burevestnik?</title>
+      <link>https://www.golem.de/news/defense-radar-wie-funktioniert-burevestnik-2609-213206.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/defense-radar-wie-funktioniert-burevestnik-2609-213206.html</guid>
+      <description>In unserem Videoformat Defense Radar geben wir Einblicke in Militärtechnik. Diesmal erklären wir, wie der nuklear betriebene Flugkörper Burevestnik oder Skyfall funktioniert. (Militär, Politik)</description>
+      <pubDate>Sat, 19 Sep 2026 08:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Von C nach Rust: KI bringt Bewegung in die Legacy-Migration</title>
       <link>https://www.golem.de/news/von-c-nach-rust-ki-bringt-bewegung-in-die-legacy-migration-2609-213199.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-aoc-u27g4xm-nur-329-euro-4k-gaming-monitor-mit-mini-led-und-160-hz-zum-tiefstpreis-2609-213000.html</guid>
       <description>Der AOC U27G4XM kombiniert 4K-Auflösung, Mini-LED-Hintergrundbeleuchtung mit 1.152 Dimming-Zonen und bis zu 160 Hz. Bei Amazon ist der 27-Zoll-Gaming-Monitor derzeit für 329 Euro zum Tiefstpreis erhältlich. (AOC, Display)</description>
       <pubDate>Mon, 14 Sep 2026 16:14:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Energy: India's data center boom creates new engine for renewable energy</title>
-      <link>https://www.golem.de/news/energy-india-s-data-center-boom-creates-new-engine-for-renewable-energy-2609-212994.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/energy-india-s-data-center-boom-creates-new-engine-for-renewable-energy-2609-212994.html</guid>
-      <description>Large power needs increase bankability for battery-backed solar and wind projects Von Ananta Agarwal (Rechenzentrum, Golem Plus)</description>
-      <pubDate>Mon, 14 Sep 2026 16:00:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
