@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 19 Sep 2026 09:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:51:10 GMT</lastBuildDate>
+    <item>
+      <title>Google bestätigt: KI-Modell Gemini knackt drei echte Firmen</title>
+      <link>https://www.golem.de/news/google-bestaetigt-ki-modell-gemini-knackt-drei-echte-firmen-2609-213241.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/google-bestaetigt-ki-modell-gemini-knackt-drei-echte-firmen-2609-213241.html</guid>
+      <description>Bei einem Sicherheitstest sollte Googles KI eigentlich nur fiktive Firmen angreifen. Stattdessen ist sie bei drei echten Unternehmen eingebrochen. (Gemini, Google)</description>
+      <pubDate>Sat, 19 Sep 2026 09:48:03 GMT</pubDate>
+    </item>
     <item>
       <title>US-Militär: Fehlerhafter KI-Bericht löst beinahe Militärschlag aus</title>
       <link>https://www.golem.de/news/us-militaer-fehlerhafter-ki-bericht-loest-beinahe-militaerschlag-aus-2609-213240.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/db-systel-deutsche-bahn-will-homeoffice-einschraenken-2609-213005.html</guid>
       <description>Die Deutsche Bahn reduziert die Freiheit beim Homeoffice. Besonders betroffen dürfte DB Systel sein. (Deutsche Bahn, Wirtschaft)</description>
       <pubDate>Mon, 14 Sep 2026 17:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 sicher administrieren im Workshop</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-sicher-administrieren-im-workshop-2609-212953.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-sicher-administrieren-im-workshop-2609-212953.html</guid>
-      <description>Die Verwaltung von Microsoft 365 Umgebungen stellt IT-Administratoren vor komplexe Aufgaben bei Lizenzierung, Migration und Sicherheit. Ein Training vermittelt das nötige Rüstzeug. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Mon, 14 Sep 2026 16:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
