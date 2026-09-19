@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 19 Sep 2026 09:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:31:13 GMT</lastBuildDate>
+    <item>
+      <title>US-Militär: Fehlerhafter KI-Bericht löst beinahe Militärschlag aus</title>
+      <link>https://www.golem.de/news/us-militaer-fehlerhafter-ki-bericht-loest-beinahe-militaerschlag-aus-2609-213240.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/us-militaer-fehlerhafter-ki-bericht-loest-beinahe-militaerschlag-aus-2609-213240.html</guid>
+      <description>Das US-Militär bereitete bereits eine Abfangaktion gegen ein chinesisches Schiff vor, als der KI-Fehler auffiel. (KI, Politik)</description>
+      <pubDate>Sat, 19 Sep 2026 09:26:01 GMT</pubDate>
+    </item>
     <item>
       <title>Globale Lösung angestrebt: EU weist Forderungen nach gemeinsamer Digitalssteuer zurück</title>
       <link>https://www.golem.de/news/globale-loesung-angestrebt-eu-weist-forderungen-nach-gemeinsamer-digitalssteuer-zurueck-2609-213239.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-sicher-administrieren-im-workshop-2609-212953.html</guid>
       <description>Die Verwaltung von Microsoft 365 Umgebungen stellt IT-Administratoren vor komplexe Aufgaben bei Lizenzierung, Migration und Sicherheit. Ein Training vermittelt das nötige Rüstzeug. (Golem Karrierewelt, Unternehmenssoftware)</description>
       <pubDate>Mon, 14 Sep 2026 16:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trotz KI und Cloud: Nachfrage nach klassischer Softwareentwicklung weiterhin hoch</title>
-      <link>https://www.golem.de/news/trotz-ki-und-cloud-nachfrage-nach-klassischer-softwareentwicklung-weiterhin-hoch-2609-213003.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/trotz-ki-und-cloud-nachfrage-nach-klassischer-softwareentwicklung-weiterhin-hoch-2609-213003.html</guid>
-      <description>Der international aufgestellte Personaldienstleister und -vermittler Robert Half sieht kaum einen Rückgang bei Stellengesuchen für Softwareentwicklung. Doch ganz oben sind andere Bereiche. (Arbeit, Studien)</description>
-      <pubDate>Mon, 14 Sep 2026 16:44:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
