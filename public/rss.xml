@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 19 Sep 2026 06:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 08:02:06 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Von C nach Rust: KI bringt Bewegung in die Legacy-Migration</title>
+      <link>https://www.golem.de/news/von-c-nach-rust-ki-bringt-bewegung-in-die-legacy-migration-2609-213199.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/von-c-nach-rust-ki-bringt-bewegung-in-die-legacy-migration-2609-213199.html</guid>
+      <description>Die Migration alter C-Codebasen nach Rust ist ein Mammutprojekt. Agentische KI zerlegt den Prozess in viele kleine, überprüfbare Schritte. Ein Ratgebertext von Otto Geißler (Programmiersprachen, Softwareentwicklung)</description>
+      <pubDate>Sat, 19 Sep 2026 08:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>Bezahlbarer Strom: Kosten der Energiewende gerechter verteilen</title>
       <link>https://www.golem.de/news/bezahlbarer-strom-kosten-der-energiewende-gerechter-verteilen-2609-213183.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/energy-india-s-data-center-boom-creates-new-engine-for-renewable-energy-2609-212994.html</guid>
       <description>Large power needs increase bankability for battery-backed solar and wind projects Von Ananta Agarwal (Rechenzentrum, Golem Plus)</description>
       <pubDate>Mon, 14 Sep 2026 16:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blizzard: Der Starcraft-Shooter bringt Terraner, Zerg und Protoss</title>
-      <link>https://www.golem.de/news/blizzard-der-starcraft-shooter-bringt-terraner-zerg-und-protoss-2609-212997.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/blizzard-der-starcraft-shooter-bringt-terraner-zerg-und-protoss-2609-212997.html</guid>
-      <description>Das neue Starcraft bekommt eine abgeschlossene Kampagne statt saisonaler Inhalte. Auch zur Welt, dem Charakter und den Protoss gibt es Details. (Blizzard, Far Cry)</description>
-      <pubDate>Mon, 14 Sep 2026 14:50:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
