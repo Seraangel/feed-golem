@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 20 Sep 2026 11:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 12:51:19 GMT</lastBuildDate>
+    <item>
+      <title>107 Jahre ungelöst: KI knackt deutschen Funkspruch aus dem Ersten Weltkrieg</title>
+      <link>https://www.golem.de/news/107-jahre-ungeloest-ki-knackt-deutschen-funkspruch-aus-dem-ersten-weltkrieg-2609-213252.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/107-jahre-ungeloest-ki-knackt-deutschen-funkspruch-aus-dem-ersten-weltkrieg-2609-213252.html</guid>
+      <description>Ein Autor namens prinz will mit einem KI-Modell eine deutsche Militärchiffre von 1918 entschlüsselt haben, die bislang als unlösbar galt. (Verschlüsselung, KI)</description>
+      <pubDate>Sun, 20 Sep 2026 12:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Beliebter LAN-Splitter mit zwei GBit-Ports für unter 10 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-beliebter-lan-splitter-mit-zwei-gbit-ports-fuer-unter-10-euro-bei-amazon-2609-213223.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/grok-musk-laesst-klage-gegen-apple-fallen-2609-213024.html</guid>
       <description>Elon Musk war verärgert, dass sein Chatbot Grok nicht die Download-Charts in Apples App Store angeführt hat. Jetzt ist die der Vorwurf ausgeräumt. (Elon Musk, Apple)</description>
       <pubDate>Tue, 15 Sep 2026 08:54:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Softwareprojekte in Gefahr: BSI warnt vor laufenden Angriffen auf Gitlab</title>
-      <link>https://www.golem.de/news/softwareprojekte-in-gefahr-bsi-warnt-vor-laufenden-angriffen-auf-gitlab-2609-213022.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/softwareprojekte-in-gefahr-bsi-warnt-vor-laufenden-angriffen-auf-gitlab-2609-213022.html</guid>
-      <description>Angreifer haben es auf Gitlab-Instanzen abgesehen. Durch eine kritische Path-Traversal-Lücke können sie unter anderem Zugangsdaten abgreifen. (Sicherheitslücke, API)</description>
-      <pubDate>Tue, 15 Sep 2026 08:39:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
