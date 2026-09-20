@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 20 Sep 2026 08:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:36:08 GMT</lastBuildDate>
+    <item>
+      <title>Studie: Junge Sonne könnte eine Supererde verschlungen haben</title>
+      <link>https://www.golem.de/news/studie-junge-sonne-koennte-eine-supererde-verschlungen-haben-2609-213200.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/studie-junge-sonne-koennte-eine-supererde-verschlungen-haben-2609-213200.html</guid>
+      <description>Es gibt Hinweise darauf, dass es im Sonnensystem einmal eine Supererde gab. Der Planet stürzte wahrscheinlich in die Sonne. (Sonne, Studien)</description>
+      <pubDate>Sun, 20 Sep 2026 08:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Risk-Based Patching: Warum der CVSS-Wert allein in die Irre führt</title>
       <link>https://www.golem.de/news/risk-based-patching-warum-der-cvss-wert-allein-in-die-irre-fuehrt-2609-213204.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/oesterreich-alterskontrollen-im-netz-als-doppelblindverfahren-2609-212978.html</guid>
       <description>Ein komplexes kryptografisches Verfahren soll dafür sorgen, dass Identitätsprovider und Videoplattformen nur das Nötigste an Daten bekommen. Die Kollateralschäden dieses nationalen Alleingangs werden ignoriert. Ein IMHO von Erich Moechel (Datenschutz, Youtube)</description>
       <pubDate>Tue, 15 Sep 2026 06:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kunden sind verärgert: Broadcom erschwert und verteuert VMware-Migrationen</title>
-      <link>https://www.golem.de/news/kunden-sind-veraergert-broadcom-erschwert-und-verteuert-vmware-migrationen-2609-213013.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kunden-sind-veraergert-broadcom-erschwert-und-verteuert-vmware-migrationen-2609-213013.html</guid>
-      <description>Wenn sich Kunden von VMware lösen wollen, macht Broadcom dies schwieriger als bisher. Entsprechende Werkzeuge werden nicht länger angeboten. (VMware, Virtualisierung)</description>
-      <pubDate>Tue, 15 Sep 2026 06:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
