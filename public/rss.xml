@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 20 Sep 2026 05:36:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:01:42 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Risk-Based Patching: Warum der CVSS-Wert allein in die Irre führt</title>
+      <link>https://www.golem.de/news/risk-based-patching-warum-der-cvss-wert-allein-in-die-irre-fuehrt-2609-213204.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/risk-based-patching-warum-der-cvss-wert-allein-in-die-irre-fuehrt-2609-213204.html</guid>
+      <description>Cisa hat CVSS als Maßstab für Patchfristen abgeschafft. Vier Fragen entscheiden jetzt. Worauf es dabei ankommt. Ein Ratgebertext von Steffen Zahn (Security, JSON)</description>
+      <pubDate>Sun, 20 Sep 2026 08:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Gopro Mission 1 Pro ILS im Test: Auf diese Actioncam warte ich seit der Hero 6</title>
       <link>https://www.golem.de/news/gopro-mission-1-pro-ils-im-test-auf-diese-actioncam-warte-ich-seit-der-hero-6-2609-213174.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kunden-sind-veraergert-broadcom-erschwert-und-verteuert-vmware-migrationen-2609-213013.html</guid>
       <description>Wenn sich Kunden von VMware lösen wollen, macht Broadcom dies schwieriger als bisher. Entsprechende Werkzeuge werden nicht länger angeboten. (VMware, Virtualisierung)</description>
       <pubDate>Tue, 15 Sep 2026 06:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Space Force: US-Militär bestätigt erstmals Waffen im Weltraum</title>
-      <link>https://www.golem.de/news/space-force-us-militaer-bestaetigt-erstmals-waffen-im-weltraum-2609-213011.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/space-force-us-militaer-bestaetigt-erstmals-waffen-im-weltraum-2609-213011.html</guid>
-      <description>Ein hochrangiger US-Beamter hat erstmals öffentlich eingeräumt, dass die Vereinigten Staaten Waffen im Orbit stationiert haben. (Militär, Politik)</description>
-      <pubDate>Tue, 15 Sep 2026 06:22:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
