@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 20 Sep 2026 08:51:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 08:56:18 GMT</lastBuildDate>
+    <item>
+      <title>Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken</title>
+      <link>https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html</guid>
+      <description>Mit mehr Batteriespeichern sollen 150 Gigawatt zusätzliche Photovoltaikleistung erzeugt werden. Davon sollen alle Stromkunden profitieren. (Solarenergie, Umweltschutz)</description>
+      <pubDate>Sun, 20 Sep 2026 08:52:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bosch Werkzeug Adventkskalender bereits im Amazon-Preisfall</title>
       <link>https://www.golem.de/news/anzeige-bosch-werkzeug-adventkskalender-bereits-im-amazon-preisfall-2609-213245.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ios-27-in-der-presseschau-siri-liefert-endlich-nur-nicht-in-der-eu-2609-213012.html</guid>
       <description>iOS 27 wirkt im Alltag runder. Siri AI hilft spürbar, bleibt aber langsam und startet in der EU vorerst nicht. (iOS, Apple)</description>
       <pubDate>Tue, 15 Sep 2026 07:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Datenschutz bei KI: OpenAI lässt KI-Prompts von Menschen lesen</title>
-      <link>https://www.golem.de/news/datenschutz-bei-ki-openai-laesst-ki-prompts-von-menschen-lesen-2609-213015.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/datenschutz-bei-ki-openai-laesst-ki-prompts-von-menschen-lesen-2609-213015.html</guid>
-      <description>Unterlagen belegen: Externe Dienstleister lesen und bewerten Chatverläufe von ChatGPT-Nutzern zur Verbesserung des Modells. (OpenAI, KI)</description>
-      <pubDate>Tue, 15 Sep 2026 07:06:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
