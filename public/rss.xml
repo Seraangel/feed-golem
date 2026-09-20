@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 20 Sep 2026 09:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 09:41:26 GMT</lastBuildDate>
+    <item>
+      <title>Kettenhemd statt Katze: KI hat gravierende Schwächen beim Erkennen von Formen</title>
+      <link>https://www.golem.de/news/kettenhemd-statt-katze-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen-2609-213248.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kettenhemd-statt-katze-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen-2609-213248.html</guid>
+      <description>Moderne KI kann selbst einfachste Umrisse von Objekten nicht erkennen. Eine Katze wird als Kreuzworträtsel oder Kettenhemd erkannt. (KI, Wissenschaft)</description>
+      <pubDate>Sun, 20 Sep 2026 09:38:09 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Kontroverse: Trump setzt trotz Warnungen vor Gefahren noch stärker auf KI</title>
       <link>https://www.golem.de/news/ki-kontroverse-trump-setzt-trotz-warnungen-vor-gefahren-noch-staerker-auf-ki-2609-213247.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/grafikkarten-nvidia-baut-rtx-5090-mit-84-gbyte-fuer-ki-2609-213018.html</guid>
       <description>Die neue RTX Pro 5500 ähnelt der Geforce RTX 5090, hat aber viel mehr Speicher. Gaming spielt für den Konzern nur noch eine Nebenrolle. (Nvidia, Grafikkarten)</description>
       <pubDate>Tue, 15 Sep 2026 07:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonomer Umweg: Cybercab-Fahrt dauert 70 Minuten statt nur 10</title>
-      <link>https://www.golem.de/news/autonomer-umweg-cybercab-fahrt-dauert-70-minuten-statt-nur-10-2609-213016.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonomer-umweg-cybercab-fahrt-dauert-70-minuten-statt-nur-10-2609-213016.html</guid>
-      <description>Tesla lässt seine Robotaxis und Cybercabs nicht auf Autobahnen fahren. Für einen Fahrgast bedeutete das einen einstündigen Umweg. (Cybercab, Elektroauto)</description>
-      <pubDate>Tue, 15 Sep 2026 07:37:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
