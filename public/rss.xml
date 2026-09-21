@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 08:01:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:21:14 GMT</lastBuildDate>
+    <item>
+      <title>LibertyV: 192 GByte großes Leak bestätigt Liberty City in GTA 5</title>
+      <link>https://www.golem.de/news/libertyv-192-gbyte-grosses-leak-bestaetigt-liberty-city-in-gta-5-2609-213260.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/libertyv-192-gbyte-grosses-leak-bestaetigt-liberty-city-in-gta-5-2609-213260.html</guid>
+      <description>Der LibertyV-DLC hätte die Spielwelt von GTA 5 enorm vergrößert. Auch sind frühe Infos zu GTA 6 enthalten. (GTA 5, Rockstar)</description>
+      <pubDate>Mon, 21 Sep 2026 08:16:01 GMT</pubDate>
+    </item>
     <item>
       <title>Investitionen in KI: Tech-Konzerne lagern immer mehr Schulden aus</title>
       <link>https://www.golem.de/news/investitionen-in-ki-tech-konzerne-lagern-immer-mehr-schulden-aus-2609-213259.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/dimensity-9600-pro-mediatek-praesentiert-neues-2-nm-soc-mit-arm-c2-kernen-2609-213039.html</guid>
       <description>Der Dimensity 9600 Pro kommt mit Arms jüngst vorgestellten, leistungsfähigen C2-Kernen und wird von TSMC im 2-nm-Verfahren hergestellt. (Mediatek, Smartphone)</description>
       <pubDate>Tue, 15 Sep 2026 11:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Typsicherheit für Javascript: Wie Typescript die Webentwicklung verändert hat</title>
-      <link>https://www.golem.de/news/typsicherheit-fuer-javascript-wie-typescript-die-webentwicklung-veraendert-hat-2609-213026.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/typsicherheit-fuer-javascript-wie-typescript-die-webentwicklung-veraendert-hat-2609-213026.html</guid>
-      <description>Javascript ohne Typen war lange der Normalzustand. Typescript setzt genau dort an und macht dynamischen Code robuster. Ein Ratgebertext von Marco Dahms (TypeScript, Programmiersprachen)</description>
-      <pubDate>Tue, 15 Sep 2026 11:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
