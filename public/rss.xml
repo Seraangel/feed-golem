@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 07:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:01:11 GMT</lastBuildDate>
+    <item>
+      <title>Investitionen in KI: Tech-Konzerne lagern immer mehr Schulden aus</title>
+      <link>https://www.golem.de/news/investitionen-in-ki-tech-konzerne-lagern-immer-mehr-schulden-aus-2609-213259.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/investitionen-in-ki-tech-konzerne-lagern-immer-mehr-schulden-aus-2609-213259.html</guid>
+      <description>Zur Absicherung der Investitionen in KI-Infrastruktur setzen Unternehmen wie Broadcom, Nvidia und Meta auf Restwertgarantien für Zweckgesellschaften. (KI, Nvidia)</description>
+      <pubDate>Mon, 21 Sep 2026 07:59:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: C64 als aufklappbares Retro-Handheld jetzt wieder vorbestellbar</title>
       <link>https://www.golem.de/news/anzeige-c64-als-aufklappbares-retro-handheld-jetzt-wieder-vorbestellbar-2609-213257.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/typsicherheit-fuer-javascript-wie-typescript-die-webentwicklung-veraendert-hat-2609-213026.html</guid>
       <description>Javascript ohne Typen war lange der Normalzustand. Typescript setzt genau dort an und macht dynamischen Code robuster. Ein Ratgebertext von Marco Dahms (TypeScript, Programmiersprachen)</description>
       <pubDate>Tue, 15 Sep 2026 11:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Donald Trump: "Für KI-Kontrolle reicht ein intelligenter US-Präsident"</title>
-      <link>https://www.golem.de/news/donald-trump-fuer-ki-kontrolle-reicht-ein-intelligenter-us-praesident-2609-213034.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/donald-trump-fuer-ki-kontrolle-reicht-ein-intelligenter-us-praesident-2609-213034.html</guid>
-      <description>Trotz gegenteiliger Mehrheitsmeinung weist US-Präsident Trump Forderungen nach mehr KI-Regulierung forsch zurück. (KI, Datenschutz)</description>
-      <pubDate>Tue, 15 Sep 2026 11:19:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
