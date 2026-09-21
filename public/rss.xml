@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 15:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:56:13 GMT</lastBuildDate>
+    <item>
+      <title>US-Luftschlag auf iranische Schule: Palantir kann keine falschen Daten kompensieren</title>
+      <link>https://www.golem.de/news/us-luftschlag-auf-iranische-schule-palantir-kann-keine-falschen-daten-kompensieren-2609-213289.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/us-luftschlag-auf-iranische-schule-palantir-kann-keine-falschen-daten-kompensieren-2609-213289.html</guid>
+      <description>In der ersten Welle des US-Angriffs auf Iran starben 123 Kinder in einer Schule. Mitursache soll zu viel Vertrauen in Palantir-Software gewesen sein. Von Friedhelm Greis (Palantir, KI)</description>
+      <pubDate>Mon, 21 Sep 2026 15:51:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 300 Euro Rabatt auf Mini-LED-TV - Sony Bravia 5 wieder zum Prime-Day-Preis</title>
       <link>https://www.golem.de/news/anzeige-300-euro-rabatt-auf-mini-led-tv-sony-bravia-5-wieder-zum-prime-day-preis-2609-213288.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/debattenkultur-im-netz-merz-pocht-auf-klarnamenpflicht-2609-213068.html</guid>
       <description>Bundeskanzler Friedrich Merz fordert erneut Klarnamen im Netz und grenzt sich vom US-amerikanischen Meinungsfreiheitsverständnis ab. (Klarnamenzwang, Politik)</description>
       <pubDate>Wed, 16 Sep 2026 05:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Browser: Firefox 156 bekommt Werbeeinblendungen</title>
-      <link>https://www.golem.de/news/browser-firefox-156-bekommt-werbeeinblendungen-2609-213067.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/browser-firefox-156-bekommt-werbeeinblendungen-2609-213067.html</guid>
-      <description>Mozilla hat Firefox 156 veröffentlicht. Der Browser startet jetzt automatisch mit MacOS, öffnet PDFs schneller und räumt mit vielen Bugs auf. (Firefox, Browser)</description>
-      <pubDate>Wed, 16 Sep 2026 05:35:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
