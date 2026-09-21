@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 08:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 08:26:04 GMT</lastBuildDate>
+    <item>
+      <title>Behörde warnt: Angriffe auf Lücken im Linux-Kernel beobachtet</title>
+      <link>https://www.golem.de/news/behoerde-warnt-angriffe-auf-luecken-im-linux-kernel-beobachtet-2609-213261.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/behoerde-warnt-angriffe-auf-luecken-im-linux-kernel-beobachtet-2609-213261.html</guid>
+      <description>Die Cisa warnt vor laufenden Angriffen auf Linux-Systeme über drei gefährliche Sicherheitslücken in Kernel-Komponenten. Korrekturen sind verfügbar. (Sicherheitslücke, Linux-Kernel)</description>
+      <pubDate>Mon, 21 Sep 2026 08:24:02 GMT</pubDate>
+    </item>
     <item>
       <title>LibertyV: 192 GByte großes Leak bestätigt Liberty City in GTA 5</title>
       <link>https://www.golem.de/news/libertyv-192-gbyte-grosses-leak-bestaetigt-liberty-city-in-gta-5-2609-213260.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-smartphone-mit-40-gbyte-datenvolumen-fuer-nur-1-euro-bei-blau-2609-213029.html</guid>
       <description>Das Smartphone Xiaomi Redmi Note 17 Pro Max 5G gibt es mit 40 GByte Datenvolumen zusammen mit der Xiaomi Redmi Watch 6 für 1 Euro bei Blau. (Blau.de, Smartphone)</description>
       <pubDate>Tue, 15 Sep 2026 11:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dimensity 9600 Pro: Mediatek präsentiert neues 2-nm-SoC mit Arm-C2-Kernen</title>
-      <link>https://www.golem.de/news/dimensity-9600-pro-mediatek-praesentiert-neues-2-nm-soc-mit-arm-c2-kernen-2609-213039.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/dimensity-9600-pro-mediatek-praesentiert-neues-2-nm-soc-mit-arm-c2-kernen-2609-213039.html</guid>
-      <description>Der Dimensity 9600 Pro kommt mit Arms jüngst vorgestellten, leistungsfähigen C2-Kernen und wird von TSMC im 2-nm-Verfahren hergestellt. (Mediatek, Smartphone)</description>
-      <pubDate>Tue, 15 Sep 2026 11:44:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
