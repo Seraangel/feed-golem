@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 09:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:56:11 GMT</lastBuildDate>
+    <item>
+      <title>Synology warnt: Kritische NAS-Lücken ermöglichen Datenklau</title>
+      <link>https://www.golem.de/news/synology-warnt-kritische-nas-luecken-ermoeglichen-datenklau-2609-213268.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/synology-warnt-kritische-nas-luecken-ermoeglichen-datenklau-2609-213268.html</guid>
+      <description>Angreifer können durch mehrere Sicherheitslücken lesend und schreibend auf NAS-Geräte von Synology zugreifen. Patches sind verfügbar. (Sicherheitslücke, NAS)</description>
+      <pubDate>Mon, 21 Sep 2026 09:52:09 GMT</pubDate>
+    </item>
     <item>
       <title>Smarte Lautsprecher: Amazon deaktiviert Aux-Sprachsteuerung auf Echo-Lautsprechern</title>
       <link>https://www.golem.de/news/smarte-lautsprecher-amazon-deaktiviert-aux-sprachsteuerung-auf-echo-lautsprechern-2609-213265.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kraftvoller-saugroboter-mit-wischfunktion-zum-sparpreis-bei-amazon-2609-213044.html</guid>
       <description>Der Saugroboter Dreame L40 Ultra A mit Wischfunktion, 24.000-Pa-Saukraft und multifunktionaler Basisstation ist bei Amazon stark reduziert. (Saugroboter, Technik/Hardware)</description>
       <pubDate>Tue, 15 Sep 2026 12:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSPMAN: Sonys PSP-Handhelds werden zu Musik-Playern</title>
-      <link>https://www.golem.de/news/pspman-sonys-psp-handhelds-werden-zu-musik-playern-2609-213042.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pspman-sonys-psp-handhelds-werden-zu-musik-playern-2609-213042.html</guid>
-      <description>Mit der App PSPMAN wird Sonys altes Handheld zum Walkman. Abgespielt werden FLAC- und MP3-Dateien - bis zu 1.000 Stück können geladen werden. (Sony, Homebrew)</description>
-      <pubDate>Tue, 15 Sep 2026 12:40:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
