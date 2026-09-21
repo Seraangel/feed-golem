@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 11:26:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 11:31:06 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Windows-Lücken: Die Rückkehr der Würmer</title>
+      <link>https://www.golem.de/news/windows-luecken-die-rueckkehr-der-wuermer-2609-213269.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-luecken-die-rueckkehr-der-wuermer-2609-213269.html</guid>
+      <description>Laut Zero Day Initiative sind 20 der neuen Windows-Lücken wurmfähig. Was Wannacry lehrt und was Admins absichern. Ein Ratgebertext von Steffen Zahn (Security, IBM)</description>
+      <pubDate>Mon, 21 Sep 2026 11:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ultimea-Poseidon-M20-Pro 2.1-Soundbar für rund 60 Euro bei Amazon im Angebot</title>
       <link>https://www.golem.de/news/anzeige-ultimea-poseidon-m20-pro-2-1-soundbar-fuer-rund-60-euro-bei-amazon-im-angebot-2609-213273.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elektro-bus-mit-800-volt-kia-greift-mit-pv7-die-transporterkonkurrenz-an-2609-213051.html</guid>
       <description>Nach dem PV5 bringt Kia einen deutlich größeren Elektrobus auf den Markt. Dieser ermöglicht hohe Ladeleistungen. (Elektrobus, Technologie)</description>
       <pubDate>Tue, 15 Sep 2026 14:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Connect Europe: Wie Europas Telco-Konzerne den Digital Networks Act kapern wollen</title>
-      <link>https://www.golem.de/news/connect-europe-wie-europas-telco-konzerne-den-digital-networks-act-kapern-wollen-2609-213049.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/connect-europe-wie-europas-telco-konzerne-den-digital-networks-act-kapern-wollen-2609-213049.html</guid>
-      <description>Ehemals staatliche Telcos fordern schrankenlose Marktmacht. Der Wettbewerb übt scharfe Kritik an der Konservierung der Kupfernetze. Ein Bericht von Achim Sawall (Breko, Glasfaser)</description>
-      <pubDate>Tue, 15 Sep 2026 13:49:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
