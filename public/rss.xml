@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 11:46:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 12:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Antimaterie: Antiprotonen für einen Monat aufbewahrt</title>
+      <link>https://www.golem.de/news/antimaterie-antiprotonen-fuer-einen-monat-aufbewahrt-2609-213277.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/antimaterie-antiprotonen-fuer-einen-monat-aufbewahrt-2609-213277.html</guid>
+      <description>Auswertung des Transports von Antimaterie zeigen, dass Untersuchungen zu Unterschieden zwischen Materie und Antimaterie bald starten könnten. (Antimaterie, LHC)</description>
+      <pubDate>Mon, 21 Sep 2026 11:59:08 GMT</pubDate>
+    </item>
     <item>
       <title>Arbeitsspeicher aus China: CXMTs G5-Plattform ist in der Massenproduktion</title>
       <link>https://www.golem.de/news/arbeitsspeicher-aus-china-cxmts-g5-plattform-ist-in-der-massenproduktion-2609-213272.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spieleabo-game-pass-koennte-seine-day-one-spiele-verlieren-2609-213054.html</guid>
       <description>Microsoft soll einen grundlegenden Umbau des Game Pass vorbereiten. Neue Spiele könnten ab 2027 nicht mehr direkt zum Release im Abo erscheinen. (Xbox Game Pass, Microsoft)</description>
       <pubDate>Tue, 15 Sep 2026 14:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cybersecurity Act (CSA): Europäische Telco-CEOs wehren sich gegen ein Huawei-Verbot</title>
-      <link>https://www.golem.de/news/cybersecurity-act-csa-europaeische-telco-ceos-wehren-sich-gegen-ein-huawei-verbot-2609-213053.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cybersecurity-act-csa-europaeische-telco-ceos-wehren-sich-gegen-ein-huawei-verbot-2609-213053.html</guid>
-      <description>Der politisch gewollte Bann chinesischer Ausrüster droht die europäischen Netze zu ruinieren. Europäische Souveränität durch Nokia und Ericsson erweist sich als Trugschluss. Eine Analyse von Achim Sawall (Huawei, API)</description>
-      <pubDate>Tue, 15 Sep 2026 14:41:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
