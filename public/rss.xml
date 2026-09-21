@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 14:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:56:17 GMT</lastBuildDate>
+    <item>
+      <title>Online-Glücksspiel: KI animiert Wettverlierer mit Boni zum Weiterspielen</title>
+      <link>https://www.golem.de/news/online-gluecksspiel-ki-animiert-wettverlierer-mit-boni-zum-weiterspielen-2609-213286.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/online-gluecksspiel-ki-animiert-wettverlierer-mit-boni-zum-weiterspielen-2609-213286.html</guid>
+      <description>Der Sportwettenanbieter Draftkings soll mit einem KI-Modell gezielt vulnerable Kunden animiert haben, mehr Geld für Wetten auszugeben. (KI, Computersucht)</description>
+      <pubDate>Mon, 21 Sep 2026 14:51:08 GMT</pubDate>
+    </item>
     <item>
       <title>Boom bleibt aus: Weltweit 7.000 humanoide Roboter verkauft</title>
       <link>https://www.golem.de/news/boom-bleibt-aus-weltweit-7-000-humanoide-roboter-verkauft-2609-213284.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-lego-star-wars-adventskalender-bei-amazon-nun-unter-vergleichspreis-2609-213062.html</guid>
       <description>Bei Amazon läuft eine Coupon-Aktion um die Lego-Adventskalender. Lego Star Wars gibt es so schon unter Vergleichspreis. (Star Wars, Lego)</description>
       <pubDate>Tue, 15 Sep 2026 16:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Claude Code für agentische Softwareentwicklung</title>
-      <link>https://www.golem.de/news/anzeige-claude-code-fuer-agentische-softwareentwicklung-2609-213006.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-claude-code-fuer-agentische-softwareentwicklung-2609-213006.html</guid>
-      <description>Claude Code überträgt AI-Coding in konkrete Entwicklungsabläufe. Ein Workshop der Golem Karrierewelt vermittelt Grundlagen und fortgeschrittene agentische Workflows. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Tue, 15 Sep 2026 16:45:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
