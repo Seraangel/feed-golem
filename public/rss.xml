@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 14:56:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:16:22 GMT</lastBuildDate>
+    <item>
+      <title>Teardown von iFixit: Blende von iPhone 18 Pro nicht wirklich reparierbar</title>
+      <link>https://www.golem.de/news/teardown-von-ifixit-blende-von-iphone-18-pro-nicht-wirklich-reparierbar-2609-213287.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/teardown-von-ifixit-blende-von-iphone-18-pro-nicht-wirklich-reparierbar-2609-213287.html</guid>
+      <description>iFixit zerlegt das iPhone 18 Pro. Die variable Blende der Hauptkamera lässt sich demnach kaum reparieren. (iFixit, Apple)</description>
+      <pubDate>Mon, 21 Sep 2026 15:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Online-Glücksspiel: KI animiert Wettverlierer mit Boni zum Weiterspielen</title>
       <link>https://www.golem.de/news/online-gluecksspiel-ki-animiert-wettverlierer-mit-boni-zum-weiterspielen-2609-213286.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-213058.html</guid>
       <description>Ansible ermöglicht die automatisierte Konfiguration und Verwaltung von Linux-Systemen. Die Golem Karrierewelt vermittelt dafür Grundlagen und fortgeschrittene Techniken. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Wed, 16 Sep 2026 05:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Lego Star Wars Adventskalender bei Amazon nun unter Vergleichspreis</title>
-      <link>https://www.golem.de/news/anzeige-lego-star-wars-adventskalender-bei-amazon-nun-unter-vergleichspreis-2609-213062.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-lego-star-wars-adventskalender-bei-amazon-nun-unter-vergleichspreis-2609-213062.html</guid>
-      <description>Bei Amazon läuft eine Coupon-Aktion um die Lego-Adventskalender. Lego Star Wars gibt es so schon unter Vergleichspreis. (Star Wars, Lego)</description>
-      <pubDate>Tue, 15 Sep 2026 16:59:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
