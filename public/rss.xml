@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 07:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 07:31:18 GMT</lastBuildDate>
+    <item>
+      <title>China-Autos: Audi klagt gegen AUDI-Importeur</title>
+      <link>https://www.golem.de/news/china-autos-audi-klagt-gegen-audi-importeur-2609-213258.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/china-autos-audi-klagt-gegen-audi-importeur-2609-213258.html</guid>
+      <description>Ein deutscher Händler importiert die exklusiv für China gebauten Elektromodelle AUDI E5 Sportback und E7X. Audi geht juristisch dagegen vor. (Audi, Auto)</description>
+      <pubDate>Mon, 21 Sep 2026 07:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Für Blackberry- und Palm-Fans: Auf diesem Smartphone nervt keine ungenaue Bildschirmtastatur</title>
       <link>https://www.golem.de/news/fuer-blackberry-und-palm-fans-auf-diesem-smartphone-nervt-keine-ungenaue-bildschirmtastatur-2609-213256.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/the-exploration-company-nyx-raumkapsel-erhaelt-esa-vertrag-fuer-flug-zur-iss-2609-213021.html</guid>
       <description>Die Exploration Company hat einen Vertrag mit der Esa über bis zu 760 Millionen Euro abgeschlossen. Ihre Nyx-Raumsonde soll 2028 zur ISS fliegen. (ESA, Raumfahrt)</description>
       <pubDate>Tue, 15 Sep 2026 11:08:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Confidential Computing gebrochen: DDRop-Angriff ermöglicht Datenklau in der Cloud</title>
-      <link>https://www.golem.de/news/confidential-computing-gebrochen-ddrop-angriff-ermoeglicht-datenklau-in-der-cloud-2609-213031.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/confidential-computing-gebrochen-ddrop-angriff-ermoeglicht-datenklau-in-der-cloud-2609-213031.html</guid>
-      <description>Ein kleines Gerät für nur 159 US-Dollar lässt Angreifer verschlüsselte Daten aus dem RAM fremder Cloud-Instanzen abgreifen. Einen Patch gibt es nicht. (Sicherheitslücke, Prozessor)</description>
-      <pubDate>Tue, 15 Sep 2026 10:55:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
