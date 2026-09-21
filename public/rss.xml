@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 15:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 15:46:14 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: 300 Euro Rabatt auf Mini-LED-TV - Sony Bravia 5 wieder zum Prime-Day-Preis</title>
+      <link>https://www.golem.de/news/anzeige-300-euro-rabatt-auf-mini-led-tv-sony-bravia-5-wieder-zum-prime-day-preis-2609-213288.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-300-euro-rabatt-auf-mini-led-tv-sony-bravia-5-wieder-zum-prime-day-preis-2609-213288.html</guid>
+      <description>Der Sony Bravia 5 kombiniert Mini LED, 120 Hz und Dolby Vision auf 65 Zoll. Bei Amazon kostet der Fernseher aktuell wieder so wenig wie am vergangenen Prime Day. Ganz am Tiefstpreis ist das Angebot allerdings nicht. (Fernseher, Sony)</description>
+      <pubDate>Mon, 21 Sep 2026 15:38:09 GMT</pubDate>
+    </item>
     <item>
       <title>Teardown von iFixit: Blende von iPhone 18 Pro nicht wirklich reparierbar</title>
       <link>https://www.golem.de/news/teardown-von-ifixit-blende-von-iphone-18-pro-nicht-wirklich-reparierbar-2609-213287.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/browser-firefox-156-bekommt-werbeeinblendungen-2609-213067.html</guid>
       <description>Mozilla hat Firefox 156 veröffentlicht. Der Browser startet jetzt automatisch mit MacOS, öffnet PDFs schneller und räumt mit vielen Bugs auf. (Firefox, Browser)</description>
       <pubDate>Wed, 16 Sep 2026 05:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Ansible für automatisiertes Systemmanagement</title>
-      <link>https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-213058.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-automatisiertes-systemmanagement-2609-213058.html</guid>
-      <description>Ansible ermöglicht die automatisierte Konfiguration und Verwaltung von Linux-Systemen. Die Golem Karrierewelt vermittelt dafür Grundlagen und fortgeschrittene Techniken. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Wed, 16 Sep 2026 05:15:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
