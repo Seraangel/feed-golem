@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 22 Sep 2026 06:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Maschinen-Herrschaft abgesagt: Warum die KI-Panikmache Unfug ist</title>
+      <link>https://www.golem.de/news/maschinen-herrschaft-abgesagt-warum-die-ki-panikmache-unfug-ist-2609-213279.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/maschinen-herrschaft-abgesagt-warum-die-ki-panikmache-unfug-ist-2609-213279.html</guid>
+      <description>Warum LLMs keine AGI sind und ich keine Angst vor der KI-Tyrannei habe. Über die Grenzen künstlicher Intelligenz. Ein IMHO von Tim Elsner (ChatGPT, KI)</description>
+      <pubDate>Tue, 22 Sep 2026 07:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft gesteht: Update-Panne macht Dateiversionsverlauf von Windows kaputt</title>
       <link>https://www.golem.de/news/microsoft-gesteht-update-panne-macht-dateiversionsverlauf-von-windows-kaputt-2609-213294.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bessere-ergebnisse-bei-synchronisationen-amazon-manipuliert-nachtraeglich-lippenbewegungen-in-prime-video-2609-213074.html</guid>
       <description>Amazon verändert nachträglich die Lippenbewegungen in Filmen und Serien in Prime Video. Damit sollen Synchronisationen natürlicher erscheinen. (Prime Video, KI)</description>
       <pubDate>Wed, 16 Sep 2026 08:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>VW ID.Neo GTI: Alter Wein in roten Schläuchen</title>
-      <link>https://www.golem.de/news/vw-id-neo-gti-alter-wein-in-roten-schlaeuchen-2609-213066.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vw-id-neo-gti-alter-wein-in-roten-schlaeuchen-2609-213066.html</guid>
-      <description>VW bringt erstmals eine GTI-Version des ID.3 auf den Markt. Die Leistungsdaten erinnern stark an ein früheres Elektroauto-Modell. Ein Bericht von Friedhelm Greis (Volkswagen ID., Elektroauto)</description>
-      <pubDate>Wed, 16 Sep 2026 08:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
