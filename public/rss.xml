@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 21 Sep 2026 16:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 05:16:12 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Purview: Daten klassifizieren und Risiken steuern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-purview-daten-klassifizieren-und-risiken-steuern-2609-213111.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-daten-klassifizieren-und-risiken-steuern-2609-213111.html</guid>
+      <description>Microsoft Purview bündelt Funktionen für Klassifizierung und Datenschutz. Die Golem Karrierewelt zeigt, wie Labels, DLP und Insider Risk zusammenspielen. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Tue, 22 Sep 2026 05:15:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tägliche Strafzahlungen drohen: Paramount muss Warner-Übernahme schnell abschließen</title>
+      <link>https://www.golem.de/news/taegliche-strafzahlungen-drohen-paramount-muss-warner-uebernahme-schnell-abschliessen-2609-213292.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/taegliche-strafzahlungen-drohen-paramount-muss-warner-uebernahme-schnell-abschliessen-2609-213292.html</guid>
+      <description>Ab nächstem Monat müsste Paramount täglich sieben Millionen US-Dollar an Warner-Aktionäre zahlen, falls der Zeitplan nicht eingehalten wird. (Paramount, Streaming)</description>
+      <pubDate>Tue, 22 Sep 2026 05:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft 365 DSGVO-konform konfigurieren und betreiben</title>
       <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-konfigurieren-und-betreiben-2609-213113.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/certified-re-newed-galaxy-s26-generalueberholt-oft-teurer-als-neuware-2609-213072.html</guid>
       <description>Samsung nimmt die Galaxy-S26-Reihe in sein Aufbereitungsprogramm auf. Der Kauf gebrauchter Modelle lohnt sich preislich aber kaum. (Smartphone, Samsung)</description>
       <pubDate>Wed, 16 Sep 2026 07:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: NIS-2 verlangt MFA - so rüsten Firmen ihr Active Directory nach</title>
-      <link>https://www.golem.de/news/anzeige-nis-2-verlangt-mfa-so-ruesten-firmen-ihr-active-directory-nach-2609-212806.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-nis-2-verlangt-mfa-so-ruesten-firmen-ihr-active-directory-nach-2609-212806.html</guid>
-      <description>NIS-2 schreibt MFA vor - Active Directory bietet dafür kaum Bordmittel. Specops Secure Access sichert Windows, VPN und RDP: phishing-resistent und offline-fähig. (Security, Datensicherheit)</description>
-      <pubDate>Wed, 16 Sep 2026 07:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz: Nvidia-CEO Jensen Huang lehnt Regulierung ab</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-nvidia-ceo-jensen-huang-lehnt-regulierung-ab-2609-213071.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-nvidia-ceo-jensen-huang-lehnt-regulierung-ab-2609-213071.html</guid>
-      <description>Jensen Huang sieht KI-Sicherheit als technisches Problem. Der Markt regele den Schutz vor fehlerhaften Produkten selbst. (Nvidia, KI)</description>
-      <pubDate>Wed, 16 Sep 2026 06:55:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
