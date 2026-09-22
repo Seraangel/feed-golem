@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 22 Sep 2026 13:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:21:16 GMT</lastBuildDate>
+    <item>
+      <title>Lilith Wittmann: Hackerin deckt Geflecht illegaler Online-Casinos auf</title>
+      <link>https://www.golem.de/news/lilith-wittmann-hackerin-deckt-geflecht-illegaler-online-casinos-auf-2609-213319.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/lilith-wittmann-hackerin-deckt-geflecht-illegaler-online-casinos-auf-2609-213319.html</guid>
+      <description>Neun Monate lang hatte Lilith Wittmann Zugriff auf die Server der Glücksspielbehörde von Curaçao. Hunderte Betreiber von Online-Casinos wurden enttarnt. Ein Bericht von Friedhelm Greis (Unterhaltung &amp; Hobby, Computersucht)</description>
+      <pubDate>Tue, 22 Sep 2026 13:16:10 GMT</pubDate>
+    </item>
     <item>
       <title>AEM-Elektolyse: Kommerzielle Wasserstoffproduktion in Antwerpen gestartet</title>
       <link>https://www.golem.de/news/aem-elektolyse-kommerzielle-wasserstoffproduktion-in-antwerpen-gestartet-2609-213317.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-avm-fritz-box-router-zum-amazon-bestpreis-2609-213096.html</guid>
       <description>Leistungsstarke Router bilden das Herzstück des Heimnetzwerks. Amazon bietet die FRITZ!Box 6690 Cable aktuell für unter 250 Euro zum Amazon-Bestpreis an. (Technik/Hardware)</description>
       <pubDate>Wed, 16 Sep 2026 12:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software-Defined Defence: Rheinmetall veröffentlicht Militärschnittstellen als Open Source</title>
-      <link>https://www.golem.de/news/software-defined-defence-rheinmetall-veroeffentlicht-militaerschnittstellen-als-open-source-2609-213084.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/software-defined-defence-rheinmetall-veroeffentlicht-militaerschnittstellen-als-open-source-2609-213084.html</guid>
-      <description>Rheinmetall legt Schnittstellen seiner Militärplattform als Open Source frei. Ein Blick in die Dokumentation zeigt aber: Offen ist hier nur ein Teil. (Softwareentwicklung, API)</description>
-      <pubDate>Wed, 16 Sep 2026 12:05:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
