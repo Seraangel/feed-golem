@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 22 Sep 2026 16:36:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:46:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ansible für Deployment und Systemmanagement</title>
+      <link>https://www.golem.de/news/anzeige-ansible-fuer-deployment-und-systemmanagement-2609-213121.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-deployment-und-systemmanagement-2609-213121.html</guid>
+      <description>Ansible Fundamentals erleichtern die automatisierte Verwaltung von Linux-Systemen. Ein Online-Workshop vermittelt Konfiguration, Playbooks, Rollen und Deployment. (Golem Karrierewelt, Open Source)</description>
+      <pubDate>Tue, 22 Sep 2026 16:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Mini-PC mit Ryzen 5, 16 GByte RAM und 1 TByte SSD zum Jahresbestpreis</title>
       <link>https://www.golem.de/news/anzeige-mini-pc-mit-ryzen-5-16-gbyte-ram-und-1-tbyte-ssd-zum-jahresbestpreis-2609-213327.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kabelloser-etikettendrucker-mit-app-fuer-16-14-euro-bei-amazon-2609-213118.html</guid>
       <description>Amazon hat einen kabellosen Etikettendrucker im Angebot, mit dem sich individuelle Beschriftungen per Smartphone erstellen lassen. (Drucker, Epson)</description>
       <pubDate>Wed, 16 Sep 2026 14:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Winbond: Infineon verkauft Teil seines Speichergeschäfts in den USA</title>
-      <link>https://www.golem.de/news/winbond-infineon-verkauft-teil-seines-speichergeschaefts-in-den-usa-2609-213116.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/winbond-infineon-verkauft-teil-seines-speichergeschaefts-in-den-usa-2609-213116.html</guid>
-      <description>Infineon verkauft einen kleineren Teil seines Speichergeschäfts für 1,12 Milliarden US-Dollar. Winbound aus Taiwan erweitert damit sein NOR-Flash-Geschäft und setzt auf F-RAM. (Infineon, Wirtschaft)</description>
-      <pubDate>Wed, 16 Sep 2026 14:35:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
