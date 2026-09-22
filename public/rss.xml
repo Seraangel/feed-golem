@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 22 Sep 2026 10:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:46:13 GMT</lastBuildDate>
+    <item>
+      <title>Von TypeScript und Node.js: Github migriert mit KI 800.000 Codezeilen nach Rust</title>
+      <link>https://www.golem.de/news/von-typescript-und-node-js-github-migriert-mit-ki-800-000-codezeilen-nach-rust-2609-213310.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/von-typescript-und-node-js-github-migriert-mit-ki-800-000-codezeilen-nach-rust-2609-213310.html</guid>
+      <description>Obwohl das Migrationsprojekt von Github mithilfe von KI ökonomisch machbar war, blieb die menschliche Kontrolle unerlässlich. (KI, Javascript)</description>
+      <pubDate>Tue, 22 Sep 2026 10:45:02 GMT</pubDate>
+    </item>
     <item>
       <title>Laden in 30 Minuten: LKW MAN eTGX fährt 720 Kilometer ohne Diesel</title>
       <link>https://www.golem.de/news/laden-in-30-minuten-lkw-man-etgx-faehrt-720-kilometer-ohne-diesel-2609-213305.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spielebranche-wardogs-chef-wehrt-sich-gegen-vorwurf-von-pflicht-crunch-2609-213090.html</guid>
       <description>Nach heftiger Kritik an der Arbeitskultur bei Bulkhead wehrt sich Studiochef Joe Brammer. Von verpflichtendem Crunch sei nie die Rede gewesen. (Actionspiel, Spiele)</description>
       <pubDate>Wed, 16 Sep 2026 10:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google warnt: Gefährliche Modem-Lücke in Pixel-Smartphones unter Beschuss</title>
-      <link>https://www.golem.de/news/google-warnt-gefaehrliche-modem-luecke-in-pixel-smartphones-unter-beschuss-2609-213089.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/google-warnt-gefaehrliche-modem-luecke-in-pixel-smartphones-unter-beschuss-2609-213089.html</guid>
-      <description>Die neuen Updates für Google-Pixel-Geräte schließen Hunderte von Sicherheitslücken. Eine ist besonders gefährlich und wird bereits ausgenutzt. (Sicherheitslücke, Google)</description>
-      <pubDate>Wed, 16 Sep 2026 10:40:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
