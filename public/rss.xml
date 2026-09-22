@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 22 Sep 2026 12:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:01:46 GMT</lastBuildDate>
+    <item>
+      <title>AEM-Elektolyse: Kommerzielle Wasserstoffproduktion in Antwerpen gestartet</title>
+      <link>https://www.golem.de/news/aem-elektolyse-kommerzielle-wasserstoffproduktion-in-antwerpen-gestartet-2609-213317.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/aem-elektolyse-kommerzielle-wasserstoffproduktion-in-antwerpen-gestartet-2609-213317.html</guid>
+      <description>Am Hafen von Antwerpen ist eine Produktionsanlage für Wasserstoff aus Strom eröffnet worden. Nicht nur die Größe der Anlage macht sie zukunftsfähig. (Wasserstoff, Brennstoffzelle)</description>
+      <pubDate>Tue, 22 Sep 2026 12:59:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Grand Theft Auto VI: The Album jetzt bei Amazon auf Vinyl oder CD vorbestellbar</title>
       <link>https://www.golem.de/news/anzeige-grand-theft-auto-vi-the-album-jetzt-bei-amazon-auf-vinyl-oder-cd-vorbestellbar-2609-213314.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/software-defined-defence-rheinmetall-veroeffentlicht-militaerschnittstellen-als-open-source-2609-213084.html</guid>
       <description>Rheinmetall legt Schnittstellen seiner Militärplattform als Open Source frei. Ein Blick in die Dokumentation zeigt aber: Offen ist hier nur ein Teil. (Softwareentwicklung, API)</description>
       <pubDate>Wed, 16 Sep 2026 12:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Softwareentwicklung: Wo KI beim Programmieren stark ist - und wo nicht</title>
-      <link>https://www.golem.de/news/softwareentwicklung-wo-ki-beim-programmieren-stark-ist-und-wo-nicht-2609-213079.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-wo-ki-beim-programmieren-stark-ist-und-wo-nicht-2609-213079.html</guid>
-      <description>KI schreibt immer besseren Code. Doch Software Engineering verlangt Kontext, Abwägung und Erfahrung. Genau dort liegen die Grenzen. Ein Ratgebertext von Klaus Manhart (Softwareentwicklung, KI)</description>
-      <pubDate>Wed, 16 Sep 2026 11:30:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
