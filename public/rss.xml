@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 22 Sep 2026 06:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:46:16 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft gesteht: Update-Panne macht Dateiversionsverlauf von Windows kaputt</title>
+      <link>https://www.golem.de/news/microsoft-gesteht-update-panne-macht-dateiversionsverlauf-von-windows-kaputt-2609-213294.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-gesteht-update-panne-macht-dateiversionsverlauf-von-windows-kaputt-2609-213294.html</guid>
+      <description>Die Windows-Updates von September ziehen allerhand Probleme nach sich. Auch der Dateiversionsverlauf funktioniert nicht mehr richtig. (Windows, Microsoft)</description>
+      <pubDate>Tue, 22 Sep 2026 06:44:20 GMT</pubDate>
+    </item>
     <item>
       <title>Verbrenner nicht gefragt: E-Auto-Boom sorgt für lange Gesichter in Wolfsburg</title>
       <link>https://www.golem.de/news/verbrenner-nicht-gefragt-e-auto-boom-sorgt-fuer-lange-gesichter-in-wolfsburg-2609-213293.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/vw-id-neo-gti-alter-wein-in-roten-schlaeuchen-2609-213066.html</guid>
       <description>VW bringt erstmals eine GTI-Version des ID.3 auf den Markt. Die Leistungsdaten erinnern stark an ein früheres Elektroauto-Modell. Ein Bericht von Friedhelm Greis (Volkswagen ID., Elektroauto)</description>
       <pubDate>Wed, 16 Sep 2026 08:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>iLands: KI-Agenten schicken immer mehr Spam-E-Mails</title>
-      <link>https://www.golem.de/news/ilands-ki-agenten-schicken-immer-mehr-spam-e-mails-2609-213073.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ilands-ki-agenten-schicken-immer-mehr-spam-e-mails-2609-213073.html</guid>
-      <description>Mark Zuckerberg träumt von persönlichen KI-Agenten für alle - in der Realität nerven die KIs unter anderem Journalisten und Restaurantbesitzer. (KI, Spam)</description>
-      <pubDate>Wed, 16 Sep 2026 07:34:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
