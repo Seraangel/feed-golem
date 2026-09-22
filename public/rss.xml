@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 22 Sep 2026 09:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:26:21 GMT</lastBuildDate>
+    <item>
+      <title>Umstellung auf Linux: Staatskanzlei Kiel fast vollständig weg von Windows</title>
+      <link>https://www.golem.de/news/umstellung-auf-linux-staatskanzlei-kiel-fast-vollstaendig-weg-von-windows-2609-213307.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/umstellung-auf-linux-staatskanzlei-kiel-fast-vollstaendig-weg-von-windows-2609-213307.html</guid>
+      <description>Die Umstellung auf Linux ist nur eine von vielen Maßnahmen Schleswig-Holsteins, um sich von proprietärer Software zu lösen. (Souveränität, Linux)</description>
+      <pubDate>Tue, 22 Sep 2026 09:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Forscher eskaliert weiter: Zero-Day-Exploit trickst den Windows Defender aus</title>
+      <link>https://www.golem.de/news/forscher-eskaliert-weiter-zero-day-exploit-trickst-den-windows-defender-aus-2609-213306.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/forscher-eskaliert-weiter-zero-day-exploit-trickst-den-windows-defender-aus-2609-213306.html</guid>
+      <description>Ein neuer Exploit von Nightmare Eclipse hindert den Windows Defender daran, sich zu aktualisieren. Das ermöglicht weiterführende Angriffe. (Sicherheitslücke, Microsoft)</description>
+      <pubDate>Tue, 22 Sep 2026 09:25:08 GMT</pubDate>
+    </item>
     <item>
       <title>Smart-TVs: Youtuber entfernt WLAN-Modul aus neuem LG-TV</title>
       <link>https://www.golem.de/news/smart-tvs-youtuber-entfernt-wlan-modul-aus-neuem-lg-tv-2609-213299.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/e-ink-boox-stellt-drei-neue-e-paper-tablets-vor-2609-213087.html</guid>
       <description>Von klein bis groß hat Boox drei neue Tablets mit E-Ink-Displays vorgestellt. Mit dem Note Mini C erscheint auch ein weiteres kompaktes Tablet. (E-Book-Reader, Android)</description>
       <pubDate>Wed, 16 Sep 2026 10:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mikro-Wasserkraft: Mehr als 100 Jahre alte Technik für das Stromnetz der Zukunft</title>
-      <link>https://www.golem.de/news/mikro-wasserkraft-mehr-als-100-jahre-alte-technik-fuer-das-stromnetz-der-zukunft-2609-212578.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mikro-wasserkraft-mehr-als-100-jahre-alte-technik-fuer-das-stromnetz-der-zukunft-2609-212578.html</guid>
-      <description>An Sachsens Flüssen reihen sich Hunderte Wasserkraftwerke im Kleinformat auf. Einige von ihnen sind 100 Jahre alt und werden gerade fit für die Zukunft gemacht. Eine Reportage von Mario Petzold (Wasserkraft, Energiewende)</description>
-      <pubDate>Wed, 16 Sep 2026 10:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>IO Interactive: 007 First Light bekommt Pathtracing - Full HD verlangt RTX 5070</title>
-      <link>https://www.golem.de/news/io-interactive-007-first-light-bekommt-pathtracing-full-hd-verlangt-rtx-5070-2609-213085.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/io-interactive-007-first-light-bekommt-pathtracing-full-hd-verlangt-rtx-5070-2609-213085.html</guid>
-      <description>James Bond 007 First Light erhält nachträglich Pathtracing und DLSS Ray Reconstruction. Die Grafikpracht stellt hohe Anforderungen an die GPU. (James Bond, Nvidia)</description>
-      <pubDate>Wed, 16 Sep 2026 09:49:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
