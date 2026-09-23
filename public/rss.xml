@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 10:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:51:10 GMT</lastBuildDate>
+    <item>
+      <title>Per Bluetooth: Exploit lässt Angreifer DJI-Drohnen mitten im Flug kapern</title>
+      <link>https://www.golem.de/news/per-bluetooth-exploit-laesst-angreifer-dji-drohnen-mitten-im-flug-kapern-2609-213353.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/per-bluetooth-exploit-laesst-angreifer-dji-drohnen-mitten-im-flug-kapern-2609-213353.html</guid>
+      <description>Mehrere Drohnenmodelle des Herstellers DJI sind anfällig für eine gefährliche Sicherheitslücke, die eine vollständige Kontrollübernahme ermöglicht. (Sicherheitslücke, WLAN)</description>
+      <pubDate>Wed, 23 Sep 2026 10:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>Seti: Mond soll nach mikroskopischen Technosignaturen abgesucht werden</title>
       <link>https://www.golem.de/news/seti-mond-soll-nach-mikroskopischen-technosignaturen-abgesucht-werden-2609-213197.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/update-panne-bei-microsoft-windows-11-update-sperrt-nutzer-aus-domaenen-aus-2609-213147.html</guid>
       <description>Bei einigen Windows-Domänen gibt es seit dem letzten Patchday Probleme mit der Anmeldung. Ursache ist die erzwungene Aktivierung eines neuen Features. (Windows, Microsoft)</description>
       <pubDate>Thu, 17 Sep 2026 10:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: UGREEN NVMe/SATA-SSD-Gehäuse mit 20 Gbps jetzt für nur 23 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-ugreen-nvme-sata-ssd-gehaeuse-mit-20-gbps-jetzt-fuer-nur-23-euro-bei-amazon-2609-213148.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ugreen-nvme-sata-ssd-gehaeuse-mit-20-gbps-jetzt-fuer-nur-23-euro-bei-amazon-2609-213148.html</guid>
-      <description>Das UGREEN NVMe/SATA SSD-Gehäuse mit 20 Gbps Übertragungsrate kompatibel mit M.2-SSDs bis 8 Terabyte, ist bei Amazon aktuell reduziert. (Technik/Hardware, Solid State Drive)</description>
-      <pubDate>Thu, 17 Sep 2026 10:41:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
