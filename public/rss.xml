@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 09:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:16:33 GMT</lastBuildDate>
+    <item>
+      <title>Amiga Unix: Vergessenes Commodore-System soll bewahrt werden</title>
+      <link>https://www.golem.de/news/amiga-unix-vergessenes-commodore-system-soll-bewahrt-werden-2609-213349.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/amiga-unix-vergessenes-commodore-system-soll-bewahrt-werden-2609-213349.html</guid>
+      <description>Amiga Unix war ein kurzlebiges und unbekanntes Workstation-Betriebssystem, das von einigen Entwicklern nicht aufgegeben wird. (Amiga, Dateisystem)</description>
+      <pubDate>Wed, 23 Sep 2026 09:14:13 GMT</pubDate>
+    </item>
     <item>
       <title>Personaldaten erbeutet: Hacker erpressen das FBI, wollen aber kein Geld</title>
       <link>https://www.golem.de/news/personaldaten-erbeutet-hacker-erpressen-das-fbi-wollen-aber-kein-geld-2609-213348.html</link>
@@ -146,7 +153,7 @@
       <pubDate>Wed, 23 Sep 2026 05:35:05 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Opus 5.5: Anthropics neues Vorzeigemodell wird günstiger und sicherer</title>
+      <title>Claude Opus 5.5: Anthropic macht sein Spitzenmodell deutlich billiger</title>
       <link>https://www.golem.de/news/claude-opus-5-5-anthropics-neues-flaggschiff-wird-guenstiger-und-sicherer-2609-213330.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/claude-opus-5-5-anthropics-neues-flaggschiff-wird-guenstiger-und-sicherer-2609-213330.html</guid>
       <description>Anthropic hat Claude Opus 5.5 vorgestellt. Das KI-Modell soll auf dem Niveau von Claude Fable 5.1 arbeiten, aber 40 Prozent günstiger sein. (Cloud, Web Service)</description>
@@ -216,7 +223,7 @@
       <pubDate>Tue, 22 Sep 2026 15:33:08 GMT</pubDate>
     </item>
     <item>
-      <title>Neuausrichtung: Suse unterbreitet Angebote zum freiwilligen Ausscheiden</title>
+      <title>Neuausrichtung: Suse will Mitarbeiter zum freiwilligen Abschied bewegen</title>
       <link>https://www.golem.de/news/neuausrichtung-suse-unterbreitet-angebote-zum-freiwilligen-ausscheiden-2609-213325.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/neuausrichtung-suse-unterbreitet-angebote-zum-freiwilligen-ausscheiden-2609-213325.html</guid>
       <description>Der Linux-Distributor Suse ist gleich an mehreren Stellen von Veränderungen betroffen. (Suse, Linux)</description>
@@ -237,7 +244,7 @@
       <pubDate>Tue, 22 Sep 2026 14:02:05 GMT</pubDate>
     </item>
     <item>
-      <title>EU-Cyberschutz: Verzögerungen und Datensilos schwächen die Abwehr von Angriffen</title>
+      <title>EU-Cyberschutz: EU-Staaten teilen zu wenig Daten über Cyberangriffe</title>
       <link>https://www.golem.de/news/eu-cyberschutz-verzoegerungen-und-datensilos-schwaechen-die-abwehr-von-angriffen-2609-213320.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/eu-cyberschutz-verzoegerungen-und-datensilos-schwaechen-die-abwehr-von-angriffen-2609-213320.html</guid>
       <description>Der Europäische Rechnungshof kritisiert in einem umfangreichen Bericht die Cybersicherheitsmaßnahmen der EU als unzureichend. (EU, Datenschutz)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rotes-telefon-forscher-fordern-ki-regeln-wie-bei-nuklearwaffen-im-kalten-krieg-2609-213141.html</guid>
       <description>US-amerikanische und chinesische Sicherheitsexperten fordern KI-Regeln wie im Kalten Krieg - inklusive einer Art "Rotem Telefon" zwischen China und den USA. (KI, Cyberwar)</description>
       <pubDate>Thu, 17 Sep 2026 09:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agenten beim Schummeln erwischt: OpenAI gesteht Kontrollverlust über seine KI</title>
-      <link>https://www.golem.de/news/agenten-beim-schummeln-erwischt-openai-gesteht-kontrollverlust-ueber-seine-ki-2609-213140.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/agenten-beim-schummeln-erwischt-openai-gesteht-kontrollverlust-ueber-seine-ki-2609-213140.html</guid>
-      <description>OpenAI will "besorgniserregende" KI-Vorfälle künftig schneller offenlegen. Zum Start liefert der ChatGPT-Entwickler gleich sechs reale Beispiele. (OpenAI, KI)</description>
-      <pubDate>Thu, 17 Sep 2026 09:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
