@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 07:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:31:27 GMT</lastBuildDate>
+    <item>
+      <title>Elektro-SUV: Skoda Epiq macht den Umstieg leicht</title>
+      <link>https://www.golem.de/news/elektro-suv-skoda-epiq-macht-den-umstieg-leicht-2609-213316.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektro-suv-skoda-epiq-macht-den-umstieg-leicht-2609-213316.html</guid>
+      <description>Mit dem Epiq rundet Skoda sein Angebot an Elektro-SUVs nach unten ab. Gegenüber dem ID.Polo kann er bei aller Familienähnlichkeit punkten. Ein Test von Franz W. Rother (Elektroauto, Test)</description>
+      <pubDate>Wed, 23 Sep 2026 07:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eviltokens: Microsoft zerschlägt KI-Phishingdienst hinter 12.000 gekaperten Konten</title>
+      <link>https://www.golem.de/news/eviltokens-microsoft-zerschlaegt-ki-phishingdienst-hinter-12-000-gekaperten-konten-2609-213337.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/eviltokens-microsoft-zerschlaegt-ki-phishingdienst-hinter-12-000-gekaperten-konten-2609-213337.html</guid>
+      <description>Über Eviltokens sind mithilfe von KI innerhalb weniger Monate Microsoft-Konten von über 10.000 Organisationen gekapert worden - und das ohne Passwortklau. (Phishing, Microsoft)</description>
+      <pubDate>Wed, 23 Sep 2026 07:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>Fehler bei Krankenhausbetreiber: IT-Panne löscht Geburtsdaten aus elf Jahren</title>
       <link>https://www.golem.de/news/fehler-bei-krankenhausbetreiber-it-panne-loescht-geburtsdaten-aus-elf-jahren-2609-213340.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-alternative-euro-office-bekommt-desktop-client-2609-213134.html</guid>
       <description>Mit einem neuen Nextcloud-Update bekommt Euro-Office einen Desktop-Client. Damit können Nutzer auch lokal arbeiten. (Nextloud, Office-Suite)</description>
       <pubDate>Thu, 17 Sep 2026 07:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gefährliche Sicherheitslücke: Apple-Geräte lassen sich per Bluetooth kapern</title>
-      <link>https://www.golem.de/news/gefaehrliche-sicherheitsluecke-apple-geraete-lassen-sich-per-bluetooth-kapern-2609-213132.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gefaehrliche-sicherheitsluecke-apple-geraete-lassen-sich-per-bluetooth-kapern-2609-213132.html</guid>
-      <description>Bei iPhones, iPads, Macs und anderen Apple-Geräten lässt sich ohne Zutun des Nutzers über Bluetooth Schadcode einschleusen. Neue Updates beheben das. (Sicherheitslücke, Apple)</description>
-      <pubDate>Thu, 17 Sep 2026 07:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz: KI-Agenten entwickeln eigene Sprache</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-ki-agenten-entwickeln-eigene-sprache-2609-213133.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-ki-agenten-entwickeln-eigene-sprache-2609-213133.html</guid>
-      <description>In Simulationen verändern autonom agierende KI-Systeme ihre Kommunikation deutlich. Das erschwert die Kontrolle durch Menschen. (KI, Wissenschaft)</description>
-      <pubDate>Thu, 17 Sep 2026 07:09:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
