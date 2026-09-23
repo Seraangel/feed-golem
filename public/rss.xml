@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 09:51:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:01:49 GMT</lastBuildDate>
+    <item>
+      <title>Sanierung des Zuse Z1: Wie Forscher die Rätsel der Z1 entschlüsseln</title>
+      <link>https://www.golem.de/news/sanierung-des-zuse-z1-wie-forscher-die-raetsel-der-z1-entschluesseln-2609-213104.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sanierung-des-zuse-z1-wie-forscher-die-raetsel-der-z1-entschluesseln-2609-213104.html</guid>
+      <description>Seit Jahren wird versucht, den Zuse Z1 wieder zum Laufen zu bringen. Immer wieder werden Geheimnisse entdeckt - und ein grundlegendes Problem. Eine Reportage von Mike Faust (Konrad Zuse, Computer)</description>
+      <pubDate>Wed, 23 Sep 2026 10:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Autonomes Fahren: Wayve liefert Software für Mercedes-Benz</title>
       <link>https://www.golem.de/news/autonomes-fahren-wayve-liefert-software-fuer-mercedes-benz-2609-213351.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-nvidia-huawei-stellt-leistungsfaehige-ascend-960-serie-vor-2609-213145.html</guid>
       <description>Huawei schickt zwei neue Prozessoren ins Rennen. Mit verdoppelter Rechenleistung auf bis zu 4 PFlops fordert das US-sanktionierte Unternehmen die Konkurrenz heraus. (Huawei, KI)</description>
       <pubDate>Thu, 17 Sep 2026 10:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Resident Evil Reboot von Zach Cregger: Selten so gelacht beim Gruseln</title>
-      <link>https://www.golem.de/news/resident-evil-reboot-von-zach-cregger-selten-so-gelacht-beim-gruseln-2609-213128.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/resident-evil-reboot-von-zach-cregger-selten-so-gelacht-beim-gruseln-2609-213128.html</guid>
-      <description>Resident Evil ist im Kino endlich kein B-Movie-Trash mehr. Zach Cregger liefert ein eigenwilliges Reboot, das Gruselfilm und Parodie vermischt. Eine Rezension von Daniel Pook (Filmkritik, Sony)</description>
-      <pubDate>Thu, 17 Sep 2026 10:10:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
