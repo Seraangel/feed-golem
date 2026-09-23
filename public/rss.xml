@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 10:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:56:06 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Philips Hue Bridge Pro jetzt für 79,99 Euro Bestpreis sichern</title>
+      <link>https://www.golem.de/news/anzeige-philips-hue-bridge-pro-jetzt-fuer-79-99-euro-bestpreis-sichern-2609-213354.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-philips-hue-bridge-pro-jetzt-fuer-79-99-euro-bestpreis-sichern-2609-213354.html</guid>
+      <description>Philips Hue hat die Bridge Pro auf 149,99 Euro verteuert. Auf Amazon kostet die Smart-Home-Zentrale aktuell nur 79,99 Euro. (Smart Home, Amazon)</description>
+      <pubDate>Wed, 23 Sep 2026 10:55:06 GMT</pubDate>
+    </item>
     <item>
       <title>Per Bluetooth: Exploit lässt Angreifer DJI-Drohnen mitten im Flug kapern</title>
       <link>https://www.golem.de/news/per-bluetooth-exploit-laesst-angreifer-dji-drohnen-mitten-im-flug-kapern-2609-213353.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ninja-zu-teuer-dieser-dual-zone-airfryer-kostet-im-angebot-keine-100-euro-2609-213149.html</guid>
       <description>Die Tefal Dual Easy Fry bietet zwei Garkammern und 8,3 Liter Volumen. Bei Amazon kostet der Airfryer derzeit 99,99 Euro. (Amazon, Technik/Hardware)</description>
       <pubDate>Thu, 17 Sep 2026 11:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Update-Panne bei Microsoft: Windows-11-Update sperrt Nutzer aus Domänen aus</title>
-      <link>https://www.golem.de/news/update-panne-bei-microsoft-windows-11-update-sperrt-nutzer-aus-domaenen-aus-2609-213147.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/update-panne-bei-microsoft-windows-11-update-sperrt-nutzer-aus-domaenen-aus-2609-213147.html</guid>
-      <description>Bei einigen Windows-Domänen gibt es seit dem letzten Patchday Probleme mit der Anmeldung. Ursache ist die erzwungene Aktivierung eines neuen Features. (Windows, Microsoft)</description>
-      <pubDate>Thu, 17 Sep 2026 10:53:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
