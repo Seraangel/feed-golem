@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 10:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:16:23 GMT</lastBuildDate>
+    <item>
+      <title>Elementarteilchen: 100-Dollar-Detektor erkennt Myonen</title>
+      <link>https://www.golem.de/news/elementarteilchen-100-dollar-detektor-erkennt-myonen-2609-213352.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elementarteilchen-100-dollar-detektor-erkennt-myonen-2609-213352.html</guid>
+      <description>Das ungewöhnliche Elementarteilchen, mit dem sich auch die Relativitätstheorie prüfen lässt, erlaubt Rückschlüsse auf die kosmische Strahlung. (Physik, Wissenschaft)</description>
+      <pubDate>Wed, 23 Sep 2026 10:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Sanierung des Zuse Z1: Wie Forscher die Rätsel der Z1 entschlüsseln</title>
       <link>https://www.golem.de/news/sanierung-des-zuse-z1-wie-forscher-die-raetsel-der-z1-entschluesseln-2609-213104.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/eu-china-soll-exporte-von-hybridautos-freiwillig-reduzieren-2609-213146.html</guid>
       <description>Chinesische Hybridautos sind in der EU beliebt - und bereiten einheimischen Herstellern Probleme. Die Kommission setzt auf freiwillige Exportkontrolle. (Auto, Politik)</description>
       <pubDate>Thu, 17 Sep 2026 10:39:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angriff auf Nvidia: Huawei stellt leistungsfähige Ascend-960-Serie vor</title>
-      <link>https://www.golem.de/news/angriff-auf-nvidia-huawei-stellt-leistungsfaehige-ascend-960-serie-vor-2609-213145.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-nvidia-huawei-stellt-leistungsfaehige-ascend-960-serie-vor-2609-213145.html</guid>
-      <description>Huawei schickt zwei neue Prozessoren ins Rennen. Mit verdoppelter Rechenleistung auf bis zu 4 PFlops fordert das US-sanktionierte Unternehmen die Konkurrenz heraus. (Huawei, KI)</description>
-      <pubDate>Thu, 17 Sep 2026 10:26:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
