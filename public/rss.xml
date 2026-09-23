@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 09:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:51:16 GMT</lastBuildDate>
+    <item>
+      <title>Autonomes Fahren: Wayve liefert Software für Mercedes-Benz</title>
+      <link>https://www.golem.de/news/autonomes-fahren-wayve-liefert-software-fuer-mercedes-benz-2609-213351.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-wayve-liefert-software-fuer-mercedes-benz-2609-213351.html</guid>
+      <description>Nach der Kooperation mit Nvidia und Momenta sichert sich Mercedes einen weiteren Software-Anbieter für selbstfahrende Autos. (Autonomes Fahren, Nvidia)</description>
+      <pubDate>Wed, 23 Sep 2026 09:46:02 GMT</pubDate>
+    </item>
     <item>
       <title>Arbeitsmarkt: IT-Fachleute bewerten ihre Jobchancen deutlich schlechter</title>
       <link>https://www.golem.de/news/arbeitsmarkt-it-fachleute-bewerten-ihre-jobchancen-deutlich-schlechter-2609-213350.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/resident-evil-reboot-von-zach-cregger-selten-so-gelacht-beim-gruseln-2609-213128.html</guid>
       <description>Resident Evil ist im Kino endlich kein B-Movie-Trash mehr. Zach Cregger liefert ein eigenwilliges Reboot, das Gruselfilm und Parodie vermischt. Eine Rezension von Daniel Pook (Filmkritik, Sony)</description>
       <pubDate>Thu, 17 Sep 2026 10:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral-Integration: Mit Open Source macht Mozilla Firefox zum KI-Browser</title>
-      <link>https://www.golem.de/news/mistral-integration-mit-open-source-macht-mozilla-firefox-zum-ki-browser-2609-213144.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mistral-integration-mit-open-source-macht-mozilla-firefox-zum-ki-browser-2609-213144.html</guid>
-      <description>Der Firefox-Browser wird künftig mit KI-Funktionen von Mistral versorgt. Mozilla setzt dabei bewusst auf ein Open-Source-Produkt. (Firefox, Browser)</description>
-      <pubDate>Thu, 17 Sep 2026 10:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
