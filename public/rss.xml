@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 09:26:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 09:31:05 GMT</lastBuildDate>
+    <item>
+      <title>Arbeitsmarkt: IT-Fachleute bewerten ihre Jobchancen deutlich schlechter</title>
+      <link>https://www.golem.de/news/arbeitsmarkt-it-fachleute-bewerten-ihre-jobchancen-deutlich-schlechter-2609-213350.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/arbeitsmarkt-it-fachleute-bewerten-ihre-jobchancen-deutlich-schlechter-2609-213350.html</guid>
+      <description>Nur noch 37 Prozent der IT-Fachkräfte sehen gute Jobchancen. 2021 waren es noch 78 Prozent. Beim Gehalt erwarten sie dennoch mehr. (Arbeit, Wirtschaft)</description>
+      <pubDate>Wed, 23 Sep 2026 09:29:01 GMT</pubDate>
+    </item>
     <item>
       <title>Amiga Unix: Vergessenes Commodore-System soll bewahrt werden</title>
       <link>https://www.golem.de/news/amiga-unix-vergessenes-commodore-system-soll-bewahrt-werden-2609-213349.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mistral-integration-mit-open-source-macht-mozilla-firefox-zum-ki-browser-2609-213144.html</guid>
       <description>Der Firefox-Browser wird künftig mit KI-Funktionen von Mistral versorgt. Mozilla setzt dabei bewusst auf ein Open-Source-Produkt. (Firefox, Browser)</description>
       <pubDate>Thu, 17 Sep 2026 10:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Rotes Telefon": Forscher fordern KI-Regeln wie bei Nuklearwaffen im Kalten Krieg</title>
-      <link>https://www.golem.de/news/rotes-telefon-forscher-fordern-ki-regeln-wie-bei-nuklearwaffen-im-kalten-krieg-2609-213141.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rotes-telefon-forscher-fordern-ki-regeln-wie-bei-nuklearwaffen-im-kalten-krieg-2609-213141.html</guid>
-      <description>US-amerikanische und chinesische Sicherheitsexperten fordern KI-Regeln wie im Kalten Krieg - inklusive einer Art "Rotem Telefon" zwischen China und den USA. (KI, Cyberwar)</description>
-      <pubDate>Thu, 17 Sep 2026 09:33:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
