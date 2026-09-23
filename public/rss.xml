@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 06:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:01:28 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: 20 Jahre OSMC - Monitoring-Wissen direkt aus der Praxis</title>
+      <link>https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-wissen-direkt-aus-der-praxis-2609-213271.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-wissen-direkt-aus-der-praxis-2609-213271.html</guid>
+      <description>KI im Monitoring, die Zukunft etablierter Open-Source-Stacks, Observability im Betriebsalltag: Darum geht es vom 17. bis 19. November auf der Open Source Monitoring Conference (OSMC) in Nürnberg. Golem-Leser bekommen Rabatt. (Software)</description>
+      <pubDate>Wed, 23 Sep 2026 07:00:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>US-Regierung: Finanzminister Bessent gilt als Favorit für "KI-Zar"</title>
+      <link>https://www.golem.de/news/us-regierung-finanzminister-bessent-gilt-als-favorit-fuer-ki-zar-2609-213339.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/us-regierung-finanzminister-bessent-gilt-als-favorit-fuer-ki-zar-2609-213339.html</guid>
+      <description>US-Finanzminister Scott Bessent gilt laut Semafor als Favorit für den Posten des KI-Beauftragten unter Donald Trump. (Donald Trump, Politik)</description>
+      <pubDate>Wed, 23 Sep 2026 06:57:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Amiga 1200 feiert Retro-Comeback mit Tank-Maus, Turrican und Workbench</title>
       <link>https://www.golem.de/news/anzeige-amiga-1200-feiert-retro-comeback-mit-tank-maus-turrican-und-workbench-2609-213336.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/milliardendeal-infineon-verkauft-speichergeschaeft-an-winbond-2609-213131.html</guid>
       <description>Infineon will sein Speichergeschäft neu aufstellen und einen Teil davon an Winbond abgeben. Der Bereich soll künftig eigenständig arbeiten. (Infineon, Wirtschaft)</description>
       <pubDate>Thu, 17 Sep 2026 06:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Justwatch startet JustwatchTV: Von der Streamingsuchmaschine zum Gratis-Streamingabo</title>
-      <link>https://www.golem.de/news/justwatch-startet-justwatchtv-von-der-streamingsuchmaschine-zum-gratis-streamingabo-2609-213130.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/justwatch-startet-justwatchtv-von-der-streamingsuchmaschine-zum-gratis-streamingabo-2609-213130.html</guid>
-      <description>Die Streamingsuchmaschine Justwatch bietet mit Justwatch TV ein eigenes Streamingabo an. Es ist bereits nutzbar. Richtig los geht es im Oktober. (Justwatch, Streaming)</description>
-      <pubDate>Thu, 17 Sep 2026 06:27:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mondkartierung: KI-Modell von IBM und Nasa verarbeitet Monddaten</title>
-      <link>https://www.golem.de/news/mondkartierung-ki-modell-von-ibm-und-nasa-verarbeitet-monddaten-2609-213037.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mondkartierung-ki-modell-von-ibm-und-nasa-verarbeitet-monddaten-2609-213037.html</guid>
-      <description>Ein Open-Source-KI-Modell von Nasa und IBM soll bei der Kartierung der vielen Mond-Bilder der Raumsonde Lunar Reconnaissance Orbiter helfen. (IBM, KI)</description>
-      <pubDate>Thu, 17 Sep 2026 06:10:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
