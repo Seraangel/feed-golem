@@ -11,9 +11,16 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 07:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 07:21:14 GMT</lastBuildDate>
     <item>
-      <title>Benchmark-Tests: Qualcomms neuer Snapdragon und Apples A20 Pro streiten um die Mobile-Krone</title>
+      <title>Fehler bei Krankenhausbetreiber: IT-Panne löscht Geburtsdaten aus elf Jahren</title>
+      <link>https://www.golem.de/news/fehler-bei-krankenhausbetreiber-it-panne-loescht-geburtsdaten-aus-elf-jahren-2609-213340.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fehler-bei-krankenhausbetreiber-it-panne-loescht-geburtsdaten-aus-elf-jahren-2609-213340.html</guid>
+      <description>Trotz sofort eingeleiteter Maßnahmen konnten nicht alle Daten wiederhergestellt werden, was auch die polizeilichen Ermittlungen erschwert. (Datensicherheit, Sicherheitslücke)</description>
+      <pubDate>Wed, 23 Sep 2026 07:17:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Benchmark-Tests: Qualcomms neuer Snapdragon und Apples A20 Pro liegen fast gleichauf</title>
       <link>https://www.golem.de/news/benchmark-tests-qualcomms-neuer-snapdragon-und-apples-a20-pro-streiten-um-die-mobile-krone-2609-213338.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/benchmark-tests-qualcomms-neuer-snapdragon-und-apples-a20-pro-streiten-um-die-mobile-krone-2609-213338.html</guid>
       <description>Qualcomms neuer Snapdragon 8 Elite Extreme Gen 6 produziert starke Benchmarkwerte und liefert sich einen interessanten Zweikampf mit Apples neuem A20 Pro. Von Tobias Költzsch (Snapdragon Summit 2026, Smartphone)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-ki-agenten-entwickeln-eigene-sprache-2609-213133.html</guid>
       <description>In Simulationen verändern autonom agierende KI-Systeme ihre Kommunikation deutlich. Das erschwert die Kontrolle durch Menschen. (KI, Wissenschaft)</description>
       <pubDate>Thu, 17 Sep 2026 07:09:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Energieversorgung: Solarzellen erzeugen Strom in zehn Metern Wassertiefe</title>
-      <link>https://www.golem.de/news/energieversorgung-solarzellen-erzeugen-strom-in-zehn-metern-wassertiefe-2609-213129.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/energieversorgung-solarzellen-erzeugen-strom-in-zehn-metern-wassertiefe-2609-213129.html</guid>
-      <description>Forscher betreiben Perowskit-Solarzellen in zehn Metern Wassertiefe. Die Technik soll Unterwassergeräte autark mit Energie versorgen. (Energiewende, Energie &amp; Klima)</description>
-      <pubDate>Thu, 17 Sep 2026 07:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
