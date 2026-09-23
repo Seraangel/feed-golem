@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 08:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:06:10 GMT</lastBuildDate>
+    <item>
+      <title>C3-Konstellation: China plant Mond-Cubesat-Konstellation</title>
+      <link>https://www.golem.de/news/c3-konstellation-china-plant-mond-cubesat-konstellation-2609-213038.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/c3-konstellation-china-plant-mond-cubesat-konstellation-2609-213038.html</guid>
+      <description>Die wissenschaftliche Mission soll wichtige Daten sammeln und Ländern des Globalen Südens den Zugang zum Weltraum ermöglichen. (China, Raumfahrt)</description>
+      <pubDate>Wed, 23 Sep 2026 08:05:10 GMT</pubDate>
+    </item>
     <item>
       <title>Effizienz-Rating: EU plant Energie-Rating für Rechenzentren</title>
       <link>https://www.golem.de/news/effizienz-rating-eu-plant-energie-rating-fuer-rechenzentren-2609-213343.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-dji-mic-mini-lavalier-mikrofon-jetzt-zum-aktionspreis-unter-80-euro-bei-amazon-2609-213136.html</guid>
       <description>Das DJI Mic Mini bietet klare Aufnahmen, 48 Stunden Laufzeit, vielseitige Befestigungsmöglichkeiten und ist bei Amazon reduziert. (Technik/Hardware)</description>
       <pubDate>Thu, 17 Sep 2026 08:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neural Rendering: AMD arbeitet offenbar an Konkurrenten für DLSS 5</title>
-      <link>https://www.golem.de/news/neural-rendering-amd-arbeitet-offenbar-an-konkurrenten-fuer-dlss-5-2609-213135.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neural-rendering-amd-arbeitet-offenbar-an-konkurrenten-fuer-dlss-5-2609-213135.html</guid>
-      <description>Eine eigene Technik für Neural Rendering soll bei AMD in Entwicklung sein. Sie könnte mit RDNA 5 und damit voraussichtlich 2027 auf den Markt kommen. (DLSS, AMD)</description>
-      <pubDate>Thu, 17 Sep 2026 08:14:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
