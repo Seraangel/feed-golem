@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 05:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 05:31:10 GMT</lastBuildDate>
+    <item>
+      <title>Claude Opus 5.5: Anthropics neues Flaggschiff wird günstiger und sicherer</title>
+      <link>https://www.golem.de/news/claude-opus-5-5-anthropics-neues-flaggschiff-wird-guenstiger-und-sicherer-2609-213330.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/claude-opus-5-5-anthropics-neues-flaggschiff-wird-guenstiger-und-sicherer-2609-213330.html</guid>
+      <description>Anthropic hat Claude Opus 5.5 vorgestellt. Das KI-Modell soll auf dem Niveau von Claude Fable 5.1 arbeiten, aber 40 Prozent günstiger sein. (Cloud, Web Service)</description>
+      <pubDate>Wed, 23 Sep 2026 05:26:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Power Automate: Prozesse mit Flows automatisieren</title>
       <link>https://www.golem.de/news/anzeige-microsoft-power-automate-prozesse-mit-flows-automatisieren-2609-213120.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2609-213059.html</guid>
       <description>Microsoft 365 stellt Unternehmen vor Datenschutz- und Compliance-Fragen. Die Golem Karrierewelt zeigt, wie sich DSGVO-Anforderungen technisch einordnen lassen. (Golem Karrierewelt, Sicherheitslücke)</description>
       <pubDate>Wed, 16 Sep 2026 16:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: 160-W-USB-Ladegerät von Ugreen mit 5 Anschlüssen und Display zum Tiefstpreis</title>
-      <link>https://www.golem.de/news/anzeige-160-w-usb-ladegeraet-von-ugreen-mit-5-anschluessen-und-display-zum-tiefstpreis-2609-213123.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-160-w-usb-ladegeraet-von-ugreen-mit-5-anschluessen-und-display-zum-tiefstpreis-2609-213123.html</guid>
-      <description>Das Nexode-Pro-USB-Ladegerät von Ugreen mit 160 W ist bei Amazon wieder für unter 66 Euro erhältlich. (Technik/Hardware, Amazon)</description>
-      <pubDate>Wed, 16 Sep 2026 16:32:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
