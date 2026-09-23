@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 23 Sep 2026 16:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:46:05 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Grundschutz systematisch umsetzen</title>
+      <link>https://www.golem.de/news/anzeige-it-grundschutz-systematisch-umsetzen-2609-213162.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-grundschutz-systematisch-umsetzen-2609-213162.html</guid>
+      <description>IT-Grundschutz verlangt ein systematisches Vorgehen bei Risiken, Maßnahmen und Audits. Das Training der Golem Karrierewelt vermittelt die BSI-Methodik praxisorientiert. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 23 Sep 2026 16:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Minimalistisches 65-W-USB-Ladegerät von Ugreen für unter 25 Euro</title>
       <link>https://www.golem.de/news/anzeige-minimalistisches-65-w-usb-ladegeraet-von-ugreen-fuer-unter-25-euro-2609-213371.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kubernetes-fuer-automatisierte-container-orchestrierung-2609-213064.html</guid>
       <description>Kubernetes automatisiert die Bereitstellung und Verwaltung von Containern, verlangt aber fundiertes Know-how. Ein Workshop der Golem Karrierewelt vermittelt die zentralen Komponenten. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Thu, 17 Sep 2026 16:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Logitech G305 Lightspeed Gaming-Maus für unter 30 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-logitech-g305-lightspeed-gaming-maus-fuer-unter-30-euro-bei-amazon-2609-213177.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-logitech-g305-lightspeed-gaming-maus-fuer-unter-30-euro-bei-amazon-2609-213177.html</guid>
-      <description>Tausendfach bestellter Klassiker: Die kabellose Logitech G305 mit bis zu 250 Stunden Laufzeit ist bei Amazon wieder günstiger erhältlich. (Technik/Hardware, Amazon)</description>
-      <pubDate>Thu, 17 Sep 2026 16:40:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
