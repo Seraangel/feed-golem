@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 12:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:06:04 GMT</lastBuildDate>
+    <item>
+      <title>Autonomes Fahren: KI-Chatbots kommen beim Autofahren nicht weit</title>
+      <link>https://www.golem.de/news/autonomes-fahren-ki-chatbots-kommen-beim-autofahren-nicht-weit-2609-213404.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-ki-chatbots-kommen-beim-autofahren-nicht-weit-2609-213404.html</guid>
+      <description>Wie gut finden sich aktuelle KI-Modelle hinter dem Steuer eines Autos zurecht? Bei einer kurzen Fahrt kam nur ein LLM ans Ziel. (Autonomes Fahren, KI)</description>
+      <pubDate>Thu, 24 Sep 2026 13:03:05 GMT</pubDate>
+    </item>
     <item>
       <title>Shelly: Schneider Electric übernimmt Smart-Home-Spezialisten für 1,2 Milliarden Euro</title>
       <link>https://www.golem.de/news/shelly-schneider-electric-uebernimmt-smart-home-spezialisten-fuer-1-2-milliarden-euro-2609-213402.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-training-spacex-will-kundendaten-als-guenstige-datenquelle-2609-213216.html</guid>
       <description>SpaceX denkt über den Kauf von Kundendaten insolventer Firmen als kostengünstige Datenquelle für den KI-Chatbot Grok nach. (KI, Wirtschaft)</description>
       <pubDate>Fri, 18 Sep 2026 13:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Elektrische Luftpumpe mit 150 PSI zum Aktionspreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-elektrische-luftpumpe-mit-150-psi-zum-aktionspreis-bei-amazon-2609-213217.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-elektrische-luftpumpe-mit-150-psi-zum-aktionspreis-bei-amazon-2609-213217.html</guid>
-      <description>Amazon hat eine elektrische Luftpumpe mit Akku und 150 PSI im Angebot, die Auto- und Fahrradreifen schnell aufpumpt und zudem als Powerbank dient. (Technik/Hardware)</description>
-      <pubDate>Fri, 18 Sep 2026 13:52:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
