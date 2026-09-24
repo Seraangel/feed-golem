@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 07:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 08:11:11 GMT</lastBuildDate>
+    <item>
+      <title>Australien: OpenAI-Agent hat sich in Regierungsportal gehackt</title>
+      <link>https://www.golem.de/news/australien-openai-agent-hat-sich-in-regierungsportal-gehackt-2609-213388.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/australien-openai-agent-hat-sich-in-regierungsportal-gehackt-2609-213388.html</guid>
+      <description>Ein KI-Agent von OpenAI sollte australische Gesundheitsstatistiken recherchieren. Dabei ist er aber zu weit gegangen und hat geschützte Daten abgerufen. (OpenAI, KI)</description>
+      <pubDate>Thu, 24 Sep 2026 08:08:10 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft: Surface Pro 12 verwendet neuen ARM-Chip von Qualcomm</title>
       <link>https://www.golem.de/news/microsoft-surface-pro-12-verwendet-neuen-arm-chip-von-qualcomm-2609-213386.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/simulation-atombomben-koennten-gefaehrliche-asteroiden-ablenken-oder-zerstoeren-2609-213035.html</guid>
       <description>Forscher haben die Zerstörung eines Asteroiden durch Atombomben simuliert. Ob die Trümmer eine Gefahr bleiben, ist unklar. (Militär, Studien)</description>
       <pubDate>Fri, 18 Sep 2026 09:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Beliebter Eastpak-Rucksack jetzt mit über 50 Prozent Rabatt bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-beliebter-eastpak-rucksack-jetzt-mit-ueber-50-prozent-rabatt-bei-amazon-2609-213193.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebter-eastpak-rucksack-jetzt-mit-ueber-50-prozent-rabatt-bei-amazon-2609-213193.html</guid>
-      <description>Der Eastpak-Rucksack ist bei Amazon aktuell 50 Prozent günstiger, bietet ein gepolstertes Laptopfach und gilt als Klassiker. (Technik/Hardware, Arbeit)</description>
-      <pubDate>Fri, 18 Sep 2026 09:29:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
