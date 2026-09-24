@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 15:36:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 15:56:13 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Starthilfe-Powerbank mit Batterietester für Benzin und Diesel für unter 140 Euro</title>
+      <link>https://www.golem.de/news/anzeige-starthilfe-powerbank-mit-batterietester-fuer-benzin-und-diesel-fuer-unter-140-euro-2609-213416.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-starthilfe-powerbank-mit-batterietester-fuer-benzin-und-diesel-fuer-unter-140-euro-2609-213416.html</guid>
+      <description>Eine für Benzin- und Dieselautos geeignete Starthilfepowerbank mit Batterietesterfunktion von Topdon ist bei Amazon zum Sparpreis im Angebot. (Auto, Amazon)</description>
+      <pubDate>Thu, 24 Sep 2026 15:52:07 GMT</pubDate>
+    </item>
     <item>
       <title>Änderung der Ausbildung gefordert: IT-Einstiegsjobs brechen um mehr als zwei Drittel ein</title>
       <link>https://www.golem.de/news/aenderung-der-ausbildung-gefordert-it-einstiegsjobs-brechen-um-mehr-als-zwei-drittel-ein-2609-213414.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/alpsix-berliner-inter-link-errichtet-neuen-peeringknoten-des-de-cix-in-suedoestereich-2609-213224.html</guid>
       <description>Der neue Internetknoten ALPSiX in Klagenfurt-Villach setzt auf Edge-Container, um die Unabhängigkeit von Wien zu stärken und Daten direkt nach Norditalien, Bayern und auf den Balkan zu leiten. (DE-CIX, Rechenzentrum)</description>
       <pubDate>Fri, 18 Sep 2026 15:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Maßnahme gegen Webcrawler: Cloudflare ermöglicht Trennung von KI- und Suchbots</title>
-      <link>https://www.golem.de/news/massnahme-gegen-webcrawler-cloudflare-ermoeglicht-trennung-von-ki-und-suchbots-2609-213221.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/massnahme-gegen-webcrawler-cloudflare-ermoeglicht-trennung-von-ki-und-suchbots-2609-213221.html</guid>
-      <description>Cloudflare bietet Webseitenbetreibern die Möglichkeit, keine Suchbots sperren zu müssen, wenn sie das Sammeln ihrer Daten verhindern möchten. (Cloudflare, KI)</description>
-      <pubDate>Fri, 18 Sep 2026 15:04:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
