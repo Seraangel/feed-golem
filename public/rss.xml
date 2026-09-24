@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 05:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:26:09 GMT</lastBuildDate>
+    <item>
+      <title>USA: Richter hebt Trumps Ausschluss von US-Medien vorerst auf</title>
+      <link>https://www.golem.de/news/usa-richter-hebt-trumps-ausschluss-von-us-medien-vorerst-auf-2609-213379.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/usa-richter-hebt-trumps-ausschluss-von-us-medien-vorerst-auf-2609-213379.html</guid>
+      <description>Ein Bundesrichter stoppt Trumps Hausverbot für CNN, MS Now und Politico vorerst. Die Regierung hatte die Journalisten vorab nicht angehört. (Donald Trump, Politik)</description>
+      <pubDate>Thu, 24 Sep 2026 06:21:11 GMT</pubDate>
+    </item>
     <item>
       <title>XV Excalibur: Unbemanntes U-Boot schießt Torpedo ab</title>
       <link>https://www.golem.de/news/xv-excalibur-unbemanntes-u-boot-schiesst-torpedo-ab-2609-213376.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cybercrime-nordkoreanische-cyberkriminelle-bestehlen-it-fachleute-auf-jobsuche-2609-213184.html</guid>
       <description>Sicherheitsbehörden warnen vor einer Cybergruppe aus Nordkorea, die gezielt IT-Spezialisten angreift. Was hinter der Kampagne "Contagious Interview" steckt. (Nordkorea, Datenschutz)</description>
       <pubDate>Fri, 18 Sep 2026 07:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nightmare Stresser: FBI greift gegen DDoS-Dienst mit über 500.000 Nutzern durch</title>
-      <link>https://www.golem.de/news/nightmare-stresser-ddos-portal-mit-ueber-500-000-nutzern-vom-netz-genommen-2609-213180.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nightmare-stresser-ddos-portal-mit-ueber-500-000-nutzern-vom-netz-genommen-2609-213180.html</guid>
-      <description>Das FBI hat eine Plattform zerschlagen, die für Hunderttausende DDoS-Angriffe auf weltweit verteilte Ziele genutzt worden sein soll. (DoS, Server)</description>
-      <pubDate>Fri, 18 Sep 2026 07:08:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
