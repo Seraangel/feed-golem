@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 06:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:46:16 GMT</lastBuildDate>
+    <item>
+      <title>Qualcomm Snapdragon X2: Linux für Snapdragon-Chips ist da</title>
+      <link>https://www.golem.de/news/qualcomm-snapdragon-x2-linux-fuer-snapdragon-chips-ist-da-2609-213381.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/qualcomm-snapdragon-x2-linux-fuer-snapdragon-chips-ist-da-2609-213381.html</guid>
+      <description>In der ersten auf Debian basierten Entwickler-Preview können User Linux für den ARM-Chip von Qualcomm ausprobieren. (Linux, Debian)</description>
+      <pubDate>Thu, 24 Sep 2026 06:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Fresenius Medical Care: Cyberangriff trifft großen Dialysekonzern</title>
       <link>https://www.golem.de/news/fresenius-medical-care-cyberangriff-trifft-grossen-dialysekonzern-2609-213380.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/durch-einfache-wischgesten-kurioser-ios-bug-macht-iphones-unbedienbar-2609-213188.html</guid>
       <description>Durch ein paar Wischgesten auf dem Homescreen lassen sich iPhones unter iOS 27 in einen unbedienbaren Zustand versetzen. Doch es gibt eine Lösung. (iOS, Apple)</description>
       <pubDate>Fri, 18 Sep 2026 08:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arbeitswelt: KI löst weltweit Ängste vor Jobverlust aus</title>
-      <link>https://www.golem.de/news/arbeitswelt-ki-loest-weltweit-aengste-vor-jobverlust-aus-2609-213185.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/arbeitswelt-ki-loest-weltweit-aengste-vor-jobverlust-aus-2609-213185.html</guid>
-      <description>Eine Befragung in 37 Ländern zeigt breite Befürchtungen vor Jobverlusten durch KI und einer wachsenden Spaltung zwischen Arm und Reich. (Studien, KI)</description>
-      <pubDate>Fri, 18 Sep 2026 07:30:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
