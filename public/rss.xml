@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 07:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:11:04 GMT</lastBuildDate>
+    <item>
+      <title>Streaming: Youtube lässt Nutzer eigene Feeds per KI-Prompt erstellen</title>
+      <link>https://www.golem.de/news/streaming-youtube-laesst-nutzer-eigene-feeds-per-ki-prompt-erstellen-2609-213383.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/streaming-youtube-laesst-nutzer-eigene-feeds-per-ki-prompt-erstellen-2609-213383.html</guid>
+      <description>Mit Custom Feeds legen Nutzer per KI-Prompt fest, welche Videos auf ihrer Startseite landen. Die Funktion startet zunächst in den USA. (Youtube, KI)</description>
+      <pubDate>Thu, 24 Sep 2026 07:08:09 GMT</pubDate>
+    </item>
     <item>
       <title>Bestellbutton: Autokäufer scheitert vor Gericht trotz falscher Beschriftung</title>
       <link>https://www.golem.de/news/bestellbutton-autokaeufer-scheitert-vor-gericht-trotz-falscher-beschriftung-2609-213382.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-smart-home-produkte-von-tapo-mit-attraktivem-jubilaeumsrabatt-2609-213152.html</guid>
       <description>Smart-Home-Produkte wie Überwachungskameras und Saugroboter gibt es im Tapo-Store mit Jubiläumsrabatt zu attraktiven Preisen. (Technik/Hardware, Videoüberwachung)</description>
       <pubDate>Fri, 18 Sep 2026 08:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rückstand zu den USA: Huawei-Chef fordert schnellere KI-Entwicklung in China</title>
-      <link>https://www.golem.de/news/rueckstand-zu-den-usa-huawei-chef-fordert-schnellere-ki-entwicklung-in-china-2609-213187.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rueckstand-zu-den-usa-huawei-chef-fordert-schnellere-ki-entwicklung-in-china-2609-213187.html</guid>
-      <description>Chinesische KI-Entwickler sollen ihr Forschungstempo beschleunigen, um den Rückstand zu den USA aufzuholen. (KI, Prozessor)</description>
-      <pubDate>Fri, 18 Sep 2026 08:26:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
