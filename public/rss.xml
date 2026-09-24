@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 07:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 07:31:18 GMT</lastBuildDate>
+    <item>
+      <title>SMR: Wirtschaftsministerium hält kleine AKWs für nicht marktfähig</title>
+      <link>https://www.golem.de/news/smr-wirtschaftsministerium-haelt-kleine-akws-fuer-nicht-marktfaehig-2609-213384.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/smr-wirtschaftsministerium-haelt-kleine-akws-fuer-nicht-marktfaehig-2609-213384.html</guid>
+      <description>Weder der Stand der Technik noch die Stromkosten können die Fachabteilung des Ministeriums überzeugen. Ohne Subventionen seien AKWs nicht tragfähig. (Atomkraft, Politik)</description>
+      <pubDate>Thu, 24 Sep 2026 07:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Snap Specs im Hands-on: Eine AR-Brille, die besser funktioniert als sie aussieht</title>
       <link>https://www.golem.de/news/snap-specs-im-hands-on-eine-ar-brille-die-besser-funktioniert-als-sie-aussieht-2609-213378.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/signify-smart-home-noch-laesst-sich-die-preiserhoehung-fuer-philips-hue-bridge-umgehen-2609-213192.html</guid>
       <description>Besonders groß fällt die Preiserhöhung für Signifys Philips Hue Bridge Pro aus. Im Handel sind die höheren Listenpreise noch nicht angekommen. (Signify, Philips)</description>
       <pubDate>Fri, 18 Sep 2026 09:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Forscher Kokotajlo: "Müssen die KI-Entwicklung im Wesentlichen abschalten"</title>
-      <link>https://www.golem.de/news/ki-forscher-kokotajlo-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-2609-213191.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-forscher-kokotajlo-muessen-die-ki-entwicklung-im-wesentlichen-abschalten-2609-213191.html</guid>
-      <description>Kokotajlo warnt vor unkontrollierbaren Risiken durch sich selbst verbessernde KI-Systeme: vor neuartigen Biowaffen und automatisierten Cyberangriffen. (OpenAI, KI)</description>
-      <pubDate>Fri, 18 Sep 2026 09:01:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
