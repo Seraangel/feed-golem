@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 15:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:01:53 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Muse: Ich habe mich dem KI-Agenten von Meta anvertraut - und bin begeistert</title>
+      <link>https://www.golem.de/news/muse-ich-habe-mich-dem-ki-agenten-von-meta-anvertraut-und-bin-begeistert-2609-213405.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/muse-ich-habe-mich-dem-ki-agenten-von-meta-anvertraut-und-bin-begeistert-2609-213405.html</guid>
+      <description>New-York-Times-Autor Eli Tan hat Muse zwei Wochen lang Zugriff auf Bankkonto, E-Mail und Alltag gegeben. Sein Erfahrungsbericht ist unsere heutige Leseempfehlung. Von Eli Tan (KI, Mark Zuckerberg)</description>
+      <pubDate>Thu, 24 Sep 2026 16:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Starthilfe-Powerbank mit Batterietester für Benzin und Diesel für unter 140 Euro</title>
       <link>https://www.golem.de/news/anzeige-starthilfe-powerbank-mit-batterietester-fuer-benzin-und-diesel-fuer-unter-140-euro-2609-213416.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/steer-by-wire-in-der-praxis-mit-dem-jochlenker-uebers-penser-joch-2609-213186.html</guid>
       <description>Das elektronische Lenkrad geht bei Mercedes demnächst in Serie. Wie sich das System in der Praxis fährt, haben wir mit dem EQS in den Alpen ausprobiert. Ein Bericht von Friedhelm Greis (Elektroauto, Tesla)</description>
       <pubDate>Fri, 18 Sep 2026 16:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>ALPSiX: Berliner Inter.link errichtet neuen Peeringknoten des DE-CIX in Südöstereich</title>
-      <link>https://www.golem.de/news/alpsix-berliner-inter-link-errichtet-neuen-peeringknoten-des-de-cix-in-suedoestereich-2609-213224.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/alpsix-berliner-inter-link-errichtet-neuen-peeringknoten-des-de-cix-in-suedoestereich-2609-213224.html</guid>
-      <description>Der neue Internetknoten ALPSiX in Klagenfurt-Villach setzt auf Edge-Container, um die Unabhängigkeit von Wien zu stärken und Daten direkt nach Norditalien, Bayern und auf den Balkan zu leiten. (DE-CIX, Rechenzentrum)</description>
-      <pubDate>Fri, 18 Sep 2026 15:57:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
