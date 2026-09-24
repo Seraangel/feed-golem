@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 10:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:06:11 GMT</lastBuildDate>
+    <item>
+      <title>UN-Sicherheitsrat: Altman und Amodei fordern globale KI-Sicherheitsstandards</title>
+      <link>https://www.golem.de/news/un-sicherheitsrat-altman-und-amodei-fordern-globale-ki-sicherheitsstandards-2609-213396.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/un-sicherheitsrat-altman-und-amodei-fordern-globale-ki-sicherheitsstandards-2609-213396.html</guid>
+      <description>Vor dem UN-Sicherheitsrat warnen KI-Experten und -Firmen vor Missbrauch und Kontrollverlust. Die USA lehnen globale Kontrollen kategorisch ab. Von Friedhelm Greis (KI, Elon Musk)</description>
+      <pubDate>Thu, 24 Sep 2026 11:02:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Sonys leichteste Bluetooth-Kopfhörer mit Noise Cancelling zum Amazon-Bestpreis unter 60 Euro</title>
       <link>https://www.golem.de/news/anzeige-sonys-leichteste-bluetooth-kopfhoerer-mit-noise-cancelling-zum-amazon-bestpreis-unter-60-euro-2609-213394.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-iphone-18-pro-max-mit-unbegrenztem-datenvolumen-bei-o2-2609-213196.html</guid>
       <description>Das neue iPhone 18 Pro Max gibt es mit unbegrenztem Datenvolumen für 72,99 Euro pro Monat im Tarif o2 Mobil Unlimited M. (O2, iPhone)</description>
       <pubDate>Fri, 18 Sep 2026 11:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Praxis-Workshop: TPM 2.0 unter Linux</title>
-      <link>https://www.golem.de/news/praxis-workshop-tpm-2-0-unter-linux-2609-213171.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/praxis-workshop-tpm-2-0-unter-linux-2609-213171.html</guid>
-      <description>Das einst verteufelte TPM ist längst im Linux-Alltag angekommen: Es entsperrt LUKS-Volumes, hütet SSH-Schlüssel und versiegelt Geheimnisse. Eine Anleitung von Martin Loschwitz (Linux, Malware)</description>
-      <pubDate>Fri, 18 Sep 2026 11:30:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
