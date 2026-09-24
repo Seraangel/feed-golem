@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 11:06:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:31:11 GMT</lastBuildDate>
+    <item>
+      <title>(g+) SAP-Patchtag: 19, 21, 22 oder 33 Sicherheitslücken?</title>
+      <link>https://www.golem.de/news/sap-patchtag-19-21-22-oder-33-sicherheitsluecken-2609-213391.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sap-patchtag-19-21-22-oder-33-sicherheitsluecken-2609-213391.html</guid>
+      <description>SAP-Patchtage liefern widersprüchliche Listen. Für Admins entscheiden ohnehin andere Kriterien, was zuerst gepatcht wird. Ein Ratgebertext von Steffen Zahn (SAP, Security)</description>
+      <pubDate>Thu, 24 Sep 2026 11:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>UN-Sicherheitsrat: Altman und Amodei fordern globale KI-Sicherheitsstandards</title>
       <link>https://www.golem.de/news/un-sicherheitsrat-altman-und-amodei-fordern-globale-ki-sicherheitsstandards-2609-213396.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/iphone-duo-im-hands-on-unser-erster-eindruck-von-apples-iphone-duo-2609-213208.html</guid>
       <description>Apple hat bei seinem ersten faltbaren iPhone Duo den Fokus auf den Falz und die Software gelegt - wir konnten uns einen ersten Eindruck verschaffen. Ein Hands-on von Tobias Költzsch (iPhone Duo, Smartphone)</description>
       <pubDate>Fri, 18 Sep 2026 12:22:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: iPhone 18 Pro Max mit unbegrenztem Datenvolumen bei o2</title>
-      <link>https://www.golem.de/news/anzeige-iphone-18-pro-max-mit-unbegrenztem-datenvolumen-bei-o2-2609-213196.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-iphone-18-pro-max-mit-unbegrenztem-datenvolumen-bei-o2-2609-213196.html</guid>
-      <description>Das neue iPhone 18 Pro Max gibt es mit unbegrenztem Datenvolumen für 72,99 Euro pro Monat im Tarif o2 Mobil Unlimited M. (O2, iPhone)</description>
-      <pubDate>Fri, 18 Sep 2026 11:40:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
