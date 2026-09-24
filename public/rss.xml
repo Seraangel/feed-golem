@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 10:01:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 10:16:13 GMT</lastBuildDate>
+    <item>
+      <title>Datenklau mit KI: Angreifer infiltrieren Webshops und stehlen Kreditkartendaten</title>
+      <link>https://www.golem.de/news/datenklau-mit-ki-angreifer-infiltrieren-webshops-und-stehlen-kreditkartendaten-2609-213393.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/datenklau-mit-ki-angreifer-infiltrieren-webshops-und-stehlen-kreditkartendaten-2609-213393.html</guid>
+      <description>Mithilfe von KI-Tools sind Angreifer an mindestens 600.000 gültige Kreditkartendaten aus mehreren Webshops gelangt. Die Angriffe dauern an. (Cybercrime, Onlineshop)</description>
+      <pubDate>Thu, 24 Sep 2026 10:14:05 GMT</pubDate>
+    </item>
     <item>
       <title>Nach Trump-Deal: Kalifornien will Bau von Windpark erzwingen</title>
       <link>https://www.golem.de/news/nach-trump-deal-kalifornien-will-bau-von-windpark-erzwingen-2609-213392.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/google-brain-mitbegruender-andrew-ng-warnt-vor-ki-panikmache-2609-213203.html</guid>
       <description>Andrew Ng sieht in den Warnungen vor KI größere Gefahren als durch die Technologie an sich. (KI, Security)</description>
       <pubDate>Fri, 18 Sep 2026 10:46:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>API-Key geleakt: Plötzlich Malware über 100.000 Websites verbreitet</title>
-      <link>https://www.golem.de/news/api-key-geleakt-ploetzlich-malware-ueber-100-000-websites-verbreitet-2609-213201.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/api-key-geleakt-ploetzlich-malware-ueber-100-000-websites-verbreitet-2609-213201.html</guid>
-      <description>Angreifer sind an einen API-Schlüssel von Brevo gelangt. Dieser hat mit einem Schlag Clickfix-Attacken über mehr als 100.000 Websites ermöglicht. (Malware, Virus)</description>
-      <pubDate>Fri, 18 Sep 2026 10:33:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
