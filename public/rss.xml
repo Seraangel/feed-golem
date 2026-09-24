@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 24 Sep 2026 06:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:41:09 GMT</lastBuildDate>
+    <item>
+      <title>Fresenius Medical Care: Cyberangriff trifft großen Dialysekonzern</title>
+      <link>https://www.golem.de/news/fresenius-medical-care-cyberangriff-trifft-grossen-dialysekonzern-2609-213380.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fresenius-medical-care-cyberangriff-trifft-grossen-dialysekonzern-2609-213380.html</guid>
+      <description>Die Hackergruppe Shinyhunters ist offenbar an Daten von Fresenius Medical Care gelangt. Inwieweit das Dialysepatienten betrifft, ist noch unklar. (Cybercrime, Cyberwar)</description>
+      <pubDate>Thu, 24 Sep 2026 06:37:02 GMT</pubDate>
+    </item>
     <item>
       <title>USA: Richter hebt Trumps Ausschluss von US-Medien vorerst auf</title>
       <link>https://www.golem.de/news/usa-richter-hebt-trumps-ausschluss-von-us-medien-vorerst-auf-2609-213379.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/arbeitswelt-ki-loest-weltweit-aengste-vor-jobverlust-aus-2609-213185.html</guid>
       <description>Eine Befragung in 37 Ländern zeigt breite Befürchtungen vor Jobverlusten durch KI und einer wachsenden Spaltung zwischen Arm und Reich. (Studien, KI)</description>
       <pubDate>Fri, 18 Sep 2026 07:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cybercrime: Nordkoreanische Cyberkriminelle bestehlen IT-Fachleute auf Jobsuche</title>
-      <link>https://www.golem.de/news/cybercrime-nordkoreanische-cyberkriminelle-bestehlen-it-fachleute-auf-jobsuche-2609-213184.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cybercrime-nordkoreanische-cyberkriminelle-bestehlen-it-fachleute-auf-jobsuche-2609-213184.html</guid>
-      <description>Sicherheitsbehörden warnen vor einer Cybergruppe aus Nordkorea, die gezielt IT-Spezialisten angreift. Was hinter der Kampagne "Contagious Interview" steckt. (Nordkorea, Datenschutz)</description>
-      <pubDate>Fri, 18 Sep 2026 07:16:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
