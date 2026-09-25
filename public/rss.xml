@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 05:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:21:14 GMT</lastBuildDate>
+    <item>
+      <title>FOSS-Appstore: F-Droid bekommt größtes Update seit zehn Jahren</title>
+      <link>https://www.golem.de/news/foss-appstore-f-droid-bekommt-groesstes-update-seit-zehn-jahren-2609-213418.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/foss-appstore-f-droid-bekommt-groesstes-update-seit-zehn-jahren-2609-213418.html</guid>
+      <description>F-Droid 2.0 ist in Kotlin von Grund auf neu geschrieben worden. Neben einem neuen Design soll eine neue Menüstruktur Übersicht bieten. (Open Source, Android)</description>
+      <pubDate>Fri, 25 Sep 2026 05:18:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Sicherheitsvorfälle: Die ersten Schritte entscheiden</title>
       <link>https://www.golem.de/news/anzeige-sicherheitsvorfaelle-die-ersten-schritte-entscheiden-2609-213163.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/von-c-nach-rust-ki-bringt-bewegung-in-die-legacy-migration-2609-213199.html</guid>
       <description>Die Migration alter C-Codebasen nach Rust ist ein Mammutprojekt. Agentische KI zerlegt den Prozess in viele kleine, überprüfbare Schritte. Ein Ratgebertext von Otto Geißler (Programmiersprachen, Softwareentwicklung)</description>
       <pubDate>Sat, 19 Sep 2026 08:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bezahlbarer Strom: Kosten der Energiewende gerechter verteilen</title>
-      <link>https://www.golem.de/news/bezahlbarer-strom-kosten-der-energiewende-gerechter-verteilen-2609-213183.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bezahlbarer-strom-kosten-der-energiewende-gerechter-verteilen-2609-213183.html</guid>
-      <description>Die feste Einspeisevergütung hat den Ausbau von Windkraft und Photovoltaik enorm beschleunigt. Neue Ideen können das System fairer machen. (Energiewende, Solarenergie)</description>
-      <pubDate>Sat, 19 Sep 2026 06:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
