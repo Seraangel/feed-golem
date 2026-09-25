@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 10:31:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:01:12 GMT</lastBuildDate>
+    <item>
+      <title>Word, Excel, Powerpoint: Projekt bringt Microsoft Office auf Linux</title>
+      <link>https://www.golem.de/news/word-excel-powerpoint-projekt-bringt-microsoft-office-auf-linux-2609-213438.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/word-excel-powerpoint-projekt-bringt-microsoft-office-auf-linux-2609-213438.html</guid>
+      <description>Über Proton kann Word bereits auf Linux gestartet werden. Eine große Herausforderung bleibt aber: die Lizenzierung durch Microsoft. (Microsoft 365, Linux)</description>
+      <pubDate>Fri, 25 Sep 2026 10:57:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 200-Hz-Monitor zum Tiefstpreis - Gigabyte G27Q2 mit QHD kostet nur 129 Euro</title>
       <link>https://www.golem.de/news/anzeige-200-hz-monitor-zum-tiefstpreis-gigabyte-g27q2-mit-qhd-kostet-nur-129-euro-2609-213436.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-kontroverse-trump-setzt-trotz-warnungen-vor-gefahren-noch-staerker-auf-ki-2609-213247.html</guid>
       <description>Führende Köpfe der KI-Branche verlangen eine Verlangsamung bei der KI-Entwicklung und warnen vor Kontrollverlust. Donald Trump ist das egal. (Donald Trump, KI)</description>
       <pubDate>Sun, 20 Sep 2026 09:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solarstrom: Verband fordert Batteriespeicher an 1.300 Umspannwerken</title>
-      <link>https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/solarstrom-verband-fordert-batteriespeicher-an-1-300-umspannwerken-2609-213246.html</guid>
-      <description>Mit mehr Batteriespeichern sollen 150 Gigawatt zusätzliche Photovoltaikleistung erzeugt werden. Davon sollen alle Stromkunden profitieren. (Solarenergie, Umweltschutz)</description>
-      <pubDate>Sun, 20 Sep 2026 08:52:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
