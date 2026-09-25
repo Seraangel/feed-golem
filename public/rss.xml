@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 14:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:21:12 GMT</lastBuildDate>
+    <item>
+      <title>Apple Silicon und Linux: Apple-M3-Macs kommen NVMe-Support im Linux-Kernel näher</title>
+      <link>https://www.golem.de/news/apple-silicon-und-linux-apple-m3-macs-kommen-nvme-support-im-linux-kernel-naeher-2609-213454.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/apple-silicon-und-linux-apple-m3-macs-kommen-nvme-support-im-linux-kernel-naeher-2609-213454.html</guid>
+      <description>Trotz der fortschreitenden Integration der Apple-M3-Hardware-Unterstützung im Linux-Kernel bleibt die funktionale Unterstützung rudimentär. (Linux-Kernel, Apple)</description>
+      <pubDate>Fri, 25 Sep 2026 15:17:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: MicroSD-Karte von Samsung mit 512 GByte zum Bestpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-microsd-karte-von-samsung-mit-512-gbyte-zum-bestpreis-bei-amazon-2609-213452.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-moderne-e-mail-sicherheit-ist-mehr-als-schutz-vor-angriffen-2609-213043.html</guid>
       <description>Die Abwehr von Cyberangriffen reicht nicht aus, um die digitale Geschäftskommunikation per E-Mail abzusichern. Wie Retarus Email Security Unternehmen die Kontrolle zurückgibt. (Security, Datensicherheit)</description>
       <pubDate>Mon, 21 Sep 2026 07:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cyberangriff trifft Universität: LMU München bestätigt Abfluss von Studentendaten</title>
-      <link>https://www.golem.de/news/cyberangriff-trifft-universitaet-lmu-muenchen-bestaetigt-abfluss-von-studentendaten-2609-213255.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-trifft-universitaet-lmu-muenchen-bestaetigt-abfluss-von-studentendaten-2609-213255.html</guid>
-      <description>Ein Angreifer ist an persönliche Daten von Studenten der Ludwig-Maximilians-Universität München gelangt. Auch Bankdaten sollen betroffen sein. (Cybercrime, Cyberwar)</description>
-      <pubDate>Mon, 21 Sep 2026 06:41:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
