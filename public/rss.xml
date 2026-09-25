@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 05:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 06:31:08 GMT</lastBuildDate>
+    <item>
+      <title>KI-PCs: Microsoft verabschiedet sich von der Marke Copilot+ PC</title>
+      <link>https://www.golem.de/news/ki-pcs-microsoft-verabschiedet-sich-von-der-marke-copilot-pc-2609-213420.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-pcs-microsoft-verabschiedet-sich-von-der-marke-copilot-pc-2609-213420.html</guid>
+      <description>Neue Surface-Geräte verabschieden sich vom Label Copilot+ PC, auch Qualcomm rückt davon ab. Die Marke reiht sich in eine lange Liste ein. (Microsoft, Surface)</description>
+      <pubDate>Fri, 25 Sep 2026 06:26:02 GMT</pubDate>
+    </item>
     <item>
       <title>Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell</title>
       <link>https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bis-2030-openai-erwartet-weitere-milliardenverluste-2609-213238.html</guid>
       <description>OpenAI fordert Investoren auf, den aggressiven Ausgabenkurs mitzutragen, um weitere Rechenkapazitäten aufzubauen. (KI, Rechenzentrum)</description>
       <pubDate>Sat, 19 Sep 2026 08:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Defense Radar: Wie funktioniert Burevestnik?</title>
-      <link>https://www.golem.de/news/defense-radar-wie-funktioniert-burevestnik-2609-213206.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/defense-radar-wie-funktioniert-burevestnik-2609-213206.html</guid>
-      <description>In unserem Videoformat Defense Radar geben wir Einblicke in Militärtechnik. Diesmal erklären wir, wie der nuklear betriebene Flugkörper Burevestnik oder Skyfall funktioniert. (Militär, Politik)</description>
-      <pubDate>Sat, 19 Sep 2026 08:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
