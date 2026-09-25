@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 11:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 11:31:09 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Open-Source-LLMs als Wettbewerbsvorteil: Kontrolle, Compliance und Kosten im Griff?</title>
+      <link>https://www.golem.de/news/open-source-llms-als-wettbewerbsvorteil-kontrolle-compliance-und-kosten-im-griff-2609-213442.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/open-source-llms-als-wettbewerbsvorteil-kontrolle-compliance-und-kosten-im-griff-2609-213442.html</guid>
+      <description>KI leistungsfähig einsetzen, ohne Kontrolle über Daten, Kosten und Compliance zu verlieren? Offene und selbstgehostete LLMs versprechen neue Spielräume, bringen aber auch eigene Entscheidungen mit sich. Eine Analyse von Fabian Deitelhoff (KI, JSON)</description>
+      <pubDate>Fri, 25 Sep 2026 11:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Der TCL 98Q7D Pro 98-Zoll-Mini-LED-TV jetzt bei Amazon zum Aktionspreis verfügbar</title>
       <link>https://www.golem.de/news/anzeige-der-tcl-98q7d-pro-98-zoll-mini-led-tv-jetzt-bei-amazon-zum-aktionspreis-verfuegbar-2609-213441.html</link>
@@ -30,7 +37,7 @@
       <title>Anzeige: 200-Hz-Monitor zum Tiefstpreis - Gigabyte G27Q2 mit QHD kostet nur 129 Euro</title>
       <link>https://www.golem.de/news/anzeige-200-hz-monitor-zum-tiefstpreis-gigabyte-g27q2-mit-qhd-kostet-nur-129-euro-2609-213436.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-200-hz-monitor-zum-tiefstpreis-gigabyte-g27q2-mit-qhd-kostet-nur-129-euro-2609-213436.html</guid>
-      <description>Mit QHD-Auflösung, IPS-Panel und bis zu 210 Hz richtet sich der Gigabyte G27Q2 vor allem an preisbewusste PC‑Spieler. Bei Amazon ist der 27-Zoll-Monitor jetzt zum Bestpreis erhältlich. (AOC, Display)</description>
+      <description>Mit QHD-Auflösung, IPS-Panel und bis zu 210 Hz richtet sich der Gigabyte G27Q2 vor allem an preisbewusste PC-Spieler. Bei Amazon ist der 27-Zoll-Monitor jetzt zum Bestpreis erhältlich. (AOC, Display)</description>
       <pubDate>Fri, 25 Sep 2026 10:27:07 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/optimismus-gefordert-baustellen-und-ki-entwicklung-begeistern-telekom-chef-hoettges-2609-213249.html</guid>
       <description>Telekom-Chef Tim Höttges ärgert sich über zu viel Pessimismus. Jede Baustelle sei ein positives Zeichen und KI sei ein großes "Geschenk". (Timotheus Höttges, KI)</description>
       <pubDate>Sun, 20 Sep 2026 10:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kettenhemd statt Katze: KI hat gravierende Schwächen beim Erkennen von Formen</title>
-      <link>https://www.golem.de/news/kettenhemd-statt-katze-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen-2609-213248.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kettenhemd-statt-katze-ki-hat-gravierende-schwaechen-beim-erkennen-von-formen-2609-213248.html</guid>
-      <description>Moderne KI kann selbst einfachste Umrisse von Objekten nicht erkennen. Eine Katze wird als Kreuzworträtsel oder Kettenhemd erkannt. (KI, Wissenschaft)</description>
-      <pubDate>Sun, 20 Sep 2026 09:38:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
