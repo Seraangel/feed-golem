@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 07:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:56:13 GMT</lastBuildDate>
+    <item>
+      <title>Cyberangriff auf Bitget: 350 Millionen US-Dollar von großer Kryptobörse gestohlen</title>
+      <link>https://www.golem.de/news/cyberangriff-auf-bitget-350-millionen-us-dollar-von-grosser-kryptoboerse-gestohlen-2609-213421.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-auf-bitget-350-millionen-us-dollar-von-grosser-kryptoboerse-gestohlen-2609-213421.html</guid>
+      <description>Ein Hackerangriff erschüttert die Kryptobörse Bitget: Angreifer sind an Millionenbestände verschiedener Kryptowährungen gelangt. (Cybercrime, Cyberwar)</description>
+      <pubDate>Fri, 25 Sep 2026 07:50:03 GMT</pubDate>
+    </item>
     <item>
       <title>Online-Shopping: Amazon-Kunden verlieren die Zahlungsoption Monatsabrechnung</title>
       <link>https://www.golem.de/news/online-shopping-amazon-kunden-verlieren-die-zahlungsoption-monatsabrechnung-2609-213424.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/luftfahrt-joby-fliegt-erstmals-vollautonom-quer-durch-die-usa-2609-213242.html</guid>
       <description>Joby Aviation meldet den ersten komplett autonomen Flug über den gesamten amerikanischen Kontinent, inklusive Schlechtwetterumfliegung. (Flugzeug, Luftfahrt)</description>
       <pubDate>Sat, 19 Sep 2026 10:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google bestätigt: KI-Modell Gemini knackt drei echte Firmen</title>
-      <link>https://www.golem.de/news/google-bestaetigt-ki-modell-gemini-knackt-drei-echte-firmen-2609-213241.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/google-bestaetigt-ki-modell-gemini-knackt-drei-echte-firmen-2609-213241.html</guid>
-      <description>Bei einem Sicherheitstest sollte Googles KI eigentlich nur fiktive Firmen angreifen. Stattdessen ist sie bei drei echten Unternehmen eingebrochen. (Gemini, Google)</description>
-      <pubDate>Sat, 19 Sep 2026 09:48:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
