@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 08:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 08:51:11 GMT</lastBuildDate>
+    <item>
+      <title>Muse leakt Systemdateien: Metas KI-Agent gibt auf Anfrage sein Dateisystem aus</title>
+      <link>https://www.golem.de/news/muse-leakt-systemdateien-metas-ki-agent-gibt-auf-anfrage-sein-dateisystem-aus-2609-213429.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/muse-leakt-systemdateien-metas-ki-agent-gibt-auf-anfrage-sein-dateisystem-aus-2609-213429.html</guid>
+      <description>Ein Entwickler hat Metas KI-Agent Muse 6,8 GByte an Daten aus seiner Betriebsumgebung entlockt. Laut Meta ist das ein erwartetes Verhalten. (KI, Ubuntu)</description>
+      <pubDate>Fri, 25 Sep 2026 08:50:11 GMT</pubDate>
+    </item>
     <item>
       <title>Horizon Create und Horizon Studio: KI erzeugt Handyspiele und verteilt sie auf Facebook</title>
       <link>https://www.golem.de/news/horizon-create-und-horizon-studio-ki-erzeugt-handyspiele-und-verteilt-sie-auf-facebook-2609-213427.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gopro-mission-1-pro-ils-im-test-auf-diese-actioncam-warte-ich-seit-der-hero-6-2609-213174.html</guid>
       <description>Mit Wechselobjektiven bietet die Gopro Mission 1 Pro ILS deutlich mehr gestalterische Freiheit - macht das Filmen aber auch anspruchsvoller. Ein Test von Peter Steinlechner (Gopro, Kameras)</description>
       <pubDate>Sun, 20 Sep 2026 05:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: IT-Jobs in Verwaltung, Forschung und Gesundheitswesen</title>
-      <link>https://www.golem.de/news/anzeige-it-jobs-in-verwaltung-forschung-und-gesundheitswesen-2609-213189.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-verwaltung-forschung-und-gesundheitswesen-2609-213189.html</guid>
-      <description>Von Anwendungsadministration bis Business Intelligence: Aktuell sind sechs vielseitige IT-Positionen im Angebot. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Sun, 20 Sep 2026 05:00:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
