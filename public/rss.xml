@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 05:21:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:36:13 GMT</lastBuildDate>
+    <item>
+      <title>Tesla: FSD fährt in Brüsseler 30er-Zonen zu schnell</title>
+      <link>https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html</guid>
+      <description>Kurz vor der Abstimmung zur EU-weiten Zulassung von FSD zeigt eine Studie, dass Teslas Fahrassistent es mit der Geschwindigkeit nicht so genau nimmt. (Tesla, Elektroauto)</description>
+      <pubDate>Fri, 25 Sep 2026 05:33:11 GMT</pubDate>
+    </item>
     <item>
       <title>FOSS-Appstore: F-Droid bekommt größtes Update seit zehn Jahren</title>
       <link>https://www.golem.de/news/foss-appstore-f-droid-bekommt-groesstes-update-seit-zehn-jahren-2609-213418.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/defense-radar-wie-funktioniert-burevestnik-2609-213206.html</guid>
       <description>In unserem Videoformat Defense Radar geben wir Einblicke in Militärtechnik. Diesmal erklären wir, wie der nuklear betriebene Flugkörper Burevestnik oder Skyfall funktioniert. (Militär, Politik)</description>
       <pubDate>Sat, 19 Sep 2026 08:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Von C nach Rust: KI bringt Bewegung in die Legacy-Migration</title>
-      <link>https://www.golem.de/news/von-c-nach-rust-ki-bringt-bewegung-in-die-legacy-migration-2609-213199.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/von-c-nach-rust-ki-bringt-bewegung-in-die-legacy-migration-2609-213199.html</guid>
-      <description>Die Migration alter C-Codebasen nach Rust ist ein Mammutprojekt. Agentische KI zerlegt den Prozess in viele kleine, überprüfbare Schritte. Ein Ratgebertext von Otto Geißler (Programmiersprachen, Softwareentwicklung)</description>
-      <pubDate>Sat, 19 Sep 2026 08:00:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
