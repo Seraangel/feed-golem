@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 09:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:16:11 GMT</lastBuildDate>
+    <item>
+      <title>Schadcode-Attacken möglich: Angreifer können Gitlab-Instanzen kapern</title>
+      <link>https://www.golem.de/news/schadcode-attacken-moeglich-angreifer-koennen-gitlab-instanzen-kapern-2609-213435.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-angreifer-koennen-gitlab-instanzen-kapern-2609-213435.html</guid>
+      <description>Mehrere Sicherheitslücken lassen Angreifer Schadcode auf Gitlab-Server sowie in die Webbrowser anderer Nutzer einschleusen. Admins sollten zügig handeln. (Sicherheitslücke, Server)</description>
+      <pubDate>Fri, 25 Sep 2026 10:11:07 GMT</pubDate>
+    </item>
     <item>
       <title>Elektrisch Fliegen: E-Flugzeug strebt nach Erstflug Zulassung an</title>
       <link>https://www.golem.de/news/elektrisch-fliegen-e-flugzeug-strebt-nach-erstflug-zulassung-an-2609-213434.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-bosch-werkzeug-adventkskalender-bereits-im-amazon-preisfall-2609-213245.html</guid>
       <description>Der Adventskalender von Bosch bietet unter anderem eine Ratsche, Zange und Bits. Bei Amazon ist er schon im Angebot. (Bosch, Technik/Hardware)</description>
       <pubDate>Sun, 20 Sep 2026 08:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Beliebte FHD-Webcam von Ugreen für nur 14,99 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-beliebte-fhd-webcam-von-ugreen-fuer-nur-14-99-euro-bei-amazon-2609-213207.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebte-fhd-webcam-von-ugreen-fuer-nur-14-99-euro-bei-amazon-2609-213207.html</guid>
-      <description>Eine beliebte Webcam von Ugreen mit FHD-Auflösung, automatischer Lichtkorrektur und Dual-Mikrofonen gibt es bei Amazon zum Schnäppchenpreis. (Webcam, Technik/Hardware)</description>
-      <pubDate>Sun, 20 Sep 2026 08:40:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
