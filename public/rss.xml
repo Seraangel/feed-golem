@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 07:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 07:41:14 GMT</lastBuildDate>
+    <item>
+      <title>Online-Shopping: Amazon-Kunden verlieren die Zahlungsoption Monatsabrechnung</title>
+      <link>https://www.golem.de/news/online-shopping-amazon-kunden-verlieren-die-zahlungsoption-monatsabrechnung-2609-213424.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/online-shopping-amazon-kunden-verlieren-die-zahlungsoption-monatsabrechnung-2609-213424.html</guid>
+      <description>Amazon verweist auf eine Alternative, die aber kein echter Ersatz für die bisherige Monatsabrechnung ist. (Amazon, Onlineshop)</description>
+      <pubDate>Fri, 25 Sep 2026 07:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Chips im Orbit: Google kündigt ersten Test an</title>
       <link>https://www.golem.de/news/ki-chips-im-orbit-google-kuendigt-ersten-test-an-2609-213423.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/google-bestaetigt-ki-modell-gemini-knackt-drei-echte-firmen-2609-213241.html</guid>
       <description>Bei einem Sicherheitstest sollte Googles KI eigentlich nur fiktive Firmen angreifen. Stattdessen ist sie bei drei echten Unternehmen eingebrochen. (Gemini, Google)</description>
       <pubDate>Sat, 19 Sep 2026 09:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>US-Militär: Fehlerhafter KI-Bericht löst beinahe Militärschlag aus</title>
-      <link>https://www.golem.de/news/us-militaer-fehlerhafter-ki-bericht-loest-beinahe-militaerschlag-aus-2609-213240.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/us-militaer-fehlerhafter-ki-bericht-loest-beinahe-militaerschlag-aus-2609-213240.html</guid>
-      <description>Das US-Militär bereitete bereits eine Abfangaktion gegen ein chinesisches Schiff vor, als der KI-Fehler auffiel. (KI, Politik)</description>
-      <pubDate>Sat, 19 Sep 2026 09:26:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
