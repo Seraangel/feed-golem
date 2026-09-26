@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 26 Sep 2026 09:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:26:13 GMT</lastBuildDate>
+    <item>
+      <title>Lufttransport: Wie Roboter die ukrainische Offensive unterstützen</title>
+      <link>https://www.golem.de/news/lufttransport-wie-roboter-die-ukrainische-offensive-unterstuetzen-2609-213460.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/lufttransport-wie-roboter-die-ukrainische-offensive-unterstuetzen-2609-213460.html</guid>
+      <description>Die Ukraine setzt autonome Roboter ein, um Minenfelder zu räumen, Nachschublinien zu durchbrechen und gegnerische Verbände zu flankieren. (Roboter, Politik)</description>
+      <pubDate>Sat, 26 Sep 2026 10:25:01 GMT</pubDate>
+    </item>
     <item>
       <title>Gewerkschaft: Bankangestellte wollen pro Quartal drei KI-Entlastungstage</title>
       <link>https://www.golem.de/news/gewerkschaft-bankangestellte-wollen-pro-quartal-drei-ki-entlastungstage-2609-213463.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/methan-aus-co2-so-koennte-raketentreibstoff-auf-dem-mars-entstehen-2609-213198.html</guid>
       <description>Forscher haben nahezu reines Methan aus Kohlendioxid hergestellt. Die Methode könnte helfen, Raketentreibstoff direkt auf dem Mars zu produzieren. (Mars, Raumfahrt)</description>
       <pubDate>Mon, 21 Sep 2026 10:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Energieversorgung im All: USA planen für 2028 den Start eines Atomreaktors</title>
-      <link>https://www.golem.de/news/energieversorgung-im-all-usa-planen-fuer-2028-den-start-eines-atomreaktors-2609-213270.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/energieversorgung-im-all-usa-planen-fuer-2028-den-start-eines-atomreaktors-2609-213270.html</guid>
-      <description>Nachdem ein erster Prototyp Kritikalität erreicht hat, soll eine Weiterentwicklung den Orbit und schließlich den Mond erreichen. (Atomkraft, Rakete)</description>
-      <pubDate>Mon, 21 Sep 2026 10:20:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
