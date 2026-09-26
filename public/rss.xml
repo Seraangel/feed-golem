@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 26 Sep 2026 08:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:26:15 GMT</lastBuildDate>
+    <item>
+      <title>KI-Choke: Bill Gates warnt vor tödlicher Waffe</title>
+      <link>https://www.golem.de/news/ki-choke-bill-gates-warnt-vor-toedlicher-waffe-2609-213461.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-choke-bill-gates-warnt-vor-toedlicher-waffe-2609-213461.html</guid>
+      <description>Bill Gates drängt den US-Kongress zu strengen KI-Regularien. Während Donald Trump jede Aufsicht ablehnt, entdecken Sicherheitsforscher alarmierende Lücken. (Bill Gates, KI)</description>
+      <pubDate>Sat, 26 Sep 2026 08:25:03 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Im Zeitalter von Edge und Docker: Warum die SPS im Schaltschrank bleibt</title>
       <link>https://www.golem.de/news/im-zeitalter-von-edge-und-docker-warum-die-sps-im-schaltschrank-bleibt-2609-213433.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smarte-lautsprecher-amazon-deaktiviert-aux-sprachsteuerung-auf-echo-lautsprechern-2609-213265.html</guid>
       <description>Smart-Home-Geräte verlieren erneut Funktionen, für die Kunden bezahlt haben. Kunden können sich nicht dagegen wehren. (Echo, Amazon)</description>
       <pubDate>Mon, 21 Sep 2026 09:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI trifft auf Reagenzglas: Anthropic eröffnet Biotech-Labor</title>
-      <link>https://www.golem.de/news/ki-trifft-auf-reagenzglas-anthropic-eroeffnet-biotech-labor-2609-213264.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-trifft-auf-reagenzglas-anthropic-eroeffnet-biotech-labor-2609-213264.html</guid>
-      <description>Anthropic betreibt in den USA ein Labor, in dem seine KI-Systeme echte biologische Experimente durchführen. (Anthropic, KI)</description>
-      <pubDate>Mon, 21 Sep 2026 09:22:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
