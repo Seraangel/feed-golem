@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 26 Sep 2026 08:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:41:22 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: HP OmniBook 7 Copilot+ Laptop für unter 900 Euro</title>
+      <link>https://www.golem.de/news/anzeige-hp-omnibook-7-copilot-laptop-fuer-unter-900-euro-2609-213445.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-hp-omnibook-7-copilot-laptop-fuer-unter-900-euro-2609-213445.html</guid>
+      <description>Das HP OmniBook 7 kombiniert ein großes 17-Zoll-Display mit moderner KI-Performance. Amazon bietet den Copilot+ Laptop aktuell mit satten 260 Euro Rabatt an. (Technik/Hardware)</description>
+      <pubDate>Sat, 26 Sep 2026 08:40:07 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Choke: Bill Gates warnt vor tödlicher Waffe</title>
       <link>https://www.golem.de/news/ki-choke-bill-gates-warnt-vor-toedlicher-waffe-2609-213461.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/synology-warnt-kritische-nas-luecken-ermoeglichen-datenklau-2609-213268.html</guid>
       <description>Angreifer können durch mehrere Sicherheitslücken lesend und schreibend auf NAS-Geräte von Synology zugreifen. Patches sind verfügbar. (Sicherheitslücke, NAS)</description>
       <pubDate>Mon, 21 Sep 2026 09:52:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smarte Lautsprecher: Amazon deaktiviert Aux-Sprachsteuerung auf Echo-Lautsprechern</title>
-      <link>https://www.golem.de/news/smarte-lautsprecher-amazon-deaktiviert-aux-sprachsteuerung-auf-echo-lautsprechern-2609-213265.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smarte-lautsprecher-amazon-deaktiviert-aux-sprachsteuerung-auf-echo-lautsprechern-2609-213265.html</guid>
-      <description>Smart-Home-Geräte verlieren erneut Funktionen, für die Kunden bezahlt haben. Kunden können sich nicht dagegen wehren. (Echo, Amazon)</description>
-      <pubDate>Mon, 21 Sep 2026 09:37:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
