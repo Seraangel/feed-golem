@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 26 Sep 2026 10:26:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 10:56:14 GMT</lastBuildDate>
+    <item>
+      <title>Lieferdienst: Flink-Kunden werden von Hackern erpresst</title>
+      <link>https://www.golem.de/news/lieferdienst-flink-kunden-werden-von-hackern-erpresst-2609-213466.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/lieferdienst-flink-kunden-werden-von-hackern-erpresst-2609-213466.html</guid>
+      <description>Der Lieferdienst Flink ist gehackt worden. Nun werden seine Kunden erpresst und sollen in Krypto bezahlen. Flink selbst lehnt sämtliche Lösegeldzahlungen ab. (Lieferdienst, Security)</description>
+      <pubDate>Sat, 26 Sep 2026 10:55:08 GMT</pubDate>
+    </item>
     <item>
       <title>Lufttransport: Wie Roboter die ukrainische Offensive unterstützen</title>
       <link>https://www.golem.de/news/lufttransport-wie-roboter-die-ukrainische-offensive-unterstuetzen-2609-213460.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/langsamer-statt-schneller-iphone-18-pro-max-mit-1-tbyte-faellt-bei-dauerschreiben-drastisch-ab-2609-213267.html</guid>
       <description>Sobald der schnelle Cache der 1-TByte-Version erschöpft ist, sackt die Schreibleistung des iPhone 18 Pro Max teilweise unter das Niveau günstiger Micro-SD-Karten. (iPhone 18, Apple)</description>
       <pubDate>Mon, 21 Sep 2026 11:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Methan aus CO2: So könnte Raketentreibstoff auf dem Mars entstehen</title>
-      <link>https://www.golem.de/news/methan-aus-co2-so-koennte-raketentreibstoff-auf-dem-mars-entstehen-2609-213198.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/methan-aus-co2-so-koennte-raketentreibstoff-auf-dem-mars-entstehen-2609-213198.html</guid>
-      <description>Forscher haben nahezu reines Methan aus Kohlendioxid hergestellt. Die Methode könnte helfen, Raketentreibstoff direkt auf dem Mars zu produzieren. (Mars, Raumfahrt)</description>
-      <pubDate>Mon, 21 Sep 2026 10:40:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
