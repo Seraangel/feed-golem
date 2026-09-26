@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 26 Sep 2026 07:46:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 08:01:27 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Im Zeitalter von Edge und Docker: Warum die SPS im Schaltschrank bleibt</title>
+      <link>https://www.golem.de/news/im-zeitalter-von-edge-und-docker-warum-die-sps-im-schaltschrank-bleibt-2609-213433.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/im-zeitalter-von-edge-und-docker-warum-die-sps-im-schaltschrank-bleibt-2609-213433.html</guid>
+      <description>Unternehmen wollen OT wie IT betreiben. Doch Echtzeit, Safety und Verfügbarkeit setzen Grenzen. Anbieter und Anwender zeigen, was auf Edge und Cloud wandert - und was auf der SPS bleibt. Von Dietmar Müller (Industrie 4.0, Linux)</description>
+      <pubDate>Sat, 26 Sep 2026 08:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Vor 4 Milliarden Jahren: Mond besaß schützendes Magnetfeld</title>
       <link>https://www.golem.de/news/vor-4-milliarden-jahren-mond-besass-schuetzendes-magnetfeld-2609-213439.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-trifft-auf-reagenzglas-anthropic-eroeffnet-biotech-labor-2609-213264.html</guid>
       <description>Anthropic betreibt in den USA ein Labor, in dem seine KI-Systeme echte biologische Experimente durchführen. (Anthropic, KI)</description>
       <pubDate>Mon, 21 Sep 2026 09:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Ecovacs Winbot-Mini-Fensterputzroboter zum Bestpreis für 159 Euro</title>
-      <link>https://www.golem.de/news/anzeige-ecovacs-winbot-mini-fensterputzroboter-zum-bestpreis-fuer-159-euro-2609-213263.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ecovacs-winbot-mini-fensterputzroboter-zum-bestpreis-fuer-159-euro-2609-213263.html</guid>
-      <description>Der Ecovacs Winbot Mini übernimmt die Fensterreinigung automatisch. Amazon bietet den kompakten Roboter aktuell stark reduziert zum Bestpreis an. (Technik/Hardware)</description>
-      <pubDate>Mon, 21 Sep 2026 09:20:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
