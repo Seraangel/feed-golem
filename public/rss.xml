@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 25 Sep 2026 19:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 05:31:18 GMT</lastBuildDate>
+    <item>
+      <title>Von Delphi bis Moorhuhn: Eure Geschichten aus dem Informatikunterricht der 2000er Jahren</title>
+      <link>https://www.golem.de/news/von-delphi-bis-moorhuhn-eure-geschichten-aus-dem-informatikunterricht-der-2000er-jahren-2609-213411.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/von-delphi-bis-moorhuhn-eure-geschichten-aus-dem-informatikunterricht-der-2000er-jahren-2609-213411.html</guid>
+      <description>Turbo Pascal, Paint und - Lehrer, die E-Mail-Adressen für Webseiten hielten: Hier kommt Teil zwei eurer Geschichten aus den IT-Stunden in der Schule. (Bildung, Powerpoint)</description>
+      <pubDate>Sat, 26 Sep 2026 05:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Tausendfach gekaufte Lego Speed Champions bei Amazon nie billiger</title>
       <link>https://www.golem.de/news/anzeige-tausendfach-gekaufte-lego-speed-champions-bei-amazon-nie-billiger-2609-213457.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebte-smart-steckdose-mit-alexa-im-4er-pack-jetzt-nur-7-euro-pro-stueck-bei-amazon-2609-213262.html</guid>
       <description>Die Eightree-WLAN-Steckdose misst Stromverbrauch, schaltet per Timer und ist bei Amazon wieder deutlich günstiger. (Smart Home, Technik/Hardware)</description>
       <pubDate>Mon, 21 Sep 2026 08:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Behörde warnt: Linux-Systeme werden über Kernel-Lücken attackiert</title>
-      <link>https://www.golem.de/news/behoerde-warnt-angriffe-auf-luecken-im-linux-kernel-beobachtet-2609-213261.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/behoerde-warnt-angriffe-auf-luecken-im-linux-kernel-beobachtet-2609-213261.html</guid>
-      <description>Die Cisa warnt vor laufenden Angriffen auf Linux-Systeme über drei gefährliche Sicherheitslücken in Kernel-Komponenten. Korrekturen sind verfügbar. (Sicherheitslücke, Linux-Kernel)</description>
-      <pubDate>Mon, 21 Sep 2026 08:24:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
