@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 27 Sep 2026 05:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 05:31:27 GMT</lastBuildDate>
+    <item>
+      <title>Smarte Verkehrssysteme: "Was richtig ist, sollte uns nicht der Algorithmus sagen"</title>
+      <link>https://www.golem.de/news/smarte-verkehrssysteme-was-richtig-ist-sollte-uns-nicht-der-algorithmus-sagen-2609-213437.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/smarte-verkehrssysteme-was-richtig-ist-sollte-uns-nicht-der-algorithmus-sagen-2609-213437.html</guid>
+      <description>Smarte Verkehrssysteme sollen Städte sicherer machen. Allerdings verlangen sie hohe Investitionen und könnten das Prinzip auf den Kopf stellen, nach dem Städte funktionieren. Ein Interview von Tim Reinboth (Mobilität, KI)</description>
+      <pubDate>Sun, 27 Sep 2026 05:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: IT-Jobs in Entwicklung, DevOps und IT-Administration</title>
       <link>https://www.golem.de/news/anzeige-it-jobs-in-entwicklung-devops-und-it-administration-2609-213432.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kleiner-knipex-zangenschluessel-im-amazon-preisfall-2609-213274.html</guid>
       <description>Bei Amazon ist der Zangenschlüssel von Knipex in der kompakten Variante günstiger geworden. (Technik/Hardware)</description>
       <pubDate>Mon, 21 Sep 2026 11:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Windows-Lücken: Die Rückkehr der Würmer</title>
-      <link>https://www.golem.de/news/windows-luecken-die-rueckkehr-der-wuermer-2609-213269.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/windows-luecken-die-rueckkehr-der-wuermer-2609-213269.html</guid>
-      <description>Laut Zero Day Initiative sind 20 der neuen Windows-Lücken wurmfähig. Was Wannacry lehrt und was Admins absichern. Ein Ratgebertext von Steffen Zahn (Security, IBM)</description>
-      <pubDate>Mon, 21 Sep 2026 11:30:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
