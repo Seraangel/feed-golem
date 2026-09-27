@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 27 Sep 2026 10:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 10:46:20 GMT</lastBuildDate>
+    <item>
+      <title>KI mit Kontrollverlust: OpenAI stoppt Training seiner Top-Modelle</title>
+      <link>https://www.golem.de/news/ki-mit-kontrollverlust-openai-stoppt-training-seiner-top-modelle-2609-213470.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-mit-kontrollverlust-openai-stoppt-training-seiner-top-modelle-2609-213470.html</guid>
+      <description>Ein KI-System knackt seine eigene Isolationsumgebung und veröffentlicht ungefragt Nutzerbilder. Daraufhin setzt OpenAI das Training aus. (OpenAI, KI)</description>
+      <pubDate>Sun, 27 Sep 2026 10:45:02 GMT</pubDate>
+    </item>
     <item>
       <title>Tabellenkalkulation: Excel ermöglicht erstmals Listen und Arrays in einzelnen Zellen</title>
       <link>https://www.golem.de/news/tabellenkalkulation-excel-ermoeglicht-erstmals-listen-und-arrays-in-einzelnen-zellen-2609-213469.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/missbrauch-von-standortdaten-google-muss-400-millionen-euro-strafe-zahlen-2609-213282.html</guid>
       <description>Google-Nutzer wurden jahrelang über die Speicherung von Standortdaten getäuscht. Das führt zu einer hohen Strafe durch Datenschützer. (Politik, Smartphone)</description>
       <pubDate>Mon, 21 Sep 2026 14:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smart-Home-Hub: Apples erstes smartes Display kommt im Oktober, das kann es</title>
-      <link>https://www.golem.de/news/smart-home-hub-apples-erstes-smartes-display-kommt-im-oktober-das-kann-es-2609-213281.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smart-home-hub-apples-erstes-smartes-display-kommt-im-oktober-das-kann-es-2609-213281.html</guid>
-      <description>Apples seit Jahren geplantes Konkurrenzprodukt zum Echo Show soll nächsten Monat erscheinen. Vorab sind alle wichtigen Details bekannt geworden. (Apple, Siri)</description>
-      <pubDate>Mon, 21 Sep 2026 14:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
