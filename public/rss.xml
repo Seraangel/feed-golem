@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 27 Sep 2026 08:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:31:14 GMT</lastBuildDate>
+    <item>
+      <title>Metalsong über Kotlin: Powerpoint zum Mitsingen</title>
+      <link>https://www.golem.de/news/metalsong-ueber-kotlin-powerpoint-zum-mitsingen-2609-213447.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/metalsong-ueber-kotlin-powerpoint-zum-mitsingen-2609-213447.html</guid>
+      <description>Die italienische Metalband Nanowar of Steel hat es wieder getan: Nach ihrem Stück HelloWorld.java haben die Musiker den Song Kotlin veröffentlicht. Von Emanuel Kessler (Unterhaltung &amp; Hobby, Java)</description>
+      <pubDate>Sun, 27 Sep 2026 08:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) pnpm: Blitzschnelles und smartes Paketmanagement für Node.js</title>
       <link>https://www.golem.de/news/pnpm-blitzschnelles-und-smartes-paketmanagement-fuer-node-js-2609-213448.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/antimaterie-antiprotonen-fuer-einen-monat-aufbewahrt-2609-213277.html</guid>
       <description>Auswertung des Transports von Antimaterie zeigen, dass Untersuchungen zu Unterschieden zwischen Materie und Antimaterie bald starten könnten. (Antimaterie, LHC)</description>
       <pubDate>Mon, 21 Sep 2026 11:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arbeitsspeicher aus China: CXMTs G5-Plattform ist in der Massenproduktion</title>
-      <link>https://www.golem.de/news/arbeitsspeicher-aus-china-cxmts-g5-plattform-ist-in-der-massenproduktion-2609-213272.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/arbeitsspeicher-aus-china-cxmts-g5-plattform-ist-in-der-massenproduktion-2609-213272.html</guid>
-      <description>Die neue Technologieplattform von CXMT soll leistungsfähige Chips zu geringeren Kosten und bei reduziertem Energieverbrauch ermöglichen. (CXMT, PC-Hardware)</description>
-      <pubDate>Mon, 21 Sep 2026 11:45:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
