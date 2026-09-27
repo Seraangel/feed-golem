@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 27 Sep 2026 05:31:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 08:01:59 GMT</lastBuildDate>
+    <item>
+      <title>(g+) pnpm: Blitzschnelles und smartes Paketmanagement für Node.js</title>
+      <link>https://www.golem.de/news/pnpm-blitzschnelles-und-smartes-paketmanagement-fuer-node-js-2609-213448.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pnpm-blitzschnelles-und-smartes-paketmanagement-fuer-node-js-2609-213448.html</guid>
+      <description>pnpm beschleunigt und vereinfacht die Paketverwaltung für Node.js durch innovative Konzepte. Wie genau funktioniert das? Eine Anleitung von Marco Dahms (Softwareentwicklung, Server)</description>
+      <pubDate>Sun, 27 Sep 2026 08:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Smarte Verkehrssysteme: "Was richtig ist, sollte uns nicht der Algorithmus sagen"</title>
       <link>https://www.golem.de/news/smarte-verkehrssysteme-was-richtig-ist-sollte-uns-nicht-der-algorithmus-sagen-2609-213437.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/arbeitsspeicher-aus-china-cxmts-g5-plattform-ist-in-der-massenproduktion-2609-213272.html</guid>
       <description>Die neue Technologieplattform von CXMT soll leistungsfähige Chips zu geringeren Kosten und bei reduziertem Energieverbrauch ermöglichen. (CXMT, PC-Hardware)</description>
       <pubDate>Mon, 21 Sep 2026 11:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Kleiner Knipex Zangenschlüssel im Amazon-Preisfall</title>
-      <link>https://www.golem.de/news/anzeige-kleiner-knipex-zangenschluessel-im-amazon-preisfall-2609-213274.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kleiner-knipex-zangenschluessel-im-amazon-preisfall-2609-213274.html</guid>
-      <description>Bei Amazon ist der Zangenschlüssel von Knipex in der kompakten Variante günstiger geworden. (Technik/Hardware)</description>
-      <pubDate>Mon, 21 Sep 2026 11:38:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
