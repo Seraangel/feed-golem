@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 26 Sep 2026 11:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 05:01:25 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Jobs in Entwicklung, DevOps und IT-Administration</title>
+      <link>https://www.golem.de/news/anzeige-it-jobs-in-entwicklung-devops-und-it-administration-2609-213432.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-entwicklung-devops-und-it-administration-2609-213432.html</guid>
+      <description>Von Golang-Entwicklung bis IT-Sicherheit: Diese sechs Positionen bieten vielseitige Aufgaben in Entwicklung, Administration und Führung. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Sun, 27 Sep 2026 05:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>Golden Dome: SpaceX wird mit maßgeschneiderten Ausschreibungen unantastbar</title>
       <link>https://www.golem.de/news/golden-dome-spacex-wird-mit-massgeschneiderten-ausschreibungen-unantastbar-2609-213465.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/windows-luecken-die-rueckkehr-der-wuermer-2609-213269.html</guid>
       <description>Laut Zero Day Initiative sind 20 der neuen Windows-Lücken wurmfähig. Was Wannacry lehrt und was Admins absichern. Ein Ratgebertext von Steffen Zahn (Security, IBM)</description>
       <pubDate>Mon, 21 Sep 2026 11:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Ultimea-Poseidon-M20-Pro 2.1-Soundbar für rund 60 Euro bei Amazon im Angebot</title>
-      <link>https://www.golem.de/news/anzeige-ultimea-poseidon-m20-pro-2-1-soundbar-fuer-rund-60-euro-bei-amazon-im-angebot-2609-213273.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ultimea-poseidon-m20-pro-2-1-soundbar-fuer-rund-60-euro-bei-amazon-im-angebot-2609-213273.html</guid>
-      <description>Die Poseidon M20 Pro Soundbar von Ultimea mit integriertem Subwoofer und 132 Watt Leistung ist jetzt wieder günstiger. (Soundbar, Heimkino)</description>
-      <pubDate>Mon, 21 Sep 2026 11:22:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
