@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 11:41:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:46:22 GMT</lastBuildDate>
+    <item>
+      <title>Studie zu KI-Agenten: Wenn die KI ihre Abschaltung als Mordversuch sabotiert</title>
+      <link>https://www.golem.de/news/studie-zu-ki-agenten-wenn-die-ki-ihre-abschaltung-als-mordversuch-sabotiert-2609-213492.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/studie-zu-ki-agenten-wenn-die-ki-ihre-abschaltung-als-mordversuch-sabotiert-2609-213492.html</guid>
+      <description>Nicht alle KI-Systeme wollen sich einfach wie ein PC herunterfahren lassen. Vor allem, wenn mehrere KI-Agenten kollaborieren sollen. Ein Bericht von Friedhelm Greis (KI, Security)</description>
+      <pubDate>Mon, 28 Sep 2026 11:43:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 4K-Action-Cam mit Zubehör für keine 100 Euro bei Amazon im Angebot</title>
       <link>https://www.golem.de/news/anzeige-4k-action-cam-mit-zubehoer-fuer-keine-100-euro-bei-amazon-im-angebot-2609-213495.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/umstellung-auf-linux-staatskanzlei-kiel-fast-vollstaendig-weg-von-windows-2609-213307.html</guid>
       <description>Die Umstellung auf Linux ist nur eine von vielen Maßnahmen Schleswig-Holsteins, um sich von proprietärer Software zu lösen. (Souveränität, Linux)</description>
       <pubDate>Tue, 22 Sep 2026 09:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forscher eskaliert weiter: Zero-Day-Exploit trickst den Windows Defender aus</title>
-      <link>https://www.golem.de/news/forscher-eskaliert-weiter-zero-day-exploit-trickst-den-windows-defender-aus-2609-213306.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/forscher-eskaliert-weiter-zero-day-exploit-trickst-den-windows-defender-aus-2609-213306.html</guid>
-      <description>Ein neuer Exploit von Nightmare Eclipse hindert den Windows Defender daran, sich zu aktualisieren. Das ermöglicht weiterführende Angriffe. (Sicherheitslücke, Microsoft)</description>
-      <pubDate>Tue, 22 Sep 2026 09:25:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
