@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 11:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 11:31:32 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Immutable Desktops: Der Linux-Desktop wird berechenbarer</title>
+      <link>https://www.golem.de/news/immutable-desktops-der-linux-desktop-wird-berechenbarer-2609-213486.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/immutable-desktops-der-linux-desktop-wird-berechenbarer-2609-213486.html</guid>
+      <description>Immutable-Linux-Desktops sollen stabilere Updates und einfache Rollbacks bieten. Wir zeigen, wie Fedora, Opensuse, Vanilla OS und Ubuntu Core das umsetzen. Ein Ratgebertext von Antonino Zambito (Linux, Dateisystem)</description>
+      <pubDate>Mon, 28 Sep 2026 11:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Golem Karrierewelt: Golem.de-Youtube-Podcast: Leben als IT-Freiberufler</title>
+      <link>https://www.golem.de/news/golem-karrierewelt-golem-de-youtube-podcast-leben-als-it-freiberufler-2609-213475.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/golem-karrierewelt-golem-de-youtube-podcast-leben-als-it-freiberufler-2609-213475.html</guid>
+      <description>IT-Freiberuflichkeit bietet Freiheit und spannende Projekte, bringt aber auch Akquise und unternehmerische Verantwortung mit sich. Aaron Siller und Karsten Hentrup berichten aus der Praxis. (Unternehmen, Betriebssysteme)</description>
+      <pubDate>Mon, 28 Sep 2026 11:27:07 GMT</pubDate>
+    </item>
     <item>
       <title>Von Elektronik bis Satelliten: Klebstoff nutzt Mistelbeere statt Erdöl</title>
       <link>https://www.golem.de/news/von-elektronik-bis-satelliten-klebstoff-nutzt-mistelbeere-statt-erdoel-2609-213493.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smart-tvs-youtuber-entfernt-wlan-modul-aus-neuem-lg-tv-2609-213299.html</guid>
       <description>Nach Berichten über Spionagefunktionen entfernt ein Youtuber Hardwarekomponenten aus seinem LG OLED G6. Der Fernseher funktioniert weiterhin. (LG, OLED)</description>
       <pubDate>Tue, 22 Sep 2026 09:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>120 Meter lang: Neues chinesisches Atom-U-Boot nimmt Gestalt an</title>
-      <link>https://www.golem.de/news/120-meter-lang-neues-chinesisches-atom-u-boot-nimmt-gestalt-an-2609-213297.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/120-meter-lang-neues-chinesisches-atom-u-boot-nimmt-gestalt-an-2609-213297.html</guid>
-      <description>Aktuelle Satellitenaufnahmen aus der Werft von Huludao deuten auf ein bisher unbekanntes U-Boot hin - mit Pumpjet-Antrieb und x-förmiger Heckflosse. (U-Boot, Politik)</description>
-      <pubDate>Tue, 22 Sep 2026 09:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Planet Labs: Satellitenfabrik geht in Berlin in Betrieb</title>
-      <link>https://www.golem.de/news/planet-labs-satellitenfabrik-geht-in-berlin-in-betrieb-2609-213304.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/planet-labs-satellitenfabrik-geht-in-berlin-in-betrieb-2609-213304.html</guid>
-      <description>Noch im Herbst wird die Produktion der Satelliten starten. Es soll der erste vollwertige Fertigungsstandort des Unternehmens außerhalb der USA werden. (Satelliten, Wirtschaft)</description>
-      <pubDate>Tue, 22 Sep 2026 08:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
