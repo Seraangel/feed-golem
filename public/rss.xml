@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 12:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:36:11 GMT</lastBuildDate>
+    <item>
+      <title>Deaktivierte Lizenzen: Microsoft stoppt optionales Update für Microsoft 365</title>
+      <link>https://www.golem.de/news/deaktivierte-lizenzen-microsoft-stoppt-optionales-update-fuer-microsoft-365-2609-213497.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/deaktivierte-lizenzen-microsoft-stoppt-optionales-update-fuer-microsoft-365-2609-213497.html</guid>
+      <description>Eigentlich soll das Update veraltete Installationen aktualisieren. Stattdessen hebt es die Produktaktivierung auf oder deinstalliert die Microsoft-Anwendungen. (Microsoft, Office-Suite)</description>
+      <pubDate>Mon, 28 Sep 2026 12:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>Zero-Day in Netscaler: Citrix bestätigt Angriffe</title>
       <link>https://www.golem.de/news/zero-day-in-netscaler-citrix-bestaetigt-angriffe-2609-213494.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/laden-in-30-minuten-lkw-man-etgx-faehrt-720-kilometer-ohne-diesel-2609-213305.html</guid>
       <description>MAN hat seinen elektrischen Lkw eTGX mit neuen Akkus und bis zu 720 Kilometer Reichweite sowie Megawatt-Laden in 30 Minuten optimiert. (Lkw, Elektroauto)</description>
       <pubDate>Tue, 22 Sep 2026 10:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Glasfaserausbau: Wenn aus Absichten Absagen werden</title>
-      <link>https://www.golem.de/news/glasfaserausbau-wenn-aus-absichten-absagen-werden-2609-213266.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/glasfaserausbau-wenn-aus-absichten-absagen-werden-2609-213266.html</guid>
-      <description>Viele Netzbetreiber rechnen derzeit ihre Ausbauprojekte durch und kommen zu dem Schluss, dass sie sich nicht mehr lohnen. Rollt durch Deutschland eine Absagewelle? Eine Recherche von Marc Hankmann (Glasfaser, Breko)</description>
-      <pubDate>Tue, 22 Sep 2026 10:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
