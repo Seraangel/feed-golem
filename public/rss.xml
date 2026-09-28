@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 16:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 16:46:23 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft 365 mit Zero Trust absichern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2609-213173.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2609-213173.html</guid>
+      <description>Microsoft 365 Zero Trust setzt auf konsequente Prüfung von Zugriffen. Ein Online-Workshop vermittelt die Umsetzung mit Entra ID, DLP, Monitoring und Defender. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Mon, 28 Sep 2026 16:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Meta Enterprise Platform: Meta wirbt Mongo-DB-Chef für seine Enterprise-Sparte ab</title>
       <link>https://www.golem.de/news/meta-enterprise-platform-meta-wirbt-mongo-db-chef-fuer-seine-enterprise-sparte-ab-2609-213508.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/marathon-und-destiny-2-bungie-will-destiny-doch-wiederbeleben-2609-213323.html</guid>
       <description>Eigentlich feierte Destiny vor einigen Monaten das große Finale. Nun gesteht Bungie überraschend Fehler ein. (Destiny 2, Steam)</description>
       <pubDate>Tue, 22 Sep 2026 14:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>EU-Cyberschutz: EU-Staaten teilen zu wenig Daten über Cyberangriffe</title>
-      <link>https://www.golem.de/news/eu-cyberschutz-verzoegerungen-und-datensilos-schwaechen-die-abwehr-von-angriffen-2609-213320.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/eu-cyberschutz-verzoegerungen-und-datensilos-schwaechen-die-abwehr-von-angriffen-2609-213320.html</guid>
-      <description>Der Europäische Rechnungshof kritisiert in einem umfangreichen Bericht die Cybersicherheitsmaßnahmen der EU als unzureichend. (EU, Datenschutz)</description>
-      <pubDate>Tue, 22 Sep 2026 13:43:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
