@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 13:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:36:19 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Neues Xiaomi-Smartphone mit Mega-Akku bei Amazon zum Tiefstpreis sichern</title>
+      <link>https://www.golem.de/news/anzeige-neues-xiaomi-smartphone-mit-mega-akku-bei-amazon-zum-tiefstpreis-sichern-2609-213499.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-neues-xiaomi-smartphone-mit-mega-akku-bei-amazon-zum-tiefstpreis-sichern-2609-213499.html</guid>
+      <description>Ende August ging das Xiaomi Redmi Note 17 Pro in den Verkauf. Schon jetzt ist es bei Amazon mit 220 Euro Rabatt befristet zum Tiefstpreis erhältlich. (Xiaomi, Smartphone)</description>
+      <pubDate>Mon, 28 Sep 2026 13:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: DreamQuest Mini PC zum Super-Sparpreis</title>
       <link>https://www.golem.de/news/anzeige-dreamquest-mini-pc-zum-super-sparpreis-2609-213498.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/amazfit-t-rex-dual-solar-amoled-sportuhr-auch-mit-solarpanels-auf-der-rueckseite-2609-213313.html</guid>
       <description>Bei der T-Rex Dual Solar kombiniert Amazfit ein AMOLED-Display mit Solarmodulen auf Vorder- und Rückseite. (Amazfit, Garmin)</description>
       <pubDate>Tue, 22 Sep 2026 11:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Von TypeScript und Node.js: Github migriert mit KI 800.000 Codezeilen nach Rust</title>
-      <link>https://www.golem.de/news/von-typescript-und-node-js-github-migriert-mit-ki-800-000-codezeilen-nach-rust-2609-213310.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/von-typescript-und-node-js-github-migriert-mit-ki-800-000-codezeilen-nach-rust-2609-213310.html</guid>
-      <description>Obwohl das Migrationsprojekt von Github mithilfe von KI ökonomisch machbar war, blieb die menschliche Kontrolle unerlässlich. (KI, Javascript)</description>
-      <pubDate>Tue, 22 Sep 2026 10:45:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
