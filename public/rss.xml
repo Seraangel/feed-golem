@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 10:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 10:41:22 GMT</lastBuildDate>
+    <item>
+      <title>Wegen KI Bug Reports: Ubuntu liefert wöchentlich neuen Kernel</title>
+      <link>https://www.golem.de/news/wegen-ki-bug-reports-ubuntu-liefert-woechentlich-neuen-kernel-2609-213490.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wegen-ki-bug-reports-ubuntu-liefert-woechentlich-neuen-kernel-2609-213490.html</guid>
+      <description>KI treibt die Anzahl gemeldeter Bugs in die Höhe. Damit Ubuntu-Nutzer Korrekturen schnell bekommen, beschleunigt Canonical seine Prozesse. (Ubuntu, KI)</description>
+      <pubDate>Mon, 28 Sep 2026 10:40:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Einhell Akku-Laubbläser zum neuen Amazon-Bestpreis erstmals unter 80 Euro</title>
       <link>https://www.golem.de/news/anzeige-einhell-akku-laubblaeser-zum-neuen-amazon-bestpreis-erstmals-unter-80-euro-2609-213489.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-nintendo-switch-mario-kart-8-deluxe-im-bundle-zum-sensationspreis-unter-210-euro-vorbestellbar-2609-213298.html</guid>
       <description>Das Nintendo-Switch-Bundle mit Mario Kart 8 Deluxe ist bei Amazon zur Vorbestellung verfügbar und kommt zum Spitzenpreis. (Technik/Hardware)</description>
       <pubDate>Tue, 22 Sep 2026 08:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Offshore-Windparks: BP-Tochter pokert um Milliarden und verzögert Ausbau</title>
-      <link>https://www.golem.de/news/offshore-windparks-bp-tochter-pokert-um-milliarden-und-verzoegert-ausbau-2609-213303.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/offshore-windparks-bp-tochter-pokert-um-milliarden-und-verzoegert-ausbau-2609-213303.html</guid>
-      <description>Jera Nex BP will die Ausbauflächen für Offshore-Windparks wieder loswerden. Die drohende Verzögerung könnte Milliarden kosten. (Windkraft, Windpark)</description>
-      <pubDate>Tue, 22 Sep 2026 08:10:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
