@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 14:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:31:30 GMT</lastBuildDate>
+    <item>
+      <title>Messenger: Signal für drei US-Dollar ohne Telefonnummer nutzen</title>
+      <link>https://www.golem.de/news/messenger-signal-fuer-drei-us-dollar-ohne-telefonnummer-nutzen-2609-213502.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/messenger-signal-fuer-drei-us-dollar-ohne-telefonnummer-nutzen-2609-213502.html</guid>
+      <description>Der Messenger Signal kann künftig auch ohne Telefonnummer verwendet werden. Dafür ist eine Einmalzahlung notwendig. (Signal, Instant Messenger)</description>
+      <pubDate>Mon, 28 Sep 2026 14:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Reolink 180-Grad-Kamera 32 Euro günstiger</title>
       <link>https://www.golem.de/news/anzeige-reolink-180-grad-kamera-32-euro-guenstiger-2609-213501.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-darf-nicht-einkaufen-amazon-blockiert-metas-muse-2609-213315.html</guid>
       <description>Amazon begründet die Muse-Blockade mit Sicherheitsrisiken. Zugleich bedrohen KI-Agenten ein milliardenschweres Werbegeschäft. (Amazon, Onlineshop)</description>
       <pubDate>Tue, 22 Sep 2026 11:51:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) KI-Agenten im Entwickleralltag: Das Risiko autonomer Systeme</title>
-      <link>https://www.golem.de/news/ki-agenten-im-entwickleralltag-das-risiko-autonomer-systeme-2609-213311.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-im-entwickleralltag-das-risiko-autonomer-systeme-2609-213311.html</guid>
-      <description>Je autonomer KI-Agenten handeln, desto größer wird das Sicherheitsrisiko. Unternehmen müssen deshalb nicht nur die Modelle schützen, sondern vor allem deren Handlungsspielraum begrenzen. Ein Ratgebertext von Klaus Manhart (Security, Cloud Computing)</description>
-      <pubDate>Tue, 22 Sep 2026 11:30:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
