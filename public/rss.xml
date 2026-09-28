@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 27 Sep 2026 14:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 05:16:10 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Purview: Daten schützen und Risiken erkennen</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-erkennen-2609-213166.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-erkennen-2609-213166.html</guid>
+      <description>Microsoft Purview bündelt Funktionen für Datenschutz und Risikosteuerung. Die Golem Karrierewelt zeigt, wie Labels, DLP und Insider Risk zusammenspielen. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Mon, 28 Sep 2026 05:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>Gefälschte Stimme: Bank-Chef überwies wegen KI-Scam 95 Millionen Euro</title>
       <link>https://www.golem.de/news/gefaelschte-stimme-bank-chef-ueberwies-wegen-ki-scam-95-millionen-euro-2609-213473.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-300-euro-rabatt-auf-mini-led-tv-sony-bravia-5-wieder-zum-prime-day-preis-2609-213288.html</guid>
       <description>Der Sony Bravia 5 kombiniert Mini LED, 120 Hz und Dolby Vision auf 65 Zoll. Bei Amazon kostet der Fernseher aktuell wieder so wenig wie am vergangenen Prime Day. Ganz am Tiefstpreis ist das Angebot allerdings nicht. (Fernseher, Sony)</description>
       <pubDate>Mon, 21 Sep 2026 15:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Teardown von iFixit: Blende von iPhone 18 Pro nicht wirklich reparierbar</title>
-      <link>https://www.golem.de/news/teardown-von-ifixit-blende-von-iphone-18-pro-nicht-wirklich-reparierbar-2609-213287.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/teardown-von-ifixit-blende-von-iphone-18-pro-nicht-wirklich-reparierbar-2609-213287.html</guid>
-      <description>iFixit zerlegt das iPhone 18 Pro. Die variable Blende der Hauptkamera lässt sich demnach kaum reparieren. (iFixit, Apple)</description>
-      <pubDate>Mon, 21 Sep 2026 15:15:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
