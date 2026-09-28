@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 14:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:01:34 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX: Starship erreicht Orbit mit Triebwerksausfällen</title>
+      <link>https://www.golem.de/news/spacex-starship-erreicht-orbit-mit-triebwerksausfaellen-2609-213504.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spacex-starship-erreicht-orbit-mit-triebwerksausfaellen-2609-213504.html</guid>
+      <description>Starship Flug 14 muss wegen technischer Probleme vorzeitig abgebrochen werden, nachdem Satelliten im Orbit ausgesetzt wurden. (Starship, Raumfahrt)</description>
+      <pubDate>Mon, 28 Sep 2026 14:57:05 GMT</pubDate>
+    </item>
     <item>
       <title>Messenger: Signal für drei US-Dollar ohne Telefonnummer nutzen</title>
       <link>https://www.golem.de/news/messenger-signal-fuer-drei-us-dollar-ohne-telefonnummer-nutzen-2609-213502.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-grand-theft-auto-vi-the-album-jetzt-bei-amazon-auf-vinyl-oder-cd-vorbestellbar-2609-213314.html</guid>
       <description>Der offizielle Soundtrack zu Grand Theft Auto VI mit 34 lizenzierten Songs ist bei Amazon auf Vinyl und CD vorbestellbar. (Spiele, Technik/Hardware)</description>
       <pubDate>Tue, 22 Sep 2026 12:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI darf nicht einkaufen: Amazon blockiert Metas Muse</title>
-      <link>https://www.golem.de/news/ki-darf-nicht-einkaufen-amazon-blockiert-metas-muse-2609-213315.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-darf-nicht-einkaufen-amazon-blockiert-metas-muse-2609-213315.html</guid>
-      <description>Amazon begründet die Muse-Blockade mit Sicherheitsrisiken. Zugleich bedrohen KI-Agenten ein milliardenschweres Werbegeschäft. (Amazon, Onlineshop)</description>
-      <pubDate>Tue, 22 Sep 2026 11:51:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
