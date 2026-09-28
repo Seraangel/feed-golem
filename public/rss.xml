@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 12:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 12:16:14 GMT</lastBuildDate>
+    <item>
+      <title>Zero-Day in Netscaler: Citrix bestätigt Angriffe</title>
+      <link>https://www.golem.de/news/zero-day-in-netscaler-citrix-bestaetigt-angriffe-2609-213494.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zero-day-in-netscaler-citrix-bestaetigt-angriffe-2609-213494.html</guid>
+      <description>Sicherheitsforscher und -behörden warnen seit dem Wochenende vor den Schwachstellen. Citrix stellt nun auch Updates zur Beseitigung der Fehler bereit. (Security, Sicherheitslücke)</description>
+      <pubDate>Mon, 28 Sep 2026 12:14:06 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere im Oktober: VW ID.Tiguan löst ID.4 und ID.5 ab</title>
       <link>https://www.golem.de/news/premiere-im-oktober-vw-id-tiguan-loest-id-4-und-id-5-ab-2609-213496.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/glasfaserausbau-wenn-aus-absichten-absagen-werden-2609-213266.html</guid>
       <description>Viele Netzbetreiber rechnen derzeit ihre Ausbauprojekte durch und kommen zu dem Schluss, dass sie sich nicht mehr lohnen. Rollt durch Deutschland eine Absagewelle? Eine Recherche von Marc Hankmann (Glasfaser, Breko)</description>
       <pubDate>Tue, 22 Sep 2026 10:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neugründung geplant: Isar Aerospace verliert Technikchef</title>
-      <link>https://www.golem.de/news/neugruendung-geplant-isar-aerospace-verliert-technikchef-2609-213308.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neugruendung-geplant-isar-aerospace-verliert-technikchef-2609-213308.html</guid>
-      <description>Einer der Gründer verlässt den deutsche Raketenbauer, um ein neues Unternehmen zu gründen. Die Geschäftstätigkeit im All soll ausgeweitet werden. (Rakete, Wirtschaft)</description>
-      <pubDate>Tue, 22 Sep 2026 09:40:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
