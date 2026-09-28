@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 28 Sep 2026 08:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:16:22 GMT</lastBuildDate>
+    <item>
+      <title>PS5-Exklusivspiele: Entwickler portieren ersten PS5-Titel nativ für Windows</title>
+      <link>https://www.golem.de/news/ps5-exklusivspiele-entwickler-portieren-ersten-ps5-titel-nativ-fuer-windows-2609-213483.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ps5-exklusivspiele-entwickler-portieren-ersten-ps5-titel-nativ-fuer-windows-2609-213483.html</guid>
+      <description>Den Machern eines Github-Projektes ist es gelungen, die PS5-Version von Dead Cells nativ auf einem PC zu spielen - ohne Emulation. (Playstation 5, Sony)</description>
+      <pubDate>Mon, 28 Sep 2026 08:11:05 GMT</pubDate>
+    </item>
     <item>
       <title>Gravity Linux: KI-Hilfe soll Linux schneller auf moderne Apple-CPUs bringen</title>
       <link>https://www.golem.de/news/gravity-linux-ki-hilfe-soll-linux-schneller-auf-moderne-apple-cpus-bringen-2609-213482.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/verbrenner-nicht-gefragt-e-auto-boom-sorgt-fuer-lange-gesichter-in-wolfsburg-2609-213293.html</guid>
       <description>Die Nachfrage nach E-Autos zieht kräftig an, schneller als VW geplant hat. Während die Werke in Emden und Zwickau aufdrehen, streicht das Stammwerk Sonderschichten. (VW, Elektroauto)</description>
       <pubDate>Tue, 22 Sep 2026 06:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Purview: Daten klassifizieren und Risiken steuern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-purview-daten-klassifizieren-und-risiken-steuern-2609-213111.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-daten-klassifizieren-und-risiken-steuern-2609-213111.html</guid>
-      <description>Microsoft Purview bündelt Funktionen für Klassifizierung und Datenschutz. Die Golem Karrierewelt zeigt, wie Labels, DLP und Insider Risk zusammenspielen. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Tue, 22 Sep 2026 05:15:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
