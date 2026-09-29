@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 13:41:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:56:28 GMT</lastBuildDate>
+    <item>
+      <title>Zero-Day-Lücke: Kiteworks rät Kunden zur Abschaltung von Servern</title>
+      <link>https://www.golem.de/news/zero-day-luecke-kiteworks-raet-kunden-zur-abschaltung-von-servern-2609-213545.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zero-day-luecke-kiteworks-raet-kunden-zur-abschaltung-von-servern-2609-213545.html</guid>
+      <description>US-Behörden warnen vor einem bevorstehenden Cyberangriff auf Kiteworks-Systeme. Das Unternehmen fährt auch gehostete Kundensysteme herunter. (Sicherheitslücke, Security)</description>
+      <pubDate>Tue, 29 Sep 2026 13:54:06 GMT</pubDate>
+    </item>
     <item>
       <title>Bain &amp; Company: KI-Branche fehlen 2031 wohl 45 Prozent Umsatz zum Profit</title>
       <link>https://www.golem.de/news/bain-company-ki-branche-fehlen-2031-wohl-45-prozent-umsatz-zum-profit-2609-213542.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sanierung-des-zuse-z1-wie-forscher-die-raetsel-der-z1-entschluesseln-2609-213104.html</guid>
       <description>Seit Jahren wird versucht, den Zuse Z1 wieder zum Laufen zu bringen. Immer wieder werden Geheimnisse entdeckt - und ein grundlegendes Problem. Eine Reportage von Mike Faust (Konrad Zuse, Computer)</description>
       <pubDate>Wed, 23 Sep 2026 10:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonomes Fahren: Wayve liefert Software für Mercedes-Benz</title>
-      <link>https://www.golem.de/news/autonomes-fahren-wayve-liefert-software-fuer-mercedes-benz-2609-213351.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-wayve-liefert-software-fuer-mercedes-benz-2609-213351.html</guid>
-      <description>Nach der Kooperation mit Nvidia und Momenta sichert sich Mercedes einen weiteren Software-Anbieter für selbstfahrende Autos. (Autonomes Fahren, Nvidia)</description>
-      <pubDate>Wed, 23 Sep 2026 09:46:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
