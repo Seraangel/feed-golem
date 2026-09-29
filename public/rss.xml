@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 08:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:26:24 GMT</lastBuildDate>
+    <item>
+      <title>Blue Screen of Death: Bug lässt Windows nach Verbindung mit Internet abstürzen</title>
+      <link>https://www.golem.de/news/blue-screen-of-death-bug-laesst-windows-nach-verbindung-mit-internet-abstuerzen-2609-213518.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/blue-screen-of-death-bug-laesst-windows-nach-verbindung-mit-internet-abstuerzen-2609-213518.html</guid>
+      <description>Schuld an dem Problem ist wohl ein recht wichtiger Task in Windows 11 - der Secure-Boot-Updater. (Windows 11, Microsoft)</description>
+      <pubDate>Tue, 29 Sep 2026 08:23:09 GMT</pubDate>
+    </item>
     <item>
       <title>Elektroauto: Tesla Roadster wird wieder verschoben - diesmal wegen Wetter</title>
       <link>https://www.golem.de/news/elektroauto-tesla-roadster-wird-wieder-verschoben-diesmal-wegen-wetter-2609-213517.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-power-automate-prozesse-mit-flows-automatisieren-2609-213120.html</guid>
       <description>Microsoft Power Automate automatisiert wiederkehrende Abläufe in Microsoft 365. Flows verbinden Trigger, Aktionen und Datenquellen ohne Programmierung. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Wed, 23 Sep 2026 05:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wunstorf: Abgestürzte Drohne nahe Fliegerhorst vermutlich mit Sprengstoff an Bord</title>
-      <link>https://www.golem.de/news/wunstorf-abgestuerzte-drohne-nahe-fliegerhorst-vermutlich-mit-sprengstoff-an-bord-2609-213331.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wunstorf-abgestuerzte-drohne-nahe-fliegerhorst-vermutlich-mit-sprengstoff-an-bord-2609-213331.html</guid>
-      <description>Ein Bauer findet ein Drohnen-Wrack in der Nähe eines Bundeswehr-Standorts. Wenige Meter daneben: eine verdächtige Substanz. (Luftfahrt, 3D-Drucker)</description>
-      <pubDate>Wed, 23 Sep 2026 05:12:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
