@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 09:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:16:39 GMT</lastBuildDate>
+    <item>
+      <title>Pannen nehmen kein Ende: Neues Problem stoppt Zulassung der Boeing 737 Max 10</title>
+      <link>https://www.golem.de/news/pannen-nehmen-kein-ende-neues-problem-stoppt-zulassung-der-boeing-737-max-10-2609-213522.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pannen-nehmen-kein-ende-neues-problem-stoppt-zulassung-der-boeing-737-max-10-2609-213522.html</guid>
+      <description>Boeing hat sich Hoffnungen gemacht, bald die Zulassung für die größte Variante der 737 Max zu bekommen. Daraus wird erst einmal nichts. (Boeing, Flugzeug)</description>
+      <pubDate>Tue, 29 Sep 2026 09:13:04 GMT</pubDate>
+    </item>
     <item>
       <title>Laut Börsenprospekt: Anthropic sieht sich als Gefahr für die Menschheit</title>
       <link>https://www.golem.de/news/laut-boersenprospekt-anthropic-sieht-sich-als-gefahr-fuer-die-menschheit-2609-213521.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/streamingabo-zum-alten-preis-nutzen-so-laesst-sich-die-netflix-preiserhoehung-doch-aufschieben-2609-213334.html</guid>
       <description>Nur die etwas mutigeren Netflix-Abonnenten können ein wenig Geld sparen und das Abo länger zum alten Preis weiterlaufen lassen. (Netflix, Streaming)</description>
       <pubDate>Wed, 23 Sep 2026 05:57:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sol und Luna: OpenAI GPT-6 soll viel genauer und halb so teuer sein</title>
-      <link>https://www.golem.de/news/sol-und-luna-openai-gpt-6-soll-viel-genauer-und-halb-so-teuer-sein-2609-213332.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sol-und-luna-openai-gpt-6-soll-viel-genauer-und-halb-so-teuer-sein-2609-213332.html</guid>
-      <description>Mit GPT-6 Sol und Luna verspricht OpenAI halb so viele Fehler bei halbierten API-Preisen im Vergleich zu den Vorgängerversionen. (OpenAI, KI)</description>
-      <pubDate>Wed, 23 Sep 2026 05:44:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
