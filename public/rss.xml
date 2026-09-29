@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 16:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:56:58 GMT</lastBuildDate>
+    <item>
+      <title>Paid Peering: Telekom und Cloudflare beenden jahrelangen Streit</title>
+      <link>https://www.golem.de/news/paid-peering-telekom-und-cloudflare-beenden-jahrelangen-streit-2609-213555.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/paid-peering-telekom-und-cloudflare-beenden-jahrelangen-streit-2609-213555.html</guid>
+      <description>Der verbitterte Konflikt zwischen der Deutschen Telekom und Cloudflare um Paid Peering, künstlich überlastete Transit-Routen und das Sender-Pays-Prinzip ist offiziell Geschichte. (Telekom, Netzneutralität)</description>
+      <pubDate>Tue, 29 Sep 2026 16:55:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Identity- und Access-Management mit Keycloak absichern</title>
       <link>https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-213226.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ceer-motors-saudi-arabien-zeigt-futuristische-elektroautos-mit-850-ps-2609-213360.html</guid>
       <description>Zusammen mit BMW und Foxconn hat Saudi-Arabien eigene E-Autos entwickelt - inklusive Gebetszeiten-Benachrichtigung und Mekka-Kompass. (Elektroauto, Foxconn)</description>
       <pubDate>Wed, 23 Sep 2026 13:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektromobilität: Geely will E-Autos in vier Minuten laden</title>
-      <link>https://www.golem.de/news/elektromobilitaet-geely-will-e-autos-in-vier-minuten-laden-2609-213359.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-geely-will-e-autos-in-vier-minuten-laden-2609-213359.html</guid>
-      <description>Geely stellt Ladesäulen mit 2,2 Megawatt vor und übertrifft damit BYD. Als erstes Auto unterstützt der Galaxy E5 die Technik. (BYD, Elektroauto)</description>
-      <pubDate>Wed, 23 Sep 2026 13:14:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
