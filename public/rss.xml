@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 13:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:41:56 GMT</lastBuildDate>
+    <item>
+      <title>Bain &amp; Company: KI-Branche fehlen 2031 wohl 45 Prozent Umsatz zum Profit</title>
+      <link>https://www.golem.de/news/bain-company-ki-branche-fehlen-2031-wohl-45-prozent-umsatz-zum-profit-2609-213542.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bain-company-ki-branche-fehlen-2031-wohl-45-prozent-umsatz-zum-profit-2609-213542.html</guid>
+      <description>Analysten wissen weiterhin nicht, wie KI rentabel werden soll. Gleichzeitig will Nvidia Kostenrisiken von KI-Rechenzentren versichern lassen. (KI, Nvidia)</description>
+      <pubDate>Tue, 29 Sep 2026 13:38:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Amazon Fire Max 11 zum neuen Tiefstpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-amazon-fire-max-11-zum-neuen-tiefstpreis-bei-amazon-2609-213540.html</link>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 29 Sep 2026 12:03:08 GMT</pubDate>
     </item>
     <item>
-      <title>Firmen sind verärgert: Abschaltung von PV-Anlagen verhindert Eigenverbrauch</title>
+      <title>Firmen verärgert: Netzdienliche Abschaltung von PV-Anlagen verhindert Eigenverbrauch</title>
       <link>https://www.golem.de/news/firmen-sind-veraergert-netzbetreiber-deaktivieren-pv-anlagen-wegen-zu-viel-sonne-2609-213535.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/firmen-sind-veraergert-netzbetreiber-deaktivieren-pv-anlagen-wegen-zu-viel-sonne-2609-213535.html</guid>
       <description>Unternehmen in Bayern sind verärgert, wenn sie ihre Photovoltaikanlage nicht für den Eigenbedarf nutzen können. Abhilfe ist nicht in Sicht. (Solarenergie, Umweltschutz)</description>
@@ -107,7 +114,7 @@
       <title>Project Jupiter: Oracle bringt durch Zahlungsstopp zentralen OpenAI-Ausbau ins Wanken</title>
       <link>https://www.golem.de/news/project-jupiter-oracle-bringt-durch-zahlungsstopp-zentralen-openai-ausbau-ins-wanken-2609-213526.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/project-jupiter-oracle-bringt-durch-zahlungsstopp-zentralen-openai-ausbau-ins-wanken-2609-213526.html</guid>
-      <description>Oracle hat mit einem wahnwitzigen Konzept zur Energieversorgung breite Proteste gegen sein riesiges Rechenzentrum in New Mexico ausgelöst. Nun stoppt der Trump-Vertraute Larry Ellison die Zahlungen. (Oracle, KI)</description>
+      <description>Oracle hat mit einem wahnwitzigen Konzept zur Energieversorgung breite Proteste gegen sein riesiges Rechenzentrum in New Mexico ausgelöst. Nun stoppt der Trump-Vertraute Larry Ellison die Zahlungen. Ein IMHO von Achim Sawall (Oracle, KI)</description>
       <pubDate>Tue, 29 Sep 2026 10:15:08 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-wayve-liefert-software-fuer-mercedes-benz-2609-213351.html</guid>
       <description>Nach der Kooperation mit Nvidia und Momenta sichert sich Mercedes einen weiteren Software-Anbieter für selbstfahrende Autos. (Autonomes Fahren, Nvidia)</description>
       <pubDate>Wed, 23 Sep 2026 09:46:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arbeitsmarkt: IT-Fachleute bewerten ihre Jobchancen deutlich schlechter</title>
-      <link>https://www.golem.de/news/arbeitsmarkt-it-fachleute-bewerten-ihre-jobchancen-deutlich-schlechter-2609-213350.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/arbeitsmarkt-it-fachleute-bewerten-ihre-jobchancen-deutlich-schlechter-2609-213350.html</guid>
-      <description>Nur noch 37 Prozent der IT-Fachkräfte sehen gute Jobchancen. 2021 waren es noch 78 Prozent. Beim Gehalt erwarten sie dennoch mehr. (Arbeit, Wirtschaft)</description>
-      <pubDate>Wed, 23 Sep 2026 09:29:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
