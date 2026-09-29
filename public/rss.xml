@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 10:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:16:16 GMT</lastBuildDate>
+    <item>
+      <title>Project Jupiter: Oracle bringt durch Zahlungsstopp zentralen OpenAI-Ausbau ins Wanken</title>
+      <link>https://www.golem.de/news/project-jupiter-oracle-bringt-durch-zahlungsstopp-zentralen-openai-ausbau-ins-wanken-2609-213526.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/project-jupiter-oracle-bringt-durch-zahlungsstopp-zentralen-openai-ausbau-ins-wanken-2609-213526.html</guid>
+      <description>Oracle hat mit einem wahnwitzigen Konzept zur Energieversorgung breite Proteste gegen sein riesiges Rechenzentrum in New Mexico ausgelöst. Nun stoppt der Trump-Vertraute Larry Ellison die Zahlungen. (Oracle, KI)</description>
+      <pubDate>Tue, 29 Sep 2026 10:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Midjourney Medical: 100 Prozent Weltbild, 99,9 Prozent Blödsinn</title>
       <link>https://www.golem.de/news/midjourney-medical-100-prozent-weltbild-99-9-prozent-bloedsinn-2609-213407.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/benchmark-tests-qualcomms-neuer-snapdragon-und-apples-a20-pro-streiten-um-die-mobile-krone-2609-213338.html</guid>
       <description>Qualcomms neuer Snapdragon 8 Elite Extreme Gen 6 produziert starke Benchmarkwerte und liefert sich einen interessanten Zweikampf mit Apples neuem A20 Pro. Von Tobias Költzsch (Snapdragon Summit 2026, Smartphone)</description>
       <pubDate>Wed, 23 Sep 2026 07:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: 20 Jahre OSMC - Monitoring-Wissen direkt aus der Praxis</title>
-      <link>https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-wissen-direkt-aus-der-praxis-2609-213271.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-wissen-direkt-aus-der-praxis-2609-213271.html</guid>
-      <description>KI im Monitoring, die Zukunft etablierter Open-Source-Stacks, Observability im Betriebsalltag: Darum geht es vom 17. bis 19. November auf der Open Source Monitoring Conference (OSMC) in Nürnberg. Golem-Leser bekommen Rabatt. (Software)</description>
-      <pubDate>Wed, 23 Sep 2026 07:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
