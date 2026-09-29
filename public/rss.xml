@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 08:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:41:26 GMT</lastBuildDate>
+    <item>
+      <title>Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu</title>
+      <link>https://www.golem.de/news/elektromobilitaet-auslastung-von-ladesaeulen-nimmt-deutlich-zu-2609-213520.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-auslastung-von-ladesaeulen-nimmt-deutlich-zu-2609-213520.html</guid>
+      <description>Die hohen Spritpreise und die viele Neuzulassungen von E-Autos führen zu mehr Ladevorgängen an öffentlichen Säulen. (Ladesäule, Elektroauto)</description>
+      <pubDate>Tue, 29 Sep 2026 08:40:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Fire TV-Stick 4K Max jetzt nur für rund 50 Euro im Angebot bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-fire-tv-stick-4k-max-jetzt-nur-fuer-rund-50-euro-im-angebot-bei-amazon-2609-213519.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fitness-armband-apple-soll-an-whoop-konkurrenten-arbeiten-2609-213333.html</guid>
       <description>Ein Fitness-Wearable ohne Display könnte auch für Apple interessant sein - intern wird offenbar an einem solchen Gerät gearbeitet. (Apple, Medizin)</description>
       <pubDate>Wed, 23 Sep 2026 05:35:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Opus 5.5: Anthropic macht sein Spitzenmodell deutlich billiger</title>
-      <link>https://www.golem.de/news/claude-opus-5-5-anthropics-neues-flaggschiff-wird-guenstiger-und-sicherer-2609-213330.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/claude-opus-5-5-anthropics-neues-flaggschiff-wird-guenstiger-und-sicherer-2609-213330.html</guid>
-      <description>Anthropic hat Claude Opus 5.5 vorgestellt. Das KI-Modell soll auf dem Niveau von Claude Fable 5.1 arbeiten, aber 40 Prozent günstiger sein. (Cloud, Web Service)</description>
-      <pubDate>Wed, 23 Sep 2026 05:26:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
