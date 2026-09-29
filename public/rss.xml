@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 07:01:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 07:11:23 GMT</lastBuildDate>
+    <item>
+      <title>Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China</title>
+      <link>https://www.golem.de/news/elektroautos-vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-2609-213513.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektroautos-vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-2609-213513.html</guid>
+      <description>Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet Geld. VW arbeitet nun auch in Europa enger mit einem Partner aus China zusammen. (VW, Elektroauto)</description>
+      <pubDate>Tue, 29 Sep 2026 07:08:08 GMT</pubDate>
+    </item>
     <item>
       <title>Nothing Headphone (1) Pro im Praxistest: Dieser ungewöhnliche Spitzen-Kopfhörer begeistert</title>
       <link>https://www.golem.de/news/nothing-headphone-1-pro-im-praxistest-dieser-ungewoehnliche-spitzen-kopfhoerer-begeistert-2609-213480.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-akku-druckreinigerpistole-von-einhell-limititiert-im-amazon-angebot-2609-213328.html</guid>
       <description>Bei Amazon ist eine beliebte Akku-Druckreinigerpistole zeitlich befristet im Angebot. Im letzten Monat wurde sie über 500-mal bestellt. (Technik/Hardware)</description>
       <pubDate>Tue, 22 Sep 2026 16:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Ansible für Deployment und Systemmanagement</title>
-      <link>https://www.golem.de/news/anzeige-ansible-fuer-deployment-und-systemmanagement-2609-213121.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-deployment-und-systemmanagement-2609-213121.html</guid>
-      <description>Ansible Fundamentals erleichtern die automatisierte Verwaltung von Linux-Systemen. Ein Online-Workshop vermittelt Konfiguration, Playbooks, Rollen und Deployment. (Golem Karrierewelt, Open Source)</description>
-      <pubDate>Tue, 22 Sep 2026 16:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
