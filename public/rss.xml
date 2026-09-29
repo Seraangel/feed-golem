@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 08:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 08:36:22 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Fire TV-Stick 4K Max jetzt nur für rund 50 Euro im Angebot bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-fire-tv-stick-4k-max-jetzt-nur-fuer-rund-50-euro-im-angebot-bei-amazon-2609-213519.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fire-tv-stick-4k-max-jetzt-nur-fuer-rund-50-euro-im-angebot-bei-amazon-2609-213519.html</guid>
+      <description>Der Amazon Fire TV Stick 4K Max mit Wi-Fi 6E und Alexa+ ist jetzt deutlich unter dem Durchschnittspreis verfügbar. (Technik/Hardware, Amazon Alexa)</description>
+      <pubDate>Tue, 29 Sep 2026 08:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>Blue Screen of Death: Bug lässt Windows nach Verbindung mit Internet abstürzen</title>
       <link>https://www.golem.de/news/blue-screen-of-death-bug-laesst-windows-nach-verbindung-mit-internet-abstuerzen-2609-213518.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/claude-opus-5-5-anthropics-neues-flaggschiff-wird-guenstiger-und-sicherer-2609-213330.html</guid>
       <description>Anthropic hat Claude Opus 5.5 vorgestellt. Das KI-Modell soll auf dem Niveau von Claude Fable 5.1 arbeiten, aber 40 Prozent günstiger sein. (Cloud, Web Service)</description>
       <pubDate>Wed, 23 Sep 2026 05:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Power Automate: Prozesse mit Flows automatisieren</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-power-automate-prozesse-mit-flows-automatisieren-2609-213120.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-power-automate-prozesse-mit-flows-automatisieren-2609-213120.html</guid>
-      <description>Microsoft Power Automate automatisiert wiederkehrende Abläufe in Microsoft 365. Flows verbinden Trigger, Aktionen und Datenquellen ohne Programmierung. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Wed, 23 Sep 2026 05:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
