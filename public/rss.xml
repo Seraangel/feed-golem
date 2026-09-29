@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 10:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:46:22 GMT</lastBuildDate>
+    <item>
+      <title>Keine Grafikkarten: Diebe stehlen "Nvidia"-Trucks und bekommen 18 Tonnen Sand</title>
+      <link>https://www.golem.de/news/keine-grafikkarten-diebe-stehlen-nvidia-trucks-und-bekommen-18-tonnen-sand-2609-213530.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/keine-grafikkarten-diebe-stehlen-nvidia-trucks-und-bekommen-18-tonnen-sand-2609-213530.html</guid>
+      <description>Die zwei großen Trucks waren unter anderem mit Nvidia-Logo versehen. Statt GPUs gab es aber eine Menge Sand. (Start-up, Grafikkarten)</description>
+      <pubDate>Tue, 29 Sep 2026 10:42:01 GMT</pubDate>
+    </item>
     <item>
       <title>Project Jupiter: Oracle bringt durch Zahlungsstopp zentralen OpenAI-Ausbau ins Wanken</title>
       <link>https://www.golem.de/news/project-jupiter-oracle-bringt-durch-zahlungsstopp-zentralen-openai-ausbau-ins-wanken-2609-213526.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fehler-bei-krankenhausbetreiber-it-panne-loescht-geburtsdaten-aus-elf-jahren-2609-213340.html</guid>
       <description>Trotz sofort eingeleiteter Maßnahmen konnten nicht alle Daten wiederhergestellt werden, was auch die polizeilichen Ermittlungen erschwert. (Datensicherheit, Sicherheitslücke)</description>
       <pubDate>Wed, 23 Sep 2026 07:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Benchmark-Tests: Qualcomms neuer Snapdragon und Apples A20 Pro liegen fast gleichauf</title>
-      <link>https://www.golem.de/news/benchmark-tests-qualcomms-neuer-snapdragon-und-apples-a20-pro-streiten-um-die-mobile-krone-2609-213338.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/benchmark-tests-qualcomms-neuer-snapdragon-und-apples-a20-pro-streiten-um-die-mobile-krone-2609-213338.html</guid>
-      <description>Qualcomms neuer Snapdragon 8 Elite Extreme Gen 6 produziert starke Benchmarkwerte und liefert sich einen interessanten Zweikampf mit Apples neuem A20 Pro. Von Tobias Költzsch (Snapdragon Summit 2026, Smartphone)</description>
-      <pubDate>Wed, 23 Sep 2026 07:05:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
