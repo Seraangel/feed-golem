@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 16:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:46:15 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Identity- und Access-Management mit Keycloak absichern</title>
+      <link>https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-213226.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-213226.html</guid>
+      <description>Identity- und Access-Management verbindet sichere Anmeldung mit kontrollierten Zugriffsrechten. Die Golem Karrierewelt vermittelt dazu Keycloak-Know-how. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 29 Sep 2026 16:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>Stromförderung: Knapper Strom, hohe Preise</title>
       <link>https://www.golem.de/news/stromfoerderung-knapper-strom-hohe-preise-2609-213551.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-geely-will-e-autos-in-vier-minuten-laden-2609-213359.html</guid>
       <description>Geely stellt Ladesäulen mit 2,2 Megawatt vor und übertrifft damit BYD. Als erstes Auto unterstützt der Galaxy E5 die Technik. (BYD, Elektroauto)</description>
       <pubDate>Wed, 23 Sep 2026 13:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sterbender Stern: Zweites Leben für einen erloschenen Stern</title>
-      <link>https://www.golem.de/news/sterbender-stern-zweites-leben-fuer-einen-erloschenen-stern-2609-213358.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sterbender-stern-zweites-leben-fuer-einen-erloschenen-stern-2609-213358.html</guid>
-      <description>Vor 30 Jahren setzte bei einem erloschenen Stern erneut die Fusion ein. Nun hat er sich wieder aufgeheizt und wohl nicht mehr viel Zeit vor sich. (Astronomie, Wissenschaft)</description>
-      <pubDate>Wed, 23 Sep 2026 12:26:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
