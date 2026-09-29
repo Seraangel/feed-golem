@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 11:31:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:46:15 GMT</lastBuildDate>
+    <item>
+      <title>Wegen Sicherheitsbedenken: OpenAI hält neues KI-Modell GPT-6.1 Astra zurück</title>
+      <link>https://www.golem.de/news/wegen-sicherheitsbedenken-openai-haelt-neues-ki-modell-gpt-6-1-astra-zurueck-2609-213534.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wegen-sicherheitsbedenken-openai-haelt-neues-ki-modell-gpt-6-1-astra-zurueck-2609-213534.html</guid>
+      <description>Tests von Forschern decken ein Risiko für Angriffe auf die Lieferkette auf. Als Beispiel nennen sie das Einschleusen von Payloads in Open-Source-Code. (Security, KI)</description>
+      <pubDate>Tue, 29 Sep 2026 11:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Arbeiten im öffentlichen Dienst: Warum der Staat für IT-Fachkräfte attraktiver wird</title>
       <link>https://www.golem.de/news/arbeiten-im-oeffentlichen-dienst-warum-der-staat-fuer-it-fachkraefte-attraktiver-wird-2609-213515.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tibet-heliumballon-baut-stromtrassen-im-hochgebirge-2609-213345.html</guid>
       <description>In besonders unwegsamem Gelände soll die Technik helfen, Ressourcen wie Wasserkraft besser zu erschließen. Ihr sind aber enge Grenzen gesetzt. (Strom, Energiewende)</description>
       <pubDate>Wed, 23 Sep 2026 08:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>C3-Konstellation: China plant Cubesat-Netzwerk für den Mond</title>
-      <link>https://www.golem.de/news/c3-konstellation-china-plant-mond-cubesat-konstellation-2609-213038.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/c3-konstellation-china-plant-mond-cubesat-konstellation-2609-213038.html</guid>
-      <description>Die wissenschaftliche Mission soll wichtige Daten sammeln und unter anderem Ländern des Globalen Südens den Zugang zum Weltraum ermöglichen. (China, Raumfahrt)</description>
-      <pubDate>Wed, 23 Sep 2026 08:05:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
