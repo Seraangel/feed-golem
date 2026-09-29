@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 08:41:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 09:01:29 GMT</lastBuildDate>
+    <item>
+      <title>Laut Börsenprospekt: Anthropic sieht sich als Gefahr für die Menschheit</title>
+      <link>https://www.golem.de/news/laut-boersenprospekt-anthropic-sieht-sich-als-gefahr-fuer-die-menschheit-2609-213521.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/laut-boersenprospekt-anthropic-sieht-sich-als-gefahr-fuer-die-menschheit-2609-213521.html</guid>
+      <description>Anthropic klärt mögliche Investoren im Vorfeld des Gangs an die Börse umfangreich über Risiken auf. Der Prospekt offenbart zudem hohe Verluste. (Anthropic, Börse)</description>
+      <pubDate>Tue, 29 Sep 2026 08:58:03 GMT</pubDate>
+    </item>
     <item>
       <title>Elektromobilität: Auslastung von Ladesäulen nimmt deutlich zu</title>
       <link>https://www.golem.de/news/elektromobilitaet-auslastung-von-ladesaeulen-nimmt-deutlich-zu-2609-213520.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sol-und-luna-openai-gpt-6-soll-viel-genauer-und-halb-so-teuer-sein-2609-213332.html</guid>
       <description>Mit GPT-6 Sol und Luna verspricht OpenAI halb so viele Fehler bei halbierten API-Preisen im Vergleich zu den Vorgängerversionen. (OpenAI, KI)</description>
       <pubDate>Wed, 23 Sep 2026 05:44:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Konkurrent für Whoop: Apple erwägt Fitness-Armband ohne Display</title>
-      <link>https://www.golem.de/news/fitness-armband-apple-soll-an-whoop-konkurrenten-arbeiten-2609-213333.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fitness-armband-apple-soll-an-whoop-konkurrenten-arbeiten-2609-213333.html</guid>
-      <description>Ein Fitness-Wearable ohne Display könnte auch für Apple interessant sein - intern wird offenbar an einem solchen Gerät gearbeitet. (Apple, Medizin)</description>
-      <pubDate>Wed, 23 Sep 2026 05:35:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
