@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 29 Sep 2026 11:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 11:31:25 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Arbeiten im öffentlichen Dienst: Warum der Staat für IT-Fachkräfte attraktiver wird</title>
+      <link>https://www.golem.de/news/arbeiten-im-oeffentlichen-dienst-warum-der-staat-fuer-it-fachkraefte-attraktiver-wird-2609-213515.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/arbeiten-im-oeffentlichen-dienst-warum-der-staat-fuer-it-fachkraefte-attraktiver-wird-2609-213515.html</guid>
+      <description>Während Unternehmen Stellen abbauen, sucht der Staat dringend IT-Fachkräfte. Tatsächlich wird der öffentliche Dienst plötzlich zu einer echten Karrierealternative. Ein Ratgebertext von Peter Ilg (Arbeit, Wirtschaft)</description>
+      <pubDate>Tue, 29 Sep 2026 11:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>Glasfasermarkt: Telekom baut der Konkurrenz davon</title>
       <link>https://www.golem.de/news/glasfasermarkt-telekom-baut-der-konkurrenz-davon-2609-213532.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/c3-konstellation-china-plant-mond-cubesat-konstellation-2609-213038.html</guid>
       <description>Die wissenschaftliche Mission soll wichtige Daten sammeln und unter anderem Ländern des Globalen Südens den Zugang zum Weltraum ermöglichen. (China, Raumfahrt)</description>
       <pubDate>Wed, 23 Sep 2026 08:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Effizienz-Rating: Rechenzentren sollen ein verbindliches EU-Effizienz-Rating bekommen</title>
-      <link>https://www.golem.de/news/effizienz-rating-eu-plant-energie-rating-fuer-rechenzentren-2609-213343.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/effizienz-rating-eu-plant-energie-rating-fuer-rechenzentren-2609-213343.html</guid>
-      <description>Die EU-Kommission plant ein Bewertungssystem für Rechenzentren ab 500 kW, um den Energie- und Wasserverbrauch transparenter zu machen. (EU-Kommission, GreenIT)</description>
-      <pubDate>Wed, 23 Sep 2026 07:55:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
