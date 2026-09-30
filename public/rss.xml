@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 09:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:46:28 GMT</lastBuildDate>
+    <item>
+      <title>Geothermie: 3 km tiefe Geothermieanlage in Berlin als Wegbereiter</title>
+      <link>https://www.golem.de/news/geothermie-3-km-tiefe-geothermieanlage-in-berlin-als-wegbereiter-2609-213575.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/geothermie-3-km-tiefe-geothermieanlage-in-berlin-als-wegbereiter-2609-213575.html</guid>
+      <description>Mit einer neuen Technologie soll Erdwärme mit weniger Aufwand und damit bezahlbarer an die Oberfläche geholt werden. Die Praxistests laufen. (Geothermie, Wissenschaft)</description>
+      <pubDate>Wed, 30 Sep 2026 09:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>Hackerangriff: Daten von 600.000 Studenten der LMU München betroffen</title>
       <link>https://www.golem.de/news/hackerangriff-daten-von-600-000-studenten-der-lmu-muenchen-betroffen-2609-213574.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/snap-specs-im-hands-on-eine-ar-brille-die-besser-funktioniert-als-sie-aussieht-2609-213378.html</guid>
       <description>Snaps neue Datenbrille Specs verwendet Waveguide-Technologie, um AR-Objekte in die Umgebung zu projizieren. Das funktioniert gut, hat aber auch Nachteile. Ein Hands-on von Tobias Költzsch (Snapdragon Summit 2026, Augmented Reality)</description>
       <pubDate>Thu, 24 Sep 2026 07:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Streaming: Youtube lässt Nutzer eigene Feeds per KI-Prompt erstellen</title>
-      <link>https://www.golem.de/news/streaming-youtube-laesst-nutzer-eigene-feeds-per-ki-prompt-erstellen-2609-213383.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/streaming-youtube-laesst-nutzer-eigene-feeds-per-ki-prompt-erstellen-2609-213383.html</guid>
-      <description>Mit Custom Feeds legen Nutzer per KI-Prompt fest, welche Videos auf ihrer Startseite landen. Die Funktion startet zunächst in den USA. (Youtube, KI)</description>
-      <pubDate>Thu, 24 Sep 2026 07:08:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
