@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 09:21:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:36:27 GMT</lastBuildDate>
+    <item>
+      <title>Hackerangriff: Daten von 600.000 Studenten der LMU München betroffen</title>
+      <link>https://www.golem.de/news/hackerangriff-daten-von-600-000-studenten-der-lmu-muenchen-betroffen-2609-213574.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hackerangriff-daten-von-600-000-studenten-der-lmu-muenchen-betroffen-2609-213574.html</guid>
+      <description>Unbekannte kompromittieren Immatrikulationsdaten aus einem Zeitraum von rund 50 Jahren - von fast allen Studenten seit Mitte der 70er Jahre. (Cybercrime, Security)</description>
+      <pubDate>Wed, 30 Sep 2026 09:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>Donald Trump: KI-Industrie soll sich selbst regulieren</title>
       <link>https://www.golem.de/news/donald-trump-ki-industrie-soll-sich-selbst-regulieren-2609-213573.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/streaming-youtube-laesst-nutzer-eigene-feeds-per-ki-prompt-erstellen-2609-213383.html</guid>
       <description>Mit Custom Feeds legen Nutzer per KI-Prompt fest, welche Videos auf ihrer Startseite landen. Die Funktion startet zunächst in den USA. (Youtube, KI)</description>
       <pubDate>Thu, 24 Sep 2026 07:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bestellbutton: Autokäufer scheitert vor Gericht trotz falscher Beschriftung</title>
-      <link>https://www.golem.de/news/bestellbutton-autokaeufer-scheitert-vor-gericht-trotz-falscher-beschriftung-2609-213382.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bestellbutton-autokaeufer-scheitert-vor-gericht-trotz-falscher-beschriftung-2609-213382.html</guid>
-      <description>Ein Autokäufer hat mehr als ein Jahr später sein Geld zurückverlangt und sich dabei auf einen falsch beschrifteten Bestellbutton berufen - ohne Erfolg. (Onlinehandel, Elektroauto)</description>
-      <pubDate>Thu, 24 Sep 2026 06:59:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
