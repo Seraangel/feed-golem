@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 07:16:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 07:26:15 GMT</lastBuildDate>
+    <item>
+      <title>pB-Fusion: Chinesischer Konzern baut unmögliches Fusionskraftwerk</title>
+      <link>https://www.golem.de/news/pb-fusion-chinesischer-konzern-baut-unmoegliches-fusionskraftwerk-2609-213567.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pb-fusion-chinesischer-konzern-baut-unmoegliches-fusionskraftwerk-2609-213567.html</guid>
+      <description>Mit 100 Millionen Fusionsreaktionen hat erstmals ein kommerzieller Betreiber die Proton-Bor-Fusion realisiert. Bis zur Energiegewinnung dauert es noch. (Kernfusion, Laser)</description>
+      <pubDate>Wed, 30 Sep 2026 07:21:09 GMT</pubDate>
+    </item>
     <item>
       <title>John Ternus: Neuer Apple-CEO will Produkte noch schneller veröffentlichen</title>
       <link>https://www.golem.de/news/john-ternus-neuer-apple-ceo-will-produkte-noch-schneller-veroeffentlichen-2609-213566.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/pro-x3-superstrike-logitech-macht-den-mausklick-noch-schneller-2609-213374.html</guid>
       <description>Die Pro X3 Superstrike von Logitech bekommt neue Funktechnik und eine deutlich längere Akkulaufzeit. (Logitech, Eingabegerät)</description>
       <pubDate>Thu, 24 Sep 2026 05:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für KI-Wearables: Neuer Snapdragon-Soundchip kommt mit besserer NPU</title>
-      <link>https://www.golem.de/news/fuer-ki-wearables-neuer-snapdragon-soundchip-kommt-mit-besserer-npu-2609-213342.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuer-ki-wearables-neuer-snapdragon-soundchip-kommt-mit-besserer-npu-2609-213342.html</guid>
-      <description>Der neue Snapdragon Sound Elite Gen 2 soll eine bis zu doppelt so starke KI-Leistung als der Vorgänger bringen. Gedacht ist er für Wearables, auch Smart Glasses. (Snapdragon Summit 2026, KI)</description>
-      <pubDate>Wed, 23 Sep 2026 19:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
