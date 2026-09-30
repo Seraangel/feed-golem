@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 08:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:06:22 GMT</lastBuildDate>
+    <item>
+      <title>WSL: Microsoft gibt WSL-Container-Schnittstelle für alle frei</title>
+      <link>https://www.golem.de/news/wsl-microsoft-gibt-wsl-container-schnittstelle-fuer-alle-frei-2609-213572.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wsl-microsoft-gibt-wsl-container-schnittstelle-fuer-alle-frei-2609-213572.html</guid>
+      <description>Mit Containern bekommt WSL ein neues Feature. Gegenüber der Preview hat Microsoft den Funktionsumfang erweitert. (WSL, Microsoft)</description>
+      <pubDate>Wed, 30 Sep 2026 09:05:03 GMT</pubDate>
+    </item>
     <item>
       <title>Mozilla-Browser: Firefox erhält neues Design und bekommt Kompaktmodus zurück</title>
       <link>https://www.golem.de/news/mozilla-browser-firefox-erhaelt-neues-design-und-bekommt-kompaktmodus-zurueck-2609-213571.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/qualcomm-snapdragon-x2-linux-fuer-snapdragon-chips-ist-da-2609-213381.html</guid>
       <description>In der ersten auf Debian basierten Entwickler-Preview können User Linux für den ARM-Chip von Qualcomm ausprobieren. (Linux, Debian)</description>
       <pubDate>Thu, 24 Sep 2026 06:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fresenius Medical Care: Cyberangriff trifft großen Dialysekonzern</title>
-      <link>https://www.golem.de/news/fresenius-medical-care-cyberangriff-trifft-grossen-dialysekonzern-2609-213380.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fresenius-medical-care-cyberangriff-trifft-grossen-dialysekonzern-2609-213380.html</guid>
-      <description>Die Hackergruppe Shinyhunters ist offenbar an Daten von Fresenius Medical Care gelangt. Inwieweit das Dialysepatienten betrifft, ist noch unklar. (Cybercrime, Cyberwar)</description>
-      <pubDate>Thu, 24 Sep 2026 06:37:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
