@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 09:46:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:01:37 GMT</lastBuildDate>
+    <item>
+      <title>Kritische Schwachstelle: Google stopft 32 Löcher in Chrome</title>
+      <link>https://www.golem.de/news/kritische-schwachstelle-google-stopft-32-loecher-in-chrome-2609-213576.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kritische-schwachstelle-google-stopft-32-loecher-in-chrome-2609-213576.html</guid>
+      <description>Die kritische Lücke erlaubt eine Remotecodeausführung außerhalb der Sandbox. Die nächste finale Version von Chrome steht schon in den Startlöchern. (Browser, Chrome)</description>
+      <pubDate>Wed, 30 Sep 2026 10:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Geothermie: 3 km tiefe Geothermieanlage in Berlin als Wegbereiter</title>
       <link>https://www.golem.de/news/geothermie-3-km-tiefe-geothermieanlage-in-berlin-als-wegbereiter-2609-213575.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smr-wirtschaftsministerium-haelt-kleine-akws-fuer-nicht-marktfaehig-2609-213384.html</guid>
       <description>Weder der Stand der Technik noch die Stromkosten können die Fachabteilung des Ministeriums überzeugen. Ohne Subventionen seien AKWs nicht tragfähig. (Atomkraft, Politik)</description>
       <pubDate>Thu, 24 Sep 2026 07:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snap Specs im Hands-on: Eine AR-Brille, die besser funktioniert als sie aussieht</title>
-      <link>https://www.golem.de/news/snap-specs-im-hands-on-eine-ar-brille-die-besser-funktioniert-als-sie-aussieht-2609-213378.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/snap-specs-im-hands-on-eine-ar-brille-die-besser-funktioniert-als-sie-aussieht-2609-213378.html</guid>
-      <description>Snaps neue Datenbrille Specs verwendet Waveguide-Technologie, um AR-Objekte in die Umgebung zu projizieren. Das funktioniert gut, hat aber auch Nachteile. Ein Hands-on von Tobias Költzsch (Snapdragon Summit 2026, Augmented Reality)</description>
-      <pubDate>Thu, 24 Sep 2026 07:17:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
