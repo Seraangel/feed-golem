@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 04:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 05:16:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ansible automatisiert Linux-Systeme ohne Agenten</title>
+      <link>https://www.golem.de/news/anzeige-ansible-automatisiert-linux-systeme-ohne-agenten-2609-213225.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-automatisiert-linux-systeme-ohne-agenten-2609-213225.html</guid>
+      <description>Ansible automatisiert Konfiguration und Deployment von Linux-Systemen ohne zusätzliche Agenten. Die Golem Karrierewelt vermittelt die zentralen Konzepte und Werkzeuge. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 30 Sep 2026 05:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>Elektrolimousine: BMW i3 in zwei Basisvarianten bestellbar</title>
       <link>https://www.golem.de/news/elektrolimousine-bmw-i3-in-zwei-basisvarianten-bestellbar-2609-213548.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-dji-lito-1-4k-kameradrohne-fuer-einsteiger-zum-amazon-aktionspreis-fuer-279-euro-2609-213363.html</guid>
       <description>Die DJI Lito 1 Kameradrohne mit 4K-Video und 8K-Fotos als aktualisierte Version der beliebten Mini 4K ist bei Amazon aktuell reduziert. (Technik/Hardware, Drohne)</description>
       <pubDate>Wed, 23 Sep 2026 14:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>CO2-Ausstieg der Bundesregierung: Ja zur Wärmepumpe, nein zum Verbrenner</title>
-      <link>https://www.golem.de/news/co2-ausstieg-der-bundesregierung-ja-zur-waermepumpe-nein-zum-verbrenner-2609-213362.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/co2-ausstieg-der-bundesregierung-ja-zur-waermepumpe-nein-zum-verbrenner-2609-213362.html</guid>
-      <description>Die Bundesregierung beschließt den Fahrplan zur Energiewende. Er wird auf der UN-Generalversammlung vorgestellt und hält Überraschungen bereit. (Energiewende, Elektroauto)</description>
-      <pubDate>Wed, 23 Sep 2026 14:23:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
