@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 10:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 10:36:19 GMT</lastBuildDate>
+    <item>
+      <title>Nicht in Arizona: TSMC plant wohl zweiten US-Standort</title>
+      <link>https://www.golem.de/news/nicht-in-arizona-tsmc-plant-wohl-zweiten-us-standort-2609-213577.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nicht-in-arizona-tsmc-plant-wohl-zweiten-us-standort-2609-213577.html</guid>
+      <description>TSMC plant nochmals mehr Werke außerhalb Taiwans - möglicherweise nicht ganz freiwillig. Das neue Werk soll noch teurer werden als das in Arizona. (TSMC, Wirtschaft)</description>
+      <pubDate>Wed, 30 Sep 2026 10:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>Amazons Streaminggerät: Neuer Fire TV Stick 4K bekommt schlechtere Fernbedienung</title>
       <link>https://www.golem.de/news/amazons-streaminggeraet-neuer-fire-tv-stick-4k-bekommt-schlechtere-fernbedienung-2609-213578.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/australien-openai-agent-hat-sich-in-regierungsportal-gehackt-2609-213388.html</guid>
       <description>Ein KI-Agent von OpenAI sollte australische Gesundheitsstatistiken recherchieren. Dabei ist er aber zu weit gegangen und hat geschützte Daten abgerufen. (OpenAI, KI)</description>
       <pubDate>Thu, 24 Sep 2026 08:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Surface Pro 12 verwendet neuen ARM-Chip von Qualcomm</title>
-      <link>https://www.golem.de/news/microsoft-surface-pro-12-verwendet-neuen-arm-chip-von-qualcomm-2609-213386.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-surface-pro-12-verwendet-neuen-arm-chip-von-qualcomm-2609-213386.html</guid>
-      <description>Die neue Version des Surface Pro 12 soll vor allem eine lange Akkulaufzeit und mehr KI-Leistung erhalten. Das ist aber teuer. (Surface, Microsoft)</description>
-      <pubDate>Thu, 24 Sep 2026 07:38:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
