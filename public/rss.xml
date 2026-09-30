@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 05:46:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 06:01:53 GMT</lastBuildDate>
+    <item>
+      <title>FritzOS 8.50 ist fertig: Fritzboxen erhalten bessere DNS-Filter-Funktionen und Ausfallschutz</title>
+      <link>https://www.golem.de/news/fritzos-8-50-ist-fertig-fritzboxen-erhalten-bessere-dns-filter-funktionen-und-ausfallschutz-2609-213562.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fritzos-8-50-ist-fertig-fritzboxen-erhalten-bessere-dns-filter-funktionen-und-ausfallschutz-2609-213562.html</guid>
+      <description>Zu den Neuerungen von FritzOS 8.50 gehören verbesserte DNS-Filter-Funktionen, ein Ausfallschutz sowie optimierte Diagnose- und Smart-Home-Funktionen. (FritzOS, Netzwerk)</description>
+      <pubDate>Wed, 30 Sep 2026 05:58:03 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI: GPT-6.1 Sol soll günstiger als GPT-6 Astra, aber fast genauso gut sein</title>
       <link>https://www.golem.de/news/openai-gpt-6-1-sol-soll-guenstiger-als-gpt-6-astra-aber-fast-genauso-gut-sein-2609-213561.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/glasfaser-bundesnetzagentur-stellt-preisformel-fuer-open-access-vor-2609-213370.html</guid>
       <description>Mit flexiblen Rabattmodellen will die Bundesnetzagentur die geringe Nutzung von Open Access beenden. Doch aus der Branche kommen kritische Töne. Eine Analyse von Achim Sawall (Open Access, Telekom)</description>
       <pubDate>Wed, 23 Sep 2026 16:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Künstliche Intelligenz: Das Problem mit P(doom)</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-das-problem-mit-p-doom-2609-213365.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-das-problem-mit-p-doom-2609-213365.html</guid>
-      <description>Tim Harford von der Financial Times fragt, was P(doom)-Vorhersagen eigentlich bringen sollen. Unsere Leseempfehlung. Von Tim Harford (KI, Software)</description>
-      <pubDate>Wed, 23 Sep 2026 16:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
