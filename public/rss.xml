@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 11:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 11:11:14 GMT</lastBuildDate>
+    <item>
+      <title>Dringendes Update: Teamviewer schließt schwerwiegende Sicherheitslücken</title>
+      <link>https://www.golem.de/news/dringendes-update-teamviewer-schliesst-schwerwiegende-sicherheitsluecken-2610-213615.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/dringendes-update-teamviewer-schliesst-schwerwiegende-sicherheitsluecken-2610-213615.html</guid>
+      <description>Sie erlauben auch das Einschleusen und Ausführen von Schadcode aus der Ferne. Es lassen sich zudem Zugriffsbeschränkungen für Teamviewer-Sitzungen umgehen. (Sicherheitslücke, Fernwartung)</description>
+      <pubDate>Thu, 01 Oct 2026 11:09:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Vor dem Prime Day - Amazon senkt Philips-Kaffeevollautomat auf Rekordpreis</title>
       <link>https://www.golem.de/news/anzeige-vor-dem-prime-day-amazon-senkt-philips-kaffeevollautomat-auf-rekordpreis-2610-213616.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nintendo-erwirkt-versaeumnisurteil-switch-reparatur-fuehrt-zu-schadensersatzklage-2609-213425.html</guid>
       <description>Über eine angeforderte Hardware-Reparatur hat Nintendo ein auffälliges Reddit-Profil mit einer Wohnadresse verknüpft. (Nintendo, Urheberrecht)</description>
       <pubDate>Fri, 25 Sep 2026 08:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cyberangriff auf Bitget: 350 Millionen US-Dollar von großer Kryptobörse gestohlen</title>
-      <link>https://www.golem.de/news/cyberangriff-auf-bitget-350-millionen-us-dollar-von-grosser-kryptoboerse-gestohlen-2609-213421.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-auf-bitget-350-millionen-us-dollar-von-grosser-kryptoboerse-gestohlen-2609-213421.html</guid>
-      <description>Ein Hackerangriff erschüttert die Kryptobörse Bitget: Angreifer sind an Millionenbestände verschiedener Kryptowährungen gelangt. (Cybercrime, Cyberwar)</description>
-      <pubDate>Fri, 25 Sep 2026 07:50:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
