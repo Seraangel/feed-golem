@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 30 Sep 2026 17:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:16:21 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Entra ID sicher administrieren und härten</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-administrieren-und-haerten-2610-213227.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-administrieren-und-haerten-2610-213227.html</guid>
+      <description>Microsoft Entra ID verbindet Identitätsverwaltung und Zugriffsschutz. Die Golem Karrierewelt zeigt, wie sich hybride Strukturen administrieren, absichern und härten lassen. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Thu, 01 Oct 2026 05:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>BWI: IT-Panne trennt Reservisten von IT-Bundeswehrsystemen</title>
       <link>https://www.golem.de/news/bwi-it-panne-trennt-reservisten-von-it-bundeswehrsystemen-2609-213596.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-ki-chatbots-kommen-beim-autofahren-nicht-weit-2609-213404.html</guid>
       <description>Wie gut finden sich aktuelle KI-Modelle hinter dem Steuer eines Autos zurecht? Bei einer kurzen Fahrt kam nur ein LLM ans Ziel. (Autonomes Fahren, KI)</description>
       <pubDate>Thu, 24 Sep 2026 13:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shelly: Schneider Electric übernimmt Smart-Home-Spezialisten für 1,2 Milliarden Euro</title>
-      <link>https://www.golem.de/news/shelly-schneider-electric-uebernimmt-smart-home-spezialisten-fuer-1-2-milliarden-euro-2609-213402.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/shelly-schneider-electric-uebernimmt-smart-home-spezialisten-fuer-1-2-milliarden-euro-2609-213402.html</guid>
-      <description>Schneider Electric hat ein Angebot für einen bulgarischen Hersteller von Smart-Home-Technik vorgelegt. Schneider wächst gegenwärtig stark bei Rechenzentrumsinfrastruktur. (Smart Home, Wirtschaft)</description>
-      <pubDate>Thu, 24 Sep 2026 12:44:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
