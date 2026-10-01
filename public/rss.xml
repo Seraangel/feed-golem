@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 08:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:02:03 GMT</lastBuildDate>
+    <item>
+      <title>SD-WAN-Manager: Cisco warnt vor Angriffen auf Zero-Day-Lücke</title>
+      <link>https://www.golem.de/news/sd-wan-manager-cisco-warnt-vor-angriffen-auf-zero-day-luecke-2610-213606.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sd-wan-manager-cisco-warnt-vor-angriffen-auf-zero-day-luecke-2610-213606.html</guid>
+      <description>Sie erlaubt das Umgehen der Authentifizierung. Unbefugte erhalten Zugriff auf den SD‑WAN-Manager mit Administratorrechten. (Sicherheitslücke, API)</description>
+      <pubDate>Thu, 01 Oct 2026 08:58:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Canon PG-545 + CL-546 Druckertinte samt Fotopapier jetzt unter 36 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-canon-pg-545-cl-546-druckertinte-samt-fotopapier-jetzt-unter-36-euro-bei-amazon-2610-213604.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mattel-aldi-bringt-exklusive-barbie-mit-aldi-logo-kleid-2609-213417.html</guid>
       <description>Eine Barbie von Mattel mit Aldi-Logos: Sammler stürzen sich bei eBay UK bereits auf die Aldimania-Puppe mit Bananen und Karotten. (Aldi, BigJim)</description>
       <pubDate>Thu, 24 Sep 2026 16:39:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: 55-Zoll-TV für 379 Euro - LG Nanocell-Fernseher bei Amazon deutlich günstiger</title>
-      <link>https://www.golem.de/news/anzeige-55-zoll-tv-fuer-379-euro-lg-nanocell-fernseher-bei-amazon-deutlich-guenstiger-2609-213415.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-55-zoll-tv-fuer-379-euro-lg-nanocell-fernseher-bei-amazon-deutlich-guenstiger-2609-213415.html</guid>
-      <description>Der LG Nano80A6B kostet bei Amazon derzeit nur 379 Euro. Der 55-Zoll-TV bietet NanoCell, WebOS 25 und Gaming-Funktionen. (Fernsehen, Amazon)</description>
-      <pubDate>Thu, 24 Sep 2026 16:30:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
