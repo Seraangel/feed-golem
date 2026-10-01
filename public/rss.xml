@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 15:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:02:11 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Halbleiterindustrie: ASML-Chef: "Es gibt nur ein Unternehmen, das diese Maschinen herstellt"</title>
+      <link>https://www.golem.de/news/halbleiterindustrie-asml-chef-es-gibt-nur-ein-unternehmen-das-diese-maschinen-herstellt-2610-213628.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/halbleiterindustrie-asml-chef-es-gibt-nur-ein-unternehmen-das-diese-maschinen-herstellt-2610-213628.html</guid>
+      <description>Unsere Leseempfehlung heute: Die Financial Times hat mit ASML-Chef Christophe Fouquet gesprochen. Von Patrick Jenkins (Technik/Hardware, TSMC)</description>
+      <pubDate>Thu, 01 Oct 2026 16:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Nein zu Trumps Superintelligenz: Kalifornien hält an Künstlicher Intelligenz fest</title>
       <link>https://www.golem.de/news/nein-zu-trumps-superintelligenz-kalifornien-haelt-an-kuenstlicher-intelligenz-fest-2610-213623.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digital-services-act-us-regierung-will-sich-in-eu-rechtssprechung-einmischen-2609-213446.html</guid>
       <description>Das US-Justizministerium will sich an einem DSA-Verfahren der EU gegen Elon Musk und seine Plattform X beteiligen. (Digital Services Act, Datenschutz)</description>
       <pubDate>Fri, 25 Sep 2026 12:13:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Open-Source-LLMs als Wettbewerbsvorteil: Kontrolle, Compliance und Kosten im Griff?</title>
-      <link>https://www.golem.de/news/open-source-llms-als-wettbewerbsvorteil-kontrolle-compliance-und-kosten-im-griff-2609-213442.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/open-source-llms-als-wettbewerbsvorteil-kontrolle-compliance-und-kosten-im-griff-2609-213442.html</guid>
-      <description>KI leistungsfähig einsetzen, ohne Kontrolle über Daten, Kosten und Compliance zu verlieren? Offene und selbstgehostete LLMs versprechen neue Spielräume, bringen aber auch eigene Entscheidungen mit sich. Eine Analyse von Fabian Deitelhoff (KI, JSON)</description>
-      <pubDate>Fri, 25 Sep 2026 11:30:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
