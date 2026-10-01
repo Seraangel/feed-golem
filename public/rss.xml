@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 14:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:01:55 GMT</lastBuildDate>
+    <item>
+      <title>Figure AI: Arnold Schwarzenegger versenkt ausgediente Roboter in Schmelzofen</title>
+      <link>https://www.golem.de/news/figure-ai-arnold-schwarzenegger-versenkt-ausgediente-roboter-in-schmelzofen-2610-213629.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/figure-ai-arnold-schwarzenegger-versenkt-ausgediente-roboter-in-schmelzofen-2610-213629.html</guid>
+      <description>Figure AI hat seine ausgedienten F.02-Roboter zur Ausmusterung in einen Schmelzofen springen lassen. Auch Arnold Schwarzenegger durfte ein Exemplar versenken. (Roboter, Technik/Hardware)</description>
+      <pubDate>Thu, 01 Oct 2026 14:58:11 GMT</pubDate>
+    </item>
     <item>
       <title>Samut Prakan: Bangkok kann größte Backend-Fertigung von Infineon werden</title>
       <link>https://www.golem.de/news/samut-prakan-bangkok-kann-groesste-backend-fertigung-von-infineon-werden-2610-213625.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-der-tcl-98q7d-pro-98-zoll-mini-led-tv-jetzt-bei-amazon-zum-aktionspreis-verfuegbar-2609-213441.html</guid>
       <description>Der TCL 98Q7D Pro Mini-LED-Fernseher mit 98 Zoll und 144 Hz ist ideal für Filmabende und Gaming mit echtem Mittendrin-Gefühl. (TV &amp; Monitore, TCL)</description>
       <pubDate>Fri, 25 Sep 2026 11:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Word, Excel, Powerpoint: Projekt bringt Microsoft Office auf Linux</title>
-      <link>https://www.golem.de/news/word-excel-powerpoint-projekt-bringt-microsoft-office-auf-linux-2609-213438.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/word-excel-powerpoint-projekt-bringt-microsoft-office-auf-linux-2609-213438.html</guid>
-      <description>Über Proton kann Word bereits auf Linux gestartet werden. Eine große Herausforderung bleibt aber: die Lizenzierung durch Microsoft. (Microsoft 365, Linux)</description>
-      <pubDate>Fri, 25 Sep 2026 10:57:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
