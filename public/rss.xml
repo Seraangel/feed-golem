@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 06:41:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:51:25 GMT</lastBuildDate>
+    <item>
+      <title>Project Meridian: Musk, Luckey und Gingrich beraten das Pentagon</title>
+      <link>https://www.golem.de/news/project-meridian-musk-luckey-und-gingrich-beraten-das-pentagon-2610-213601.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/project-meridian-musk-luckey-und-gingrich-beraten-das-pentagon-2610-213601.html</guid>
+      <description>Das Pentagon startet Project Meridian. Musk, Luckey und Gingrich sollen den Bedarf für künftige Kriege ermitteln. (Politik, Elon Musk)</description>
+      <pubDate>Thu, 01 Oct 2026 06:49:02 GMT</pubDate>
+    </item>
     <item>
       <title>Scraping: Reddit schränkt alte Oberfläche weiter ein</title>
       <link>https://www.golem.de/news/scraping-reddit-schraenkt-alte-oberflaeche-weiter-ein-2610-213600.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-levoit-luftreiniger-noch-bis-morgen-zum-tiefstpreis-2609-213413.html</guid>
       <description>Ein Luftreiniger sorgt für ein besseres Raumklima und lindert Beschwerden von Allergikern. Ein Modell von Levoit mit HEPA-Filter gibt es bei Amazon zum Jahres-Tiefstpreis. (Technik/Hardware)</description>
       <pubDate>Thu, 24 Sep 2026 15:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Petal: Meta und Orange bauen leistungsstärkstes Seekabel</title>
-      <link>https://www.golem.de/news/petal-meta-und-orange-bauen-leistungsstaerkstes-seekabel-2609-213412.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/petal-meta-und-orange-bauen-leistungsstaerkstes-seekabel-2609-213412.html</guid>
-      <description>Ein weiteres Meta-Seekabel soll die USA mit Europa verbinden. Petal setzt erstmals breit Multicore-Fasertechnologie ein, was die Kapazität verdoppelt. (Meta, Whatsapp)</description>
-      <pubDate>Thu, 24 Sep 2026 15:11:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
