@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 05:16:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 05:21:12 GMT</lastBuildDate>
+    <item>
+      <title>Sparprogramm: VW kündigt Tarifverträge</title>
+      <link>https://www.golem.de/news/sparprogramm-vw-kuendigt-tarifvertraege-2610-213598.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sparprogramm-vw-kuendigt-tarifvertraege-2610-213598.html</guid>
+      <description>VW hat mehrere Haustarifverträge zum Jahresende gekündigt. Mehr als 100.000 Beschäftigte könnten betroffen sein, die Gewerkschaft kündigt Widerstand an. (VW, Wirtschaft)</description>
+      <pubDate>Thu, 01 Oct 2026 05:17:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Entra ID sicher administrieren und härten</title>
       <link>https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-administrieren-und-haerten-2610-213227.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-wera-adventskalender-mit-schraublampe-bei-amazon-nur-47-euro-2609-213403.html</guid>
       <description>Der Wera Werkzeug Adventskalender hat sich bei Amazon allein im letzten Monat über 3.000-mal verkauft. Nun ist er günstiger als in anderen Shops. (Technik/Hardware)</description>
       <pubDate>Thu, 24 Sep 2026 13:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonomes Fahren: KI-Chatbots kommen beim Autofahren nicht weit</title>
-      <link>https://www.golem.de/news/autonomes-fahren-ki-chatbots-kommen-beim-autofahren-nicht-weit-2609-213404.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-ki-chatbots-kommen-beim-autofahren-nicht-weit-2609-213404.html</guid>
-      <description>Wie gut finden sich aktuelle KI-Modelle hinter dem Steuer eines Autos zurecht? Bei einer kurzen Fahrt kam nur ein LLM ans Ziel. (Autonomes Fahren, KI)</description>
-      <pubDate>Thu, 24 Sep 2026 13:03:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
