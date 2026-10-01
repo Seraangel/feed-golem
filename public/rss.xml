@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 10:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:46:27 GMT</lastBuildDate>
+    <item>
+      <title>Golem Karrierewelt: Heute Golem-Podcast: Leben als IT-Freiberufler</title>
+      <link>https://www.golem.de/news/golem-karrierewelt-heute-golem-podcast-leben-als-it-freiberufler-2610-213505.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/golem-karrierewelt-heute-golem-podcast-leben-als-it-freiberufler-2610-213505.html</guid>
+      <description>IT-Freiberuflichkeit bietet Freiheit und spannende Projekte, bringt aber auch Akquise und unternehmerische Verantwortung mit sich. Aaron Siller und Karsten Hentrup berichten aus der Praxis. (IT-Freelancer, Betriebssysteme)</description>
+      <pubDate>Thu, 01 Oct 2026 10:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stromsimulator: Batteriespeicher schaffen Platz im Stromnetz</title>
+      <link>https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html</guid>
+      <description>Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. (Akku, Windkraft)</description>
+      <pubDate>Thu, 01 Oct 2026 10:42:11 GMT</pubDate>
+    </item>
     <item>
       <title>Von Cheater erworben: User kauft gebrauchte CPU und wird in Spiel gesperrt</title>
       <link>https://www.golem.de/news/von-cheater-erworben-user-kauft-gebrauchte-cpu-und-wird-in-spiel-gesperrt-2610-213611.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-chips-im-orbit-google-kuendigt-ersten-test-an-2609-213423.html</guid>
       <description>Google will herausfinden, ob sich das All für KI-Infrastruktur eignet. Mit Project Suncatcher steht der erste praktische Test bevor. (Google, KI)</description>
       <pubDate>Fri, 25 Sep 2026 07:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Live Avatar: Google gibt Gemini Live ein animiertes Gesicht</title>
-      <link>https://www.golem.de/news/live-avatar-google-gibt-gemini-live-ein-animiertes-gesicht-2609-213422.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/live-avatar-google-gibt-gemini-live-ein-animiertes-gesicht-2609-213422.html</guid>
-      <description>Google hat Gemini 3.8 Live um einen animierten Avatar erweitert. Er spricht 97 Sprachen, steht vorerst aber nur Firmenkunden offen. (Gemini, Google)</description>
-      <pubDate>Fri, 25 Sep 2026 07:05:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quiet Comfort Kopfhörer 2 im Praxistest: Boses neuer Kopfhörer überzeugt - bis die Schwächen kommen</title>
-      <link>https://www.golem.de/news/quiet-comfort-kopfhoerer-2-im-praxistest-boses-neuer-kopfhoerer-ueberzeugt-bis-die-schwaechen-kommen-2609-213387.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/quiet-comfort-kopfhoerer-2-im-praxistest-boses-neuer-kopfhoerer-ueberzeugt-bis-die-schwaechen-kommen-2609-213387.html</guid>
-      <description>Der neue Quiet Comfort Kopfhörer 2 von Bose hinterlässt einen vorzüglichen ersten Eindruck. Aber: Je mehr wir uns damit beschäftigen, desto mehr negative Eigenschaften nerven. Ein Praxistest von Ingo Pakalski (Bose, Test)</description>
-      <pubDate>Fri, 25 Sep 2026 06:45:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
