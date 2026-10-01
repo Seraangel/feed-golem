@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 16:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:46:29 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft 365 sicher administrieren und migrieren</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-365-sicher-administrieren-und-migrieren-2610-213233.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-sicher-administrieren-und-migrieren-2610-213233.html</guid>
+      <description>Microsoft 365 Administration umfasst Cloud, lokale Systeme und Migration. Die Golem Karrierewelt vermittelt die sichere Konfiguration und Verwaltung. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Thu, 01 Oct 2026 16:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ryzen-7-Mini-PC in Retro-Optik für weniger als 560 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ryzen-7-mini-pc-in-retro-optik-fuer-weniger-als-560-euro-bei-amazon-2610-213631.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-cosori-turboblaze-airfryer-9-in-1-mit-backfunktion-jetzt-zum-aktionspreis-bei-amazon-2609-213450.html</guid>
       <description>Die Cosori TurboBlaze Heißluftfritteuse mit Sechs-Liter-Korb und fünf Gebläsestufen ist aktuell bei Amazon reduziert und stark nachgefragt. (Technik/Hardware)</description>
       <pubDate>Fri, 25 Sep 2026 14:18:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aus dem Verlag: Steel Aces startet heute letzten offenen Test vor Release</title>
-      <link>https://www.golem.de/news/aus-dem-verlag-steel-aces-startet-heute-letzten-offenen-test-vor-release-2609-213443.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/aus-dem-verlag-steel-aces-startet-heute-letzten-offenen-test-vor-release-2609-213443.html</guid>
-      <description>Vor dem Start öffnet der deutsche Panzer-Shooter Steel Aces heute um 16 h noch einmal seine Server. Im Backend kommen Nakama und Odin Fleet von 4Players zusammen. (Spiele, Server)</description>
-      <pubDate>Fri, 25 Sep 2026 13:30:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
