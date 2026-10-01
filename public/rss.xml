@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 10:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:56:25 GMT</lastBuildDate>
+    <item>
+      <title>Angeblich Pilotprojekte: Meta nutzt KI-Rechenzentren als Steuersparmodell</title>
+      <link>https://www.golem.de/news/angeblich-pilotprojekte-meta-nutzt-ki-rechenzentren-als-steuersparmodell-2610-213605.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/angeblich-pilotprojekte-meta-nutzt-ki-rechenzentren-als-steuersparmodell-2610-213605.html</guid>
+      <description>Metas KI-Rechenzentren sind angeblich Grundlagenforschung. Das spart Steuern, aber die eigene Buchhaltung zweifelt an der Legalität. (Meta, KI)</description>
+      <pubDate>Thu, 01 Oct 2026 10:55:07 GMT</pubDate>
+    </item>
     <item>
       <title>Golem Karrierewelt: Heute Golem-Podcast: Leben als IT-Freiberufler</title>
       <link>https://www.golem.de/news/golem-karrierewelt-heute-golem-podcast-leben-als-it-freiberufler-2610-213505.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/online-shopping-amazon-kunden-verlieren-die-zahlungsoption-monatsabrechnung-2609-213424.html</guid>
       <description>Amazon verweist auf eine Alternative, die aber kein echter Ersatz für die bisherige Monatsabrechnung ist. (Amazon, Onlineshop)</description>
       <pubDate>Fri, 25 Sep 2026 07:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Chips im Orbit: Google kündigt ersten Test an</title>
-      <link>https://www.golem.de/news/ki-chips-im-orbit-google-kuendigt-ersten-test-an-2609-213423.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-chips-im-orbit-google-kuendigt-ersten-test-an-2609-213423.html</guid>
-      <description>Google will herausfinden, ob sich das All für KI-Infrastruktur eignet. Mit Project Suncatcher steht der erste praktische Test bevor. (Google, KI)</description>
-      <pubDate>Fri, 25 Sep 2026 07:20:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
