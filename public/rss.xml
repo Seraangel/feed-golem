@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 11:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:36:15 GMT</lastBuildDate>
+    <item>
+      <title>DIY: Bastler druckt mechanische Rechenmaschine im 3D-Drucker</title>
+      <link>https://www.golem.de/news/diy-bastler-druckt-mechanische-rechenmaschine-im-3d-drucker-2610-213619.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/diy-bastler-druckt-mechanische-rechenmaschine-im-3d-drucker-2610-213619.html</guid>
+      <description>Mechanische Rechenmaschinen sind faszinierend - fand auch ein Youtuber, und druckte sein eigenes kleines Taschenmodell selbst. (DIY - Do it yourself, Youtube)</description>
+      <pubDate>Thu, 01 Oct 2026 12:34:10 GMT</pubDate>
+    </item>
     <item>
       <title>Klemmbausteine: Bluebrixx bringt Jaffa-Armee und Goa'uld aus Stargate</title>
       <link>https://www.golem.de/news/klemmbausteine-bluebrixx-bringt-jaffa-armee-und-goa-uld-aus-stargate-2610-213614.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/muse-leakt-systemdateien-metas-ki-agent-gibt-auf-anfrage-sein-dateisystem-aus-2609-213429.html</guid>
       <description>Ein Entwickler hat Metas KI-Agent Muse 6,8 GByte an Daten aus seiner Betriebsumgebung entlockt. Laut Meta ist das ein erwartetes Verhalten. (KI, Ubuntu)</description>
       <pubDate>Fri, 25 Sep 2026 08:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Horizon Create und Horizon Studio: KI erzeugt Handyspiele und verteilt sie auf Facebook</title>
-      <link>https://www.golem.de/news/horizon-create-und-horizon-studio-ki-erzeugt-handyspiele-und-verteilt-sie-auf-facebook-2609-213427.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/horizon-create-und-horizon-studio-ki-erzeugt-handyspiele-und-verteilt-sie-auf-facebook-2609-213427.html</guid>
-      <description>Anwender sollen Spiele für Meta-Plattformen mit KI direkt am Smartphone und im Browser prompten können. (KI, Softwareentwicklung)</description>
-      <pubDate>Fri, 25 Sep 2026 08:35:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
