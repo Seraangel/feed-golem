@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 06:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 06:41:23 GMT</lastBuildDate>
+    <item>
+      <title>Scraping: Reddit schränkt alte Oberfläche weiter ein</title>
+      <link>https://www.golem.de/news/scraping-reddit-schraenkt-alte-oberflaeche-weiter-ein-2610-213600.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/scraping-reddit-schraenkt-alte-oberflaeche-weiter-ein-2610-213600.html</guid>
+      <description>Die klassische Ansicht bekommt eine zusätzliche Zugangshürde. Reddit will damit das automatisierte Auslesen von Inhalten erschweren. (Reddit, RSS)</description>
+      <pubDate>Thu, 01 Oct 2026 06:36:02 GMT</pubDate>
+    </item>
     <item>
       <title>Smartphone-Browser für Android: Opera verschenkt 3 GByte eSIM-Datenvolumen für Auslandsreisen</title>
       <link>https://www.golem.de/news/smartphone-browser-fuer-android-opera-verschenkt-3-gbyte-esim-datenvolumen-fuer-auslandsreisen-2610-213599.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/petal-meta-und-orange-bauen-leistungsstaerkstes-seekabel-2609-213412.html</guid>
       <description>Ein weiteres Meta-Seekabel soll die USA mit Europa verbinden. Petal setzt erstmals breit Multicore-Fasertechnologie ein, was die Kapazität verdoppelt. (Meta, Whatsapp)</description>
       <pubDate>Thu, 24 Sep 2026 15:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: 4K-Solar-WLAN-Überwachungskamera für den Außenbereich jetzt zum Amazon-Tiefpreis nur 99 Euro</title>
-      <link>https://www.golem.de/news/anzeige-4k-solar-wlan-ueberwachungskamera-fuer-den-aussenbereich-jetzt-zum-amazon-tiefpreis-nur-99-euro-2609-213409.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-4k-solar-wlan-ueberwachungskamera-fuer-den-aussenbereich-jetzt-zum-amazon-tiefpreis-nur-99-euro-2609-213409.html</guid>
-      <description>Die aosu D1 Max Überwachungskamera mit 4K-Auflösung, 8 Megapixeln und 360-Grad-Sicht ist bei Amazon zum Tiefpreis verfügbar. (Technik/Hardware, Smart Home)</description>
-      <pubDate>Thu, 24 Sep 2026 14:03:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
