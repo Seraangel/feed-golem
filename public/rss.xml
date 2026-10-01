@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 09:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 09:31:33 GMT</lastBuildDate>
+    <item>
+      <title>KI: FTC eröffnet Untersuchung gegen Anthropic, OpenAI und Co.</title>
+      <link>https://www.golem.de/news/ki-ftc-eroeffnet-untersuchung-gegen-anthropic-openai-und-co-2610-213608.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-ftc-eroeffnet-untersuchung-gegen-anthropic-openai-und-co-2610-213608.html</guid>
+      <description>Die US-Verbraucherschutzbehörde FTC will mehr über die Gefahren durch KI wissen. Eine entsprechende Untersuchung wird gestartet. (FTC, KI)</description>
+      <pubDate>Thu, 01 Oct 2026 09:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>Revolut zahlt kein Lösegeld: Hackergruppe erpresst Revolut-Kunden direkt</title>
       <link>https://www.golem.de/news/revolut-zahlt-kein-loesegeld-hackergruppe-erpresst-revolut-kunden-direkt-2610-213607.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-sicherheitsvorfaelle-die-ersten-schritte-entscheiden-2609-213163.html</guid>
       <description>First Response auf Security Incidents verlangt klare Abläufe und technische Maßnahmen. Ein Workshop der Golem Karrierewelt vermittelt Vorgehen, Forensik und Beweissicherung. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Fri, 25 Sep 2026 05:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 Security für sichere Arbeitsumgebungen</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-security-fuer-sichere-arbeitsumgebungen-2609-213164.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-security-fuer-sichere-arbeitsumgebungen-2609-213164.html</guid>
-      <description>Microsoft 365 Security umfasst Identitäten, Geräte und Unternehmensdaten. Ein dreitägiger Workshop vermittelt die sichere Administration der Umgebung. (Golem Karrierewelt, Verschlüsselung)</description>
-      <pubDate>Thu, 24 Sep 2026 16:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
