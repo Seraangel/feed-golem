@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 14:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 14:26:26 GMT</lastBuildDate>
+    <item>
+      <title>Fossile Energie: Energieunabhängigkeit in Europa ist unrealistisch</title>
+      <link>https://www.golem.de/news/fossile-energie-energieunabhaengigkeit-in-europa-ist-unrealistisch-2610-213626.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fossile-energie-energieunabhaengigkeit-in-europa-ist-unrealistisch-2610-213626.html</guid>
+      <description>Bis 2050 könnte die EU klimaneutral sein - aber unabhängig von Importen wird sie dabei nicht. 200 Milliarden Euro pro Jahr lassen sich dennoch sparen. (Energiewende, Windkraft)</description>
+      <pubDate>Thu, 01 Oct 2026 14:25:08 GMT</pubDate>
+    </item>
     <item>
       <title>Project Meridian: Science-Fiction oder Wunschzettel von Trump-Freunden?</title>
       <link>https://www.golem.de/news/project-meridian-science-fiction-oder-wunschzettel-von-trump-freunden-2610-213622.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-200-hz-monitor-zum-tiefstpreis-gigabyte-g27q2-mit-qhd-kostet-nur-129-euro-2609-213436.html</guid>
       <description>Mit QHD-Auflösung, IPS-Panel und bis zu 210 Hz richtet sich der Gigabyte G27Q2 vor allem an preisbewusste PC-Spieler. Bei Amazon ist der 27-Zoll-Monitor jetzt zum Bestpreis erhältlich. (AOC, Display)</description>
       <pubDate>Fri, 25 Sep 2026 10:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schadcode-Attacken möglich: Angreifer können Gitlab-Instanzen kapern</title>
-      <link>https://www.golem.de/news/schadcode-attacken-moeglich-angreifer-koennen-gitlab-instanzen-kapern-2609-213435.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-angreifer-koennen-gitlab-instanzen-kapern-2609-213435.html</guid>
-      <description>Mehrere Sicherheitslücken lassen Angreifer Schadcode auf Gitlab-Server sowie in die Webbrowser anderer Nutzer einschleusen. Admins sollten zügig handeln. (Sicherheitslücke, Server)</description>
-      <pubDate>Fri, 25 Sep 2026 10:11:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
