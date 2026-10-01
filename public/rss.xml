@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 10:01:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 10:16:22 GMT</lastBuildDate>
+    <item>
+      <title>Mispel-Regulierung: Deutliche Erleichterungen für bidirektionales Laden</title>
+      <link>https://www.golem.de/news/mispel-regulierung-deutliche-erleichterungen-fuer-bidirektionales-laden-2610-213610.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mispel-regulierung-deutliche-erleichterungen-fuer-bidirektionales-laden-2610-213610.html</guid>
+      <description>Die Bundesnetzagentur regelt erstmals das bidirektionale Laden. Damit können Speicher und E-Autos einfach eingebunden und abgerechnet werden. Ein Bericht von Friedhelm Greis (Elektromobilität, Elektroauto)</description>
+      <pubDate>Thu, 01 Oct 2026 10:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>KI in der Wirkstoffforschung: Was Pharmakonzerne bei kleinen KI-Biotechs einkaufen</title>
       <link>https://www.golem.de/news/ki-in-der-wirkstoffforschung-was-pharmakonzerne-bei-kleinen-ki-biotechs-einkaufen-2610-213546.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tesla-fsd-faehrt-in-bruesseler-30er-zonen-zu-schnell-2609-213419.html</guid>
       <description>Kurz vor der Abstimmung zur EU-weiten Zulassung von FSD zeigt eine Studie, dass Teslas Fahrassistent es mit der Geschwindigkeit nicht so genau nimmt. (Tesla, Elektroauto)</description>
       <pubDate>Fri, 25 Sep 2026 05:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS-Appstore: F-Droid bekommt größtes Update seit zehn Jahren</title>
-      <link>https://www.golem.de/news/foss-appstore-f-droid-bekommt-groesstes-update-seit-zehn-jahren-2609-213418.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/foss-appstore-f-droid-bekommt-groesstes-update-seit-zehn-jahren-2609-213418.html</guid>
-      <description>F-Droid 2.0 ist in Kotlin von Grund auf neu geschrieben worden. Neben einem neuen Design soll eine neue Menüstruktur Übersicht bieten. (Open Source, Android)</description>
-      <pubDate>Fri, 25 Sep 2026 05:18:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
