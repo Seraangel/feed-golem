@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 01 Oct 2026 12:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:01:44 GMT</lastBuildDate>
+    <item>
+      <title>Gears of War E-Day im Test: Kaum sind die Locust da, fliegen die Fetzen</title>
+      <link>https://www.golem.de/news/gears-of-war-e-day-im-test-kaum-sind-die-locust-da-fliegen-die-fetzen-2610-213617.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gears-of-war-e-day-im-test-kaum-sind-die-locust-da-fliegen-die-fetzen-2610-213617.html</guid>
+      <description>Die Locust überrennen die Welt. Marcus und Dom schießen zurück. Das neue Gears of War ist geradlinig und spektakulär inszeniert (PC, Xbox). Ein Test von Peter Steinlechner (Gears of War, Spieletest)</description>
+      <pubDate>Thu, 01 Oct 2026 13:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>DIY: Bastler druckt mechanische Rechenmaschine im 3D-Drucker</title>
       <link>https://www.golem.de/news/diy-bastler-druckt-mechanische-rechenmaschine-im-3d-drucker-2610-213619.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/eeg-reform-maximale-einspeisung-kleiner-pv-anlagen-wird-halbiert-2609-213428.html</guid>
       <description>Private Solaranlagen sollen nur noch die Hälfte ihrer Leistung ins Netz abgeben können. Das soll die Mittagsspitze abmildern und hat weitere Effekte. Von Mario Petzold (Solarenergie, Politik)</description>
       <pubDate>Fri, 25 Sep 2026 09:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse leakt Systemdateien: Metas KI-Agent gibt auf Anfrage sein Dateisystem aus</title>
-      <link>https://www.golem.de/news/muse-leakt-systemdateien-metas-ki-agent-gibt-auf-anfrage-sein-dateisystem-aus-2609-213429.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/muse-leakt-systemdateien-metas-ki-agent-gibt-auf-anfrage-sein-dateisystem-aus-2609-213429.html</guid>
-      <description>Ein Entwickler hat Metas KI-Agent Muse 6,8 GByte an Daten aus seiner Betriebsumgebung entlockt. Laut Meta ist das ein erwartetes Verhalten. (KI, Ubuntu)</description>
-      <pubDate>Fri, 25 Sep 2026 08:50:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
