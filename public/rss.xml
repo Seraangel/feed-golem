@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 13:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:56:18 GMT</lastBuildDate>
+    <item>
+      <title>Petition: Deutsche Umwelthilfe fordert Deutschlandticket für 29 Euro</title>
+      <link>https://www.golem.de/news/petition-deutsche-umwelthilfe-fordert-deutschlandticket-fuer-29-euro-2610-213658.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/petition-deutsche-umwelthilfe-fordert-deutschlandticket-fuer-29-euro-2610-213658.html</guid>
+      <description>Die Deutsche Umwelthilfe fordert, das Deutschlandticket langfristig günstiger anzubieten, statt Steuergeld für einen Tankrabatt einzusetzen. (ÖPNV, Deutsche Bahn)</description>
+      <pubDate>Fri, 02 Oct 2026 13:51:10 GMT</pubDate>
+    </item>
     <item>
       <title>Dürresommer: Frankreichs Strommarkt gerät in Bewegung</title>
       <link>https://www.golem.de/news/duerresommer-frankreichs-strommarkt-geraet-in-bewegung-2610-213652.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-anker-solix-4-pro-mit-balkonkraftwerk-910-euro-guenstiger-bei-kleines-kraftwerk-2609-213444.html</guid>
       <description>Kleines Kraftwerk hat exklusiv für Golem-Leser ein Balkonkraftwerk mit neustem Anker-Speicher über 900 Euro günstiger im Angebot. (Balkonkraftwerk, Solarenergie)</description>
       <pubDate>Sun, 27 Sep 2026 08:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metalsong über Kotlin: Powerpoint zum Mitsingen</title>
-      <link>https://www.golem.de/news/metalsong-ueber-kotlin-powerpoint-zum-mitsingen-2609-213447.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/metalsong-ueber-kotlin-powerpoint-zum-mitsingen-2609-213447.html</guid>
-      <description>Die italienische Metalband Nanowar of Steel hat es wieder getan: Nach ihrem Stück HelloWorld.java haben die Musiker den Song Kotlin veröffentlicht. Von Emanuel Kessler (Unterhaltung &amp; Hobby, Java)</description>
-      <pubDate>Sun, 27 Sep 2026 08:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
