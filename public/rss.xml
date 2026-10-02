@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 07:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:16:20 GMT</lastBuildDate>
+    <item>
+      <title>Elektroauto: Serienproduktion in neuem Batteriewerk von BMW gestartet</title>
+      <link>https://www.golem.de/news/elektroauto-serienproduktion-in-neuem-batteriewerk-von-bmw-gestartet-2610-213640.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektroauto-serienproduktion-in-neuem-batteriewerk-von-bmw-gestartet-2610-213640.html</guid>
+      <description>Im Batteriewerk Irlberg-Straßkirchen wird zunächst die Batterie für den neuen BMW i3 gefertigt. (BMW, Elektroauto)</description>
+      <pubDate>Fri, 02 Oct 2026 07:15:01 GMT</pubDate>
+    </item>
     <item>
       <title>Datenleck: BND-Vize Baehr nutzte geleakte Handynummer weiter</title>
       <link>https://www.golem.de/news/datenleck-bnd-vize-baehr-nutzte-geleakte-handynummer-weiter-2610-213638.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-externe-ssd-mit-1-tbyte-von-ssk-fuer-unter-125-euro-bei-amazon-2609-213458.html</guid>
       <description>Mit der 1 TByte großen SD500 bietet SSK eine kompakte externe SSD mit schnellen Übertragungsraten an. Bei Amazon ist sie derzeit wieder günstiger. (Solid State Drive, Speichermedien)</description>
       <pubDate>Fri, 25 Sep 2026 16:52:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Vibe Coding: Softwareentwicklung mit KI praktisch umsetzen</title>
-      <link>https://www.golem.de/news/anzeige-vibe-coding-softwareentwicklung-mit-ki-praktisch-umsetzen-2609-213170.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-vibe-coding-softwareentwicklung-mit-ki-praktisch-umsetzen-2609-213170.html</guid>
-      <description>Vibe Coding verändert, wie Software-Prototypen entstehen. Ein Online-Workshop vermittelt den Umgang mit KI-Coding-Tools, Prompting, Debugging und Qualitätssicherung. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Fri, 25 Sep 2026 16:45:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
