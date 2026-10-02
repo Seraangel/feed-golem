@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 10:46:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:31:40 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Digitale Souveränität: Open-Source-Alternativen zu Microsoft 365</title>
+      <link>https://www.golem.de/news/digitale-souveraenitaet-open-source-alternativen-zu-microsoft-365-2610-213621.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-open-source-alternativen-zu-microsoft-365-2610-213621.html</guid>
+      <description>Für das kollaborative Arbeiten im Büro sind Cloud-Dienste wie Microsoft 365 in vielen Unternehmen unentbehrlich. Wer eine digital souveräne Alternative sucht, findet mit freien Office-Suiten eine Lösung. Von Erik Bärwaldt (Open Source, Opendocument)</description>
+      <pubDate>Fri, 02 Oct 2026 11:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>USA: Rechenzentrumsausbau gleichzeitig zu langsam und zu schnell</title>
       <link>https://www.golem.de/news/usa-rechenzentrumsausbau-gleichzeitig-zu-langsam-und-zu-schnell-2610-213649.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-xbox-wireless-controller-fuer-deutlich-unter-50-euro-auf-amazon-2609-213440.html</guid>
       <description>Der Xbox Wireless Controller punktet mit hoher Ergonomie und nahtloser PC-Kompatibilität. Amazon bietet das Modell in Robot White aktuell mit starkem Rabatt an. (Technik/Hardware, Xbox Series X)</description>
       <pubDate>Sat, 26 Sep 2026 11:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lieferdienst: Flink-Kunden werden von Hackern erpresst</title>
-      <link>https://www.golem.de/news/lieferdienst-flink-kunden-werden-von-hackern-erpresst-2609-213466.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/lieferdienst-flink-kunden-werden-von-hackern-erpresst-2609-213466.html</guid>
-      <description>Der Lieferdienst Flink ist gehackt worden. Nun werden seine Kunden erpresst und sollen in Krypto bezahlen. Flink selbst lehnt sämtliche Lösegeldzahlungen ab. (Lieferdienst, Security)</description>
-      <pubDate>Sat, 26 Sep 2026 10:55:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
