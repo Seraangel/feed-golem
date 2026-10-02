@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 06:01:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 07:06:18 GMT</lastBuildDate>
+    <item>
+      <title>Datenleck: BND-Vize Baehr nutzte geleakte Handynummer weiter</title>
+      <link>https://www.golem.de/news/datenleck-bnd-vize-baehr-nutzte-geleakte-handynummer-weiter-2610-213638.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/datenleck-bnd-vize-baehr-nutzte-geleakte-handynummer-weiter-2610-213638.html</guid>
+      <description>Handynummer und Wohnadresse stammen aus einem Hack von 2020. Auch der niederländische MIVD-Chef ist betroffen. (BND, Instant Messenger)</description>
+      <pubDate>Fri, 02 Oct 2026 07:04:10 GMT</pubDate>
+    </item>
     <item>
       <title>Amazon: Komplette James-Bond-Filmreihe bei Prime Video im Abo</title>
       <link>https://www.golem.de/news/amazon-komplette-james-bond-filmreihe-bei-prime-video-im-abo-2610-213637.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-vibe-coding-softwareentwicklung-mit-ki-praktisch-umsetzen-2609-213170.html</guid>
       <description>Vibe Coding verändert, wie Software-Prototypen entstehen. Ein Online-Workshop vermittelt den Umgang mit KI-Coding-Tools, Prompting, Debugging und Qualitätssicherung. (Golem Karrierewelt, Programmiersprachen)</description>
       <pubDate>Fri, 25 Sep 2026 16:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Zwei 240-W-USB-C-Kabel mit zwei Metern Länge für unter zehn Euro</title>
-      <link>https://www.golem.de/news/anzeige-zwei-240-w-usb-c-kabel-mit-zwei-metern-laenge-fuer-unter-zehn-euro-2609-213456.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zwei-240-w-usb-c-kabel-mit-zwei-metern-laenge-fuer-unter-zehn-euro-2609-213456.html</guid>
-      <description>USB-C-Kabel mit hoher Ladeleistung müssen nicht teuer sein. Bei Amazon gibt es derzeit zwei zwei Meter lange 240-W-Kabel von Iniu für 9,49 Euro. (Technik/Hardware, Amazon)</description>
-      <pubDate>Fri, 25 Sep 2026 16:22:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
