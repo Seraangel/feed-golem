@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 12:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:21:28 GMT</lastBuildDate>
+    <item>
+      <title>Solarauto: Aptera braucht 25 Millionen US-Dollar für Produktionsstart</title>
+      <link>https://www.golem.de/news/solarauto-aptera-braucht-25-millionen-us-dollar-fuer-produktionsstart-2610-213655.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/solarauto-aptera-braucht-25-millionen-us-dollar-fuer-produktionsstart-2610-213655.html</guid>
+      <description>Das Solarauto-Startup braucht weniger Kapital für den Produktionsstart als bisher geglaubt. Die finanzielle Situation bleibt aber herausfordernd. (Elektroauto, Solarenergie)</description>
+      <pubDate>Fri, 02 Oct 2026 12:18:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Allnet-Flat mit unbegrenztem Datenvolumen ohne Vertragsbindung bei otelo</title>
       <link>https://www.golem.de/news/anzeige-allnet-flat-mit-unbegrenztem-datenvolumen-ohne-vertragsbindung-bei-otelo-2610-213656.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smarte-verkehrssysteme-was-richtig-ist-sollte-uns-nicht-der-algorithmus-sagen-2609-213437.html</guid>
       <description>Smarte Verkehrssysteme sollen Städte sicherer machen. Allerdings verlangen sie hohe Investitionen und könnten das Prinzip auf den Kopf stellen, nach dem Städte funktionieren. Ein Interview von Tim Reinboth (Mobilität, KI)</description>
       <pubDate>Sun, 27 Sep 2026 05:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: IT-Jobs in Entwicklung, DevOps und IT-Administration</title>
-      <link>https://www.golem.de/news/anzeige-it-jobs-in-entwicklung-devops-und-it-administration-2609-213432.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-entwicklung-devops-und-it-administration-2609-213432.html</guid>
-      <description>Von Golang-Entwicklung bis IT-Sicherheit: Diese sechs Positionen bieten vielseitige Aufgaben in Entwicklung, Administration und Führung. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Sun, 27 Sep 2026 05:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
