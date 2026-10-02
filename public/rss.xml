@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 12:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:06:22 GMT</lastBuildDate>
+    <item>
+      <title>Dürresommer: Frankreichs Strommarkt gerät in Bewegung</title>
+      <link>https://www.golem.de/news/duerresommer-frankreichs-strommarkt-geraet-in-bewegung-2610-213652.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/duerresommer-frankreichs-strommarkt-geraet-in-bewegung-2610-213652.html</guid>
+      <description>Hohe Temperaturen und fehlendes Wasser haben den von Atomstrom dominierten französischen Strommarkt verändert. Batteriespeicher profitieren davon. (Atomkraft, Solarenergie)</description>
+      <pubDate>Fri, 02 Oct 2026 13:01:03 GMT</pubDate>
+    </item>
     <item>
       <title>Kein Anschluss unter dieser E-Mail: Gericht verbietet Amazon Impressum-Tricksereien</title>
       <link>https://www.golem.de/news/kein-anschluss-unter-dieser-e-mail-gericht-verbietet-amazon-impressum-tricksereien-2610-213657.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/metalsong-ueber-kotlin-powerpoint-zum-mitsingen-2609-213447.html</guid>
       <description>Die italienische Metalband Nanowar of Steel hat es wieder getan: Nach ihrem Stück HelloWorld.java haben die Musiker den Song Kotlin veröffentlicht. Von Emanuel Kessler (Unterhaltung &amp; Hobby, Java)</description>
       <pubDate>Sun, 27 Sep 2026 08:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) pnpm: Blitzschnelles und smartes Paketmanagement für Node.js</title>
-      <link>https://www.golem.de/news/pnpm-blitzschnelles-und-smartes-paketmanagement-fuer-node-js-2609-213448.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pnpm-blitzschnelles-und-smartes-paketmanagement-fuer-node-js-2609-213448.html</guid>
-      <description>pnpm beschleunigt und vereinfacht die Paketverwaltung für Node.js durch innovative Konzepte. Wie genau funktioniert das? Eine Anleitung von Marco Dahms (Softwareentwicklung, Server)</description>
-      <pubDate>Sun, 27 Sep 2026 08:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
