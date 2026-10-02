@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 12:21:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:46:35 GMT</lastBuildDate>
+    <item>
+      <title>Kein Anschluss unter dieser E-Mail: Gericht verbietet Amazon Impressum-Tricksereien</title>
+      <link>https://www.golem.de/news/kein-anschluss-unter-dieser-e-mail-gericht-verbietet-amazon-impressum-tricksereien-2610-213657.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kein-anschluss-unter-dieser-e-mail-gericht-verbietet-amazon-impressum-tricksereien-2610-213657.html</guid>
+      <description>Das Kammergericht Berlin stärkt die Rechte der Kunden und verbietet Amazon, Impressumspflichten zu missachten. Es drohen Strafzahlungen. (Amazon, Onlineshop)</description>
+      <pubDate>Fri, 02 Oct 2026 12:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>Solarauto: Aptera braucht 25 Millionen US-Dollar für Produktionsstart</title>
       <link>https://www.golem.de/news/solarauto-aptera-braucht-25-millionen-us-dollar-fuer-produktionsstart-2610-213655.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/pnpm-blitzschnelles-und-smartes-paketmanagement-fuer-node-js-2609-213448.html</guid>
       <description>pnpm beschleunigt und vereinfacht die Paketverwaltung für Node.js durch innovative Konzepte. Wie genau funktioniert das? Eine Anleitung von Marco Dahms (Softwareentwicklung, Server)</description>
       <pubDate>Sun, 27 Sep 2026 08:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smarte Verkehrssysteme: "Was richtig ist, sollte uns nicht der Algorithmus sagen"</title>
-      <link>https://www.golem.de/news/smarte-verkehrssysteme-was-richtig-ist-sollte-uns-nicht-der-algorithmus-sagen-2609-213437.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smarte-verkehrssysteme-was-richtig-ist-sollte-uns-nicht-der-algorithmus-sagen-2609-213437.html</guid>
-      <description>Smarte Verkehrssysteme sollen Städte sicherer machen. Allerdings verlangen sie hohe Investitionen und könnten das Prinzip auf den Kopf stellen, nach dem Städte funktionieren. Ein Interview von Tim Reinboth (Mobilität, KI)</description>
-      <pubDate>Sun, 27 Sep 2026 05:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
