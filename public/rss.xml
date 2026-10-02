@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 10:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:46:14 GMT</lastBuildDate>
+    <item>
+      <title>USA: Rechenzentrumsausbau gleichzeitig zu langsam und zu schnell</title>
+      <link>https://www.golem.de/news/usa-rechenzentrumsausbau-gleichzeitig-zu-langsam-und-zu-schnell-2610-213649.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/usa-rechenzentrumsausbau-gleichzeitig-zu-langsam-und-zu-schnell-2610-213649.html</guid>
+      <description>Eine Analyse des Ausbaus von Rechenzentren kommt zu einem widersprüchlich klingenden Ergebnis. Auflösen können es Engpässe beim Halbleiter-Packaging. (Rechenzentrum, KI)</description>
+      <pubDate>Fri, 02 Oct 2026 10:44:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ninja-Dual-Zone-Heißluftfritteuse als früher Prime-Deal zum neuen Bestpreis unter 150 Euro</title>
       <link>https://www.golem.de/news/anzeige-ninja-dual-zone-heissluftfritteuse-als-frueher-prime-deal-zum-neuen-bestpreis-unter-150-euro-2610-213650.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/lieferdienst-flink-kunden-werden-von-hackern-erpresst-2609-213466.html</guid>
       <description>Der Lieferdienst Flink ist gehackt worden. Nun werden seine Kunden erpresst und sollen in Krypto bezahlen. Flink selbst lehnt sämtliche Lösegeldzahlungen ab. (Lieferdienst, Security)</description>
       <pubDate>Sat, 26 Sep 2026 10:55:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lufttransport: Wie Roboter die ukrainische Offensive unterstützen</title>
-      <link>https://www.golem.de/news/lufttransport-wie-roboter-die-ukrainische-offensive-unterstuetzen-2609-213460.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/lufttransport-wie-roboter-die-ukrainische-offensive-unterstuetzen-2609-213460.html</guid>
-      <description>Die Ukraine setzt autonome Roboter ein, um Minenfelder zu räumen, Nachschublinien zu durchbrechen und gegnerische Verbände zu flankieren. (Roboter, Politik)</description>
-      <pubDate>Sat, 26 Sep 2026 10:25:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
