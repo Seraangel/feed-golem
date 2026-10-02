@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 09:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:31:33 GMT</lastBuildDate>
+    <item>
+      <title>Strom teilen: Energy Sharing scheitert gleich an mehreren Stellen</title>
+      <link>https://www.golem.de/news/strom-teilen-energy-sharing-scheitert-gleich-an-mehreren-stellen-2610-213645.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/strom-teilen-energy-sharing-scheitert-gleich-an-mehreren-stellen-2610-213645.html</guid>
+      <description>Eigenen Strom an die Nachbarn zu verkaufen, wäre technisch leicht umzusetzen. Es scheitert aber, auch an den Netzbetreibern und der Bundesnetzagentur. (Energiewende, Solarenergie)</description>
+      <pubDate>Fri, 02 Oct 2026 09:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>Künstliche Intelligenz: Studie sieht Risiko für Wissenskollaps durch Chatbots</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-studie-sieht-risiko-fuer-wissenskollaps-durch-chatbots-2610-213639.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-choke-bill-gates-warnt-vor-toedlicher-waffe-2609-213461.html</guid>
       <description>Bill Gates drängt den US-Kongress zu strengen KI-Regularien. Während Donald Trump jede Aufsicht ablehnt, entdecken Sicherheitsforscher alarmierende Lücken. (Bill Gates, KI)</description>
       <pubDate>Sat, 26 Sep 2026 08:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Im Zeitalter von Edge und Docker: Warum die SPS im Schaltschrank bleibt</title>
-      <link>https://www.golem.de/news/im-zeitalter-von-edge-und-docker-warum-die-sps-im-schaltschrank-bleibt-2609-213433.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/im-zeitalter-von-edge-und-docker-warum-die-sps-im-schaltschrank-bleibt-2609-213433.html</guid>
-      <description>Unternehmen wollen OT wie IT betreiben. Doch Echtzeit, Safety und Verfügbarkeit setzen Grenzen. Anbieter und Anwender zeigen, was auf Edge und Cloud wandert - und was auf der SPS bleibt. Von Dietmar Müller (Industrie 4.0, Linux)</description>
-      <pubDate>Sat, 26 Sep 2026 08:00:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
