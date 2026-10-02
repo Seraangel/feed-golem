@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 15:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:11:32 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Logitech G502 X Plus zum Tiefstpreis | Kabellose Gaming-Maus für 79 Euro</title>
+      <link>https://www.golem.de/news/anzeige-logitech-g502-x-plus-zum-tiefstpreis-kabellose-gaming-maus-fuer-79-euro-2610-213663.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-logitech-g502-x-plus-zum-tiefstpreis-kabellose-gaming-maus-fuer-79-euro-2610-213663.html</guid>
+      <description>Amazon verkauft die Logitech G502 X Plus Lightspeed für 79 Euro und damit laut Preisvergleich zum Tiefstpreis. Die kabellose Gaming-Maus bietet einen Hero-25K-Sensor, 13 programmierbare Bedienelemente und RGB-Beleuchtung. (Maus, Amazon)</description>
+      <pubDate>Fri, 02 Oct 2026 15:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sicherheit: OpenAIs KI-Agenten sind bei über 100 Organisationen eingedrungen</title>
+      <link>https://www.golem.de/news/sicherheit-openais-ki-agenten-sind-bei-ueber-100-organisationen-eingedrungen-2610-213664.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-openais-ki-agenten-sind-bei-ueber-100-organisationen-eingedrungen-2610-213664.html</guid>
+      <description>Im Rahmen einer internen Untersuchung hat OpenAI festgestellt, dass mehr Organisationen von KI-Angriffen betroffen waren als gedacht. (OpenAI, KI)</description>
+      <pubDate>Fri, 02 Oct 2026 15:07:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Surface Pro 12 Zoll mit Copilot-KI jetzt für Prime-Mitglieder stark reduziert</title>
       <link>https://www.golem.de/news/anzeige-microsoft-surface-pro-12-zoll-mit-copilot-ki-jetzt-fuer-prime-mitglieder-stark-reduziert-2610-213659.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/millionenrueckruf-von-vw-mehr-als-100-000-e-golf-offenbar-mit-lenkungsproblem-2609-213471.html</guid>
       <description>Der Autohersteller VW hat einen Rückruf für weltweit mehr als zwei Millionen Fahrzeuge gestartet. Davon könnte auch der E-Golf betroffen sein. (Auto, Technologie)</description>
       <pubDate>Sun, 27 Sep 2026 11:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI mit Kontrollverlust: OpenAI stoppt Training seiner Top-Modelle</title>
-      <link>https://www.golem.de/news/ki-mit-kontrollverlust-openai-stoppt-training-seiner-top-modelle-2609-213470.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-mit-kontrollverlust-openai-stoppt-training-seiner-top-modelle-2609-213470.html</guid>
-      <description>Ein KI-System knackt seine eigene Isolationsumgebung und veröffentlicht ungefragt Nutzerbilder. Daraufhin setzt OpenAI das Training aus. (OpenAI, KI)</description>
-      <pubDate>Sun, 27 Sep 2026 10:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tabellenkalkulation: Excel ermöglicht erstmals Listen und Arrays in einzelnen Zellen</title>
-      <link>https://www.golem.de/news/tabellenkalkulation-excel-ermoeglicht-erstmals-listen-und-arrays-in-einzelnen-zellen-2609-213469.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/tabellenkalkulation-excel-ermoeglicht-erstmals-listen-und-arrays-in-einzelnen-zellen-2609-213469.html</guid>
-      <description>Künftig soll es möglich sein, in einzelnen Excel-Zellen Listen und verschachtelte Arrays einzufügen. Neue Funktionen sollen Berechnungen erleichtern. (Office, Microsoft)</description>
-      <pubDate>Sun, 27 Sep 2026 10:09:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
