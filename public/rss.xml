@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 09:51:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:46:22 GMT</lastBuildDate>
+    <item>
+      <title>Autonome Waffen: Ukraines Drohnenchef warnt vor Kontrollverlust bei KI</title>
+      <link>https://www.golem.de/news/autonome-waffen-ukraines-drohnenchef-warnt-vor-kontrollverlust-bei-ki-2610-213672.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/autonome-waffen-ukraines-drohnenchef-warnt-vor-kontrollverlust-bei-ki-2610-213672.html</guid>
+      <description>Robert Brovdi führt Ukraines Drohnentruppen. Er warnt, die Menschheit verliere die Kontrolle über KI-Waffen. (Drohne, KI)</description>
+      <pubDate>Sat, 03 Oct 2026 10:43:03 GMT</pubDate>
+    </item>
     <item>
       <title>Macos: Apple verschärft Full Disk Access wegen KI-Agenten</title>
       <link>https://www.golem.de/news/macos-apple-verschaerft-full-disk-access-wegen-ki-agenten-2610-213673.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ps5-exklusivspiele-entwickler-portieren-ersten-ps5-titel-nativ-fuer-windows-2609-213483.html</guid>
       <description>Den Machern eines Github-Projektes ist es gelungen, die PS5-Version von Dead Cells nativ auf einem PC zu spielen - ohne Emulation. (Playstation 5, Sony)</description>
       <pubDate>Mon, 28 Sep 2026 08:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gravity Linux: KI-Hilfe soll Linux schneller auf moderne Apple-CPUs bringen</title>
-      <link>https://www.golem.de/news/gravity-linux-ki-hilfe-soll-linux-schneller-auf-moderne-apple-cpus-bringen-2609-213482.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gravity-linux-ki-hilfe-soll-linux-schneller-auf-moderne-apple-cpus-bringen-2609-213482.html</guid>
-      <description>Ein neues Projekt will Linux auf neueres Apple Silicon bringen. Eine Alpha-Version unterstützt bereits die GPU des M4 Mac Mini. (Linux, Apple)</description>
-      <pubDate>Mon, 28 Sep 2026 08:03:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
