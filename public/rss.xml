@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 05:31:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 08:01:32 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Spec Kit für die Softwareentwicklung: Erst spezifizieren, dann programmieren</title>
+      <link>https://www.golem.de/news/spec-kit-fuer-die-softwareentwicklung-erst-spezifizieren-dann-programmieren-2610-213651.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spec-kit-fuer-die-softwareentwicklung-erst-spezifizieren-dann-programmieren-2610-213651.html</guid>
+      <description>Spec Kit trennt das Was vom Wie und lässt KI-Agenten daraus Plan, Aufgaben und Code erzeugen. Wir haben ausprobiert, wie gut das funktioniert und eine Pizza-App programmiert. Eine Anleitung von Stefanie Schmidt (Softwareentwicklung, Open Source)</description>
+      <pubDate>Sat, 03 Oct 2026 08:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>Onlinebrettspiele: So wird jeder Abend zum Spieleabend!</title>
       <link>https://www.golem.de/news/onlinebrettspiele-so-wird-jeder-abend-zum-spieleabend-2610-213646.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/patente-apple-soll-5-7-milliarden-us-dollar-an-taction-zahlen-2609-213477.html</guid>
       <description>Eine US-Jury sieht zwei Haptik-Patente von Taction durch iPhone und Apple Watch verletzt. Apple will in Berufung gehen. (iPhone, Patent)</description>
       <pubDate>Mon, 28 Sep 2026 05:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>UN: USA und Russland schwächen Vertrag über KI-gesteuerte Waffen</title>
-      <link>https://www.golem.de/news/un-usa-und-russland-schwaechen-vertrag-ueber-ki-gesteuerte-waffen-2609-213476.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/un-usa-und-russland-schwaechen-vertrag-ueber-ki-gesteuerte-waffen-2609-213476.html</guid>
-      <description>Bei UN-Verhandlungen sollen US- und russische Diplomaten heimlich Schutzbestimmungen aus einem völkerrechtlichen Vertrag gestrichen haben. (KI, Politik)</description>
-      <pubDate>Mon, 28 Sep 2026 05:31:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
