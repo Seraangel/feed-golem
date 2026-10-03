@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 02 Oct 2026 17:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 05:31:20 GMT</lastBuildDate>
+    <item>
+      <title>Onlinebrettspiele: So wird jeder Abend zum Spieleabend!</title>
+      <link>https://www.golem.de/news/onlinebrettspiele-so-wird-jeder-abend-zum-spieleabend-2610-213646.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/onlinebrettspiele-so-wird-jeder-abend-zum-spieleabend-2610-213646.html</guid>
+      <description>Brettspiele boomen - ebenso die Möglichkeiten, sie online zu spielen. Auf sechs Plattformen warten Klassiker und moderne Brettspiele für lange Spielenächte. Ein Ratgebertext von Fabian Mauruschat (Brettspiele, Server)</description>
+      <pubDate>Sat, 03 Oct 2026 05:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>Ruhrfibre und Metrofibre: Telekom kauft FTTH-Netz und kündigt mehr Übernahmen an</title>
       <link>https://www.golem.de/news/ruhrfibre-und-metrofibre-telekom-kauft-ftth-betreibernetz-und-kuendigt-mehr-uebernahmen-an-2610-213669.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/un-usa-und-russland-schwaechen-vertrag-ueber-ki-gesteuerte-waffen-2609-213476.html</guid>
       <description>Bei UN-Verhandlungen sollen US- und russische Diplomaten heimlich Schutzbestimmungen aus einem völkerrechtlichen Vertrag gestrichen haben. (KI, Politik)</description>
       <pubDate>Mon, 28 Sep 2026 05:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Purview: Daten schützen und Risiken erkennen</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-erkennen-2609-213166.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-erkennen-2609-213166.html</guid>
-      <description>Microsoft Purview bündelt Funktionen für Datenschutz und Risikosteuerung. Die Golem Karrierewelt zeigt, wie Labels, DLP und Insider Risk zusammenspielen. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Mon, 28 Sep 2026 05:15:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
