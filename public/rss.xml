@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 09:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:51:21 GMT</lastBuildDate>
+    <item>
+      <title>Macos: Apple verschärft Full Disk Access wegen KI-Agenten</title>
+      <link>https://www.golem.de/news/macos-apple-verschaerft-full-disk-access-wegen-ki-agenten-2610-213673.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/macos-apple-verschaerft-full-disk-access-wegen-ki-agenten-2610-213673.html</guid>
+      <description>Apple plant strengere Kontrollen für Full Disk Access. Grund sind laut Apple wachsende Risiken durch KI-Agenten. (MacOS, Apple)</description>
+      <pubDate>Sat, 03 Oct 2026 09:50:05 GMT</pubDate>
+    </item>
     <item>
       <title>Künstliche Intelligenz: Gemini greift auf Google Wallet zu</title>
       <link>https://www.golem.de/news/kuenstliche-intelligenz-gemini-greift-auf-google-wallet-zu-2610-213674.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gravity-linux-ki-hilfe-soll-linux-schneller-auf-moderne-apple-cpus-bringen-2609-213482.html</guid>
       <description>Ein neues Projekt will Linux auf neueres Apple Silicon bringen. Eine Alpha-Version unterstützt bereits die GPU des M4 Mac Mini. (Linux, Apple)</description>
       <pubDate>Mon, 28 Sep 2026 08:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Nur 52,99 statt 169,99 Euro für Pokémon-Sammelkarten zum 30. Jubiläum</title>
-      <link>https://www.golem.de/news/anzeige-nur-52-99-statt-169-99-euro-fuer-pokemon-sammelkarten-zum-30-jubilaeum-2609-213479.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-nur-52-99-statt-169-99-euro-fuer-pokemon-sammelkarten-zum-30-jubilaeum-2609-213479.html</guid>
-      <description>Die Pokémon-Top-Trainer-Box kostet bei Amazon nur 52,99 Euro, während andere Händler ab 170 Euro verlangen - allerdings gibt es einen Haken. (Pokémon, Amazon)</description>
-      <pubDate>Mon, 28 Sep 2026 07:36:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
