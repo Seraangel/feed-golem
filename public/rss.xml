@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 08:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:06:15 GMT</lastBuildDate>
+    <item>
+      <title>Künstliche Intelligenz: Gemini greift auf Google Wallet zu</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-gemini-greift-auf-google-wallet-zu-2610-213674.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-gemini-greift-auf-google-wallet-zu-2610-213674.html</guid>
+      <description>Gemini findet ab sofort Bord- sowie Treuekarten und wertet Ausgaben aus. Vorerst startet die Funktion allerdings nur in den USA. (Gemini, Google)</description>
+      <pubDate>Sat, 03 Oct 2026 09:02:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 140W-Ladegerät mit vier Anschlüssen von Anker zum neuen Tiefstpreis</title>
       <link>https://www.golem.de/news/anzeige-140w-ladegeraet-mit-vier-anschluessen-von-anker-zum-neuen-tiefstpreis-2610-213665.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-nur-52-99-statt-169-99-euro-fuer-pokemon-sammelkarten-zum-30-jubilaeum-2609-213479.html</guid>
       <description>Die Pokémon-Top-Trainer-Box kostet bei Amazon nur 52,99 Euro, während andere Händler ab 170 Euro verlangen - allerdings gibt es einen Haken. (Pokémon, Amazon)</description>
       <pubDate>Mon, 28 Sep 2026 07:36:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wici One: Externe Grafikkarte setzt auf Wi-Fi 7 statt Kabel</title>
-      <link>https://www.golem.de/news/wici-one-externe-grafikkarte-funkt-per-wi-fi-7-statt-per-kabel-2609-213478.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wici-one-externe-grafikkarte-funkt-per-wi-fi-7-statt-per-kabel-2609-213478.html</guid>
-      <description>Die Wici One versorgt Laptops und Tablets per Wi-Fi 7 mit einer RTX 5060 Ti. Unabhängige Tests fehlen noch. (Grafikkarten, Nvidia)</description>
-      <pubDate>Mon, 28 Sep 2026 07:05:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
