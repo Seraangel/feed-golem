@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 03 Oct 2026 10:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 11:36:12 GMT</lastBuildDate>
+    <item>
+      <title>Bundeswehr: Pistorius kündigt Aufbau eines Drohnen-Regiments an</title>
+      <link>https://www.golem.de/news/bundeswehr-pistorius-kuendigt-aufbau-eines-drohnen-regiments-an-2610-213675.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bundeswehr-pistorius-kuendigt-aufbau-eines-drohnen-regiments-an-2610-213675.html</guid>
+      <description>Boris Pistorius kündigt das erste Drohnenregiment der Bundeswehr an: 600 Soldaten, Kamikazedrohnen und ein eigener Elektronik-Kampfverband. (Bundeswehr, Politik)</description>
+      <pubDate>Sat, 03 Oct 2026 11:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>Autonome Waffen: Ukraines Drohnenchef warnt vor Kontrollverlust bei KI</title>
       <link>https://www.golem.de/news/autonome-waffen-ukraines-drohnenchef-warnt-vor-kontrollverlust-bei-ki-2610-213672.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/erneuerbare-energien-solarstromproduktion-uebertrifft-bereits-jetzt-vorjahreswert-2609-213484.html</guid>
       <description>Bereits Ende September hat die Solarstromproduktion in Deutschland den Vorjahreswert übertroffen. Welche Faktoren zu diesem Rekord geführt haben. (Solarenergie, Erneuerbare Energien)</description>
       <pubDate>Mon, 28 Sep 2026 08:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>PS5-Exklusivspiele: Entwickler portieren ersten PS5-Titel nativ für Windows</title>
-      <link>https://www.golem.de/news/ps5-exklusivspiele-entwickler-portieren-ersten-ps5-titel-nativ-fuer-windows-2609-213483.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ps5-exklusivspiele-entwickler-portieren-ersten-ps5-titel-nativ-fuer-windows-2609-213483.html</guid>
-      <description>Den Machern eines Github-Projektes ist es gelungen, die PS5-Version von Dead Cells nativ auf einem PC zu spielen - ohne Emulation. (Playstation 5, Sony)</description>
-      <pubDate>Mon, 28 Sep 2026 08:11:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
