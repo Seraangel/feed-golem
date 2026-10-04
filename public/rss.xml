@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 08:01:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:21:20 GMT</lastBuildDate>
+    <item>
+      <title>Speicherkrise: Kleine Raspberry Pis werden teurer, DGX Spark mit weniger RAM</title>
+      <link>https://www.golem.de/news/speicherkrise-kleine-raspberry-pis-werden-teurer-dgx-spark-mit-weniger-ram-2610-213680.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/speicherkrise-kleine-raspberry-pis-werden-teurer-dgx-spark-mit-weniger-ram-2610-213680.html</guid>
+      <description>Die Speicherkrise sorgt weiter für steigende Preise. Bislang verschonte Raspberry Pis werden teurer, Nvidias KI-Desktop kommt als kleinere Version. (RAM, Nvidia)</description>
+      <pubDate>Sun, 04 Oct 2026 08:16:02 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Website-Monitoring: http-Statuscode 200 und trotzdem kaputt</title>
       <link>https://www.golem.de/news/website-monitoring-http-statuscode-200-und-trotzdem-kaputt-2610-213670.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wegen-ki-bug-reports-ubuntu-liefert-woechentlich-neuen-kernel-2609-213490.html</guid>
       <description>KI treibt die Anzahl gemeldeter Bugs in die Höhe. Damit Ubuntu-Nutzer Korrekturen schnell bekommen, beschleunigt Canonical seine Prozesse. (Ubuntu, KI)</description>
       <pubDate>Mon, 28 Sep 2026 10:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Einhell Akku-Laubbläser zum neuen Amazon-Bestpreis erstmals unter 80 Euro</title>
-      <link>https://www.golem.de/news/anzeige-einhell-akku-laubblaeser-zum-neuen-amazon-bestpreis-erstmals-unter-80-euro-2609-213489.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-akku-laubblaeser-zum-neuen-amazon-bestpreis-erstmals-unter-80-euro-2609-213489.html</guid>
-      <description>Der Einhell Akku-Laubbläser GP-LB 36/210 mit Turboschalter und Brushless-Motor ist jetzt so günstig wie nie zuvor bei Amazon. (Technik/Hardware)</description>
-      <pubDate>Mon, 28 Sep 2026 10:35:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
