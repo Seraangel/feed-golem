@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 11:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:16:21 GMT</lastBuildDate>
+    <item>
+      <title>David Robinson: Warum OpenAIs Sicherheitschef nun geht</title>
+      <link>https://www.golem.de/news/david-robinson-warum-openais-sicherheitschef-nun-geht-2610-213684.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/david-robinson-warum-openais-sicherheitschef-nun-geht-2610-213684.html</guid>
+      <description>Ein Ex-Mitarbeiter warnt: Bei OpenAI komme Sicherheit im Tempo neuer KI-Produkte oft zu kurz. (OpenAI, KI)</description>
+      <pubDate>Sun, 04 Oct 2026 11:11:06 GMT</pubDate>
+    </item>
     <item>
       <title>Frustriert?: GPT Astra betrügt bei Starcraft-Bot-Benchmark</title>
       <link>https://www.golem.de/news/frustriert-gpt-astra-betruegt-bei-starcraft-bot-benchmark-2610-213683.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-4k-action-cam-mit-zubehoer-fuer-keine-100-euro-bei-amazon-im-angebot-2609-213495.html</guid>
       <description>Bestseller Nr. 1 für 93,48 Euro im Amazon-Deal: 4K-Action-Cam mit Zubehör als günstige Alternative zu GoPro und DJI. (Unterhaltung &amp; Hobby, Kameras)</description>
       <pubDate>Mon, 28 Sep 2026 11:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Immutable Desktops: Der Linux-Desktop wird berechenbarer</title>
-      <link>https://www.golem.de/news/immutable-desktops-der-linux-desktop-wird-berechenbarer-2609-213486.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/immutable-desktops-der-linux-desktop-wird-berechenbarer-2609-213486.html</guid>
-      <description>Immutable-Linux-Desktops sollen stabilere Updates und einfache Rollbacks bieten. Wir zeigen, wie Fedora, Opensuse, Vanilla OS und Ubuntu Core das umsetzen. Ein Ratgebertext von Antonino Zambito (Linux, Dateisystem)</description>
-      <pubDate>Mon, 28 Sep 2026 11:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
