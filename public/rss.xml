@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 12:21:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 13:06:09 GMT</lastBuildDate>
+    <item>
+      <title>Elon Musk räumt ein: Teslas Robotaxis sehen nachts zu wenig</title>
+      <link>https://www.golem.de/news/elon-musk-raeumt-ein-teslas-robotaxis-sehen-nachts-zu-wenig-2610-213685.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elon-musk-raeumt-ein-teslas-robotaxis-sehen-nachts-zu-wenig-2610-213685.html</guid>
+      <description>Elon Musk hat Angst, dass Teslas Robotaxis Katzen überfahren. Grund dafür ist seine Haltung zur Sensorik. Lösen soll das Problem KI. (Tesla, Elektroauto)</description>
+      <pubDate>Sun, 04 Oct 2026 13:05:07 GMT</pubDate>
+    </item>
     <item>
       <title>78 Milliarden Parameter: Aleph Alpha veröffentlicht KI-Modell mit Deutsch-Schwerpunkt</title>
       <link>https://www.golem.de/news/78-milliarden-parameter-aleph-alpha-veroeffentlicht-ki-modell-mit-deutsch-schwerpunkt-2610-213682.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/premiere-im-oktober-vw-id-tiguan-loest-id-4-und-id-5-ab-2609-213496.html</guid>
       <description>VW kehrt mit einem weiteren Elektroauto zu den etablierten Modellnamen zurück. Den ID.5 scheint es künftig jedoch nicht mehr zu geben. (Elektroauto, Auto)</description>
       <pubDate>Mon, 28 Sep 2026 11:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Studie zu KI-Agenten: Wenn die KI ihre Abschaltung als Mordversuch sabotiert</title>
-      <link>https://www.golem.de/news/studie-zu-ki-agenten-wenn-die-ki-ihre-abschaltung-als-mordversuch-sabotiert-2609-213492.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/studie-zu-ki-agenten-wenn-die-ki-ihre-abschaltung-als-mordversuch-sabotiert-2609-213492.html</guid>
-      <description>Nicht alle KI-Systeme wollen sich einfach wie ein PC herunterfahren lassen. Vor allem, wenn mehrere KI-Agenten kollaborieren sollen. Ein Bericht von Friedhelm Greis (KI, Security)</description>
-      <pubDate>Mon, 28 Sep 2026 11:43:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
