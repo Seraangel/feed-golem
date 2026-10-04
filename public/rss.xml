@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 09:21:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 10:21:17 GMT</lastBuildDate>
+    <item>
+      <title>Frustriert?: GPT Astra betrügt bei Starcraft-Bot-Benchmark</title>
+      <link>https://www.golem.de/news/frustriert-gpt-astra-betruegt-bei-starcraft-bot-benchmark-2610-213683.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/frustriert-gpt-astra-betruegt-bei-starcraft-bot-benchmark-2610-213683.html</guid>
+      <description>OpenAIs GPT 6 alias Astra hat zu unlauteren Mitteln gegriffen, nachdem eigene Versuche, einen Starcraft-Bot zu programmieren, fehlgeschlagen waren. (OpenAI, KI)</description>
+      <pubDate>Sun, 04 Oct 2026 10:17:05 GMT</pubDate>
+    </item>
     <item>
       <title>Datenbank: Doom läuft auch in SQL</title>
       <link>https://www.golem.de/news/datenbank-doom-laeuft-auch-in-sql-2610-213681.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/immutable-desktops-der-linux-desktop-wird-berechenbarer-2609-213486.html</guid>
       <description>Immutable-Linux-Desktops sollen stabilere Updates und einfache Rollbacks bieten. Wir zeigen, wie Fedora, Opensuse, Vanilla OS und Ubuntu Core das umsetzen. Ein Ratgebertext von Antonino Zambito (Linux, Dateisystem)</description>
       <pubDate>Mon, 28 Sep 2026 11:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Golem Karrierewelt: Golem.de-Youtube-Podcast: Leben als IT-Freiberufler</title>
-      <link>https://www.golem.de/news/golem-karrierewelt-golem-de-youtube-podcast-leben-als-it-freiberufler-2609-213475.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/golem-karrierewelt-golem-de-youtube-podcast-leben-als-it-freiberufler-2609-213475.html</guid>
-      <description>IT-Freiberuflichkeit bietet Freiheit und spannende Projekte, bringt aber auch Akquise und unternehmerische Verantwortung mit sich. Aaron Siller und Karsten Hentrup berichten aus der Praxis. (Unternehmen, Betriebssysteme)</description>
-      <pubDate>Mon, 28 Sep 2026 11:27:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
