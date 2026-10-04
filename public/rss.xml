@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 06:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:01:20 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Website-Monitoring: http-Statuscode 200 und trotzdem kaputt</title>
+      <link>https://www.golem.de/news/website-monitoring-http-statuscode-200-und-trotzdem-kaputt-2610-213670.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/website-monitoring-http-statuscode-200-und-trotzdem-kaputt-2610-213670.html</guid>
+      <description>Das Dashboard zeigt Grün, trotzdem landen Beschwerden im Postfach. Website-Monitoring soll solche Überraschungen verhindern - doch auch die Werkzeuge haben blinde Flecken. Ein Ratgebertext von Fabian Deitelhoff (Software, API)</description>
+      <pubDate>Sun, 04 Oct 2026 08:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Star-Trek-Film aus der Türkei: Ein Salzvampir, ein gelber Spock - und Tourist Ömer</title>
       <link>https://www.golem.de/news/star-trek-film-aus-der-tuerkei-ein-salzvampir-ein-gelber-spock-und-tourist-oemer-2610-212421.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-akku-laubblaeser-zum-neuen-amazon-bestpreis-erstmals-unter-80-euro-2609-213489.html</guid>
       <description>Der Einhell Akku-Laubbläser GP-LB 36/210 mit Turboschalter und Brushless-Motor ist jetzt so günstig wie nie zuvor bei Amazon. (Technik/Hardware)</description>
       <pubDate>Mon, 28 Sep 2026 10:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz: Nvidia will ausbrechende KI-Systeme mit neuen Tools eindämmen</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-nvidia-will-ausbrechende-ki-systeme-mit-neuen-tools-eindaemmen-2609-213488.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-nvidia-will-ausbrechende-ki-systeme-mit-neuen-tools-eindaemmen-2609-213488.html</guid>
-      <description>Mit seinen neuen Open-Source-Tools hätte OpenAIs Angriff auf Hugging Face verhindert werden können, sagt Nvidia. (Nvidia, KI)</description>
-      <pubDate>Mon, 28 Sep 2026 10:15:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
