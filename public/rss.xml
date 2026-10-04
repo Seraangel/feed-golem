@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 08:41:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 09:21:21 GMT</lastBuildDate>
+    <item>
+      <title>Datenbank: Doom läuft auch in SQL</title>
+      <link>https://www.golem.de/news/datenbank-doom-laeuft-auch-in-sql-2610-213681.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/datenbank-doom-laeuft-auch-in-sql-2610-213681.html</guid>
+      <description>Doom ist das wohl meistportierte Spiel. Ein Entwickler zeigt eine Variante für SQL-Datenbanken - Sqldoom läuft flüssig auf einem Laptop. (Doom, Datenbank)</description>
+      <pubDate>Sun, 04 Oct 2026 09:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Balkonkraftwerk mit BC-Modulen und Anker Solix 4 Pro 950 Euro günstiger für Golem-Leser</title>
       <link>https://www.golem.de/news/anzeige-balkonkraftwerk-mit-bc-modulen-und-anker-solix-4-pro-950-euro-guenstiger-fuer-golem-leser-2610-213666.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/golem-karrierewelt-golem-de-youtube-podcast-leben-als-it-freiberufler-2609-213475.html</guid>
       <description>IT-Freiberuflichkeit bietet Freiheit und spannende Projekte, bringt aber auch Akquise und unternehmerische Verantwortung mit sich. Aaron Siller und Karsten Hentrup berichten aus der Praxis. (Unternehmen, Betriebssysteme)</description>
       <pubDate>Mon, 28 Sep 2026 11:27:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Von Elektronik bis Satelliten: Klebstoff nutzt Mistelbeere statt Erdöl</title>
-      <link>https://www.golem.de/news/von-elektronik-bis-satelliten-klebstoff-nutzt-mistelbeere-statt-erdoel-2609-213493.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/von-elektronik-bis-satelliten-klebstoff-nutzt-mistelbeere-statt-erdoel-2609-213493.html</guid>
-      <description>Ein leistungsfähiger Klebstoff hält selbst auf Teflon und lässt sich bei Wärme lösen. Das wäre wichtig für die Reparierbarkeit von Elektronik. (Innovation &amp; Forschung, Smartphone)</description>
-      <pubDate>Mon, 28 Sep 2026 11:09:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
