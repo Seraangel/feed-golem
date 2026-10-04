@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 04 Oct 2026 08:21:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 08:26:11 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Fritz Repeater 1700 und 2700 mit Wi-Fi 7 vor Prime Day reduziert</title>
+      <link>https://www.golem.de/news/anzeige-fritz-repeater-1700-und-2700-mit-wi-fi-7-vor-prime-day-reduziert-2610-213678.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fritz-repeater-1700-und-2700-mit-wi-fi-7-vor-prime-day-reduziert-2610-213678.html</guid>
+      <description>Bei Amazon sind die beiden Fritz Repeater 1700 und 2700 mit Wi-Fi 7 bereits exklusiv für Prime-Kunden reduziert. (Wi-Fi 6, Technik/Hardware)</description>
+      <pubDate>Sun, 04 Oct 2026 08:21:10 GMT</pubDate>
+    </item>
     <item>
       <title>Speicherkrise: Kleine Raspberry Pis werden teurer, DGX Spark mit weniger RAM</title>
       <link>https://www.golem.de/news/speicherkrise-kleine-raspberry-pis-werden-teurer-dgx-spark-mit-weniger-ram-2610-213680.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tarifvertrag-wird-abgelehnt-tesla-angestellte-in-gruenheide-bekommen-mehr-geld-2609-213491.html</guid>
       <description>Die Gehälter im deutschen Tesla-Autowerk bei Berlin steigen. Das Unternehmen sieht die Beschäftigten bessergestellt, als wenn es einen Tarifvertrag gäbe. (Gigafactory Berlin, Elektroauto)</description>
       <pubDate>Mon, 28 Sep 2026 10:55:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wegen KI Bug Reports: Ubuntu liefert wöchentlich neuen Kernel</title>
-      <link>https://www.golem.de/news/wegen-ki-bug-reports-ubuntu-liefert-woechentlich-neuen-kernel-2609-213490.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wegen-ki-bug-reports-ubuntu-liefert-woechentlich-neuen-kernel-2609-213490.html</guid>
-      <description>KI treibt die Anzahl gemeldeter Bugs in die Höhe. Damit Ubuntu-Nutzer Korrekturen schnell bekommen, beschleunigt Canonical seine Prozesse. (Ubuntu, KI)</description>
-      <pubDate>Mon, 28 Sep 2026 10:40:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
