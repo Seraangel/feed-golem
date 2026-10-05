@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 13:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:36:01 GMT</lastBuildDate>
+    <item>
+      <title>Kein Test im Regen: Softwarebug legt Formel-1-Autos lahm und verzögert Rennstart</title>
+      <link>https://www.golem.de/news/kein-test-im-regen-softwarebug-legt-formel-1-autos-lahm-und-verzoegert-rennstart-2610-213719.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kein-test-im-regen-softwarebug-legt-formel-1-autos-lahm-und-verzoegert-rennstart-2610-213719.html</guid>
+      <description>Um ein Formel-1-Rennen fortsetzen zu können, haben die Teams ein Softwareupdate auf den Fahrzeugen installieren müssen. (Formel 1, Elektroauto)</description>
+      <pubDate>Mon, 05 Oct 2026 13:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>Stephen Wolfram: KI kann Mathematiker nicht ersetzen</title>
       <link>https://www.golem.de/news/stephen-wolfram-ki-kann-mathematiker-nicht-ersetzen-2610-213717.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kindle-paperwhite-2026-jetzt-zum-amazon-aktionspreis-unter-160-euro-2609-213531.html</guid>
       <description>Der Amazon Kindle Paperwhite mit neuem 7-Zoll-Display und bis zu 12 Wochen Akkulaufzeit ist bei Amazon aktuell zum Aktionspreis erhältlich. (Technik/Hardware)</description>
       <pubDate>Tue, 29 Sep 2026 10:57:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keine Grafikkarten: Diebe stehlen "Nvidia"-Trucks und bekommen 18 Tonnen Sand</title>
-      <link>https://www.golem.de/news/keine-grafikkarten-diebe-stehlen-nvidia-trucks-und-bekommen-18-tonnen-sand-2609-213530.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/keine-grafikkarten-diebe-stehlen-nvidia-trucks-und-bekommen-18-tonnen-sand-2609-213530.html</guid>
-      <description>Die zwei großen Trucks waren unter anderem mit Nvidia-Logo versehen. Statt GPUs gab es aber eine Menge Sand. (Start-up, Grafikkarten)</description>
-      <pubDate>Tue, 29 Sep 2026 10:42:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
