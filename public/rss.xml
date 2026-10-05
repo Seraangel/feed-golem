@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 14:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:36:10 GMT</lastBuildDate>
+    <item>
+      <title>Ex-Playstation-Chefs:: PS5 könnte noch lange reichen</title>
+      <link>https://www.golem.de/news/ex-playstation-chefs-ps5-koennte-noch-lange-reichen-2610-213722.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ex-playstation-chefs-ps5-koennte-noch-lange-reichen-2610-213722.html</guid>
+      <description>Mehr Leistung ist kein gutes Argument für eine Playstation 6: Zwei Ex-Playstation-Manager plädieren fast gleichzeitig für längere Konsolengenerationen. (Playstation 6, Sony)</description>
+      <pubDate>Mon, 05 Oct 2026 15:34:04 GMT</pubDate>
+    </item>
     <item>
       <title>Fast neun Millionen Betroffene: Dänisches Melderegister gehackt</title>
       <link>https://www.golem.de/news/fast-neun-millionen-betroffene-daenisches-melderegister-gehackt-2610-213725.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/firmen-sind-veraergert-netzbetreiber-deaktivieren-pv-anlagen-wegen-zu-viel-sonne-2609-213535.html</guid>
       <description>Unternehmen in Bayern sind verärgert, wenn sie ihre Photovoltaikanlage nicht für den Eigenbedarf nutzen können. Abhilfe ist nicht in Sicht. (Solarenergie, Umweltschutz)</description>
       <pubDate>Tue, 29 Sep 2026 12:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wegen Sicherheitsbedenken: OpenAI hält neues KI-Modell GPT-6.1 Astra zurück</title>
-      <link>https://www.golem.de/news/wegen-sicherheitsbedenken-openai-haelt-neues-ki-modell-gpt-6-1-astra-zurueck-2609-213534.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wegen-sicherheitsbedenken-openai-haelt-neues-ki-modell-gpt-6-1-astra-zurueck-2609-213534.html</guid>
-      <description>Tests von Forschern decken ein Risiko für Angriffe auf die Lieferkette auf. Als Beispiel nennen sie das Einschleusen von Payloads in Open-Source-Code. (Security, KI)</description>
-      <pubDate>Tue, 29 Sep 2026 11:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
