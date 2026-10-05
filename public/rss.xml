@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 08:36:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:41:09 GMT</lastBuildDate>
+    <item>
+      <title>KI-Agent: Meta bringt Anbindung an Agent Muse für DIY-Projekte</title>
+      <link>https://www.golem.de/news/ki-agent-meta-bringt-anbindung-an-agent-muse-fuer-diy-projekte-2610-213695.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-agent-meta-bringt-anbindung-an-agent-muse-fuer-diy-projekte-2610-213695.html</guid>
+      <description>Über ein eigenes SDK kann Metas KI-Agent Muse an DIY-Projekte angebunden werden. (DIY - Do it yourself, KI)</description>
+      <pubDate>Mon, 05 Oct 2026 08:38:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Redtiger 4K-Dashcam mit Speicherkarte als früher Prime-Deal erstmals unter 114 Euro</title>
       <link>https://www.golem.de/news/anzeige-redtiger-4k-dashcam-mit-speicherkarte-als-frueher-prime-deal-erstmals-unter-114-euro-2610-213696.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2609-213173.html</guid>
       <description>Microsoft 365 Zero Trust setzt auf konsequente Prüfung von Zugriffen. Ein Online-Workshop vermittelt die Umsetzung mit Entra ID, DLP, Monitoring und Defender. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Mon, 28 Sep 2026 16:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta Enterprise Platform: Meta wirbt Mongo-DB-Chef für seine Enterprise-Sparte ab</title>
-      <link>https://www.golem.de/news/meta-enterprise-platform-meta-wirbt-mongo-db-chef-fuer-seine-enterprise-sparte-ab-2609-213508.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/meta-enterprise-platform-meta-wirbt-mongo-db-chef-fuer-seine-enterprise-sparte-ab-2609-213508.html</guid>
-      <description>Meta muss mit seinen KI-Angeboten schneller Geld verdienen. Mit Chirantan CJ Desai holt man sich einen Spezialisten für Enterprise-Software und Cloud-Plattformen. (Meta, KI)</description>
-      <pubDate>Mon, 28 Sep 2026 16:39:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
