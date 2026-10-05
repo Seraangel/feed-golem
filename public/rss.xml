@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 10:01:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:16:20 GMT</lastBuildDate>
+    <item>
+      <title>Cyberangriff: Antriebssystem eines Öl-Supertankers gehackt</title>
+      <link>https://www.golem.de/news/cyberangriff-antriebssystem-eines-oel-supertankers-gehackt-2610-213707.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-antriebssystem-eines-oel-supertankers-gehackt-2610-213707.html</guid>
+      <description>Unbefugte kontrollieren das digitale System des Schiffs. Es ist nicht der erste Vorfall dieser Art. (Hacker, Security)</description>
+      <pubDate>Mon, 05 Oct 2026 10:13:08 GMT</pubDate>
+    </item>
     <item>
       <title>Ploopy Bean im Test: Ein mausgewordener Trackpoint</title>
       <link>https://www.golem.de/news/ploopy-bean-im-test-ein-mausgewordener-trackpoint-2610-213168.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/world-labs-uebernahme-amd-laesst-sich-ki-start-up-8-2-milliarden-us-dollar-kosten-2609-213516.html</guid>
       <description>AMD kauft wieder einmal bei KI zu, um bei Robotik zu Nvidia aufzuholen. Hinter dem Start-up World Labs steckt eine bekannte Wissenschaftlerin. (AMD, KI)</description>
       <pubDate>Tue, 29 Sep 2026 07:33:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Microsoft baut Copilot zur Agentenplattform um</title>
-      <link>https://www.golem.de/news/microsoft-microsoft-baut-copilot-zur-agentenplattform-um-2609-213514.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-microsoft-baut-copilot-zur-agentenplattform-um-2609-213514.html</guid>
-      <description>Microsoft ordnet Copilot neu und setzt auf Agenten. Für aufwendige Aufgaben zahlen Firmen künftig nach Verbrauch. (Copilot, Microsoft)</description>
-      <pubDate>Tue, 29 Sep 2026 07:16:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
