@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 13:36:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:56:18 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia Pascal: Modder entwickelt GTX-1080-Treiber für Windows XP</title>
+      <link>https://www.golem.de/news/nvidia-pascal-modder-entwickelt-gtx-1080-treiber-fuer-windows-xp-2610-213720.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvidia-pascal-modder-entwickelt-gtx-1080-treiber-fuer-windows-xp-2610-213720.html</guid>
+      <description>Mit dem Grafiktreiber kann eine Nvidia-Grafikkarte von 2016 auf einem Betriebssystem von 2001 genutzt werden. (Windows XP, Grafikkarten)</description>
+      <pubDate>Mon, 05 Oct 2026 13:51:02 GMT</pubDate>
+    </item>
     <item>
       <title>Kein Test im Regen: Softwarebug legt Formel-1-Autos lahm und verzögert Rennstart</title>
       <link>https://www.golem.de/news/kein-test-im-regen-softwarebug-legt-formel-1-autos-lahm-und-verzoegert-rennstart-2610-213719.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/chatkontrolle-eu-ringt-um-moeglichkeit-fuer-dauerhafte-massenscans-2609-213528.html</guid>
       <description>Die EU streitet weiter über eine dauerhafte Form der Chatkontrolle. Deutschland lehnt einen Kompromissvorschlag ab. Von Friedhelm Greis (Chatkontrolle, Google)</description>
       <pubDate>Tue, 29 Sep 2026 11:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Kindle Paperwhite jetzt zum Amazon-Aktionspreis unter 160 Euro</title>
-      <link>https://www.golem.de/news/anzeige-kindle-paperwhite-2026-jetzt-zum-amazon-aktionspreis-unter-160-euro-2609-213531.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kindle-paperwhite-2026-jetzt-zum-amazon-aktionspreis-unter-160-euro-2609-213531.html</guid>
-      <description>Der Amazon Kindle Paperwhite mit neuem 7-Zoll-Display und bis zu 12 Wochen Akkulaufzeit ist bei Amazon aktuell zum Aktionspreis erhältlich. (Technik/Hardware)</description>
-      <pubDate>Tue, 29 Sep 2026 10:57:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
