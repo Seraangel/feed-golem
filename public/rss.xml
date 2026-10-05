@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 05:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 05:36:04 GMT</lastBuildDate>
+    <item>
+      <title>Terminals: DHLs neue Zahlungsfunktion ist schon wieder gestoppt</title>
+      <link>https://www.golem.de/news/terminals-dhls-neue-zahlungsfunktion-ist-schon-wieder-gestoppt-2610-213690.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/terminals-dhls-neue-zahlungsfunktion-ist-schon-wieder-gestoppt-2610-213690.html</guid>
+      <description>DHL muss den erst im Juli gestarteten kontaktlosen Zahlungsservice an der Haustür vorübergehend wieder abschalten. (DHL, Smartphone)</description>
+      <pubDate>Mon, 05 Oct 2026 05:32:02 GMT</pubDate>
+    </item>
     <item>
       <title>Smartphone: Apple ermöglicht beim iPhone Duo Displayfolienwechsel</title>
       <link>https://www.golem.de/news/smartphone-apple-ermoeglicht-beim-iphone-duo-displayfolienwechsel-2610-213689.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-dreamquest-mini-pc-zum-super-sparpreis-2609-213498.html</guid>
       <description>Mini-PCs sind platzsparende Alternativen für das Homeoffice. Amazon bietet den kompakten DreamQuest Mini PC ALS Barebone aktuell mit 30 Euro Rabatt an. (Technik/Hardware)</description>
       <pubDate>Mon, 28 Sep 2026 13:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deaktivierte Lizenzen: Microsoft stoppt optionales Update für Microsoft 365</title>
-      <link>https://www.golem.de/news/deaktivierte-lizenzen-microsoft-stoppt-optionales-update-fuer-microsoft-365-2609-213497.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/deaktivierte-lizenzen-microsoft-stoppt-optionales-update-fuer-microsoft-365-2609-213497.html</guid>
-      <description>Eigentlich soll das Update veraltete Installationen aktualisieren. Stattdessen hebt es die Produktaktivierung auf oder deinstalliert die Microsoft-Anwendungen. (Microsoft, Office-Suite)</description>
-      <pubDate>Mon, 28 Sep 2026 12:33:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
