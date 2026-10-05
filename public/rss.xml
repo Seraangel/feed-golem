@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 12:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 12:16:19 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Prime Deal Days 2026 - schon jetzt frühe Prime-Angebote sichern</title>
+      <link>https://www.golem.de/news/anzeige-prime-deal-days-2026-schon-jetzt-fruehe-prime-angebote-sichern-2610-213715.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-prime-deal-days-2026-schon-jetzt-fruehe-prime-angebote-sichern-2610-213715.html</guid>
+      <description>Um Mitternacht starten die Prime Deal Days 2026 bei Amazon. Doch auch schon jetzt gibt es mit den frühen Prime-Angeboten viele Schnäppchen. (Prime Day, Amazon)</description>
+      <pubDate>Mon, 05 Oct 2026 12:13:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Luna-Controller für Prime-Mitglieder zum Tiefpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-luna-controller-fuer-prime-mitglieder-zum-tiefpreis-bei-amazon-2610-213712.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/geralt-in-besserer-grafik-witcher-3-remastered-will-24-gbyte-ram-und-windows-11-2609-213523.html</guid>
       <description>Windows 10 wird offiziell nicht mehr von CD Project unterstützt. Bei minimalen Einstellungen sollen aber weniger als 24 GByte RAM reichen. (The Witcher 3, Core i5)</description>
       <pubDate>Tue, 29 Sep 2026 09:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-5.4-mini: OpenAI warnt vor selbst replizierender Prompt-Injection</title>
-      <link>https://www.golem.de/news/gpt-5-4-mini-openai-warnt-vor-selbst-replizierender-prompt-injection-2609-213525.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gpt-5-4-mini-openai-warnt-vor-selbst-replizierender-prompt-injection-2609-213525.html</guid>
-      <description>Die neuartige Prompt-Injection hat Fähigkeiten eines Computerwurms. OpenAI entdeckt sie bei Trainings mit Prompt-Injections. (KI, Dateisystem)</description>
-      <pubDate>Tue, 29 Sep 2026 09:40:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
