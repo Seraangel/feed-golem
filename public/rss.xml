@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 08:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 08:51:09 GMT</lastBuildDate>
+    <item>
+      <title>Dritter Firmenname seit Februar: Musk will SpaceXAI in SpaceXSI umbenennen</title>
+      <link>https://www.golem.de/news/dritter-firmenname-seit-februar-musk-will-spacexai-in-spacexsi-umbenennen-2610-213697.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/dritter-firmenname-seit-februar-musk-will-spacexai-in-spacexsi-umbenennen-2610-213697.html</guid>
+      <description>Obwohl die Trump-Anordnung zur Umbenennung von KI in Superintelligenz nur US-Behörden betrifft, zieht Elon Musk fleißig mit. (KI, TSMC)</description>
+      <pubDate>Mon, 05 Oct 2026 08:48:08 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Agent: Meta bringt Anbindung an Agent Muse für DIY-Projekte</title>
       <link>https://www.golem.de/news/ki-agent-meta-bringt-anbindung-an-agent-muse-fuer-diy-projekte-2610-213695.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/seltene-erden-kasachstan-bietet-deutschland-rohstoffpartnerschaft-an-2609-213509.html</guid>
       <description>Der kasachische Präsident Kassym-Schomart Tokajew schlägt Deutschland eine gemeinsame Rohstoff- und Produktionspartnerschaft vor. (Rohstoffe, Wirtschaft)</description>
       <pubDate>Mon, 28 Sep 2026 16:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 mit Zero Trust absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2609-213173.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-mit-zero-trust-absichern-2609-213173.html</guid>
-      <description>Microsoft 365 Zero Trust setzt auf konsequente Prüfung von Zugriffen. Ein Online-Workshop vermittelt die Umsetzung mit Entra ID, DLP, Monitoring und Defender. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Mon, 28 Sep 2026 16:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
