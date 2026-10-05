@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 09:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 10:01:42 GMT</lastBuildDate>
+    <item>
+      <title>Ploopy Bean im Test: Ein mausgewordener Trackpoint</title>
+      <link>https://www.golem.de/news/ploopy-bean-im-test-ein-mausgewordener-trackpoint-2610-213168.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ploopy-bean-im-test-ein-mausgewordener-trackpoint-2610-213168.html</guid>
+      <description>Der Ploopy Bean ist eine quelloffene, 3D-gedruckte Trackpoint-Maus. Für Trackpoint-Fans ist er ideal, auch wenn man sich umgewöhnen muss. Ein Test von Tobias Költzsch (Peripheriegeräte, Test)</description>
+      <pubDate>Mon, 05 Oct 2026 10:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Trotz Handelskrieg: KI und 5G-Patentdeal zwischen Huawei und Qualcomm</title>
       <link>https://www.golem.de/news/trotz-handelskrieg-ki-und-5g-patentdeal-zwischen-huawei-und-qualcomm-2610-213705.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-microsoft-baut-copilot-zur-agentenplattform-um-2609-213514.html</guid>
       <description>Microsoft ordnet Copilot neu und setzt auf Agenten. Für aufwendige Aufgaben zahlen Firmen künftig nach Verbrauch. (Copilot, Microsoft)</description>
       <pubDate>Tue, 29 Sep 2026 07:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektroautos: VW vereinbart Milliardenpakt mit Batteriepartner aus China</title>
-      <link>https://www.golem.de/news/elektroautos-vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-2609-213513.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektroautos-vw-vereinbart-milliardenpakt-mit-batteriepartner-aus-china-2609-213513.html</guid>
-      <description>Die Entwicklung und Fertigung von Batteriezellen für E-Autos kostet Geld. VW arbeitet nun auch in Europa enger mit einem Partner aus China zusammen. (VW, Elektroauto)</description>
-      <pubDate>Tue, 29 Sep 2026 07:08:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
