@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 10:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:11:06 GMT</lastBuildDate>
+    <item>
+      <title>PTC: Schneider Electric mit Milliardenübernahme in den USA</title>
+      <link>https://www.golem.de/news/ptc-schneider-electric-mit-milliardenuebernahme-in-den-usa-2610-213711.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ptc-schneider-electric-mit-milliardenuebernahme-in-den-usa-2610-213711.html</guid>
+      <description>Schneider Electric kauft für 23,7 Milliarden US-Dollar PTC, den Hersteller von Creo, Onshape und Windchill. Der Umsatz bei Schneider wächst durch Ausrüstung für KI-Rechenzentren. (Wirtschaft, Augmented Reality)</description>
+      <pubDate>Mon, 05 Oct 2026 11:09:03 GMT</pubDate>
+    </item>
     <item>
       <title>Tesla boomt wieder: Mehr als jeder dritte Neuwagen vollelektrisch</title>
       <link>https://www.golem.de/news/tesla-boomt-wieder-mehr-als-jeder-dritte-neuwagen-vollelektrisch-2610-213709.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/pannen-nehmen-kein-ende-neues-problem-stoppt-zulassung-der-boeing-737-max-10-2609-213522.html</guid>
       <description>Boeing hat sich Hoffnungen gemacht, bald die Zulassung für die größte Variante der 737 Max zu bekommen. Daraus wird erst einmal nichts. (Boeing, Flugzeug)</description>
       <pubDate>Tue, 29 Sep 2026 09:13:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laut Börsenprospekt: Anthropic sieht sich als Gefahr für die Menschheit</title>
-      <link>https://www.golem.de/news/laut-boersenprospekt-anthropic-sieht-sich-als-gefahr-fuer-die-menschheit-2609-213521.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/laut-boersenprospekt-anthropic-sieht-sich-als-gefahr-fuer-die-menschheit-2609-213521.html</guid>
-      <description>Anthropic klärt mögliche Investoren im Vorfeld des Gangs an die Börse umfangreich über Risiken auf. Der Prospekt offenbart zudem hohe Verluste. (Anthropic, Börse)</description>
-      <pubDate>Tue, 29 Sep 2026 08:58:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
