@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 11:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 11:31:13 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Open-Source-KI-Agent im Selbstversuch: Schickt mich Hermes als ITler in Frührente?</title>
+      <link>https://www.golem.de/news/open-source-ki-agent-im-selbstversuch-schickt-mich-hermes-als-itler-in-fruehrente-2610-213702.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/open-source-ki-agent-im-selbstversuch-schickt-mich-hermes-als-itler-in-fruehrente-2610-213702.html</guid>
+      <description>Hermes verspricht einen lernfähigen KI-Agenten. Wir richten ihn lokal ein und testen, was bei Modellen, Tools und Hardware wirklich zählt. Ein Erfahrungsbericht von Thorsten Müller (KI, Cuda)</description>
+      <pubDate>Mon, 05 Oct 2026 11:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>PTC: Schneider Electric mit Milliardenübernahme in den USA</title>
       <link>https://www.golem.de/news/ptc-schneider-electric-mit-milliardenuebernahme-in-den-usa-2610-213711.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/boox-picco-boox-neuer-e-reader-laesst-sich-am-smartphone-befestigen-2609-213524.html</guid>
       <description>Der Picco ist Boox' bisher kleinster E-Book-Reader. Er lässt sich magnetisch an einem Smartphone befestigen und hat Beleuchtung. (E-Book-Reader, Mobil)</description>
       <pubDate>Tue, 29 Sep 2026 09:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pannen nehmen kein Ende: Neues Problem stoppt Zulassung der Boeing 737 Max 10</title>
-      <link>https://www.golem.de/news/pannen-nehmen-kein-ende-neues-problem-stoppt-zulassung-der-boeing-737-max-10-2609-213522.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pannen-nehmen-kein-ende-neues-problem-stoppt-zulassung-der-boeing-737-max-10-2609-213522.html</guid>
-      <description>Boeing hat sich Hoffnungen gemacht, bald die Zulassung für die größte Variante der 737 Max zu bekommen. Daraus wird erst einmal nichts. (Boeing, Flugzeug)</description>
-      <pubDate>Tue, 29 Sep 2026 09:13:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
