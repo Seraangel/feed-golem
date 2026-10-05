@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 13:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:11:17 GMT</lastBuildDate>
+    <item>
+      <title>Ungültige KI-Einreichungen: Google stoppt Bug-Bounty-Programm für Open Source</title>
+      <link>https://www.golem.de/news/ungueltige-ki-einreichungen-google-stoppt-bug-bounty-programm-fuer-open-source-2610-213721.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ungueltige-ki-einreichungen-google-stoppt-bug-bounty-programm-fuer-open-source-2610-213721.html</guid>
+      <description>Die überwiegende Mehrheit der automatisiert eingereichten Fehlermeldungen ist ungültig. Google überarbeitet nun seine Regeln für KI-basierte Einreichungen. (KI, Sicherheitslücke)</description>
+      <pubDate>Mon, 05 Oct 2026 14:06:02 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia Pascal: Modder entwickelt GTX-1080-Treiber für Windows XP</title>
       <link>https://www.golem.de/news/nvidia-pascal-modder-entwickelt-gtx-1080-treiber-fuer-windows-xp-2610-213720.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-amazon-senkt-den-echo-show-8-fast-auf-prime-day-tiefstpreis-2609-213529.html</guid>
       <description>Amazon reduziert den Echo Show 8 um 85 Euro auf 134,99 Euro. Damit kostet das Smart Display nur 5 Euro mehr als zum Prime Day im Juni. (Amazon Alexa, Amazon)</description>
       <pubDate>Tue, 29 Sep 2026 11:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chatkontrolle: EU ringt um Möglichkeit für dauerhafte Massenscans</title>
-      <link>https://www.golem.de/news/chatkontrolle-eu-ringt-um-moeglichkeit-fuer-dauerhafte-massenscans-2609-213528.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/chatkontrolle-eu-ringt-um-moeglichkeit-fuer-dauerhafte-massenscans-2609-213528.html</guid>
-      <description>Die EU streitet weiter über eine dauerhafte Form der Chatkontrolle. Deutschland lehnt einen Kompromissvorschlag ab. Von Friedhelm Greis (Chatkontrolle, Google)</description>
-      <pubDate>Tue, 29 Sep 2026 11:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
