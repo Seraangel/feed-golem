@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 07:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:11:28 GMT</lastBuildDate>
+    <item>
+      <title>KI-Agenten: Metas Muse legt Profile über Freunde und Familie an</title>
+      <link>https://www.golem.de/news/ki-agenten-metas-muse-legt-profile-ueber-freunde-und-familie-an-2610-213693.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-metas-muse-legt-profile-ueber-freunde-und-familie-an-2610-213693.html</guid>
+      <description>Metas KI-Assistent Muse führt Seiten über Familie, Partner und Freunde. Forscher haben die Anweisungen dafür ausgelesen. (Meta, KI)</description>
+      <pubDate>Mon, 05 Oct 2026 07:08:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: So lernt die FRITZ!Box Zigbee</title>
       <link>https://www.golem.de/news/anzeige-so-lernt-die-fritz-box-zigbee-2610-213481.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-nirgendwo-guenstiger-fritzrepeater-2400-kostet-bei-amazon-nur-92-euro-2609-213506.html</guid>
       <description>Amazon bietet den FritzRepeater 2400 derzeit zum niedrigsten Preis im Golem-Preisvergleich an. Der Mesh-Repeater überzeugt in Tests, muss sich inzwischen aber mit modernerer Wi-Fi-7-Konkurrenz messen. (AVM, Amazon)</description>
       <pubDate>Mon, 28 Sep 2026 15:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX: Starship erreicht Orbit mit Triebwerksausfällen</title>
-      <link>https://www.golem.de/news/spacex-starship-erreicht-orbit-mit-triebwerksausfaellen-2609-213504.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/spacex-starship-erreicht-orbit-mit-triebwerksausfaellen-2609-213504.html</guid>
-      <description>Starship Flug 14 muss wegen technischer Probleme vorzeitig abgebrochen werden, nachdem Satelliten im Orbit ausgesetzt wurden. (Starship, Raumfahrt)</description>
-      <pubDate>Mon, 28 Sep 2026 14:57:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
