@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 06:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:01:56 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: So lernt die FRITZ!Box Zigbee</title>
+      <link>https://www.golem.de/news/anzeige-so-lernt-die-fritz-box-zigbee-2610-213481.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-so-lernt-die-fritz-box-zigbee-2610-213481.html</guid>
+      <description>Aktuelle FRITZ!Box-Modelle verfügen über den Smart-Home-Standard Zigbee. Aber wie kommt die Technologie in die FRITZ!Box? Die Softwareentwickler Stella und Patrick erklären. (Fritzbox, AVM)</description>
+      <pubDate>Mon, 05 Oct 2026 07:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>Fünf Jahre Windows 11: Auf dem besten Weg zum meistgehassten Windows</title>
       <link>https://www.golem.de/news/fuenf-jahre-windows-11-auf-dem-besten-weg-zum-meistgehassten-windows-2610-213660.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spacex-starship-erreicht-orbit-mit-triebwerksausfaellen-2609-213504.html</guid>
       <description>Starship Flug 14 muss wegen technischer Probleme vorzeitig abgebrochen werden, nachdem Satelliten im Orbit ausgesetzt wurden. (Starship, Raumfahrt)</description>
       <pubDate>Mon, 28 Sep 2026 14:57:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Messenger: Signal für drei US-Dollar ohne Telefonnummer nutzen</title>
-      <link>https://www.golem.de/news/messenger-signal-fuer-drei-us-dollar-ohne-telefonnummer-nutzen-2609-213502.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/messenger-signal-fuer-drei-us-dollar-ohne-telefonnummer-nutzen-2609-213502.html</guid>
-      <description>Der Messenger Signal kann künftig auch ohne Telefonnummer verwendet werden. Dafür ist eine Einmalzahlung notwendig. (Signal, Instant Messenger)</description>
-      <pubDate>Mon, 28 Sep 2026 14:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
