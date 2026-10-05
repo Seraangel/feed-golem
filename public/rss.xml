@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 13:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:21:09 GMT</lastBuildDate>
+    <item>
+      <title>Stephen Wolfram: KI kann Mathematiker nicht ersetzen</title>
+      <link>https://www.golem.de/news/stephen-wolfram-ki-kann-mathematiker-nicht-ersetzen-2610-213717.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/stephen-wolfram-ki-kann-mathematiker-nicht-ersetzen-2610-213717.html</guid>
+      <description>KI wird Mathematikern neue Horizonte eröffnen, ist Stephen Wolfram überzeugt. Arbeitslos würden die aber nicht, allein liefere KI Alien-Mathematik. (Wissenschaft, KI)</description>
+      <pubDate>Mon, 05 Oct 2026 13:19:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ryzen-5-Mini-PC mit Windows 11 Pro mit fast 90 Euro Golem-exklusivem Rabatt</title>
       <link>https://www.golem.de/news/anzeige-ryzen-5-mini-pc-mit-windows-11-pro-mit-fast-90-euro-golem-exklusivem-rabatt-2610-213716.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/keine-grafikkarten-diebe-stehlen-nvidia-trucks-und-bekommen-18-tonnen-sand-2609-213530.html</guid>
       <description>Die zwei großen Trucks waren unter anderem mit Nvidia-Logo versehen. Statt GPUs gab es aber eine Menge Sand. (Start-up, Grafikkarten)</description>
       <pubDate>Tue, 29 Sep 2026 10:42:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project Jupiter: Oracle bringt durch Zahlungsstopp zentralen OpenAI-Ausbau ins Wanken</title>
-      <link>https://www.golem.de/news/project-jupiter-oracle-bringt-durch-zahlungsstopp-zentralen-openai-ausbau-ins-wanken-2609-213526.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/project-jupiter-oracle-bringt-durch-zahlungsstopp-zentralen-openai-ausbau-ins-wanken-2609-213526.html</guid>
-      <description>Oracle hat mit einem wahnwitzigen Konzept zur Energieversorgung breite Proteste gegen sein riesiges Rechenzentrum in New Mexico ausgelöst. Nun stoppt der Trump-Vertraute Larry Ellison die Zahlungen. Ein IMHO von Achim Sawall (Oracle, KI)</description>
-      <pubDate>Tue, 29 Sep 2026 10:15:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
