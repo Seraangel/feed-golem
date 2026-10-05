@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 09:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:31:31 GMT</lastBuildDate>
+    <item>
+      <title>Chipkrise: Google erhöht Preis des Pixel 10a um 100 Euro</title>
+      <link>https://www.golem.de/news/chipkrise-google-erhoeht-preis-des-pixel-10a-um-100-euro-2610-213701.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chipkrise-google-erhoeht-preis-des-pixel-10a-um-100-euro-2610-213701.html</guid>
+      <description>Nicht nur die neue Pixel-11-Serie ist teurer geworden: Google hebt auch den Preis des Pixel 10a auf 650 Euro an. Online ist das Gerät günstiger. (Smartphone, Google)</description>
+      <pubDate>Mon, 05 Oct 2026 09:28:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Laptop-Powerbank mit 25.000 mAh und 165 W im frühen Prime-Angebot</title>
+      <link>https://www.golem.de/news/anzeige-laptop-powerbank-mit-25-000-mah-und-165-w-im-fruehen-prime-angebot-2610-213703.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-laptop-powerbank-mit-25-000-mah-und-165-w-im-fruehen-prime-angebot-2610-213703.html</guid>
+      <description>Eine Laptop-Powerbank mit 25.000 mAh, 165 W, zwei Kabeln und zwei Ports gibt es im frühen Prime-Angebot zum Sparpreis bei Amazon. (Technik/Hardware, Anker)</description>
+      <pubDate>Mon, 05 Oct 2026 09:26:05 GMT</pubDate>
+    </item>
     <item>
       <title>Rechenzentren in Nebraska: Schlechte Schwärzung verrät Steuergeschenke an Google</title>
       <link>https://www.golem.de/news/rechenzentren-in-nebraska-schlechte-schwaerzung-verraet-steuergeschenke-an-google-2610-213699.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/betriebssysteme-google-beendet-chrome-os-updates-mitte-2034-2609-213512.html</guid>
       <description>Chrome OS erhält nur noch bis Mitte 2034 Updates. Neuere Chromebooks für Firmen und Schulen sollen umsteigen können. (Chromebook, Google)</description>
       <pubDate>Tue, 29 Sep 2026 06:34:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 DSGVO-konform betreiben</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2609-213172.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2609-213172.html</guid>
-      <description>Golem Karrierewelt: Microsoft 365 erfordert klare Regeln für Datenschutz und Compliance. Ein Workshop ordnet DSGVO, Datenresidenz, Audits und Drittlandtransfers ein. (Golem Karrierewelt, Datenschutz)</description>
-      <pubDate>Tue, 29 Sep 2026 05:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Modell: Claude Sonnet 5.5 soll Coding und Alltagstauglichkeit optimieren</title>
-      <link>https://www.golem.de/news/ki-modell-claude-sonnet-5-5-soll-coding-und-alltagstauglichkeit-optimieren-2609-213511.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-modell-claude-sonnet-5-5-soll-coding-und-alltagstauglichkeit-optimieren-2609-213511.html</guid>
-      <description>Anthropic hat Claude Sonnet 5.5 vorgestellt, das schneller als der Vorgänger sein und bei den meisten Aufgaben bis zu 30 Prozent weniger Kosten verursachen soll. (Claude, KI)</description>
-      <pubDate>Tue, 29 Sep 2026 05:15:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
