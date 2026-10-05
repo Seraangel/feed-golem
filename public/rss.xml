@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 09:31:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:41:55 GMT</lastBuildDate>
+    <item>
+      <title>Bildmanipulationen: Content-Signatur C2PA ausgehebelt</title>
+      <link>https://www.golem.de/news/bildmanipulationen-content-signatur-c2pa-ausgehebelt-2610-213700.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bildmanipulationen-content-signatur-c2pa-ausgehebelt-2610-213700.html</guid>
+      <description>Ein Sicherheitsforscher nutzt eine Regel des Standards, die Bereiche eines Bilds von der Signaturberechnung ausschließt. Diese Regel ist jedoch technisch notwendig. (Datensicherheit, Photoshop)</description>
+      <pubDate>Mon, 05 Oct 2026 09:39:02 GMT</pubDate>
+    </item>
     <item>
       <title>Chipkrise: Google erhöht Preis des Pixel 10a um 100 Euro</title>
       <link>https://www.golem.de/news/chipkrise-google-erhoeht-preis-des-pixel-10a-um-100-euro-2610-213701.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nothing-headphone-1-pro-im-praxistest-dieser-ungewoehnliche-spitzen-kopfhoerer-begeistert-2609-213480.html</guid>
       <description>Nothing gelingt ein kleines Wunder: Der neue Headphone (1) Pro ist eine gelungene Alternative zu den tollen Sony-Kopfhörern und übertrifft sie teilweise sogar. Ein Praxistest von Ingo Pakalski (Nothing, Test)</description>
       <pubDate>Tue, 29 Sep 2026 07:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Betriebssysteme: Google beendet Chrome-OS-Updates Mitte 2034</title>
-      <link>https://www.golem.de/news/betriebssysteme-google-beendet-chrome-os-updates-mitte-2034-2609-213512.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/betriebssysteme-google-beendet-chrome-os-updates-mitte-2034-2609-213512.html</guid>
-      <description>Chrome OS erhält nur noch bis Mitte 2034 Updates. Neuere Chromebooks für Firmen und Schulen sollen umsteigen können. (Chromebook, Google)</description>
-      <pubDate>Tue, 29 Sep 2026 06:34:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
