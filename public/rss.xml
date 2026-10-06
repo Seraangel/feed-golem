@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 11:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:31:40 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Windows-10-Supportende: Warum mein Gaming-PC Tschüs zu Windows sagt und sich auf Linux freut</title>
+      <link>https://www.golem.de/news/windows-10-supportende-warum-mein-gaming-pc-tschues-zu-windows-sagt-und-sich-auf-linux-freut-2610-213753.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-10-supportende-warum-mein-gaming-pc-tschues-zu-windows-sagt-und-sich-auf-linux-freut-2610-213753.html</guid>
+      <description>Windows 11? Ohne mich. Ich ziehe zu Linux um und nehme meine Spiele mit. Ein Erfahrungsbericht von Stefanie Schmidt (Linux, Steam)</description>
+      <pubDate>Tue, 06 Oct 2026 11:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>Forschung: KI-Agenten identifizieren neue Antiferromagneten</title>
       <link>https://www.golem.de/news/forschung-ki-agenten-identifizieren-neue-antiferromagneten-2610-213763.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wsl-microsoft-gibt-wsl-container-schnittstelle-fuer-alle-frei-2609-213572.html</guid>
       <description>Mit Containern bekommt WSL ein neues Feature. Gegenüber der Preview hat Microsoft den Funktionsumfang erweitert. (WSL, Microsoft)</description>
       <pubDate>Wed, 30 Sep 2026 09:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla-Browser: Firefox erhält neues Design und bekommt Kompaktmodus zurück</title>
-      <link>https://www.golem.de/news/mozilla-browser-firefox-erhaelt-neues-design-und-bekommt-kompaktmodus-zurueck-2609-213571.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mozilla-browser-firefox-erhaelt-neues-design-und-bekommt-kompaktmodus-zurueck-2609-213571.html</guid>
-      <description>Viele Firefox-Nutzer haben den Kompaktmodus in den vergangenen Jahren vermisst, nun ist er wieder da. (Firefox, Browser)</description>
-      <pubDate>Wed, 30 Sep 2026 08:52:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
