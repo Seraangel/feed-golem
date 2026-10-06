@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 05:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:51:14 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheit: Bundeswehr setzt KI gegen Extremisten ein</title>
+      <link>https://www.golem.de/news/sicherheit-bundeswehr-setzt-ki-gegen-extremisten-ein-2610-213736.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-bundeswehr-setzt-ki-gegen-extremisten-ein-2610-213736.html</guid>
+      <description>Die Bundeswehr plant automatisierte Scanverfahren für Bewerber. Der MAD will KI einsetzen, um rechtsextreme Gesinnung früh zu erkennen. (Bundeswehr, KI)</description>
+      <pubDate>Tue, 06 Oct 2026 05:48:07 GMT</pubDate>
+    </item>
     <item>
       <title>Deutschlands drittes Robotics-Unicorn: Robco knackt die Milliardengrenze</title>
       <link>https://www.golem.de/news/deutschlands-drittes-robotics-unicorn-robco-knackt-die-milliardengrenze-2610-213735.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/arthur-mensch-mistral-chef-nennt-us-forderungen-nach-ki-regulierung-einen-trick-2609-213553.html</guid>
       <description>Mit Regulatory Capture sollen die aufholende Open-Weights-Konkurrenz vom Markt gedrängt, eigenes Entwicklerversagen kaschiert und überbewertete Geschäftsmodelle von OpenAI und Anthropic gerettet werden. (ChatGPT, Rechenzentrum)</description>
       <pubDate>Tue, 29 Sep 2026 15:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ein Tag Homeoffice pro Woche: Mercedes-Benz will mehr Büropräsenz</title>
-      <link>https://www.golem.de/news/homeoffice-gekuerzt-mercedes-benz-will-mehr-bueropraesenz-2609-213552.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/homeoffice-gekuerzt-mercedes-benz-will-mehr-bueropraesenz-2609-213552.html</guid>
-      <description>Der Vorstand von Mercedes-Benz hat eine großzügige Homeoffice-Regelung gekündigt. Firmenchef Källenius wollte sogar noch weiter gehen. (Homeoffice, Deutsche Bahn)</description>
-      <pubDate>Tue, 29 Sep 2026 15:36:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
