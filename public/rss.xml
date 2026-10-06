@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 07:46:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 08:06:18 GMT</lastBuildDate>
+    <item>
+      <title>Wikipedia und KI: KI-Agenten aus OpenAI-Umfeld haben Wikimedia-Server belastet</title>
+      <link>https://www.golem.de/news/wikpedia-und-ki-ki-agenten-aus-openai-umfeld-belasteten-wikimedia-server-2610-213744.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wikpedia-und-ki-ki-agenten-aus-openai-umfeld-belasteten-wikimedia-server-2610-213744.html</guid>
+      <description>In einer eigenen Untersuchung hat Wikimedia festgestellt, dass viele der belastenden KI-Agenten auf OpenAI zurückzuführen sind. (KI, Wikipedia)</description>
+      <pubDate>Tue, 06 Oct 2026 08:02:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Samsung Galaxy Tab A11+ am Prime Day stark reduziert</title>
       <link>https://www.golem.de/news/anzeige-samsung-galaxy-tab-a11-am-prime-day-stark-reduziert-2610-213741.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/indie-app-walkman-feeling-auf-dem-klapp-iphone-2609-213559.html</guid>
       <description>Ein Entwickler hat einen virtuellen Walkman für Apples iPhone Duo gebaut. Das Klapp-Smartphone ist dafür ideal geeignet. (iPhone Duo, Apple)</description>
       <pubDate>Wed, 30 Sep 2026 05:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rockstar Games: In GTA 6 ziehen Unwetter durch die offene Welt</title>
-      <link>https://www.golem.de/news/rockstar-games-in-gta-6-ziehen-unwetter-durch-die-offene-welt-2609-213557.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-in-gta-6-ziehen-unwetter-durch-die-offene-welt-2609-213557.html</guid>
-      <description>Gewitter, Autodiebstähle und Polizei: Rockstar verrät neue Details zur Simulation in GTA 6. (GTA 6, Red Dead Redemption)</description>
-      <pubDate>Wed, 30 Sep 2026 05:22:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
