@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 05:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Smart Ring: Oura erkennt Blutdruckrisiken und begleitet Abnehmspritzen</title>
+      <link>https://www.golem.de/news/smart-ring-oura-erkennt-blutdruckrisiken-und-begleitet-abnehmspritzen-2610-213727.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/smart-ring-oura-erkennt-blutdruckrisiken-und-begleitet-abnehmspritzen-2610-213727.html</guid>
+      <description>Der Oura-Ring erhält neue Funktionen und erkennt Auffälligkeiten beim Blutdruck. Außerdem wertet er Daten rund um GLP-1-Medikamente aus. (Oura, Medizin)</description>
+      <pubDate>Tue, 06 Oct 2026 06:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Sicherheit: Bundeswehr setzt KI gegen Extremisten ein</title>
       <link>https://www.golem.de/news/sicherheit-bundeswehr-setzt-ki-gegen-extremisten-ein-2610-213736.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/halbleiterindustrie-japans-resonac-entwickelt-grosse-wafer-die-viermal-so-viele-chips-hervorbringen-koennen-2609-213543.html</guid>
       <description>Unsere Leseempfehlung: Nikkei-Asia-Autor Kazuki Yamaguchi erklärt, wie der Resonac mit 300-mm-SiC-Wafern die Kosten von Leistungshalbleitern drücken könnte. Von Kazuki Yamaguchi (Technik/Hardware, Golem Plus)</description>
       <pubDate>Tue, 29 Sep 2026 16:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arthur Mensch: Mistral-Chef nennt US-Forderungen nach KI-Regulierung einen Trick</title>
-      <link>https://www.golem.de/news/arthur-mensch-mistral-chef-nennt-us-forderungen-nach-ki-regulierung-einen-trick-2609-213553.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/arthur-mensch-mistral-chef-nennt-us-forderungen-nach-ki-regulierung-einen-trick-2609-213553.html</guid>
-      <description>Mit Regulatory Capture sollen die aufholende Open-Weights-Konkurrenz vom Markt gedrängt, eigenes Entwicklerversagen kaschiert und überbewertete Geschäftsmodelle von OpenAI und Anthropic gerettet werden. (ChatGPT, Rechenzentrum)</description>
-      <pubDate>Tue, 29 Sep 2026 15:59:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
