@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 10:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:31:18 GMT</lastBuildDate>
+    <item>
+      <title>Pixel 11: GrapheneOS kritisiert weiterhin fehlende Sicherheitsfunktion</title>
+      <link>https://www.golem.de/news/pixel-11-grapheneos-kritisiert-weiterhin-fehlende-sicherheitsfunktion-2610-213755.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pixel-11-grapheneos-kritisiert-weiterhin-fehlende-sicherheitsfunktion-2610-213755.html</guid>
+      <description>Ohne Unterstützung für die CPU-Erweiterung MTE gibt es kein GrapheneOS für das Pixel 11. Die endgültige Entscheidung kündigt GrapheneOS für Dezember an. (GrapheneOS, Google)</description>
+      <pubDate>Tue, 06 Oct 2026 10:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>Deutscher Hersteller: Quantum Systems geht mit Drohnenabfangjägern in die Serienfertigung</title>
       <link>https://www.golem.de/news/deutscher-hersteller-quantum-systems-geht-mit-drohnenabfangjaegern-in-die-serienfertigung-2610-213748.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-zwei-echo-dot-max-zum-preis-von-einem-vor-dem-prime-day-bei-amazon-2609-213568.html</guid>
       <description>Im Vorfeld des Prime Day reduziert Amazon den Echo Dot Max um 50 Prozent. Damit kosten zwei Geräte aktuell so viel wie regulär eines. (Amazon Alexa, Heimkino)</description>
       <pubDate>Wed, 30 Sep 2026 07:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>pB-Fusion: Chinesischer Konzern baut unmögliches Fusionskraftwerk</title>
-      <link>https://www.golem.de/news/pb-fusion-chinesischer-konzern-baut-unmoegliches-fusionskraftwerk-2609-213567.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pb-fusion-chinesischer-konzern-baut-unmoegliches-fusionskraftwerk-2609-213567.html</guid>
-      <description>Mit 100 Millionen Fusionsreaktionen hat erstmals ein kommerzieller Betreiber die Proton-Bor-Fusion realisiert. Bis zur Energiegewinnung dauert es noch. (Kernfusion, Laser)</description>
-      <pubDate>Wed, 30 Sep 2026 07:21:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
