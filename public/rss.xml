@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 05 Oct 2026 23:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 04:01:15 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Purview: Daten schützen und Risiken steuern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-steuern-2610-213236.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-steuern-2610-213236.html</guid>
+      <description>Microsoft Purview bündelt Funktionen für Datenklassifizierung, DLP und Insider Risk. Die Golem Karrierewelt vermittelt den praktischen Einsatz in Microsoft 365. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Tue, 06 Oct 2026 04:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Prime Deal Days 2026 - die besten Deals am zweiten Prime Day sichern</title>
       <link>https://www.golem.de/news/anzeige-prime-deal-days-2026-die-besten-deals-am-zweiten-prime-day-sichern-2610-213729.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-aussenueberwachungskamera-eufy-solocam-s340-solar-als-fruehes-prime-angebot-fuer-109-euro-2609-213547.html</guid>
       <description>Die Eufy SoloCam S340 mit Dual-Kamera und 8-fachem Zoom ist als frühes Prime-Angebot für Prime-Mitglieder reduziert. (Technik/Hardware, Smart Home)</description>
       <pubDate>Tue, 29 Sep 2026 15:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agile Robots: Robotic-Start-up erwartet "sehr bald" die Umsatzmilliarde</title>
-      <link>https://www.golem.de/news/agile-robots-robotic-start-up-erwartet-sehr-bald-die-umsatzmilliarde-2609-213549.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/agile-robots-robotic-start-up-erwartet-sehr-bald-die-umsatzmilliarde-2609-213549.html</guid>
-      <description>Der Chef von Chef von Agile Robots sieht den Markt für KI-gesteuerte humanoide Roboter kurz vor dem Durchbruch. (Roboter, Wirtschaft)</description>
-      <pubDate>Tue, 29 Sep 2026 14:55:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
