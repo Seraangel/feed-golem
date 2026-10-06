@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 09:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:01:09 GMT</lastBuildDate>
+    <item>
+      <title>Streamingabos: Netflix und Disney+ machen Extra-Abos teilweise überflüssig</title>
+      <link>https://www.golem.de/news/streamingabos-netflix-und-disney-machen-extra-abos-teilweise-ueberfluessig-2610-213739.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/streamingabos-netflix-und-disney-machen-extra-abos-teilweise-ueberfluessig-2610-213739.html</guid>
+      <description>Ice Age, Percy Jackson, Mission: Impossible und Dune: Netflix und Disney+ holen Filme und Serien der Konkurrenz in ihre Abos. Ein Bericht von Ingo Pakalski (Netflix, Disney)</description>
+      <pubDate>Tue, 06 Oct 2026 10:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>Tmog für Windows, Linux, MacOS: Erschaffer des Task-Managers baut eigenen Task-Manager</title>
       <link>https://www.golem.de/news/tmog-fuer-windows-linux-macos-erschaffer-des-task-managers-baut-eigenen-task-manager-2610-213750.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/datenschutz-vernetzte-autos-senden-fahrerdaten-an-google-und-meta-2609-213565.html</guid>
       <description>Forscher haben 21 Autos und 30 Hersteller-Apps getestet. Fast alle Apps schicken Daten an Werbe- und Analysefirmen. (Datenschutz, Auto)</description>
       <pubDate>Wed, 30 Sep 2026 07:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auskunftei: Schufa bietet Banken zusätzlichen Hypothekenscore an</title>
-      <link>https://www.golem.de/news/auskunftei-schufa-bietet-banken-zusaetzlichen-hypothekenscore-an-2609-213564.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/auskunftei-schufa-bietet-banken-zusaetzlichen-hypothekenscore-an-2609-213564.html</guid>
-      <description>Die Schufa wirbt mit einem transparenten Score. Banken erhalten jedoch auch einen Hypothekenscore mit anderen Kriterien. (Schufa, Verbraucherschutz)</description>
-      <pubDate>Wed, 30 Sep 2026 06:40:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
