@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 06:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 07:01:18 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Vertrauen als Voraussetzung erfolgreicher KI-Skalierung</title>
+      <link>https://www.golem.de/news/anzeige-vertrauen-als-voraussetzung-erfolgreicher-ki-skalierung-2610-213687.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-vertrauen-als-voraussetzung-erfolgreicher-ki-skalierung-2610-213687.html</guid>
+      <description>KI-Piloten überzeugen schnell. Doch im produktiven Betrieb zählen andere Fragen: Welche Daten nutzt ein System, welche Rechte gelten, wer handelt - und wie bleibt jeder Schritt später nachvollziehbar? (Telekom, KI)</description>
+      <pubDate>Tue, 06 Oct 2026 07:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Mein Irrtum: Warum die Grenzen von LLMs weiter entfernt sind, als ich dachte</title>
       <link>https://www.golem.de/news/mein-irrtum-warum-die-grenzen-von-llms-weiter-entfernt-sind-als-ich-dachte-2610-213065.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebtes-govee-hygrometer-bei-amazon-schon-zum-prime-day-preis-2609-213554.html</guid>
       <description>Die viel gekauften Hygrometer-Thermometer des Anbieters Govee sind bei Amazon als frühes Prime-Day-Angebot zu haben. (Prime Day, Technik/Hardware)</description>
       <pubDate>Tue, 29 Sep 2026 16:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Paid Peering: Telekom und Cloudflare beenden jahrelange Drosselung</title>
-      <link>https://www.golem.de/news/paid-peering-telekom-und-cloudflare-beenden-jahrelangen-streit-2609-213555.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/paid-peering-telekom-und-cloudflare-beenden-jahrelangen-streit-2609-213555.html</guid>
-      <description>Der verbitterte Konflikt zwischen der Deutschen Telekom und Cloudflare um Paid Peering, künstlich überlastete Transit-Routen und das Sender-Pays-Prinzip ist offiziell Geschichte. (Telekom, Wirtschaft)</description>
-      <pubDate>Tue, 29 Sep 2026 16:55:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
