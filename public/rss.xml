@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 08:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 09:10:57 GMT</lastBuildDate>
+    <item>
+      <title>Tmog für Windows, Linux, MacOS: Erschaffer des Task-Managers baut eigenen Task-Manager</title>
+      <link>https://www.golem.de/news/tmog-fuer-windows-linux-macos-erschaffer-des-task-managers-baut-eigenen-task-manager-2610-213750.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/tmog-fuer-windows-linux-macos-erschaffer-des-task-managers-baut-eigenen-task-manager-2610-213750.html</guid>
+      <description>Tmog zeigt wie der Task-Manager diverse Informationen zu Prozessen an. Er soll aber auch dabei helfen, die Quellen von Problemen zu finden. (Tools, Linux)</description>
+      <pubDate>Tue, 06 Oct 2026 09:08:02 GMT</pubDate>
+    </item>
     <item>
       <title>Open-Source-LLM: Reflection AI veröffentlicht KI-Modell als Konkurrenz zu China</title>
       <link>https://www.golem.de/news/open-source-llm-reflection-ai-veroeffentlicht-ki-modell-als-konkurrenz-zu-china-2610-213749.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/auskunftei-schufa-bietet-banken-zusaetzlichen-hypothekenscore-an-2609-213564.html</guid>
       <description>Die Schufa wirbt mit einem transparenten Score. Banken erhalten jedoch auch einen Hypothekenscore mit anderen Kriterien. (Schufa, Verbraucherschutz)</description>
       <pubDate>Wed, 30 Sep 2026 06:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kooperation mit Toei Animation: Lego bringt erstes Dragon-Ball-Set auf den Markt</title>
-      <link>https://www.golem.de/news/kooperation-mit-toei-animation-lego-bringt-erstes-dragon-ball-set-auf-den-markt-2609-213556.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kooperation-mit-toei-animation-lego-bringt-erstes-dragon-ball-set-auf-den-markt-2609-213556.html</guid>
-      <description>Lego startet eine Dragon-Ball-Reihe. Das erste Set mit Shenron und Son Goku erscheint im November 2026, weitere Sets folgen 2027. (Lego, In eigener Sache)</description>
-      <pubDate>Wed, 30 Sep 2026 06:33:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
