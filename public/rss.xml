@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 06:31:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:46:09 GMT</lastBuildDate>
+    <item>
+      <title>Mein Irrtum: Warum die Grenzen von LLMs weiter entfernt sind, als ich dachte</title>
+      <link>https://www.golem.de/news/mein-irrtum-warum-die-grenzen-von-llms-weiter-entfernt-sind-als-ich-dachte-2610-213065.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mein-irrtum-warum-die-grenzen-von-llms-weiter-entfernt-sind-als-ich-dachte-2610-213065.html</guid>
+      <description>Ich hielt LLMs für fast ausgereizt. Das war wohl falsch. Warum sie noch lange besser werden können - ohne dass uns das automatisch AGI bringt. Eine Analyse von Tim Elsner (KI, Gordon Moore)</description>
+      <pubDate>Tue, 06 Oct 2026 06:42:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-zubehoer-und-app-am-prime-day-zum-neuen-bestpreis-2610-213738.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/paid-peering-telekom-und-cloudflare-beenden-jahrelangen-streit-2609-213555.html</guid>
       <description>Der verbitterte Konflikt zwischen der Deutschen Telekom und Cloudflare um Paid Peering, künstlich überlastete Transit-Routen und das Sender-Pays-Prinzip ist offiziell Geschichte. (Telekom, Wirtschaft)</description>
       <pubDate>Tue, 29 Sep 2026 16:55:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Identity- und Access-Management mit Keycloak absichern</title>
-      <link>https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-213226.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-213226.html</guid>
-      <description>Identity- und Access-Management verbindet sichere Anmeldung mit kontrollierten Zugriffsrechten. Die Golem Karrierewelt vermittelt dazu Keycloak-Know-how. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 29 Sep 2026 16:45:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
