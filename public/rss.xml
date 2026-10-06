@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 17:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 18:31:22 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Zero Trust für Microsoft 365 systematisch umsetzen</title>
+      <link>https://www.golem.de/news/anzeige-zero-trust-fuer-microsoft-365-systematisch-umsetzen-2610-213235.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-fuer-microsoft-365-systematisch-umsetzen-2610-213235.html</guid>
+      <description>Microsoft 365 Zero Trust verbindet Zugriffskontrolle, Datenschutz und Monitoring. Ein Online-Workshop vermittelt die zentralen Bausteine für die Umsetzung. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Tue, 06 Oct 2026 18:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>Satellitenmobilfunk: T-Mobile US distanziert sich von Elon Musks Starlink</title>
       <link>https://www.golem.de/news/satellitenmobilfunk-t-mobile-us-distanziert-sich-von-elon-musks-starlink-2610-213784.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bwi-it-panne-trennt-reservisten-von-it-bundeswehrsystemen-2609-213596.html</guid>
       <description>Durch eine Datenpanne sind Reservisten aus der IT der Bundeswehr ausgesperrt worden. Doch das Problem ist weitaus kleiner, als das Handelsblatt zuerst berichtet hatte. (Militär, Politik)</description>
       <pubDate>Wed, 30 Sep 2026 17:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Platz 1 bei Amazon: Balkonkraftwerk mit zwei Modulen bis Sonntag für nur 209 Euro</title>
-      <link>https://www.golem.de/news/anzeige-platz-1-bei-amazon-balkonkraftwerk-mit-zwei-modulen-bis-sonntag-fuer-nur-209-euro-2609-213595.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-platz-1-bei-amazon-balkonkraftwerk-mit-zwei-modulen-bis-sonntag-fuer-nur-209-euro-2609-213595.html</guid>
-      <description>Ein bifaziales Balkonkraftwerk kostet bei Amazon nicht mal mehr 210 Euro. Es steht auf Platz 1 der einschlägigen Charts. (Balkonkraftwerk, Technik/Hardware)</description>
-      <pubDate>Wed, 30 Sep 2026 16:52:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
