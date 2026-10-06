@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 06:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 06:31:22 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis</title>
+      <link>https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-zubehoer-und-app-am-prime-day-zum-neuen-bestpreis-2610-213738.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-zubehoer-und-app-am-prime-day-zum-neuen-bestpreis-2610-213738.html</guid>
+      <description>Ob Garage oder Ferienhaus, die dé Mobile Wallbox lädt E-Autos per App gesteuert mit bis zu 11 kW und ist zum Prime Day so günstig wie nie. (Elektromobilität, Elektroauto)</description>
+      <pubDate>Tue, 06 Oct 2026 06:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Balkonkraftwerke und Speicher zum Prime-Day-Preis</title>
       <link>https://www.golem.de/news/anzeige-balkonkraftwerke-und-speicher-zum-prime-day-preis-2610-213737.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-identity-und-access-management-mit-keycloak-absichern-2609-213226.html</guid>
       <description>Identity- und Access-Management verbindet sichere Anmeldung mit kontrollierten Zugriffsrechten. Die Golem Karrierewelt vermittelt dazu Keycloak-Know-how. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Tue, 29 Sep 2026 16:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stromförderung: Knapper Strom, hohe Preise</title>
-      <link>https://www.golem.de/news/stromfoerderung-knapper-strom-hohe-preise-2609-213551.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/stromfoerderung-knapper-strom-hohe-preise-2609-213551.html</guid>
-      <description>Ein Papier der Unionsfraktion stellt die Förderung erneuerbarer Energien infrage. Das könnte die Energiepreise nach oben treiben. (Energiewende, Elektroauto)</description>
-      <pubDate>Tue, 29 Sep 2026 16:25:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
