@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 10:56:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:16:09 GMT</lastBuildDate>
+    <item>
+      <title>Forschung: KI-Agenten identifizieren neue Antiferromagneten</title>
+      <link>https://www.golem.de/news/forschung-ki-agenten-identifizieren-neue-antiferromagneten-2610-213763.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/forschung-ki-agenten-identifizieren-neue-antiferromagneten-2610-213763.html</guid>
+      <description>Ein Unternehmen für KI-Evaluierung hat zwei bei Raumtemperatur stabile antiferromagnetische Materialien entdeckt. Einen Haken haben aber beide. (Innovation &amp; Forschung, KI)</description>
+      <pubDate>Tue, 06 Oct 2026 11:12:05 GMT</pubDate>
+    </item>
     <item>
       <title>Firmen reagieren mit Umstellung: KI-Ausgaben steigen in Deutschland auf Milliardenhöhe</title>
       <link>https://www.golem.de/news/firmen-reagieren-mit-umstellung-ki-ausgaben-steigen-in-deutschland-auf-milliardenhoehe-2610-213758.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mozilla-browser-firefox-erhaelt-neues-design-und-bekommt-kompaktmodus-zurueck-2609-213571.html</guid>
       <description>Viele Firefox-Nutzer haben den Kompaktmodus in den vergangenen Jahren vermisst, nun ist er wieder da. (Firefox, Browser)</description>
       <pubDate>Wed, 30 Sep 2026 08:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Lab Report: Kleinere Leichtgewichte statt immer trägerer Giganten</title>
-      <link>https://www.golem.de/news/ai-lab-report-kleinere-leichtgewichte-statt-immer-traegerer-giganten-2609-213527.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ai-lab-report-kleinere-leichtgewichte-statt-immer-traegerer-giganten-2609-213527.html</guid>
-      <description>Unser Newsletter AI Lab Report ordnet neue KI-Entwicklungen ein. In der aktuellen Ausgabe geht es um einen Gegentrend zu immer größeren Sprachmodellen. (KI, In eigener Sache)</description>
-      <pubDate>Wed, 30 Sep 2026 08:45:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
