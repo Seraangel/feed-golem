@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 14:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:27:01 GMT</lastBuildDate>
+    <item>
+      <title>Laut Morgan Stanley: US-Rechenzentren vor massiver Energieknappheit</title>
+      <link>https://www.golem.de/news/laut-morgan-stanley-us-rechenzentren-vor-massiver-energieknappheit-2610-213777.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/laut-morgan-stanley-us-rechenzentren-vor-massiver-energieknappheit-2610-213777.html</guid>
+      <description>Trotz eigener Kraftwerke könnte ein Mangel an Energie einigen Betreibern von KI-Rechenzentren schon bald einen Strich durch die Rechnung machen. (Energie, KI)</description>
+      <pubDate>Tue, 06 Oct 2026 14:21:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Starker Saugroboter mit Wischfunktion zum Tiefpreis am Prime Day</title>
       <link>https://www.golem.de/news/anzeige-starker-saugroboter-mit-wischfunktion-zum-tiefpreis-am-prime-day-2610-213776.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-anker-solix-c2000-gen-2-mit-erweiterungsakku-jetzt-fuer-prime-mitglieder-zum-tiefpreis-2609-213590.html</guid>
       <description>Die Powerstation Anker Solix C2000 Gen 2 mit Erweiterungsakku und 4.096 Wh Kapazität ist als frühes Prime-Angebot zum Tiefpreis erhältlich. (Technik/Hardware, Powerstation)</description>
       <pubDate>Wed, 30 Sep 2026 14:07:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nach erster Verhaftung: FBI droht der Hackergruppe Shinyhunters</title>
-      <link>https://www.golem.de/news/nach-erster-verhaftung-fbi-droht-der-hackergruppe-shinyhunters-2609-213589.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nach-erster-verhaftung-fbi-droht-der-hackergruppe-shinyhunters-2609-213589.html</guid>
-      <description>Ermittler nehmen weitere mögliche Mitglieder der Shinyhunters ins Visier. Neue Informationen liefert offenbar ein Laptop eines mutmaßlichen Anführers der Gruppe. (Cybercrime, Security)</description>
-      <pubDate>Wed, 30 Sep 2026 13:49:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
