@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 11:36:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 11:46:10 GMT</lastBuildDate>
+    <item>
+      <title>Gegen Aufpreis: Mercedes EQS jetzt auch mit Steer-by-Wire erhältlich</title>
+      <link>https://www.golem.de/news/gegen-aufpreis-mercedes-eqs-jetzt-auch-mit-steer-by-wire-erhaeltlich-2610-213756.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gegen-aufpreis-mercedes-eqs-jetzt-auch-mit-steer-by-wire-erhaeltlich-2610-213756.html</guid>
+      <description>Keine mechanische Verbindung vom Lenkrad zu den Rädern: Mercedes-Benz führt bei der EQS-Limousine gegen Aufpreis das Steer-by-Wire-System ein. (Mercedes Benz, Auto)</description>
+      <pubDate>Tue, 06 Oct 2026 11:41:08 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Windows-10-Supportende: Warum mein Gaming-PC Tschüs zu Windows sagt und sich auf Linux freut</title>
       <link>https://www.golem.de/news/windows-10-supportende-warum-mein-gaming-pc-tschues-zu-windows-sagt-und-sich-auf-linux-freut-2610-213753.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/donald-trump-ki-industrie-soll-sich-selbst-regulieren-2609-213573.html</guid>
       <description>Donald Trump setzt beim Thema KI auf Selbstregulierung: Eine "moralisch bindende" Vereinbarung mit der KI-Industrie soll KI-Unfälle verhindern. (KI, Politik)</description>
       <pubDate>Wed, 30 Sep 2026 09:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>WSL: Microsoft gibt WSL-Container-Schnittstelle für alle frei</title>
-      <link>https://www.golem.de/news/wsl-microsoft-gibt-wsl-container-schnittstelle-fuer-alle-frei-2609-213572.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wsl-microsoft-gibt-wsl-container-schnittstelle-fuer-alle-frei-2609-213572.html</guid>
-      <description>Mit Containern bekommt WSL ein neues Feature. Gegenüber der Preview hat Microsoft den Funktionsumfang erweitert. (WSL, Microsoft)</description>
-      <pubDate>Wed, 30 Sep 2026 09:05:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
