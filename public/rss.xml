@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 06 Oct 2026 18:31:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:01:30 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ansible für Linux-Systeme: Deployment und Management</title>
+      <link>https://www.golem.de/news/anzeige-ansible-fuer-linux-systeme-deployment-und-management-2610-213234.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-linux-systeme-deployment-und-management-2610-213234.html</guid>
+      <description>Ansible Fundamentals erleichtern die automatisierte Verwaltung von Linux-Systemen. Die Golem Karrierewelt vermittelt den Umgang mit Playbooks, Rollen und Inventories. (Golem Karrierewelt, Open Source)</description>
+      <pubDate>Wed, 07 Oct 2026 04:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Zero Trust für Microsoft 365 systematisch umsetzen</title>
       <link>https://www.golem.de/news/anzeige-zero-trust-fuer-microsoft-365-systematisch-umsetzen-2610-213235.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-administrieren-und-haerten-2610-213227.html</guid>
       <description>Microsoft Entra ID verbindet Identitätsverwaltung und Zugriffsschutz. Die Golem Karrierewelt zeigt, wie sich hybride Strukturen administrieren, absichern und härten lassen. (Golem Karrierewelt, Sicherheitslücke)</description>
       <pubDate>Thu, 01 Oct 2026 05:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>BWI: IT-Panne trennt Reservisten von IT-Bundeswehrsystemen</title>
-      <link>https://www.golem.de/news/bwi-it-panne-trennt-reservisten-von-it-bundeswehrsystemen-2609-213596.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bwi-it-panne-trennt-reservisten-von-it-bundeswehrsystemen-2609-213596.html</guid>
-      <description>Durch eine Datenpanne sind Reservisten aus der IT der Bundeswehr ausgesperrt worden. Doch das Problem ist weitaus kleiner, als das Handelsblatt zuerst berichtet hatte. (Militär, Politik)</description>
-      <pubDate>Wed, 30 Sep 2026 17:03:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
