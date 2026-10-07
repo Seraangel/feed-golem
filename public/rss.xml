@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 10:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 10:16:13 GMT</lastBuildDate>
+    <item>
+      <title>Tech-Beschäftigte sind unzufriedener: Mehr Entwickler wechseln in die Selbstständigkeit</title>
+      <link>https://www.golem.de/news/tech-beschaeftigte-sind-unzufriedener-mehr-entwickler-wechseln-in-die-selbststaendigkeit-2610-213803.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/tech-beschaeftigte-sind-unzufriedener-mehr-entwickler-wechseln-in-die-selbststaendigkeit-2610-213803.html</guid>
+      <description>Während der Einsatz von KI weiter steigt, sinkt die Arbeitszufriedenheit von Entwicklern deutlich. (KI, Studien)</description>
+      <pubDate>Wed, 07 Oct 2026 10:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Dashcam für vorne und hinten am Prime Day für nur 47,45 Euro</title>
       <link>https://www.golem.de/news/anzeige-dashcam-fuer-vorne-und-hinten-am-prime-day-fuer-nur-47-45-euro-2610-213805.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/quality-engineers-brauchen-wir-bald-keine-softwaretester-mehr-2610-213582.html</guid>
       <description>KI kann Code schreiben und Tests automatisieren. Für QA Engineers klingt das bedrohlich. Doch ausgerechnet der KI-Boom könnte ihre Arbeit wichtiger machen. Ein Ratgebertext von Franziska Hauck (Softwareentwicklung, KI)</description>
       <pubDate>Thu, 01 Oct 2026 11:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dringendes Update: Teamviewer schließt schwerwiegende Sicherheitslücken</title>
-      <link>https://www.golem.de/news/dringendes-update-teamviewer-schliesst-schwerwiegende-sicherheitsluecken-2610-213615.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/dringendes-update-teamviewer-schliesst-schwerwiegende-sicherheitsluecken-2610-213615.html</guid>
-      <description>Sie erlauben auch das Einschleusen und Ausführen von Schadcode aus der Ferne. Es lassen sich zudem Zugriffsbeschränkungen für Teamviewer-Sitzungen umgehen. (Sicherheitslücke, Fernwartung)</description>
-      <pubDate>Thu, 01 Oct 2026 11:09:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
