@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 09:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:51:05 GMT</lastBuildDate>
+    <item>
+      <title>Fehlersuche per KI: IBM und Red Hat finden mehr als 400 Bugs in Java Code</title>
+      <link>https://www.golem.de/news/fehlersuche-per-ki-ibm-und-red-hat-finden-mehr-als-400-bugs-in-java-code-2610-213801.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fehlersuche-per-ki-ibm-und-red-hat-finden-mehr-als-400-bugs-in-java-code-2610-213801.html</guid>
+      <description>Das gemeinsame Projekt Lightwell nutzt KI-Agenten zum Aufspüren von Schwachstellen in Open-Source-Software - und zur Entwicklung der benötigten Patches. (Sicherheitslücke, IBM)</description>
+      <pubDate>Wed, 07 Oct 2026 09:50:03 GMT</pubDate>
+    </item>
     <item>
       <title>Forschung &amp; KI: OpenAI veröffentlicht Lösungen für 372 Mathe-Probleme</title>
       <link>https://www.golem.de/news/forschung-ki-openai-veroeffentlicht-loesungen-fuer-372-mathe-probleme-2610-213798.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/angeblich-pilotprojekte-meta-nutzt-ki-rechenzentren-als-steuersparmodell-2610-213605.html</guid>
       <description>Metas KI-Rechenzentren sind angeblich Grundlagenforschung. Das spart Steuern, aber die eigene Buchhaltung zweifelt an der Legalität. (Meta, KI)</description>
       <pubDate>Thu, 01 Oct 2026 10:55:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Golem Karrierewelt: Heute Golem-Podcast: Leben als IT-Freiberufler</title>
-      <link>https://www.golem.de/news/golem-karrierewelt-heute-golem-podcast-leben-als-it-freiberufler-2610-213505.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/golem-karrierewelt-heute-golem-podcast-leben-als-it-freiberufler-2610-213505.html</guid>
-      <description>IT-Freiberuflichkeit bietet Freiheit und spannende Projekte, bringt aber auch Akquise und unternehmerische Verantwortung mit sich. Aaron Siller und Karsten Hentrup berichten aus der Praxis. (IT-Freelancer, Betriebssysteme)</description>
-      <pubDate>Thu, 01 Oct 2026 10:44:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
