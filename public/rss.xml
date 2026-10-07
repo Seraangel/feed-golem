@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 04:01:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 05:26:09 GMT</lastBuildDate>
+    <item>
+      <title>August Hanning: Ex-BND-Chef soll Analyse für Aserbaidschan verfasst haben</title>
+      <link>https://www.golem.de/news/august-hanning-ex-bnd-chef-soll-analyse-fuer-aserbaidschan-verfasst-haben-2610-213786.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/august-hanning-ex-bnd-chef-soll-analyse-fuer-aserbaidschan-verfasst-haben-2610-213786.html</guid>
+      <description>Die Vorwürfe gegen Ex-BND-Chef August Hanning weiten sich aus. Ermittler prüfen, ob geheime Unterlagen für Analysen für Aserbaidschan genutzt wurden. (BND, Politik)</description>
+      <pubDate>Wed, 07 Oct 2026 05:23:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ansible für Linux-Systeme: Deployment und Management</title>
       <link>https://www.golem.de/news/anzeige-ansible-fuer-linux-systeme-deployment-und-management-2610-213234.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sparprogramm-vw-kuendigt-tarifvertraege-2610-213598.html</guid>
       <description>VW hat mehrere Haustarifverträge zum Jahresende gekündigt. Mehr als 100.000 Beschäftigte könnten betroffen sein, die Gewerkschaft kündigt Widerstand an. (VW, Wirtschaft)</description>
       <pubDate>Thu, 01 Oct 2026 05:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Entra ID sicher administrieren und härten</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-administrieren-und-haerten-2610-213227.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-sicher-administrieren-und-haerten-2610-213227.html</guid>
-      <description>Microsoft Entra ID verbindet Identitätsverwaltung und Zugriffsschutz. Die Golem Karrierewelt zeigt, wie sich hybride Strukturen administrieren, absichern und härten lassen. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Thu, 01 Oct 2026 05:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
