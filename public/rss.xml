@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 09:31:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:41:13 GMT</lastBuildDate>
+    <item>
+      <title>Forschung &amp; KI: OpenAI veröffentlicht Lösungen für 372 Mathe-Probleme</title>
+      <link>https://www.golem.de/news/forschung-ki-openai-veroeffentlicht-loesungen-fuer-372-mathe-probleme-2610-213798.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/forschung-ki-openai-veroeffentlicht-loesungen-fuer-372-mathe-probleme-2610-213798.html</guid>
+      <description>OpenAI hat Hunderte Dokumente zu mathematischen Problemen veröffentlicht. Darunter ist ein weiteres Millenium-Problem. (Innovation &amp; Forschung, KI)</description>
+      <pubDate>Wed, 07 Oct 2026 09:38:10 GMT</pubDate>
+    </item>
     <item>
       <title>Warhorse Studios: KCD2-Entwickler warnt vor falschen Hoffnungen bei KI</title>
       <link>https://www.golem.de/news/warhorse-studios-kcd2-entwickler-warnt-vor-falschen-hoffnungen-bei-ki-2610-213800.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/golem-karrierewelt-heute-golem-podcast-leben-als-it-freiberufler-2610-213505.html</guid>
       <description>IT-Freiberuflichkeit bietet Freiheit und spannende Projekte, bringt aber auch Akquise und unternehmerische Verantwortung mit sich. Aaron Siller und Karsten Hentrup berichten aus der Praxis. (IT-Freelancer, Betriebssysteme)</description>
       <pubDate>Thu, 01 Oct 2026 10:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ohne Netzausbau: Batteriespeicher schaffen Platz im Stromnetz</title>
-      <link>https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/stromsimulator-batteriespeicher-schaffen-platz-im-stromnetz-2610-213609.html</guid>
-      <description>Simulationen mit mehr Großspeichern im deutschen Stromnetz zeigen, dass der Strompreis insgesamt sinkt. Ein anderer Effekt ist noch wichtiger. (Akku, Windkraft)</description>
-      <pubDate>Thu, 01 Oct 2026 10:42:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
