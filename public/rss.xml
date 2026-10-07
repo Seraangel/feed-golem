@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 07:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:56:07 GMT</lastBuildDate>
+    <item>
+      <title>Windows-Chef: 3D-Pinball kommt vielleicht für Windows 11</title>
+      <link>https://www.golem.de/news/windows-chef-3d-pinball-kommt-vielleicht-fuer-windows-11-2610-213793.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-chef-3d-pinball-kommt-vielleicht-fuer-windows-11-2610-213793.html</guid>
+      <description>Der 25. Geburtstag von Windows XP Ende Oktober wäre ein guter Zeitpunkt für eine Hommage an Space Cadet Pinball. (Windows 11, Microsoft)</description>
+      <pubDate>Wed, 07 Oct 2026 07:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Fahrradcomputer mit Navigation am Prime Day günstig wie nie</title>
+      <link>https://www.golem.de/news/anzeige-fahrradcomputer-mit-navigation-am-prime-day-guenstig-wie-nie-2610-213792.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fahrradcomputer-mit-navigation-am-prime-day-guenstig-wie-nie-2610-213792.html</guid>
+      <description>Einen Fahrradcomputer mit Routen- und Kartennavigation, Dualband-GPS und ANT+ gibt es am Prime Day bei Amazon zum neuen Tiefstpreis. (Technik/Hardware, GPS)</description>
+      <pubDate>Wed, 07 Oct 2026 07:51:04 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Abos: Claude-Abos bieten laut Analyse mehr Gegenwert als OpenAI</title>
       <link>https://www.golem.de/news/ki-abos-claude-abos-bieten-laut-analyse-mehr-gegenwert-als-openai-2610-213791.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sd-wan-manager-cisco-warnt-vor-angriffen-auf-zero-day-luecke-2610-213606.html</guid>
       <description>Sie erlaubt das Umgehen der Authentifizierung. Unbefugte erhalten Zugriff auf den SD‑WAN-Manager mit Administratorrechten. (Sicherheitslücke, API)</description>
       <pubDate>Thu, 01 Oct 2026 08:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Canon PG-545 + CL-546 Druckertinte samt Fotopapier jetzt unter 36 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-canon-pg-545-cl-546-druckertinte-samt-fotopapier-jetzt-unter-36-euro-bei-amazon-2610-213604.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-canon-pg-545-cl-546-druckertinte-samt-fotopapier-jetzt-unter-36-euro-bei-amazon-2610-213604.html</guid>
-      <description>Canon PG-545 und CL-546 gibt es jetzt reduziert, und zusätzlich enthält das Set 50 Blatt Hochglanz-Fotopapier für den Pixma-Drucker. (Technik/Hardware, Canon)</description>
-      <pubDate>Thu, 01 Oct 2026 08:34:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI: Google stellt Gemini 4 Argon vor</title>
-      <link>https://www.golem.de/news/ki-google-stellt-gemini-4-argon-vor-2610-213603.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-google-stellt-gemini-4-argon-vor-2610-213603.html</guid>
-      <description>Gemini 4 Argon soll leistungsfähiger und vor allem sicherer sein. Bis Endnutzer Googles neue KI verwenden können, wird es noch dauern. (KI, Google)</description>
-      <pubDate>Thu, 01 Oct 2026 08:10:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
