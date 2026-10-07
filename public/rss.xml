@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 07:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 08:06:07 GMT</lastBuildDate>
+    <item>
+      <title>32 Monate Haft: Ehemaliger IT-Techniker hackt System seines Arbeitsgebers</title>
+      <link>https://www.golem.de/news/32-monate-haft-ehemaliger-it-techniker-hackt-system-seines-arbeitsgebers-2610-213794.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/32-monate-haft-ehemaliger-it-techniker-hackt-system-seines-arbeitsgebers-2610-213794.html</guid>
+      <description>Per Fernzugriff hat er Passwörter von Admin-Konten geändert und Hunderte Rechner gesperrt - und damit versucht, rund 750.000 Dollar zu erpressen. (Cybercrime, Computer)</description>
+      <pubDate>Wed, 07 Oct 2026 08:05:05 GMT</pubDate>
+    </item>
     <item>
       <title>Windows-Chef: 3D-Pinball kommt vielleicht für Windows 11</title>
       <link>https://www.golem.de/news/windows-chef-3d-pinball-kommt-vielleicht-fuer-windows-11-2610-213793.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/revolut-zahlt-kein-loesegeld-hackergruppe-erpresst-revolut-kunden-direkt-2610-213607.html</guid>
       <description>Nachdem Revolut auf die Millionen-Lösegeldforderung nicht eingegangen ist, werden Kunden direkt erpresst. Es geht um vertrauliche Daten. (Revolut, Datenschutz)</description>
       <pubDate>Thu, 01 Oct 2026 09:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>SD-WAN-Manager: Cisco warnt vor Angriffen auf Zero-Day-Lücke</title>
-      <link>https://www.golem.de/news/sd-wan-manager-cisco-warnt-vor-angriffen-auf-zero-day-luecke-2610-213606.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sd-wan-manager-cisco-warnt-vor-angriffen-auf-zero-day-luecke-2610-213606.html</guid>
-      <description>Sie erlaubt das Umgehen der Authentifizierung. Unbefugte erhalten Zugriff auf den SD‑WAN-Manager mit Administratorrechten. (Sicherheitslücke, API)</description>
-      <pubDate>Thu, 01 Oct 2026 08:58:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
