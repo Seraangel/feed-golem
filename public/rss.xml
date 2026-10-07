@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 09:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:16:09 GMT</lastBuildDate>
+    <item>
+      <title>IT-Sicherheit: Modat findet Tausende offene Systeme in Wind- und Solarparks</title>
+      <link>https://www.golem.de/news/it-sicherheit-modat-findet-tausende-offene-systeme-in-wind-und-solarparks-2610-213797.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-modat-findet-tausende-offene-systeme-in-wind-und-solarparks-2610-213797.html</guid>
+      <description>Modat hat in Europa 8.547 erreichbare Systeme von Wind- und Solarparks gefunden. Manche steuern einen ganzen Windpark. (Sicherheitslücke, Security)</description>
+      <pubDate>Wed, 07 Oct 2026 09:12:08 GMT</pubDate>
+    </item>
     <item>
       <title>Karen Paul von Greenpeace: "Ich nenne dich auch nicht Marketing-Heini"</title>
       <link>https://www.golem.de/news/karen-paul-von-greenpeace-ich-nenne-dich-auch-nicht-marketing-heini-2610-213713.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-google-pixel-watch-5-als-frueher-prime-deal-zum-bestpreis-nur-352-euro-2610-213612.html</guid>
       <description>Die Google Pixel Watch 5 war bei Amazon noch nie so günstig, dabei ist die Smartwatch mit Gemini-Coach und Schlafindex brandneu. (Technik/Hardware, Smartwatch)</description>
       <pubDate>Thu, 01 Oct 2026 10:18:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mispel-Regulierung: Deutliche Erleichterungen für bidirektionales Laden</title>
-      <link>https://www.golem.de/news/mispel-regulierung-deutliche-erleichterungen-fuer-bidirektionales-laden-2610-213610.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mispel-regulierung-deutliche-erleichterungen-fuer-bidirektionales-laden-2610-213610.html</guid>
-      <description>Die Bundesnetzagentur regelt erstmals das bidirektionale Laden. Damit können Speicher und E-Autos einfach eingebunden und abgerechnet werden. Ein Bericht von Friedhelm Greis (Elektromobilität, Elektroauto)</description>
-      <pubDate>Thu, 01 Oct 2026 10:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
