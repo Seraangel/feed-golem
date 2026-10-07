@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 07:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 07:41:07 GMT</lastBuildDate>
+    <item>
+      <title>KI-Abos: Claude-Abos bieten laut Analyse mehr Gegenwert als OpenAI</title>
+      <link>https://www.golem.de/news/ki-abos-claude-abos-bieten-laut-analyse-mehr-gegenwert-als-openai-2610-213791.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-abos-claude-abos-bieten-laut-analyse-mehr-gegenwert-als-openai-2610-213791.html</guid>
+      <description>Semianalysis hat KI-Abos getestet. Bei den mittleren Modellen liefert Anthropic demnach etwa fünfmal mehr Gegenwert als OpenAI. (KI, API)</description>
+      <pubDate>Wed, 07 Oct 2026 07:38:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 20 Jahre OSMC - Monitoring aus der Praxis</title>
       <link>https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-aus-der-praxis-2610-213785.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-google-stellt-gemini-4-argon-vor-2610-213603.html</guid>
       <description>Gemini 4 Argon soll leistungsfähiger und vor allem sicherer sein. Bis Endnutzer Googles neue KI verwenden können, wird es noch dauern. (KI, Google)</description>
       <pubDate>Thu, 01 Oct 2026 08:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hetzner, OVH und Co.: Der Zustand europäischer Cloudprovider im Jahr 2026</title>
-      <link>https://www.golem.de/news/hetzner-ovh-und-co-der-zustand-europaeischer-cloudprovider-im-jahr-2026-2610-213580.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hetzner-ovh-und-co-der-zustand-europaeischer-cloudprovider-im-jahr-2026-2610-213580.html</guid>
-      <description>In diesem Vergleich zwölf europäischer Cloudanbieter hat es überraschend viele Hürden gegeben und einige echte Enttäuschungen - doch am Ende einen klaren Sieger. Von Ivan Ostric (Souveränität, Server)</description>
-      <pubDate>Thu, 01 Oct 2026 07:35:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
