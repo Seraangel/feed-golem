@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 13:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:26:36 GMT</lastBuildDate>
+    <item>
+      <title>Linux-Desktop Cosmic: System76 schließt KI-Inhalte aus Pull-Requests aus</title>
+      <link>https://www.golem.de/news/linux-desktop-cosmic-system76-schliesst-ki-inhalte-aus-pull-requests-aus-2610-213822.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/linux-desktop-cosmic-system76-schliesst-ki-inhalte-aus-pull-requests-aus-2610-213822.html</guid>
+      <description>Die Akzeptanz für KI fällt in der Linux-Community unterschiedlich aus. Ein Gnome-Entwickler fordert, zumindest Fehlerberichte zuzulassen. (KI, Gnome)</description>
+      <pubDate>Wed, 07 Oct 2026 13:21:04 GMT</pubDate>
+    </item>
     <item>
       <title>Schädlich fürs Fach: Fields-Medaillen-Gewinner kritisiert OpenAIs Mathe-Paper</title>
       <link>https://www.golem.de/news/schaedlich-fuers-fach-fields-medaillen-gewinner-kritisiert-openais-mathe-paper-2610-213818.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ryzen-7-mini-pc-in-retro-optik-fuer-weniger-als-560-euro-bei-amazon-2610-213631.html</guid>
       <description>Der Acemagic Retro X3 kommt mit einem Ryzen 7 H 255, 16 GByte RAM und einer 1-TByte-SSD. Amazon verlangt aktuell weniger als 560 Euro für den Mini-PC. (PC, Computer)</description>
       <pubDate>Thu, 01 Oct 2026 16:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bundesnetzagentur: Neue Vorbereitung für Huawei-Verbot ohne technische Begründung</title>
-      <link>https://www.golem.de/news/tris-portal-bundesnetzagentur-bereitet-verbot-von-huawei-mobilfunktechnik-ohne-technische-begruendung-vor-2610-213630.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/tris-portal-bundesnetzagentur-bereitet-verbot-von-huawei-mobilfunktechnik-ohne-technische-begruendung-vor-2610-213630.html</guid>
-      <description>Die Bundesnetzagentur will gegen den Widerstand der drei Netzbetreiber Huawei-Mobilfunkantennen verbieten. Die Behörde verweigert Antworten zur technischen Begründung. Eine Analyse von Achim Sawall (Huawei, Mobilfunk)</description>
-      <pubDate>Thu, 01 Oct 2026 16:20:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
