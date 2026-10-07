@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 08:51:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 09:06:14 GMT</lastBuildDate>
+    <item>
+      <title>Karen Paul von Greenpeace: "Ich nenne dich auch nicht Marketing-Heini"</title>
+      <link>https://www.golem.de/news/karen-paul-von-greenpeace-ich-nenne-dich-auch-nicht-marketing-heini-2610-213713.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/karen-paul-von-greenpeace-ich-nenne-dich-auch-nicht-marketing-heini-2610-213713.html</guid>
+      <description>Wie bringt Greenpeace KI, Nachhaltigkeit und IT-Sicherheit zusammen? CIO Karen Paul erklärt es in der aktuellen Ausgabe unseres Newsletters Chefs von Devs - und räumt auch mit einem Nerd-Klischee auf. (Klima &amp; Umwelt, KI)</description>
+      <pubDate>Wed, 07 Oct 2026 09:03:05 GMT</pubDate>
+    </item>
     <item>
       <title>Apple und Siri-KI: Smart-Home-Hub, neues Apple TV und neuer Homepod Mini kommen</title>
       <link>https://www.golem.de/news/apple-und-siri-ki-smart-home-hub-neues-apple-tv-und-neuer-homepod-mini-kommen-2610-213796.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mispel-regulierung-deutliche-erleichterungen-fuer-bidirektionales-laden-2610-213610.html</guid>
       <description>Die Bundesnetzagentur regelt erstmals das bidirektionale Laden. Damit können Speicher und E-Autos einfach eingebunden und abgerechnet werden. Ein Bericht von Friedhelm Greis (Elektromobilität, Elektroauto)</description>
       <pubDate>Thu, 01 Oct 2026 10:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI in der Wirkstoffforschung: Was Pharmakonzerne bei kleinen KI-Biotechs einkaufen</title>
-      <link>https://www.golem.de/news/ki-in-der-wirkstoffforschung-was-pharmakonzerne-bei-kleinen-ki-biotechs-einkaufen-2610-213546.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-in-der-wirkstoffforschung-was-pharmakonzerne-bei-kleinen-ki-biotechs-einkaufen-2610-213546.html</guid>
-      <description>Große Pharmafirmen stecken viel Geld in Kooperationen mit kleinen Biotechfirmen, obwohl die oft kaum Umsatz machen. Warum? Eine große Rolle spielt KI in der Wirkstoffforschung. Ein Bericht von Björn Meschkat (KI, Nvidia)</description>
-      <pubDate>Thu, 01 Oct 2026 10:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
