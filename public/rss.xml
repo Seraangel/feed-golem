@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 07 Oct 2026 16:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:03:22 GMT</lastBuildDate>
+    <item>
+      <title>Finanzierungsrunde: Deepseek nimmt erheblich mehr ein als erwartet</title>
+      <link>https://www.golem.de/news/finanzierungsrunde-deepseek-nimmt-erheblich-mehr-ein-als-erwartet-2610-213840.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/finanzierungsrunde-deepseek-nimmt-erheblich-mehr-ein-als-erwartet-2610-213840.html</guid>
+      <description>Mit einer massiven Finanzierung und Partnern wie Tencent und CATL treibt das chinesische KI-Start-up Deepseek seine Unabhängigkeit voran. (Deepseek, API)</description>
+      <pubDate>Wed, 07 Oct 2026 17:01:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anhörung zu Vorratsdatenspeicherung: Ermittler fordern Zugriff auf Inhaltsdaten bei Quick-Freeze</title>
       <link>https://www.golem.de/news/anhoerung-zu-vorratsdatenspeicherung-ermittler-fordern-zugriff-auf-inhaltsdaten-bei-quick-freeze-2610-213839.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/neue-kolumne-gewissenskonflikt-ist-vibecoding-okay-oder-nur-wenn-ich-es-mache-2610-213613.html</guid>
       <description>Ich lasse mir selbst ab und zu Code und Bilder von KI generieren. Über KI-Slop darf ich mich trotzdem aufregen. Oder? Eine Kolumne von Tim Reinboth (Gewissenskonflikt, KI)</description>
       <pubDate>Fri, 02 Oct 2026 10:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google-Analyse: Weltraumrechenzentren wohl nicht vor 2035 kosteneffizient</title>
-      <link>https://www.golem.de/news/google-analyse-weltraumrechenzentren-wohl-nicht-vor-2035-kosteneffizient-2610-213644.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/google-analyse-weltraumrechenzentren-wohl-nicht-vor-2035-kosteneffizient-2610-213644.html</guid>
-      <description>Google hat seinen ersten KI-Satelliten gestartet. Aufgrund der Startkosten bleiben irdische Rechenzentren aber wohl auf Jahre günstiger. (Weltall, Google)</description>
-      <pubDate>Fri, 02 Oct 2026 09:43:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
