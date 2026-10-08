@@ -11,7 +11,7 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 08:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:31:16 GMT</lastBuildDate>
     <item>
       <title>Drohnen: Ukraine trifft Yandex-Rechenzentrum in Russland</title>
       <link>https://www.golem.de/news/drohnen-ukraine-trifft-yandex-rechenzentrum-in-russland-2610-213856.html</link>
@@ -48,10 +48,10 @@
       <pubDate>Thu, 08 Oct 2026 07:00:06 GMT</pubDate>
     </item>
     <item>
-      <title>Hybrid Intelligence: Microsoft öffnet Copilot den Zugriff auf Windows-Dateien</title>
+      <title>Hybrid Intelligence: Microsoft lässt Copilot an Windows-Dateien arbeiten</title>
       <link>https://www.golem.de/news/hybrid-intelligence-microsoft-oeffnet-copilot-den-zugriff-auf-windows-dateien-2610-213852.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/hybrid-intelligence-microsoft-oeffnet-copilot-den-zugriff-auf-windows-dateien-2610-213852.html</guid>
-      <description>Copilot soll in Windows auf lokale Dateien zugreifen. Agenten laufen in Sandboxes, die KI-Modelle lokal oder in der Cloud. (Copilot, Microsoft)</description>
+      <description>KI-Agenten sollen Dateien in einer Sandbox bearbeiten können. Microsoft will den Zugriff dabei kontrollierbar halten. (Copilot, Microsoft)</description>
       <pubDate>Thu, 08 Oct 2026 06:59:04 GMT</pubDate>
     </item>
     <item>
