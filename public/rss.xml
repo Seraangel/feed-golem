@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 15:46:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:01:37 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Künstliche Intelligenz: China baut im Wettlauf um die KI-Vorherrschaft in hohem Tempo Rechenzentren</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-china-baut-im-wettlauf-um-die-ki-vorherrschaft-in-hohem-tempo-rechenzentren-2610-213893.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-china-baut-im-wettlauf-um-die-ki-vorherrschaft-in-hohem-tempo-rechenzentren-2610-213893.html</guid>
+      <description>Lesetipp der Redaktion: Die Financial-Times-Autoren Eleanor Olcott und Zijing Wu zeigen in ihrer Vor-Ort-Recherche, wie China ganze Rechenzentrumsstädte hochzieht. Von Eleanor Olcott und Zijing Wu (Rechenzentrum, KI)</description>
+      <pubDate>Thu, 08 Oct 2026 16:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft: Xbox gründet neue Sparte für Filme, Serien und Freizeitparks</title>
       <link>https://www.golem.de/news/microsoft-xbox-gruendet-neue-sparte-fuer-filme-serien-und-freizeitparks-2610-213895.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-metas-muse-legt-profile-ueber-freunde-und-familie-an-2610-213693.html</guid>
       <description>Metas KI-Assistent Muse führt Seiten über Familie, Partner und Freunde. Forscher haben die Anweisungen dafür ausgelesen. (KI, Datenschutz)</description>
       <pubDate>Mon, 05 Oct 2026 07:08:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: So lernt die FRITZ!Box Zigbee</title>
-      <link>https://www.golem.de/news/anzeige-so-lernt-die-fritz-box-zigbee-2610-213481.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-so-lernt-die-fritz-box-zigbee-2610-213481.html</guid>
-      <description>Aktuelle FRITZ!Box-Modelle verfügen über den Smart-Home-Standard Zigbee. Aber wie kommt die Technologie in die FRITZ!Box? Stella und Patrick aus der Softwareentwicklung erklären. (Fritzbox, AVM)</description>
-      <pubDate>Mon, 05 Oct 2026 07:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
