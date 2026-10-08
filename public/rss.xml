@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 13:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:41:49 GMT</lastBuildDate>
+    <item>
+      <title>Konferenz gegen Desinformation: USA drängen EU und Kanada zum Rückzug ihres Sponsorings</title>
+      <link>https://www.golem.de/news/konferenz-gegen-desinformation-usa-draengen-eu-und-kanada-zum-rueckzug-ihres-sponsorings-2610-213885.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/konferenz-gegen-desinformation-usa-draengen-eu-und-kanada-zum-rueckzug-ihres-sponsorings-2610-213885.html</guid>
+      <description>Dem US-Außenministerium wird nun vorgeworfen, US-Amerikaner an kritischen Äußerungen über die eigene Regierung hindern zu wollen. (Meinungsfreiheit, Politik)</description>
+      <pubDate>Thu, 08 Oct 2026 13:38:06 GMT</pubDate>
+    </item>
     <item>
       <title>Gefährliche E-Mail-Anhänge: Outlook blockiert MSIX-Dateien</title>
       <link>https://www.golem.de/news/gefaehrliche-e-mail-anhaenge-outlook-blockiert-msix-dateien-2610-213884.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smartphone-apple-ermoeglicht-beim-iphone-duo-displayfolienwechsel-2610-213689.html</guid>
       <description>Apple plant für das faltbare iPhone Duo eine auswechselbare Schutzschicht für das Display. (iPhone Duo, Display)</description>
       <pubDate>Mon, 05 Oct 2026 05:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Power Automate: Prozesse mit Flows automatisieren</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-power-automate-prozesse-mit-flows-automatisieren-2610-213232.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-power-automate-prozesse-mit-flows-automatisieren-2610-213232.html</guid>
-      <description>Microsoft Power Automate automatisiert wiederkehrende Abläufe in Microsoft 365. Ein Online-Workshop vermittelt die Arbeit mit Flows, Triggern und Connectoren. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Mon, 05 Oct 2026 05:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
