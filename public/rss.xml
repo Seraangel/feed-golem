@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 08:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:21:06 GMT</lastBuildDate>
+    <item>
+      <title>Chinesische Wechselrichter: Nur ein Hack bis zum Blackout</title>
+      <link>https://www.golem.de/news/chinesische-wechselrichter-nur-ein-hack-bis-zum-blackout-2610-213859.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chinesische-wechselrichter-nur-ein-hack-bis-zum-blackout-2610-213859.html</guid>
+      <description>250.000 Solaranlagen in Deutschland nutzen Wechselrichter mit einer kritischen Sicherheitslücke. Ein Kollaps des Stromnetzes wäre einfach. (Blackout, Solarenergie)</description>
+      <pubDate>Thu, 08 Oct 2026 09:16:15 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ugreen FineTrack Slim Tracker-Karte für die Geldbörse unter 18 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ugreen-finetrack-slim-tracker-karte-fuer-die-geldboerse-unter-18-euro-bei-amazon-2610-213858.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-logitech-g502-x-plus-zum-tiefstpreis-kabellose-gaming-maus-fuer-79-euro-2610-213663.html</guid>
       <description>Amazon verkauft die Logitech G502 X Plus Lightspeed für 79 Euro und damit laut Preisvergleich zum Tiefstpreis. Die kabellose Gaming-Maus bietet einen Hero-25K-Sensor, 13 programmierbare Bedienelemente und RGB-Beleuchtung. (Maus, Amazon)</description>
       <pubDate>Fri, 02 Oct 2026 15:09:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheit: OpenAIs KI-Agenten sind bei über 100 Organisationen eingedrungen</title>
-      <link>https://www.golem.de/news/sicherheit-openais-ki-agenten-sind-bei-ueber-100-organisationen-eingedrungen-2610-213664.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-openais-ki-agenten-sind-bei-ueber-100-organisationen-eingedrungen-2610-213664.html</guid>
-      <description>Im Rahmen einer internen Untersuchung hat OpenAI festgestellt, dass mehr Organisationen von KI-Angriffen betroffen waren als gedacht. (OpenAI, KI)</description>
-      <pubDate>Fri, 02 Oct 2026 15:07:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
