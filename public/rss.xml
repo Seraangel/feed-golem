@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 12:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:11:19 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Garmin-Bestseller mit GPS, Laufcoach und elf Tagen Akku für 175 Euro im Deal</title>
+      <link>https://www.golem.de/news/anzeige-garmin-bestseller-mit-gps-laufcoach-und-elf-tagen-akku-fuer-175-euro-im-deal-2610-213879.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-garmin-bestseller-mit-gps-laufcoach-und-elf-tagen-akku-fuer-175-euro-im-deal-2610-213879.html</guid>
+      <description>Die Garmin Forerunner 165 ist bei Amazon der Bestseller Nr. 1 unter den GPS-Sportuhren. AMOLED, Laufcoach und mehr gibt es für 179 Euro. (Wearable, GPS)</description>
+      <pubDate>Thu, 08 Oct 2026 12:09:11 GMT</pubDate>
+    </item>
     <item>
       <title>1&amp;1: GMX Mobile vermarktet neue Tarife mit Cloudspeicher</title>
       <link>https://www.golem.de/news/1-1-gmx-mobile-vermarktet-neue-tarife-mit-cloudspeicher-2610-213876.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/speicherkrise-kleine-raspberry-pis-werden-teurer-dgx-spark-mit-weniger-ram-2610-213680.html</guid>
       <description>Die Speicherkrise sorgt weiter für steigende Preise. Bislang verschonte Raspberry Pis werden teurer, Nvidias KI-Desktop kommt als kleinere Version. (RAM, Nvidia)</description>
       <pubDate>Sun, 04 Oct 2026 08:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Website-Monitoring: http-Statuscode 200 und trotzdem kaputt</title>
-      <link>https://www.golem.de/news/website-monitoring-http-statuscode-200-und-trotzdem-kaputt-2610-213670.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/website-monitoring-http-statuscode-200-und-trotzdem-kaputt-2610-213670.html</guid>
-      <description>Das Dashboard zeigt Grün, trotzdem landen Beschwerden im Postfach. Website-Monitoring soll solche Überraschungen verhindern - doch auch die Werkzeuge haben blinde Flecken. Ein Ratgebertext von Fabian Deitelhoff (Software, API)</description>
-      <pubDate>Sun, 04 Oct 2026 08:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
