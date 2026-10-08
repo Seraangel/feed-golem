@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 16:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:46:46 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: LPIC-1: Linux-Wissen für die Zertifizierung vertiefen</title>
+      <link>https://www.golem.de/news/anzeige-lpic-1-linux-wissen-fuer-die-zertifizierung-vertiefen-2610-213842.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-lpic-1-linux-wissen-fuer-die-zertifizierung-vertiefen-2610-213842.html</guid>
+      <description>LPIC-1 verlangt Kenntnisse in mehreren Bereichen der Linux-Administration. Ein Online-Workshop vertieft vorhandenes Wissen für die beiden Prüfungen. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Thu, 08 Oct 2026 16:45:04 GMT</pubDate>
+    </item>
     <item>
       <title>Robert Half Gehaltsübersicht 2027: Wer KI gut kann, verdient mehr</title>
       <link>https://www.golem.de/news/robert-half-gehaltsuebersicht-2027-wer-ki-gut-kann-verdient-mehr-2610-213896.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-welt-soll-laut-altman-einige-schlechte-ki-folgen-hinnehmen-2610-213692.html</guid>
       <description>Die Welt solle einige schlechte KI-Folgen hinnehmen, sagt OpenAI-Chef Altman. Bei den Regeln sieht er einen deutlichen Abstand zu Anthropic. (OpenAI, KI)</description>
       <pubDate>Mon, 05 Oct 2026 07:53:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Aufsicht: Trumps "Super Intelligence Force" wird von Geheimdienstler geleitet</title>
-      <link>https://www.golem.de/news/ki-aufsichts-trumps-super-intelligence-force-wird-von-geheimdienstler-geleitet-2610-213694.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-aufsichts-trumps-super-intelligence-force-wird-von-geheimdienstler-geleitet-2610-213694.html</guid>
-      <description>Der US-Geheimdienstkoordinator wird Chef von Donald Trumps KI-Aufsicht. Diese nennt der US-Präsident "Super Intelligence Force". (KI, Politik)</description>
-      <pubDate>Mon, 05 Oct 2026 07:36:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
