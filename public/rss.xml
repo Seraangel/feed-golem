@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 10:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:16:19 GMT</lastBuildDate>
+    <item>
+      <title>Playground: Bei Google kann man jetzt Spiele per KI basteln</title>
+      <link>https://www.golem.de/news/playground-bei-google-kann-man-jetzt-spiele-per-ki-basteln-2610-213867.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/playground-bei-google-kann-man-jetzt-spiele-per-ki-basteln-2610-213867.html</guid>
+      <description>Mit Playground können Nutzer ohne Programmierkenntnisse eigene Spiele entwickeln. Zusammen mit Unity plant Google leistungsfähigere Werkzeuge. (Google, KI)</description>
+      <pubDate>Thu, 08 Oct 2026 10:10:09 GMT</pubDate>
+    </item>
     <item>
       <title>EU prüft neue Konzernabgabe: Allgemeine Steuer soll US-Technologiekonzerne treffen</title>
       <link>https://www.golem.de/news/eu-prueft-neue-konzernabgabe-allgemeine-steuer-soll-us-technologiekonzerne-treffen-2610-213866.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/defense-radar-die-probleme-des-f-35-programms-2610-213653.html</guid>
       <description>In unserem Videoformat Defense Radar geben wir Einblicke in Militärtechnik. Diesmal wirft unser Autor einen kritischen Blick auf das F-35-Programm. (Militär, Politik)</description>
       <pubDate>Sat, 03 Oct 2026 08:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digitale Souveränität: EU-Mitarbeiter kritisieren Teams-Backup Element Pro</title>
-      <link>https://www.golem.de/news/digitale-souveraenitaet-eu-mitarbeiter-kritisieren-teams-backup-element-pro-2610-213671.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-eu-mitarbeiter-kritisieren-teams-backup-element-pro-2610-213671.html</guid>
-      <description>Die EU-Kommission testet Element Pro als Backup für Teams. Einige Mitarbeiter halten die Software für schlecht. (Souveränität, Unternehmenssoftware)</description>
-      <pubDate>Sat, 03 Oct 2026 08:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
