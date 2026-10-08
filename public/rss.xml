@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 15:41:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:46:23 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft: Xbox gründet neue Sparte für Filme, Serien und Freizeitparks</title>
+      <link>https://www.golem.de/news/microsoft-xbox-gruendet-neue-sparte-fuer-filme-serien-und-freizeitparks-2610-213895.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-xbox-gruendet-neue-sparte-fuer-filme-serien-und-freizeitparks-2610-213895.html</guid>
+      <description>Mit der neuen Entertainment-Sparte XP will Microsoft seine Spielemarken stärker außerhalb des Gaming-Markts etablieren. (Spielekonsole, Microsoft)</description>
+      <pubDate>Thu, 08 Oct 2026 15:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Echo Show 11 und viele weitere Amazon-Geräte noch zum Prime-Day-Preis verfügbar</title>
       <link>https://www.golem.de/news/anzeige-echo-show-11-und-viele-weitere-amazon-geraete-noch-zum-prime-day-preis-verfuegbar-2610-213889.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-so-lernt-die-fritz-box-zigbee-2610-213481.html</guid>
       <description>Aktuelle FRITZ!Box-Modelle verfügen über den Smart-Home-Standard Zigbee. Aber wie kommt die Technologie in die FRITZ!Box? Stella und Patrick aus der Softwareentwicklung erklären. (Fritzbox, AVM)</description>
       <pubDate>Mon, 05 Oct 2026 07:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fünf Jahre Windows 11: Auf dem besten Weg zum meistgehassten Windows</title>
-      <link>https://www.golem.de/news/fuenf-jahre-windows-11-auf-dem-besten-weg-zum-meistgehassten-windows-2610-213660.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuenf-jahre-windows-11-auf-dem-besten-weg-zum-meistgehassten-windows-2610-213660.html</guid>
-      <description>In den ersten fünf Jahren hat Windows 11 vor allem eines geschafft: Immer mehr Leute wollen stattdessen MacOS oder Linux verwenden. Eine Analyse von Oliver Nickel (Windows 11, Microsoft)</description>
-      <pubDate>Mon, 05 Oct 2026 06:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
