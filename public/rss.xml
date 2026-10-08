@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 06:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 06:36:07 GMT</lastBuildDate>
+    <item>
+      <title>SynthID: Googles KI-Detektor kann jetzt generierte Bilder erkennen</title>
+      <link>https://www.golem.de/news/synthid-googles-ki-detektor-kann-jetzt-generierte-bilder-erkennen-2610-213848.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/synthid-googles-ki-detektor-kann-jetzt-generierte-bilder-erkennen-2610-213848.html</guid>
+      <description>Mit dem SynthID-Detektor prüfen Nutzer selbst, ob Bilder, Videos oder Audiodateien von KI erzeugt wurden. Doch die Aussagekraft hat Grenzen. (Google, KI)</description>
+      <pubDate>Thu, 08 Oct 2026 06:35:10 GMT</pubDate>
+    </item>
     <item>
       <title>RTX Spark: Microsofts Surface Laptop Ultra kostet bis zu 6.879 Euro</title>
       <link>https://www.golem.de/news/rtx-spark-microsofts-surface-laptop-ultra-kostet-bis-zu-6-879-euro-2610-213845.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/solarauto-aptera-braucht-25-millionen-us-dollar-fuer-produktionsstart-2610-213655.html</guid>
       <description>Das Solarauto-Startup braucht weniger Kapital für den Produktionsstart als bisher geglaubt. Die finanzielle Situation bleibt aber herausfordernd. (Elektroauto, Solarenergie)</description>
       <pubDate>Fri, 02 Oct 2026 12:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Allnet-Flat mit unbegrenztem Datenvolumen ohne Vertragsbindung bei otelo</title>
-      <link>https://www.golem.de/news/anzeige-allnet-flat-mit-unbegrenztem-datenvolumen-ohne-vertragsbindung-bei-otelo-2610-213656.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-allnet-flat-mit-unbegrenztem-datenvolumen-ohne-vertragsbindung-bei-otelo-2610-213656.html</guid>
-      <description>Volle Flexibilität und quasi unbegrenztes Datenvolumen gibt es jetzt beim Mobilfunkanbieter otelo. Die Allnet-Flat Flex gibt es zum Sonderpreis. (Otelo, Mobilfunk)</description>
-      <pubDate>Fri, 02 Oct 2026 12:14:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
