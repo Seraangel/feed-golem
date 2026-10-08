@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 10:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:21:40 GMT</lastBuildDate>
+    <item>
+      <title>Ask Me Anything am 22.10.: Stellt eure Datenschutz-Fragen an unseren Experten!</title>
+      <link>https://www.golem.de/news/ask-me-anything-am-22-10-stellt-eure-datenschutz-fragen-an-unseren-experten-2610-213857.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ask-me-anything-am-22-10-stellt-eure-datenschutz-fragen-an-unseren-experten-2610-213857.html</guid>
+      <description>Cyber Resilience Act, Digital Networks Act, Kids Act: In unserem Live-Video-AMA am 22. Oktober könnt ihr unseren Experten Ralf Bendrath alles rund um Digitalpolitik fragen. (Datenschutz, Politik)</description>
+      <pubDate>Thu, 08 Oct 2026 10:18:08 GMT</pubDate>
+    </item>
     <item>
       <title>Playground: Bei Google kann man jetzt Spiele per KI basteln</title>
       <link>https://www.golem.de/news/playground-bei-google-kann-man-jetzt-spiele-per-ki-basteln-2610-213867.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-140w-ladegeraet-mit-vier-anschluessen-von-anker-zum-neuen-tiefstpreis-2610-213665.html</guid>
       <description>Im frühen Prime-Angebot ist ein USB-Ladegerät von Anker mit 140 W, vier Ports und Display so günstig wie nie. (Technik/Hardware, Amazon)</description>
       <pubDate>Sat, 03 Oct 2026 08:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Defense Radar: Die Probleme des F-35-Programms</title>
-      <link>https://www.golem.de/news/defense-radar-die-probleme-des-f-35-programms-2610-213653.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/defense-radar-die-probleme-des-f-35-programms-2610-213653.html</guid>
-      <description>In unserem Videoformat Defense Radar geben wir Einblicke in Militärtechnik. Diesmal wirft unser Autor einen kritischen Blick auf das F-35-Programm. (Militär, Politik)</description>
-      <pubDate>Sat, 03 Oct 2026 08:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
