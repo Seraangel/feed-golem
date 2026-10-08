@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 12:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:31:40 GMT</lastBuildDate>
+    <item>
+      <title>RTX Spark N1X: Warum jetzt auch Apple Nvidia fürchten muss</title>
+      <link>https://www.golem.de/news/rtx-spark-n1x-warum-jetzt-auch-apple-nvidia-fuerchten-muss-2610-213870.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rtx-spark-n1x-warum-jetzt-auch-apple-nvidia-fuerchten-muss-2610-213870.html</guid>
+      <description>Nvidias ARM-Chip hat das Potenzial, Apples Vormachtstellung bei den mobilen Chips infrage zu stellen. Eine Analyse von Oliver Nickel (Nvidia, Microsoft)</description>
+      <pubDate>Thu, 08 Oct 2026 12:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Chromebook von Acer mit 15,6'' FHD reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-chromebook-von-acer-mit-15-6-fhd-reduziert-bei-amazon-2610-213878.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/datenbank-doom-laeuft-auch-in-sql-2610-213681.html</guid>
       <description>Doom ist das wohl meistportierte Spiel. Ein Entwickler zeigt eine Variante für SQL-Datenbanken - Sqldoom läuft flüssig auf einem Laptop. (Doom, Datenbank)</description>
       <pubDate>Sun, 04 Oct 2026 09:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Balkonkraftwerk mit BC-Modulen und Anker Solix 4 Pro 950 Euro günstiger für Golem-Leser</title>
-      <link>https://www.golem.de/news/anzeige-balkonkraftwerk-mit-bc-modulen-und-anker-solix-4-pro-950-euro-guenstiger-fuer-golem-leser-2610-213666.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-balkonkraftwerk-mit-bc-modulen-und-anker-solix-4-pro-950-euro-guenstiger-fuer-golem-leser-2610-213666.html</guid>
-      <description>Kleines Kraftwerk bietet wieder ein Balkonkraftwerk mit BC-Modulen und der Anker Solix 4 Pro als Speicher an. Golem-Leser sparen 950 Euro. (Balkonkraftwerk, Solarenergie)</description>
-      <pubDate>Sun, 04 Oct 2026 08:40:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
