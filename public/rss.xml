@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 12:56:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:11:38 GMT</lastBuildDate>
+    <item>
+      <title>Stargate Atlantis: Puddle Jumper und Atlantis-Torraum kommen von Bluebrixx</title>
+      <link>https://www.golem.de/news/stargate-atlantis-puddle-jumper-und-atlantis-torraum-kommen-von-bluebrixx-2610-213881.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/stargate-atlantis-puddle-jumper-und-atlantis-torraum-kommen-von-bluebrixx-2610-213881.html</guid>
+      <description>Die Sets von Bluebrixx beinhalten auch Figuren bekannter Charaktere wie Dr. McKay, Ronon Dex und John Shepard. (Bluebrixx, Lego)</description>
+      <pubDate>Thu, 08 Oct 2026 13:10:02 GMT</pubDate>
+    </item>
     <item>
       <title>Mehr Reichweite: Elektrobus kann über Reifen geladen werden</title>
       <link>https://www.golem.de/news/mehr-reichweite-elektrobus-kann-ueber-reifen-geladen-werden-2610-213880.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elon-musk-raeumt-ein-teslas-robotaxis-sehen-nachts-zu-wenig-2610-213685.html</guid>
       <description>Elon Musk hat Angst, dass Teslas Robotaxis Katzen überfahren. Grund dafür ist seine Haltung zur Sensorik. Lösen soll das Problem KI. (Tesla, Elektroauto)</description>
       <pubDate>Sun, 04 Oct 2026 13:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>78 Milliarden Parameter: Aleph Alpha veröffentlicht KI-Modell mit Deutsch-Schwerpunkt</title>
-      <link>https://www.golem.de/news/78-milliarden-parameter-aleph-alpha-veroeffentlicht-ki-modell-mit-deutsch-schwerpunkt-2610-213682.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/78-milliarden-parameter-aleph-alpha-veroeffentlicht-ki-modell-mit-deutsch-schwerpunkt-2610-213682.html</guid>
-      <description>Mit Kolibri-1 liefert Aleph Alpha ein deutsch-englisches KI-Modell, das lange Dokumente effizient verarbeiten soll. (KI, Rechenzentrum)</description>
-      <pubDate>Sun, 04 Oct 2026 12:17:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
