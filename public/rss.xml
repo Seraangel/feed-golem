@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 12:31:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:36:30 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: iPhone 18 Pro mit Apple Watch Ultra 4 im Tarif ohne Datenlimit bei o2 für 1 Euro</title>
+      <link>https://www.golem.de/news/anzeige-iphone-18-pro-mit-apple-watch-ultra-4-im-tarif-ohne-datenlimit-bei-o2-fuer-1-euro-2610-213883.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-iphone-18-pro-mit-apple-watch-ultra-4-im-tarif-ohne-datenlimit-bei-o2-fuer-1-euro-2610-213883.html</guid>
+      <description>Kurz nach dem Release des neuen iPhone 18 Pro sowie der Apple Watch Ultra 4 gibt es die beiden Geräte im Bundle mit Tarif für nur 1 Euro bei o2. (O2, Telekommunikation)</description>
+      <pubDate>Thu, 08 Oct 2026 12:32:05 GMT</pubDate>
+    </item>
     <item>
       <title>RTX Spark N1X: Warum jetzt auch Apple Nvidia fürchten muss</title>
       <link>https://www.golem.de/news/rtx-spark-n1x-warum-jetzt-auch-apple-nvidia-fuerchten-muss-2610-213870.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/frustriert-gpt-astra-betruegt-bei-starcraft-bot-benchmark-2610-213683.html</guid>
       <description>OpenAIs GPT 6 alias Astra hat zu unlauteren Mitteln gegriffen, nachdem eigene Versuche, einen Starcraft-Bot zu programmieren, fehlgeschlagen waren. (OpenAI, KI)</description>
       <pubDate>Sun, 04 Oct 2026 10:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Datenbank: Doom läuft auch in SQL</title>
-      <link>https://www.golem.de/news/datenbank-doom-laeuft-auch-in-sql-2610-213681.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/datenbank-doom-laeuft-auch-in-sql-2610-213681.html</guid>
-      <description>Doom ist das wohl meistportierte Spiel. Ein Entwickler zeigt eine Variante für SQL-Datenbanken - Sqldoom läuft flüssig auf einem Laptop. (Doom, Datenbank)</description>
-      <pubDate>Sun, 04 Oct 2026 09:16:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
