@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 09:56:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 10:01:26 GMT</lastBuildDate>
+    <item>
+      <title>EU prüft neue Konzernabgabe: Allgemeine Steuer soll US-Technologiekonzerne treffen</title>
+      <link>https://www.golem.de/news/eu-prueft-neue-konzernabgabe-allgemeine-steuer-soll-us-technologiekonzerne-treffen-2610-213866.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/eu-prueft-neue-konzernabgabe-allgemeine-steuer-soll-us-technologiekonzerne-treffen-2610-213866.html</guid>
+      <description>Die Gestaltung einer allgemeinen Steuer soll US-Techunternehmen treffen, ohne dass Trump der EU eine Ungleichbehandlung vorwerfen kann. (EU, Google)</description>
+      <pubDate>Thu, 08 Oct 2026 10:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mark Zuckerberg: Der opportunistische Trump-Kuschler</title>
+      <link>https://www.golem.de/news/mark-zuckerberg-der-opportunistische-trump-kuschler-2610-213853.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mark-zuckerberg-der-opportunistische-trump-kuschler-2610-213853.html</guid>
+      <description>Er fällt nicht mit den radikalsten Sprüchen auf und bleibt bei Debatten oft in der zweiten Reihe. Und doch hat der Meta-Chef eine ganz besondere Nähe zu US-Präsident Trump aufgebaut. Eine Kolumne von Claudia Zettel (Tech-Bro-Watchblog, Soziales Netz)</description>
+      <pubDate>Thu, 08 Oct 2026 10:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>FTTH: 20 Prozent der Internetnutzer schließen Wechsel zu Glasfaser aus</title>
       <link>https://www.golem.de/news/ftth-20-prozent-der-internetnutzer-schliessen-wechsel-zu-glasfaser-aus-2610-213865.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-eu-mitarbeiter-kritisieren-teams-backup-element-pro-2610-213671.html</guid>
       <description>Die EU-Kommission testet Element Pro als Backup für Teams. Einige Mitarbeiter halten die Software für schlecht. (Souveränität, Unternehmenssoftware)</description>
       <pubDate>Sat, 03 Oct 2026 08:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Spec Kit für die Softwareentwicklung: Erst spezifizieren, dann programmieren</title>
-      <link>https://www.golem.de/news/spec-kit-fuer-die-softwareentwicklung-erst-spezifizieren-dann-programmieren-2610-213651.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/spec-kit-fuer-die-softwareentwicklung-erst-spezifizieren-dann-programmieren-2610-213651.html</guid>
-      <description>Spec Kit trennt das Was vom Wie und lässt KI-Agenten daraus Plan, Aufgaben und Code erzeugen. Wir haben ausprobiert, wie gut das funktioniert und eine Pizza-App programmiert. Eine Anleitung von Stefanie Schmidt (Softwareentwicklung, Open Source)</description>
-      <pubDate>Sat, 03 Oct 2026 08:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Onlinebrettspiele: So wird jeder Abend zum Spieleabend!</title>
-      <link>https://www.golem.de/news/onlinebrettspiele-so-wird-jeder-abend-zum-spieleabend-2610-213646.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/onlinebrettspiele-so-wird-jeder-abend-zum-spieleabend-2610-213646.html</guid>
-      <description>Brettspiele boomen - ebenso die Möglichkeiten, sie online zu spielen. Auf sechs Plattformen warten Klassiker und moderne Brettspiele für lange Spielenächte. Ein Ratgebertext von Fabian Mauruschat (Brettspiele, Server)</description>
-      <pubDate>Sat, 03 Oct 2026 05:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
