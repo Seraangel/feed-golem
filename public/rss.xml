@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 12:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:16:28 GMT</lastBuildDate>
+    <item>
+      <title>Bitkom: Fast 70 Prozent der Firmen setzen auf IT-Quereinsteiger</title>
+      <link>https://www.golem.de/news/bitkom-fast-70-prozent-der-firmen-setzen-auf-it-quereinsteiger-2610-213877.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bitkom-fast-70-prozent-der-firmen-setzen-auf-it-quereinsteiger-2610-213877.html</guid>
+      <description>Fast jedes siebte Unternehmen beschäftigt IT-Quereinsteiger, oft mit Vorwissen aus Bootcamps oder dem Selbststudium. Für mehr als die Hälfte zählt die Praxis mehr als klassische Abschlüsse. (Arbeit, Studien)</description>
+      <pubDate>Thu, 08 Oct 2026 12:14:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Garmin-Bestseller mit GPS, Laufcoach und elf Tagen Akku für 175 Euro im Deal</title>
       <link>https://www.golem.de/news/anzeige-garmin-bestseller-mit-gps-laufcoach-und-elf-tagen-akku-fuer-175-euro-im-deal-2610-213879.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-fritz-repeater-1700-und-2700-mit-wi-fi-7-vor-prime-day-reduziert-2610-213678.html</guid>
       <description>Bei Amazon sind die beiden Fritz Repeater 1700 und 2700 mit Wi-Fi 7 bereits exklusiv für Prime-Kunden reduziert. (Wi-Fi 6, Technik/Hardware)</description>
       <pubDate>Sun, 04 Oct 2026 08:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speicherkrise: Kleine Raspberry Pis werden teurer, DGX Spark mit weniger RAM</title>
-      <link>https://www.golem.de/news/speicherkrise-kleine-raspberry-pis-werden-teurer-dgx-spark-mit-weniger-ram-2610-213680.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/speicherkrise-kleine-raspberry-pis-werden-teurer-dgx-spark-mit-weniger-ram-2610-213680.html</guid>
-      <description>Die Speicherkrise sorgt weiter für steigende Preise. Bislang verschonte Raspberry Pis werden teurer, Nvidias KI-Desktop kommt als kleinere Version. (RAM, Nvidia)</description>
-      <pubDate>Sun, 04 Oct 2026 08:16:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
