@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 06:36:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 07:01:22 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Wearables - mehr als Schritte und Herzfrequenz</title>
+      <link>https://www.golem.de/news/anzeige-wearables-mehr-als-schritte-und-herzfrequenz-2610-213831.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-wearables-mehr-als-schritte-und-herzfrequenz-2610-213831.html</guid>
+      <description>Moderne Sport-Algorithmen können Bewegungen und Belastungen immer präziser auswerten. Was dahintersteckt und warum diese Technologie auch für den Breitensport interessant wird. (Technik/Hardware, Huawei)</description>
+      <pubDate>Thu, 08 Oct 2026 07:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hybrid Intelligence: Microsoft öffnet Copilot den Zugriff auf Windows-Dateien</title>
+      <link>https://www.golem.de/news/hybrid-intelligence-microsoft-oeffnet-copilot-den-zugriff-auf-windows-dateien-2610-213852.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hybrid-intelligence-microsoft-oeffnet-copilot-den-zugriff-auf-windows-dateien-2610-213852.html</guid>
+      <description>Copilot soll in Windows auf lokale Dateien zugreifen. Agenten laufen in Sandboxes, die KI-Modelle lokal oder in der Cloud. (Copilot, Microsoft)</description>
+      <pubDate>Thu, 08 Oct 2026 06:59:04 GMT</pubDate>
+    </item>
     <item>
       <title>SynthID: Googles KI-Detektor kann jetzt generierte Bilder erkennen</title>
       <link>https://www.golem.de/news/synthid-googles-ki-detektor-kann-jetzt-generierte-bilder-erkennen-2610-213848.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/duerresommer-frankreichs-strommarkt-geraet-in-bewegung-2610-213652.html</guid>
       <description>Hohe Temperaturen und fehlendes Wasser haben den von Atomstrom dominierten französischen Strommarkt verändert. Batteriespeicher profitieren davon. (Atomkraft, Solarenergie)</description>
       <pubDate>Fri, 02 Oct 2026 13:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kein Anschluss unter dieser E-Mail: Gericht verbietet Amazon Impressum-Tricksereien</title>
-      <link>https://www.golem.de/news/kein-anschluss-unter-dieser-e-mail-gericht-verbietet-amazon-impressum-tricksereien-2610-213657.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kein-anschluss-unter-dieser-e-mail-gericht-verbietet-amazon-impressum-tricksereien-2610-213657.html</guid>
-      <description>Das Kammergericht Berlin stärkt die Rechte der Kunden und verbietet Amazon, Impressumspflichten zu missachten. Es drohen Strafzahlungen. (Amazon, Onlineshop)</description>
-      <pubDate>Fri, 02 Oct 2026 12:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solarauto: Aptera braucht 25 Millionen US-Dollar für Produktionsstart</title>
-      <link>https://www.golem.de/news/solarauto-aptera-braucht-25-millionen-us-dollar-fuer-produktionsstart-2610-213655.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/solarauto-aptera-braucht-25-millionen-us-dollar-fuer-produktionsstart-2610-213655.html</guid>
-      <description>Das Solarauto-Startup braucht weniger Kapital für den Produktionsstart als bisher geglaubt. Die finanzielle Situation bleibt aber herausfordernd. (Elektroauto, Solarenergie)</description>
-      <pubDate>Fri, 02 Oct 2026 12:18:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
