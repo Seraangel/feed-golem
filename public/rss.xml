@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 09:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 09:46:05 GMT</lastBuildDate>
+    <item>
+      <title>Wollen Foundry-Aufträge: Samsung setzt AMD mit HBM-Lieferung unter Druck</title>
+      <link>https://www.golem.de/news/wollen-foundry-auftraege-samsung-setzt-amd-mit-hbm-lieferung-unter-druck-2610-213863.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wollen-foundry-auftraege-samsung-setzt-amd-mit-hbm-lieferung-unter-druck-2610-213863.html</guid>
+      <description>Samsung will als Gegenleistung für HBM4-Lieferungen AMD-Chips fertigen. Anthropic soll sich freiwillig für den SF2-Prozess entschieden haben. (Halbleiterfertigung, AMD)</description>
+      <pubDate>Thu, 08 Oct 2026 09:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Matter-fähiges Heizkörperthermostat im Viererpack reduziert bei Tink</title>
       <link>https://www.golem.de/news/anzeige-matter-faehiges-heizkoerperthermostat-im-viererpack-reduziert-bei-tink-2610-213864.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ruhrfibre-und-metrofibre-telekom-kauft-ftth-betreibernetz-und-kuendigt-mehr-uebernahmen-an-2610-213669.html</guid>
       <description>Die Deutsche Telekom übernimmt das Glasfasernetz von Ruhrfibre und Metrofibre. Weitere Zukäufe stehen auf dem Zettel. (Glasfaser, Telekom)</description>
       <pubDate>Fri, 02 Oct 2026 17:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 DSGVO-konform betreiben</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2610-213231.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-2610-213231.html</guid>
-      <description>Microsoft 365 DSGVO-konform zu betreiben erfordert technische und organisatorische Maßnahmen. Die Golem Karrierewelt vermittelt die relevanten Werkzeuge und Anforderungen. (Golem Karrierewelt, Datenschutz)</description>
-      <pubDate>Fri, 02 Oct 2026 16:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
