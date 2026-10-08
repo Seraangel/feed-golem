@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 12:36:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:46:48 GMT</lastBuildDate>
+    <item>
+      <title>Wartezeiten von einem Jahr: Halbleiter-Lieferengpass in Deutschland</title>
+      <link>https://www.golem.de/news/wartezeiten-von-einem-jahr-halbleiter-lieferengpass-in-deutschland-2610-213862.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wartezeiten-von-einem-jahr-halbleiter-lieferengpass-in-deutschland-2610-213862.html</guid>
+      <description>Engpässe bei Chips und Leiterplatten verschärfen sich. Einige Hersteller nennen Rekord-Lieferzeiten, die Preise haben sich verfünffacht. (Chipknappheit, KI)</description>
+      <pubDate>Thu, 08 Oct 2026 12:41:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: iPhone 18 Pro mit Apple Watch Ultra 4 im Tarif ohne Datenlimit bei o2 für 1 Euro</title>
       <link>https://www.golem.de/news/anzeige-iphone-18-pro-mit-apple-watch-ultra-4-im-tarif-ohne-datenlimit-bei-o2-fuer-1-euro-2610-213883.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/david-robinson-warum-openais-sicherheitschef-nun-geht-2610-213684.html</guid>
       <description>Ein Ex-Mitarbeiter warnt: Bei OpenAI komme Sicherheit im Tempo neuer KI-Produkte oft zu kurz. (OpenAI, KI)</description>
       <pubDate>Sun, 04 Oct 2026 11:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frustriert?: GPT Astra betrügt bei Starcraft-Bot-Benchmark</title>
-      <link>https://www.golem.de/news/frustriert-gpt-astra-betruegt-bei-starcraft-bot-benchmark-2610-213683.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/frustriert-gpt-astra-betruegt-bei-starcraft-bot-benchmark-2610-213683.html</guid>
-      <description>OpenAIs GPT 6 alias Astra hat zu unlauteren Mitteln gegriffen, nachdem eigene Versuche, einen Starcraft-Bot zu programmieren, fehlgeschlagen waren. (OpenAI, KI)</description>
-      <pubDate>Sun, 04 Oct 2026 10:17:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
