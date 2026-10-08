@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 11:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 11:31:58 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Produktivität mit KI: Entwickler, lasst euch bloß nichts erzählen!</title>
+      <link>https://www.golem.de/news/produktivitaet-mit-ki-entwickler-lasst-euch-bloss-nichts-erzaehlen-2610-213809.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/produktivitaet-mit-ki-entwickler-lasst-euch-bloss-nichts-erzaehlen-2610-213809.html</guid>
+      <description>Das Management erwartet plötzlich 30 Prozent mehr Leistung? Bevor Entwickler sich rechtfertigen: Diese Kennzahlen zeigen, was KI wirklich bringt. Ein Ratgebertext von Benedikt Matthes (KI-Realitätscheck, KI)</description>
+      <pubDate>Thu, 08 Oct 2026 11:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>Angeklagter zahlte heimlich Lösegeld: Ransomware-Entschlüsselungsdienst vor Gericht</title>
       <link>https://www.golem.de/news/angeklagter-zahlte-heimlich-loesegeld-ransomware-entschluesselungsdienst-vor-gericht-2610-213874.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeigeit-jobs-rund-um-daten-security-u-it-jobs-rund-um-daten-security-und-anwendungsbetreuung-2610-213643.html</guid>
       <description>Von Data Governance bis Security: Arbeitgeber in Forschung, Versicherung und Energie haben sechs spannende IT-Positionen im Angebot. (Golem Karrierewelt, Unternehmenssoftware)</description>
       <pubDate>Sun, 04 Oct 2026 05:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Überwachung per Textnachricht: Apple-Kamera ohne Video</title>
-      <link>https://www.golem.de/news/ueberwachung-per-textnachricht-apple-kamera-ohne-video-2610-213677.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ueberwachung-per-textnachricht-apple-kamera-ohne-video-2610-213677.html</guid>
-      <description>Apple arbeitet offenbar an einer Smart-Home-Kamera, die kein Video aufzeichnet. Stattdessen erhält der Nutzer nur eine Textbeschreibung. (Apple, Kameras)</description>
-      <pubDate>Sat, 03 Oct 2026 13:05:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
