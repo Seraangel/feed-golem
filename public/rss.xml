@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 08 Oct 2026 08:01:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 08:21:09 GMT</lastBuildDate>
+    <item>
+      <title>Drohnen: Ukraine trifft Yandex-Rechenzentrum in Russland</title>
+      <link>https://www.golem.de/news/drohnen-ukraine-trifft-yandex-rechenzentrum-in-russland-2610-213856.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/drohnen-ukraine-trifft-yandex-rechenzentrum-in-russland-2610-213856.html</guid>
+      <description>Russland hat in seinem Angriffskrieg zuletzt auch die für das Militär wichtigen Datenzentren in der Ukraine attackiert. Nun hat Kyjiw zu einem Gegenschlag ausgeholt. (Ukrainekrieg, Rechenzentrum)</description>
+      <pubDate>Thu, 08 Oct 2026 08:20:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Politik: BMWE löst Referat für Wind- und Solarindustrie auf</title>
+      <link>https://www.golem.de/news/politik-bmwe-loest-referat-fuer-wind-und-solarindustrie-auf-2610-213855.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/politik-bmwe-loest-referat-fuer-wind-und-solarindustrie-auf-2610-213855.html</guid>
+      <description>Das BMWE verteilt die Aufgaben auf andere Referate. Erneuerbaren-Verbände kritisieren den Zeitpunkt scharf. (Energiewende, Solarenergie)</description>
+      <pubDate>Thu, 08 Oct 2026 08:13:06 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft: Neue Suche kann Windows 11 direkt in Dark Mode versetzen</title>
       <link>https://www.golem.de/news/microsoft-neue-suche-kann-windows-11-direkt-in-dark-mode-versetzen-2610-213854.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-surface-pro-12-zoll-mit-copilot-ki-jetzt-fuer-prime-mitglieder-stark-reduziert-2610-213659.html</guid>
       <description>Das Microsoft Surface Pro 12 Zoll arbeitet ohne Lüfter, wiegt nur 686 Gramm und kostet für Prime-Mitglieder weniger. (Technik/Hardware, Microsoft)</description>
       <pubDate>Fri, 02 Oct 2026 15:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Xiaomi Poco X8 Pro Max günstig wie nie im frühen Prime-Angebot</title>
-      <link>https://www.golem.de/news/anzeige-xiaomi-poco-x8-pro-max-guenstig-wie-nie-im-fruehen-prime-angebot-2610-213662.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-poco-x8-pro-max-guenstig-wie-nie-im-fruehen-prime-angebot-2610-213662.html</guid>
-      <description>Schon vor den Prime Deal Days verkauft Amazon das Xiaomi Poco X8 Pro Max in der 12+256-GByte-Variante zum neuen Tiefstpreis. (Handy, Smartphone)</description>
-      <pubDate>Fri, 02 Oct 2026 14:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wegen KI-Paper-Flut: Arxiv beschränkt Autoren auf zwei Papers pro Monat</title>
-      <link>https://www.golem.de/news/wegen-ki-paper-flut-arxiv-beschraenkt-autoren-auf-zwei-papers-pro-monat-2610-213661.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wegen-ki-paper-flut-arxiv-beschraenkt-autoren-auf-zwei-papers-pro-monat-2610-213661.html</guid>
-      <description>Die Anzahl an Einreichungen bei Arxiv ist durch KI rapide gestiegen, die Qualität teilweise ebenso deutlich gefallen. Das Portal zieht die Notbremse. (Open Access, KI)</description>
-      <pubDate>Fri, 02 Oct 2026 14:19:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
