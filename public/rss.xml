@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 08:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:11:33 GMT</lastBuildDate>
+    <item>
+      <title>1 Terabyte in zehn Tagen: Kaffeemaschine im Datenrausch</title>
+      <link>https://www.golem.de/news/1-terabyte-in-zehn-tagen-kaffeemaschine-im-datenrausch-2610-213911.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/1-terabyte-in-zehn-tagen-kaffeemaschine-im-datenrausch-2610-213911.html</guid>
+      <description>Eine vernetzte Keurig-Kaffeemaschine hat im Heimnetz ihrer Besitzer in zehn Tagen rund 1.000 Gigabyte Daten bewegt. (Smart Home, IoT)</description>
+      <pubDate>Fri, 09 Oct 2026 08:09:02 GMT</pubDate>
+    </item>
     <item>
       <title>Datenleck: 9 GByte Redaktions- und Nutzerdaten von Nius frei zugänglich</title>
       <link>https://www.golem.de/news/datenleck-9-gbyte-redaktions-und-nutzerdaten-von-nius-frei-zugaenglich-2610-213910.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jagex-runescape-bekommt-ein-neues-mmorpg-mit-unreal-engine-2610-213706.html</guid>
       <description>Jagex arbeitet an einem neuen Runescape. Das MMORPG entsteht mit Unreal Engine und soll gemeinsam mit der Community entwickelt werden. (MMORPG, Rollenspiel)</description>
       <pubDate>Mon, 05 Oct 2026 10:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smarter Wecker Amazon Echo Spot für Prime-Mitglieder erstmals unter 50 Euro</title>
-      <link>https://www.golem.de/news/anzeige-smarter-wecker-amazon-echo-spot-fuer-prime-mitglieder-erstmals-unter-50-euro-2610-213710.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smarter-wecker-amazon-echo-spot-fuer-prime-mitglieder-erstmals-unter-50-euro-2610-213710.html</guid>
-      <description>Als Wecker mit Display und sattem Klang verdrängt der Amazon Echo Spot das Handy vom Nachttisch und fällt zum Prime Day auf einen Bestpreis. (Smart Home, Technik/Hardware)</description>
-      <pubDate>Mon, 05 Oct 2026 10:37:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
