@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 08:01:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:06:14 GMT</lastBuildDate>
+    <item>
+      <title>Datenleck: 9 GByte Redaktions- und Nutzerdaten von Nius frei zugänglich</title>
+      <link>https://www.golem.de/news/datenleck-9-gbyte-redaktions-und-nutzerdaten-von-nius-frei-zugaenglich-2610-213910.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/datenleck-9-gbyte-redaktions-und-nutzerdaten-von-nius-frei-zugaenglich-2610-213910.html</guid>
+      <description>Unbekannte stellen die Nius-Daten nach einem Hackerangriff ins Netz. Sie enthalten auch Informationen über Gesprächspartner der Redaktion. (Datenleck, Security)</description>
+      <pubDate>Fri, 09 Oct 2026 08:03:02 GMT</pubDate>
+    </item>
     <item>
       <title>Für Interposer: Globalfoundries wird TSMC-Zulieferer</title>
       <link>https://www.golem.de/news/fuer-interposer-globalfoundries-wird-tsmc-zulieferer-2610-213908.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-smarter-wecker-amazon-echo-spot-fuer-prime-mitglieder-erstmals-unter-50-euro-2610-213710.html</guid>
       <description>Als Wecker mit Display und sattem Klang verdrängt der Amazon Echo Spot das Handy vom Nachttisch und fällt zum Prime Day auf einen Bestpreis. (Smart Home, Technik/Hardware)</description>
       <pubDate>Mon, 05 Oct 2026 10:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Gboard Conveyor Belt Edition: Bei dieser Tastatur fahren die Tasten auf Förderbändern</title>
-      <link>https://www.golem.de/news/google-gboard-conveyor-belt-edition-bei-dieser-tastatur-fahren-die-tasten-auf-foerderbaendern-2610-213704.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/google-gboard-conveyor-belt-edition-bei-dieser-tastatur-fahren-die-tasten-auf-foerderbaendern-2610-213704.html</guid>
-      <description>Wie jedes Jahr stellt Google Japan wieder eine besonders obskure Tastatur vor. Diesmal können wir uns sogar die Nägel feilen lassen. (Tastatur, Google)</description>
-      <pubDate>Mon, 05 Oct 2026 10:25:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
