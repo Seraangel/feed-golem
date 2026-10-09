@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 11:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:16:28 GMT</lastBuildDate>
+    <item>
+      <title>Kollisionen im Orbit: SpaceX nimmt das Problem mit Weltraumschrott nicht ernst</title>
+      <link>https://www.golem.de/news/kollisionen-im-orbit-spacex-nimmt-das-problem-mit-weltraumschrott-nicht-ernst-2610-213926.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kollisionen-im-orbit-spacex-nimmt-das-problem-mit-weltraumschrott-nicht-ernst-2610-213926.html</guid>
+      <description>Eine neue Plattform des Konzerns will die Positionen aller Satelliten sammeln, um Zusammenstöße zu verhindern. Das Problem ist aber ein anderes. (SpaceX, Überwachung)</description>
+      <pubDate>Fri, 09 Oct 2026 11:12:08 GMT</pubDate>
+    </item>
     <item>
       <title>Kostenlose TLS-Zertifikate: Let's Encrypt verkürzt Gültigkeit auf 64 Tage</title>
       <link>https://www.golem.de/news/kostenlose-tls-zertifikate-let-s-encrypt-verkuerzt-gueltigkeit-auf-64-tage-2610-213925.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kaercher-fenstersauger-wv-2-black-edition-als-fruehes-prime-angebot-jetzt-unter-46-euro-2610-213723.html</guid>
       <description>Der Kärcher WV 2 Black Edition saugt Wasser von Fenstern und Duschwänden und ist zum Prime Day günstiger. (Technik/Hardware)</description>
       <pubDate>Mon, 05 Oct 2026 14:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ungültige KI-Einreichungen: Google stoppt Bug-Bounty-Programm für Open Source</title>
-      <link>https://www.golem.de/news/ungueltige-ki-einreichungen-google-stoppt-bug-bounty-programm-fuer-open-source-2610-213721.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ungueltige-ki-einreichungen-google-stoppt-bug-bounty-programm-fuer-open-source-2610-213721.html</guid>
-      <description>Die überwiegende Mehrheit der automatisiert eingereichten Fehlermeldungen ist ungültig. Google überarbeitet nun seine Regeln für KI-basierte Einreichungen. (KI, Sicherheitslücke)</description>
-      <pubDate>Mon, 05 Oct 2026 14:06:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
