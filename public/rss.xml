@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 06:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:02:00 GMT</lastBuildDate>
+    <item>
+      <title>Neckarsulm: Audi verschärft den Sparkurs</title>
+      <link>https://www.golem.de/news/neckarsulm-audi-verschaerft-den-sparkurs-2610-213900.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/neckarsulm-audi-verschaerft-den-sparkurs-2610-213900.html</guid>
+      <description>Audi prüft weitere Einschnitte und sucht das Gespräch mit dem Betriebsrat. Im Mittelpunkt stehen die Zukunft des Werks Neckarsulm. (Audi, Wirtschaft)</description>
+      <pubDate>Fri, 09 Oct 2026 06:58:02 GMT</pubDate>
+    </item>
     <item>
       <title>Cloudspeicher: Microsoft kürzt Onedrive-Kontingente</title>
       <link>https://www.golem.de/news/cloudspeicher-microsoft-kuerzt-onedrive-kontingente-2610-213905.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/trotz-handelskrieg-ki-und-5g-patentdeal-zwischen-huawei-und-qualcomm-2610-213705.html</guid>
       <description>Huawei und Qualcomm vereinbaren ein Abkommen zur Kreuzlizenzierung von Patenten. Darunter Huaweis Tau-Scaling-Law und neue Optik-Standards für KI-Rechenzentren. (Huawei, FTC)</description>
       <pubDate>Mon, 05 Oct 2026 09:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bildmanipulationen: Content-Signatur C2PA ausgehebelt</title>
-      <link>https://www.golem.de/news/bildmanipulationen-content-signatur-c2pa-ausgehebelt-2610-213700.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bildmanipulationen-content-signatur-c2pa-ausgehebelt-2610-213700.html</guid>
-      <description>Ein Sicherheitsforscher nutzt eine Regel des Standards, die Bereiche eines Bilds von der Signaturberechnung ausschließt. Diese Regel ist jedoch technisch notwendig. (Datensicherheit, Photoshop)</description>
-      <pubDate>Mon, 05 Oct 2026 09:39:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
