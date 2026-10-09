@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 06:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:16:10 GMT</lastBuildDate>
+    <item>
+      <title>KI-Agenten: Grok Bot postet private Kontostände im Firmen-Slack</title>
+      <link>https://www.golem.de/news/ki-agenten-grok-bot-postet-private-kontostaende-im-firmen-slack-2610-213902.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-grok-bot-postet-private-kontostaende-im-firmen-slack-2610-213902.html</guid>
+      <description>Ein Agent in Grok Bot postete private Kontostände eines CEOs im Firmen-Slack. Zwei Stunden blieben sie sichtbar. (Grok, KI)</description>
+      <pubDate>Fri, 09 Oct 2026 06:12:03 GMT</pubDate>
+    </item>
     <item>
       <title>Mobilität und Verkehr: Hamburger Hochbahn setzt auf autonome Busse und U-Bahnen</title>
       <link>https://www.golem.de/news/mobilitaet-und-verkehr-hamburger-hochbahn-setzt-auf-autonome-busse-und-u-bahnen-2610-213901.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gears-of-war-microsoft-verkuerzt-shader-wartezeit-um-95-prozent-2610-213698.html</guid>
       <description>Advanced Shader Delivery kommt für weitere Grafikkarten. Bei Gears of War soll die Technik minutenlange Wartezeiten massiv verkürzen. (DirectX, AMD)</description>
       <pubDate>Mon, 05 Oct 2026 09:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dritter Firmenname seit Februar: Musk will SpaceXAI in SpaceXSI umbenennen</title>
-      <link>https://www.golem.de/news/dritter-firmenname-seit-februar-musk-will-spacexai-in-spacexsi-umbenennen-2610-213697.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/dritter-firmenname-seit-februar-musk-will-spacexai-in-spacexsi-umbenennen-2610-213697.html</guid>
-      <description>Obwohl die Trump-Anordnung zur Umbenennung von KI in Superintelligenz nur US-Behörden betrifft, zieht Elon Musk fleißig mit. (KI, TSMC)</description>
-      <pubDate>Mon, 05 Oct 2026 08:48:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
