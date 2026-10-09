@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 14:11:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:31:12 GMT</lastBuildDate>
+    <item>
+      <title>Astronomie: Stern absorbiert braunen Zwerg</title>
+      <link>https://www.golem.de/news/astronomie-stern-absorbiert-braunen-zwerg-2610-213933.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/astronomie-stern-absorbiert-braunen-zwerg-2610-213933.html</guid>
+      <description>Eine kuriose Messung, aufgezeichnet von mehreren Teleskopen, zeigt eine bisher nie gesehene Konstellation. Sie ist nur 300 Lichtjahre entfernt. (Astronomie, Open Access)</description>
+      <pubDate>Fri, 09 Oct 2026 14:26:05 GMT</pubDate>
+    </item>
     <item>
       <title>Cyberangriffe auf Banken: Hacker nutzt KI und hinterlässt Accountdaten</title>
       <link>https://www.golem.de/news/cyberangriffe-auf-banken-hacker-nutzt-ki-und-hinterlaesst-accountdaten-2610-213941.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-steuern-2610-213236.html</guid>
       <description>Microsoft Purview bündelt Funktionen für Datenklassifizierung, DLP und Insider Risk. Die Golem Karrierewelt vermittelt den praktischen Einsatz in Microsoft 365. (Golem Karrierewelt, Sicherheitslücke)</description>
       <pubDate>Tue, 06 Oct 2026 04:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Prime Deal Days 2026 - die besten Deals am zweiten Prime Day des Jahres sichern</title>
-      <link>https://www.golem.de/news/anzeige-prime-deal-days-2026-die-besten-deals-am-zweiten-prime-day-sichern-2610-213729.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-prime-deal-days-2026-die-besten-deals-am-zweiten-prime-day-sichern-2610-213729.html</guid>
-      <description>Nach langem Warten hat Amazon die Prime Deal Days gestartet. Mit dem zweiten Deal-Event des Jahres nach dem Prime Day geht die Schnäppchenjagd los. (Prime Day, Amazon)</description>
-      <pubDate>Mon, 05 Oct 2026 22:01:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
