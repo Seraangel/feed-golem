@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 05:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:11:10 GMT</lastBuildDate>
+    <item>
+      <title>Mobilität und Verkehr: Hamburger Hochbahn setzt auf autonome Busse und U-Bahnen</title>
+      <link>https://www.golem.de/news/mobilitaet-und-verkehr-hamburger-hochbahn-setzt-auf-autonome-busse-und-u-bahnen-2610-213901.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mobilitaet-und-verkehr-hamburger-hochbahn-setzt-auf-autonome-busse-und-u-bahnen-2610-213901.html</guid>
+      <description>In zwei Jahren sollen in Hamburg autonome Busse fahren, auch autonome U-Bahnen sind geplant. Das hat Auswirkungen auf das Personal. (Autonomes Fahren, Verkehr)</description>
+      <pubDate>Fri, 09 Oct 2026 06:06:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Power Automate: Flows erstellen und erweitern</title>
       <link>https://www.golem.de/news/anzeige-microsoft-power-automate-flows-erstellen-und-erweitern-2610-213846.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/dritter-firmenname-seit-februar-musk-will-spacexai-in-spacexsi-umbenennen-2610-213697.html</guid>
       <description>Obwohl die Trump-Anordnung zur Umbenennung von KI in Superintelligenz nur US-Behörden betrifft, zieht Elon Musk fleißig mit. (KI, TSMC)</description>
       <pubDate>Mon, 05 Oct 2026 08:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Agent: Meta bringt Anbindung an Agent Muse für DIY-Projekte</title>
-      <link>https://www.golem.de/news/ki-agent-meta-bringt-anbindung-an-agent-muse-fuer-diy-projekte-2610-213695.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-agent-meta-bringt-anbindung-an-agent-muse-fuer-diy-projekte-2610-213695.html</guid>
-      <description>Über ein eigenes SDK kann Metas KI-Agent Muse an DIY-Projekte angebunden werden. (DIY - Do it yourself, KI)</description>
-      <pubDate>Mon, 05 Oct 2026 08:38:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
