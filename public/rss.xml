@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 14:31:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 14:51:45 GMT</lastBuildDate>
+    <item>
+      <title>Schwache Nachfrage: Apple reduziert Produktion des iPhone 18 Pro</title>
+      <link>https://www.golem.de/news/schwache-nachfrage-apple-reduziert-produktion-des-iphone-18-pro-2610-213944.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schwache-nachfrage-apple-reduziert-produktion-des-iphone-18-pro-2610-213944.html</guid>
+      <description>Die hohen Stückzahlen, die Apple bei seinen Auftragsfertigern bestellt hat, decken sich wohl nicht mit der Nachfrage nach dem iPhone 18 Pro. (iPhone 18, Smartphone)</description>
+      <pubDate>Fri, 09 Oct 2026 14:47:05 GMT</pubDate>
+    </item>
     <item>
       <title>Astronomie: Stern absorbiert braunen Zwerg</title>
       <link>https://www.golem.de/news/astronomie-stern-absorbiert-braunen-zwerg-2610-213933.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/apple-macbook-pro-bekommt-oled-touch-und-wird-leichter-2610-213734.html</guid>
       <description>Apple könnte das Macbook Pro schon 2026 neu aufstellen. Die Modelle sollen leichter werden und erstmals OLED mit Touch bieten. (Macbook, Display)</description>
       <pubDate>Tue, 06 Oct 2026 05:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Purview: Daten schützen und Risiken steuern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-steuern-2610-213236.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-daten-schuetzen-und-risiken-steuern-2610-213236.html</guid>
-      <description>Microsoft Purview bündelt Funktionen für Datenklassifizierung, DLP und Insider Risk. Die Golem Karrierewelt vermittelt den praktischen Einsatz in Microsoft 365. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Tue, 06 Oct 2026 04:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
