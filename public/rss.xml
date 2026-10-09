@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 07:02:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:16:08 GMT</lastBuildDate>
+    <item>
+      <title>Wenn Algorithmen angreifen: SPD will BSI zum KI-Lagezentrum machen</title>
+      <link>https://www.golem.de/news/wenn-algorithmen-angreifen-spd-will-bsi-zum-ki-lagezentrum-machen-2610-213899.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wenn-algorithmen-angreifen-spd-will-bsi-zum-ki-lagezentrum-machen-2610-213899.html</guid>
+      <description>Ein Positionspapier der SPD-Bundestagsfraktion skizziert, wie Deutschland auf KI-gestützte Angriffe reagieren könnte. (BSI, KI)</description>
+      <pubDate>Fri, 09 Oct 2026 07:13:10 GMT</pubDate>
+    </item>
     <item>
       <title>Neckarsulm: Audi verschärft den Sparkurs</title>
       <link>https://www.golem.de/news/neckarsulm-audi-verschaerft-den-sparkurs-2610-213900.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ploopy-bean-im-test-ein-mausgewordener-trackpoint-2610-213168.html</guid>
       <description>Der Ploopy Bean ist eine quelloffene, 3D-gedruckte Trackpoint-Maus. Für Trackpoint-Fans ist er ideal, auch wenn man sich umgewöhnen muss. Ein Test von Tobias Költzsch (Peripheriegeräte, Test)</description>
       <pubDate>Mon, 05 Oct 2026 10:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trotz Handelskrieg: KI und 5G-Patentdeal zwischen Huawei und Qualcomm</title>
-      <link>https://www.golem.de/news/trotz-handelskrieg-ki-und-5g-patentdeal-zwischen-huawei-und-qualcomm-2610-213705.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/trotz-handelskrieg-ki-und-5g-patentdeal-zwischen-huawei-und-qualcomm-2610-213705.html</guid>
-      <description>Huawei und Qualcomm vereinbaren ein Abkommen zur Kreuzlizenzierung von Patenten. Darunter Huaweis Tau-Scaling-Law und neue Optik-Standards für KI-Rechenzentren. (Huawei, FTC)</description>
-      <pubDate>Mon, 05 Oct 2026 09:50:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
