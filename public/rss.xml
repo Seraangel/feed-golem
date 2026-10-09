@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 10:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:46:10 GMT</lastBuildDate>
+    <item>
+      <title>KI: Anthropic verbietet Nutzern, zu gemein zu Claude zu sein</title>
+      <link>https://www.golem.de/news/ki-anthropic-verbietet-nutzern-zu-gemein-zu-claude-zu-sein-2610-213924.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-anthropic-verbietet-nutzern-zu-gemein-zu-claude-zu-sein-2610-213924.html</guid>
+      <description>Künftig kann Claude Chats beenden, wenn Nutzer die KI beleidigen. In der neuen Nutzervereinbarung werden auch Propaganda und Waffenentwicklung geregelt. (Anthropic, KI)</description>
+      <pubDate>Fri, 09 Oct 2026 10:41:05 GMT</pubDate>
+    </item>
     <item>
       <title>800-MHz-Coup: Wie SpaceX erneut den Mobilfunkmarkt angreift</title>
       <link>https://www.golem.de/news/800-mhz-coup-wie-spacex-erneut-den-mobilfunkmarkt-angreift-2610-213923.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nvidia-pascal-modder-entwickelt-gtx-1080-treiber-fuer-windows-xp-2610-213720.html</guid>
       <description>Mit dem Grafiktreiber kann eine Nvidia-Grafikkarte von 2016 auf einem Betriebssystem von 2001 genutzt werden. (Windows XP, Grafikkarten)</description>
       <pubDate>Mon, 05 Oct 2026 13:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kein Test im Regen: Softwarebug legt Formel-1-Autos lahm und verzögert Rennstart</title>
-      <link>https://www.golem.de/news/kein-test-im-regen-softwarebug-legt-formel-1-autos-lahm-und-verzoegert-rennstart-2610-213719.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kein-test-im-regen-softwarebug-legt-formel-1-autos-lahm-und-verzoegert-rennstart-2610-213719.html</guid>
-      <description>Um ein Formel-1-Rennen fortsetzen zu können, haben die Teams ein Softwareupdate auf den Fahrzeugen installieren müssen. (Formel 1, Elektroauto)</description>
-      <pubDate>Mon, 05 Oct 2026 13:34:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
