@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 16:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:01:41 GMT</lastBuildDate>
+    <item>
+      <title>Chinesische Onlinehändler: Zölle gegen Temu, Aliexpress treffen den gesamten deutschen Markt</title>
+      <link>https://www.golem.de/news/chinesische-onlinehaendler-zoelle-gegen-temu-aliexpress-treffen-den-gesamten-deutschen-markt-2610-213948.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chinesische-onlinehaendler-zoelle-gegen-temu-aliexpress-treffen-den-gesamten-deutschen-markt-2610-213948.html</guid>
+      <description>Die Abschaffung der Zollfreigrenze für Kleinsendungen zeigt drastische Wirkung. Die Umsätze von Temu, Shein und Aliexpress stürzen um über ein Drittel ab. (Onlinehandel, Politik)</description>
+      <pubDate>Fri, 09 Oct 2026 16:57:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: STACKIT Cloud: Souveränität und Governance verstehen</title>
       <link>https://www.golem.de/news/anzeige-stackit-cloud-souveraenitaet-und-governance-verstehen-2610-213844.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-vertrauen-als-voraussetzung-erfolgreicher-ki-skalierung-2610-213687.html</guid>
       <description>KI-Piloten überzeugen schnell. Doch im produktiven Betrieb zählen andere Fragen: Welche Daten nutzt ein System, welche Rechte gelten, wer handelt - und wie bleibt jeder Schritt später nachvollziehbar? (Telekom, KI)</description>
       <pubDate>Tue, 06 Oct 2026 07:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mein Irrtum: Warum die Grenzen von LLMs weiter entfernt sind, als ich dachte</title>
-      <link>https://www.golem.de/news/mein-irrtum-warum-die-grenzen-von-llms-weiter-entfernt-sind-als-ich-dachte-2610-213065.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mein-irrtum-warum-die-grenzen-von-llms-weiter-entfernt-sind-als-ich-dachte-2610-213065.html</guid>
-      <description>Ich hielt LLMs für fast ausgereizt. Das war wohl falsch. Warum sie noch lange besser werden können - ohne dass uns das automatisch AGI bringt. Eine Analyse von Tim Elsner (KI, Gordon Moore)</description>
-      <pubDate>Tue, 06 Oct 2026 06:42:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
