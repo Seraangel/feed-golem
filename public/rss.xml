@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 16:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:46:13 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: STACKIT Cloud: Souveränität und Governance verstehen</title>
+      <link>https://www.golem.de/news/anzeige-stackit-cloud-souveraenitaet-und-governance-verstehen-2610-213844.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-stackit-cloud-souveraenitaet-und-governance-verstehen-2610-213844.html</guid>
+      <description>STACKIT Cloud erfordert klare Konzepte für Souveränität und Governance. Ein Online-Workshop behandelt Technik, Richtlinien und die Einführung im Unternehmen. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Fri, 09 Oct 2026 16:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>Season 5: Battlefield 6 stürmt Las Vegas und Area 51</title>
       <link>https://www.golem.de/news/season-5-battlefield-6-stuermt-las-vegas-und-area-51-2610-213949.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mein-irrtum-warum-die-grenzen-von-llms-weiter-entfernt-sind-als-ich-dachte-2610-213065.html</guid>
       <description>Ich hielt LLMs für fast ausgereizt. Das war wohl falsch. Warum sie noch lange besser werden können - ohne dass uns das automatisch AGI bringt. Eine Analyse von Tim Elsner (KI, Gordon Moore)</description>
       <pubDate>Tue, 06 Oct 2026 06:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Mobile Wallbox mit 11 kW, Zubehör und App am Prime Day zum neuen Bestpreis</title>
-      <link>https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-zubehoer-und-app-am-prime-day-zum-neuen-bestpreis-2610-213738.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobile-wallbox-mit-11-kw-zubehoer-und-app-am-prime-day-zum-neuen-bestpreis-2610-213738.html</guid>
-      <description>Ob Garage oder Ferienhaus, die dé Mobile Wallbox lädt E-Autos per App gesteuert mit bis zu 11 kW und ist zum Prime Day so günstig wie nie. (Elektromobilität, Elektroauto)</description>
-      <pubDate>Tue, 06 Oct 2026 06:27:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
