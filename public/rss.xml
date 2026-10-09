@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 11:31:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:41:13 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Tragbarer Monitor mit 16,1'', FHD reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-tragbarer-monitor-mit-16-1-fhd-reduziert-bei-amazon-2610-213931.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-tragbarer-monitor-mit-16-1-fhd-reduziert-bei-amazon-2610-213931.html</guid>
+      <description>Ein tragbarer Monitor mit 16,1''-IPS-Display, FHD-Auflösung und integrierten Lautsprechern ist bei Amazon zum Aktionspreis erhältlich. (TV &amp; Monitore, Display)</description>
+      <pubDate>Fri, 09 Oct 2026 11:40:03 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Monitoring: LLMs als Helfer beim Troubleshooting</title>
       <link>https://www.golem.de/news/monitoring-llms-als-helfer-beim-troubleshooting-2610-213929.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fast-neun-millionen-betroffene-daenisches-melderegister-gehackt-2610-213725.html</guid>
       <description>Die Angreifer missbrauchen den legalen Zugang eines Privatunternehmens. Die zuständige Ministerin spricht von einem schwerwiegenden Vorfall. (Security, Datenschutz)</description>
       <pubDate>Mon, 05 Oct 2026 14:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Radioss: Siemens löscht Open-Source-Projekt nach Übernahme</title>
-      <link>https://www.golem.de/news/open-radioss-siemens-loescht-open-source-projekt-nach-uebernahme-2610-213724.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/open-radioss-siemens-loescht-open-source-projekt-nach-uebernahme-2610-213724.html</guid>
-      <description>Anstatt das Open-Source-Projekt Open Radioss zu archivieren, löschte Siemens das komplette Github-Repository. (Open Source, Siemens)</description>
-      <pubDate>Mon, 05 Oct 2026 14:26:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
