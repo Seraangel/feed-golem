@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 11:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 11:31:42 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Monitoring: LLMs als Helfer beim Troubleshooting</title>
+      <link>https://www.golem.de/news/monitoring-llms-als-helfer-beim-troubleshooting-2610-213929.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/monitoring-llms-als-helfer-beim-troubleshooting-2610-213929.html</guid>
+      <description>Monitoring-Anbieter verkaufen Root-Cause-Analyse mit KI als Zauberei. Doch wie weit kommt, wer LLM und Logauszug stattdessen selbst verknüpft? Ein Praxistest. Ein Praxistest von Martin Loschwitz (Softwareentwicklung, KI)</description>
+      <pubDate>Fri, 09 Oct 2026 11:30:11 GMT</pubDate>
+    </item>
     <item>
       <title>Kollisionen im Orbit: SpaceX nimmt das Problem mit Weltraumschrott nicht ernst</title>
       <link>https://www.golem.de/news/kollisionen-im-orbit-spacex-nimmt-das-problem-mit-weltraumschrott-nicht-ernst-2610-213926.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/open-radioss-siemens-loescht-open-source-projekt-nach-uebernahme-2610-213724.html</guid>
       <description>Anstatt das Open-Source-Projekt Open Radioss zu archivieren, löschte Siemens das komplette Github-Repository. (Open Source, Siemens)</description>
       <pubDate>Mon, 05 Oct 2026 14:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Kärcher Fenstersauger WV 2 Black Edition als frühes Prime-Angebot jetzt unter 46 Euro</title>
-      <link>https://www.golem.de/news/anzeige-kaercher-fenstersauger-wv-2-black-edition-als-fruehes-prime-angebot-jetzt-unter-46-euro-2610-213723.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kaercher-fenstersauger-wv-2-black-edition-als-fruehes-prime-angebot-jetzt-unter-46-euro-2610-213723.html</guid>
-      <description>Der Kärcher WV 2 Black Edition saugt Wasser von Fenstern und Duschwänden und ist zum Prime Day günstiger. (Technik/Hardware)</description>
-      <pubDate>Mon, 05 Oct 2026 14:18:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
