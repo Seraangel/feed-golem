@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 06:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:56:02 GMT</lastBuildDate>
+    <item>
+      <title>Cloudspeicher: Microsoft kürzt Onedrive-Kontingente</title>
+      <link>https://www.golem.de/news/cloudspeicher-microsoft-kuerzt-onedrive-kontingente-2610-213905.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cloudspeicher-microsoft-kuerzt-onedrive-kontingente-2610-213905.html</guid>
+      <description>Microsoft ändert den Onedrive-Speicher in mehreren Microsoft-365-Abos. Künftig gilt ein gemeinsamer Speicherpool statt 1 TByte pro Person. (Onedrive, Microsoft)</description>
+      <pubDate>Fri, 09 Oct 2026 06:52:06 GMT</pubDate>
+    </item>
     <item>
       <title>Gender Pay-Gap: Weibliche KI-Agenten bekommen zehn Prozent weniger</title>
       <link>https://www.golem.de/news/gender-pay-gap-weibliche-ki-agenten-bekommen-zehn-prozent-weniger-2610-213904.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bildmanipulationen-content-signatur-c2pa-ausgehebelt-2610-213700.html</guid>
       <description>Ein Sicherheitsforscher nutzt eine Regel des Standards, die Bereiche eines Bilds von der Signaturberechnung ausschließt. Diese Regel ist jedoch technisch notwendig. (Datensicherheit, Photoshop)</description>
       <pubDate>Mon, 05 Oct 2026 09:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chipkrise: Google erhöht Preis des Pixel 10a um 100 Euro</title>
-      <link>https://www.golem.de/news/chipkrise-google-erhoeht-preis-des-pixel-10a-um-100-euro-2610-213701.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/chipkrise-google-erhoeht-preis-des-pixel-10a-um-100-euro-2610-213701.html</guid>
-      <description>Nicht nur die neue Pixel-11-Serie ist teurer geworden: Google hebt auch den Preis des Pixel 10a auf 650 Euro an. Online ist das Gerät günstiger. (Smartphone, Google)</description>
-      <pubDate>Mon, 05 Oct 2026 09:28:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
