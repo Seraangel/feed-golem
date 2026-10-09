@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 10:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 10:26:09 GMT</lastBuildDate>
+    <item>
+      <title>800-MHz-Coup: Wie SpaceX erneut den Mobilfunkmarkt angreift</title>
+      <link>https://www.golem.de/news/800-mhz-coup-wie-spacex-erneut-den-mobilfunkmarkt-angreift-2610-213923.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/800-mhz-coup-wie-spacex-erneut-den-mobilfunkmarkt-angreift-2610-213923.html</guid>
+      <description>Ein milliardenschwerer Spektrums-Deal und Hilfe von der FCC: SpaceX rüstet Starlink Mobile für den Massenmarkt auf. Satelliten-Anrufe und -Nachrichten funktionieren künftig auch in Gebäuden. Eine Analyse von Achim Sawall (Elon Musk, FCC)</description>
+      <pubDate>Fri, 09 Oct 2026 10:25:05 GMT</pubDate>
+    </item>
     <item>
       <title>Fortschritte in der KI-Mathematik: Forscher sehen Gefahren für Kryptowährungen</title>
       <link>https://www.golem.de/news/fortschritte-in-der-ki-mathematik-forscher-sehen-gefahren-fuer-kryptowaehrungen-2610-213922.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kein-test-im-regen-softwarebug-legt-formel-1-autos-lahm-und-verzoegert-rennstart-2610-213719.html</guid>
       <description>Um ein Formel-1-Rennen fortsetzen zu können, haben die Teams ein Softwareupdate auf den Fahrzeugen installieren müssen. (Formel 1, Elektroauto)</description>
       <pubDate>Mon, 05 Oct 2026 13:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stephen Wolfram: KI kann Mathematiker nicht ersetzen</title>
-      <link>https://www.golem.de/news/stephen-wolfram-ki-kann-mathematiker-nicht-ersetzen-2610-213717.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/stephen-wolfram-ki-kann-mathematiker-nicht-ersetzen-2610-213717.html</guid>
-      <description>KI wird Mathematikern neue Horizonte eröffnen, ist Stephen Wolfram überzeugt. Arbeitslos würden die aber nicht, allein liefere KI Alien-Mathematik. (Wissenschaft, KI)</description>
-      <pubDate>Mon, 05 Oct 2026 13:19:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
