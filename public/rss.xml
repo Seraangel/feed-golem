@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 06:16:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 06:21:22 GMT</lastBuildDate>
+    <item>
+      <title>Auch Adobe und US-Unis betroffen: US-Regierung verweigert Visa für Microsoft-Beschäftigte</title>
+      <link>https://www.golem.de/news/auch-adobe-und-us-unis-betroffen-us-regierung-verweigert-visa-fuer-microsoft-beschaeftigte-2610-213903.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/auch-adobe-und-us-unis-betroffen-us-regierung-verweigert-visa-fuer-microsoft-beschaeftigte-2610-213903.html</guid>
+      <description>Die US-Regierung wirft Microsoft vor, amerikanische Mitarbeiter gegen ausländische Arbeitskräfte ersetzt zu haben. Das hat Folgen. (Microsoft, Adobe)</description>
+      <pubDate>Fri, 09 Oct 2026 06:19:05 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Agenten: Grok Bot postet private Kontostände im Firmen-Slack</title>
       <link>https://www.golem.de/news/ki-agenten-grok-bot-postet-private-kontostaende-im-firmen-slack-2610-213902.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rechenzentren-in-nebraska-schlechte-schwaerzung-verraet-steuergeschenke-an-google-2610-213699.html</guid>
       <description>Geschwärzte Stellen sind per Copy-Paste leserlich gemacht worden. Dahinter finden sich Infos zu Steuerrückzahlungen und Strombedarf für Rechenzentren. (Google, Rechenzentrum)</description>
       <pubDate>Mon, 05 Oct 2026 09:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gears of War: Microsoft verkürzt Shader-Wartezeit um 95 Prozent</title>
-      <link>https://www.golem.de/news/gears-of-war-microsoft-verkuerzt-shader-wartezeit-um-95-prozent-2610-213698.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gears-of-war-microsoft-verkuerzt-shader-wartezeit-um-95-prozent-2610-213698.html</guid>
-      <description>Advanced Shader Delivery kommt für weitere Grafikkarten. Bei Gears of War soll die Technik minutenlange Wartezeiten massiv verkürzen. (DirectX, AMD)</description>
-      <pubDate>Mon, 05 Oct 2026 09:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
