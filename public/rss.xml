@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 07:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 07:25:59 GMT</lastBuildDate>
+    <item>
+      <title>Gradmesser für KI-Nachfrage: OpenAI meldet 20 Milliarden weniger Umsatz als erwartet</title>
+      <link>https://www.golem.de/news/gradmesser-fuer-ki-nachfrage-openai-meldet-20-milliarden-weniger-umsatz-als-erwartet-2610-213906.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gradmesser-fuer-ki-nachfrage-openai-meldet-20-milliarden-weniger-umsatz-als-erwartet-2610-213906.html</guid>
+      <description>Die ausbleibenden Umsätze bei OpenAI haben Auswirkungen auf die Aktienkurse großer Technologieunternehmen. (OpenAI, Börse)</description>
+      <pubDate>Fri, 09 Oct 2026 07:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>Wenn Algorithmen angreifen: SPD will BSI zum KI-Lagezentrum machen</title>
       <link>https://www.golem.de/news/wenn-algorithmen-angreifen-spd-will-bsi-zum-ki-lagezentrum-machen-2610-213899.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-antriebssystem-eines-oel-supertankers-gehackt-2610-213707.html</guid>
       <description>Unbefugte kontrollieren das digitale System des Schiffs. Es ist nicht der erste Vorfall dieser Art. (Hacker, Security)</description>
       <pubDate>Mon, 05 Oct 2026 10:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ploopy Bean im Test: Ein mausgewordener Trackpoint</title>
-      <link>https://www.golem.de/news/ploopy-bean-im-test-ein-mausgewordener-trackpoint-2610-213168.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ploopy-bean-im-test-ein-mausgewordener-trackpoint-2610-213168.html</guid>
-      <description>Der Ploopy Bean ist eine quelloffene, 3D-gedruckte Trackpoint-Maus. Für Trackpoint-Fans ist er ideal, auch wenn man sich umgewöhnen muss. Ein Test von Tobias Költzsch (Peripheriegeräte, Test)</description>
-      <pubDate>Mon, 05 Oct 2026 10:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
