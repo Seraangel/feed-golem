@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 10 Oct 2026 12:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 13:31:40 GMT</lastBuildDate>
+    <item>
+      <title>Speicherkrise: Intel plant offenbar neue CPUs für den Sockel LGA 1700</title>
+      <link>https://www.golem.de/news/speicherkrise-intel-plant-offenbar-neue-cpus-fuer-den-sockel-lga-1700-2610-213956.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/speicherkrise-intel-plant-offenbar-neue-cpus-fuer-den-sockel-lga-1700-2610-213956.html</guid>
+      <description>Gigabyte bereitet Mainboards auf neue LGA-1700-CPUs vor. Sie sollen Anfang 2027 erscheinen und auch auf DDR4-Boards laufen. (DDR4, Prozessor)</description>
+      <pubDate>Sat, 10 Oct 2026 13:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>Mobilität: BMW cancelt Dienstwagen für AfD-Landtagspräsidenten</title>
       <link>https://www.golem.de/news/mobilitaet-bmw-cancelt-dienstwagen-fuer-afd-landtagspraesidenten-2610-213957.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/open-source-llm-reflection-ai-veroeffentlicht-ki-modell-als-konkurrenz-zu-china-2610-213749.html</guid>
       <description>Das erste KI-Modell des US-Start-ups Reflection AI soll sich der Leistung von Alibabas Qwen 3.8-Max annähern. (KI, Start-up)</description>
       <pubDate>Tue, 06 Oct 2026 08:55:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>NBA 2K25: Nach zwei Jahren ist ein wichtiger Spielmodus einfach weg</title>
-      <link>https://www.golem.de/news/nba-2k25-hersteller-schaltet-nach-gut-zwei-jahren-karrieremodus-ab-2610-213747.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nba-2k25-hersteller-schaltet-nach-gut-zwei-jahren-karrieremodus-ab-2610-213747.html</guid>
-      <description>Das Sportspiel NBA 2K25 verliert große Teile seines Inhalts. Auch der eigentlich für Einzelspieler gedachte Karrieremodus wird unbrauchbar. (Sportspiel, Spiele)</description>
-      <pubDate>Tue, 06 Oct 2026 08:42:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
