@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 09 Oct 2026 17:01:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:36:07 GMT</lastBuildDate>
+    <item>
+      <title>Mini-PCs im KI-Test: Apple vs. AMD und Intel mit lokalen LLMs</title>
+      <link>https://www.golem.de/news/mini-pcs-im-ki-test-apple-vs-amd-und-intel-mit-lokalen-llms-2610-213894.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mini-pcs-im-ki-test-apple-vs-amd-und-intel-mit-lokalen-llms-2610-213894.html</guid>
+      <description>Ein Schreibtisch voller Mini-PCs und ein automatisierter Benchmark für lokale LLMs sind ein Fest für jeden Golem-Redakteur. Ein Test von Mike Faust (PC &amp; Notebooks, Mac)</description>
+      <pubDate>Sat, 10 Oct 2026 05:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Chinesische Onlinehändler: Zölle gegen Temu, Aliexpress treffen den gesamten deutschen Markt</title>
       <link>https://www.golem.de/news/chinesische-onlinehaendler-zoelle-gegen-temu-aliexpress-treffen-den-gesamten-deutschen-markt-2610-213948.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-openai-versieht-chatgpt-texte-in-der-eu-mit-wasserzeichen-2610-213740.html</guid>
       <description>Auch OpenAI markiert nun ChatGPT- und Codex-Texte in der EU. Den Detektor erhalten vorerst aber nur Forscher. (OpenAI, KI)</description>
       <pubDate>Tue, 06 Oct 2026 07:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Vertrauen als Voraussetzung erfolgreicher KI-Skalierung</title>
-      <link>https://www.golem.de/news/anzeige-vertrauen-als-voraussetzung-erfolgreicher-ki-skalierung-2610-213687.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-vertrauen-als-voraussetzung-erfolgreicher-ki-skalierung-2610-213687.html</guid>
-      <description>KI-Piloten überzeugen schnell. Doch im produktiven Betrieb zählen andere Fragen: Welche Daten nutzt ein System, welche Rechte gelten, wer handelt - und wie bleibt jeder Schritt später nachvollziehbar? (Telekom, KI)</description>
-      <pubDate>Tue, 06 Oct 2026 07:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
