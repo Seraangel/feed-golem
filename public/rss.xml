@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 10 Oct 2026 05:36:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 08:06:03 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Private Unfallversicherung: Wann eine Unfallversicherung für ITler sinnvoll sein kann</title>
+      <link>https://www.golem.de/news/private-unfallversicherung-wann-eine-unfallversicherung-fuer-itler-sinnvoll-sein-kann-2610-213937.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/private-unfallversicherung-wann-eine-unfallversicherung-fuer-itler-sinnvoll-sein-kann-2610-213937.html</guid>
+      <description>Ein Unfall in der Freizeit kann teuer werden - auch für Menschen mit einem Bürojob. Doch nicht jede Versicherung ist sinnvoll, und die entscheidenden Unterschiede stecken im Kleingedruckten. Ein Ratgebertext von Mathias Hofen (Arbeit, Wirtschaft)</description>
+      <pubDate>Sat, 10 Oct 2026 08:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Mini-PCs im KI-Test: Apple vs. AMD und Intel mit lokalen LLMs</title>
       <link>https://www.golem.de/news/mini-pcs-im-ki-test-apple-vs-amd-und-intel-mit-lokalen-llms-2610-213894.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-im-bewerbungsprozess-hackerrank-veroeffentlicht-ki-interviewer-chakra-2610-213743.html</guid>
       <description>Der KI-Agent Chakra führt Vorstellungsgespräche mit Entwicklern. Er bewertet dabei auch, wie Bewerber zur Lösung kommen. (Recruiting, Wirtschaft)</description>
       <pubDate>Tue, 06 Oct 2026 07:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz: OpenAI versieht ChatGPT-Texte in der EU mit Wasserzeichen</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-openai-versieht-chatgpt-texte-in-der-eu-mit-wasserzeichen-2610-213740.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-openai-versieht-chatgpt-texte-in-der-eu-mit-wasserzeichen-2610-213740.html</guid>
-      <description>Auch OpenAI markiert nun ChatGPT- und Codex-Texte in der EU. Den Detektor erhalten vorerst aber nur Forscher. (OpenAI, KI)</description>
-      <pubDate>Tue, 06 Oct 2026 07:11:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
