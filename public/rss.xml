@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 10 Oct 2026 11:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 11:51:15 GMT</lastBuildDate>
+    <item>
+      <title>KI-Agenten: Claude gibt Polizei falsche Hinweise</title>
+      <link>https://www.golem.de/news/ki-agenten-claude-gibt-polizei-falsche-hinweise-2610-213954.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-claude-gibt-polizei-falsche-hinweise-2610-213954.html</guid>
+      <description>Claude Haiku 4.5 hat in einem Test ein Formular der Polizei Philadelphia ausgefüllt. Der Hinweis zu einem Mordfall war aber unzutreffend. (KI, Software)</description>
+      <pubDate>Sat, 10 Oct 2026 11:48:06 GMT</pubDate>
+    </item>
     <item>
       <title>Vibecoding: Entwickler baut Adobe-Alternativen mit Claude in Rust</title>
       <link>https://www.golem.de/news/vibecoding-entwickler-baut-adobe-alternativen-mit-claude-in-rust-2610-213953.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/android-patchday-google-stopft-sieben-kritische-loecher-2610-213746.html</guid>
       <description>Mindestens zwei Anfälligkeiten lassen sich ohne Interaktion mit einem Anwender ausnutzen. Sie erlauben Denial-of-Service und eine Rechteausweitung. (Android-Updates, Google)</description>
       <pubDate>Tue, 06 Oct 2026 08:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Govee-LED-Strip (20 m) am Prime Day wieder für nur einen Euro pro Meter</title>
-      <link>https://www.golem.de/news/anzeige-govee-led-strip-20-m-am-prime-day-wieder-fuer-nur-einen-euro-pro-meter-2610-213745.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-govee-led-strip-20-m-am-prime-day-wieder-fuer-nur-einen-euro-pro-meter-2610-213745.html</guid>
-      <description>Mit wandernden Farbverläufen und Musik-Sync setzt der Govee-LED-Strip jede Wand in Szene und ist am Prime Day wieder auf Bestpreis-Niveau (Smart Home, Technik/Hardware)</description>
-      <pubDate>Tue, 06 Oct 2026 08:23:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
