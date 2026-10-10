@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 10 Oct 2026 11:51:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:51:09 GMT</lastBuildDate>
+    <item>
+      <title>Small World in Motion: Nikon disqualifiziert Sieger wegen generativer KI</title>
+      <link>https://www.golem.de/news/small-world-in-motion-nikon-disqualifiziert-sieger-wegen-generativer-ki-2610-213955.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/small-world-in-motion-nikon-disqualifiziert-sieger-wegen-generativer-ki-2610-213955.html</guid>
+      <description>Nikon disqualifiziert den Gewinner des Wettbewerbs Small World in Motion. Das Video verstößt laut Veranstalter gegen die KI-Regeln. (Nikon, KI)</description>
+      <pubDate>Sat, 10 Oct 2026 12:46:07 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Agenten: Claude gibt Polizei falsche Hinweise</title>
       <link>https://www.golem.de/news/ki-agenten-claude-gibt-polizei-falsche-hinweise-2610-213954.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/august-hanning-ex-bnd-chef-wegen-spionageverdachts-festgenommen-2610-213751.html</guid>
       <description>Ermittler werfen August Hanning unter anderem versuchten Landesverrat und geheimdienstliche Agententätigkeit vor. (BND, Politik)</description>
       <pubDate>Tue, 06 Oct 2026 08:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android-Patchday: Google stopft sieben kritische Löcher</title>
-      <link>https://www.golem.de/news/android-patchday-google-stopft-sieben-kritische-loecher-2610-213746.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/android-patchday-google-stopft-sieben-kritische-loecher-2610-213746.html</guid>
-      <description>Mindestens zwei Anfälligkeiten lassen sich ohne Interaktion mit einem Anwender ausnutzen. Sie erlauben Denial-of-Service und eine Rechteausweitung. (Android-Updates, Google)</description>
-      <pubDate>Tue, 06 Oct 2026 08:31:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
