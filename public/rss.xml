@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 11 Oct 2026 11:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:46:05 GMT</lastBuildDate>
+    <item>
+      <title>KI: Bundesregierung lässt Mistral fallen</title>
+      <link>https://www.golem.de/news/ki-bundesregierung-laesst-mistral-fallen-2610-213963.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-bundesregierung-laesst-mistral-fallen-2610-213963.html</guid>
+      <description>Der geplante KI-Rahmenvertrag zwischen Deuschland, Mistral und SAP ist vorerst vom Tisch. (Bundesregierung, KI)</description>
+      <pubDate>Sun, 11 Oct 2026 11:41:04 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft-Chef Nadella: KI darf sich nicht selbst kontrollieren</title>
       <link>https://www.golem.de/news/microsoft-chef-nadella-ki-darf-sich-nicht-selbst-kontrollieren-2610-213964.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/forschung-ki-agenten-identifizieren-neue-antiferromagneten-2610-213763.html</guid>
       <description>Ein Unternehmen für KI-Evaluierung hat zwei bei Raumtemperatur stabile antiferromagnetische Materialien entdeckt. Einen Haken haben aber beide. (Innovation &amp; Forschung, KI)</description>
       <pubDate>Tue, 06 Oct 2026 11:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firmen reagieren mit Umstellung: KI-Ausgaben steigen in Deutschland auf Milliardenhöhe</title>
-      <link>https://www.golem.de/news/firmen-reagieren-mit-umstellung-ki-ausgaben-steigen-in-deutschland-auf-milliardenhoehe-2610-213758.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/firmen-reagieren-mit-umstellung-ki-ausgaben-steigen-in-deutschland-auf-milliardenhoehe-2610-213758.html</guid>
-      <description>Trotz sinkender Tokenpreise steigen die Kosten für KI-Anwendungen in deutschen Unternehmen weiter an. Erste Firmen reagieren darauf. (KI, Wirtschaft)</description>
-      <pubDate>Tue, 06 Oct 2026 10:53:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
