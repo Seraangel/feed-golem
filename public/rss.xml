@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 11 Oct 2026 09:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 09:36:03 GMT</lastBuildDate>
+    <item>
+      <title>Assistenzsystem: Tesla benennt Full Self Driving um</title>
+      <link>https://www.golem.de/news/assistenzsystem-tesla-benennt-full-self-driving-um-2610-213959.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/assistenzsystem-tesla-benennt-full-self-driving-um-2610-213959.html</guid>
+      <description>Nach Kritik aus Deutschland hat Tesla sein Assistenzsystem umbenannt. Der neue Name klingt bescheidener, die Technik bleibt die gleiche. (Autonomes Fahren, Elektroauto)</description>
+      <pubDate>Sun, 11 Oct 2026 09:32:11 GMT</pubDate>
+    </item>
     <item>
       <title>Historische Score-Berechnung: Schufa gibt Nutzern Auskunft zu Schattendatenbank</title>
       <link>https://www.golem.de/news/historische-score-berechnung-schufa-erteilt-auskunft-zu-schattendatenbank-2610-213960.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-testsieger-airfryer-mit-doppelkammer-von-cosori-am-prime-day-erstmals-unter-100-euro-2610-213759.html</guid>
       <description>Den Cosori Airfryer mit zwei Kammern und Sichtfenster kürte Stiftung Warentest zum Testsieger, zum Prime Day ist er so günstig wie nie. (Technik/Hardware)</description>
       <pubDate>Tue, 06 Oct 2026 10:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pixel 11: GrapheneOS kritisiert weiterhin fehlende Sicherheitsfunktion</title>
-      <link>https://www.golem.de/news/pixel-11-grapheneos-kritisiert-weiterhin-fehlende-sicherheitsfunktion-2610-213755.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pixel-11-grapheneos-kritisiert-weiterhin-fehlende-sicherheitsfunktion-2610-213755.html</guid>
-      <description>Ohne Unterstützung für die CPU-Erweiterung MTE gibt es kein GrapheneOS für das Pixel 11. Die endgültige Entscheidung kündigt GrapheneOS für Dezember an. (GrapheneOS, Google)</description>
-      <pubDate>Tue, 06 Oct 2026 10:26:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
