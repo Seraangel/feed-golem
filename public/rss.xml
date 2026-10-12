@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 11:21:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:36:02 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Gel Data: Wenn SQL-Abfragen zu kompliziert werden</title>
+      <link>https://www.golem.de/news/gel-data-wenn-sql-abfragen-zu-kompliziert-werden-2610-213992.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gel-data-wenn-sql-abfragen-zu-kompliziert-werden-2610-213992.html</guid>
+      <description>Viele Tabellen, komplizierte Joins? Gel Data verspricht einfachere Datenmodelle und Abfragen. Wir zeigen an einem Praxisbeispiel, wie das geht. Ein Ratgebertext von Antony Ghiroz (Datenbank, PostgreSQL)</description>
+      <pubDate>Mon, 12 Oct 2026 11:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Über 10.000 Käufe im Monat - Diese Akku-Luftpumpe kostet nur 22,95 Euro</title>
       <link>https://www.golem.de/news/anzeige-ueber-10-000-kaeufe-im-monat-diese-akku-luftpumpe-kostet-nur-22-95-euro-2610-214002.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/paramount-schluckt-warner-aus-hbo-max-und-paramount-wird-ein-streamingabo-2610-213789.html</guid>
       <description>Abonnenten dürfen nach der Zusammenlegung von HBO Max und Paramount+ deutlich mehr Auswahl bei Filmen und Serien erwarten. Netflix bleibt uneinholbar. (Paramount, Streaming)</description>
       <pubDate>Wed, 07 Oct 2026 06:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Einhell-Kettensägen nur noch heute bei Amazon ab 62 Euro</title>
-      <link>https://www.golem.de/news/anzeige-einhell-kettensaegen-nur-noch-heute-bei-amazon-ab-62-euro-2610-213788.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-kettensaegen-nur-noch-heute-bei-amazon-ab-62-euro-2610-213788.html</guid>
-      <description>Bei Amazon sind eine Kettensäge für einfache Aufgaben und ein Professional-Modell günstiger zu haben. Doch das Angebot gilt nur noch heute. (Prime Day, Technik/Hardware)</description>
-      <pubDate>Wed, 07 Oct 2026 05:58:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
