@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 09:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 09:21:01 GMT</lastBuildDate>
+    <item>
+      <title>Decart: Amazon verhandelt KI-Übernahme für sieben Milliarden US-Dollar</title>
+      <link>https://www.golem.de/news/decart-amazon-verhandelt-ki-uebernahme-fuer-sieben-milliarden-us-dollar-2610-213988.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/decart-amazon-verhandelt-ki-uebernahme-fuer-sieben-milliarden-us-dollar-2610-213988.html</guid>
+      <description>Für Amazon/AWS löst Decart das Problem, dass Unternehmen ihre Modelle nur schwer von Nvidia-Hardware zu AWS-Chips verlagern können. (AWS, KI)</description>
+      <pubDate>Mon, 12 Oct 2026 09:16:10 GMT</pubDate>
+    </item>
     <item>
       <title>Post: Porto kann so stark steigen wie nie zuvor</title>
       <link>https://www.golem.de/news/post-porto-kann-so-stark-steigen-wie-nie-zuvor-2610-213987.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-reolink-4k-solarkamera-argus-pt-ultra-am-prime-day-erstmals-unter-110-euro-2610-213780.html</guid>
       <description>Ohne Kabel und ohne Abo folgt die Reolink-Außenkamera Bewegungen in 4K und führt am Prime Day eine Riege reduzierter Überwachungskameras an. (Technik/Hardware, Smart Home)</description>
       <pubDate>Tue, 06 Oct 2026 15:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>FSD Supervised: Bundesverkehrsminister will Zulassung von Teslas Fahrassistenten</title>
-      <link>https://www.golem.de/news/fsd-supervised-bundesverkehrsminister-will-zulassung-von-teslas-fahrassistenten-2610-213778.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fsd-supervised-bundesverkehrsminister-will-zulassung-von-teslas-fahrassistenten-2610-213778.html</guid>
-      <description>Bundesverkehrsminister Steffen Bilger ist offenbar von Teslas FSD Supervised überzeugt. Das System solle in der EU zugelassen werden. (Tesla, Elektroauto)</description>
-      <pubDate>Tue, 06 Oct 2026 14:47:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
