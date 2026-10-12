@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 15:02:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:36:19 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Bluetooth-Adapter mit USB für nur 16,99 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-bluetooth-adapter-mit-usb-fuer-nur-16-99-euro-bei-amazon-2610-214020.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bluetooth-adapter-mit-usb-fuer-nur-16-99-euro-bei-amazon-2610-214020.html</guid>
+      <description>Der Online-Händler hat einen Bluetooth-Adapter im Angebot, mit dem Autofahrer unterwegs Musik streamen, telefonieren und Mobilgeräte aufladen können. (Technik/Hardware)</description>
+      <pubDate>Mon, 12 Oct 2026 15:35:02 GMT</pubDate>
+    </item>
     <item>
       <title>Riesiger Schaden: Cyberangriff trifft Tiefkühlung in Hunderten Supermärkten</title>
       <link>https://www.golem.de/news/riesiger-schaden-cyberangriff-trifft-tiefkuehlung-in-hunderten-supermaerkten-2610-214016.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-dashcam-fuer-vorne-und-hinten-am-prime-day-fuer-nur-47-45-euro-2610-213805.html</guid>
       <description>Eine Dashcam für vorne und hinten mit Parküberwachung und Loop-Aufnahme gibt es inklusive Speicherkarte am Prime Day günstig bei Amazon. (Technik/Hardware, Ultra-HD)</description>
       <pubDate>Wed, 07 Oct 2026 10:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Physics-LLM: Physik-Analysen in Stunden statt Monaten</title>
-      <link>https://www.golem.de/news/physics-llm-der-kuenstliche-physiker-2610-213799.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/physics-llm-der-kuenstliche-physiker-2610-213799.html</guid>
-      <description>Physics-LLM soll Analyseaufgaben drastisch beschleunigen und als Open-Source-Werkzeug für Europas Physikforschung dienen. Ein Bericht von Dirk Eidemüller (Wissenschaft, KI)</description>
-      <pubDate>Wed, 07 Oct 2026 10:00:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
