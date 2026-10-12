@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 10:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:31:13 GMT</lastBuildDate>
+    <item>
+      <title>Dringendes Update: Citrix warnt vor kritischer Lücke in Netscaler</title>
+      <link>https://www.golem.de/news/dringendes-update-citrix-warnt-vor-kritischer-luecke-in-netscaler-2610-213995.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/dringendes-update-citrix-warnt-vor-kritischer-luecke-in-netscaler-2610-213995.html</guid>
+      <description>Die Schwachstelle erlaubt eine Remotecodeausführung. Netscaler ADP und Netscaler Gateway sind auch anfällig für Denial-of-Service. (Sicherheitslücke, Citrix)</description>
+      <pubDate>Mon, 12 Oct 2026 10:29:07 GMT</pubDate>
+    </item>
     <item>
       <title>Amazons E-Book-Reader: Verwirrung um Austausch des Kindle mit Displayfehler</title>
       <link>https://www.golem.de/news/amazons-e-book-reader-verwirrung-um-austausch-des-kindle-mit-displayfehler-2610-213994.html</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 12 Oct 2026 10:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>Subaru E-Outback im Offroad-Test: Wühlen unter Strom</title>
+      <title>Subaru E-Outback im Offroad-Test: Subarus neues Elektroauto kann auch ohne Straßen</title>
       <link>https://www.golem.de/news/subaru-e-outback-im-offroad-test-wuehlen-unter-strom-2610-213947.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/subaru-e-outback-im-offroad-test-wuehlen-unter-strom-2610-213947.html</guid>
       <description>Tiefer Sand, steile Hänge und in der Luft hängende Räder: Subaru schickt seinen elektrischen Outback ins Gelände. Im Test zeigt sich, was der Allrad-SUV kann. Ein Test von Tobias Költzsch (Subaru, Elektroauto)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-fuer-microsoft-365-systematisch-umsetzen-2610-213235.html</guid>
       <description>Microsoft 365 Zero Trust verbindet Zugriffskontrolle, Datenschutz und Monitoring. Ein Online-Workshop vermittelt die zentralen Bausteine für die Umsetzung. (Golem Karrierewelt, Sicherheitslücke)</description>
       <pubDate>Tue, 06 Oct 2026 18:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Satellitenmobilfunk: T-Mobile US distanziert sich von Elon Musks Starlink</title>
-      <link>https://www.golem.de/news/satellitenmobilfunk-t-mobile-us-distanziert-sich-von-elon-musks-starlink-2610-213784.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/satellitenmobilfunk-t-mobile-us-distanziert-sich-von-elon-musks-starlink-2610-213784.html</guid>
-      <description>Der Aufbau eines eigenen Mobilfunknetzes durch SpaceX ruft bei etablierten Anbietern nicht nur Spott hervor. Sie bauen nun eine Konkurrenz auf und T-Mobile US streicht den Namenszug von Starlink auf der Koop-Seite. (Elon Musk, Mobilfunk)</description>
-      <pubDate>Tue, 06 Oct 2026 16:58:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
