@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 12:01:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:16:19 GMT</lastBuildDate>
+    <item>
+      <title>Gartner: DRAM-Preise verfünffacht, PC-Markt bricht ein</title>
+      <link>https://www.golem.de/news/gartner-dram-preise-verfuenffacht-pc-markt-bricht-ein-2610-214004.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gartner-dram-preise-verfuenffacht-pc-markt-bricht-ein-2610-214004.html</guid>
+      <description>Die Speicherkrise zieht den gesamten PC-Markt nach unten. Weil Hersteller die Preiserhöhungen direkt an die Käufer weiterreichen, sinken die Auslieferungen auf das Niveau von Anfang 2023. (Gartner, Macbook Air)</description>
+      <pubDate>Mon, 12 Oct 2026 12:14:06 GMT</pubDate>
+    </item>
     <item>
       <title>Stadtauto: Smart #2 - Elektro-Zweisitzer kehrt mit fast 300 km Reichweite zurück</title>
       <link>https://www.golem.de/news/stadtauto-smart-2-elektro-zweisitzer-kehrt-mit-fast-300-km-reichweite-zurueck-2610-213998.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-aus-der-praxis-2610-213785.html</guid>
       <description>KI, Open Source und Observability im Praxistest: Zum 20. Jubiläum der OSMC vom 17. bis 19. November gibt es Vorträge, Workshops und Praxisberichte - und für Golem-Leser 15 Prozent Rabatt! (Software)</description>
       <pubDate>Wed, 07 Oct 2026 07:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zeekr 9X: Luxus-SUV mit Kino und Range Extender</title>
-      <link>https://www.golem.de/news/zeekr-9x-luxus-suv-mit-kino-und-range-extender-2610-213761.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zeekr-9x-luxus-suv-mit-kino-und-range-extender-2610-213761.html</guid>
-      <description>Mit dem Zeekr 9X greift die Geely-Marke etablierte Luxus-SUVs an. Sein Antrieb kombiniert elektrisches Fahren mit Plug-in-Hybrid und Range Extender. Ein Bericht von Dirk Kunde (Auto, Elektroauto)</description>
-      <pubDate>Wed, 07 Oct 2026 06:57:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
