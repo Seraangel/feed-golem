@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 13:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:33:05 GMT</lastBuildDate>
+    <item>
+      <title>Batteriebetrieben: Autonome Güterwaggons sollen Lkw ersetzen</title>
+      <link>https://www.golem.de/news/batteriebetrieben-autonome-gueterwaggons-sollen-lkw-ersetzen-2610-214011.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/batteriebetrieben-autonome-gueterwaggons-sollen-lkw-ersetzen-2610-214011.html</guid>
+      <description>Einzelne Waggons, die fernsteuerbar sind und mit Batterien fahren, könnten Container ähnlich flexibel wie Lkw transportieren, aber effizienter. (Logistik, Akku)</description>
+      <pubDate>Mon, 12 Oct 2026 13:31:03 GMT</pubDate>
+    </item>
     <item>
       <title>Star-Wars-Auktion: Darth Vaders Original-Lichtschwert für eine Million Dollar</title>
       <link>https://www.golem.de/news/star-wars-auktion-darth-vaders-original-lichtschwert-fuer-eine-million-dollar-2610-214010.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-modat-findet-tausende-offene-systeme-in-wind-und-solarparks-2610-213797.html</guid>
       <description>Modat hat in Europa 8.547 erreichbare Systeme von Wind- und Solarparks gefunden. Manche steuern einen ganzen Windpark. (Sicherheitslücke, Security)</description>
       <pubDate>Wed, 07 Oct 2026 09:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Karen Paul von Greenpeace: "Ich nenne dich auch nicht Marketing-Heini"</title>
-      <link>https://www.golem.de/news/karen-paul-von-greenpeace-ich-nenne-dich-auch-nicht-marketing-heini-2610-213713.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/karen-paul-von-greenpeace-ich-nenne-dich-auch-nicht-marketing-heini-2610-213713.html</guid>
-      <description>Wie bringt Greenpeace KI, Nachhaltigkeit und IT-Sicherheit zusammen? CIO Karen Paul erklärt es in der aktuellen Ausgabe unseres Newsletters Chefs von Devs - und räumt auch mit einem Nerd-Klischee auf. (Klima &amp; Umwelt, KI)</description>
-      <pubDate>Wed, 07 Oct 2026 09:03:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
