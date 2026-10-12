@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 14:31:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:02:09 GMT</lastBuildDate>
+    <item>
+      <title>Riesiger Schaden: Cyberangriff trifft Tiefkühlung in Hunderten Supermärkten</title>
+      <link>https://www.golem.de/news/riesiger-schaden-cyberangriff-trifft-tiefkuehlung-in-hunderten-supermaerkten-2610-214016.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/riesiger-schaden-cyberangriff-trifft-tiefkuehlung-in-hunderten-supermaerkten-2610-214016.html</guid>
+      <description>Ein Cyberangriff führt in französischen Supermärkten zu einem hohen Schaden, weil der Abtaumodus aktiviert wurde. (Cybercrime, Cyberwar)</description>
+      <pubDate>Mon, 12 Oct 2026 15:01:07 GMT</pubDate>
+    </item>
     <item>
       <title>Luxus-Elektroauto: Xpeng G9L kommt mit Kühlschrank</title>
       <link>https://www.golem.de/news/luxus-elektroauto-xpeng-g9l-kommt-mit-kuehlschrank-2610-214015.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/physics-llm-der-kuenstliche-physiker-2610-213799.html</guid>
       <description>Physics-LLM soll Analyseaufgaben drastisch beschleunigen und als Open-Source-Werkzeug für Europas Physikforschung dienen. Ein Bericht von Dirk Eidemüller (Wissenschaft, KI)</description>
       <pubDate>Wed, 07 Oct 2026 10:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fehlersuche per KI: IBM und Red Hat finden mehr als 400 Bugs in Java Code</title>
-      <link>https://www.golem.de/news/fehlersuche-per-ki-ibm-und-red-hat-finden-mehr-als-400-bugs-in-java-code-2610-213801.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fehlersuche-per-ki-ibm-und-red-hat-finden-mehr-als-400-bugs-in-java-code-2610-213801.html</guid>
-      <description>Das gemeinsame Projekt Lightwell nutzt KI-Agenten zum Aufspüren von Schwachstellen in Open-Source-Software - und zur Entwicklung der benötigten Patches. (Sicherheitslücke, IBM)</description>
-      <pubDate>Wed, 07 Oct 2026 09:50:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
