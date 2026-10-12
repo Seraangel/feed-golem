@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 07:11:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 07:16:18 GMT</lastBuildDate>
+    <item>
+      <title>Fiat Multiplay: Modulares Auto für Familie, Haustier und Fahrräder</title>
+      <link>https://www.golem.de/news/fiat-multiplay-modulares-auto-fuer-familie-haustier-und-fahrraeder-2610-213977.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fiat-multiplay-modulares-auto-fuer-familie-haustier-und-fahrraeder-2610-213977.html</guid>
+      <description>Fiat zeigt ein Konzeptauto, das sich vom Familienvan zum Pick-up wandelt und den Alltag mit modularen Ideen neu denkt. (Fiat, Auto)</description>
+      <pubDate>Mon, 12 Oct 2026 07:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>Squadron 42: Star Citizens Einzelspielerkampagne ist auf Steam gelandet</title>
       <link>https://www.golem.de/news/squadron-42-star-citizens-einzelspielerkampagne-ist-auf-steam-gelandet-2610-213984.html</link>
@@ -55,7 +62,7 @@
       <pubDate>Mon, 12 Oct 2026 06:17:02 GMT</pubDate>
     </item>
     <item>
-      <title>Dänemark: Hacker hatten wochenlang Zugriff auf zentrales Personenregister</title>
+      <title>Angriff auf dänisches Melderegister: Zugriffspasswort war offenbar 123456</title>
       <link>https://www.golem.de/news/daenemark-hacker-hatten-wochenlang-zugriff-auf-zentrales-personenregister-2610-213979.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/daenemark-hacker-hatten-wochenlang-zugriff-auf-zentrales-personenregister-2610-213979.html</guid>
       <description>Über einen IT-Dienstleister bekamen Angreifer Zugang zu Dänemarks zentralem Personenregister. Mehrere Konten der Firma waren offenbar nur mit 123456 gesichert. (Cybercrime, Security)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/garmin-enduro-4-outdoor-fenix-haelt-bis-zu-90-tage-durch-2610-213773.html</guid>
       <description>Gegenüber der Garmin Enduro 3 gibt es mehr Speicher und schnellere Karten. Viele neue Funktionen sollen auch für ältere Modelle erscheinen. (Garmin Fenix, Garmin)</description>
       <pubDate>Tue, 06 Oct 2026 13:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kostenlose Nutzung: Rücksetzdienst für Personalausweis-PIN wieder verfügbar</title>
-      <link>https://www.golem.de/news/kostenlose-nutzung-ruecksetzdienst-fuer-personalausweis-pin-wieder-verfuegbar-2610-213772.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kostenlose-nutzung-ruecksetzdienst-fuer-personalausweis-pin-wieder-verfuegbar-2610-213772.html</guid>
-      <description>Die neue EUDI-Wallet lässt sich nur mit einem ePerso aktivieren. Daher können Bürger die erforderliche PIN wieder einfacher zurücksetzen. (EUDI-Wallet, Datenschutz)</description>
-      <pubDate>Tue, 06 Oct 2026 13:17:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
