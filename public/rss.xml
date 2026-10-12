@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 10:51:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:06:23 GMT</lastBuildDate>
+    <item>
+      <title>E-Auto-Verkäufe rückläufig: Starke Einbrüche von VW auf wichtigen Märkten</title>
+      <link>https://www.golem.de/news/e-auto-verkaeufe-ruecklaeufig-starke-einbrueche-von-vw-auf-wichtigen-maerkten-2610-213999.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/e-auto-verkaeufe-ruecklaeufig-starke-einbrueche-von-vw-auf-wichtigen-maerkten-2610-213999.html</guid>
+      <description>Nur in Europa kann VW in diesem Jahr mehr E-Autos verkaufen. Das kann den starken Rückgang in anderen Regionen nicht ausgleichen. (Elektroauto, Auto)</description>
+      <pubDate>Mon, 12 Oct 2026 11:01:11 GMT</pubDate>
+    </item>
     <item>
       <title>Digital Networks Act: Machtkampf ums Festnetz spitzt sich zu</title>
       <link>https://www.golem.de/news/digital-networks-act-machtkampf-ums-festnetz-spitzt-sich-zu-2610-213997.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/august-hanning-ex-bnd-chef-soll-analyse-fuer-aserbaidschan-verfasst-haben-2610-213786.html</guid>
       <description>Die Vorwürfe gegen Ex-BND-Chef August Hanning weiten sich aus. Ermittler prüfen, ob geheime Unterlagen für Analysen für Aserbaidschan genutzt wurden. (BND, Politik)</description>
       <pubDate>Wed, 07 Oct 2026 05:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Ansible für Linux-Systeme: Deployment und Management</title>
-      <link>https://www.golem.de/news/anzeige-ansible-fuer-linux-systeme-deployment-und-management-2610-213234.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-linux-systeme-deployment-und-management-2610-213234.html</guid>
-      <description>Ansible Fundamentals erleichtern die automatisierte Verwaltung von Linux-Systemen. Die Golem Karrierewelt vermittelt den Umgang mit Playbooks, Rollen und Inventories. (Golem Karrierewelt, Open Source)</description>
-      <pubDate>Wed, 07 Oct 2026 04:00:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
