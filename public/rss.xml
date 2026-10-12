@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 13:33:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:51:26 GMT</lastBuildDate>
+    <item>
+      <title>Entlastung: Merz kündigt "in Kürze" Stromsteuersenkung an</title>
+      <link>https://www.golem.de/news/entlastung-merz-kuendigt-in-kuerze-stromsteuersenkung-an-2610-214013.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/entlastung-merz-kuendigt-in-kuerze-stromsteuersenkung-an-2610-214013.html</guid>
+      <description>Die Stromsteuer soll auf das EU-Minimum sinken. Für einen Haushalt mit 3.500 kWh Jahresverbrauch wären rund 81 Euro Entlastung möglich. (Strom, Elektroauto)</description>
+      <pubDate>Mon, 12 Oct 2026 13:46:04 GMT</pubDate>
+    </item>
     <item>
       <title>Batteriebetrieben: Autonome Güterwaggons sollen Lkw ersetzen</title>
       <link>https://www.golem.de/news/batteriebetrieben-autonome-gueterwaggons-sollen-lkw-ersetzen-2610-214011.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-akku-handstaubsauger-am-prime-day-zum-bestpreis-nur-noch-rund-44-euro-2610-213802.html</guid>
       <description>Mit zwei Saugrohren wird der Einhell-Handsauger zum Bodensauger und ist wie weitere Einhell-Geräte noch bis Mitternacht günstiger. (Technik/Hardware)</description>
       <pubDate>Wed, 07 Oct 2026 09:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT-Sicherheit: Modat findet Tausende offene Systeme in Wind- und Solarparks</title>
-      <link>https://www.golem.de/news/it-sicherheit-modat-findet-tausende-offene-systeme-in-wind-und-solarparks-2610-213797.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-modat-findet-tausende-offene-systeme-in-wind-und-solarparks-2610-213797.html</guid>
-      <description>Modat hat in Europa 8.547 erreichbare Systeme von Wind- und Solarparks gefunden. Manche steuern einen ganzen Windpark. (Sicherheitslücke, Security)</description>
-      <pubDate>Wed, 07 Oct 2026 09:12:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
