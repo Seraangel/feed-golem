@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 10:47:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 10:51:46 GMT</lastBuildDate>
+    <item>
+      <title>Digital Networks Act: Machtkampf ums Festnetz spitzt sich zu</title>
+      <link>https://www.golem.de/news/digital-networks-act-machtkampf-ums-festnetz-spitzt-sich-zu-2610-213997.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/digital-networks-act-machtkampf-ums-festnetz-spitzt-sich-zu-2610-213997.html</guid>
+      <description>Der Umstieg von Kupfer auf Glasfaser und die weitere Regulierung spaltet die europäischen Telcos. Sechs europäische Verbände haben die Allianz DNA Europe ins Leben gerufen. (Festnetz, Kabelnetz)</description>
+      <pubDate>Mon, 12 Oct 2026 10:47:09 GMT</pubDate>
+    </item>
     <item>
       <title>Dringendes Update: Citrix warnt vor kritischer Lücke in Netscaler</title>
       <link>https://www.golem.de/news/dringendes-update-citrix-warnt-vor-kritischer-luecke-in-netscaler-2610-213995.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ansible-fuer-linux-systeme-deployment-und-management-2610-213234.html</guid>
       <description>Ansible Fundamentals erleichtern die automatisierte Verwaltung von Linux-Systemen. Die Golem Karrierewelt vermittelt den Umgang mit Playbooks, Rollen und Inventories. (Golem Karrierewelt, Open Source)</description>
       <pubDate>Wed, 07 Oct 2026 04:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Zero Trust für Microsoft 365 systematisch umsetzen</title>
-      <link>https://www.golem.de/news/anzeige-zero-trust-fuer-microsoft-365-systematisch-umsetzen-2610-213235.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-fuer-microsoft-365-systematisch-umsetzen-2610-213235.html</guid>
-      <description>Microsoft 365 Zero Trust verbindet Zugriffskontrolle, Datenschutz und Monitoring. Ein Online-Workshop vermittelt die zentralen Bausteine für die Umsetzung. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Tue, 06 Oct 2026 18:30:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
