@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 12:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 12:31:11 GMT</lastBuildDate>
+    <item>
+      <title>Umbennenung von KI in SI: Ist Trump die echte Superintelligenz?</title>
+      <link>https://www.golem.de/news/umbennenung-von-ki-in-si-ist-trump-die-echte-superintelligenz-2610-213991.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/umbennenung-von-ki-in-si-ist-trump-die-echte-superintelligenz-2610-213991.html</guid>
+      <description>Der US-Präsident ist so gerissen, dass er selbst Microsoft-CEO Satya Nadella auf die Seite der Superintelligenzen gezogen hat. Eine Glosse von Oliver Nickel (KI, Microsoft)</description>
+      <pubDate>Mon, 12 Oct 2026 12:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Gartner: DRAM-Preise verfünffacht, PC-Markt bricht ein</title>
       <link>https://www.golem.de/news/gartner-dram-preise-verfuenffacht-pc-markt-bricht-ein-2610-214004.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-abos-claude-abos-bieten-laut-analyse-mehr-gegenwert-als-openai-2610-213791.html</guid>
       <description>Semianalysis hat KI-Abos getestet. Bei den mittleren Modellen liefert Anthropic demnach etwa fünfmal mehr Gegenwert als OpenAI. (KI, API)</description>
       <pubDate>Wed, 07 Oct 2026 07:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: 20 Jahre OSMC - Monitoring aus der Praxis</title>
-      <link>https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-aus-der-praxis-2610-213785.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-20-jahre-osmc-monitoring-aus-der-praxis-2610-213785.html</guid>
-      <description>KI, Open Source und Observability im Praxistest: Zum 20. Jubiläum der OSMC vom 17. bis 19. November gibt es Vorträge, Workshops und Praxisberichte - und für Golem-Leser 15 Prozent Rabatt! (Software)</description>
-      <pubDate>Wed, 07 Oct 2026 07:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
