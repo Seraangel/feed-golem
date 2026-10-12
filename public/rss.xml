@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 12 Oct 2026 14:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:31:45 GMT</lastBuildDate>
+    <item>
+      <title>Luxus-Elektroauto: Xpeng G9L kommt mit Kühlschrank</title>
+      <link>https://www.golem.de/news/luxus-elektroauto-xpeng-g9l-kommt-mit-kuehlschrank-2610-214015.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/luxus-elektroauto-xpeng-g9l-kommt-mit-kuehlschrank-2610-214015.html</guid>
+      <description>Xpeng bringt seinen Flaggschiff-SUV G9L nach Europa. 800 Volt, 540 kW Ladeleistung und 591 km Reichweite sowie ein großes Kühlfach sind die Eckdaten. (Xpeng, Elektroauto)</description>
+      <pubDate>Mon, 12 Oct 2026 14:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>Kostenfalle KI: Gratisdemo auf Steam verschlingt 1.000 US-Dollar täglich</title>
       <link>https://www.golem.de/news/kostenfalle-ki-gratisdemo-auf-steam-verschlingt-1-000-us-dollar-taeglich-2610-214012.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fehlersuche-per-ki-ibm-und-red-hat-finden-mehr-als-400-bugs-in-java-code-2610-213801.html</guid>
       <description>Das gemeinsame Projekt Lightwell nutzt KI-Agenten zum Aufspüren von Schwachstellen in Open-Source-Software - und zur Entwicklung der benötigten Patches. (Sicherheitslücke, IBM)</description>
       <pubDate>Wed, 07 Oct 2026 09:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forschung &amp; KI: OpenAI veröffentlicht Lösungen für 372 Mathe-Probleme</title>
-      <link>https://www.golem.de/news/forschung-ki-openai-veroeffentlicht-loesungen-fuer-372-mathe-probleme-2610-213798.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/forschung-ki-openai-veroeffentlicht-loesungen-fuer-372-mathe-probleme-2610-213798.html</guid>
-      <description>OpenAI hat Hunderte Dokumente zu mathematischen Problemen veröffentlicht. Darunter ist ein weiteres Millenium-Problem. (Innovation &amp; Forschung, KI)</description>
-      <pubDate>Wed, 07 Oct 2026 09:38:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
