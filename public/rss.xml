@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 11:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 11:32:05 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Windows-Kernel: Ein falsches Jobangebot hebelt den Windows-Schutz aus</title>
+      <link>https://www.golem.de/news/windows-kernel-ein-falsches-jobangebot-hebelt-den-windows-schutz-aus-2610-214044.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-kernel-ein-falsches-jobangebot-hebelt-den-windows-schutz-aus-2610-214044.html</guid>
+      <description>Mit gefälschten Jobangeboten schleusten nordkoreanische Hacker Schadcode ein und schalteten über eine Windows-Lücke Sicherheitssoftware aus. Wie Admins solche Angriffe erkennen können. Ein Ratgebertext von Steffen Zahn (Security, Server)</description>
+      <pubDate>Tue, 13 Oct 2026 11:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Über Zero-Day-Lücke: Offenbar erster KI-Angriff auf deutsche Kommune</title>
       <link>https://www.golem.de/news/ueber-zero-day-luecke-offenbar-erster-ki-angriff-auf-deutsche-kommune-2610-214050.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nato-in-alarmbereitschaft-drohnenangriffe-auf-handelsschiffe-im-schwarzen-meer-2610-213810.html</guid>
       <description>Innerhalb von 48 Stunden wurden zwei Frachter versenkt und ein dritter in Brand gesetzt, erstmals in den Wirtschaftszonen von Nato-Mitgliedern. (Ukrainekrieg, Politik)</description>
       <pubDate>Wed, 07 Oct 2026 16:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Künstliche Intelligenz: Mitsui Fudosan baut Rechenzentrum in stillgelegtem Tunnel in Japan</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-mitsui-fudosan-baut-rechenzentrum-in-stillgelegtem-tunnel-in-japan-2610-213830.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-mitsui-fudosan-baut-rechenzentrum-in-stillgelegtem-tunnel-in-japan-2610-213830.html</guid>
-      <description>Unsere Leseempfehlung: Alte Tunnel, stillgelegte Minen, Waldgebiete - Nikkei Asia zeigt, wo Japan künftig Rechenzentren bauen will. Von Moe Saito (Rechenzentrum, Golem Plus)</description>
-      <pubDate>Wed, 07 Oct 2026 16:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
