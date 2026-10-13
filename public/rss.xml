@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 14:50:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:05:24 GMT</lastBuildDate>
+    <item>
+      <title>Von Meta entwickelt: Google führt Alternative für Python-Typchecker Pytype ein</title>
+      <link>https://www.golem.de/news/von-meta-entwickelt-google-fuehrt-alternative-fuer-python-typchecker-pytype-ein-2610-214061.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/von-meta-entwickelt-google-fuehrt-alternative-fuer-python-typchecker-pytype-ein-2610-214061.html</guid>
+      <description>Durch die Ablösung des alten Typcheckers werden laut Google erhebliche Ressourcen eingespart. (Google, Python)</description>
+      <pubDate>Tue, 13 Oct 2026 15:04:03 GMT</pubDate>
+    </item>
     <item>
       <title>AI Act: Apple smartes Display Homeview kommt nicht in die EU</title>
       <link>https://www.golem.de/news/ai-act-apple-smartes-display-homeview-kommt-nicht-in-die-eu-2610-214062.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/hybrid-intelligence-microsoft-oeffnet-copilot-den-zugriff-auf-windows-dateien-2610-213852.html</guid>
       <description>KI-Agenten sollen Dateien in einer Sandbox bearbeiten können. Microsoft will den Zugriff dabei kontrollierbar halten. (Copilot, Microsoft)</description>
       <pubDate>Thu, 08 Oct 2026 06:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>SynthID: Googles KI-Detektor kann jetzt generierte Bilder erkennen</title>
-      <link>https://www.golem.de/news/synthid-googles-ki-detektor-kann-jetzt-generierte-bilder-erkennen-2610-213848.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/synthid-googles-ki-detektor-kann-jetzt-generierte-bilder-erkennen-2610-213848.html</guid>
-      <description>Mit dem SynthID-Detektor prüfen Nutzer selbst, ob Bilder, Videos oder Audiodateien von KI erzeugt wurden. Doch die Aussagekraft hat Grenzen. (Google, KI)</description>
-      <pubDate>Thu, 08 Oct 2026 06:35:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
