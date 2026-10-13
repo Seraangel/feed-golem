@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 15:29:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:46:34 GMT</lastBuildDate>
+    <item>
+      <title>KI für Ermittlungsbehörden: Software soll Wohnungen und Häuser über Innenraumfotos orten</title>
+      <link>https://www.golem.de/news/ki-fuer-ermittlungsbehoerden-software-soll-wohnungen-und-haeuser-ueber-innenraumfotos-orten-2610-214067.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-fuer-ermittlungsbehoerden-software-soll-wohnungen-und-haeuser-ueber-innenraumfotos-orten-2610-214067.html</guid>
+      <description>Für die Zuordnung der Wohnadresse soll der KI ein einzelnes Bild ausreichen. (KI, Politik)</description>
+      <pubDate>Tue, 13 Oct 2026 15:43:09 GMT</pubDate>
+    </item>
     <item>
       <title>Garmin Marq 3: Luxus-Sportuhren kosten bis zu 3.150 Euro</title>
       <link>https://www.golem.de/news/garmin-marq-3-luxus-sportuhren-kosten-bis-zu-3-150-euro-2610-214064.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-neue-suche-kann-windows-11-direkt-in-dark-mode-versetzen-2610-213854.html</guid>
       <description>Künftig können User direkt in der Suche OS-Einstellungen vornehmen. Sie ist zudem das nächste Element in Windows 11, das KI bekommt. (Betriebssysteme, KI)</description>
       <pubDate>Thu, 08 Oct 2026 07:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI: Claude Haiku 5.5 ist günstiger und schneller</title>
-      <link>https://www.golem.de/news/ki-claude-haiku-5-5-ist-guenstiger-und-schneller-2610-213850.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-claude-haiku-5-5-ist-guenstiger-und-schneller-2610-213850.html</guid>
-      <description>Anthropic hat Claude Haiku 5.5 veröffentlicht, das für Projekte mit hohem Anfragevolumen gedacht ist, bei denen es auf Geschwindigkeit und niedrige Kosten ankommt. (Claude, KI)</description>
-      <pubDate>Thu, 08 Oct 2026 07:13:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
