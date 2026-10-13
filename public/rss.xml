@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 08:01:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:16:43 GMT</lastBuildDate>
+    <item>
+      <title>Muse Wonder: Metas neue KI-Modelle gibt es nicht mehr umsonst</title>
+      <link>https://www.golem.de/news/muse-wonder-metas-neue-ki-modelle-gibt-es-nicht-mehr-umsonst-2610-214037.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/muse-wonder-metas-neue-ki-modelle-gibt-es-nicht-mehr-umsonst-2610-214037.html</guid>
+      <description>Metas KI-Modelle Muse Wonder und Muse Wonder Full sollen es mit den aktuellen Top-Modellen von OpenAI und Anthropic aufnehmen können. (Meta, KI)</description>
+      <pubDate>Tue, 13 Oct 2026 08:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Wing Commander 3: Verschollene Filmaufnahmen ermöglichen galaktisches Remake</title>
       <link>https://www.golem.de/news/wing-commander-3-verschollene-filmaufnahmen-ermoeglichen-galaktisches-remake-2610-214034.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/linux-desktop-cosmic-system76-schliesst-ki-inhalte-aus-pull-requests-aus-2610-213822.html</guid>
       <description>Die Akzeptanz für KI fällt in der Linux-Community unterschiedlich aus. Ein Gnome-Entwickler fordert, zumindest Fehlerberichte zuzulassen. (KI, Gnome)</description>
       <pubDate>Wed, 07 Oct 2026 13:21:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schädlich fürs Fach: Fields-Medaillen-Gewinner kritisiert OpenAIs Mathe-Paper</title>
-      <link>https://www.golem.de/news/schaedlich-fuers-fach-fields-medaillen-gewinner-kritisiert-openais-mathe-paper-2610-213818.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schaedlich-fuers-fach-fields-medaillen-gewinner-kritisiert-openais-mathe-paper-2610-213818.html</guid>
-      <description>OpenAI habe kein wirkliches Interesse an Mathematik, die 722 neuen Dokumente trügen nichts zum Verständnis bei. KI könne das Fach sogar schwächen. (KI, Wissenschaft)</description>
-      <pubDate>Wed, 07 Oct 2026 13:07:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
