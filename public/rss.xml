@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 10:12:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 10:31:20 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic warnt: Unsichere IoT-Geräte können KI-Würmer verbreiten</title>
+      <link>https://www.golem.de/news/anthropic-warnt-unsichere-iot-geraete-koennen-ki-wuermer-verbreiten-2610-214047.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anthropic-warnt-unsichere-iot-geraete-koennen-ki-wuermer-verbreiten-2610-214047.html</guid>
+      <description>Laut Tests von Anthropic reichen auch leistungsschwache Geräte wie Android-TV-Boxen aus, damit sich KI autonom ausbreiten kann. (KI, Security)</description>
+      <pubDate>Tue, 13 Oct 2026 10:27:09 GMT</pubDate>
+    </item>
     <item>
       <title>Kryptodiebstahl: Ledger bestätigt Hardware-Implantat in Wallet</title>
       <link>https://www.golem.de/news/kryptodiebstahl-ledger-bestaetigt-hardware-implantat-in-wallet-2610-214036.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-prime-day-2026-jetzt-noch-bis-mitternacht-diese-25-deals-sichern-2610-213835.html</guid>
       <description>Der Prime Day ist fast vorbei. Nur noch wenige Stunden, dann ist die Schnäppchenjagd beendet. Wer noch nicht zugeschlagen hat, sollte sich beeilen. (Prime Day, Amazon)</description>
       <pubDate>Wed, 07 Oct 2026 15:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 Milliarden US-Dollar: SpaceXAI will über Anleihen Geld für neue Nvidia-GPUs erhalten</title>
-      <link>https://www.golem.de/news/30-milliarden-us-dollar-spacexai-will-ueber-anleihen-geld-fuer-neue-nvidia-gpus-erhalten-2610-213833.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/30-milliarden-us-dollar-spacexai-will-ueber-anleihen-geld-fuer-neue-nvidia-gpus-erhalten-2610-213833.html</guid>
-      <description>Ältere Anleihen von SpaceXAI werden auf Ramsch-Niveau gehandelt. Neue Rechenzentren sollen "irgendwo im Universum" gebaut werden. (SpaceX, Nvidia)</description>
-      <pubDate>Wed, 07 Oct 2026 14:48:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
