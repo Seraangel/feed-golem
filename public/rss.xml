@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 08:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 09:11:21 GMT</lastBuildDate>
+    <item>
+      <title>Maia 300: Eine Million neue Chips sollen Microsofts KI antreiben</title>
+      <link>https://www.golem.de/news/maia-300-eine-million-neue-chips-sollen-microsofts-ki-antreiben-2610-214041.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/maia-300-eine-million-neue-chips-sollen-microsofts-ki-antreiben-2610-214041.html</guid>
+      <description>Microsofts Maia 300 sollen im Vergleich zum Vorgänger um den Faktor sieben leistungsfähiger sein. Wichtig ist auch der Strombedarf. (SoC, Microsoft)</description>
+      <pubDate>Tue, 13 Oct 2026 09:09:03 GMT</pubDate>
+    </item>
     <item>
       <title>Drei Elektromotoren: Peugeot E-T16 Concept lässt die Rallye-Tradition als E-Auto aufleben</title>
       <link>https://www.golem.de/news/drei-elektromotoren-peugeot-e-t16-concept-laesst-die-rallye-tradition-als-e-auto-aufleben-2610-214039.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-office-niederlaendisches-finanzamt-geht-weg-von-office-365-2610-213823.html</guid>
       <description>Statt Microsofts Office-Dienste in der Cloud zu nutzen, wird die Behörde eigene Server hosten. (Microsoft 365, Office-Suite)</description>
       <pubDate>Wed, 07 Oct 2026 13:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektro-Kleinwagen: GTI-Version des VW ID.Polo startet bei 40.000 Euro</title>
-      <link>https://www.golem.de/news/elektro-kleinwagen-gti-version-des-vw-id-polo-startet-bei-40-000-euro-2610-213824.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektro-kleinwagen-gti-version-des-vw-id-polo-startet-bei-40-000-euro-2610-213824.html</guid>
-      <description>VW bietet mit dem ID.Polo erstmals eine vollelektrische GTI-Version an. Die Höchstgeschwindigkeit wurde auf Wunsch der Kunden erhöht. (Elektroauto, Technologie)</description>
-      <pubDate>Wed, 07 Oct 2026 13:36:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
