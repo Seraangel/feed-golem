@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 07:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 07:16:14 GMT</lastBuildDate>
+    <item>
+      <title>Wordcraft: KI-geschriebene Software kopiert Microsoft Office</title>
+      <link>https://www.golem.de/news/wordcraft-ki-geschriebene-software-kopiert-microsoft-office-2610-214035.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wordcraft-ki-geschriebene-software-kopiert-microsoft-office-2610-214035.html</guid>
+      <description>Mittels Vibecoding, KI und Rust entstehen aktuell viele Klone von teils teurer kommerzieller Software. Nun ist Office 365 dran. (Microsoft 365, KI)</description>
+      <pubDate>Tue, 13 Oct 2026 07:14:07 GMT</pubDate>
+    </item>
     <item>
       <title>Belmont's Curse im Test: Castlevania feiert ein Comeback zum Verlieben</title>
       <link>https://www.golem.de/news/belmont-s-curse-im-test-castlevania-feiert-ein-comeback-zum-verlieben-2610-214029.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-waermebildkamera-fuers-handy-zum-tiefstpreis-am-prime-day-2610-213815.html</guid>
       <description>Amazon hat eine Wärmebildkamera fürs Handy im Angebot, die auf dem Smartphone-Display Schäden an Rohren, Kabeln und Isolierungen anzeigt. (Technik/Hardware, Prime Day)</description>
       <pubDate>Wed, 07 Oct 2026 12:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>10-Euro-eSIM: Simsalasim bietet internationale Datenflatrate durch globalen Cloud-Core</title>
-      <link>https://www.golem.de/news/10-euro-per-esim-simsalasim-bietet-internationale-datenflatrate-durch-globalen-cloud-core-2610-213813.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/10-euro-per-esim-simsalasim-bietet-internationale-datenflatrate-durch-globalen-cloud-core-2610-213813.html</guid>
-      <description>Simsalasim hat eine erste Liste für kostenloses Datenroaming im Ausland vorgelegt. Um das extrem günstige Angebot zu realisieren, geht das Unternehmen neue Wege bei der Netzinfrastruktur. Doch wie hoch wird die Datenrate sein? (Mobilfunktarif, Rechenzentrum)</description>
-      <pubDate>Wed, 07 Oct 2026 12:20:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
