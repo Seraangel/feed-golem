@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 08:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 08:41:05 GMT</lastBuildDate>
+    <item>
+      <title>Warnung des BSI: Hacker nehmen Firewall von Sonicwall ins Visier</title>
+      <link>https://www.golem.de/news/warnung-des-bsi-hacker-nehmen-firewall-von-sonicwall-ins-visier-2610-214040.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/warnung-des-bsi-hacker-nehmen-firewall-von-sonicwall-ins-visier-2610-214040.html</guid>
+      <description>Die Schwachstelle ist besonders schwerwiegend, weil sie Zugriffe aus der Ferne erlaubt - ohne Authentifizierung. (Firewall, Server)</description>
+      <pubDate>Tue, 13 Oct 2026 08:36:01 GMT</pubDate>
+    </item>
     <item>
       <title>Muse Wonder: Metas neue KI-Modelle gibt es nicht mehr umsonst</title>
       <link>https://www.golem.de/news/muse-wonder-metas-neue-ki-modelle-gibt-es-nicht-mehr-umsonst-2610-214037.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-am-prime-day-nur-227-euro-airpods-alternative-sony-wf-1000xm6-nie-guenstiger-2610-213825.html</guid>
       <description>Sonys aktuelle Premium-In-Ears WF-1000XM6 bieten starkes ANC, LDAC und laut Tests einen ausgezeichneten Klang. Zum Finale der Prime Deal Days fällt der Preis bei Amazon auf einen neuen Tiefststand. (Kopfhörer, Sony)</description>
       <pubDate>Wed, 07 Oct 2026 13:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux-Desktop Cosmic: System76 schließt KI-Inhalte aus Pull-Requests aus</title>
-      <link>https://www.golem.de/news/linux-desktop-cosmic-system76-schliesst-ki-inhalte-aus-pull-requests-aus-2610-213822.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/linux-desktop-cosmic-system76-schliesst-ki-inhalte-aus-pull-requests-aus-2610-213822.html</guid>
-      <description>Die Akzeptanz für KI fällt in der Linux-Community unterschiedlich aus. Ein Gnome-Entwickler fordert, zumindest Fehlerberichte zuzulassen. (KI, Gnome)</description>
-      <pubDate>Wed, 07 Oct 2026 13:21:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
