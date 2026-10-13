@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 13 Oct 2026 12:40:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:01:11 GMT</lastBuildDate>
+    <item>
+      <title>Beschaffung: BMW will Milliarden mit KI-Agenten sparen</title>
+      <link>https://www.golem.de/news/beschaffung-bmw-will-milliarden-mit-ki-agenten-sparen-2610-214049.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/beschaffung-bmw-will-milliarden-mit-ki-agenten-sparen-2610-214049.html</guid>
+      <description>BMW will bis 2028 ein KI-gesteuertes Unternehmen werden. Digitale Arbeitskräfte mit menschlichen Namen sollen dem Autohersteller Kosten sparen. (BMW, KI)</description>
+      <pubDate>Tue, 13 Oct 2026 12:53:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Drehmomentschlüssel für Fahrrad und Motorrad günstig bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-drehmomentschluessel-fuer-fahrrad-und-motorrad-guenstig-bei-amazon-2610-214056.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bmw-ix4-und-ix3-m60-xdrive-coupe-und-leistungsstarke-m-version-des-ix3-vorgestellt-2610-213847.html</guid>
       <description>BMW erweitert sein Angebot des vollelektrischen iX3. Die Schrägheckversion kommt noch etwas weiter als das SUV, ist aber teurer ausgestattet. (Elektroauto, Auto)</description>
       <pubDate>Wed, 07 Oct 2026 22:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365: Identitäten, Geräte und Daten absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2610-213837.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2610-213837.html</guid>
-      <description>Microsoft 365 Security umfasst Identitäten, Geräte und Daten. Ein Online-Workshop vermittelt, wie Administratoren die Sicherheitsdienste konfigurieren. (Golem Karrierewelt, Identitätsmanagement)</description>
-      <pubDate>Wed, 07 Oct 2026 18:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
