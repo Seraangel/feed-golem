@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 10:30:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:35:51 GMT</lastBuildDate>
+    <item>
+      <title>Accenture: SpaceX könnte Satelliten-Mobilfunk nach Europa bringen</title>
+      <link>https://www.golem.de/news/accenture-spacex-koennte-satelliten-mobilfunk-nach-europa-bringen-2610-214091.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/accenture-spacex-koennte-satelliten-mobilfunk-nach-europa-bringen-2610-214091.html</guid>
+      <description>Golem sprach mit einem Experten der Technologieberatung Accenture über die Chancen von SpaceX, einen eigenen Satellitenmobilfunk in Europa anzubieten. (Elon Musk, Mobilfunk)</description>
+      <pubDate>Wed, 14 Oct 2026 10:31:03 GMT</pubDate>
+    </item>
     <item>
       <title>Chrome 155: Google stopft sieben kritische Löcher</title>
       <link>https://www.golem.de/news/chrome-155-google-stopft-sieben-kritische-loecher-2610-214093.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-iphone-18-pro-mit-apple-watch-ultra-4-im-tarif-ohne-datenlimit-bei-o2-fuer-1-euro-2610-213883.html</guid>
       <description>Kurz nach dem Release des neuen iPhone 18 Pro sowie der Apple Watch Ultra 4 gibt es die beiden Geräte im Bundle mit Tarif für nur 1 Euro bei o2. (O2, Telekommunikation)</description>
       <pubDate>Thu, 08 Oct 2026 12:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>RTX Spark N1X: Warum jetzt auch Apple Nvidia fürchten muss</title>
-      <link>https://www.golem.de/news/rtx-spark-n1x-warum-jetzt-auch-apple-nvidia-fuerchten-muss-2610-213870.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rtx-spark-n1x-warum-jetzt-auch-apple-nvidia-fuerchten-muss-2610-213870.html</guid>
-      <description>Nvidias ARM-Chip hat das Potenzial, Apples Vormachtstellung bei den mobilen Chips infrage zu stellen. Eine Analyse von Oliver Nickel (Nvidia, Microsoft)</description>
-      <pubDate>Thu, 08 Oct 2026 12:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
