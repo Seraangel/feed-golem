@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 06:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:20:52 GMT</lastBuildDate>
+    <item>
+      <title>KI in der EU: Nvidia investiert in Doctolib</title>
+      <link>https://www.golem.de/news/ki-in-der-eu-nvidia-investiert-in-doctolib-2610-214077.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-in-der-eu-nvidia-investiert-in-doctolib-2610-214077.html</guid>
+      <description>Doctolib will KI-Systeme für Patientendaten entwickeln. Nvidia soll die Grundlage dafür stellen. (Nvidia, KI)</description>
+      <pubDate>Wed, 14 Oct 2026 07:16:09 GMT</pubDate>
+    </item>
     <item>
       <title>Maschinenträume 4: Halluzinationen, Halunkinationen und fatale Fehler</title>
       <link>https://www.golem.de/news/maschinentraeume-4-halluzinationen-halunkinationen-und-fatale-fehler-2610-213888.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ask-me-anything-am-22-10-stellt-eure-datenschutz-fragen-an-unseren-experten-2610-213857.html</guid>
       <description>Cyber Resilience Act, Digital Networks Act, Kids Act: In unserem Live-Video-AMA am 22. Oktober könnt ihr unseren Experten Ralf Bendrath alles rund um Digitalpolitik fragen. (Datenschutz, Politik)</description>
       <pubDate>Thu, 08 Oct 2026 10:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Playground: Bei Google kann man jetzt Spiele per KI basteln</title>
-      <link>https://www.golem.de/news/playground-bei-google-kann-man-jetzt-spiele-per-ki-basteln-2610-213867.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/playground-bei-google-kann-man-jetzt-spiele-per-ki-basteln-2610-213867.html</guid>
-      <description>Mit Playground können Nutzer ohne Programmierkenntnisse eigene Spiele entwickeln. Zusammen mit Unity plant Google leistungsfähigere Werkzeuge. (Google, KI)</description>
-      <pubDate>Thu, 08 Oct 2026 10:10:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
