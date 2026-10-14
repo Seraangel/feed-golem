@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 11:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 11:40:52 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Monitoring: Server und Dienste überwachen mit Uptime Kuma</title>
+      <link>https://www.golem.de/news/monitoring-server-und-dienste-ueberwachen-mit-uptime-kuma-2610-214098.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/monitoring-server-und-dienste-ueberwachen-mit-uptime-kuma-2610-214098.html</guid>
+      <description>Server, Dienste und Zertifikate überwachen, ohne sich in komplexe Tools einarbeiten zu müssen: Uptime Kuma macht Monitoring einfach. Wir zeigen, wie es geht. Ein Praxistest von Andrea Maurer (Software, Virtualisierung)</description>
+      <pubDate>Wed, 14 Oct 2026 11:35:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Diesen Airfryer von Cosori gibt es bei Amazon jetzt günstig wie nie</title>
       <link>https://www.golem.de/news/anzeige-diesen-airfryer-von-cosori-gibt-es-bei-amazon-jetzt-guenstig-wie-nie-2610-214099.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-nach-dem-prime-day-gaming-tastatur-mit-hall-effect-fuer-nur-159-euro-2610-213887.html</guid>
       <description>Amazon reduziert die Steelseries Apex Pro TKL Gen3. Die Tastatur soll mit magnetischen Schaltern und extrem kurzen Auslösewegen vor allem Shooter-Spieler überzeugen. (Tastatur, Eingabegerät)</description>
       <pubDate>Thu, 08 Oct 2026 14:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Konferenz gegen Desinformation: USA drängen EU und Kanada zum Rückzug ihres Sponsorings</title>
-      <link>https://www.golem.de/news/konferenz-gegen-desinformation-usa-draengen-eu-und-kanada-zum-rueckzug-ihres-sponsorings-2610-213885.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/konferenz-gegen-desinformation-usa-draengen-eu-und-kanada-zum-rueckzug-ihres-sponsorings-2610-213885.html</guid>
-      <description>Dem US-Außenministerium wird nun vorgeworfen, US-Amerikaner an kritischen Äußerungen über die eigene Regierung hindern zu wollen. (Meinungsfreiheit, Politik)</description>
-      <pubDate>Thu, 08 Oct 2026 13:38:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
