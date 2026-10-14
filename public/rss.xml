@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 14:30:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:50:48 GMT</lastBuildDate>
+    <item>
+      <title>Exaring-Übernahme: Freenet verhindert IPO und schluckt Waipu.tv samt Glasfasernetz</title>
+      <link>https://www.golem.de/news/exaring-uebernahme-freenet-verhindert-ipo-und-schluckt-waipu-tv-samt-glasfasernetz-2610-214112.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/exaring-uebernahme-freenet-verhindert-ipo-und-schluckt-waipu-tv-samt-glasfasernetz-2610-214112.html</guid>
+      <description>Freenet übernimmt die verbleibenden 25 Prozent an Exaring für einen stolzen Preis. Damit sichert sich der MVNO-Konzern die volle Kontrolle über Waipu.tv und dessen Glasfasernetz mit 12.000 Kilometern Länge. (Freenet, Glasfaser)</description>
+      <pubDate>Wed, 14 Oct 2026 14:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>Meta-Analyse: Energiewende kostet 3,6 Billionen Euro und spart Milliarden</title>
       <link>https://www.golem.de/news/meta-analyse-energiewende-kostet-3-6-billionen-euro-und-spart-milliarden-2610-214110.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/auch-adobe-und-us-unis-betroffen-us-regierung-verweigert-visa-fuer-microsoft-beschaeftigte-2610-213903.html</guid>
       <description>Die US-Regierung wirft Microsoft vor, amerikanische Mitarbeiter gegen ausländische Arbeitskräfte ersetzt zu haben. Das hat Folgen. (Microsoft, Adobe)</description>
       <pubDate>Fri, 09 Oct 2026 06:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Agenten: Grok Bot postet private Kontostände im Firmen-Slack</title>
-      <link>https://www.golem.de/news/ki-agenten-grok-bot-postet-private-kontostaende-im-firmen-slack-2610-213902.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-grok-bot-postet-private-kontostaende-im-firmen-slack-2610-213902.html</guid>
-      <description>Ein Agent in Grok Bot postete private Kontostände eines CEOs im Firmen-Slack. Zwei Stunden blieben sie sichtbar. (Grok, KI)</description>
-      <pubDate>Fri, 09 Oct 2026 06:12:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
