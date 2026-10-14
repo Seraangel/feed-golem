@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 06:30:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:35:58 GMT</lastBuildDate>
+    <item>
+      <title>Maschinenträume 4: Halluzinationen, Halunkinationen und fatale Fehler</title>
+      <link>https://www.golem.de/news/maschinentraeume-4-halluzinationen-halunkinationen-und-fatale-fehler-2610-213888.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/maschinentraeume-4-halluzinationen-halunkinationen-und-fatale-fehler-2610-213888.html</guid>
+      <description>KI stellt Fehldiagnosen, verwechselt Giftpilze und produziert unsicheren Code. Trotzdem soll sie immer mehr entscheiden. Was kann da schon schiefgehen? Von P. R. Rhesia (Maschinenträume, KI)</description>
+      <pubDate>Wed, 14 Oct 2026 06:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>Sicherheit: Cyberangriff legt Baustelle am Fehmarnbelt-Tunnel lahm</title>
       <link>https://www.golem.de/news/sicherheit-cyberangriff-legt-baustelle-am-fehmarnbelt-tunnel-lahm-2610-214076.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/playground-bei-google-kann-man-jetzt-spiele-per-ki-basteln-2610-213867.html</guid>
       <description>Mit Playground können Nutzer ohne Programmierkenntnisse eigene Spiele entwickeln. Zusammen mit Unity plant Google leistungsfähigere Werkzeuge. (Google, KI)</description>
       <pubDate>Thu, 08 Oct 2026 10:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>EU prüft neue Konzernabgabe: Allgemeine Steuer soll US-Technologiekonzerne treffen</title>
-      <link>https://www.golem.de/news/eu-prueft-neue-konzernabgabe-allgemeine-steuer-soll-us-technologiekonzerne-treffen-2610-213866.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/eu-prueft-neue-konzernabgabe-allgemeine-steuer-soll-us-technologiekonzerne-treffen-2610-213866.html</guid>
-      <description>Die Gestaltung einer allgemeinen Steuer soll US-Techunternehmen treffen, ohne dass Trump der EU eine Ungleichbehandlung vorwerfen kann. (EU, Google)</description>
-      <pubDate>Thu, 08 Oct 2026 10:00:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
