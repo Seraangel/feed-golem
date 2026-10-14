@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 10:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 10:30:48 GMT</lastBuildDate>
+    <item>
+      <title>Chrome 155: Google stopft sieben kritische Löcher</title>
+      <link>https://www.golem.de/news/chrome-155-google-stopft-sieben-kritische-loecher-2610-214093.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chrome-155-google-stopft-sieben-kritische-loecher-2610-214093.html</guid>
+      <description>Der Browser ist anfällig für eine Remotecodeausführung außerhalb der Sandbox. Betroffen sind Chrome für Windows, MacOS, Linux und Android. (Browser, PDF)</description>
+      <pubDate>Wed, 14 Oct 2026 10:25:05 GMT</pubDate>
+    </item>
     <item>
       <title>Schweizer Onlineauktionshaus Ricardo: Erst Betrugsfälle, jetzt 890.000 Daten gestohlen</title>
       <link>https://www.golem.de/news/schweizer-onlineauktionshaus-ricardo-erst-betrugsfaelle-jetzt-890-000-daten-gestohlen-2610-214078.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rtx-spark-n1x-warum-jetzt-auch-apple-nvidia-fuerchten-muss-2610-213870.html</guid>
       <description>Nvidias ARM-Chip hat das Potenzial, Apples Vormachtstellung bei den mobilen Chips infrage zu stellen. Eine Analyse von Oliver Nickel (Nvidia, Microsoft)</description>
       <pubDate>Thu, 08 Oct 2026 12:30:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Chromebook von Acer mit 15,6'' FHD reduziert bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-chromebook-von-acer-mit-15-6-fhd-reduziert-bei-amazon-2610-213878.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-chromebook-von-acer-mit-15-6-fhd-reduziert-bei-amazon-2610-213878.html</guid>
-      <description>Ein Chromebook von Acer mit 15,6''-IPS-Display, FHD-Auflösung und Octa-Core-Prozessor gibt es bei Amazon zum günstigen Aktionspreis. (Chromebook, Acer)</description>
-      <pubDate>Thu, 08 Oct 2026 12:17:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
