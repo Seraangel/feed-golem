@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 09:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:10:54 GMT</lastBuildDate>
+    <item>
+      <title>Großer Datenabfluss: Verwaltung von Eichstätt gehackt</title>
+      <link>https://www.golem.de/news/grosser-datenabfluss-verwaltung-von-eichstaett-gehackt-2610-214084.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/grosser-datenabfluss-verwaltung-von-eichstaett-gehackt-2610-214084.html</guid>
+      <description>Ermittler vermuten einen Angriff mit Ransomware. Die Stadtverwaltung befürchtet einen Zugriff auf den Großteil ihrer Daten. (Cybercrime, Server)</description>
+      <pubDate>Wed, 14 Oct 2026 09:09:05 GMT</pubDate>
+    </item>
     <item>
       <title>Supernova: Historische Supernova durch neue Aufnahmen nachvollziehbar</title>
       <link>https://www.golem.de/news/supernova-historische-supernova-durch-neue-aufnahmen-nachvollziehbar-2610-214082.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gesetz-gegen-digitale-gewalt-kabinett-beschliesst-strafen-fuer-deepfakes-und-gps-tracking-2610-213868.html</guid>
       <description>Die sexualisierte Aufnahme eines bekleideten Pos kann künftig strafbar sein. Vor allem Frauen sollen vor digitaler Gewalt besser geschützt werden. (Deepfake, KI)</description>
       <pubDate>Thu, 08 Oct 2026 11:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grundlastfähig: Geothermiekraftwerk geht in Utah ans Stromnetz</title>
-      <link>https://www.golem.de/news/grundlastfaehig-geothermiekraftwerk-geht-in-utah-ans-stromnetz-2610-213871.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/grundlastfaehig-geothermiekraftwerk-geht-in-utah-ans-stromnetz-2610-213871.html</guid>
-      <description>Bis 2027 soll die Leistung auf 100 Megawatt steigen. Google hat bereits ein Vielfaches bestellt, allein dieser Standort bietet noch mehr. (Geothermie, Energiewende)</description>
-      <pubDate>Thu, 08 Oct 2026 10:49:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
