@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 16:00:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:15:50 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Künstliche Intelligenz: Treffen sich 14 KI-Agenten</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-treffen-sich-14-ki-agenten-2610-214113.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-treffen-sich-14-ki-agenten-2610-214113.html</guid>
+      <description>Was besprechen KI-Agenten miteinander? Die New York Times hat bei einer virtuellen Dinnerparty mitgelesen. Unsere heutige Redaktionsempfehlung. Von (KI, Software)</description>
+      <pubDate>Wed, 14 Oct 2026 16:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Gegen Anthropic und OpenAI: EU leitet offizielles Verfahren wegen Hugging-Face-Hack ein</title>
       <link>https://www.golem.de/news/gegen-anthropic-und-openai-eu-leitet-offizielles-verfahren-wegen-hugging-face-hack-ein-2610-214116.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/neckarsulm-audi-verschaerft-den-sparkurs-2610-213900.html</guid>
       <description>Audi prüft weitere Einschnitte und sucht das Gespräch mit dem Betriebsrat. Im Mittelpunkt stehen die Zukunft des Werks Neckarsulm. (Audi, Wirtschaft)</description>
       <pubDate>Fri, 09 Oct 2026 06:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudspeicher: Microsoft kürzt Onedrive-Kontingente</title>
-      <link>https://www.golem.de/news/cloudspeicher-microsoft-kuerzt-onedrive-kontingente-2610-213905.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cloudspeicher-microsoft-kuerzt-onedrive-kontingente-2610-213905.html</guid>
-      <description>Microsoft ändert den Onedrive-Speicher in mehreren Microsoft-365-Abos. Künftig gilt ein gemeinsamer Speicherpool statt 1 TByte pro Person. (Onedrive, Microsoft)</description>
-      <pubDate>Fri, 09 Oct 2026 06:52:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
