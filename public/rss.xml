@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 13:30:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:45:54 GMT</lastBuildDate>
+    <item>
+      <title>Arbeitsmarkt: KI kostet bisher keine Jobs in Deutschland</title>
+      <link>https://www.golem.de/news/arbeitsmarkt-ki-kostet-bisher-keine-jobs-in-deutschland-2610-214109.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/arbeitsmarkt-ki-kostet-bisher-keine-jobs-in-deutschland-2610-214109.html</guid>
+      <description>Eine Studie des IAB sieht in Deutschland andere Gründe als KI dafür, dass Berufseinsteiger schwerer einen Job finden. (Arbeit, Studien)</description>
+      <pubDate>Wed, 14 Oct 2026 13:43:11 GMT</pubDate>
+    </item>
     <item>
       <title>Revolut Mobile: Onlinebank startet Tarif mit 120 GByte</title>
       <link>https://www.golem.de/news/revolut-mobile-onlinebank-startet-tarif-mit-120-gbyte-2610-214107.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-power-automate-flows-erstellen-und-erweitern-2610-213846.html</guid>
       <description>Microsoft Power Automate automatisiert wiederkehrende Aufgaben in Microsoft 365. Ein Workshop vermittelt die Erstellung und Erweiterung eigener Flows. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Fri, 09 Oct 2026 05:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Operativer Gewinn: Samsung macht durch Speicherkrise 80 Milliarden US-Dollar im Quartal</title>
-      <link>https://www.golem.de/news/operativer-gewinn-samsung-macht-durch-speicherkrise-80-milliarden-us-dollar-im-quartal-2610-213897.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/operativer-gewinn-samsung-macht-durch-speicherkrise-80-milliarden-us-dollar-im-quartal-2610-213897.html</guid>
-      <description>Samsung Electronics kann durch die Umstellung auf High-Bandwidth Memory den operativen Gewinn fast verneunfachen. Die Speicherkrise wird sich laut dem Konzern fortsetzen. (Samsung, KI)</description>
-      <pubDate>Thu, 08 Oct 2026 17:03:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
