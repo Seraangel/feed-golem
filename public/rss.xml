@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 07:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:20:48 GMT</lastBuildDate>
+    <item>
+      <title>Erneuter Rekord-Patchday: Microsoft schließt 1.414 Sicherheitslücken</title>
+      <link>https://www.golem.de/news/erneuter-rekord-patchday-microsoft-schliesst-1-414-sicherheitsluecken-2610-214080.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/erneuter-rekord-patchday-microsoft-schliesst-1-414-sicherheitsluecken-2610-214080.html</guid>
+      <description>Betroffen sind vor allem Windows, Office, Sharepoint und SQL Server. Eine Lücke in der Windows Shell wird bereits aktiv ausgenutzt. (Patchday, Server)</description>
+      <pubDate>Wed, 14 Oct 2026 08:18:02 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Agenten: Aufseher in USA und Europa prüfen KI-Risiken bei Banken</title>
       <link>https://www.golem.de/news/ki-agenten-aufseher-in-usa-und-europa-pruefen-ki-risiken-bei-banken-2610-214079.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gods-don-t-give-gifts-erster-ki-generierter-film-will-einen-oscar-gewinnen-2610-213872.html</guid>
       <description>Spektakuläre Bilder: Die Macher eines mit KI erstellen Films hoffen ganz offiziell auf einen Oscar. (Filme &amp; Serien, KI)</description>
       <pubDate>Thu, 08 Oct 2026 10:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Urteil gegen EWE Go: Roaming-Gebühren beim Laden könnten sinken</title>
-      <link>https://www.golem.de/news/urteil-gegen-ewe-go-roaming-gebuehren-beim-laden-koennten-sinken-2610-213869.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/urteil-gegen-ewe-go-roaming-gebuehren-beim-laden-koennten-sinken-2610-213869.html</guid>
-      <description>Ein Gericht hat die Preisgestaltung von EWE Go gegenüber Roaming-Anbietern für unrechtmäßig erklärt. Das könnte weitreichende Auswirkungen haben. (Verbraucherschutz, Elektroauto)</description>
-      <pubDate>Thu, 08 Oct 2026 10:28:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
