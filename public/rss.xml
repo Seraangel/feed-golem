@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 15:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:35:51 GMT</lastBuildDate>
+    <item>
+      <title>Gegen Anthropic und OpenAI: EU leitet offizielles Verfahren wegen Hugging-Face-Hack ein</title>
+      <link>https://www.golem.de/news/gegen-anthropic-und-openai-eu-leitet-offizielles-verfahren-wegen-hugging-face-hack-ein-2610-214116.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gegen-anthropic-und-openai-eu-leitet-offizielles-verfahren-wegen-hugging-face-hack-ein-2610-214116.html</guid>
+      <description>Weil die freiwillig eingereichten Auskünfte von Anthropic und OpenAI unzureichend waren, ermittelt die EU-Kommission nun offiziell. (AI Act, KI)</description>
+      <pubDate>Wed, 14 Oct 2026 15:33:07 GMT</pubDate>
+    </item>
     <item>
       <title>Löschung inaktiver Konten: Paypal-Benachrichtigung verwirrt Nutzer</title>
       <link>https://www.golem.de/news/loeschung-inaktiver-konten-paypal-benachrichtigung-verwirrt-nutzer-2610-214115.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cloudspeicher-microsoft-kuerzt-onedrive-kontingente-2610-213905.html</guid>
       <description>Microsoft ändert den Onedrive-Speicher in mehreren Microsoft-365-Abos. Künftig gilt ein gemeinsamer Speicherpool statt 1 TByte pro Person. (Onedrive, Microsoft)</description>
       <pubDate>Fri, 09 Oct 2026 06:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gender Pay-Gap: Weibliche KI-Agenten bekommen zehn Prozent weniger</title>
-      <link>https://www.golem.de/news/gender-pay-gap-weibliche-ki-agenten-bekommen-zehn-prozent-weniger-2610-213904.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gender-pay-gap-weibliche-ki-agenten-bekommen-zehn-prozent-weniger-2610-213904.html</guid>
-      <description>Probanden zahlen der KI-Agentin Johanna rund zehn Prozent weniger Geld als Johan, obwohl beide technisch identisch arbeiten. (Studien, VR)</description>
-      <pubDate>Fri, 09 Oct 2026 06:46:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
