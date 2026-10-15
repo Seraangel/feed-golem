@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 09:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 09:35:46 GMT</lastBuildDate>
+    <item>
+      <title>Unsichere Firewall: Palo Alto Networks warnt vor Angriffen auf Zero-Day-Lücke</title>
+      <link>https://www.golem.de/news/unsichere-firewall-palo-alto-networks-warnt-vor-angriffen-auf-zero-day-luecke-2610-214137.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/unsichere-firewall-palo-alto-networks-warnt-vor-angriffen-auf-zero-day-luecke-2610-214137.html</guid>
+      <description>Betroffen sind Firewalls der Serien PA und VM. Ein Angreifer kann Code mit Root-Rechten ausführen. (Firewall, Virtualisierung)</description>
+      <pubDate>Thu, 15 Oct 2026 09:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>Airtag Silencer: Hersteller will Missbrauchspotenzial zu spät erkannt haben</title>
       <link>https://www.golem.de/news/airtag-silencer-hersteller-will-missbrauchspotenzial-zu-spaet-erkannt-haben-2610-214133.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/garmin-vs-apple-welche-body-battery-ist-besser-2610-213820.html</guid>
       <description>Garmin Fenix 9 Pro und Apple Watch Ultra 4 wissen erstaunlich gut, wann eine Pause nötig ist - aber nicht immer gleich gut. Ein Hands-on von Peter Steinlechner (Apple Watch, Apple)</description>
       <pubDate>Fri, 09 Oct 2026 12:08:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Streit um Kosten für Claude-Nutzung: Start-up zwischen Microsoft- und Anthropic-Support gefangen</title>
-      <link>https://www.golem.de/news/streit-um-kosten-fuer-claude-nutzung-start-up-zwischen-microsoft-und-anthropic-support-gefangen-2610-213934.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/streit-um-kosten-fuer-claude-nutzung-start-up-zwischen-microsoft-und-anthropic-support-gefangen-2610-213934.html</guid>
-      <description>Über ein Förderprogramm hat ein Unternehmen Azure-Guthaben von Microsoft erhalten und steht nun vor einer unbezahlten Claude-Rechnung. (KI, Microsoft)</description>
-      <pubDate>Fri, 09 Oct 2026 12:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
