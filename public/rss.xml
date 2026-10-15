@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 05:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:25:51 GMT</lastBuildDate>
+    <item>
+      <title>Tesla: Gigafactory Berlin will eine Million Fahrzeuge pro Jahr bauen</title>
+      <link>https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/tesla-gigafactory-berlin-will-eine-million-fahrzeuge-pro-jahr-bauen-2610-214121.html</guid>
+      <description>Tesla plant in Grünheide eine zweite Produktionshalle. Im Endausbau soll die Produktionskapazität auf eine Million Autos pro Jahr erhöht werden. (Gigafactory Berlin, Elektroauto)</description>
+      <pubDate>Thu, 15 Oct 2026 05:23:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Flows mit Power Automate erstellen und erweitern</title>
       <link>https://www.golem.de/news/anzeige-flows-mit-power-automate-erstellen-und-erweitern-2610-213972.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/datenleck-9-gbyte-redaktions-und-nutzerdaten-von-nius-frei-zugaenglich-2610-213910.html</guid>
       <description>Unbekannte stellen die Nius-Daten nach einem Hackerangriff ins Netz. Sie enthalten auch Informationen über Gesprächspartner der Redaktion. (Datenleck, Security)</description>
       <pubDate>Fri, 09 Oct 2026 08:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Interposer: Globalfoundries wird TSMC-Zulieferer</title>
-      <link>https://www.golem.de/news/fuer-interposer-globalfoundries-wird-tsmc-zulieferer-2610-213908.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuer-interposer-globalfoundries-wird-tsmc-zulieferer-2610-213908.html</guid>
-      <description>Bei der US-Halbleiterfertigung will TSMC offensichtlich nicht alles selber machen. (Halbleiterfertigung, TSMC)</description>
-      <pubDate>Fri, 09 Oct 2026 07:57:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
