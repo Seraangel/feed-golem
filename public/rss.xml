@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 18:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:00:55 GMT</lastBuildDate>
+    <item>
+      <title>Stellenabbau: Neue Entlassungswelle bei Nokia in Europa</title>
+      <link>https://www.golem.de/news/stellenabbau-neue-entlassungswelle-bei-nokia-in-europa-2610-214163.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/stellenabbau-neue-entlassungswelle-bei-nokia-in-europa-2610-214163.html</guid>
+      <description>Schon wieder Entlassungen bei Nokia in Europa. In dieser Woche wurde bereits ein Konzernteil verkauft. Eine Exklusivmeldung von Achim Sawall (Nokia, Mobilfunk)</description>
+      <pubDate>Thu, 15 Oct 2026 21:21:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Copilot im Unternehmen gezielt einsetzen</title>
       <link>https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213973.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/small-world-in-motion-nikon-disqualifiziert-sieger-wegen-generativer-ki-2610-213955.html</guid>
       <description>Nikon disqualifiziert den Gewinner des Wettbewerbs Small World in Motion. Das Video verstößt laut Veranstalter gegen die KI-Regeln. (Nikon, KI)</description>
       <pubDate>Sat, 10 Oct 2026 12:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Agenten: Claude gibt Polizei falsche Hinweise</title>
-      <link>https://www.golem.de/news/ki-agenten-claude-gibt-polizei-falsche-hinweise-2610-213954.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-claude-gibt-polizei-falsche-hinweise-2610-213954.html</guid>
-      <description>Claude Haiku 4.5 hat in einem Test ein Formular der Polizei Philadelphia ausgefüllt. Der Hinweis zu einem Mordfall war aber unzutreffend. (KI, Software)</description>
-      <pubDate>Sat, 10 Oct 2026 11:48:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
