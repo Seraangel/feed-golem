@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 16:30:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 16:51:05 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Copilot im Unternehmen gezielt einsetzen</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213973.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213973.html</guid>
+      <description>Microsoft 365 Copilot wirft technische und organisatorische Fragen auf. Ein Workshop vermittelt Ansätze für den Einsatz im Unternehmen. (Golem Karrierewelt, KI)</description>
+      <pubDate>Thu, 15 Oct 2026 16:45:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Etikettendrucker mit Tastatur und Bluetooth für unter 29 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-etikettendrucker-mit-tastatur-und-bluetooth-fuer-unter-29-euro-bei-amazon-2610-214162.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-claude-gibt-polizei-falsche-hinweise-2610-213954.html</guid>
       <description>Claude Haiku 4.5 hat in einem Test ein Formular der Polizei Philadelphia ausgefüllt. Der Hinweis zu einem Mordfall war aber unzutreffend. (KI, Software)</description>
       <pubDate>Sat, 10 Oct 2026 11:48:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibecoding: Entwickler baut Adobe-Alternativen mit Claude in Rust</title>
-      <link>https://www.golem.de/news/vibecoding-entwickler-baut-adobe-alternativen-mit-claude-in-rust-2610-213953.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vibecoding-entwickler-baut-adobe-alternativen-mit-claude-in-rust-2610-213953.html</guid>
-      <description>Ein Entwickler baut mit Claude Adobe-Alternativen in Rust nach. Kritiker warnen vor Klagen und äußern Sicherheitsbedenken. (Adobe, Urheberrecht)</description>
-      <pubDate>Sat, 10 Oct 2026 10:57:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
