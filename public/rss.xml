@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 05:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:00:50 GMT</lastBuildDate>
+    <item>
+      <title>Assisted-by-Tag: KI-Code im Linux-Kernel muss nicht mehr markiert werden</title>
+      <link>https://www.golem.de/news/assisted-by-tag-ki-code-im-linux-kernel-muss-nicht-mehr-markiert-werden-2610-214123.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/assisted-by-tag-ki-code-im-linux-kernel-muss-nicht-mehr-markiert-werden-2610-214123.html</guid>
+      <description>Solange Entwickler ihren Code verstünden, sei die Nutzung von LLMs völlig in Ordnung, sagt Linus Torvalds selbst. (Linux, KI)</description>
+      <pubDate>Thu, 15 Oct 2026 05:56:04 GMT</pubDate>
+    </item>
     <item>
       <title>Xbox Nano: Microsoft stellt Controller im Taschenformat vor</title>
       <link>https://www.golem.de/news/xbox-nano-microsoft-stellt-controller-im-taschenformat-vor-2610-214119.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kopfhoerer-in-gta-6-laeuft-musik-erstmals-auch-zu-fuss-2610-213915.html</guid>
       <description>Rockstar Games stellt sechs Radiosender von GTA 6 vor. Erstmals gibt es Podcasts, außerdem können Spieler unterwegs Musik über Kopfhörer hören. (GTA 6, Rockstar)</description>
       <pubDate>Fri, 09 Oct 2026 08:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Ugreen-100-Watt-Ladegerät mit vier Ports für Prime-Kunden unter 35 Euro</title>
-      <link>https://www.golem.de/news/anzeige-ugreen-100-watt-ladegeraet-mit-vier-ports-fuer-prime-kunden-unter-35-euro-2610-213914.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ugreen-100-watt-ladegeraet-mit-vier-ports-fuer-prime-kunden-unter-35-euro-2610-213914.html</guid>
-      <description>100 Watt Leistung, vier Ports und GaN-Technik: Das kompakte Schnellladegerät von Ugreen gibt es bei Amazon im Angebot günstiger. (Technik/Hardware, iPhone)</description>
-      <pubDate>Fri, 09 Oct 2026 08:22:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
