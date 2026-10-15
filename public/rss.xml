@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 06:15:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 06:30:47 GMT</lastBuildDate>
+    <item>
+      <title>Firewall und Sicherheit: Microsoft Defender kommt für Linux-Desktops</title>
+      <link>https://www.golem.de/news/firewall-und-sicherheit-microsoft-defender-kommt-fuer-linux-desktops-2610-214125.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/firewall-und-sicherheit-microsoft-defender-kommt-fuer-linux-desktops-2610-214125.html</guid>
+      <description>Microsoft weitet das Security-Tool auf Linux-Systeme aus. Dabei werden die Features für Linux-Server direkt übernommen. (Microsoft 365, Server)</description>
+      <pubDate>Thu, 15 Oct 2026 06:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>Photovoltaik auf dem Dach: Elf Verbände wollen Solaraufschlag von 165 Euro verhindern</title>
       <link>https://www.golem.de/news/photovoltaik-auf-dem-dach-elf-verbaende-wollen-solaraufschlag-von-165-euro-verhindern-2610-214124.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/billigimporte-im-onlinehandel-haftungspflicht-fuer-drittstaaten-haendler-gefordert-2610-213917.html</guid>
       <description>Die Bundesregierung wird aufgefordert, die ständigen Rechtsbrüche von Drittstaaten-Händlern nicht länger zu dulden. Es müsse Sanktionen geben. (Onlinehandel, Verbraucherschutz)</description>
       <pubDate>Fri, 09 Oct 2026 09:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonomes Fahren: Teslas Kampagne um die FSD-Zulassung in den Niederlanden</title>
-      <link>https://www.golem.de/news/autonomes-fahren-teslas-kampagne-um-die-fsd-zulassung-in-den-niederlanden-2610-213916.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-teslas-kampagne-um-die-fsd-zulassung-in-den-niederlanden-2610-213916.html</guid>
-      <description>Die Korrespondenz mit der niederländischen Verkehrsaufsicht zeigt, wie Tesla die Prüfung zu FSD Supervised beeinflusst hat. Experten üben Kritik. (Tesla, Elektroauto)</description>
-      <pubDate>Fri, 09 Oct 2026 08:48:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
