@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 10:30:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:50:31 GMT</lastBuildDate>
+    <item>
+      <title>Epyc 9006 LP: AMDs Antwort auf Nvidia hat jetzt 192 statt 72 Kerne</title>
+      <link>https://www.golem.de/news/epyc-9006-lp-amds-antwort-auf-nvidia-hat-jetzt-192-statt-72-kerne-2610-214143.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/epyc-9006-lp-amds-antwort-auf-nvidia-hat-jetzt-192-statt-72-kerne-2610-214143.html</guid>
+      <description>Der Chiphersteller wird die Verano-CPUs mit wesentlich mehr Cores ausstatten. Mit dabei sind LPDDR5x-RAM und die Zen-6c-Architektur. (AMD, Prozessor)</description>
+      <pubDate>Thu, 15 Oct 2026 10:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Satelliteninternet: Starlink beendet rechtswidrige Preiserhöhung und Aboänderung</title>
       <link>https://www.golem.de/news/satelliteninternet-starlink-beendet-rechtswidrige-preiserhoehung-und-aboaenderung-2610-214142.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-18-v-akku-mit-5-ah-zum-bisher-besten-amazon-preis-2610-213936.html</guid>
       <description>Ob Akkuschrauber oder Bohrhammer: Amazon selbst hat den 5-Ah-Akku von Bosch Professional noch nie günstiger feilgeboten als jetzt. (Bosch, Energie &amp; Klima)</description>
       <pubDate>Fri, 09 Oct 2026 13:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gods don't give gifts: Ein KI-Film mit überraschend viel traditioneller Technik</title>
-      <link>https://www.golem.de/news/gods-don-t-give-gifts-ein-ki-film-mit-ueberraschend-viel-traditioneller-technik-2610-213932.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gods-don-t-give-gifts-ein-ki-film-mit-ueberraschend-viel-traditioneller-technik-2610-213932.html</guid>
-      <description>Ist Gods don't give gifts KI-Slop in Spielfilmlänge? Ein Blick auf die Technik zeigt: Dahinter steckt viel Handarbeit. Von Johannes Hiltscher (KI, Audio/Video)</description>
-      <pubDate>Fri, 09 Oct 2026 13:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
