@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 08:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:20:48 GMT</lastBuildDate>
+    <item>
+      <title>Ersteinrichtung: Microsoft entfernt einfachen Zugang zu lokalem Windows-11-Konto</title>
+      <link>https://www.golem.de/news/ersteinrichtung-microsoft-entfernt-einfachen-zugang-zu-lokalem-windows-11-konto-2610-214131.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ersteinrichtung-microsoft-entfernt-einfachen-zugang-zu-lokalem-windows-11-konto-2610-214131.html</guid>
+      <description>Durch einen kleinen Trick ließ sich auch Windows 11 Home mit einem lokalen Konto einrichten. Microsoft sagt nein. (Windows 11, Microsoft)</description>
+      <pubDate>Thu, 15 Oct 2026 08:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>Mögliches Datenleck: Notebooksbilliger meldet Cyberangriff</title>
       <link>https://www.golem.de/news/moegliches-datenleck-notebooksbilliger-meldet-cyberangriff-2610-214130.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kostenlose-tls-zertifikate-let-s-encrypt-verkuerzt-gueltigkeit-auf-64-tage-2610-213925.html</guid>
       <description>Ab 2028 sinkt die Gültigkeitsdauer auf 45 Tage. Let's Encrypt will so das Risko von Schlüsselkompromittierungen reduzieren. (Let's Encrypt, Verschlüsselung)</description>
       <pubDate>Fri, 09 Oct 2026 10:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI: Anthropic verbietet Nutzern, zu gemein zu Claude zu sein</title>
-      <link>https://www.golem.de/news/ki-anthropic-verbietet-nutzern-zu-gemein-zu-claude-zu-sein-2610-213924.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-anthropic-verbietet-nutzern-zu-gemein-zu-claude-zu-sein-2610-213924.html</guid>
-      <description>Künftig kann Claude Chats beenden, wenn Nutzer die KI beleidigen. In der neuen Nutzervereinbarung werden auch Propaganda und Waffenentwicklung geregelt. (Anthropic, KI)</description>
-      <pubDate>Fri, 09 Oct 2026 10:41:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
