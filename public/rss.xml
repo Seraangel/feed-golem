@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 08:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:45:50 GMT</lastBuildDate>
+    <item>
+      <title>EUDI-Wallet nachgebessert: 13-Jährige sollen künftig Onlineausweis erhalten</title>
+      <link>https://www.golem.de/news/eudi-wallet-nachgebessert-13-jaehrige-sollen-kuenftig-onlineausweis-erhalten-2610-214136.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/eudi-wallet-nachgebessert-13-jaehrige-sollen-kuenftig-onlineausweis-erhalten-2610-214136.html</guid>
+      <description>Die Koalition reagiert auf das geplante Social-Media-Verbot für unter 13-Jährige. Kinder ab 13 sollen sich selbst im Netz ausweisen können. (EUDI-Wallet, Datenschutz)</description>
+      <pubDate>Thu, 15 Oct 2026 08:44:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Launcher: Epic Games provoziert mit Vibe Coding und erntet Spott</title>
+      <link>https://www.golem.de/news/launcher-epic-games-provoziert-mit-vibe-coding-und-erntet-spott-2610-214134.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/launcher-epic-games-provoziert-mit-vibe-coding-und-erntet-spott-2610-214134.html</guid>
+      <description>Ein neuer Launcher ist mit KI entstanden. Epic Games stellt das positiv dar, in der Community sorgt das für Spott und Kritik. (Epic Games, KI)</description>
+      <pubDate>Thu, 15 Oct 2026 08:40:06 GMT</pubDate>
+    </item>
     <item>
       <title>Ersteinrichtung: Microsoft entfernt einfachen Zugang zu lokalem Windows-11-Konto</title>
       <link>https://www.golem.de/news/ersteinrichtung-microsoft-entfernt-einfachen-zugang-zu-lokalem-windows-11-konto-2610-214131.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/monitoring-llms-als-helfer-beim-troubleshooting-2610-213929.html</guid>
       <description>Monitoring-Anbieter verkaufen Root-Cause-Analyse mit KI als Zauberei. Doch wie weit kommt, wer LLM und Logauszug stattdessen selbst verknüpft? Ein Praxistest. Ein Praxistest von Martin Loschwitz (Softwareentwicklung, KI)</description>
       <pubDate>Fri, 09 Oct 2026 11:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kollisionen im Orbit: SpaceX nimmt das Problem mit Weltraumschrott nicht ernst</title>
-      <link>https://www.golem.de/news/kollisionen-im-orbit-spacex-nimmt-das-problem-mit-weltraumschrott-nicht-ernst-2610-213926.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kollisionen-im-orbit-spacex-nimmt-das-problem-mit-weltraumschrott-nicht-ernst-2610-213926.html</guid>
-      <description>Eine neue Plattform des Konzerns will die Positionen aller Satelliten sammeln, um Zusammenstöße zu verhindern. Das Problem ist aber ein anderes. (SpaceX, Überwachung)</description>
-      <pubDate>Fri, 09 Oct 2026 11:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kostenlose TLS-Zertifikate: Let's Encrypt verkürzt Gültigkeit auf 64 Tage</title>
-      <link>https://www.golem.de/news/kostenlose-tls-zertifikate-let-s-encrypt-verkuerzt-gueltigkeit-auf-64-tage-2610-213925.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kostenlose-tls-zertifikate-let-s-encrypt-verkuerzt-gueltigkeit-auf-64-tage-2610-213925.html</guid>
-      <description>Ab 2028 sinkt die Gültigkeitsdauer auf 45 Tage. Let's Encrypt will so das Risko von Schlüsselkompromittierungen reduzieren. (Let's Encrypt, Verschlüsselung)</description>
-      <pubDate>Fri, 09 Oct 2026 10:57:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
