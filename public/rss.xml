@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 11:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:05:28 GMT</lastBuildDate>
+    <item>
+      <title>Street Fighter im Kino: Herrlich bescheuert</title>
+      <link>https://www.golem.de/news/street-fighter-im-kino-herrlich-bescheuert-2610-214038.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/street-fighter-im-kino-herrlich-bescheuert-2610-214038.html</guid>
+      <description>Vergesst Jean-Claude Van Damme, vergesst den Film von früher und feiert die 90er: Das hier ist der einzig wirklich coole Street Fighter! Eine Rezension von Peter Osteried (Street Fighter, Digitalkino)</description>
+      <pubDate>Thu, 15 Oct 2026 12:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Apple iPhone 18 Pro im Tarif mit 40 GByte schon für 1 Euro bei Blau</title>
       <link>https://www.golem.de/news/anzeige-apple-iphone-18-pro-im-tarif-mit-40-gbyte-schon-fuer-1-euro-bei-blau-2610-214147.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/astronomie-stern-absorbiert-braunen-zwerg-2610-213933.html</guid>
       <description>Eine kuriose Messung, aufgezeichnet von mehreren Teleskopen, zeigt eine bisher nie gesehene Konstellation. Sie ist nur 300 Lichtjahre entfernt. (Astronomie, Open Access)</description>
       <pubDate>Fri, 09 Oct 2026 14:26:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cyberangriffe auf Banken: Hacker nutzt KI und hinterlässt Accountdaten</title>
-      <link>https://www.golem.de/news/cyberangriffe-auf-banken-hacker-nutzt-ki-und-hinterlaesst-accountdaten-2610-213941.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cyberangriffe-auf-banken-hacker-nutzt-ki-und-hinterlaesst-accountdaten-2610-213941.html</guid>
-      <description>Der Angreifer ist aufgeflogen, weil er offene und ungesicherte Webverzeichnisse auf seiner Server-Infrastruktur betrieb. (KI, Server)</description>
-      <pubDate>Fri, 09 Oct 2026 14:09:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
