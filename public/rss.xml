@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 14 Oct 2026 19:20:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:20:48 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Flows mit Power Automate erstellen und erweitern</title>
+      <link>https://www.golem.de/news/anzeige-flows-mit-power-automate-erstellen-und-erweitern-2610-213972.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-flows-mit-power-automate-erstellen-und-erweitern-2610-213972.html</guid>
+      <description>Microsoft Power Automate automatisiert wiederkehrende Aufgaben in Microsoft 365. Ein Workshop vermittelt den Aufbau von Flows und die Anbindung von Datenquellen. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Thu, 15 Oct 2026 05:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Victorinox Huntsman mit 15 Funktionen bei Amazon nun unter 26 Euro</title>
       <link>https://www.golem.de/news/anzeige-victorinox-huntsman-mit-15-funktionen-bei-amazon-nun-unter-26-euro-2610-214118.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fuer-interposer-globalfoundries-wird-tsmc-zulieferer-2610-213908.html</guid>
       <description>Bei der US-Halbleiterfertigung will TSMC offensichtlich nicht alles selber machen. (Halbleiterfertigung, TSMC)</description>
       <pubDate>Fri, 09 Oct 2026 07:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gradmesser für KI-Nachfrage: OpenAI meldet 20 Milliarden weniger Umsatz als erwartet</title>
-      <link>https://www.golem.de/news/gradmesser-fuer-ki-nachfrage-openai-meldet-20-milliarden-weniger-umsatz-als-erwartet-2610-213906.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gradmesser-fuer-ki-nachfrage-openai-meldet-20-milliarden-weniger-umsatz-als-erwartet-2610-213906.html</guid>
-      <description>Die ausbleibenden Umsätze bei OpenAI haben Auswirkungen auf die Aktienkurse großer Technologieunternehmen. (OpenAI, Börse)</description>
-      <pubDate>Fri, 09 Oct 2026 07:21:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
