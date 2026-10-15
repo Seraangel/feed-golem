@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 07:50:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 08:00:51 GMT</lastBuildDate>
+    <item>
+      <title>Mögliches Datenleck: Notebooksbilliger meldet Cyberangriff</title>
+      <link>https://www.golem.de/news/moegliches-datenleck-notebooksbilliger-meldet-cyberangriff-2610-214130.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/moegliches-datenleck-notebooksbilliger-meldet-cyberangriff-2610-214130.html</guid>
+      <description>Unbekannte greifen offenbar auch auf Bankdaten zu - Notebooksbilliger warnt vor Betrugsversuchen mit gestohlenen Kundendaten (Cybercrime, Security)</description>
+      <pubDate>Thu, 15 Oct 2026 07:58:02 GMT</pubDate>
+    </item>
     <item>
       <title>Mobile Klimaanlage: AEG Roomovi fordert die Portasplit heraus</title>
       <link>https://www.golem.de/news/mobile-klimaanlage-aeg-roomovi-fordert-die-portasplit-heraus-2610-214129.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-anthropic-verbietet-nutzern-zu-gemein-zu-claude-zu-sein-2610-213924.html</guid>
       <description>Künftig kann Claude Chats beenden, wenn Nutzer die KI beleidigen. In der neuen Nutzervereinbarung werden auch Propaganda und Waffenentwicklung geregelt. (Anthropic, KI)</description>
       <pubDate>Fri, 09 Oct 2026 10:41:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>800-MHz-Coup: Wie SpaceX erneut den Mobilfunkmarkt angreift</title>
-      <link>https://www.golem.de/news/800-mhz-coup-wie-spacex-erneut-den-mobilfunkmarkt-angreift-2610-213923.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/800-mhz-coup-wie-spacex-erneut-den-mobilfunkmarkt-angreift-2610-213923.html</guid>
-      <description>Ein milliardenschwerer Spektrums-Deal und Hilfe von der FCC: SpaceX rüstet Starlink Mobile für den Massenmarkt auf. Satelliten-Anrufe und -Nachrichten funktionieren künftig auch in Gebäuden. Eine Analyse von Achim Sawall (Elon Musk, FCC)</description>
-      <pubDate>Fri, 09 Oct 2026 10:25:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
