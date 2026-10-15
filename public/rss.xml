@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 15 Oct 2026 05:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:45:49 GMT</lastBuildDate>
+    <item>
+      <title>Xbox Nano: Microsoft stellt Controller im Taschenformat vor</title>
+      <link>https://www.golem.de/news/xbox-nano-microsoft-stellt-controller-im-taschenformat-vor-2610-214119.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/xbox-nano-microsoft-stellt-controller-im-taschenformat-vor-2610-214119.html</guid>
+      <description>Der Xbox Nano ist nur 13,3 Zentimeter lang und wiegt rund 100 Gramm. Trotz seiner geringen Größe bietet er alle wichtigen Tasten. (Xbox, Microsoft)</description>
+      <pubDate>Thu, 15 Oct 2026 05:42:10 GMT</pubDate>
+    </item>
     <item>
       <title>KI: Anthropic meldet 16,8 Milliarden US-Dollar Quartalsumsatz</title>
       <link>https://www.golem.de/news/ki-anthropic-meldet-16-8-milliarden-us-dollar-quartalsumsatz-2610-214122.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ugreen-100-watt-ladegeraet-mit-vier-ports-fuer-prime-kunden-unter-35-euro-2610-213914.html</guid>
       <description>100 Watt Leistung, vier Ports und GaN-Technik: Das kompakte Schnellladegerät von Ugreen gibt es bei Amazon im Angebot günstiger. (Technik/Hardware, iPhone)</description>
       <pubDate>Fri, 09 Oct 2026 08:22:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>1 Terabyte in zehn Tagen: Kaffeemaschine im Datenrausch</title>
-      <link>https://www.golem.de/news/1-terabyte-in-zehn-tagen-kaffeemaschine-im-datenrausch-2610-213911.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/1-terabyte-in-zehn-tagen-kaffeemaschine-im-datenrausch-2610-213911.html</guid>
-      <description>Eine vernetzte Keurig-Kaffeemaschine hat im Heimnetz ihrer Besitzer in zehn Tagen rund 1.000 Gigabyte Daten bewegt. (Smart Home, IoT)</description>
-      <pubDate>Fri, 09 Oct 2026 08:09:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
