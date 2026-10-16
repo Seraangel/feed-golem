@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 10:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:20:55 GMT</lastBuildDate>
+    <item>
+      <title>Warnung des BSI: Angriffe auf Zero-Day-Lücke in Cisco Secure Email Gateway</title>
+      <link>https://www.golem.de/news/warnung-des-bsi-angriffe-auf-zero-day-luecke-in-cisco-secure-email-gateway-2610-214183.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/warnung-des-bsi-angriffe-auf-zero-day-luecke-in-cisco-secure-email-gateway-2610-214183.html</guid>
+      <description>Der Malware-Scanner von Ciscos Secure Email Gateway reagiert fehlerhaft auf speziell gestaltete E-Mails. Hacker erhalten so Root-Rechte. (Sicherheitslücke, E-Mail)</description>
+      <pubDate>Fri, 16 Oct 2026 10:16:04 GMT</pubDate>
+    </item>
     <item>
       <title>Elektroauto: Einfach durchrutschen im Smart #2</title>
       <link>https://www.golem.de/news/elektroauto-einfach-durchrutschen-im-smart-2-2610-214177.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/yandex-russische-bots-verstummen-nach-angriffen-auf-rechenzentren-2610-213978.html</guid>
       <description>Nach Drohnenangriffen auf Yandex ist der russische Bot-Traffic laut Cloudflare stark eingebrochen. (Russland, Rechenzentrum)</description>
       <pubDate>Mon, 12 Oct 2026 06:22:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>TV: RTL zeigt KI-Folgen ohne Hinweis im linearen TV</title>
-      <link>https://www.golem.de/news/tv-rtl-zeigt-ki-folgen-ohne-hinweis-im-linearen-tv-2610-213981.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/tv-rtl-zeigt-ki-folgen-ohne-hinweis-im-linearen-tv-2610-213981.html</guid>
-      <description>RTL hat fünf alte Strafgericht-Folgen per KI zu neuen Geschichten umgebaut. Im linearen TV fehlt der entsprechende KI-Hinweis. (RTL, KI)</description>
-      <pubDate>Mon, 12 Oct 2026 06:17:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
