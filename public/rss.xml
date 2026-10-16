@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 07:50:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:15:57 GMT</lastBuildDate>
+    <item>
+      <title>Scraping in den Nutzungsbedingungen: Meta zwingt Webseiten KI-Zugriff zu erlauben</title>
+      <link>https://www.golem.de/news/scraping-in-den-nutzungsbedingungen-meta-zwingt-webseiten-ki-zugriff-zu-erlauben-2610-214174.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/scraping-in-den-nutzungsbedingungen-meta-zwingt-webseiten-ki-zugriff-zu-erlauben-2610-214174.html</guid>
+      <description>Die Meta-Nutzungsbedingungen sehen auch Test-Accounts für KI-Bots vor, um auf geschützte Inhalte für das LLM-Training zugreifen zu können. (Meta, KI)</description>
+      <pubDate>Fri, 16 Oct 2026 08:11:06 GMT</pubDate>
+    </item>
     <item>
       <title>Project Odeon: Microsoft testet Windows-Einstellungen als Store-App</title>
       <link>https://www.golem.de/news/project-odeon-microsoft-testet-windows-einstellungen-als-store-app-2610-214172.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-ki-flut-bringt-mehr-code-und-weniger-fortschritt-2610-213961.html</guid>
       <description>Eine Harvard-Studie zeigt: KI-Coding-Tools vermehren den Code, doch die Review-Zeit steigt massiv. Die Software entsteht nicht schneller. (Software, KI)</description>
       <pubDate>Sun, 11 Oct 2026 10:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assistenzsystem: Tesla benennt Full Self Driving um</title>
-      <link>https://www.golem.de/news/assistenzsystem-tesla-benennt-full-self-driving-um-2610-213959.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/assistenzsystem-tesla-benennt-full-self-driving-um-2610-213959.html</guid>
-      <description>Nach Kritik aus Deutschland hat Tesla sein Assistenzsystem umbenannt. Der neue Name klingt bescheidener, die Technik bleibt die gleiche. (Autonomes Fahren, Elektroauto)</description>
-      <pubDate>Sun, 11 Oct 2026 09:32:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
