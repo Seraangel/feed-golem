@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 10:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:16:14 GMT</lastBuildDate>
+    <item>
+      <title>Apple und Meta kooperieren bei KI: Lokale Modelle fordern mehrere High-End-Macs</title>
+      <link>https://www.golem.de/news/apple-und-meta-kooperieren-bei-ki-lokale-modelle-fordern-mehrere-high-end-macs-2610-214188.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/apple-und-meta-kooperieren-bei-ki-lokale-modelle-fordern-mehrere-high-end-macs-2610-214188.html</guid>
+      <description>Nach den Zerwürfnissen zwischen Tim Cook und Mark Zuckerberg findet der neue Apple-Chef John Ternus in KI einen Weg zur Zusammenarbeit mit Meta. (KI, Apple)</description>
+      <pubDate>Fri, 16 Oct 2026 11:10:10 GMT</pubDate>
+    </item>
     <item>
       <title>Warnung des BSI: Angriffe auf Zero-Day-Lücke in Cisco Secure Email Gateway</title>
       <link>https://www.golem.de/news/warnung-des-bsi-angriffe-auf-zero-day-luecke-in-cisco-secure-email-gateway-2610-214183.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/die-ente-fliegt-wieder-citroen-bringt-den-2cv-als-e-kleinwagen-zurueck-2610-213980.html</guid>
       <description>Auf dem Pariser Autosalon 2026 zeigt Citroën das 2CV Concept. Kompakt, leicht und für rund 15.000 Euro geplant, soll das Auto 2028 erscheinen. (Citroën, Elektroauto)</description>
       <pubDate>Mon, 12 Oct 2026 06:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yandex: Russische Bots verstummen nach Angriffen auf Rechenzentren</title>
-      <link>https://www.golem.de/news/yandex-russische-bots-verstummen-nach-angriffen-auf-rechenzentren-2610-213978.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/yandex-russische-bots-verstummen-nach-angriffen-auf-rechenzentren-2610-213978.html</guid>
-      <description>Nach Drohnenangriffen auf Yandex ist der russische Bot-Traffic laut Cloudflare stark eingebrochen. (Russland, Rechenzentrum)</description>
-      <pubDate>Mon, 12 Oct 2026 06:22:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
