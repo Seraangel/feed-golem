@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 15:50:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:05:54 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Gehirn-Computer-Schnittstelle: Was passiert, wenn KI unsere Gedanken lesen kann?</title>
+      <link>https://www.golem.de/news/gehirn-computer-schnittstelle-was-passiert-wenn-ki-unsere-gedanken-lesen-kann-2610-214203.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gehirn-computer-schnittstelle-was-passiert-wenn-ki-unsere-gedanken-lesen-kann-2610-214203.html</guid>
+      <description>Kann KI bald Gedanken lesen? In seinem Kommentar in der Financial Times wirft John Thornhill einen Blick auf Chancen und Risiken. Unsere Leseempfehlung. Von John Thornhill (BCI, Silicon Valley)</description>
+      <pubDate>Fri, 16 Oct 2026 16:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 27-Zoll-Gaming-Monitor von AOC mit bis zu 260 Hz für unter 130 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-27-zoll-gaming-monitor-von-aoc-mit-bis-zu-260-hz-fuer-unter-130-euro-bei-amazon-2610-214204.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digital-networks-act-machtkampf-ums-festnetz-spitzt-sich-zu-2610-213997.html</guid>
       <description>Der Umstieg von Kupfer auf Glasfaser und die weitere Regulierung spaltet die europäischen Telcos. Sechs europäische Verbände haben die Allianz DNA Europe ins Leben gerufen. (Festnetz, Kabelnetz)</description>
       <pubDate>Mon, 12 Oct 2026 10:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dringendes Update: Citrix warnt vor kritischer Lücke in Netscaler</title>
-      <link>https://www.golem.de/news/dringendes-update-citrix-warnt-vor-kritischer-luecke-in-netscaler-2610-213995.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/dringendes-update-citrix-warnt-vor-kritischer-luecke-in-netscaler-2610-213995.html</guid>
-      <description>Die Schwachstelle erlaubt eine Remotecodeausführung. Netscaler ADP und Netscaler Gateway sind auch anfällig für Denial-of-Service. (Sicherheitslücke, Citrix)</description>
-      <pubDate>Mon, 12 Oct 2026 10:29:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
