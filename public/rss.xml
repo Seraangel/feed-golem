@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 08:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:50:55 GMT</lastBuildDate>
+    <item>
+      <title>Zweites Update in einer Woche: Google schließt erneut kritische Lücke in Chrome</title>
+      <link>https://www.golem.de/news/zweites-update-in-einer-woche-google-schliesst-erneut-kritische-luecke-in-chrome-2610-214175.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zweites-update-in-einer-woche-google-schliesst-erneut-kritische-luecke-in-chrome-2610-214175.html</guid>
+      <description>Das Update verhindert eine Remotecodeausführung außerhalb der Sandbox von Chrome. Die Lücke entdeckte ein Mitarbeiter von Anthropic. (Chrome, Google)</description>
+      <pubDate>Fri, 16 Oct 2026 08:47:07 GMT</pubDate>
+    </item>
     <item>
       <title>Mieterstrom: Wie kommt eine PV-Anlage aufs Dach einer WEG?</title>
       <link>https://www.golem.de/news/mieterstrom-wie-kommt-eine-pv-anlage-aufs-dach-einer-weg-2610-214153.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-bundesregierung-laesst-mistral-fallen-2610-213963.html</guid>
       <description>Der geplante KI-Rahmenvertrag zwischen Deuschland, Mistral und SAP ist vorerst vom Tisch. (Bundesregierung, KI)</description>
       <pubDate>Sun, 11 Oct 2026 11:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft-Chef Nadella: Menschen müssen Notbremse bei KI-Modellen ziehen können</title>
-      <link>https://www.golem.de/news/microsoft-chef-nadella-ki-darf-sich-nicht-selbst-kontrollieren-2610-213964.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-chef-nadella-ki-darf-sich-nicht-selbst-kontrollieren-2610-213964.html</guid>
-      <description>Microsoft-Chef Nadella hält die bisherige Eindämmung von KI-Modellen für gescheitert. In seiner Analyse beugt er sich aber dem Willen von US-Präsident Trump. (Microsoft, KI)</description>
-      <pubDate>Sun, 11 Oct 2026 11:07:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
