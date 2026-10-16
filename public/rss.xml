@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 09:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:55:54 GMT</lastBuildDate>
+    <item>
+      <title>Xbox 360: Neuer Hack macht Modchip überflüssig</title>
+      <link>https://www.golem.de/news/xbox-360-neuer-hack-macht-modchip-ueberfluessig-2610-214182.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/xbox-360-neuer-hack-macht-modchip-ueberfluessig-2610-214182.html</guid>
+      <description>Ein Softmod umgeht die Sicherheitsmechanismen der Xbox 360 dauerhaft und benötigt weder Modchip noch Lötarbeiten. (Xbox 360, Homebrew)</description>
+      <pubDate>Fri, 16 Oct 2026 09:50:04 GMT</pubDate>
+    </item>
     <item>
       <title>Alpamayo: Volvo setzt auf Nvidias Open-Source-Fahrmodell</title>
       <link>https://www.golem.de/news/alpamayo-volvo-setzt-auf-nvidias-open-source-fahrmodell-2610-214180.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/daenemark-hacker-hatten-wochenlang-zugriff-auf-zentrales-personenregister-2610-213979.html</guid>
       <description>Über einen IT-Dienstleister bekamen Angreifer Zugang zu Dänemarks zentralem Personenregister. Mehrere Konten der Firma waren offenbar nur mit 123456 gesichert. (Cybercrime, Security)</description>
       <pubDate>Mon, 12 Oct 2026 06:10:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Büroprozesse mit Claude als KI-Agent automatisieren</title>
-      <link>https://www.golem.de/news/anzeige-bueroprozesse-mit-claude-als-ki-agent-automatisieren-2610-213950.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bueroprozesse-mit-claude-als-ki-agent-automatisieren-2610-213950.html</guid>
-      <description>KI-Agenten brauchen klare Aufgaben und menschliche Kontrolle. Ein Online-Workshop zeigt, wie mit Claude wiederverwendbare Abläufe für Büroprozesse entstehen. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Mon, 12 Oct 2026 05:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
