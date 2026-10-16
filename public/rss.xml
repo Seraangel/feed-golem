@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 09:55:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 10:05:53 GMT</lastBuildDate>
+    <item>
+      <title>Elektroauto: Einfach durchrutschen im Smart #2</title>
+      <link>https://www.golem.de/news/elektroauto-einfach-durchrutschen-im-smart-2-2610-214177.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektroauto-einfach-durchrutschen-im-smart-2-2610-214177.html</guid>
+      <description>Der kleine Smart kehrt als Elektroauto zurück. Auf dem Pariser Autosalon überraschen praktische Details, doch die Ladeangaben werfen Fragen auf. Ein Bericht von Dirk Kunde (Elektroauto, Auto)</description>
+      <pubDate>Fri, 16 Oct 2026 10:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Xbox 360: Neuer Hack macht Modchip überflüssig</title>
       <link>https://www.golem.de/news/xbox-360-neuer-hack-macht-modchip-ueberfluessig-2610-214182.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tv-rtl-zeigt-ki-folgen-ohne-hinweis-im-linearen-tv-2610-213981.html</guid>
       <description>RTL hat fünf alte Strafgericht-Folgen per KI zu neuen Geschichten umgebaut. Im linearen TV fehlt der entsprechende KI-Hinweis. (RTL, KI)</description>
       <pubDate>Mon, 12 Oct 2026 06:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angriff auf dänisches Melderegister: Zugangspasswort war offenbar 123456</title>
-      <link>https://www.golem.de/news/daenemark-hacker-hatten-wochenlang-zugriff-auf-zentrales-personenregister-2610-213979.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/daenemark-hacker-hatten-wochenlang-zugriff-auf-zentrales-personenregister-2610-213979.html</guid>
-      <description>Über einen IT-Dienstleister bekamen Angreifer Zugang zu Dänemarks zentralem Personenregister. Mehrere Konten der Firma waren offenbar nur mit 123456 gesichert. (Cybercrime, Security)</description>
-      <pubDate>Mon, 12 Oct 2026 06:10:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
