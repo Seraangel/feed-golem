@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 05:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:40:59 GMT</lastBuildDate>
+    <item>
+      <title>Amazon Bee: Amazon bringt KI-Audioarmband und Handyclip</title>
+      <link>https://www.golem.de/news/amazon-bee-amazon-bringt-ki-audioarmband-und-handyclip-2610-214164.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/amazon-bee-amazon-bringt-ki-audioarmband-und-handyclip-2610-214164.html</guid>
+      <description>Amazon hat die ersten Geräte seiner KI-Sparte Bee vorgestellt: ein Wearable fürs Handgelenk und einen Clip für die Handyrückseite. (Amazon, KI)</description>
+      <pubDate>Fri, 16 Oct 2026 05:39:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft 365: Identitäten, Geräte und Daten absichern</title>
       <link>https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2610-213974.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/brickboy-im-test-so-wird-aus-lego-ein-echter-game-boy-2610-213912.html</guid>
       <description>Lego hat einen Game Boy, auf dem man nicht spielen kann. Ein Schweizer Start-up liefert nun die Technik. Wir zeigen, wie gut der Umbau funktioniert. Von Oliver Nickel (Kickstarter, Lego)</description>
       <pubDate>Sun, 11 Oct 2026 05:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Jobs in SAP, DevOps, IT-Audit und Cloud Security</title>
-      <link>https://www.golem.de/news/anzeige-jobs-in-sap-devops-it-audit-und-cloud-security-2610-213909.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-jobs-in-sap-devops-it-audit-und-cloud-security-2610-213909.html</guid>
-      <description>Arbeitgeber aus Energiewirtschaft, Forschung und Verwaltung haben sechs spannende Positionen von SAP bis Cloud Security im Angebot. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Sun, 11 Oct 2026 05:00:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
