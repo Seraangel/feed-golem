@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 09:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:25:54 GMT</lastBuildDate>
+    <item>
+      <title>90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen</title>
+      <link>https://www.golem.de/news/90-statt-100-prozent-europa-kann-nicht-vom-verbrennungsmotor-lassen-2610-214178.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/90-statt-100-prozent-europa-kann-nicht-vom-verbrennungsmotor-lassen-2610-214178.html</guid>
+      <description>Frankreich und Deutschland haben sich im Streit um das EU-weite Verbrennerverbot geeinigt. Jede Seite bekommt ihren Willen. (Verbrennerverbot, Elektroauto)</description>
+      <pubDate>Fri, 16 Oct 2026 09:20:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Magsafe-Powerbank mit 10.000 mAh reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-magsafe-powerbank-mit-10-000-mah-reduziert-bei-amazon-2610-214179.html</link>
@@ -163,7 +170,7 @@
       <title>Netzausbau: Noch kein Kostenvorteil durch Open RAN bei 1&amp;1</title>
       <link>https://www.golem.de/news/netzausbau-noch-kein-kostenvorteil-durch-open-ran-bei-1-1-2610-214155.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/netzausbau-noch-kein-kostenvorteil-durch-open-ran-bei-1-1-2610-214155.html</guid>
-      <description>Der 1&amp;1- Mobilfunkchef will noch nicht damit werben, dass Open RAN günstiger sei, weil das erst in Zukunft so sei. Auch die Austauschbarkeit der Zulieferer ist komplizierter als gedacht. Ein Bericht von Achim Sawall (1&amp;1, Nokia)</description>
+      <description>Der 1&amp;1- Mobilfunkchef will noch nicht damit werben, dass Open RAN günstiger sei, weil das erst in Zukunft so sei. Auch die Austauschbarkeit der Zulieferer nicht einfach. Ein Bericht von Achim Sawall (1&amp;1, Nokia)</description>
       <pubDate>Thu, 15 Oct 2026 15:14:06 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/shield-ai-drohne-navy-x-bat-startet-senkrecht-von-flugzeugen-aus-2610-213966.html</guid>
       <description>Shield AI hat den Prototypen der X-BAT vorgestellt. Die jetgetriebenen Drohne mit Senkrechtstart soll von jedem Schiff aus starten können. (Militär, General Electric)</description>
       <pubDate>Sun, 11 Oct 2026 12:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>ÖPNV: Hamburg kommt mit Wasserstoffbussen nicht voran</title>
-      <link>https://www.golem.de/news/oepnv-hamburg-kommt-mit-wasserstoffbussen-nicht-voran-2610-213965.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/oepnv-hamburg-kommt-mit-wasserstoffbussen-nicht-voran-2610-213965.html</guid>
-      <description>Brennstoffzellenantriebe werden als Alternative zu Elektrobussen gehandelt. In der Praxis gibt es technische Probleme und teuren grünen Wasserstoff. (Elektrobus, Elektroauto)</description>
-      <pubDate>Sun, 11 Oct 2026 12:11:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
