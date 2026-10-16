@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 13:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 13:21:01 GMT</lastBuildDate>
+    <item>
+      <title>26H2 und mehr: Windows 11 soll auf 8 GByte RAM jetzt besser laufen</title>
+      <link>https://www.golem.de/news/26h2-und-mehr-windows-11-soll-auf-8-gbyte-ram-jetzt-besser-laufen-2610-214194.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/26h2-und-mehr-windows-11-soll-auf-8-gbyte-ram-jetzt-besser-laufen-2610-214194.html</guid>
+      <description>Microsoft hat diverse Änderungen beim Arbeitsspeicher-Management vorgenommen. So werden etwa Widgets auf einigen PCs nicht mehr geladen. (Windows 11, Microsoft)</description>
+      <pubDate>Fri, 16 Oct 2026 13:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>Google Beam: Diese 3D-Videokonferenz wirkt echt, kostet aber 35.000 Euro</title>
       <link>https://www.golem.de/news/google-beam-diese-3d-videokonferenz-wirkt-echt-kostet-aber-35-000-euro-2610-214117.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/decart-amazon-verhandelt-ki-uebernahme-fuer-sieben-milliarden-us-dollar-2610-213988.html</guid>
       <description>Für Amazon/AWS löst Decart das Problem, dass Unternehmen ihre Modelle nur schwer von Nvidia-Hardware zu AWS-Chips verlagern können. (AWS, KI)</description>
       <pubDate>Mon, 12 Oct 2026 09:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Post: Porto kann so stark steigen wie nie zuvor</title>
-      <link>https://www.golem.de/news/post-porto-kann-so-stark-steigen-wie-nie-zuvor-2610-213987.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/post-porto-kann-so-stark-steigen-wie-nie-zuvor-2610-213987.html</guid>
-      <description>Das Porto steigt: Die Höhe ist noch unklar - der Spielraum für die Post ist aber so hoch wie nie zuvor. Ein Standardbrief dürfte erstmals mehr als 1 Euro kosten. (Post, Verbraucherschutz)</description>
-      <pubDate>Mon, 12 Oct 2026 08:57:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
