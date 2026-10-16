@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 08:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:26:00 GMT</lastBuildDate>
+    <item>
+      <title>Youtube: Microsofts Video zum Windows-10-Supportende hat 670 Millionen Aufrufe</title>
+      <link>https://www.golem.de/news/youtube-microsofts-video-zum-windows-10-supportende-hat-670-millionen-aufrufe-2610-214171.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/youtube-microsofts-video-zum-windows-10-supportende-hat-670-millionen-aufrufe-2610-214171.html</guid>
+      <description>Auf Youtube verabschieden sich User von Windows 10 und sagen Hallo zu Linux. (Betriebssysteme, Microsoft)</description>
+      <pubDate>Fri, 16 Oct 2026 08:24:03 GMT</pubDate>
+    </item>
     <item>
       <title>Scraping in den Nutzungsbedingungen: Meta zwingt Webseiten KI-Zugriff zu erlauben</title>
       <link>https://www.golem.de/news/scraping-in-den-nutzungsbedingungen-meta-zwingt-webseiten-ki-zugriff-zu-erlauben-2610-214174.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/drohnenangriffe-ukrainische-drohnen-treffen-weitere-yandex-rechenzentren-2610-213962.html</guid>
       <description>Nach ukrainischen Drohnenangriffen auf Yandex-Rechenzentren brechen Clouddienste in Russland ein. (Rechenzentrum, Supercomputer)</description>
       <pubDate>Sun, 11 Oct 2026 10:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Softwareentwicklung: KI-Flut bringt mehr Code und weniger Fortschritt</title>
-      <link>https://www.golem.de/news/softwareentwicklung-ki-flut-bringt-mehr-code-und-weniger-fortschritt-2610-213961.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-ki-flut-bringt-mehr-code-und-weniger-fortschritt-2610-213961.html</guid>
-      <description>Eine Harvard-Studie zeigt: KI-Coding-Tools vermehren den Code, doch die Review-Zeit steigt massiv. Die Software entsteht nicht schneller. (Software, KI)</description>
-      <pubDate>Sun, 11 Oct 2026 10:04:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
