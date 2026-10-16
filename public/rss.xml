@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 09:25:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 09:40:54 GMT</lastBuildDate>
+    <item>
+      <title>Alpamayo: Volvo setzt auf Nvidias Open-Source-Fahrmodell</title>
+      <link>https://www.golem.de/news/alpamayo-volvo-setzt-auf-nvidias-open-source-fahrmodell-2610-214180.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/alpamayo-volvo-setzt-auf-nvidias-open-source-fahrmodell-2610-214180.html</guid>
+      <description>Nvidia und Volvo wollen stärker zusammenarbeiten: Künftige Volvos kommen mit der quelloffenen Fahrsoftware Alpamayo. (Volvo, Nvidia)</description>
+      <pubDate>Fri, 16 Oct 2026 09:35:02 GMT</pubDate>
+    </item>
     <item>
       <title>90 statt 100 Prozent: Europa kann nicht vom Verbrennungsmotor lassen</title>
       <link>https://www.golem.de/news/90-statt-100-prozent-europa-kann-nicht-vom-verbrennungsmotor-lassen-2610-214178.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-bueroprozesse-mit-claude-als-ki-agent-automatisieren-2610-213950.html</guid>
       <description>KI-Agenten brauchen klare Aufgaben und menschliche Kontrolle. Ein Online-Workshop zeigt, wie mit Claude wiederverwendbare Abläufe für Büroprozesse entstehen. (Golem Karrierewelt, Programmiersprachen)</description>
       <pubDate>Mon, 12 Oct 2026 05:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shield AI: Drohne Navy-X-BAT startet senkrecht von Schiffen aus</title>
-      <link>https://www.golem.de/news/shield-ai-drohne-navy-x-bat-startet-senkrecht-von-flugzeugen-aus-2610-213966.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/shield-ai-drohne-navy-x-bat-startet-senkrecht-von-flugzeugen-aus-2610-213966.html</guid>
-      <description>Shield AI hat den Prototypen der X-BAT vorgestellt. Die jetgetriebenen Drohne mit Senkrechtstart soll von jedem Schiff aus starten können. (Militär, General Electric)</description>
-      <pubDate>Sun, 11 Oct 2026 12:36:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
