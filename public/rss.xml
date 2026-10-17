@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 17 Oct 2026 11:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 11:46:08 GMT</lastBuildDate>
+    <item>
+      <title>Cody Wilson: KI hat gerade eine Schusswaffe entworfen</title>
+      <link>https://www.golem.de/news/cody-wilson-ki-hat-gerade-eine-schusswaffe-entworfen-2610-214215.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cody-wilson-ki-hat-gerade-eine-schusswaffe-entworfen-2610-214215.html</guid>
+      <description>Ein Aktivist hat eine Waffe vorgestellt, die eine speziell trainierte KI entworfen hat. Bereits 2012 hat er die weltweit erste 3D-gedruckte Schusswaffe vorgestellt. (3D-Drucker, KI)</description>
+      <pubDate>Sat, 17 Oct 2026 11:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>Straßenbau: Plastikasphalt setzt im Test weniger Partikel frei</title>
       <link>https://www.golem.de/news/strassenbau-plastikasphalt-setzt-im-test-weniger-partikel-frei-2610-214214.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/entlastung-merz-kuendigt-in-kuerze-stromsteuersenkung-an-2610-214013.html</guid>
       <description>Die Stromsteuer soll auf das EU-Minimum sinken. Für einen Haushalt mit 3.500 kWh Jahresverbrauch wären rund 81 Euro Entlastung möglich. (Strom, Elektroauto)</description>
       <pubDate>Mon, 12 Oct 2026 13:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Batteriebetrieben: Autonome Güterwaggons sollen Lkw ersetzen</title>
-      <link>https://www.golem.de/news/batteriebetrieben-autonome-gueterwaggons-sollen-lkw-ersetzen-2610-214011.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/batteriebetrieben-autonome-gueterwaggons-sollen-lkw-ersetzen-2610-214011.html</guid>
-      <description>Einzelne Waggons, die fernsteuerbar sind und mit Batterien fahren, könnten Container ähnlich flexibel wie Lkw transportieren, aber effizienter. (Logistik, Akku)</description>
-      <pubDate>Mon, 12 Oct 2026 13:31:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
