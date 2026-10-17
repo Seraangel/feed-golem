@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 17 Oct 2026 12:51:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 12:56:06 GMT</lastBuildDate>
+    <item>
+      <title>Collaborative Combat Aircraft: F-22-Pilot übernimmt erstmals Steuerung der Fury-Kampfdrohne</title>
+      <link>https://www.golem.de/news/collaborative-combat-aircraft-f-22-pilot-uebernimmt-erstmals-steuerung-der-fury-kampfdrohne-2610-214217.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/collaborative-combat-aircraft-f-22-pilot-uebernimmt-erstmals-steuerung-der-fury-kampfdrohne-2610-214217.html</guid>
+      <description>Ein F-22-Pilot hat erstmals im Flug Befehle an eine Kampfdrohne gegeben. Das zeigt, wie eng bemannte Jets und autonome Systeme zusammenrücken. (Militär, Politik)</description>
+      <pubDate>Sat, 17 Oct 2026 12:52:09 GMT</pubDate>
+    </item>
     <item>
       <title>Faltbares Smartphone: Liefertermine für das iPhone Duo verschieben sich nach 2027</title>
       <link>https://www.golem.de/news/faltbares-smartphone-liefertermine-fuer-das-iphone-duo-verschieben-sich-nach-2027-2610-214216.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kostenfalle-ki-gratisdemo-auf-steam-verschlingt-1-000-us-dollar-taeglich-2610-214012.html</guid>
       <description>Ein kleines Entwicklerteam muss einen Bankkredit aufnehmen, um seine kostenlose KI-Spiel-Demo weiter anbieten zu können. (KI, Steam)</description>
       <pubDate>Mon, 12 Oct 2026 14:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Helion: Offene KI-Racks sollen Rechenzentren flexibler auslasten</title>
-      <link>https://www.golem.de/news/amd-helion-offene-ki-racks-sollen-rechenzentren-flexibler-auslasten-2610-214014.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/amd-helion-offene-ki-racks-sollen-rechenzentren-flexibler-auslasten-2610-214014.html</guid>
-      <description>Mit der offenen KI-Plattform Helios will AMD Kunden eine flexibel anpassbare Lösung für agentische KI-Anwendungen liefern. (Helios, Prozessor)</description>
-      <pubDate>Mon, 12 Oct 2026 13:59:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
