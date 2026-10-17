@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 16 Oct 2026 17:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:35:54 GMT</lastBuildDate>
+    <item>
+      <title>Autosalon Paris: Europas Autobauer stecken in der China-Falle</title>
+      <link>https://www.golem.de/news/autosalon-paris-europas-autobauer-stecken-in-der-china-falle-2610-214195.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/autosalon-paris-europas-autobauer-stecken-in-der-china-falle-2610-214195.html</guid>
+      <description>Europas Autobauer wollen sich vor chinesischer Konkurrenz schützen. Doch auf dem Pariser Autosalon zeigt sich, wie abhängig sie von China sind. Eine Analyse von Dirk Kunde (Auto, Elektroauto)</description>
+      <pubDate>Sat, 17 Oct 2026 05:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>Stellar Intelligent Network: Huawei rüstet Netzwerke in Europa für den KI-Boom auf</title>
       <link>https://www.golem.de/news/stellar-intelligent-network-huawei-ruestet-netzwerke-in-europa-fuer-den-ki-boom-auf-2610-214207.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/qualcomm-chef-ki-agenten-sollen-fuer-smartphone-kaeufe-anreiz-sein-2610-214003.html</guid>
       <description>Cristiano Amon erwartet, dass KI-Agenten die Smartphone-Käufe ankurbeln. Der Qualcomm-CEO hat daran sicherlich ein Eigeninteresse. (KI, Smartphone)</description>
       <pubDate>Mon, 12 Oct 2026 11:44:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Gel Data: Wenn SQL-Abfragen zu kompliziert werden</title>
-      <link>https://www.golem.de/news/gel-data-wenn-sql-abfragen-zu-kompliziert-werden-2610-213992.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gel-data-wenn-sql-abfragen-zu-kompliziert-werden-2610-213992.html</guid>
-      <description>Viele Tabellen, komplizierte Joins? Gel Data verspricht einfachere Datenmodelle und Abfragen. Wir zeigen an einem Praxisbeispiel, wie das geht. Ein Ratgebertext von Antony Ghiroz (Datenbank, PostgreSQL)</description>
-      <pubDate>Mon, 12 Oct 2026 11:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
