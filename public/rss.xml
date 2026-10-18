@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 18 Oct 2026 10:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:21:15 GMT</lastBuildDate>
+    <item>
+      <title>Leak: RAM und SSD der PS6 sollen mehr als 680 US-Dollar kosten</title>
+      <link>https://www.golem.de/news/leak-ram-und-ssd-der-ps6-sollen-mehr-als-680-us-dollar-kosten-2610-214222.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/leak-ram-und-ssd-der-ps6-sollen-mehr-als-680-us-dollar-kosten-2610-214222.html</guid>
+      <description>Die Playstation 6 wird möglicherweise viel teurer werden als ihre Vorgänger: Bis zu 1.300 US-Dollar könnten die Herstellungskosten betragen. (Playstation 6, Sony)</description>
+      <pubDate>Sun, 18 Oct 2026 11:16:04 GMT</pubDate>
+    </item>
     <item>
       <title>Daltons: Festnahmen nach Brand an Starlink-Station mit Spur ins kriminelle Milieu</title>
       <link>https://www.golem.de/news/daltons-festnahmen-nach-brand-an-starlink-station-mit-spur-ins-kriminelle-milieu-2610-214224.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/collaborative-combat-aircraft-valkyrie-europas-unbemanntes-kampfflugzeug-im-erstflug-2610-214032.html</guid>
       <description>Airbus und Kratos haben am 12. Oktober den ersten europäischen Flug der U740 Valkyrie absolviert. Der Zeitplan für eine kampffähige Drohne bis 2029 steht. (Airbus, Politik)</description>
       <pubDate>Tue, 13 Oct 2026 06:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 nach dem Zero-Trust-Prinzip absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-nach-dem-zero-trust-prinzip-absichern-2610-213968.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-nach-dem-zero-trust-prinzip-absichern-2610-213968.html</guid>
-      <description>Microsoft 365 Zero Trust umfasst Identitäten, Zugriffe und Datenschutz. Ein Workshop vermittelt die Komponenten und Schritte zur Implementierung. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 13 Oct 2026 05:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
