@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 18 Oct 2026 08:46:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 09:06:01 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia: Jensen Huang kritisiert Deutschland ungewöhnlich offen</title>
+      <link>https://www.golem.de/news/nvidia-jensen-huang-kritisiert-deutschland-ungewoehnlich-offen-2610-214220.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvidia-jensen-huang-kritisiert-deutschland-ungewoehnlich-offen-2610-214220.html</guid>
+      <description>Deutschland verfügt über enorme technische Fähigkeiten, verliert nach Ansicht des Nvidia-Chefs aber den Anschluss. Er fordert mehr Tatkraft. (Nvidia, KI)</description>
+      <pubDate>Sun, 18 Oct 2026 09:03:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Balkonkraftwerk mit 2000 Wp für Golem-Leser jetzt 40 Prozent günstiger</title>
       <link>https://www.golem.de/news/anzeige-balkonkraftwerk-mit-2000-wp-fuer-golem-leser-jetzt-40-prozent-guenstiger-2610-214185.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ki-fuer-pentesting-schwachstellenanalyse-und-reporting-2610-213849.html</guid>
       <description>KI in der IT-Sicherheit kann Tests unterstützen, liefert aber auch unzuverlässige Ergebnisse. Ein Workshop zeigt Verfahren und Grenzen. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Mon, 12 Oct 2026 16:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Künstliche Intelligenz: Ein Blick in die 'Roboter-Fitnessstudios', in denen Maschinen für die echte Welt trainiert werden</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-ein-blick-in-die-roboter-fitnessstudios-in-denen-maschinen-fuer-die-echte-welt-trainiert-werden-2610-214019.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-ein-blick-in-die-roboter-fitnessstudios-in-denen-maschinen-fuer-die-echte-welt-trainiert-werden-2610-214019.html</guid>
-      <description>Robotern fehlen Trainingsdaten aus der echten Welt. Die Financial Times zeigt in unserem Lesetipp, wie Unternehmen das ändern wollen. Von Rafe Rosner-Uddin (Roboter, KI)</description>
-      <pubDate>Mon, 12 Oct 2026 16:00:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
