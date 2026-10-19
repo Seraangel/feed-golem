@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 08:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:01:07 GMT</lastBuildDate>
+    <item>
+      <title>2-GHz-MSS-Band: Telekom kündigt mit Partnern Bündnis gegen SpaceX an</title>
+      <link>https://www.golem.de/news/2-ghz-mss-band-telekom-kuendigt-mit-partnern-buendnis-gegen-spacex-an-2610-214244.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/2-ghz-mss-band-telekom-kuendigt-mit-partnern-buendnis-gegen-spacex-an-2610-214244.html</guid>
+      <description>Die Planungen von vier europäischen Netzbetreibern für eine gemeinsame Bewerbung für Spektrum für Satellitenmobilfunk kommen voran. Deutsche Telekom, Orange, Telefónica und Vodafone machen das Bündnis offiziell. (Starlink, Politik)</description>
+      <pubDate>Mon, 19 Oct 2026 09:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>NVHBM: Für Nvidia wird Samsung zum TSMC-Kunden</title>
       <link>https://www.golem.de/news/nvhbm-fuer-nvidia-wird-samsung-zum-tsmc-kunden-2610-214241.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/telekom-disney-und-netflix-beliebter-magenta-tv-tarif-kostet-mehr-2610-214048.html</guid>
       <description>Trotz der Preiserhöhung bleibt Magenta TV Smart Stream preislich attraktiv. Mit dabei sind Disney+ und Netflix. (MagentaTV, Telekom)</description>
       <pubDate>Tue, 13 Oct 2026 10:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic warnt: Unsichere IoT-Geräte können KI-Würmer verbreiten</title>
-      <link>https://www.golem.de/news/anthropic-warnt-unsichere-iot-geraete-koennen-ki-wuermer-verbreiten-2610-214047.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anthropic-warnt-unsichere-iot-geraete-koennen-ki-wuermer-verbreiten-2610-214047.html</guid>
-      <description>Laut Tests von Anthropic reichen auch leistungsschwache Geräte wie Android-TV-Boxen aus, damit sich KI autonom ausbreiten kann. (KI, Security)</description>
-      <pubDate>Tue, 13 Oct 2026 10:27:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
