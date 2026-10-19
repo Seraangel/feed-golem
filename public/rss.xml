@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 07:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:46:03 GMT</lastBuildDate>
+    <item>
+      <title>Fahrbericht Lucid Gravity: 2,7 Tonnen, sieben Sitze und erstaunlich schnell</title>
+      <link>https://www.golem.de/news/fahrbericht-lucid-gravity-2-7-tonnen-sieben-sitze-und-erstaunlich-schnell-2610-214018.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fahrbericht-lucid-gravity-2-7-tonnen-sieben-sitze-und-erstaunlich-schnell-2610-214018.html</guid>
+      <description>Der Lucid Gravity beeindruckt im Test mit viel Platz und seiner Beschleunigung. Doch im Alltag zeigen sich auch Schwächen. Von Dirk Kunde (Elektroauto, Auto)</description>
+      <pubDate>Mon, 19 Oct 2026 07:45:14 GMT</pubDate>
+    </item>
     <item>
       <title>Intel D270: Intels neue Grafikkarte hat 480 GByte Speicher</title>
       <link>https://www.golem.de/news/intel-d270-intels-neue-grafikkarte-hat-480-gbyte-speicher-2610-214234.html</link>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 19 Oct 2026 07:18:07 GMT</pubDate>
     </item>
     <item>
-      <title>PS5-Emulation: Xbox Series X spielt PS5-Spiele per Emulator</title>
+      <title>PS5-Emulation: Xbox Series X spielt PS5-Spiele</title>
       <link>https://www.golem.de/news/ps5-emulation-xbox-series-x-spielt-ps5-spiele-per-emulator-2610-214233.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/ps5-emulation-xbox-series-x-spielt-ps5-spiele-per-emulator-2610-214233.html</guid>
       <description>Ein Entwickler hat den Emulator KytyPS5 auf die Xbox Series X gebracht. Builds gibt es bereits auf Github, nötig ist der Developer Mode. (Emulator, Spiele)</description>
@@ -62,7 +69,7 @@
       <pubDate>Mon, 19 Oct 2026 05:55:10 GMT</pubDate>
     </item>
     <item>
-      <title>Geschwindigkeitslimit: Starlink-Drosselung in der Ukraine weiterhin aktiv</title>
+      <title>Geschwindigkeitslimit: Starlink-Tempolimit bremst ukrainische Abfangdrohnen</title>
       <link>https://www.golem.de/news/geschwindigkeitslimit-starlink-drosselung-in-der-ukraine-weiterhin-aktiv-2610-214229.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/geschwindigkeitslimit-starlink-drosselung-in-der-ukraine-weiterhin-aktiv-2610-214229.html</guid>
       <description>Seit dem 14. Oktober gilt eine Tempobegrenzung für Starlink in der Ukraine. Präsident Selenskyj sagt, dies behindere die Bekämpfung russischer Drohnen. (Starlink, Politik)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/zugriff-auf-alle-programmteile-opendesk-bekommt-agentische-ki-2610-214042.html</guid>
       <description>Die agentische KI soll alle Opendesk-Anwendungen übergreifend verwenden können, ohne dabei Daten zu kompromittieren. (Souveränität, Office-Suite)</description>
       <pubDate>Tue, 13 Oct 2026 09:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Außen-Überwachungskamera zum Tiefpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-aussen-ueberwachungskamera-zum-tiefpreis-bei-amazon-2610-214043.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-aussen-ueberwachungskamera-zum-tiefpreis-bei-amazon-2610-214043.html</guid>
-      <description>Eine schwenkbare Außen-Überwachungskamera mit 2K-Auflösung, Farbnachtsicht und Sprachsteuerung ist bei Amazon reduziert. (Videoüberwachung, Technik/Hardware)</description>
-      <pubDate>Tue, 13 Oct 2026 09:15:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
