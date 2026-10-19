@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 10:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 10:21:02 GMT</lastBuildDate>
+    <item>
+      <title>Atlas: Amazon soll mit KI Gewerkschaftsrisiko überwachen</title>
+      <link>https://www.golem.de/news/atlas-amazon-soll-mit-ki-gewerkschaftsrisiko-ueberwachen-2610-214249.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/atlas-amazon-soll-mit-ki-gewerkschaftsrisiko-ueberwachen-2610-214249.html</guid>
+      <description>Mittels hunderter Datenpunkte soll eine spezielle Amazon-KI frühzeitig Gewerkschaftsbewegungen in seinen Verteilzentren entdecken. (Amazon, KI)</description>
+      <pubDate>Mon, 19 Oct 2026 10:16:11 GMT</pubDate>
+    </item>
     <item>
       <title>KI in der Cybersicherheit: "Ohne KI in der Verteidigung ist man verloren"</title>
       <link>https://www.golem.de/news/ki-in-der-cybersicherheit-ohne-ki-in-der-verteidigung-ist-man-verloren-2610-214238.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/stromsteuersenkung-so-stark-wuerden-elektroautofahrer-entlastet-2610-214052.html</guid>
       <description>Bundeskanzler Merz hat eine Senkung der Stromsteuer angekündigt. Fahrer von E-Autos können nicht immer davon profitieren. (Elektromobilität, Elektroauto)</description>
       <pubDate>Tue, 13 Oct 2026 12:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Photoshop geklont: Kann Adobe einpacken?</title>
-      <link>https://www.golem.de/news/photoshop-geklont-kann-adobe-einpacken-2610-214045.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/photoshop-geklont-kann-adobe-einpacken-2610-214045.html</guid>
-      <description>Wir haben uns zwei Photoshop-Klone auf MacOS, Windows und Linux angesehen und sind beeindruckt, aber nicht überzeugt. Ein Hands-on von Martin Wolf (Creative Cloud, Adobe)</description>
-      <pubDate>Tue, 13 Oct 2026 12:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
