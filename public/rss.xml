@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 12:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:16:14 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Tragbare Powerstation mit zehn Anschlüssen reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-tragbare-powerstation-mit-zehn-anschluessen-reduziert-bei-amazon-2610-214256.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-tragbare-powerstation-mit-zehn-anschluessen-reduziert-bei-amazon-2610-214256.html</guid>
+      <description>Eine tragbare Powerstation mit zehn Anschlüssen, 1.024 Wh, 1.800 W und Notstromfunktion gibt es zum Aktionspreis bei Amazon. (Powerstation, Technik/Hardware)</description>
+      <pubDate>Mon, 19 Oct 2026 12:11:08 GMT</pubDate>
+    </item>
     <item>
       <title>MMX: Japan startet Mission zu den Marsmonden</title>
       <link>https://www.golem.de/news/mmx-japan-startet-mission-zu-den-marsmonden-2610-214232.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-gta-6-soll-ueberraschend-frueh-fuer-pc-erscheinen-2610-214066.html</guid>
       <description>Vier Branchenquellen nennen einen PC-Start bereits Anfang 2027. Rockstar Games könnte damit deutlich schneller sein als bei bisherigen Spielen. (GTA 6, Red Dead Redemption)</description>
       <pubDate>Tue, 13 Oct 2026 15:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Von Meta entwickelt: Google führt Alternative für Python-Typchecker Pytype ein</title>
-      <link>https://www.golem.de/news/von-meta-entwickelt-google-fuehrt-alternative-fuer-python-typchecker-pytype-ein-2610-214061.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/von-meta-entwickelt-google-fuehrt-alternative-fuer-python-typchecker-pytype-ein-2610-214061.html</guid>
-      <description>Durch die Ablösung des alten Typcheckers werden laut Google erhebliche Ressourcen eingespart. (Google, Python)</description>
-      <pubDate>Tue, 13 Oct 2026 15:04:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
