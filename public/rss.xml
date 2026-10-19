@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 05:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:36:14 GMT</lastBuildDate>
+    <item>
+      <title>Geschwindigkeitslimit: Starlink-Drosselung in der Ukraine weiterhin aktiv</title>
+      <link>https://www.golem.de/news/geschwindigkeitslimit-starlink-drosselung-in-der-ukraine-weiterhin-aktiv-2610-214229.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/geschwindigkeitslimit-starlink-drosselung-in-der-ukraine-weiterhin-aktiv-2610-214229.html</guid>
+      <description>Seit dem 14. Oktober gilt eine Tempobegrenzung für Starlink in der Ukraine. Präsident Selenskyj sagt, dies behindere die Bekämpfung russischer Drohnen. (Starlink, Politik)</description>
+      <pubDate>Mon, 19 Oct 2026 05:35:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen</title>
       <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214025.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/arbeitgeber-in-deutschland-im-it-team-zufrieden-im-unternehmen-frustriert-2610-214007.html</guid>
       <description>Die Stimmung in den Unternehmen sinkt, doch viele ITler schätzen ihre Teams und Freiheiten. Die Golem-Arbeitgeberstudie zeigt einen erstaunlichen Gegensatz. (Arbeit, Studien)</description>
       <pubDate>Tue, 13 Oct 2026 07:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Boom: 17-Gigawatt-Energieprojekt soll Energielücke schließen</title>
-      <link>https://www.golem.de/news/ki-boom-17-gigawatt-energieprojekt-soll-energieluecke-schliessen-2610-214017.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-boom-17-gigawatt-energieprojekt-soll-energieluecke-schliessen-2610-214017.html</guid>
-      <description>Mehrere Atomreaktoren, Solarfelder und Gasturbinen sollen günstigen Strom liefern, um ein Cluster an Rechenzentren in der Prärie zu betreiben. (Rechenzentrum, KI)</description>
-      <pubDate>Tue, 13 Oct 2026 07:28:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
