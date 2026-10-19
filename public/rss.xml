@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 07:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:56:05 GMT</lastBuildDate>
+    <item>
+      <title>Kryptowährungen: Erste Sparkassen starten Bitcoin-Handel</title>
+      <link>https://www.golem.de/news/kryptowaehrungen-erste-sparkassen-starten-bitcoin-handel-2610-214236.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kryptowaehrungen-erste-sparkassen-starten-bitcoin-handel-2610-214236.html</guid>
+      <description>Kunden können in der Sparkassen-App Kryptowährungen handeln. Der Start läuft Haus für Haus, ohne breite Beratung. (Sparkasse, Wirtschaft)</description>
+      <pubDate>Mon, 19 Oct 2026 07:54:07 GMT</pubDate>
+    </item>
     <item>
       <title>Fahrbericht Lucid Gravity: 2,7 Tonnen, sieben Sitze und erstaunlich schnell</title>
       <link>https://www.golem.de/news/fahrbericht-lucid-gravity-2-7-tonnen-sieben-sitze-und-erstaunlich-schnell-2610-214018.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/polizei-16-jaehrige-in-koeln-von-roboter-sexuell-belaestigt-2610-214046.html</guid>
       <description>In Köln wird ein Mädchen mit einem Roboter sexuell belästigt. Der Besitzer soll das Geschehen live ins Netz gestreamt haben. (Roboter, Polizei)</description>
       <pubDate>Tue, 13 Oct 2026 09:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zugriff auf alle Programmteile: Opendesk bekommt agentische KI</title>
-      <link>https://www.golem.de/news/zugriff-auf-alle-programmteile-opendesk-bekommt-agentische-ki-2610-214042.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zugriff-auf-alle-programmteile-opendesk-bekommt-agentische-ki-2610-214042.html</guid>
-      <description>Die agentische KI soll alle Opendesk-Anwendungen übergreifend verwenden können, ohne dabei Daten zu kompromittieren. (Souveränität, Office-Suite)</description>
-      <pubDate>Tue, 13 Oct 2026 09:29:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
