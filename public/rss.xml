@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 07:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:11:04 GMT</lastBuildDate>
+    <item>
+      <title>PS5-Emulation: Xbox Series X spielt PS5-Spiele per Emulator</title>
+      <link>https://www.golem.de/news/ps5-emulation-xbox-series-x-spielt-ps5-spiele-per-emulator-2610-214233.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ps5-emulation-xbox-series-x-spielt-ps5-spiele-per-emulator-2610-214233.html</guid>
+      <description>Ein Entwickler hat den Emulator KytyPS5 auf die Xbox Series X gebracht. Builds gibt es bereits auf Github, nötig ist der Developer Mode. (Emulator, Spiele)</description>
+      <pubDate>Mon, 19 Oct 2026 07:09:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: GoEdit - Office-Anhänge direkt in Confluence bearbeiten</title>
       <link>https://www.golem.de/news/anzeige-goedit-office-anhaenge-direkt-in-confluence-bearbeiten-2610-214055.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/drei-elektromotoren-peugeot-e-t16-concept-laesst-die-rallye-tradition-als-e-auto-aufleben-2610-214039.html</guid>
       <description>Peugeot hat das E-T16 Concept vorgestellt, eine Elektroauto-Studie, die offenbar stark an die Rallye-Vergangenheit der Marke anknüpft. (Peugeot, Elektroauto)</description>
       <pubDate>Tue, 13 Oct 2026 08:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Warnung des BSI: Hacker nehmen Firewall von Sonicwall ins Visier</title>
-      <link>https://www.golem.de/news/warnung-des-bsi-hacker-nehmen-firewall-von-sonicwall-ins-visier-2610-214040.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/warnung-des-bsi-hacker-nehmen-firewall-von-sonicwall-ins-visier-2610-214040.html</guid>
-      <description>Die Schwachstelle ist besonders schwerwiegend, weil sie Zugriffe aus der Ferne erlaubt - ohne Authentifizierung. (Firewall, Server)</description>
-      <pubDate>Tue, 13 Oct 2026 08:36:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
