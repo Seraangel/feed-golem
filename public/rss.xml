@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 09:11:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:26:13 GMT</lastBuildDate>
+    <item>
+      <title>Exploit-Code geleakt: Angreifer schleusen Malware auf Plex-Server</title>
+      <link>https://www.golem.de/news/exploit-code-geleakt-angreifer-schleusen-malware-auf-plex-server-2610-214242.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/exploit-code-geleakt-angreifer-schleusen-malware-auf-plex-server-2610-214242.html</guid>
+      <description>Wer einen Plex-Media-Server betreibt, sollte diesen dringend auf die neueste Version updaten. Angreifer schleusen mittels Plex2Shell-Angriff Malware ein. (Sicherheitslücke, Virus)</description>
+      <pubDate>Mon, 19 Oct 2026 09:25:04 GMT</pubDate>
+    </item>
     <item>
       <title>KI: Anthropic will 5 Prozent seiner Aktien dem Gemeinwohl widmen</title>
       <link>https://www.golem.de/news/ki-anthropic-will-5-prozent-seiner-aktien-dem-gemeinwohl-widmen-2610-214243.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ueber-zero-day-luecke-offenbar-erster-ki-angriff-auf-deutsche-kommune-2610-214050.html</guid>
       <description>Das Ziel ist Tangerhütte in Sachsen-Anhalt. Unter anderem deutet die Geschwindigkeit der Angreifer auf den Einsatz von KI hin. (KI, Server)</description>
       <pubDate>Tue, 13 Oct 2026 11:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Nie günstiger | Smarte Heidelberg-Wallbox mit Stromzähler für 650 Euro</title>
-      <link>https://www.golem.de/news/anzeige-noch-nie-so-guenstig-smarte-heidelberg-wallbox-mit-stromzaehler-fuer-650-euro-2610-214051.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-noch-nie-so-guenstig-smarte-heidelberg-wallbox-mit-stromzaehler-fuer-650-euro-2610-214051.html</guid>
-      <description>Amazon reduziert die Wallbox mit MID-konformem Stromzähler auf ihren historischen Bestpreis. Die Heidelberg Amperfied Connect Business erfasst den Ladestrom eines E-Autos und bietet zahlreiche Vernetzungsmöglichkeiten. (Wallbox, Amazon)</description>
-      <pubDate>Tue, 13 Oct 2026 10:51:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
