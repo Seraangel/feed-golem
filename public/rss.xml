@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 11:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:01:07 GMT</lastBuildDate>
+    <item>
+      <title>MMX: Japan startet Mission zu den Marsmonden</title>
+      <link>https://www.golem.de/news/mmx-japan-startet-mission-zu-den-marsmonden-2610-214232.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mmx-japan-startet-mission-zu-den-marsmonden-2610-214232.html</guid>
+      <description>Mit der MMX-Marsmission sollen erstmals die Monde des roten Planeten untersucht werden. Dabei soll eine Bodenprobe von Phobos eingesammelt und zur Erde gebracht werden. Ein Bericht von Patrick Klapetz (Mars, Raumfahrt)</description>
+      <pubDate>Mon, 19 Oct 2026 12:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>PwnEscape: Linux-Lücke lässt Angreifer aus VMs ausbrechen</title>
       <link>https://www.golem.de/news/pwnescape-linux-luecke-laesst-angreifer-aus-vms-ausbrechen-2610-214254.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/von-meta-entwickelt-google-fuehrt-alternative-fuer-python-typchecker-pytype-ein-2610-214061.html</guid>
       <description>Durch die Ablösung des alten Typcheckers werden laut Google erhebliche Ressourcen eingespart. (Google, Python)</description>
       <pubDate>Tue, 13 Oct 2026 15:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Act: Apple smartes Display Homeview kommt nicht in die EU</title>
-      <link>https://www.golem.de/news/ai-act-apple-smartes-display-homeview-kommt-nicht-in-die-eu-2610-214062.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ai-act-apple-smartes-display-homeview-kommt-nicht-in-die-eu-2610-214062.html</guid>
-      <description>Apple kündigt Homeview an: ein 7-Zoll-Smart-Display, das Entertainment, Kommunikation und Smart Home in einem Gerät vereint. In die EU kommt es nicht. (Smart Home, Apple)</description>
-      <pubDate>Tue, 13 Oct 2026 14:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
