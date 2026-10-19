@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 11:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:31:04 GMT</lastBuildDate>
+    <item>
+      <title>(g+) KI in der Energiewende: Wenn Algorithmen Engpässe vorhersehen</title>
+      <link>https://www.golem.de/news/ki-in-der-energiewende-wenn-algorithmen-engpaesse-vorhersehen-2610-214251.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-in-der-energiewende-wenn-algorithmen-engpaesse-vorhersehen-2610-214251.html</guid>
+      <description>Mehr Solarstrom, mehr Windkraft, mehr Last im Netz: EnBW zeigt, wie KI drohende Engpässe erkennt und Netzbetreibern hilft, die Stromversorgung stabil zu halten. Ein Bericht von Otto Geißler (Energiewende, KI)</description>
+      <pubDate>Mon, 19 Oct 2026 11:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Dashcam mit Dual-4K und 4G-Option günstig wie nie bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-dashcam-mit-dual-4k-und-4g-option-guenstig-wie-nie-bei-amazon-2610-214246.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/streaming-apple-homepod-mini-2-kann-ki-und-wird-teurer-2610-214060.html</guid>
       <description>Apple stellt den neuen Homepod Mini 2 vor. Der Lautsprecher leuchtet zur Musik und soll in Kombination mit dem Apple TV 4K ein Surround-System bilden. (Homepod, Apple)</description>
       <pubDate>Tue, 13 Oct 2026 14:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Streamingbox: Neues Apple TV 4K unterstützt vier Homepods</title>
-      <link>https://www.golem.de/news/streamingbox-neues-apple-tv-4k-unterstuetzt-vier-homepods-2610-214058.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/streamingbox-neues-apple-tv-4k-unterstuetzt-vier-homepods-2610-214058.html</guid>
-      <description>Apple präsentiert sein neues Apple TV 4K, das vier Homepods unterstützt und für das neue Siri vorbereitet ist. (Apple TV, Apple)</description>
-      <pubDate>Tue, 13 Oct 2026 13:55:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
