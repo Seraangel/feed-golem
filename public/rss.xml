@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 06:56:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 07:06:03 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: GoEdit - Office-Anhänge direkt in Confluence bearbeiten</title>
+      <link>https://www.golem.de/news/anzeige-goedit-office-anhaenge-direkt-in-confluence-bearbeiten-2610-214055.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-goedit-office-anhaenge-direkt-in-confluence-bearbeiten-2610-214055.html</guid>
+      <description>Mit GoEdit lassen sich Office-Dokumente in Confluence und Jira direkt im Browser gemeinsam bearbeiten - inklusive Schutz vor gegenseitigem Überschreiben. (Software)</description>
+      <pubDate>Mon, 19 Oct 2026 07:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Mögliche Datenpanne: Cyberangriff auf Berliner Humboldt-Universität</title>
       <link>https://www.golem.de/news/moegliche-datenpanne-cyberangriff-auf-berliner-humboldt-universitaet-2610-214230.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/warnung-des-bsi-hacker-nehmen-firewall-von-sonicwall-ins-visier-2610-214040.html</guid>
       <description>Die Schwachstelle ist besonders schwerwiegend, weil sie Zugriffe aus der Ferne erlaubt - ohne Authentifizierung. (Firewall, Server)</description>
       <pubDate>Tue, 13 Oct 2026 08:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse Wonder: Metas neue KI-Modelle gibt es nicht mehr umsonst</title>
-      <link>https://www.golem.de/news/muse-wonder-metas-neue-ki-modelle-gibt-es-nicht-mehr-umsonst-2610-214037.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/muse-wonder-metas-neue-ki-modelle-gibt-es-nicht-mehr-umsonst-2610-214037.html</guid>
-      <description>Metas KI-Modelle Muse Wonder und Muse Wonder Full sollen es mit den aktuellen Top-Modellen von OpenAI und Anthropic aufnehmen können. (Meta, KI)</description>
-      <pubDate>Tue, 13 Oct 2026 08:15:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
