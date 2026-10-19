@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 11:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:51:14 GMT</lastBuildDate>
+    <item>
+      <title>PwnEscape: Linux-Lücke lässt Angreifer aus VMs ausbrechen</title>
+      <link>https://www.golem.de/news/pwnescape-linux-luecke-laesst-angreifer-aus-vms-ausbrechen-2610-214254.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pwnescape-linux-luecke-laesst-angreifer-aus-vms-ausbrechen-2610-214254.html</guid>
+      <description>Das Übermitteln speziell gestalteter IPv4-Pakete reicht aus, um unter Linux aus einer VM auszubrechen und Code auf dem Hostsystem auszuführen. (Sicherheitslücke, Virtualisierung)</description>
+      <pubDate>Mon, 19 Oct 2026 11:49:09 GMT</pubDate>
+    </item>
     <item>
       <title>Frequenzvergabe: USA drohen EU bei SpaceX-Einschränkung mit Vergeltung</title>
       <link>https://www.golem.de/news/frequenzvergabe-usa-drohen-eu-bei-spacex-einschraenkung-mit-vergeltung-2610-214255.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ai-act-apple-smartes-display-homeview-kommt-nicht-in-die-eu-2610-214062.html</guid>
       <description>Apple kündigt Homeview an: ein 7-Zoll-Smart-Display, das Entertainment, Kommunikation und Smart Home in einem Gerät vereint. In die EU kommt es nicht. (Smart Home, Apple)</description>
       <pubDate>Tue, 13 Oct 2026 14:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: WLAN-Steckdose mit Strommessung reduziert bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-wlan-steckdose-mit-strommessung-reduziert-bei-amazon-2610-214063.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-wlan-steckdose-mit-strommessung-reduziert-bei-amazon-2610-214063.html</guid>
-      <description>Eine smarte WLAN-Steckdose mit Strommessung sowie App- und Sprachsteuerung wird bei Amazon im Viererpack zum reduzierten Preis angeboten. (Smart Home, Google Home)</description>
-      <pubDate>Tue, 13 Oct 2026 14:33:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
