@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 18 Oct 2026 13:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:16:15 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen</title>
+      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214025.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214025.html</guid>
+      <description>Linux-Systemadministration umfasst zahlreiche Werkzeuge und Aufgaben. Ein fünftägiger Online-Workshop vermittelt die Grundlagen von Bash bis SSH. (Golem Karrierewelt, Linux)</description>
+      <pubDate>Mon, 19 Oct 2026 05:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>Elektroauto: Mercedes-AMG GT SUV lädt in 12 Minuten nach</title>
       <link>https://www.golem.de/news/elektroauto-mercedes-amg-gt-suv-laedt-in-12-minuten-nach-2610-214219.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-boom-17-gigawatt-energieprojekt-soll-energieluecke-schliessen-2610-214017.html</guid>
       <description>Mehrere Atomreaktoren, Solarfelder und Gasturbinen sollen günstigen Strom liefern, um ein Cluster an Rechenzentren in der Prärie zu betreiben. (Rechenzentrum, KI)</description>
       <pubDate>Tue, 13 Oct 2026 07:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordcraft: KI-geschriebene Software kopiert Microsoft Office</title>
-      <link>https://www.golem.de/news/wordcraft-ki-geschriebene-software-kopiert-microsoft-office-2610-214035.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wordcraft-ki-geschriebene-software-kopiert-microsoft-office-2610-214035.html</guid>
-      <description>Mittels Vibecoding, KI und Rust entstehen aktuell viele Klone von teils teurer kommerzieller Software. Nun ist Office 365 dran. (Microsoft 365, KI)</description>
-      <pubDate>Tue, 13 Oct 2026 07:14:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
