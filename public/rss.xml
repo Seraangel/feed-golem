@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 09:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 09:56:02 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11: Microsoft blockt das eigene Dateisystem auf USB-Sticks</title>
+      <link>https://www.golem.de/news/windows-11-microsoft-blockt-das-eigene-dateisystem-auf-usb-sticks-2610-214248.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-11-microsoft-blockt-das-eigene-dateisystem-auf-usb-sticks-2610-214248.html</guid>
+      <description>In ReFS formatierte Wechselmedien werden ab Januar nicht mehr mit Windows 11 funktionieren. Doch es gibt Umwege. (ReFS, Dateisystem)</description>
+      <pubDate>Mon, 19 Oct 2026 09:52:10 GMT</pubDate>
+    </item>
     <item>
       <title>Herzfrequenz: Studie untersucht Messgenauigkeit von Sportuhren</title>
       <link>https://www.golem.de/news/herzfrequenz-studie-untersucht-messgenauigkeit-von-sportuhren-2610-214245.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/zink-luft-batterie-leistungsstarker-akku-statt-wegwerfzelle-2610-214053.html</guid>
       <description>Zink-Luft-Batterien speichern die fünffache Energie im Vergleich zu Lithium-Ionen-Akkus. Ein weitverbreitetes Mineral könnte sie langlebig machen. (Akku, Energiewende)</description>
       <pubDate>Tue, 13 Oct 2026 11:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Windows-Kernel: Ein falsches Jobangebot hebelt den Windows-Schutz aus</title>
-      <link>https://www.golem.de/news/windows-kernel-ein-falsches-jobangebot-hebelt-den-windows-schutz-aus-2610-214044.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/windows-kernel-ein-falsches-jobangebot-hebelt-den-windows-schutz-aus-2610-214044.html</guid>
-      <description>Mit gefälschten Jobangeboten schleusten nordkoreanische Hacker Schadcode ein und schalteten über eine Windows-Lücke Sicherheitssoftware aus. Wie Admins solche Angriffe erkennen können. Ein Ratgebertext von Steffen Zahn (Security, Server)</description>
-      <pubDate>Tue, 13 Oct 2026 11:30:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
