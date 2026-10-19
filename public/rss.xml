@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 19 Oct 2026 08:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 08:56:01 GMT</lastBuildDate>
+    <item>
+      <title>NVHBM: Für Nvidia wird Samsung zum TSMC-Kunden</title>
+      <link>https://www.golem.de/news/nvhbm-fuer-nvidia-wird-samsung-zum-tsmc-kunden-2610-214241.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvhbm-fuer-nvidia-wird-samsung-zum-tsmc-kunden-2610-214241.html</guid>
+      <description>Eigentlich hat Samsung die Base-Dies für kommende HBM-Generationen selbst herstellen wollen. Aber Nvidia verlangt eine einheitliche Fertigung. (3D-Speicher, Nvidia)</description>
+      <pubDate>Mon, 19 Oct 2026 08:53:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Reolink 4K-Solarkamera Argus PT Ultra ohne Abo zum Aktionspreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-reolink-4k-solarkamera-argus-pt-ultra-ohne-abo-zum-aktionspreis-bei-amazon-2610-214240.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anthropic-warnt-unsichere-iot-geraete-koennen-ki-wuermer-verbreiten-2610-214047.html</guid>
       <description>Laut Tests von Anthropic reichen auch leistungsschwache Geräte wie Android-TV-Boxen aus, damit sich KI autonom ausbreiten kann. (KI, Security)</description>
       <pubDate>Tue, 13 Oct 2026 10:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kryptodiebstahl: Ledger bestätigt Hardware-Implantat in Wallet</title>
-      <link>https://www.golem.de/news/kryptodiebstahl-ledger-bestaetigt-hardware-implantat-in-wallet-2610-214036.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kryptodiebstahl-ledger-bestaetigt-hardware-implantat-in-wallet-2610-214036.html</guid>
-      <description>Ledger hat in einem Kundengerät ein nicht autorisiertes Implantat gefunden. Der Händler Cryptobilis stoppt den Verkauf. (Verschlüsselung, Tron)</description>
-      <pubDate>Tue, 13 Oct 2026 10:09:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
