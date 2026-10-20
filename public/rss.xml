@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 06:06:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:46:01 GMT</lastBuildDate>
+    <item>
+      <title>Umfrage: KI ist schnell fertig, die Arbeit aber noch lange nicht</title>
+      <link>https://www.golem.de/news/umfrage-ki-ist-schnell-fertig-die-arbeit-aber-noch-lange-nicht-2610-214276.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/umfrage-ki-ist-schnell-fertig-die-arbeit-aber-noch-lange-nicht-2610-214276.html</guid>
+      <description>Fast jeder Zweite erhält KI-Ergebnisse, die stark überarbeitet werden müssen. Ein Drittel gibt KI-Inhalte weiter, ohne sie ganz zu lesen. (Studien, KI)</description>
+      <pubDate>Tue, 20 Oct 2026 06:44:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Sandisk Extreme Pro mit 2.000 MB/s - Externe SSD fast zum Prime-Day-Preis</title>
       <link>https://www.golem.de/news/anzeige-sandisk-extreme-pro-mit-2-000-mb-s-externe-ssd-fast-zum-prime-day-preis-2610-214267.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bildagentur-getty-images-kuendigt-insolvenzverfahren-an-2610-214086.html</guid>
       <description>Getty Images will in den USA Chapter 11 beantragen. Die Getty-Familie und Koch Equity Development übernehmen danach alle Anteile. (Unternehmen, Wirtschaft)</description>
       <pubDate>Wed, 14 Oct 2026 09:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Großer Datenabfluss: Verwaltung von Eichstätt gehackt</title>
-      <link>https://www.golem.de/news/grosser-datenabfluss-verwaltung-von-eichstaett-gehackt-2610-214084.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/grosser-datenabfluss-verwaltung-von-eichstaett-gehackt-2610-214084.html</guid>
-      <description>Ermittler vermuten einen Angriff mit Ransomware. Die Stadtverwaltung befürchtet einen Zugriff auf den Großteil ihrer Daten. (Cybercrime, Server)</description>
-      <pubDate>Wed, 14 Oct 2026 09:09:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
