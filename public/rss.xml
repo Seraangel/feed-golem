@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 14:11:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:21:10 GMT</lastBuildDate>
+    <item>
+      <title>Megarechenzentren: Hochtief und Vodafone planen Bewerbung für KI Gigafactory</title>
+      <link>https://www.golem.de/news/megarechenzentren-hochtief-und-vodafone-planen-bewerbung-fuer-ki-gigafactory-2610-214311.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/megarechenzentren-hochtief-und-vodafone-planen-bewerbung-fuer-ki-gigafactory-2610-214311.html</guid>
+      <description>Die EU fördert den Aufbau europäischer KI-Megarechenzentren mit Milliardensummen. Neben der Telekom, Schwarz Digits und Ionos bringt sich nun auch der Essener Baukonzern Hochtief zusammen mit Vodafone ein. (Rechenzentrum, Vodafone)</description>
+      <pubDate>Tue, 20 Oct 2026 14:19:03 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia-Kooperation: Deutschland hat seinen Retter gefunden</title>
       <link>https://www.golem.de/news/nvidia-kooperation-deutschland-hat-seinen-retter-gefunden-2610-214305.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-victorinox-huntsman-mit-15-funktionen-bei-amazon-nun-unter-26-euro-2610-214118.html</guid>
       <description>Wer genau hinschaut, findet bei Amazon das beliebte Schweizer Taschenmesser Victorinox Huntsman für unter 26 Euro. (Victorinox, Technik/Hardware)</description>
       <pubDate>Wed, 14 Oct 2026 16:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Zero Trust: Von den Grundlagen zur Implementierung</title>
-      <link>https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2610-214031.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2610-214031.html</guid>
-      <description>Zero Trust Security erfordert einen Plan für die Umsetzung. Ein Online-Workshop vermittelt Grundlagen und Handlungsempfehlungen für die Implementierung. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Wed, 14 Oct 2026 16:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
