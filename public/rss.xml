@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 05:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:41:02 GMT</lastBuildDate>
+    <item>
+      <title>Evakuierung: Ukrainische Drohne holt erstmals Soldaten vom Gefechtsfeld</title>
+      <link>https://www.golem.de/news/evakuierung-ukrainische-drohne-holt-erstmals-soldaten-vom-gefechtsfeld-2610-214274.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/evakuierung-ukrainische-drohne-holt-erstmals-soldaten-vom-gefechtsfeld-2610-214274.html</guid>
+      <description>Die Ukraine hat erstmals verwundete Soldaten per Drohne von der Front in der Sicherheit gebracht. (Drohne, Politik)</description>
+      <pubDate>Tue, 20 Oct 2026 05:37:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Penetrationstests: Schwachstellen in Webanwendungen prüfen</title>
       <link>https://www.golem.de/news/anzeige-penetrationstests-schwachstellen-in-webanwendungen-pruefen-2610-214026.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/xbox-xbox-labs-will-alte-spiele-per-ki-auf-neue-hardware-bringen-2610-214081.html</guid>
       <description>Halo, GTA und andere Klassiker laufen mit KI bereits im Browser. Microsoft gründet nun eine Abteilung, um solche Technologien weiterzuentwickeln. (Xbox, Microsoft)</description>
       <pubDate>Wed, 14 Oct 2026 08:27:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erneuter Rekord-Patchday: Microsoft schließt 1.414 Sicherheitslücken</title>
-      <link>https://www.golem.de/news/erneuter-rekord-patchday-microsoft-schliesst-1-414-sicherheitsluecken-2610-214080.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/erneuter-rekord-patchday-microsoft-schliesst-1-414-sicherheitsluecken-2610-214080.html</guid>
-      <description>Betroffen sind vor allem Windows, Office, Sharepoint und SQL Server. Eine Lücke in der Windows Shell wird bereits aktiv ausgenutzt. (Patchday, Server)</description>
-      <pubDate>Wed, 14 Oct 2026 08:18:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
