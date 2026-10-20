@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 14:41:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:46:14 GMT</lastBuildDate>
+    <item>
+      <title>Web-Zertifikate: Kompromittierte Schlüssel gefährden TLS-Verbindungen</title>
+      <link>https://www.golem.de/news/web-zertifikate-kompromittierte-schluessel-gefaehrden-tls-verbindungen-2610-214314.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/web-zertifikate-kompromittierte-schluessel-gefaehrden-tls-verbindungen-2610-214314.html</guid>
+      <description>Acht private Schlüssel der Zertifizierungsstelle Emuhdra, mit denen sich Webseitenzertifikate signieren lassen, können mit trivialen Methoden geknackt werden. (TLS, Verschlüsselung)</description>
+      <pubDate>Tue, 20 Oct 2026 14:42:06 GMT</pubDate>
+    </item>
     <item>
       <title>Mit Vodafone: Hochtief will KI-Gigafactory bauen</title>
       <link>https://www.golem.de/news/megarechenzentren-hochtief-und-vodafone-planen-bewerbung-fuer-ki-gigafactory-2610-214311.html</link>
@@ -202,7 +209,7 @@
       <pubDate>Tue, 20 Oct 2026 08:24:05 GMT</pubDate>
     </item>
     <item>
-      <title>KI-Sicherheit: Neue ISO-Norm soll KI-Systeme vor Angriffen schützen</title>
+      <title>ISO/IEC 27090: Neue ISO-Regel gegen Datenvergiftung von KI</title>
       <link>https://www.golem.de/news/ki-sicherheit-neue-iso-norm-soll-ki-systeme-vor-angriffen-schuetzen-2610-214281.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-neue-iso-norm-soll-ki-systeme-vor-angriffen-schuetzen-2610-214281.html</guid>
       <description>ISO/IEC 27090 erklärt, wie sich KI-Systeme absichern lassen. Der Leitfaden behandelt Data Poisoning und Modelldiebstahl. (Security, KI)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-flows-mit-power-automate-erstellen-und-erweitern-2610-213972.html</guid>
       <description>Microsoft Power Automate automatisiert wiederkehrende Aufgaben in Microsoft 365. Ein Workshop vermittelt den Aufbau von Flows und die Anbindung von Datenquellen. (Golem Karrierewelt, Unternehmenssoftware)</description>
       <pubDate>Thu, 15 Oct 2026 05:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Victorinox Huntsman mit 15 Funktionen bei Amazon nun unter 26 Euro</title>
-      <link>https://www.golem.de/news/anzeige-victorinox-huntsman-mit-15-funktionen-bei-amazon-nun-unter-26-euro-2610-214118.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-victorinox-huntsman-mit-15-funktionen-bei-amazon-nun-unter-26-euro-2610-214118.html</guid>
-      <description>Wer genau hinschaut, findet bei Amazon das beliebte Schweizer Taschenmesser Victorinox Huntsman für unter 26 Euro. (Victorinox, Technik/Hardware)</description>
-      <pubDate>Wed, 14 Oct 2026 16:46:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
