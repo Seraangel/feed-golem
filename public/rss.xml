@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 09:51:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:56:14 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Externe Intenso-Premium-SSD mit 1 TB zum Bestpreis unter 100 Euro</title>
+      <link>https://www.golem.de/news/anzeige-externe-intenso-premium-ssd-mit-1-tb-zum-bestpreis-unter-100-euro-2610-214294.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-externe-intenso-premium-ssd-mit-1-tb-zum-bestpreis-unter-100-euro-2610-214294.html</guid>
+      <description>Die externe Intenso-SSD mit 1 TB gibt es bei Amazon zum Bestpreis von 97,20 Euro und damit fast 23 Euro günstiger als beim zweitgünstigsten Händler. (Solid State Drive, Smartphone)</description>
+      <pubDate>Tue, 20 Oct 2026 09:55:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Smartes Türschloss mit Gesichtserkennung zum Sparpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-smartes-tuerschloss-mit-gesichtserkennung-zum-sparpreis-bei-amazon-2610-214293.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-nicht-dyson-nicht-bosch-dieser-133-euro-akkusauger-ist-amazons-bestseller-nr-1-2610-214100.html</guid>
       <description>Über 6.000 Bestellungen im Monat: Der Bulelink Zenith G10 Akku-Staubsauger kostet bei Amazon gerade nur 132,99 Euro. (Amazon, Akku)</description>
       <pubDate>Wed, 14 Oct 2026 11:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Monitoring: Server und Dienste überwachen mit Uptime Kuma</title>
-      <link>https://www.golem.de/news/monitoring-server-und-dienste-ueberwachen-mit-uptime-kuma-2610-214098.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/monitoring-server-und-dienste-ueberwachen-mit-uptime-kuma-2610-214098.html</guid>
-      <description>Server, Dienste und Zertifikate überwachen, ohne sich in komplexe Tools einarbeiten zu müssen: Uptime Kuma macht Monitoring einfach. Wir zeigen, wie es geht. Ein Praxistest von Andrea Maurer (Software, Virtualisierung)</description>
-      <pubDate>Wed, 14 Oct 2026 11:35:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
