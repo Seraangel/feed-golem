@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 06:46:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 06:56:14 GMT</lastBuildDate>
+    <item>
+      <title>Schadcode-Attacken möglich: Kritische Nginx-Lücken gefährden Webserver</title>
+      <link>https://www.golem.de/news/schadcode-attacken-moeglich-kritische-nginx-luecken-gefaehrden-webserver-2610-214277.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-kritische-nginx-luecken-gefaehrden-webserver-2610-214277.html</guid>
+      <description>Drei Sicherheitslücken in Nginx lassen Angreifer zahlreiche Webserver lahmlegen oder Schadcode einschleusen. Admins sollten zügig patchen. (Sicherheitslücke, Server)</description>
+      <pubDate>Tue, 20 Oct 2026 06:55:09 GMT</pubDate>
+    </item>
     <item>
       <title>Umfrage: KI ist schnell fertig, die Arbeit aber noch lange nicht</title>
       <link>https://www.golem.de/news/umfrage-ki-ist-schnell-fertig-die-arbeit-aber-noch-lange-nicht-2610-214276.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/chatbotanbieter-insolvent-character-ai-scheitert-an-klagen-aufsicht-und-hohen-kosten-2610-214087.html</guid>
       <description>Trotz einer Vereinbarung über 20 Millionen US‑Dollar mit Disney könnte Character.AI Ende des Jahres komplett schließen. (KI, Google)</description>
       <pubDate>Wed, 14 Oct 2026 09:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bildagentur: Getty Images kündigt Insolvenzverfahren an</title>
-      <link>https://www.golem.de/news/bildagentur-getty-images-kuendigt-insolvenzverfahren-an-2610-214086.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bildagentur-getty-images-kuendigt-insolvenzverfahren-an-2610-214086.html</guid>
-      <description>Getty Images will in den USA Chapter 11 beantragen. Die Getty-Familie und Koch Equity Development übernehmen danach alle Anteile. (Unternehmen, Wirtschaft)</description>
-      <pubDate>Wed, 14 Oct 2026 09:19:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
