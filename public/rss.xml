@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 15:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:31:14 GMT</lastBuildDate>
+    <item>
+      <title>Solarstrom aus Afrika: Photovoltaik mit hohem Ertrag und wenig Verschleiß</title>
+      <link>https://www.golem.de/news/solarstrom-aus-afrika-photovoltaik-mit-hohem-ertrag-und-wenig-verschleiss-2610-214318.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/solarstrom-aus-afrika-photovoltaik-mit-hohem-ertrag-und-wenig-verschleiss-2610-214318.html</guid>
+      <description>Ein 12 Megawatt starkes Versuchsfeld zeigt, wie hoch die Stromproduktion in Nordafrika ausfallen kann und welche Herausforderungen es gibt. (Solarenergie, Umweltschutz)</description>
+      <pubDate>Tue, 20 Oct 2026 15:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Arbeit: BMW muss Abfindungsprogramm wegen zu hoher Nachfrage früher beenden</title>
       <link>https://www.golem.de/news/arbeit-bmw-muss-abfindungsprogramm-wegen-zu-hoher-nachfrage-frueher-beenden-2610-214317.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/assisted-by-tag-ki-code-im-linux-kernel-muss-nicht-mehr-markiert-werden-2610-214123.html</guid>
       <description>Solange Entwickler ihren Code verstünden, sei die Nutzung von LLMs völlig in Ordnung, sagt Linus Torvalds selbst. (Linux, KI)</description>
       <pubDate>Thu, 15 Oct 2026 05:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox Nano: Microsoft stellt Controller im Taschenformat vor</title>
-      <link>https://www.golem.de/news/xbox-nano-microsoft-stellt-controller-im-taschenformat-vor-2610-214119.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/xbox-nano-microsoft-stellt-controller-im-taschenformat-vor-2610-214119.html</guid>
-      <description>Der Xbox Nano ist nur 13,3 Zentimeter lang und wiegt rund 100 Gramm. Trotz seiner geringen Größe bietet er alle wichtigen Tasten. (Xbox, Microsoft)</description>
-      <pubDate>Thu, 15 Oct 2026 05:42:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
