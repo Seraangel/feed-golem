@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 16:01:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:11:08 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Kleines 100-W-USB-Ladegerät von Baseus mit 3 Ports und Display für unter 42 Euro</title>
+      <link>https://www.golem.de/news/anzeige-kleines-100-w-usb-ladegeraet-von-baseus-mit-3-ports-und-display-fuer-unter-42-euro-2610-214319.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kleines-100-w-usb-ladegeraet-von-baseus-mit-3-ports-und-display-fuer-unter-42-euro-2610-214319.html</guid>
+      <description>Das Baseus PicoGo Pro AH22 lädt bis zu drei Geräte gleichzeitig und zeigt die Ladeleistung auf einem Touchdisplay an. Bei Amazon ist es so günstig wie nie im Angebot. (Technik/Hardware, Amazon)</description>
+      <pubDate>Tue, 20 Oct 2026 16:05:11 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Kent Walker: Google-Manager weist Europas Sorgen über US-Dominanz bei KI zurück</title>
       <link>https://www.golem.de/news/kent-walker-google-manager-weist-europas-sorgen-ueber-us-dominanz-bei-ki-zurueck-2610-214312.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jugendschutz-acht-us-bundesstaaten-verklagen-openai-2610-214126.html</guid>
       <description>ChatGPT soll Minderjährige gefährden und Wahnvorstellungen verstärken. Daher ziehen US-Bundesstaaten nun gegen OpenAI vor Gericht. (OpenAI, KI)</description>
       <pubDate>Thu, 15 Oct 2026 06:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firewall und Sicherheit: Microsoft Defender kommt für Linux-Desktops</title>
-      <link>https://www.golem.de/news/firewall-und-sicherheit-microsoft-defender-kommt-fuer-linux-desktops-2610-214125.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/firewall-und-sicherheit-microsoft-defender-kommt-fuer-linux-desktops-2610-214125.html</guid>
-      <description>Microsoft weitet das Security-Tool auf Linux-Systeme aus. Dabei werden die Features für Linux-Server direkt übernommen. (Microsoft 365, Server)</description>
-      <pubDate>Thu, 15 Oct 2026 06:25:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
