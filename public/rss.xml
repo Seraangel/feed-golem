@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 07:31:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 07:41:13 GMT</lastBuildDate>
+    <item>
+      <title>Wegen Anthropic: Eric Schmidt könnte bald 20 Milliarden Dollar reicher werden</title>
+      <link>https://www.golem.de/news/wegen-anthropic-eric-schmidt-koennte-bald-20-milliarden-dollar-reicher-werden-2610-214280.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wegen-anthropic-eric-schmidt-koennte-bald-20-milliarden-dollar-reicher-werden-2610-214280.html</guid>
+      <description>Der Google-Gründer hat wohl Anteile an Anthropic gekauft, als dieses noch nicht einmal eine Milliarde Dollar wert war. (Eric Schmidt, KI)</description>
+      <pubDate>Tue, 20 Oct 2026 07:38:02 GMT</pubDate>
+    </item>
     <item>
       <title>Smart Home: Google-Home-Lautsprecher laden Unmengen an unbekannten Daten herunter</title>
       <link>https://www.golem.de/news/smart-home-google-home-lautsprecher-laden-unmengen-an-unbekannten-daten-herunter-2610-214279.html</link>
@@ -20,7 +27,7 @@
       <pubDate>Tue, 20 Oct 2026 07:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>Echotribble: US-Armee will KI-Agenten als Hacker losschicken</title>
+      <title>Echotribble: US-Armee will KI als Hacker einsetzen</title>
       <link>https://www.golem.de/news/echotribble-us-armee-will-ki-agenten-als-hacker-losschicken-2610-214278.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/echotribble-us-armee-will-ki-agenten-als-hacker-losschicken-2610-214278.html</guid>
       <description>Das Army Cyber Command lässt autonome KI-Agenten für Hackerangriffe bauen. Der Anbieter für Echotribble steht schon fest. (Militär, KI)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-carplay-display-mit-rueckfahrkamera-reduziert-bei-amazon-2610-214090.html</guid>
       <description>Amazon hat ein Carplay Display mit Rückfahrkamera im Angebot, das neben Apple Carplay auch Android Auto unterstützt. (Technik/Hardware, Android Auto)</description>
       <pubDate>Wed, 14 Oct 2026 09:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>US-Zwischenwahlen: Musk spendet 366 Millionen US-Dollar an Republikaner</title>
-      <link>https://www.golem.de/news/us-zwischenwahlen-musk-spendet-366-millionen-us-dollar-an-republikaner-2610-214089.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/us-zwischenwahlen-musk-spendet-366-millionen-us-dollar-an-republikaner-2610-214089.html</guid>
-      <description>Trotz seines zwischenzeitlichen Zerwürfnisses mit Donald Trump ist Elon Musk im US-Wahlkampf der größte Einzelspender der Republikaner. (Elon Musk, Sergey Brin)</description>
-      <pubDate>Wed, 14 Oct 2026 09:51:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
