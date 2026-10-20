@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 15:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 15:36:05 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Internetradio mit WLAN, Bluetooth, DAB+ reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-internetradio-mit-wlan-bluetooth-dab-reduziert-bei-amazon-2610-214315.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-internetradio-mit-wlan-bluetooth-dab-reduziert-bei-amazon-2610-214315.html</guid>
+      <description>Amazon hat ein Internetradio im Angebot, das mit WLAN und DAB+ eine große Programmvielfalt bietet und auch USB und Bluetooth unterstützt. (Internetradio, WLAN)</description>
+      <pubDate>Tue, 20 Oct 2026 15:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>Solarstrom aus Afrika: Photovoltaik mit hohem Ertrag und wenig Verschleiß</title>
       <link>https://www.golem.de/news/solarstrom-aus-afrika-photovoltaik-mit-hohem-ertrag-und-wenig-verschleiss-2610-214318.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/photovoltaik-auf-dem-dach-elf-verbaende-wollen-solaraufschlag-von-165-euro-verhindern-2610-214124.html</guid>
       <description>Die Solarbranche stemmt sich gegen den Plan der Bundesnetzagentur, der Besitzer größerer Photovoltaikanlagen finanziell zusätzlich belasten soll. (Solarenergie, Bundesnetzagentur)</description>
       <pubDate>Thu, 15 Oct 2026 06:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Assisted-by-Tag: KI-Code im Linux-Kernel muss nicht mehr markiert werden</title>
-      <link>https://www.golem.de/news/assisted-by-tag-ki-code-im-linux-kernel-muss-nicht-mehr-markiert-werden-2610-214123.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/assisted-by-tag-ki-code-im-linux-kernel-muss-nicht-mehr-markiert-werden-2610-214123.html</guid>
-      <description>Solange Entwickler ihren Code verstünden, sei die Nutzung von LLMs völlig in Ordnung, sagt Linus Torvalds selbst. (Linux, KI)</description>
-      <pubDate>Thu, 15 Oct 2026 05:56:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
