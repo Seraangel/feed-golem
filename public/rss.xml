@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 13:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:16:04 GMT</lastBuildDate>
+    <item>
+      <title>Onlinebank: Revolut meldet Probleme wegen Ausfall von Google Cloud</title>
+      <link>https://www.golem.de/news/onlinebank-revolut-meldet-probleme-wegen-ausfall-von-google-cloud-2610-214308.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/onlinebank-revolut-meldet-probleme-wegen-ausfall-von-google-cloud-2610-214308.html</guid>
+      <description>Die Onlinebank Revolut meldet seit dem Morgen Probleme mit einer Reihe ihrer Dienste. Grund ist ein Stromausfall bei Google Cloud. (Revolut, Google)</description>
+      <pubDate>Tue, 20 Oct 2026 13:12:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Neues iPhone Duo jetzt im Tarif bei o2 für 1 Euro vorbestellen</title>
       <link>https://www.golem.de/news/anzeige-neues-iphone-duo-jetzt-im-tarif-bei-o2-fuer-1-euro-vorbestellen-2610-214307.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/loeschung-inaktiver-konten-paypal-benachrichtigung-verwirrt-nutzer-2610-214115.html</guid>
       <description>Paypal-Nutzer erhalten derzeit Hinweise über die Löschung eines inaktiven Kontos. Das ist zwar kein Phishing, aber gerade deshalb verwirrend. (Paypal, Phishing)</description>
       <pubDate>Wed, 14 Oct 2026 15:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: WLAN-Repeater mit bis zu 1,2 GBbit/s für 24,55 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-wlan-repeater-mit-bis-zu-1-2-gbbit-s-fuer-24-55-euro-bei-amazon-2610-214114.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-wlan-repeater-mit-bis-zu-1-2-gbbit-s-fuer-24-55-euro-bei-amazon-2610-214114.html</guid>
-      <description>Ein WLAN-Repeater von TP-Link mit bis zu 1,2 GBit/s Dualband-Gesamtleistung, Gigabit-LAN und EasyMesh-Funktion ist bei Amazon reduziert. (TP-Link, Technik/Hardware)</description>
-      <pubDate>Wed, 14 Oct 2026 15:10:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
