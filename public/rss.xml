@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 09:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:16:13 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia: Grafikkarten-Bios ändern ohne Flashen möglich</title>
+      <link>https://www.golem.de/news/nvidia-grafikkarten-bios-aendern-ohne-flashen-moeglich-2610-214287.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvidia-grafikkarten-bios-aendern-ohne-flashen-moeglich-2610-214287.html</guid>
+      <description>Ein neues Open-Source-Werkzeug erlaubt Änderungen am VBios von Geforce-Grafikkarten, ohne die Firmware zu überschreiben. (Geforce RTX, Grafikkarten)</description>
+      <pubDate>Tue, 20 Oct 2026 09:14:08 GMT</pubDate>
+    </item>
     <item>
       <title>Datenanalyse für die Polizei: Celonis nimmt Palantir mit Metropolis ins Visier</title>
       <link>https://www.golem.de/news/datenanalyse-fuer-die-polizei-celonis-nimmt-palantir-mit-metropolis-ins-visier-2610-214286.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/pc-kuehlung-ungewoehnliche-gpu-position-senkt-temperatur-deutlich-2610-214095.html</guid>
       <description>Die Grafikkarte abseits des üblichen Steckplatzes auf dem Mainboard zu platzieren, senkt die Temperaturen. (Kühlung, Grafikkarten)</description>
       <pubDate>Wed, 14 Oct 2026 10:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copeland: Hacker kapern weitere Supermarkt-Kühlschränke</title>
-      <link>https://www.golem.de/news/copeland-hacker-kapern-weitere-supermarkt-kuehlschraenke-2610-214094.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/copeland-hacker-kapern-weitere-supermarkt-kuehlschraenke-2610-214094.html</guid>
-      <description>Nach Danfoss ist jetzt der US-Konzern Copeland als zweiter Lieferant in die Cyberattacken auf europäische Supermarkt-Kühlketten verwickelt. (Cybercrime, Security)</description>
-      <pubDate>Wed, 14 Oct 2026 10:44:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
