@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 10:36:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 10:46:02 GMT</lastBuildDate>
+    <item>
+      <title>Revamp: Entwickler streichen Public Beta wegen KI-Kopien</title>
+      <link>https://www.golem.de/news/revamp-entwickler-streichen-public-beta-wegen-ki-kopien-2610-214295.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/revamp-entwickler-streichen-public-beta-wegen-ki-kopien-2610-214295.html</guid>
+      <description>Weil KI-Werkzeuge Spiele immer schneller nachbauen können, schränkt Digital Sun den Zugang zu seinem kommenden Titel Revamp ein. (Reverse Engineering, KI)</description>
+      <pubDate>Tue, 20 Oct 2026 10:44:07 GMT</pubDate>
+    </item>
     <item>
       <title>Erdgas statt H2: Reiches Wasserstoffförderung könnte die Energiewende ausbremsen</title>
       <link>https://www.golem.de/news/erdgas-statt-h2-reiches-wasserstofffoerderung-koennte-die-energiewende-ausbremsen-2610-214292.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-starthilfe-powerbank-mit-kompressor-zum-sparpreis-bei-amazon-2610-214108.html</guid>
       <description>Eine Starthilfe-Powerbank mit 150-PSI-Kompressor, 59,2 Wh und 9.000 mAh Spitzenstrom ist bei Amazon zum reduzierten Preis erhältlich. (Technik/Hardware)</description>
       <pubDate>Wed, 14 Oct 2026 12:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mensch vs. KI: GPT-6 Astra spielt richtig gut Schach</title>
-      <link>https://www.golem.de/news/mensch-vs-ki-gpt-6-astra-spielt-richtig-gut-schach-2610-214103.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mensch-vs-ki-gpt-6-astra-spielt-richtig-gut-schach-2610-214103.html</guid>
-      <description>Der Youtuber Levy Rozman, bekannt als Gotham Chess, hat eine Partie Schach gegen GPT-6 Astra gespielt - ein hartes Match für einen Profi. (Schach, Video-Community)</description>
-      <pubDate>Wed, 14 Oct 2026 12:38:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
