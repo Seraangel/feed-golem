@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 10:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:31:09 GMT</lastBuildDate>
+    <item>
+      <title>Elon Musk: "Geld wird irrelevant werden"</title>
+      <link>https://www.golem.de/news/elon-musk-geld-wird-irrelevant-werden-2610-214352.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elon-musk-geld-wird-irrelevant-werden-2610-214352.html</guid>
+      <description>In einem Gespräch erklärt der Milliardär, dass Währungen in Zukunft anders funktionieren müssen. KI könnte ein Eigenleben entwickeln. (Elon Musk, KI)</description>
+      <pubDate>Wed, 21 Oct 2026 10:29:04 GMT</pubDate>
+    </item>
     <item>
       <title>Handheld: Bei Microsoft gab es Streit um das XBox-Betriebssystem</title>
       <link>https://www.golem.de/news/handheld-bei-microsoft-gab-es-streit-um-das-xbox-betriebssystem-2610-214349.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/erneuerbare-energie-viele-gewinner-einige-verlierer-durch-klimaschutz-2610-214160.html</guid>
       <description>Global wirken sich Energiewende und Klimaschutz unterschiedlich aus. Vermögen wird an einer Stelle entwertet, während es anderswo nachhaltiger entsteht. (Klimakrise, Wissenschaft)</description>
       <pubDate>Thu, 15 Oct 2026 15:30:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netzausbau: Noch kein Kostenvorteil durch Open RAN bei 1&amp;1</title>
-      <link>https://www.golem.de/news/netzausbau-noch-kein-kostenvorteil-durch-open-ran-bei-1-1-2610-214155.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/netzausbau-noch-kein-kostenvorteil-durch-open-ran-bei-1-1-2610-214155.html</guid>
-      <description>Der 1&amp;1- Mobilfunkchef will noch nicht damit werben, dass Open RAN günstiger sei, weil das erst in Zukunft so sei. Auch die Austauschbarkeit der Zulieferer nicht einfach. Ein Bericht von Achim Sawall (1&amp;1, Nokia)</description>
-      <pubDate>Thu, 15 Oct 2026 15:14:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
