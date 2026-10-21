@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 11:31:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:51:05 GMT</lastBuildDate>
+    <item>
+      <title>(g+) IT-Freelancer: Wer verdient an deiner KI-Produktivität?</title>
+      <link>https://www.golem.de/news/it-freelancer-wer-verdient-an-deiner-ki-produktivitaet-2610-214357.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/it-freelancer-wer-verdient-an-deiner-ki-produktivitaet-2610-214357.html</guid>
+      <description>Schneller arbeiten, weniger verdienen: Für Freelancer kann KI zur finanziellen Falle werden. Eine Beispielrechnung zeigt, warum das Abrechnungsmodell über den Gewinn entscheidet. Ein Ratgebertext von Benedikt Matthes (Wirtschaft, KI)</description>
+      <pubDate>Wed, 21 Oct 2026 11:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>GTC Berlin: Nvidia containerisiert das Rechenzentrum</title>
       <link>https://www.golem.de/news/gtc-berlin-nvidia-containerisiert-das-rechenzentrum-2610-214338.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213973.html</guid>
       <description>Microsoft 365 Copilot wirft technische und organisatorische Fragen auf. Ein Workshop vermittelt Ansätze für den Einsatz im Unternehmen. (Golem Karrierewelt, KI)</description>
       <pubDate>Thu, 15 Oct 2026 16:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Etikettendrucker mit Tastatur und Bluetooth für unter 29 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-etikettendrucker-mit-tastatur-und-bluetooth-fuer-unter-29-euro-bei-amazon-2610-214162.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-etikettendrucker-mit-tastatur-und-bluetooth-fuer-unter-29-euro-bei-amazon-2610-214162.html</guid>
-      <description>Der Supvan E11 druckt Etiketten ohne Tinte und lässt sich auch ohne Smartphone bedienen. Vier Etikettenrollen sind bereits enthalten. (Technik/Hardware, Amazon)</description>
-      <pubDate>Thu, 15 Oct 2026 16:27:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
