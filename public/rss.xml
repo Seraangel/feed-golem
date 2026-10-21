@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 08:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:31:14 GMT</lastBuildDate>
+    <item>
+      <title>Chefs-von-Devs-Interview: Die gläserne IT-Fabrik in der Verwaltung</title>
+      <link>https://www.golem.de/news/chefs-von-devs-interview-die-glaeserne-it-fabrik-in-der-verwaltung-2610-214335.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chefs-von-devs-interview-die-glaeserne-it-fabrik-in-der-verwaltung-2610-214335.html</guid>
+      <description>Wie bringt man Open Source in die Verwaltung? In unserem Newsletter Chefs von Devs erklärt es uns Dirk Gernhardt, Open-Source-Beauftragter der Stadt München. (Souveränität, Open Source)</description>
+      <pubDate>Wed, 21 Oct 2026 08:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>FSR: AMD bringt KI-Upscaling auf Xbox Series X/S</title>
       <link>https://www.golem.de/news/fsr-amd-bringt-ki-upscaling-auf-xbox-series-x-s-2610-214340.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/satelliteninternet-starlink-beendet-rechtswidrige-preiserhoehung-und-aboaenderung-2610-214142.html</guid>
       <description>Starlink verpflichtet sich, die Konditionen von Abos für Satelliteninternet nicht länger rechtswidrig zu ändern. Abonnenten können Geld zurückfordern. (Starlink, Rechtsstreitigkeiten)</description>
       <pubDate>Thu, 15 Oct 2026 10:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Razer Pro Type Ergo im Praxistest: Nicht nur ergonomisch eine Vollkatastrophe</title>
-      <link>https://www.golem.de/news/razer-pro-type-ergo-im-praxistest-nicht-nur-ergonomisch-eine-vollkatastrophe-2610-214083.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/razer-pro-type-ergo-im-praxistest-nicht-nur-ergonomisch-eine-vollkatastrophe-2610-214083.html</guid>
-      <description>Razers Debüt bei ergonomischen Tastaturen ist eine Bruchlandung. Das Produkt wurde komplett an der Zielgruppe vorbei entwickelt. Ein Praxistest von Ingo Pakalski (Ergonomie, Eingabegerät)</description>
-      <pubDate>Thu, 15 Oct 2026 10:00:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
