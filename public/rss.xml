@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 11:51:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 12:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Schufa-Score: Bundesgerichtshof hebt Schufa-Urteile auf</title>
+      <link>https://www.golem.de/news/schufa-score-bundesgerichtshof-hebt-schufa-urteile-auf-2610-214358.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schufa-score-bundesgerichtshof-hebt-schufa-urteile-auf-2610-214358.html</guid>
+      <description>Wie transparent muss die Schufa ihr Scoring-Verfahren erklären? Nach einem Urteil des Bundesgerichtshofs müssen vier Fälle in Dresden neu verhandelt werden. (Schufa, Verbraucherschutz)</description>
+      <pubDate>Wed, 21 Oct 2026 12:00:14 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) IT-Freelancer: Wer verdient an deiner KI-Produktivität?</title>
       <link>https://www.golem.de/news/it-freelancer-wer-verdient-an-deiner-ki-produktivitaet-2610-214357.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/stellenabbau-neue-entlassungswelle-bei-nokia-in-europa-2610-214163.html</guid>
       <description>Schon wieder Entlassungen bei Nokia in Europa. In dieser Woche ist bereits ein Konzernteil verkauft worden. Eine Exklusivmeldung von Achim Sawall (Nokia, Mobilfunk)</description>
       <pubDate>Thu, 15 Oct 2026 21:21:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Copilot im Unternehmen gezielt einsetzen</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213973.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2610-213973.html</guid>
-      <description>Microsoft 365 Copilot wirft technische und organisatorische Fragen auf. Ein Workshop vermittelt Ansätze für den Einsatz im Unternehmen. (Golem Karrierewelt, KI)</description>
-      <pubDate>Thu, 15 Oct 2026 16:45:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
