@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 07:01:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:16:13 GMT</lastBuildDate>
+    <item>
+      <title>Noch kein Patch verfügbar: Kritische PHP-Lücken gefährden unzählige Webserver</title>
+      <link>https://www.golem.de/news/noch-kein-patch-verfuegbar-kritische-php-luecken-gefaehrden-unzaehlige-webserver-2610-214332.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/noch-kein-patch-verfuegbar-kritische-php-luecken-gefaehrden-unzaehlige-webserver-2610-214332.html</guid>
+      <description>Nach einem Leak warnt die PHP Group vor zwei kritischen PHP-Lücken, die zahlreiche Webplattformen gefährden. Ein Patch erscheint in Kürze. (Sicherheitslücke, PHP)</description>
+      <pubDate>Wed, 21 Oct 2026 07:12:04 GMT</pubDate>
+    </item>
     <item>
       <title>Plünderungen in Frankreich: Vinted löscht Angebote mit Beute</title>
       <link>https://www.golem.de/news/pluenderungen-in-frankreich-vinted-loescht-angebote-mit-beute-2610-214331.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/energiewende-gaskrise-2026-verlaeuft-anders-als-2022-2610-214135.html</guid>
       <description>Innerhalb von vier Jahren ist zweimal die Gasversorgung in Europa eingebrochen. Das Resultat auf dem Strommarkt ist heute aber ein ganz anderes. (Energiewende, Solarenergie)</description>
       <pubDate>Thu, 15 Oct 2026 09:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Social-Media-Verbot: 13-Jährige sollen künftig Onlineausweis erhalten</title>
-      <link>https://www.golem.de/news/eudi-wallet-nachgebessert-13-jaehrige-sollen-kuenftig-onlineausweis-erhalten-2610-214136.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/eudi-wallet-nachgebessert-13-jaehrige-sollen-kuenftig-onlineausweis-erhalten-2610-214136.html</guid>
-      <description>Die Koalition bessert bei der geplanten EUDI-Wallet nach. Kinder ab 13 sollen sich selbst im Netz ausweisen können. (EUDI-Wallet, Datenschutz)</description>
-      <pubDate>Thu, 15 Oct 2026 08:44:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
