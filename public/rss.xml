@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 07:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 07:41:05 GMT</lastBuildDate>
+    <item>
+      <title>UN-Klimabericht: Erde steuert laut UN auf 2,8 Grad Erwärmung zu</title>
+      <link>https://www.golem.de/news/un-klimabericht-erde-steuert-laut-un-auf-2-8-grad-erwaermung-zu-2610-214333.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/un-klimabericht-erde-steuert-laut-un-auf-2-8-grad-erwaermung-zu-2610-214333.html</guid>
+      <description>Das 1,5-Grad-Limit ist laut UNEP nicht mehr zu halten. Bei aktueller Politik drohen bis 2100 sogar 2,8 Grad. (Klimawandel, Klima)</description>
+      <pubDate>Wed, 21 Oct 2026 07:39:05 GMT</pubDate>
+    </item>
     <item>
       <title>Elon Musk: SpaceX und Tesla könnten sich zusammenschließen</title>
       <link>https://www.golem.de/news/elon-musk-spacex-und-tesla-koennten-sich-zusammenschliessen-2610-214336.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/unsichere-firewall-palo-alto-networks-warnt-vor-angriffen-auf-zero-day-luecke-2610-214137.html</guid>
       <description>Betroffen sind Firewalls der Serien PA und VM. Ein Angreifer kann Code mit Root-Rechten ausführen. (Firewall, Virtualisierung)</description>
       <pubDate>Thu, 15 Oct 2026 09:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Airtag Silencer: Hersteller will Missbrauchspotenzial zu spät erkannt haben</title>
-      <link>https://www.golem.de/news/airtag-silencer-hersteller-will-missbrauchspotenzial-zu-spaet-erkannt-haben-2610-214133.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/airtag-silencer-hersteller-will-missbrauchspotenzial-zu-spaet-erkannt-haben-2610-214133.html</guid>
-      <description>Ein Werkzeug zum Stummschalten von Apples Airtags wurde aus Eigenbedarf entwickelt und der Verkauf nach starker Kritik wieder eingestellt. (Airtag, Apple)</description>
-      <pubDate>Thu, 15 Oct 2026 09:16:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
