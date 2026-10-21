@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 06:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:21:07 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic: US-Stopp für KI erst ab Milliardenrisiko oder vielen Todesopfern</title>
+      <link>https://www.golem.de/news/anthropic-us-stopp-fuer-ki-erst-ab-milliardenrisiko-oder-vielen-todesopfern-2610-214326.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anthropic-us-stopp-fuer-ki-erst-ab-milliardenrisiko-oder-vielen-todesopfern-2610-214326.html</guid>
+      <description>Anthropic schlägt KI-Regeln vor. Kritik gibt es an den hohen Schwellen, ab denen der Staat eingreifen dürfte. (Anthropic, KI)</description>
+      <pubDate>Wed, 21 Oct 2026 06:17:08 GMT</pubDate>
+    </item>
     <item>
       <title>Privatsphäre: Gericht zwingt Google zur Verpixelung von Luftbildern</title>
       <link>https://www.golem.de/news/privatsphaere-gericht-zwingt-google-zur-verpixelung-von-luftbildern-2610-214329.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ersteinrichtung-microsoft-entfernt-einfachen-zugang-zu-lokalem-windows-11-konto-2610-214131.html</guid>
       <description>Durch einen kleinen Trick ließ sich auch Windows 11 Home mit einem lokalen Konto einrichten. Microsoft sagt nein. (Windows 11, Microsoft)</description>
       <pubDate>Thu, 15 Oct 2026 08:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mögliches Datenleck: Notebooksbilliger meldet Cyberangriff</title>
-      <link>https://www.golem.de/news/moegliches-datenleck-notebooksbilliger-meldet-cyberangriff-2610-214130.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/moegliches-datenleck-notebooksbilliger-meldet-cyberangriff-2610-214130.html</guid>
-      <description>Unbekannte greifen offenbar auch auf Bankdaten zu - Notebooksbilliger warnt vor Betrugsversuchen mit gestohlenen Kundendaten (Cybercrime, Security)</description>
-      <pubDate>Thu, 15 Oct 2026 07:58:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
