@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 20 Oct 2026 19:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:16:05 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Cyber Resilience Act: Pflichten für Produkthersteller</title>
+      <link>https://www.golem.de/news/anzeige-cyber-resilience-act-pflichten-fuer-produkthersteller-2610-214027.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-cyber-resilience-act-pflichten-fuer-produkthersteller-2610-214027.html</guid>
+      <description>Der Cyber Resilience Act stellt Produkthersteller vor Aufgaben bei Risiken, Nachweisen und Pflichten. Ein Workshop vermittelt die Umsetzung anhand eigener Produkte. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 21 Oct 2026 05:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: KI-Agenten für Büroaufgaben mit Claude einsetzen</title>
       <link>https://www.golem.de/news/anzeige-ki-agenten-fuer-bueroaufgaben-mit-claude-einsetzen-2610-214028.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-von-der-buchung-bis-zum-boarding-geschaeftsreisen-effektiv-planen-2610-213907.html</guid>
       <description>Von der Buchung über Versicherung und Lounge bis zu Mobilität und Reisekosten: So holst du aus einer Geschäftsreise das Beste für dein Business raus. (Reisen, Wirtschaft)</description>
       <pubDate>Thu, 15 Oct 2026 07:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudsouveränität: Tech-Lobby warnt vor 115-Milliarden-Rechnung für Europa</title>
-      <link>https://www.golem.de/news/cloudsouveraenitaet-tech-lobby-warnt-vor-115-milliarden-rechnung-fuer-europa-2610-214128.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cloudsouveraenitaet-tech-lobby-warnt-vor-115-milliarden-rechnung-fuer-europa-2610-214128.html</guid>
-      <description>Die Lobby von Amazon, Google und Meta beziffert die Kosten des EU-Cloudgesetzes CADA. Die Zahl beruht auf vagen Annahmen. (Wirtschaft, EU-Kommission)</description>
-      <pubDate>Thu, 15 Oct 2026 06:56:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
