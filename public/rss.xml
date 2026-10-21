@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 09:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:16:05 GMT</lastBuildDate>
+    <item>
+      <title>SSH-Traffic umgeleitet: Zehn Prozent aller Tor-Exit-Nodes für MitM-Attacken gekapert</title>
+      <link>https://www.golem.de/news/ssh-traffic-umgeleitet-zehn-prozent-aller-tor-exit-nodes-fuer-mitm-attacken-gekapert-2610-214344.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ssh-traffic-umgeleitet-zehn-prozent-aller-tor-exit-nodes-fuer-mitm-attacken-gekapert-2610-214344.html</guid>
+      <description>Mehr als 300 Tor-Exit-Nodes fingen plötzlich an, E-Mail- und SSH-Traffic umzuleiten. Ein Angreifer hatte die Server Wochen zuvor manipuliert. (Man-in-the-Middle, E-Mail)</description>
+      <pubDate>Wed, 21 Oct 2026 09:12:05 GMT</pubDate>
+    </item>
     <item>
       <title>ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück</title>
       <link>https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/street-fighter-im-kino-herrlich-bescheuert-2610-214038.html</guid>
       <description>Vergesst Jean-Claude Van Damme, vergesst den Film von früher und feiert die 90er: Das hier ist der einzig wirklich coole Street Fighter! Eine Rezension von Peter Osteried (Street Fighter, Digitalkino)</description>
       <pubDate>Thu, 15 Oct 2026 12:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Apple iPhone 18 Pro im Tarif mit 40 GByte schon für 1 Euro bei Blau</title>
-      <link>https://www.golem.de/news/anzeige-apple-iphone-18-pro-im-tarif-mit-40-gbyte-schon-fuer-1-euro-bei-blau-2610-214147.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-iphone-18-pro-im-tarif-mit-40-gbyte-schon-fuer-1-euro-bei-blau-2610-214147.html</guid>
-      <description>Das neue iPhone 18 Pro ist da. Bei Blau gibt es das neue Apple-Smartphone jetzt ohne hohe Anschaffungskosten für nur 1 Euro Anzahlung. (Blau.de, Apple)</description>
-      <pubDate>Thu, 15 Oct 2026 11:40:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
