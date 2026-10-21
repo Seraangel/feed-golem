@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 07:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:21:02 GMT</lastBuildDate>
+    <item>
+      <title>CISA: Trump-Beamte wollten Wahlmaschine heimlich hacken lassen</title>
+      <link>https://www.golem.de/news/cisa-trump-beamte-wollten-wahlmaschine-heimlich-hacken-lassen-2610-214339.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cisa-trump-beamte-wollten-wahlmaschine-heimlich-hacken-lassen-2610-214339.html</guid>
+      <description>Laut Propublica sollte die CISA eine Wahlmaschine hacken. Ergebnisse sollten ans Weiße Haus gehen, nicht zum Hersteller. (Politik, Donald Trump)</description>
+      <pubDate>Wed, 21 Oct 2026 08:18:11 GMT</pubDate>
+    </item>
     <item>
       <title>UN-Klimabericht: Erde steuert laut UN auf 2,8 Grad Erwärmung zu</title>
       <link>https://www.golem.de/news/un-klimabericht-erde-steuert-laut-un-auf-2-8-grad-erwaermung-zu-2610-214333.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spielebranche-ubisoft-streicht-rund-100-stellen-bei-deutschen-studios-2610-214139.html</guid>
       <description>Auch die Entwickler von Anno 117 in Mainz sind betroffen: Ubisoft will in Deutschland etwa jeden sechsten Arbeitsplatz abbauen. (Ubisoft, Aufbauspiel)</description>
       <pubDate>Thu, 15 Oct 2026 09:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unsichere Firewall: Palo Alto Networks warnt vor Angriffen auf Zero-Day-Lücke</title>
-      <link>https://www.golem.de/news/unsichere-firewall-palo-alto-networks-warnt-vor-angriffen-auf-zero-day-luecke-2610-214137.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/unsichere-firewall-palo-alto-networks-warnt-vor-angriffen-auf-zero-day-luecke-2610-214137.html</guid>
-      <description>Betroffen sind Firewalls der Serien PA und VM. Ein Angreifer kann Code mit Root-Rechten ausführen. (Firewall, Virtualisierung)</description>
-      <pubDate>Thu, 15 Oct 2026 09:33:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
