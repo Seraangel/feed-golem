@@ -11,12 +11,12 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 09:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:26:02 GMT</lastBuildDate>
     <item>
       <title>SSH-Traffic umgeleitet: Zehn Prozent aller Tor-Exit-Nodes für MitM-Attacken gekapert</title>
       <link>https://www.golem.de/news/ssh-traffic-umgeleitet-zehn-prozent-aller-tor-exit-nodes-fuer-mitm-attacken-gekapert-2610-214344.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/ssh-traffic-umgeleitet-zehn-prozent-aller-tor-exit-nodes-fuer-mitm-attacken-gekapert-2610-214344.html</guid>
-      <description>Mehr als 300 Tor-Exit-Nodes fingen plötzlich an, E-Mail- und SSH-Traffic umzuleiten. Ein Angreifer hatte die Server Wochen zuvor manipuliert. (Man-in-the-Middle, E-Mail)</description>
+      <description>Mehr als 300 Tor-Exit-Nodes fingen plötzlich an, E-Mail- und SSH-Traffic umzuleiten. Ein Angreifer hatte die Server Wochen zuvor kompromittiert. (Man-in-the-Middle, E-Mail)</description>
       <pubDate>Wed, 21 Oct 2026 09:12:05 GMT</pubDate>
     </item>
     <item>
