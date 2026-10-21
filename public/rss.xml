@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 08:41:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 08:46:14 GMT</lastBuildDate>
+    <item>
+      <title>Outdoor: Komoot navigiert auf Wear OS ohne Smartphone</title>
+      <link>https://www.golem.de/news/outdoor-komoot-navigiert-auf-wear-os-ohne-smartphone-2610-214342.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/outdoor-komoot-navigiert-auf-wear-os-ohne-smartphone-2610-214342.html</guid>
+      <description>Offline-Karten, Abbiegehinweise und automatische Routenneuberechnung: Komoot funktioniert auf vielen Smartwatches künftig ohne Smartphone. (Komoot, Navigationssystem)</description>
+      <pubDate>Wed, 21 Oct 2026 08:43:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Soundcore Q20i Kopfhörer mit ANC jetzt für unter 32 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-soundcore-q20i-kopfhoerer-mit-anc-jetzt-fuer-unter-32-euro-bei-amazon-2610-214341.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/1-000-arbeitsplaetze-bedroht-regierung-will-e-bus-foerderung-um-zwei-drittel-kuerzen-2610-214145.html</guid>
       <description>Die Bundesregierung will die Förderung von Elektrobussen stark zusammenstreichen. Vor allem deutsche Hersteller wären betroffen. (Elektrobus, Auto)</description>
       <pubDate>Thu, 15 Oct 2026 11:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Epyc 9006 LP: AMDs Antwort auf Nvidia hat jetzt 192 statt 72 Kerne</title>
-      <link>https://www.golem.de/news/epyc-9006-lp-amds-antwort-auf-nvidia-hat-jetzt-192-statt-72-kerne-2610-214143.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/epyc-9006-lp-amds-antwort-auf-nvidia-hat-jetzt-192-statt-72-kerne-2610-214143.html</guid>
-      <description>Der Chiphersteller wird die Verano-CPUs mit wesentlich mehr Cores ausstatten. Mit dabei sind LPDDR5x-RAM und die Zen-6c-Architektur. (AMD, Prozessor)</description>
-      <pubDate>Thu, 15 Oct 2026 10:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
