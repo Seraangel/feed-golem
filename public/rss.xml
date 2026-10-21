@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 10:51:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Webbrowser: Chrome 156 schließt 353 Sicherheitslücken</title>
+      <link>https://www.golem.de/news/webbrowser-chrome-156-schliesst-353-sicherheitsluecken-2610-214356.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/webbrowser-chrome-156-schliesst-353-sicherheitsluecken-2610-214356.html</guid>
+      <description>Google hat den Webbrowser Chrome auf eine neue Hauptversion aktualisiert. Integriert sind Patches gegen Hunderte Sicherheitslücken. (Sicherheitslücke, Google)</description>
+      <pubDate>Wed, 21 Oct 2026 10:59:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Merach Heimtrainer mit Magnetwiderstand jetzt unter 200 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-merach-heimtrainer-mit-magnetwiderstand-jetzt-unter-200-euro-bei-amazon-2610-214355.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jobinterview-ki-bot-drueckt-gehalt-und-vereinbart-termin-ohne-bewerber-2610-214161.html</guid>
       <description>Einen KI-Bot als Begleiter in ein ebenfalls von KI geführtes Jobinterview mitzunehmen, bringt reichlich Chaos ins Bewerbungsgespräch. (KI, Interview)</description>
       <pubDate>Thu, 15 Oct 2026 16:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Japans Weltraumstrategie: Deutlich größere Weltraumbahnhöfe für deutlich mehr Raketenstarts</title>
-      <link>https://www.golem.de/news/japans-weltraumstrategie-deutlich-groessere-weltraumbahnhoefe-fuer-deutlich-mehr-raketenstarts-2610-214146.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/japans-weltraumstrategie-deutlich-groessere-weltraumbahnhoefe-fuer-deutlich-mehr-raketenstarts-2610-214146.html</guid>
-      <description>Japan will künftig 30 Raketen pro Jahr starten. Warum der Ausbau der Weltraumbahnhöfe auch eine Frage der Sicherheit ist, erklärt Nikkei Asia. Von Kenta Shimai (Weltall, Wirtschaft)</description>
-      <pubDate>Thu, 15 Oct 2026 16:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
