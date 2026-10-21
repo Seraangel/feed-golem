@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 13:51:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:01:02 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Vibe Coding: Software mit KI entwickeln und prüfen</title>
+      <link>https://www.golem.de/news/anzeige-vibe-coding-software-mit-ki-entwickeln-und-pruefen-2610-214159.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-vibe-coding-software-mit-ki-entwickeln-und-pruefen-2610-214159.html</guid>
+      <description>Vibe Coding erfordert klare Anforderungen und geprüfte Ergebnisse. Ein Online-Workshop vermittelt die Umsetzung eigener Prototypen. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Wed, 21 Oct 2026 16:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Tablet von Lenovo mit 10,1'' Wuxga reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-tablet-von-lenovo-mit-10-1-wuxga-reduziert-bei-amazon-2610-214360.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/amazon-bee-amazon-bringt-ki-audioarmband-und-handyclip-2610-214164.html</guid>
       <description>Amazon hat die ersten Geräte seiner KI-Sparte Bee vorgestellt: ein Wearable fürs Handgelenk und einen Clip für die Handyrückseite. (Amazon, KI)</description>
       <pubDate>Fri, 16 Oct 2026 05:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365: Identitäten, Geräte und Daten absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2610-213974.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2610-213974.html</guid>
-      <description>Microsoft 365 Security betrifft Identitäten, Geräte und Daten. Ein Online-Workshop vermittelt die Konfiguration der Sicherheitsdienste und praktische Übungen. (Golem Karrierewelt, Verschlüsselung)</description>
-      <pubDate>Fri, 16 Oct 2026 05:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
