@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 21 Oct 2026 11:26:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:31:04 GMT</lastBuildDate>
+    <item>
+      <title>GTC Berlin: Nvidia containerisiert das Rechenzentrum</title>
+      <link>https://www.golem.de/news/gtc-berlin-nvidia-containerisiert-das-rechenzentrum-2610-214338.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gtc-berlin-nvidia-containerisiert-das-rechenzentrum-2610-214338.html</guid>
+      <description>Europa ist gegenüber KI skeptischer als die USA. Nvidia verspricht der Industrie mehr Sicherheit, Rechenzentren sollen "Partner im Stromnetz" werden. Ein Bericht von Johannes Hiltscher (Nvidia, KI)</description>
+      <pubDate>Wed, 21 Oct 2026 11:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Webbrowser: Chrome-Update schließt 353 Sicherheitslücken</title>
       <link>https://www.golem.de/news/webbrowser-chrome-156-schliesst-353-sicherheitsluecken-2610-214356.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-etikettendrucker-mit-tastatur-und-bluetooth-fuer-unter-29-euro-bei-amazon-2610-214162.html</guid>
       <description>Der Supvan E11 druckt Etiketten ohne Tinte und lässt sich auch ohne Smartphone bedienen. Vier Etikettenrollen sind bereits enthalten. (Technik/Hardware, Amazon)</description>
       <pubDate>Thu, 15 Oct 2026 16:27:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jobinterview: KI-Bot drückt Gehalt und vereinbart Termin ohne Bewerber</title>
-      <link>https://www.golem.de/news/jobinterview-ki-bot-drueckt-gehalt-und-vereinbart-termin-ohne-bewerber-2610-214161.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/jobinterview-ki-bot-drueckt-gehalt-und-vereinbart-termin-ohne-bewerber-2610-214161.html</guid>
-      <description>Einen KI-Bot als Begleiter in ein ebenfalls von KI geführtes Jobinterview mitzunehmen, bringt reichlich Chaos ins Bewerbungsgespräch. (KI, Interview)</description>
-      <pubDate>Thu, 15 Oct 2026 16:16:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
