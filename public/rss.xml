@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 05:20:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:30:48 GMT</lastBuildDate>
+    <item>
+      <title>Milliardenversprechen: Elon Musk prophezeit Starlink-Mobilfunk astronomische Umsätze</title>
+      <link>https://www.golem.de/news/milliardenversprechen-elon-musk-prophezeit-starlink-mobilfunk-astronomische-umsaetze-2610-214366.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/milliardenversprechen-elon-musk-prophezeit-starlink-mobilfunk-astronomische-umsaetze-2610-214366.html</guid>
+      <description>Elon Musk stellt für den geplanten Satellitenmobilfunkdienst Starlink Mobile einen Jahresumsatz von mehreren hundert Milliarden US-Dollar in Aussicht. (SpaceX, Mobilfunk)</description>
+      <pubDate>Thu, 22 Oct 2026 05:29:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bosch Werkzeugkoffer mit 52 Teilen jetzt erstmals unter 70 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-bosch-werkzeugkoffer-mit-52-teilen-jetzt-erstmals-unter-70-euro-bei-amazon-2610-214365.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/scraping-in-den-nutzungsbedingungen-meta-zwingt-webseiten-ki-zugriff-zu-erlauben-2610-214174.html</guid>
       <description>Die Meta-Nutzungsbedingungen sehen auch Test-Accounts für KI-Bots vor, um auf geschützte Inhalte für das LLM-Training zugreifen zu können. (Meta, KI)</description>
       <pubDate>Fri, 16 Oct 2026 08:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project Odeon: Microsoft testet Windows-Einstellungen als Store-App</title>
-      <link>https://www.golem.de/news/project-odeon-microsoft-testet-windows-einstellungen-als-store-app-2610-214172.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/project-odeon-microsoft-testet-windows-einstellungen-als-store-app-2610-214172.html</guid>
-      <description>Eine Test-App im Look der Einstellungen taucht im Microsoft Store auf. Microsoft könnte so Änderungen ohne Windows-Update ausliefern. (Windows 11, Microsoft)</description>
-      <pubDate>Fri, 16 Oct 2026 07:48:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
