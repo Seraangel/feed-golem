@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 06:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:25:45 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Videotürklingel mit zwei Kameras zum Sparpreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-videotuerklingel-mit-zwei-kameras-zum-sparpreis-bei-amazon-2610-214371.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-videotuerklingel-mit-zwei-kameras-zum-sparpreis-bei-amazon-2610-214371.html</guid>
+      <description>Eine beliebte Videotürklingel von Eufy mit zwei Kameras, Farbnachtsicht und Paketerkennung ist bei Amazon zum reduzierten Preis erhältlich. (Technik/Hardware, Amazon Alexa)</description>
+      <pubDate>Thu, 22 Oct 2026 06:22:03 GMT</pubDate>
+    </item>
     <item>
       <title>AI-RAN im Labortest: Telekom, Nokia und Nvidia erzielen mehr Uplink-Durchsatz</title>
       <link>https://www.golem.de/news/ai-ran-im-labortest-telekom-nokia-und-nvidia-erzielen-mehr-uplink-durchsatz-2610-214367.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/total-war-das-remaster-von-shogun-2-ueberlebt-nur-zwei-tage-2610-214176.html</guid>
       <description>Vernichtende Bewertungen, Technikprobleme und mutmaßliche KI-Grafiken: Sega nimmt die Neuauflage von Shogun 2 nach zwei Tagen aus dem Verkauf. (Total War, Sega)</description>
       <pubDate>Fri, 16 Oct 2026 09:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zweites Update in einer Woche: Google schließt erneut kritische Lücke in Chrome</title>
-      <link>https://www.golem.de/news/zweites-update-in-einer-woche-google-schliesst-erneut-kritische-luecke-in-chrome-2610-214175.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zweites-update-in-einer-woche-google-schliesst-erneut-kritische-luecke-in-chrome-2610-214175.html</guid>
-      <description>Das Update verhindert eine Remotecodeausführung außerhalb der Sandbox von Chrome. Die Lücke entdeckte ein Mitarbeiter von Anthropic. (Chrome, Google)</description>
-      <pubDate>Fri, 16 Oct 2026 08:47:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
