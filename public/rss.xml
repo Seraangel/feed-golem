@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 14:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:17:02 GMT</lastBuildDate>
+    <item>
+      <title>KI-Kosten: Openclaw-Gründer gab zehn Millionen Dollar an Token im Monat aus</title>
+      <link>https://www.golem.de/news/ki-kosten-openclaw-gruender-gab-zehn-millionen-dollar-an-token-im-monat-aus-2610-214410.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-kosten-openclaw-gruender-gab-zehn-millionen-dollar-an-token-im-monat-aus-2610-214410.html</guid>
+      <description>Der OpenAI-Entwickler Peter Steinberger hat eine ziemlich hohe Rechnung beim Arbeitgeber angehäuft. (OpenAI, KI)</description>
+      <pubDate>Thu, 22 Oct 2026 15:12:01 GMT</pubDate>
+    </item>
     <item>
       <title>Johannes Schätzl: SPD-Digitalpolitiker kritisiert nach PHP-Lücke das BSI</title>
       <link>https://www.golem.de/news/johannes-schaetzl-spd-digitalpolitiker-kritisiert-nach-php-luecke-das-bsi-2610-214409.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smart-glasses-ray-ban-meta-zeichnet-gespraeche-ungefragt-auf-2610-214210.html</guid>
       <description>Nutzer melden Aufnahmen ohne das Aktivierungswort "Hey Meta" bei Ray-Ban-Meta-Brillen. Meta bezeichnet den Fehler als behoben, nennt aber keine Ursache. (Smart Glasses, Datenschutz)</description>
       <pubDate>Sat, 17 Oct 2026 09:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz: Chatbots plaudern mit der Werbeindustrie</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-chatbots-plaudern-mit-der-werbeindustrie-2610-214209.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-chatbots-plaudern-mit-der-werbeindustrie-2610-214209.html</guid>
-      <description>Sechs von neun Chatbots geben Chat-Daten an Werbedienste weiter. Darunter sind laut Studie ChatGPT, Claude und Gemini. (KI, Datenschutz)</description>
-      <pubDate>Sat, 17 Oct 2026 08:57:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
