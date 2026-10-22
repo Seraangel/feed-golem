@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 05:55:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:00:52 GMT</lastBuildDate>
+    <item>
+      <title>Produkt: Quantum Systems baut Abfangdrohne mit 777 km/h</title>
+      <link>https://www.golem.de/news/produkt-quantum-systems-baut-abfangdrohne-mit-777-km-h-2610-214370.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/produkt-quantum-systems-baut-abfangdrohne-mit-777-km-h-2610-214370.html</guid>
+      <description>Quantum Systems meldet einen Testflug des Drohnenjäger-Prototyps mit 777 km/h. Damit könnten auch strahlgetriebene Drohnen abgefangen werden. (Drohne, Politik)</description>
+      <pubDate>Thu, 22 Oct 2026 05:58:01 GMT</pubDate>
+    </item>
     <item>
       <title>Michal Kobosko: Digital Networks Act der EU wird zur Frequenzlaufzeiten-Flatrate</title>
       <link>https://www.golem.de/news/michal-kobosko-digital-networks-act-der-eu-wird-zur-frequenzlaufzeiten-flatrate-2610-214368.html</link>
@@ -181,7 +188,7 @@
       <pubDate>Wed, 21 Oct 2026 09:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>(g+) AMA im Live-Video: Fragt den Datenschutzexperten Ralph Bendrath alles - heute 17 Uhr</title>
+      <title>(g+) AMA im Live-Video: Fragt den Digitalpolitikexperten Ralph Bendrath alles - heute 17 Uhr</title>
       <link>https://www.golem.de/news/schaut-morgen-beim-ama-vorbei-eure-datenschutz-fragen-an-unseren-experten-2610-214303.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/schaut-morgen-beim-ama-vorbei-eure-datenschutz-fragen-an-unseren-experten-2610-214303.html</guid>
       <description>Cyber Resilience Act, Digital Networks Act, Kids Act: Heute Nachmittag könnt ihr unseren Experten Ralf Bendrath alles rund um Digitalpolitik fragen. (Datenschutz, Politik)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mieterstrom-wie-kommt-eine-pv-anlage-aufs-dach-einer-weg-2610-214153.html</guid>
       <description>Welche Hürden müssen Eigentümer für eine gemeinsame Solaranlage überwinden? Eine Berliner WEG zeigt anhand ihres Projekts, wie es funktioniert. Ein Erfahrungsbericht von Friedhelm Greis (Solarenergie, Smart Meter)</description>
       <pubDate>Fri, 16 Oct 2026 08:32:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Youtube: Microsofts Video zum Windows-10-Supportende hat 670 Millionen Aufrufe</title>
-      <link>https://www.golem.de/news/youtube-microsofts-video-zum-windows-10-supportende-hat-670-millionen-aufrufe-2610-214171.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/youtube-microsofts-video-zum-windows-10-supportende-hat-670-millionen-aufrufe-2610-214171.html</guid>
-      <description>Auf Youtube verabschieden sich User von Windows 10 und sagen Hallo zu Linux. (Betriebssysteme, Microsoft)</description>
-      <pubDate>Fri, 16 Oct 2026 08:24:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
