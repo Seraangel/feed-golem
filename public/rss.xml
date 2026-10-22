@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 08:55:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:20:48 GMT</lastBuildDate>
+    <item>
+      <title>PHP2Shell: Zwei PHP-Lücken, Jahre an Vorarbeit und eine hektische Offenlegung</title>
+      <link>https://www.golem.de/news/php2shell-zwei-php-luecken-jahre-an-vorarbeit-und-eine-hektische-offenlegung-2610-214379.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/php2shell-zwei-php-luecken-jahre-an-vorarbeit-und-eine-hektische-offenlegung-2610-214379.html</guid>
+      <description>Zwei kritische PHP-Lücken bringen Admins seit Mittwoch gehörig ins Schwitzen. Die PHP Foundation schwitzt deswegen schon seit zwei Jahren. Eine Analyse von Marc Stöckel (Sicherheitslücke, PHP)</description>
+      <pubDate>Thu, 22 Oct 2026 09:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>Elektromobilität: Tesla verdient 43 Prozent weniger, Forschungskosten steigen</title>
       <link>https://www.golem.de/news/elektromobilitaet-tesla-verdient-43-prozent-weniger-forschungskosten-steigen-2610-214380.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/6g-vorlaeufer-verizon-und-ericsson-testen-7-ghz-verbindung-im-feld-2610-214189.html</guid>
       <description>Verizon und Ericsson erproben 6G-Mobilfunk in einem Frequenzbereich, der derzeit noch anderen gehört. (6G, Ericsson)</description>
       <pubDate>Fri, 16 Oct 2026 12:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tesla Roadster: Raketenshow statt preiswertem Auto für alle</title>
-      <link>https://www.golem.de/news/tesla-roadster-raketenshow-statt-preiswertem-auto-fuer-alle-2610-214187.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/tesla-roadster-raketenshow-statt-preiswertem-auto-fuer-alle-2610-214187.html</guid>
-      <description>Teslas neuer Roadster ist zweifellos eine technische Meisterleistung, die Präsentation war spektakulär. Aber hilft Tesla das langfristig? Eine Analyse von Tobias Költzsch (Tesla, Elektroauto)</description>
-      <pubDate>Fri, 16 Oct 2026 11:53:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
