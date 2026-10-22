@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 16:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:50:47 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft 365 DSGVO-konform betreiben und absichern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2610-214324.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2610-214324.html</guid>
+      <description>Microsoft 365 stellt Unternehmen vor Datenschutzfragen. Ein Workshop zeigt, wie sich DSGVO-Anforderungen, Datenresidenz und Audit-Pflichten technisch umsetzen lassen. (Golem Karrierewelt, Datenschutz)</description>
+      <pubDate>Thu, 22 Oct 2026 16:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bluetooth-Etikettendrucker für unter 17 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-bluetooth-etikettendrucker-fuer-unter-17-euro-bei-amazon-2610-214413.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/faltbares-smartphone-liefertermine-fuer-das-iphone-duo-verschieben-sich-nach-2027-2610-214216.html</guid>
       <description>Apples faltbares iPhone Duo ist seit Kurzem vorbestellbar. Die Liefertermine haben sich bereits jetzt auf Ende Januar 2027 verschoben. (iPhone Duo, Apple)</description>
       <pubDate>Sat, 17 Oct 2026 12:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cody Wilson: KI hat gerade eine Schusswaffe entworfen</title>
-      <link>https://www.golem.de/news/cody-wilson-ki-hat-gerade-eine-schusswaffe-entworfen-2610-214215.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cody-wilson-ki-hat-gerade-eine-schusswaffe-entworfen-2610-214215.html</guid>
-      <description>Ein Aktivist hat eine Waffe vorgestellt, die eine speziell trainierte KI entworfen hat. Bereits 2012 hat er die weltweit erste 3D-gedruckte Schusswaffe vorgestellt. (3D-Drucker, KI)</description>
-      <pubDate>Sat, 17 Oct 2026 11:45:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
