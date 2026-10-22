@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 05:10:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:20:49 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Bosch Werkzeugkoffer mit 52 Teilen jetzt erstmals unter 70 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-bosch-werkzeugkoffer-mit-52-teilen-jetzt-erstmals-unter-70-euro-bei-amazon-2610-214365.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bosch-werkzeugkoffer-mit-52-teilen-jetzt-erstmals-unter-70-euro-bei-amazon-2610-214365.html</guid>
+      <description>Ratsche, Bits, Zangen und Wasserwaage stecken im Bosch-Handwerkzeug-Set in einem Koffer, und der ist bei Amazon jetzt günstig wie nie. (Technik/Hardware, Bosch)</description>
+      <pubDate>Thu, 22 Oct 2026 05:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Claude Code: KI-Agenten für die Softwareentwicklung nutzen</title>
+      <link>https://www.golem.de/news/anzeige-claude-code-ki-agenten-fuer-die-softwareentwicklung-nutzen-2610-214321.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-claude-code-ki-agenten-fuer-die-softwareentwicklung-nutzen-2610-214321.html</guid>
+      <description>Claude Code unterstützt die Softwareentwicklung mit KI-Agenten. Ein dreitägiger Workshop vermittelt Spec-Driven Development, Context Engineering und Agentic Workflows. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Thu, 22 Oct 2026 05:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>Bei Flug 15: Starship soll erstmals wie vorgesehen funktionieren</title>
       <link>https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/project-odeon-microsoft-testet-windows-einstellungen-als-store-app-2610-214172.html</guid>
       <description>Eine Test-App im Look der Einstellungen taucht im Microsoft Store auf. Microsoft könnte so Änderungen ohne Windows-Update ausliefern. (Windows 11, Microsoft)</description>
       <pubDate>Fri, 16 Oct 2026 07:48:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz: Google streicht Gemini Pro aus dem AI-Plus-Abo</title>
-      <link>https://www.golem.de/news/kuenstliche-intelligenz-google-streicht-gemini-pro-aus-dem-ai-plus-abo-2610-214169.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-google-streicht-gemini-pro-aus-dem-ai-plus-abo-2610-214169.html</guid>
-      <description>Google informiert AI-Plus-Kunden per Mail, dass sie ab dem 13. November keine Pro-Modelle mehr nutzen dürften. (Gemini, Google)</description>
-      <pubDate>Fri, 16 Oct 2026 07:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zeitmessung: Schaltsekunde wird durch Schaltstunde ersetzt</title>
-      <link>https://www.golem.de/news/zeitmessung-schaltsekunde-wird-2027-abgeschafft-2610-214168.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zeitmessung-schaltsekunde-wird-2027-abgeschafft-2610-214168.html</guid>
-      <description>Um technische Störungen zu vermeiden, entfällt künftig die Schaltsekunde. Damit endet der Ausgleich zwischen Uhrzeit und Erdrotation. (Wissen, GPS)</description>
-      <pubDate>Fri, 16 Oct 2026 07:14:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
