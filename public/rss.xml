@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 09:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 09:35:52 GMT</lastBuildDate>
+    <item>
+      <title>KI-Agent: Claude Duet arbeitet, während Nutzer offline sind</title>
+      <link>https://www.golem.de/news/ki-agent-claude-duet-arbeitet-waehrend-nutzer-offline-sind-2610-214386.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-agent-claude-duet-arbeitet-waehrend-nutzer-offline-sind-2610-214386.html</guid>
+      <description>Anthropic startet Duet als Research Preview. Der Agent arbeitet in der Cloud und fragt bei Zahlungen vorher nach. (Claude, KI)</description>
+      <pubDate>Thu, 22 Oct 2026 09:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Soundcore P31i In-Ears mit adaptivem ANC jetzt unter 40 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-soundcore-p31i-in-ears-mit-adaptivem-anc-jetzt-unter-40-euro-bei-amazon-2610-214382.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-macbook-air-und-lenovo-thinkpad-mit-extrarabatt-bei-back-market-2610-214192.html</guid>
       <description>Mit dem Macbook Air und dem Lenovo Thinkpad gibt es bei Back Market attraktive Laptops im Flash Deal. Auch andere Modelle sind reduziert. (PC &amp; Notebooks, Notebook)</description>
       <pubDate>Fri, 16 Oct 2026 12:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Optimierte Einspeisung: 1.000-Watt-Balkonkraftwerk ist keine gute Idee</title>
-      <link>https://www.golem.de/news/optimierte-einspeisung-cdu-vorschlag-zu-1-000-watt-balkonkraftwerk-ist-keine-gute-idee-2610-214190.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/optimierte-einspeisung-cdu-vorschlag-zu-1-000-watt-balkonkraftwerk-ist-keine-gute-idee-2610-214190.html</guid>
-      <description>Die Bundestagsfraktion von CDU/CSU schlägt größere Wechselrichter für Steckersolargeräte vor. Eine andere Idee wäre zielführender. (Balkonkraftwerk, GreenIT)</description>
-      <pubDate>Fri, 16 Oct 2026 12:35:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
