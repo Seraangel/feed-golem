@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 08:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:25:47 GMT</lastBuildDate>
+    <item>
+      <title>Apple: Das sagen erste Tester über das iPhone Duo</title>
+      <link>https://www.golem.de/news/apple-das-sagen-erste-tester-ueber-das-iphone-duo-2610-214378.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/apple-das-sagen-erste-tester-ueber-das-iphone-duo-2610-214378.html</guid>
+      <description>Apples iPhone Duo ist bei den ersten Testern angekommen. Positiv wird vor allem das Display hervorgehoben, es gibt aber auch Kritik. (iPhone Duo, Smartphone)</description>
+      <pubDate>Thu, 22 Oct 2026 08:21:09 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft: Verstecktes Menü verschiebt Taskleiste in Windows 11</title>
       <link>https://www.golem.de/news/microsoft-verstecktes-menue-verschiebt-taskleiste-in-windows-11-2610-214377.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/apple-und-meta-kooperieren-bei-ki-lokale-modelle-fordern-mehrere-high-end-macs-2610-214188.html</guid>
       <description>Nach den Zerwürfnissen zwischen Tim Cook und Mark Zuckerberg findet der neue Apple-Chef John Ternus in KI einen Weg zur Zusammenarbeit mit Meta. (KI, Apple)</description>
       <pubDate>Fri, 16 Oct 2026 11:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Warnung des BSI: Angriffe auf Zero-Day-Lücke in Cisco Secure Email Gateway</title>
-      <link>https://www.golem.de/news/warnung-des-bsi-angriffe-auf-zero-day-luecke-in-cisco-secure-email-gateway-2610-214183.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/warnung-des-bsi-angriffe-auf-zero-day-luecke-in-cisco-secure-email-gateway-2610-214183.html</guid>
-      <description>Der Malware-Scanner von Ciscos Secure Email Gateway reagiert fehlerhaft auf speziell gestaltete E-Mails. Hacker erhalten so Root-Rechte. (Sicherheitslücke, E-Mail)</description>
-      <pubDate>Fri, 16 Oct 2026 10:16:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
