@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 11:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:15:46 GMT</lastBuildDate>
+    <item>
+      <title>Für Rechenzentren: Nvidia will mehr Geld mit Software-Lizenzen verdienen</title>
+      <link>https://www.golem.de/news/fuer-rechenzentren-nvidia-will-mehr-geld-mit-software-lizenzen-verdienen-2610-214389.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fuer-rechenzentren-nvidia-will-mehr-geld-mit-software-lizenzen-verdienen-2610-214389.html</guid>
+      <description>Bislang stellt Nvidia Software für KI-Systeme kostenlos bereit. Das soll sich ändern, Lizenzen sollen ein neues Standbein werden. (Nvidia, KI)</description>
+      <pubDate>Thu, 22 Oct 2026 11:12:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Eightree WLAN-Steckdosen mit Alexa im Viererpack nur rund 7,50 Euro pro Stück</title>
       <link>https://www.golem.de/news/anzeige-eightree-wlan-steckdosen-mit-alexa-im-viererpack-nur-rund-7-50-euro-pro-stueck-2610-214396.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/reverse-engineering-ki-zerstoert-community-fuer-alte-spiele-2610-214201.html</guid>
       <description>KI kann den Quellcode von Spieleklassikern immer schneller rekonstruieren. Eine wichtige Plattform schränkt nun ihren Betrieb ein. (Reverse Engineering, Spiele)</description>
       <pubDate>Fri, 16 Oct 2026 14:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transurane: Superschweres Element mit Kohlenstoffmonoxid gebunden</title>
-      <link>https://www.golem.de/news/transurane-superschweres-element-mit-kohlenstoffmonoxid-gebunden-2610-214197.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/transurane-superschweres-element-mit-kohlenstoffmonoxid-gebunden-2610-214197.html</guid>
-      <description>Erstmals sind die chemischen Eigenschaften eines instabilen, superschweren Elements untersucht worden. Relativistische Effekte lassen sich beobachten. (Innovation &amp; Forschung, Wissenschaft)</description>
-      <pubDate>Fri, 16 Oct 2026 14:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
