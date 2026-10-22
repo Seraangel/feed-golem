@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 07:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:00:49 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft: Verstecktes Menü verschiebt Taskleiste in Windows 11</title>
+      <link>https://www.golem.de/news/microsoft-verstecktes-menue-verschiebt-taskleiste-in-windows-11-2610-214377.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-verstecktes-menue-verschiebt-taskleiste-in-windows-11-2610-214377.html</guid>
+      <description>Taskleiste an den Seiten oder doch lieber wie bei MacOS oben am Rand? Microsoft testet das Verschieben per Menü, nicht aber Drag-and-Drop. (Windows 11, Microsoft)</description>
+      <pubDate>Thu, 22 Oct 2026 07:57:08 GMT</pubDate>
+    </item>
     <item>
       <title>Krankmeldungen zum Release: GTA 6 soll die USA an einem Tag eine Milliarde kosten</title>
       <link>https://www.golem.de/news/krankmeldungen-zum-release-gta-6-soll-die-usa-an-einem-tag-eine-milliarde-kosten-2610-214376.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/warnung-des-bsi-angriffe-auf-zero-day-luecke-in-cisco-secure-email-gateway-2610-214183.html</guid>
       <description>Der Malware-Scanner von Ciscos Secure Email Gateway reagiert fehlerhaft auf speziell gestaltete E-Mails. Hacker erhalten so Root-Rechte. (Sicherheitslücke, E-Mail)</description>
       <pubDate>Fri, 16 Oct 2026 10:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektroauto: Einfach durchrutschen im Smart #2</title>
-      <link>https://www.golem.de/news/elektroauto-einfach-durchrutschen-im-smart-2-2610-214177.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektroauto-einfach-durchrutschen-im-smart-2-2610-214177.html</guid>
-      <description>Der kleine Smart kehrt als Elektroauto zurück. Auf dem Pariser Autosalon überraschen praktische Details, doch die Ladeangaben werfen Fragen auf. Ein Bericht von Dirk Kunde (Elektroauto, Auto)</description>
-      <pubDate>Fri, 16 Oct 2026 10:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
