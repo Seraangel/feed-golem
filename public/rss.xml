@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 11:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:45:47 GMT</lastBuildDate>
+    <item>
+      <title>Kundendaten abgeflossen: Cyberangriff legt Cloudplattform Railway lahm</title>
+      <link>https://www.golem.de/news/kundendaten-abgeflossen-cyberangriff-legt-cloudplattform-railway-lahm-2610-214393.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kundendaten-abgeflossen-cyberangriff-legt-cloudplattform-railway-lahm-2610-214393.html</guid>
+      <description>Railway ist Ziel eines Cyberangriffs geworden. Laut dem Plattformbetreiber sind Angreifer unter anderem an API-Keys und Zugangsdaten seiner Kunden gelangt. (Datenleck, API)</description>
+      <pubDate>Thu, 22 Oct 2026 11:42:05 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Vier Coding-Agenten im Testeinsatz: Warum grüne Tests noch keinen guten Code garantieren</title>
       <link>https://www.golem.de/news/vier-coding-agenten-im-testeinsatz-warum-gruene-tests-noch-keinen-guten-code-garantieren-2610-214395.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gehirn-computer-schnittstelle-was-passiert-wenn-ki-unsere-gedanken-lesen-kann-2610-214203.html</guid>
       <description>Kann KI bald Gedanken lesen? In seinem Kommentar in der Financial Times wirft John Thornhill einen Blick auf Chancen und Risiken. Unsere Leseempfehlung. Von John Thornhill (BCI, Silicon Valley)</description>
       <pubDate>Fri, 16 Oct 2026 16:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: 27-Zoll-Gaming-Monitor von AOC mit bis zu 260 Hz für unter 130 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-27-zoll-gaming-monitor-von-aoc-mit-bis-zu-260-hz-fuer-unter-130-euro-bei-amazon-2610-214204.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-27-zoll-gaming-monitor-von-aoc-mit-bis-zu-260-hz-fuer-unter-130-euro-bei-amazon-2610-214204.html</guid>
-      <description>Der AOC 27G4ZR bietet ein Fast-IPS-Panel, 240 Hz und einen höhenverstellbaren Standfuß. Bei Amazon kostet er derzeit weniger als 130 Euro. (TV &amp; Monitore, Display)</description>
-      <pubDate>Fri, 16 Oct 2026 15:49:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
