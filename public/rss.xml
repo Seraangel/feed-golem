@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 22 Oct 2026 17:45:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:20:38 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen</title>
+      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214322.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214322.html</guid>
+      <description>Linux-Systemadministration erfordert Kenntnisse von Shell, Diensten und Zugriffsrechten. Ein fünftägiger Online-Workshop vermittelt die Grundlagen. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Fri, 23 Oct 2026 05:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>DSA-Verfahren eingeleitet: EU untersucht Booking.com wegen Phishing und Fake-Angeboten</title>
       <link>https://www.golem.de/news/dsa-verfahren-eingeleitet-eu-untersucht-booking-com-wegen-phishing-und-fake-angeboten-2610-214414.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-administration-service-und-datenanalyse-2610-213913.html</guid>
       <description>Arbeitgeber aus Industrie, Gesundheitswesen und Versicherung haben sechs spannende IT-Positionen im Angebot. (Golem Karrierewelt, Unternehmenssoftware)</description>
       <pubDate>Sun, 18 Oct 2026 05:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Google Pixel Watch 4 mit LTE | Bis Halloween 144 Euro zur Watch 5 sparen</title>
-      <link>https://www.golem.de/news/anzeige-google-pixel-watch-4-mit-lte-bis-halloween-144-euro-zur-watch-5-sparen-2610-214186.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-google-pixel-watch-4-mit-lte-bis-halloween-144-euro-zur-watch-5-sparen-2610-214186.html</guid>
-      <description>Die 45-mm-Version der Pixel Watch 4 mit Mobilfunk ist auf 379 Euro gefallen. Gegenüber der neuen Pixel Watch 5 lassen sich mehr als 144 Euro sparen. (Smartwatch, Amazon)</description>
-      <pubDate>Sat, 17 Oct 2026 13:34:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
