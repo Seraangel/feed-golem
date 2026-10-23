@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 09:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:25:39 GMT</lastBuildDate>
+    <item>
+      <title>Angriff auf US-Mobilfunk: Musk, auch mit 80.000 Funkmasten klappt es nicht!</title>
+      <link>https://www.golem.de/news/angriff-auf-us-mobilfunk-musk-auch-mit-80-000-funkmasten-klappt-es-nicht-2610-214434.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-us-mobilfunk-musk-auch-mit-80-000-funkmasten-klappt-es-nicht-2610-214434.html</guid>
+      <description>Durch den Zugriff auf die Hälfte aller US-Mobilfunk-Standorte und den Aufkauf verschiedener Frequenzpakete stellt sich SpaceX weiter für den Betrieb eines eigenen Mobilfunknetzes auf. Doch das reicht alles noch nicht aus. Eine Analyse von Achim Sawall (SpaceX, Mobilfunk)</description>
+      <pubDate>Fri, 23 Oct 2026 09:22:06 GMT</pubDate>
+    </item>
     <item>
       <title>Nintendo: Switch 2 mit KI und mechanischem Knopf geknackt</title>
       <link>https://www.golem.de/news/nintendo-switch-2-mit-ki-und-mechanischem-knopf-geknackt-2610-214432.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-goedit-office-anhaenge-direkt-in-confluence-bearbeiten-2610-214055.html</guid>
       <description>Mit GoEdit lassen sich Office-Dokumente in Confluence und Jira direkt im Browser gemeinsam bearbeiten - inklusive Schutz vor gegenseitigem Überschreiben. (Software)</description>
       <pubDate>Mon, 19 Oct 2026 07:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mögliche Datenpanne: Cyberangriff auf Berliner Humboldt-Universität</title>
-      <link>https://www.golem.de/news/moegliche-datenpanne-cyberangriff-auf-berliner-humboldt-universitaet-2610-214230.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/moegliche-datenpanne-cyberangriff-auf-berliner-humboldt-universitaet-2610-214230.html</guid>
-      <description>Die Berliner Humboldt-Universität hat verdächtige Aktivitäten in ihrem Netzwerk festgestellt. Ein Datenabfluss kann nicht ausgeschlossen werden. (Cybercrime, Server)</description>
-      <pubDate>Mon, 19 Oct 2026 06:53:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
