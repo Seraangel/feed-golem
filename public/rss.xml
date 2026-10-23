@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 06:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 07:00:37 GMT</lastBuildDate>
+    <item>
+      <title>Schadcode-Attacken möglich: 12 Jahre alte Lücke gefährdet Gitlab-Server</title>
+      <link>https://www.golem.de/news/schadcode-attacken-moeglich-12-jahre-alte-luecke-gefaehrdet-gitlab-server-2610-214419.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-12-jahre-alte-luecke-gefaehrdet-gitlab-server-2610-214419.html</guid>
+      <description>Administratoren sollten dringend ihre Gitlab-Instanzen aktualisieren. Eine seit 2014 bestehende Lücke lässt Angreifer eigenen Code einschleusen. (Sicherheitslücke, Server)</description>
+      <pubDate>Fri, 23 Oct 2026 06:59:10 GMT</pubDate>
+    </item>
     <item>
       <title>Vibe Coding: Windows 98 bekommt USB 4 und Thunderbolt</title>
       <link>https://www.golem.de/news/vibe-coding-windows-98-bekommt-usb-4-und-thunderbolt-2610-214420.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-viele-kinder-reden-lieber-mit-ki-als-mit-freunden-2610-214221.html</guid>
       <description>Eine Studie zeigt, dass viele Schüler KI-Chatbots für persönliche Gespräche nutzen. Forscher beobachten einen Zusammenhang mit sozialen Ängsten. (Studien, KI)</description>
       <pubDate>Sun, 18 Oct 2026 09:29:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia: Jensen Huang kritisiert Deutschland ungewöhnlich offen</title>
-      <link>https://www.golem.de/news/nvidia-jensen-huang-kritisiert-deutschland-ungewoehnlich-offen-2610-214220.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nvidia-jensen-huang-kritisiert-deutschland-ungewoehnlich-offen-2610-214220.html</guid>
-      <description>Deutschland verfügt über enorme technische Fähigkeiten, verliert nach Ansicht des Nvidia-Chefs aber den Anschluss. Er fordert mehr Tatkraft. (Nvidia, KI)</description>
-      <pubDate>Sun, 18 Oct 2026 09:03:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
