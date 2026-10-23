@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 05:55:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:55:31 GMT</lastBuildDate>
+    <item>
+      <title>Vibe Coding: Windows 98 bekommt USB 4 und Thunderbolt</title>
+      <link>https://www.golem.de/news/vibe-coding-windows-98-bekommt-usb-4-und-thunderbolt-2610-214420.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/vibe-coding-windows-98-bekommt-usb-4-und-thunderbolt-2610-214420.html</guid>
+      <description>Ein freier, mithilfe von KI entwickelter Treiber bringt USB 4 und Thunderbolt auf Windows 98. Die Unterstützung ist allerdings experimentell. (Windows, KI)</description>
+      <pubDate>Fri, 23 Oct 2026 06:53:02 GMT</pubDate>
+    </item>
     <item>
       <title>Segelboot: Rumpf des Ferrari Hypersail fertiggestellt</title>
       <link>https://www.golem.de/news/segelboot-rumpf-des-ferrari-hypersail-fertiggestellt-2610-214418.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nvidia-jensen-huang-kritisiert-deutschland-ungewoehnlich-offen-2610-214220.html</guid>
       <description>Deutschland verfügt über enorme technische Fähigkeiten, verliert nach Ansicht des Nvidia-Chefs aber den Anschluss. Er fordert mehr Tatkraft. (Nvidia, KI)</description>
       <pubDate>Sun, 18 Oct 2026 09:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Balkonkraftwerk mit 2000 Wp für Golem-Leser jetzt 40 Prozent günstiger</title>
-      <link>https://www.golem.de/news/anzeige-balkonkraftwerk-mit-2000-wp-fuer-golem-leser-jetzt-40-prozent-guenstiger-2610-214185.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-balkonkraftwerk-mit-2000-wp-fuer-golem-leser-jetzt-40-prozent-guenstiger-2610-214185.html</guid>
-      <description>Mit einem neuen Angebot bei Kleines Kraftwerk sparen Golem-Leser exklusiv 40 Prozent auf ein Balkonkraftwerk mit 2000 Wp Leistung. (Balkonkraftwerk, Solarenergie)</description>
-      <pubDate>Sun, 18 Oct 2026 08:40:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
