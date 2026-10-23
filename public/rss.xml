@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 09:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:05:39 GMT</lastBuildDate>
+    <item>
+      <title>KI-Boom auf Pump: Wie teures Geld den Ausbau der Rechenzentren belastet</title>
+      <link>https://www.golem.de/news/ki-boom-auf-pump-wie-teures-geld-den-ausbau-der-rechenzentren-belastet-2610-214433.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-boom-auf-pump-wie-teures-geld-den-ausbau-der-rechenzentren-belastet-2610-214433.html</guid>
+      <description>KI-Chips sind begehrt, doch der Ausbau der Rechenzentren wird zur Schuldenfalle. Beim Nasdaq-Unternehmen Coreweave schlagen Anleger bereits Alarm. Wie gefährlich wird das für den KI-Boom? Eine Analyse von Björn Meschkat (Wirtschaft, Börse)</description>
+      <pubDate>Fri, 23 Oct 2026 10:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Konten und Daten gelöscht: Der Arc-Browser wird eingestellt</title>
       <link>https://www.golem.de/news/konten-und-daten-geloescht-der-arc-browser-wird-eingestellt-2610-214439.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fahrbericht-lucid-gravity-2-7-tonnen-sieben-sitze-und-erstaunlich-schnell-2610-214018.html</guid>
       <description>Der Lucid Gravity beeindruckt im Test mit viel Platz und seiner Beschleunigung. Doch im Alltag zeigen sich auch Schwächen. Von Dirk Kunde (Elektroauto, Auto)</description>
       <pubDate>Mon, 19 Oct 2026 07:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intel D270: Intels neue Grafikkarte hat 480 GByte Speicher</title>
-      <link>https://www.golem.de/news/intel-d270-intels-neue-grafikkarte-hat-480-gbyte-speicher-2610-214234.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/intel-d270-intels-neue-grafikkarte-hat-480-gbyte-speicher-2610-214234.html</guid>
-      <description>Bei der D-Serie muss Intel allerdings günstigeren VRAM einkaufen. Zudem geht das Unternehmen einen anderen Weg als AMD und Nvidia. (PC-Hardware, Intel)</description>
-      <pubDate>Mon, 19 Oct 2026 07:26:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
