@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 12:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:05:47 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Whatsapp, X und Co.: Alternativen werden gesucht, die Großen bleiben</title>
+      <link>https://www.golem.de/news/anzeige-whatsapp-x-und-co-alternativen-werden-gesucht-die-grossen-bleiben-2610-214403.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-whatsapp-x-und-co-alternativen-werden-gesucht-die-grossen-bleiben-2610-214403.html</guid>
+      <description>In Deutschland bündeln einige wenige Social-Media-Plattformen nahezu alle User. Alternativen gibt es, aber nur in der Nische. (Whatsapp, Software)</description>
+      <pubDate>Fri, 23 Oct 2026 13:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Bezahlsystem: GNU Taler gründet Betreibergesellschaft für Deutschlandstart</title>
       <link>https://www.golem.de/news/bezahlsystem-gnu-taler-gruendet-betreibergesellschaft-fuer-deutschlandstart-2610-214449.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-in-der-cybersicherheit-ohne-ki-in-der-verteidigung-ist-man-verloren-2610-214238.html</guid>
       <description>Der Sicherheitsexperte Jacob Mendel hält KI in der Cyberabwehr für unverzichtbar. Zugleich warnt er im Golem-Gespräch vor neuen Angriffsflächen und den Folgen staatlicher Regulierung. Ein Interview von Stefan Beiersmann (Security, KI)</description>
       <pubDate>Mon, 19 Oct 2026 10:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11: Microsoft blockt das eigene Dateisystem auf USB-Sticks</title>
-      <link>https://www.golem.de/news/windows-11-microsoft-blockt-das-eigene-dateisystem-auf-usb-sticks-2610-214248.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/windows-11-microsoft-blockt-das-eigene-dateisystem-auf-usb-sticks-2610-214248.html</guid>
-      <description>In ReFS formatierte Wechselmedien werden ab Januar nicht mehr mit Windows 11 funktionieren. Doch es gibt Umwege. (ReFS, Dateisystem)</description>
-      <pubDate>Mon, 19 Oct 2026 09:52:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
