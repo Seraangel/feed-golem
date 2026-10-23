@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 13:40:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:50:40 GMT</lastBuildDate>
+    <item>
+      <title>Jensen Huang: Schlaft weniger und scheitert vorwärts!</title>
+      <link>https://www.golem.de/news/jensen-huang-schlaft-weniger-und-scheitert-vorwaerts-2610-214453.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/jensen-huang-schlaft-weniger-und-scheitert-vorwaerts-2610-214453.html</guid>
+      <description>Der Nvidia-CEO überrascht mit teils kuriosen Aussagen. Ebenso spannend ist das Aufeinandertreffen von deutscher und Silicon-Valley-Mentalität. Ein Bericht von Johannes Hiltscher (Nvidia, KI)</description>
+      <pubDate>Fri, 23 Oct 2026 13:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>Bio-Robotik: Biohybrider Muskel kann springen, schwimmen, gehen</title>
       <link>https://www.golem.de/news/bio-robotik-biohybrider-muskel-kann-springen-schwimmen-gehen-2610-214451.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/betriebssystem-windows-95-speicherverwaltung-ist-in-windows-11-versteckt-2610-214250.html</guid>
       <description>Windows 95 hat ursprünglich für Sim City eine Ausnahme bei der Speicherverwaltung gemacht. Dieser Modus existiert auch in Windows 11 noch immer. (Windows 95, Microsoft)</description>
       <pubDate>Mon, 19 Oct 2026 10:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atlas: Amazon soll mit KI Gewerkschaftsrisiko überwachen</title>
-      <link>https://www.golem.de/news/atlas-amazon-soll-mit-ki-gewerkschaftsrisiko-ueberwachen-2610-214249.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/atlas-amazon-soll-mit-ki-gewerkschaftsrisiko-ueberwachen-2610-214249.html</guid>
-      <description>Mittels hunderter Datenpunkte soll eine spezielle Amazon-KI frühzeitig Gewerkschaftsbewegungen in seinen Verteilzentren entdecken. (Amazon, KI)</description>
-      <pubDate>Mon, 19 Oct 2026 10:16:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
