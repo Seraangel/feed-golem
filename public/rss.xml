@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 08:25:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 08:30:35 GMT</lastBuildDate>
+    <item>
+      <title>Preussenelektra: Alte Kernkraftwerke könnten KI-Rechenzentren werden</title>
+      <link>https://www.golem.de/news/preussenelektra-alte-kernkraftwerke-koennten-ki-rechenzentren-werden-2610-214429.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/preussenelektra-alte-kernkraftwerke-koennten-ki-rechenzentren-werden-2610-214429.html</guid>
+      <description>Alte Kraftwerksstandorte wären ideal für KI-Rechenzentren. Nvidia und Preussenelektra prüfen, ob sich Kernkraftstandorte eignen. (Energie &amp; Klima, Nvidia)</description>
+      <pubDate>Fri, 23 Oct 2026 08:29:10 GMT</pubDate>
+    </item>
     <item>
       <title>Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App</title>
       <link>https://www.golem.de/news/illegales-tuning-bei-manchen-e-scootern-reicht-ein-haken-in-der-app-2610-214428.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/geschwindigkeitslimit-starlink-drosselung-in-der-ukraine-weiterhin-aktiv-2610-214229.html</guid>
       <description>Seit dem 14. Oktober gilt eine Tempobegrenzung für Starlink in der Ukraine. Präsident Selenskyj sagt, dies behindere die Bekämpfung russischer Drohnen. (Starlink, Politik)</description>
       <pubDate>Mon, 19 Oct 2026 05:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen</title>
-      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214025.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214025.html</guid>
-      <description>Linux-Systemadministration umfasst zahlreiche Werkzeuge und Aufgaben. Ein fünftägiger Online-Workshop vermittelt die Grundlagen von Bash bis SSH. (Golem Karrierewelt, Linux)</description>
-      <pubDate>Mon, 19 Oct 2026 05:15:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
