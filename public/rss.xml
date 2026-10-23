@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 11:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 11:35:34 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Cyber Resilience Act: Die Meldepflicht mit den eingebauten Lücken</title>
+      <link>https://www.golem.de/news/cyber-resilience-act-die-meldepflicht-mit-den-eingebauten-luecken-2610-214438.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyber-resilience-act-die-meldepflicht-mit-den-eingebauten-luecken-2610-214438.html</guid>
+      <description>Seit September gilt eine neue EU-Meldepflicht für Sicherheitslücken. Doch wer ein älteres vernetztes Gerät besitzt, kann auf einem bekannten Problem sitzen bleiben - ganz legal. Eine Analyse von Jan Gruber (Security, Exfat)</description>
+      <pubDate>Fri, 23 Oct 2026 11:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>Bundesdigitalminister Karsten Wildberger: Deutschland-App liegt hinter Zeitplan zurück</title>
       <link>https://www.golem.de/news/bundesdigitalminister-karsten-wildberger-deutschland-app-liegt-hinter-zeitplan-zurueck-2610-214444.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/2-ghz-mss-band-telekom-kuendigt-mit-partnern-buendnis-gegen-spacex-an-2610-214244.html</guid>
       <description>Die Planungen von vier europäischen Netzbetreibern für eine gemeinsame Bewerbung für Spektrum für Satellitenmobilfunk kommen voran. Deutsche Telekom, Orange, Telefónica und Vodafone machen das Bündnis offiziell. (Starlink, Politik)</description>
       <pubDate>Mon, 19 Oct 2026 09:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVHBM: Für Nvidia wird Samsung zum TSMC-Kunden</title>
-      <link>https://www.golem.de/news/nvhbm-fuer-nvidia-wird-samsung-zum-tsmc-kunden-2610-214241.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nvhbm-fuer-nvidia-wird-samsung-zum-tsmc-kunden-2610-214241.html</guid>
-      <description>Eigentlich hat Samsung die Base-Dies für kommende HBM-Generationen selbst herstellen wollen. Aber Nvidia verlangt eine einheitliche Fertigung. (3D-Speicher, Nvidia)</description>
-      <pubDate>Mon, 19 Oct 2026 08:53:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
