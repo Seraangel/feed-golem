@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 15:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:05:37 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Wirtschaft in Asien: Was Silicon-Valley-Start-ups anders machen</title>
+      <link>https://www.golem.de/news/wirtschaft-in-asien-was-silicon-valley-start-ups-anders-machen-2610-214458.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wirtschaft-in-asien-was-silicon-valley-start-ups-anders-machen-2610-214458.html</guid>
+      <description>Warum entstehen im Silicon Valley mehr Tech-Giganten als in Asien? Nikkei-Asia-Chefredakteur Akito Tanaka erklärt, worauf es bei Start-ups ankommt. Von Akito Tanaka (Wirtschaft, Silicon Valley)</description>
+      <pubDate>Fri, 23 Oct 2026 16:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Ryzen-Mini-PC von Acemagic mit 16 GByte RAM für unter 350 Euro</title>
+      <link>https://www.golem.de/news/anzeige-ryzen-mini-pc-von-acemagic-mit-16-gbyte-ram-fuer-unter-350-euro-2610-214463.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ryzen-mini-pc-von-acemagic-mit-16-gbyte-ram-fuer-unter-350-euro-2610-214463.html</guid>
+      <description>Die Ryzen-5-Variante des K1-Mini-PCs von Acemagic ist bei Amazon wieder reduziert. Günstiger als jetzt war sie dieses Jahr noch nicht. (PC, Computer)</description>
+      <pubDate>Fri, 23 Oct 2026 16:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Familientarif: Spotify geht gegen unerlaubtes Kontensharing vor</title>
       <link>https://www.golem.de/news/familientarif-spotify-geht-gegen-unerlaubtes-kontensharing-vor-2610-214462.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/pwnescape-linux-luecke-laesst-angreifer-aus-vms-ausbrechen-2610-214254.html</guid>
       <description>Das Übermitteln speziell gestalteter IPv4-Pakete reicht aus, um unter Linux aus einer VM auszubrechen und Code auf dem Hostsystem auszuführen. (Sicherheitslücke, Virtualisierung)</description>
       <pubDate>Mon, 19 Oct 2026 11:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frequenzvergabe: USA drohen EU bei SpaceX-Einschränkung mit Vergeltung</title>
-      <link>https://www.golem.de/news/frequenzvergabe-usa-drohen-eu-bei-spacex-einschraenkung-mit-vergeltung-2610-214255.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/frequenzvergabe-usa-drohen-eu-bei-spacex-einschraenkung-mit-vergeltung-2610-214255.html</guid>
-      <description>Weil die EU bei der anstehenden Frequenzvergabe heimische Anbieter bevorzugen und SpaceX einschränken möchte, droht der US-Botschafter bei der EU mit schweren Vergeltungsmaßnahmen gegen europäische Konzerne. (Souveränität, Politik)</description>
-      <pubDate>Mon, 19 Oct 2026 11:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) LLMs in der Energiewende: Wenn KI Engpässe vorhersieht</title>
-      <link>https://www.golem.de/news/ki-in-der-energiewende-wenn-algorithmen-engpaesse-vorhersehen-2610-214251.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-in-der-energiewende-wenn-algorithmen-engpaesse-vorhersehen-2610-214251.html</guid>
-      <description>Mehr Solarstrom, mehr Windkraft, mehr Last im Netz: EnBW zeigt, wie KI drohende Engpässe erkennt und Netzbetreibern hilft, die Stromversorgung stabil zu halten. Ein Bericht von Otto Geißler (Energiewende, KI)</description>
-      <pubDate>Mon, 19 Oct 2026 11:30:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
