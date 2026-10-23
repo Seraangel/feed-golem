@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 16:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:35:33 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Camping-Powerbank mit 90.000 mAh für unter 40 Euro</title>
+      <link>https://www.golem.de/news/anzeige-camping-powerbank-mit-90-000-mah-fuer-unter-40-euro-2610-214465.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-camping-powerbank-mit-90-000-mah-fuer-unter-40-euro-2610-214465.html</guid>
+      <description>Eine Camping-Powerbank von Cuzar mit 90.000 mAh Kapazität und 30 W Spitzenleistung für bis zu 5 Geräte ist bei Amazon zum Tiefstpreis im Angebot. (Technik/Hardware, Amazon)</description>
+      <pubDate>Fri, 23 Oct 2026 16:34:06 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Wirtschaft in Asien: Was Silicon-Valley-Start-ups anders machen</title>
       <link>https://www.golem.de/news/wirtschaft-in-asien-was-silicon-valley-start-ups-anders-machen-2610-214458.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mmx-japan-startet-mission-zu-den-marsmonden-2610-214232.html</guid>
       <description>Mit der MMX-Marsmission werden erstmals die Monde des roten Planeten untersucht. Proben sammelt ein deutsch-französischer Roboter. Ein Bericht von Patrick Klapetz (Mars, Raumfahrt)</description>
       <pubDate>Mon, 19 Oct 2026 12:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>PwnEscape: Linux-Lücke lässt Angreifer aus VMs ausbrechen</title>
-      <link>https://www.golem.de/news/pwnescape-linux-luecke-laesst-angreifer-aus-vms-ausbrechen-2610-214254.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pwnescape-linux-luecke-laesst-angreifer-aus-vms-ausbrechen-2610-214254.html</guid>
-      <description>Das Übermitteln speziell gestalteter IPv4-Pakete reicht aus, um unter Linux aus einer VM auszubrechen und Code auf dem Hostsystem auszuführen. (Sicherheitslücke, Virtualisierung)</description>
-      <pubDate>Mon, 19 Oct 2026 11:49:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
