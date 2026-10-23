@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 09:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:45:39 GMT</lastBuildDate>
+    <item>
+      <title>KI-Agenten: Banken entdecken unbefugten Zugriff auf Kundenkonten</title>
+      <link>https://www.golem.de/news/ki-agenten-banken-entdecken-unbefugten-zugriff-auf-kundenkonten-2610-214436.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-agenten-banken-entdecken-unbefugten-zugriff-auf-kundenkonten-2610-214436.html</guid>
+      <description>Einige KI-Agenten handeln in Kundenkonten offenbar eigenmächtig. Mehrere US-Banken beschränken deshalb den Zugriff von Drittanbietern. (KI, Morgan Stanley)</description>
+      <pubDate>Fri, 23 Oct 2026 09:44:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kabelloser Ladewürfel für Apple-Geräte zum Aktionspreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-kabelloser-ladewuerfel-fuer-apple-geraete-zum-aktionspreis-bei-amazon-2610-214435.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/deutsche-microsoft-alternative-nachfrage-hat-opendesk-ueberrumpelt-2610-214235.html</guid>
       <description>Über die Nachfrage nach seiner Office-Alternative Opendesk kann sich das Zendis nicht beschweren - muss aber das Geschäftsmodell umstellen. (Souveränität, Office-Suite)</description>
       <pubDate>Mon, 19 Oct 2026 07:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>PS5-Emulation: Xbox Series X spielt PS5-Spiele</title>
-      <link>https://www.golem.de/news/ps5-emulation-xbox-series-x-spielt-ps5-spiele-per-emulator-2610-214233.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ps5-emulation-xbox-series-x-spielt-ps5-spiele-per-emulator-2610-214233.html</guid>
-      <description>Ein Entwickler hat den Emulator KytyPS5 auf die Xbox Series X gebracht. Builds gibt es bereits auf Github, nötig ist der Developer Mode. (Emulator, Spiele)</description>
-      <pubDate>Mon, 19 Oct 2026 07:09:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
