@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 10:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 10:50:38 GMT</lastBuildDate>
+    <item>
+      <title>Spionage: Niederländer sollen Kushners Iphone gehackt haben</title>
+      <link>https://www.golem.de/news/spionage-niederlaender-sollen-kushners-iphone-gehackt-haben-2610-214440.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spionage-niederlaender-sollen-kushners-iphone-gehackt-haben-2610-214440.html</guid>
+      <description>Niederländische Spione sollen Kushners Iphone gehackt haben. Sie sahen ihm angeblich beim Log-in in ein dubioses 750-Millionen-Dollar-Konto zu. (Spionage, Server)</description>
+      <pubDate>Fri, 23 Oct 2026 10:49:01 GMT</pubDate>
+    </item>
     <item>
       <title>Baukastensystem: Mercedes will Autofertigung mit austauschbaren Modulen beschleunigen</title>
       <link>https://www.golem.de/news/baukastensystem-mercedes-will-autofertigung-mit-austauschbaren-modulen-beschleunigen-2610-214441.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tim-sweeney-epic-games-stellt-spieleentwicklung-radikal-auf-ki-um-2610-214239.html</guid>
       <description>Ein goldenes Zeitalter für Computerspiele: Das erwartet Tim Sweeney durch KI. Dafür baut er Epic Games massiv um. (Epic Games, KI)</description>
       <pubDate>Mon, 19 Oct 2026 08:33:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hexacon in Paris: Erster untethered Jailbreak seit iOS 9 für Iphone 18 Pro</title>
-      <link>https://www.golem.de/news/hexacon-in-paris-erster-untethered-jailbreak-seit-ios-9-fuer-iphone-18-pro-2610-214237.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hexacon-in-paris-erster-untethered-jailbreak-seit-ios-9-fuer-iphone-18-pro-2610-214237.html</guid>
-      <description>Ein Iphone 18 Pro bleibt selbst nach einem Neustart gejailbreakt. Calif.io zeigt das auf der Hexacon, Details nennt das Team aber noch nicht. (Jailbreak, Apple)</description>
-      <pubDate>Mon, 19 Oct 2026 08:24:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
