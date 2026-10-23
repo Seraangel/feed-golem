@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 23 Oct 2026 09:45:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 09:55:36 GMT</lastBuildDate>
+    <item>
+      <title>Konten und Daten gelöscht: Der Arc-Browser wird eingestellt</title>
+      <link>https://www.golem.de/news/konten-und-daten-geloescht-der-arc-browser-wird-eingestellt-2610-214439.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/konten-und-daten-geloescht-der-arc-browser-wird-eingestellt-2610-214439.html</guid>
+      <description>Ab Ende 2027 sollen Arc-User doch die Browser-Alternative Dia nutzen. Das kommt nicht gut an. (Browser, KI)</description>
+      <pubDate>Fri, 23 Oct 2026 09:52:10 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Agenten: Banken entdecken unbefugten Zugriff auf Kundenkonten</title>
       <link>https://www.golem.de/news/ki-agenten-banken-entdecken-unbefugten-zugriff-auf-kundenkonten-2610-214436.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/intel-d270-intels-neue-grafikkarte-hat-480-gbyte-speicher-2610-214234.html</guid>
       <description>Bei der D-Serie muss Intel allerdings günstigeren VRAM einkaufen. Zudem geht das Unternehmen einen anderen Weg als AMD und Nvidia. (PC-Hardware, Intel)</description>
       <pubDate>Mon, 19 Oct 2026 07:26:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deutsche Microsoft-Alternative: Nachfrage hat Opendesk überrumpelt</title>
-      <link>https://www.golem.de/news/deutsche-microsoft-alternative-nachfrage-hat-opendesk-ueberrumpelt-2610-214235.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/deutsche-microsoft-alternative-nachfrage-hat-opendesk-ueberrumpelt-2610-214235.html</guid>
-      <description>Über die Nachfrage nach seiner Office-Alternative Opendesk kann sich das Zendis nicht beschweren - muss aber das Geschäftsmodell umstellen. (Souveränität, Office-Suite)</description>
-      <pubDate>Mon, 19 Oct 2026 07:18:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
