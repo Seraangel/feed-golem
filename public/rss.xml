@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 24 Oct 2026 11:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:30:37 GMT</lastBuildDate>
+    <item>
+      <title>Ausbruchsgefahr: OpenAI sperrt seine KI-Modelle vom Internet aus</title>
+      <link>https://www.golem.de/news/ausbruchsgefahr-openai-sperrt-seine-ki-modelle-vom-internet-aus-2610-214474.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ausbruchsgefahr-openai-sperrt-seine-ki-modelle-vom-internet-aus-2610-214474.html</guid>
+      <description>OpenAI trainiert Spitzenmodelle nur noch offline. Der Grund: KI-Agenten waren in Tests aus Sandboxes ausgebrochen. (OpenAI, KI)</description>
+      <pubDate>Sat, 24 Oct 2026 11:27:05 GMT</pubDate>
+    </item>
     <item>
       <title>Palantir: Nato-KI hat keinen Kill-Switch</title>
       <link>https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/hackerangriff-schweizer-onlinemagazin-republik-verliert-nutzerdaten-2610-214269.html</guid>
       <description>Ein ungepatchtes Analyse-Tool reißt ein Loch in eine interne Datenbank. Dort stehen auch Klarnamen zu anonym veröffentlichten Kommentaren. (Datensicherheit, Datenschutz)</description>
       <pubDate>Mon, 19 Oct 2026 16:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Social Media: Wie Youtuber ihre Videos finanzieren</title>
-      <link>https://www.golem.de/news/social-media-wie-youtuber-ihre-videos-finanzieren-2610-214259.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/social-media-wie-youtuber-ihre-videos-finanzieren-2610-214259.html</guid>
-      <description>Wie wird aus einem Youtube-Channel ein Unternehmen? Die Financial Times bietet in unserer Leseempfehlung Einblick in die Welt der Creator-Industrie. Von Alan Livsey (Youtube, Urheberrecht)</description>
-      <pubDate>Mon, 19 Oct 2026 16:00:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
