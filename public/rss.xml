@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 24 Oct 2026 11:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:20:32 GMT</lastBuildDate>
+    <item>
+      <title>Brandbrief: Bundesländer fordern Reform von Offshore-Windkraftgesetz</title>
+      <link>https://www.golem.de/news/brandbrief-bundeslaender-fordern-reform-von-offshore-windkraftgesetz-2610-214475.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/brandbrief-bundeslaender-fordern-reform-von-offshore-windkraftgesetz-2610-214475.html</guid>
+      <description>Acht Ministerpräsidenten fordern Änderungen am Offshore-Windkraftgesetz und warnen, dass der derzeitige Ansatz Investitionen verhindern könnte. (Windkraft, Bundesregierung)</description>
+      <pubDate>Sat, 24 Oct 2026 12:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>Ausbruchsgefahr: OpenAI sperrt seine KI-Modelle vom Internet aus</title>
       <link>https://www.golem.de/news/ausbruchsgefahr-openai-sperrt-seine-ki-modelle-vom-internet-aus-2610-214474.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-elektrische-mini-fahrradpumpe-von-fanttik-bei-amazon-fuer-unter-43-euro-2610-214270.html</guid>
       <description>Die Fanttik X10 Ace Tiny passt in die Trikottasche, pumpt Reifen automatisch auf und erreicht bis zu 8,3 Bar. Bei Amazon ist sie doppelt reduziert. (Technik/Hardware, Amazon)</description>
       <pubDate>Mon, 19 Oct 2026 16:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hackerangriff: Schweizer Onlinemagazin Republik verliert Nutzerdaten</title>
-      <link>https://www.golem.de/news/hackerangriff-schweizer-onlinemagazin-republik-verliert-nutzerdaten-2610-214269.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hackerangriff-schweizer-onlinemagazin-republik-verliert-nutzerdaten-2610-214269.html</guid>
-      <description>Ein ungepatchtes Analyse-Tool reißt ein Loch in eine interne Datenbank. Dort stehen auch Klarnamen zu anonym veröffentlichten Kommentaren. (Datensicherheit, Datenschutz)</description>
-      <pubDate>Mon, 19 Oct 2026 16:24:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
