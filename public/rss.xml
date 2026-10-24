@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 24 Oct 2026 10:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:00:33 GMT</lastBuildDate>
+    <item>
+      <title>Palantir: NATO-KI hat keinen Kill-Switch</title>
+      <link>https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html</guid>
+      <description>Palantir beteuert, weder das Unternehmen noch die US-Regierung das Nato-System Maven abschalten zu können. Die Sorge vor einer Abhängigkeit von US-Technologie ist hoch. (Palantir, KI)</description>
+      <pubDate>Sat, 24 Oct 2026 10:58:05 GMT</pubDate>
+    </item>
     <item>
       <title>Satellitennavigation: Nato kauft Störsender, die GPS auf 11 km lahmlegen</title>
       <link>https://www.golem.de/news/satellitennavigation-nato-kauft-stoersender-die-gps-auf-11-km-lahmlegen-2610-214472.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/social-media-wie-youtuber-ihre-videos-finanzieren-2610-214259.html</guid>
       <description>Wie wird aus einem Youtube-Channel ein Unternehmen? Die Financial Times bietet in unserer Leseempfehlung Einblick in die Welt der Creator-Industrie. Von Alan Livsey (Youtube, Urheberrecht)</description>
       <pubDate>Mon, 19 Oct 2026 16:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saros: Die Bullet Hell wird etwas langsamer</title>
-      <link>https://www.golem.de/news/saros-die-bullet-hell-wird-etwas-langsamer-2610-214268.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/saros-die-bullet-hell-wird-etwas-langsamer-2610-214268.html</guid>
-      <description>Mit einem kostenlosen Update macht Housemarque den PS5-Shooter Saros zugänglicher. Für erfahrene Spieler gibt es neue Herausforderungen. (Housemarque, Sony)</description>
-      <pubDate>Mon, 19 Oct 2026 15:46:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
