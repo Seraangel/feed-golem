@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 12:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:40:34 GMT</lastBuildDate>
+    <item>
+      <title>Rechenzentren: Google rodet Wald und lockt Wölfe in finnische Dörfer</title>
+      <link>https://www.golem.de/news/rechenzentren-google-rodet-wald-und-lockt-woelfe-in-finnische-doerfer-2610-214485.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rechenzentren-google-rodet-wald-und-lockt-woelfe-in-finnische-doerfer-2610-214485.html</guid>
+      <description>Google muss den Bau eines Rechenzentrums in Finnland wohl vorerst stoppen. 250.000 Bäume sind ohne Genehmigung entfernt worden. (Google, Rechenzentrum)</description>
+      <pubDate>Sun, 25 Oct 2026 12:39:07 GMT</pubDate>
+    </item>
     <item>
       <title>Deutschland: Volkswagen erwägt weitere Stellenstreichungen</title>
       <link>https://www.golem.de/news/deutschland-volkswagen-erwaegt-weitere-stellenstreichungen-2610-214486.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/entruempelung-per-agent-ki-agenten-entfernen-werbung-von-smart-tvs-2610-214283.html</guid>
       <description>Nutzer lassen Claude Code ihre Android-TVs entrümpeln. Das Projekt cleanyourtv schaltet etwa Werbung und Tracker ab, ohne Root. (KI, Onlinewerbung)</description>
       <pubDate>Tue, 20 Oct 2026 08:24:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ISO/IEC 27090: Neue ISO-Regel gegen Datenvergiftung von KI</title>
-      <link>https://www.golem.de/news/ki-sicherheit-neue-iso-norm-soll-ki-systeme-vor-angriffen-schuetzen-2610-214281.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-neue-iso-norm-soll-ki-systeme-vor-angriffen-schuetzen-2610-214281.html</guid>
-      <description>ISO/IEC 27090 erklärt, wie sich KI-Systeme absichern lassen. Der Leitfaden behandelt Data Poisoning und Modelldiebstahl. (Security, KI)</description>
-      <pubDate>Tue, 20 Oct 2026 07:57:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
