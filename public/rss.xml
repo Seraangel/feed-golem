@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 24 Oct 2026 14:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 06:05:35 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Sechs IT-Jobs in Datenanalyse, Entwicklung und IT-Operations</title>
+      <link>https://www.golem.de/news/anzeige-sechs-it-jobs-in-datenanalyse-entwicklung-und-it-operations-2610-214144.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sechs-it-jobs-in-datenanalyse-entwicklung-und-it-operations-2610-214144.html</guid>
+      <description>Von Data Analytics und CI/CD bis IT-Security und Operationsmanagement: Sechs neue IT-Jobs bieten anspruchsvolle Aufgaben und Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Sun, 25 Oct 2026 06:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>App-Store: iPhone Duo als Toaster</title>
       <link>https://www.golem.de/news/app-store-iphone-duo-als-toaster-2610-214479.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/evakuierung-ukrainische-drohne-holt-erstmals-soldaten-vom-gefechtsfeld-2610-214274.html</guid>
       <description>Die Ukraine hat erstmals verwundete Soldaten per Drohne von der Front in der Sicherheit gebracht. (Drohne, Politik)</description>
       <pubDate>Tue, 20 Oct 2026 05:37:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Penetrationstests: Schwachstellen in Webanwendungen prüfen</title>
-      <link>https://www.golem.de/news/anzeige-penetrationstests-schwachstellen-in-webanwendungen-pruefen-2610-214026.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-penetrationstests-schwachstellen-in-webanwendungen-pruefen-2610-214026.html</guid>
-      <description>Sicherheitslücken in Webanwendungen bleiben ohne gezielte Tests leicht unentdeckt. Ein zweitägiger Workshop vermittelt den praktischen Einstieg ins Penetration Testing. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Tue, 20 Oct 2026 05:15:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
