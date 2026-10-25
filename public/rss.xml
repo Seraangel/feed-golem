@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 11:40:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 12:10:34 GMT</lastBuildDate>
+    <item>
+      <title>Deutschland: Volkswagen erwägt weitere Stellenstreichungen</title>
+      <link>https://www.golem.de/news/deutschland-volkswagen-erwaegt-weitere-stellenstreichungen-2610-214486.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/deutschland-volkswagen-erwaegt-weitere-stellenstreichungen-2610-214486.html</guid>
+      <description>Bei Volkswagen stehen weitere Stellenstreichungen im Raum. Zugleich wächst der Streit über Transfergesellschaften und öffentliche Mittel. (VW, Wirtschaft)</description>
+      <pubDate>Sun, 25 Oct 2026 12:08:08 GMT</pubDate>
+    </item>
     <item>
       <title>Deutscher Standort bedroht: Audi baut großes Werk in den USA</title>
       <link>https://www.golem.de/news/deutscher-standort-bedroht-audi-baut-grosses-werk-in-den-usa-2610-214484.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-neue-iso-norm-soll-ki-systeme-vor-angriffen-schuetzen-2610-214281.html</guid>
       <description>ISO/IEC 27090 erklärt, wie sich KI-Systeme absichern lassen. Der Leitfaden behandelt Data Poisoning und Modelldiebstahl. (Security, KI)</description>
       <pubDate>Tue, 20 Oct 2026 07:57:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wegen Anthropic: Eric Schmidt könnte bald 20 Milliarden Dollar reicher werden</title>
-      <link>https://www.golem.de/news/wegen-anthropic-eric-schmidt-koennte-bald-20-milliarden-dollar-reicher-werden-2610-214280.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wegen-anthropic-eric-schmidt-koennte-bald-20-milliarden-dollar-reicher-werden-2610-214280.html</guid>
-      <description>Der Google-Gründer hat wohl Anteile an Anthropic gekauft, als dieses noch nicht einmal eine Milliarde Dollar wert war. (Eric Schmidt, KI)</description>
-      <pubDate>Tue, 20 Oct 2026 07:38:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
