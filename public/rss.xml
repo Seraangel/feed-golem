@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 09:45:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 10:05:32 GMT</lastBuildDate>
+    <item>
+      <title>Starlink-Drosselung: Musk bezeichnet Ukraine indirekt als Kriegstreiber</title>
+      <link>https://www.golem.de/news/starlink-drosselung-musk-bezeichnet-ukraine-indirekt-als-kriegstreiber-2610-214481.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/starlink-drosselung-musk-bezeichnet-ukraine-indirekt-als-kriegstreiber-2610-214481.html</guid>
+      <description>In einem X-Post wird klar, dass Musk wohl die Drosselung von Starlink beauftragt hat. Seine Aussage: "Möget ihr in der Hölle schmoren." (Elon Musk, Politik)</description>
+      <pubDate>Sun, 25 Oct 2026 10:04:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Beliebteste elektrische Luftpumpe bei Amazon jetzt zum Angebotspreis</title>
       <link>https://www.golem.de/news/anzeige-beliebteste-elektrische-luftpumpe-bei-amazon-jetzt-zum-angebotspreis-2610-214461.html</link>
@@ -93,7 +100,7 @@
       <title>Palantir: Nato-KI hat keinen Kill-Switch</title>
       <link>https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html</guid>
-      <description>Palantir beteuert, weder das Unternehmen noch die US-Regierung das Nato-System Maven abschalten zu können. Die Sorge vor einer Abhängigkeit von US-Technologie ist hoch. (Palantir, KI)</description>
+      <description>Palantir beteuert, dass weder das Unternehmen noch die US-Regierung das Nato-System Maven abschalten könnten. Die Sorge vor einer Abhängigkeit von US-Technologie ist hoch. (Palantir, KI)</description>
       <pubDate>Sat, 24 Oct 2026 10:58:05 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/einbruchschutz-das-smart-home-im-urlaubsmodus-2610-211324.html</guid>
       <description>Mit den richtigen Routinen überwachen Smart-Home-Systeme Haus und Wohnung, warnen vor Einbrüchen und simulieren Anwesenheit. Ein Ratgebertext von Andre Reinhardt (Urlaub, Smart Home)</description>
       <pubDate>Tue, 20 Oct 2026 07:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schadcode-Attacken möglich: Kritische Nginx-Lücken gefährden Webserver</title>
-      <link>https://www.golem.de/news/schadcode-attacken-moeglich-kritische-nginx-luecken-gefaehrden-webserver-2610-214277.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-kritische-nginx-luecken-gefaehrden-webserver-2610-214277.html</guid>
-      <description>Drei Sicherheitslücken in Nginx lassen Angreifer zahlreiche Webserver lahmlegen oder Schadcode einschleusen. Admins sollten zügig patchen. (Sicherheitslücke, Server)</description>
-      <pubDate>Tue, 20 Oct 2026 06:55:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
