@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 11:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:40:37 GMT</lastBuildDate>
+    <item>
+      <title>Deutscher Standort bedroht: Audi baut großes Werk in den USA</title>
+      <link>https://www.golem.de/news/deutscher-standort-bedroht-audi-baut-grosses-werk-in-den-usa-2610-214484.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/deutscher-standort-bedroht-audi-baut-grosses-werk-in-den-usa-2610-214484.html</guid>
+      <description>Audi plant ein neues SUV-Werk im US-Bundesstaat Georgia und will dafür rund vier Milliarden US-Dollar investieren. Trump hat das Projekt angekündigt. (Audi, Auto)</description>
+      <pubDate>Sun, 25 Oct 2026 11:38:05 GMT</pubDate>
+    </item>
     <item>
       <title>Keine Ablösung von Microsoft Office: Dänemark beendet Collabora-Test</title>
       <link>https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wegen-anthropic-eric-schmidt-koennte-bald-20-milliarden-dollar-reicher-werden-2610-214280.html</guid>
       <description>Der Google-Gründer hat wohl Anteile an Anthropic gekauft, als dieses noch nicht einmal eine Milliarde Dollar wert war. (Eric Schmidt, KI)</description>
       <pubDate>Tue, 20 Oct 2026 07:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smart Home: Google-Home-Lautsprecher laden Unmengen an unbekannten Daten herunter</title>
-      <link>https://www.golem.de/news/smart-home-google-home-lautsprecher-laden-unmengen-an-unbekannten-daten-herunter-2610-214279.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smart-home-google-home-lautsprecher-laden-unmengen-an-unbekannten-daten-herunter-2610-214279.html</guid>
-      <description>Smart Speaker sind mit dem Internet verbunden und laden daher Daten im Hintergrund herunter. Googles Home-Lautsprecher übertreiben es aber. (Google Home, Google)</description>
-      <pubDate>Tue, 20 Oct 2026 07:30:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
