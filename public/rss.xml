@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 09:30:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 09:45:35 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Beliebteste elektrische Luftpumpe bei Amazon jetzt zum Angebotspreis</title>
+      <link>https://www.golem.de/news/anzeige-beliebteste-elektrische-luftpumpe-bei-amazon-jetzt-zum-angebotspreis-2610-214461.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebteste-elektrische-luftpumpe-bei-amazon-jetzt-zum-angebotspreis-2610-214461.html</guid>
+      <description>Die beliebteste elektrische Luftpumpe ist bei Amazon heute noch im Sonderangebot und liegt über 6 Euro unter dem letzten Preis. (Technik/Hardware)</description>
+      <pubDate>Sun, 25 Oct 2026 09:40:03 GMT</pubDate>
+    </item>
     <item>
       <title>Jerryrigeverything: Härtetest mit Sand zerstört das iPhone Duo</title>
       <link>https://www.golem.de/news/jerryrigeverything-haertetest-mit-sand-zerstoert-das-iphone-duo-2610-214480.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-kritische-nginx-luecken-gefaehrden-webserver-2610-214277.html</guid>
       <description>Drei Sicherheitslücken in Nginx lassen Angreifer zahlreiche Webserver lahmlegen oder Schadcode einschleusen. Admins sollten zügig patchen. (Sicherheitslücke, Server)</description>
       <pubDate>Tue, 20 Oct 2026 06:55:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Umfrage: KI ist schnell fertig, die Arbeit aber noch lange nicht</title>
-      <link>https://www.golem.de/news/umfrage-ki-ist-schnell-fertig-die-arbeit-aber-noch-lange-nicht-2610-214276.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/umfrage-ki-ist-schnell-fertig-die-arbeit-aber-noch-lange-nicht-2610-214276.html</guid>
-      <description>Fast jeder Zweite erhält KI-Ergebnisse, die stark überarbeitet werden müssen. Ein Drittel gibt KI-Inhalte weiter, ohne sie ganz zu lesen. (Studien, KI)</description>
-      <pubDate>Tue, 20 Oct 2026 06:44:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
