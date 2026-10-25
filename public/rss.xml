@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 10:40:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 11:10:35 GMT</lastBuildDate>
+    <item>
+      <title>Keine Ablösung von Microsoft Office: Dänemark beendet Collabora-Test</title>
+      <link>https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html</guid>
+      <description>Dänemark hat einen Test mit Collabora beendet. Damit bleibt offen, wie realistisch der Abschied von Microsoft Office in Behörden ist. (Office, Office-Suite)</description>
+      <pubDate>Sun, 25 Oct 2026 11:07:05 GMT</pubDate>
+    </item>
     <item>
       <title>Local Wikipedia: Suchmaschine zeigt interessante Orte in Laufreichweite an</title>
       <link>https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smart-home-google-home-lautsprecher-laden-unmengen-an-unbekannten-daten-herunter-2610-214279.html</guid>
       <description>Smart Speaker sind mit dem Internet verbunden und laden daher Daten im Hintergrund herunter. Googles Home-Lautsprecher übertreiben es aber. (Google Home, Google)</description>
       <pubDate>Tue, 20 Oct 2026 07:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Echotribble: US-Armee will KI als Hacker einsetzen</title>
-      <link>https://www.golem.de/news/echotribble-us-armee-will-ki-agenten-als-hacker-losschicken-2610-214278.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/echotribble-us-armee-will-ki-agenten-als-hacker-losschicken-2610-214278.html</guid>
-      <description>Das Army Cyber Command lässt autonome KI-Agenten für Hackerangriffe bauen. Der Anbieter für Echotribble steht schon fest. (Militär, KI)</description>
-      <pubDate>Tue, 20 Oct 2026 07:15:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
