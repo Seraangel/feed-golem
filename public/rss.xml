@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 25 Oct 2026 12:40:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 13:15:36 GMT</lastBuildDate>
+    <item>
+      <title>Risikoprüfungen werden Pflicht: China will KI-Jobverluste abfedern</title>
+      <link>https://www.golem.de/news/risikopruefungen-werden-pflicht-china-will-ki-jobverluste-abfedern-2610-214487.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/risikopruefungen-werden-pflicht-china-will-ki-jobverluste-abfedern-2610-214487.html</guid>
+      <description>China will den KI-Einsatz am Arbeitsplatz steuern und Beschäftigte mit Risikoprüfungen, Umschulung und Schutz vor den Folgen der Automatisierung absichern. (KI, Politik)</description>
+      <pubDate>Sun, 25 Oct 2026 13:10:09 GMT</pubDate>
+    </item>
     <item>
       <title>Rechenzentren: Google rodet Wald und lockt Wölfe in finnische Dörfer</title>
       <link>https://www.golem.de/news/rechenzentren-google-rodet-wald-und-lockt-woelfe-in-finnische-doerfer-2610-214485.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-turtle-beach-stealth-600-gaming-headset-bei-amazon-jetzt-fuer-nur-66-euro-2610-214284.html</guid>
       <description>Funk und Bluetooth gleichzeitig plus 80 Stunden Akku machen das Turtle Beach Stealth zum echten und jetzt günstigen Dauerläufer. (Technik/Hardware, Headset)</description>
       <pubDate>Tue, 20 Oct 2026 08:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Entrümpelung per Agent: KI-Agenten entfernen Werbung von Smart-TVs</title>
-      <link>https://www.golem.de/news/entruempelung-per-agent-ki-agenten-entfernen-werbung-von-smart-tvs-2610-214283.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/entruempelung-per-agent-ki-agenten-entfernen-werbung-von-smart-tvs-2610-214283.html</guid>
-      <description>Nutzer lassen Claude Code ihre Android-TVs entrümpeln. Das Projekt cleanyourtv schaltet etwa Werbung und Tracker ab, ohne Root. (KI, Onlinewerbung)</description>
-      <pubDate>Tue, 20 Oct 2026 08:24:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
