@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 09:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:45:32 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11: Microsoft testet Recall ohne automatische Screenshots</title>
+      <link>https://www.golem.de/news/windows-11-microsoft-testet-recall-ohne-automatische-screenshots-2610-214496.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-11-microsoft-testet-recall-ohne-automatische-screenshots-2610-214496.html</guid>
+      <description>Statt im Sekundentakt den gesamten Bildschirm aufzunehmen, soll die kommende Context Vault für Windows 11 mehr Kontrolle über Daten bieten. (Windows 11, Microsoft)</description>
+      <pubDate>Mon, 26 Oct 2026 09:43:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: PS5-Controller DualSense Edge jetzt erstmals unter 160 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ps5-controller-dualsense-edge-jetzt-erstmals-unter-160-euro-bei-amazon-2610-214503.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/zweite-staffel-cyberpunk-edgerunners-diese-fortsetzung-tut-richtig-weh-2610-214282.html</guid>
       <description>Cyberpunk: Edgerunners erzählt von Trauer, Menschlichkeit und Verlust. Die zweite Staffel ist ebenso spektakulär wie herzzerreißend. Eine Rezension von Peter Osteried (Cyberpunk, Spiele)</description>
       <pubDate>Tue, 20 Oct 2026 10:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektroauto: Toyota Corolla aus China wird auch elektrisch</title>
-      <link>https://www.golem.de/news/toyota-neuer-corolla-wird-auch-elektrisch-und-kommt-aus-china-2610-214291.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/toyota-neuer-corolla-wird-auch-elektrisch-und-kommt-aus-china-2610-214291.html</guid>
-      <description>Toyota will seinen neuen Corolla als vollelektrische Version anbieten - aber auch als Verbrenner und Hybrid. (Toyota, Elektroauto)</description>
-      <pubDate>Tue, 20 Oct 2026 09:58:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
