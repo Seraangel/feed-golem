@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 07:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:30:36 GMT</lastBuildDate>
+    <item>
+      <title>Personal Intelligence: Google macht Gmail und Fotos für Werbung nutzbar</title>
+      <link>https://www.golem.de/news/personal-intelligence-google-macht-gmail-und-fotos-fuer-werbung-nutzbar-2610-214497.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/personal-intelligence-google-macht-gmail-und-fotos-fuer-werbung-nutzbar-2610-214497.html</guid>
+      <description>Google ändert seine Datenschutzerklärung. Wer Gmail und Fotos mit Personal Intelligence verbindet, sieht womöglich gezielte Werbung. (Google, Gmail)</description>
+      <pubDate>Mon, 26 Oct 2026 08:28:09 GMT</pubDate>
+    </item>
     <item>
       <title>Zuverlässigkeit: Starlink wird zur Warnung für Amerikas Kunden</title>
       <link>https://www.golem.de/news/zuverlaessigkeit-starlink-wird-zur-warnung-fuer-amerikas-kunden-2610-214488.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/urteil-zu-google-earth-gericht-verbietet-google-den-3d-blick-in-den-garten-2610-214290.html</guid>
       <description>Das Landgericht Frankfurt untersagt Google 3D-Luftbilder eines Wohnhauses samt Garten. Das Urteil ist noch nicht rechtskräftig. (Privatsphäre, Google Earth)</description>
       <pubDate>Tue, 20 Oct 2026 09:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia: Grafikkarten-Bios ändern ohne Flashen möglich</title>
-      <link>https://www.golem.de/news/nvidia-grafikkarten-bios-aendern-ohne-flashen-moeglich-2610-214287.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nvidia-grafikkarten-bios-aendern-ohne-flashen-moeglich-2610-214287.html</guid>
-      <description>Ein neues Open-Source-Werkzeug erlaubt Änderungen am VBios von Geforce-Grafikkarten, ohne die Firmware zu überschreiben. (Geforce RTX, Grafikkarten)</description>
-      <pubDate>Tue, 20 Oct 2026 09:14:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
