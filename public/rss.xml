@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 18:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:55:40 GMT</lastBuildDate>
+    <item>
+      <title>KI-Kosten: Microsoft bietet bis zu 60.000 Mitarbeitern Abfindungen an</title>
+      <link>https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html</guid>
+      <description>Microsoft will Mitarbeiter loswerden und macht ihnen Angebote. Potenziell könnten 60.000 Beschäftigte annehmen. (Microsoft, Rechenzentrum)</description>
+      <pubDate>Mon, 26 Oct 2026 18:50:03 GMT</pubDate>
+    </item>
     <item>
       <title>Krieg: Ukraine trifft russisches Finanzamts-Rechenzentrum</title>
       <link>https://www.golem.de/news/krieg-ukraine-trifft-russisches-finanzamts-rechenzentrum-2610-214530.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anthropic-us-stopp-fuer-ki-erst-ab-milliardenrisiko-oder-vielen-todesopfern-2610-214326.html</guid>
       <description>Anthropic schlägt KI-Regeln vor. Kritik gibt es an den hohen Schwellen, ab denen der Staat eingreifen dürfte. (Anthropic, KI)</description>
       <pubDate>Wed, 21 Oct 2026 06:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Privatsphäre: Gericht zwingt Google zur Verpixelung von Luftbildern</title>
-      <link>https://www.golem.de/news/privatsphaere-gericht-zwingt-google-zur-verpixelung-von-luftbildern-2610-214329.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/privatsphaere-gericht-zwingt-google-zur-verpixelung-von-luftbildern-2610-214329.html</guid>
-      <description>Das Landgericht Frankfurt hat Google zur Löschung von Luftbildern eines Grundstücks verpflichtet. Durch die Bilder werde die Privatsphäre verletzt. (Google Maps, Google)</description>
-      <pubDate>Wed, 21 Oct 2026 05:53:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
