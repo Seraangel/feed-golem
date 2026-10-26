@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 10:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:05:38 GMT</lastBuildDate>
+    <item>
+      <title>M5 Ultra: Der Mac Studio macht bei KI reinen GPUs Konkurrenz</title>
+      <link>https://www.golem.de/news/m5-ultra-der-mac-studio-macht-bei-ki-reinen-gpus-konkurrenz-2610-214325.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/m5-ultra-der-mac-studio-macht-bei-ki-reinen-gpus-konkurrenz-2610-214325.html</guid>
+      <description>Apples Mac Studio überzeugt bei KI und rechenintensiven Aufgaben. Das kann den hohen Preis relativieren - es kann aber bessere Alternativen geben. Ein Test von Johannes Hiltscher (Apple, Prozessor)</description>
+      <pubDate>Mon, 26 Oct 2026 11:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Schadcode-Attacken möglich: Lücke in Brotli-Decoder gefährdet zahllose Anwendungen</title>
       <link>https://www.golem.de/news/schadcode-attacken-moeglich-luecke-in-brotli-decoder-gefaehrdet-zahllose-anwendungen-2610-214507.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gesichtserkennung-einmal-erfasst-immer-erkennbar-2610-214297.html</guid>
       <description>Gesichtserkennung ersetzt Bordkarten, kontrolliert Stadionbesucher und scannt Unbeteiligte. Wo die Technik gefährlich wird, was erlaubt ist und warum ein Datenleck besonders schwer wiegt. Eine Analyse von Klaus Manhart (Gesichtserkennung, Datenschutz)</description>
       <pubDate>Tue, 20 Oct 2026 11:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Millionen Router angreifbar: 16 Jahre alter Broadcom-Bug gefährdet WLAN-Netze</title>
-      <link>https://www.golem.de/news/millionen-router-angreifbar-16-jahre-alter-broadcom-bug-gefaehrdet-wlan-netze-2610-214298.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/millionen-router-angreifbar-16-jahre-alter-broadcom-bug-gefaehrdet-wlan-netze-2610-214298.html</guid>
-      <description>Angreifer können viele Router auf Broadcom-Basis per WLAN kompromittieren. Die Kenntnis des Sicherheitsschlüssels ist dafür nicht erforderlich. (Sicherheitslücke, WLAN)</description>
-      <pubDate>Tue, 20 Oct 2026 11:16:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
