@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 07:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 07:35:35 GMT</lastBuildDate>
+    <item>
+      <title>Zuverlässigkeit: Starlink wird zur Warnung für Amerikas Kunden</title>
+      <link>https://www.golem.de/news/zuverlaessigkeit-starlink-wird-zur-warnung-fuer-amerikas-kunden-2610-214488.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zuverlaessigkeit-starlink-wird-zur-warnung-fuer-amerikas-kunden-2610-214488.html</guid>
+      <description>Die Starlink-Störung in der Ukraine ist vorbei. Offen bleibt, wer über kritische US-Infrastruktur verfügt und wie verlässlich sie ist. Ein IMHO von Andreas Donath (Ukrainekrieg, Politik)</description>
+      <pubDate>Mon, 26 Oct 2026 07:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Sicherheit: Polizei stoppt Cybertruck auf der A99</title>
       <link>https://www.golem.de/news/sicherheit-polizei-stoppt-cybertruck-auf-der-a99-2610-214491.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nvidia-grafikkarten-bios-aendern-ohne-flashen-moeglich-2610-214287.html</guid>
       <description>Ein neues Open-Source-Werkzeug erlaubt Änderungen am VBios von Geforce-Grafikkarten, ohne die Firmware zu überschreiben. (Geforce RTX, Grafikkarten)</description>
       <pubDate>Tue, 20 Oct 2026 09:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Datenanalyse für die Polizei: Celonis nimmt Palantir mit Metropolis ins Visier</title>
-      <link>https://www.golem.de/news/datenanalyse-fuer-die-polizei-celonis-nimmt-palantir-mit-metropolis-ins-visier-2610-214286.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/datenanalyse-fuer-die-polizei-celonis-nimmt-palantir-mit-metropolis-ins-visier-2610-214286.html</guid>
-      <description>Celonis investiert über 100 Millionen Euro in Polizei-Software. Die Münchner wollen Palantir Konkurrenz machen. (Palantir, Security)</description>
-      <pubDate>Tue, 20 Oct 2026 08:58:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
