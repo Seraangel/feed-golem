@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 13:10:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:50:37 GMT</lastBuildDate>
+    <item>
+      <title>Militär: Helsing stellt KI-Verteidigung und Abfangflugkörper gegen Drohnen vor</title>
+      <link>https://www.golem.de/news/militaer-helsing-stellt-ki-verteidigung-und-abfangflugkoerper-gegen-drohnen-vor-2610-214518.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/militaer-helsing-stellt-ki-verteidigung-und-abfangflugkoerper-gegen-drohnen-vor-2610-214518.html</guid>
+      <description>Helsings neue Lenkflugkörper mit Radarsuchköpfen sollen zusammen mit dem KI-Luftverteidigungssystem Contra Drohnen ausschalten. (Militär, Politik)</description>
+      <pubDate>Mon, 26 Oct 2026 13:47:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Schwenkbare Überwachungskamera für Innenräume günstig bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-schwenkbare-ueberwachungskamera-fuer-innenraeume-guenstig-bei-amazon-2610-214515.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/web-zertifikate-kompromittierte-schluessel-gefaehrden-tls-verbindungen-2610-214314.html</guid>
       <description>Acht private Schlüssel der Zertifizierungsstelle Emudhra, mit denen sich Webseitenzertifikate signieren lassen, können mit trivialen Methoden geknackt werden. (TLS, Verschlüsselung)</description>
       <pubDate>Tue, 20 Oct 2026 14:42:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mit Vodafone: Hochtief will KI-Gigafactory bauen</title>
-      <link>https://www.golem.de/news/megarechenzentren-hochtief-und-vodafone-planen-bewerbung-fuer-ki-gigafactory-2610-214311.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/megarechenzentren-hochtief-und-vodafone-planen-bewerbung-fuer-ki-gigafactory-2610-214311.html</guid>
-      <description>Die EU fördert den Aufbau europäischer KI-Megarechenzentren mit Milliardensummen. Neben der Telekom, Schwarz Digits und Ionos bringt sich nun auch der Essener Baukonzern Hochtief zusammen mit Vodafone ein. (Rechenzentrum, Vodafone)</description>
-      <pubDate>Tue, 20 Oct 2026 14:19:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
