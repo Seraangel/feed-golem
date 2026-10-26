@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 08:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:15:37 GMT</lastBuildDate>
+    <item>
+      <title>KI-Film: Grok veröffentlicht sieben Minuten seiner Odyssee</title>
+      <link>https://www.golem.de/news/ki-film-grok-veroeffentlicht-sieben-minuten-seiner-odyssee-2610-214500.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-film-grok-veroeffentlicht-sieben-minuten-seiner-odyssee-2610-214500.html</guid>
+      <description>Elon Musk hatte einen abendfüllenden Film angekündigt. Nun zeigt Grok Episode 1 seiner KI-Odyssee, gemacht mit Wonder Studios. (Grok, Elon Musk)</description>
+      <pubDate>Mon, 26 Oct 2026 09:12:01 GMT</pubDate>
+    </item>
     <item>
       <title>Wegen Schadcode-Lücke: Forscher legen millionenfach installierten Updater still</title>
       <link>https://www.golem.de/news/wegen-schadcode-luecke-forscher-legen-millionenfach-installierten-updater-still-2610-214498.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartes-tuerschloss-mit-gesichtserkennung-zum-sparpreis-bei-amazon-2610-214293.html</guid>
       <description>Ein smartes Türschloss von Switchbot mit Gesichts- und Handvenenerkennung sowie Code, Fingerabdruck und NFC ist bei Amazon reduziert. (Türschloss, Gesichtserkennung)</description>
       <pubDate>Tue, 20 Oct 2026 09:48:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Reports überlasten Curl-Entwickler: "Wir müssen handeln, um zu überleben"</title>
-      <link>https://www.golem.de/news/ki-reports-ueberlasten-curl-entwickler-wir-muessen-handeln-um-zu-ueberleben-2610-214288.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-reports-ueberlasten-curl-entwickler-wir-muessen-handeln-um-zu-ueberleben-2610-214288.html</guid>
-      <description>Die Maintainer von Curl können die Vielzahl an KI-Bug-Reports nicht mehr bewältigen. Zum Selbstschutz greifen sie nun zu drastischen Maßnahmen. (Sicherheitslücke, KI)</description>
-      <pubDate>Tue, 20 Oct 2026 09:40:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
