@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 12:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:35:36 GMT</lastBuildDate>
+    <item>
+      <title>(g+) IT-Arbeitsmarkt: Mit welchen Tech-Stacks Entwickler jetzt gefragt sind</title>
+      <link>https://www.golem.de/news/it-arbeitsmarkt-mit-welchen-tech-stacks-entwickler-jetzt-gefragt-sind-2610-214504.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/it-arbeitsmarkt-mit-welchen-tech-stacks-entwickler-jetzt-gefragt-sind-2610-214504.html</guid>
+      <description>SAP, Cloud-Betrieb und IT-Sicherheit statt angesagter Frameworks: Welche Kompetenzen Unternehmen tatsächlich nachfragen und worauf IT-Freelancer jetzt setzen sollten. Ein Ratgebertext von Pierre Wilken (Arbeit, Java)</description>
+      <pubDate>Mon, 26 Oct 2026 12:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Kurioses Gefährt: Polizei stoppt Sofa auf Lime-Rollern</title>
       <link>https://www.golem.de/news/kurioses-gefaehrt-polizei-stoppt-sofa-auf-lime-rollern-2610-214514.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-4k-nachtsichtgeraet-mit-7-stufen-ir-fuer-nur-69-99-euro-bei-amazon-2610-214304.html</guid>
       <description>Ein Nachtsichtgerät mit 4K-Auflösung, 7-Stufen-IR, 10-fachem Digitalzoom und 3-Zoll-Display gibt es zum Aktionspreis bei Amazon. (Technik/Hardware)</description>
       <pubDate>Tue, 20 Oct 2026 13:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google-Cloud-Störung: Revolut meldet gestörte Kartenzahlungen und Bargeldabhebungen</title>
-      <link>https://www.golem.de/news/onlinebank-revolut-meldet-probleme-wegen-ausfall-von-google-cloud-2610-214308.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/onlinebank-revolut-meldet-probleme-wegen-ausfall-von-google-cloud-2610-214308.html</guid>
-      <description>Die Onlinebank Revolut meldet seit dem Morgen Probleme mit einer Reihe ihrer Dienste. Grund ist ein Stromausfall bei Google Cloud. (Revolut, Google)</description>
-      <pubDate>Tue, 20 Oct 2026 13:12:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
