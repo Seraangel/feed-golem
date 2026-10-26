@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 10:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:45:36 GMT</lastBuildDate>
+    <item>
+      <title>Schadcode-Attacken möglich: Lücke in Brotli-Decoder gefährdet zahllose Anwendungen</title>
+      <link>https://www.golem.de/news/schadcode-attacken-moeglich-luecke-in-brotli-decoder-gefaehrdet-zahllose-anwendungen-2610-214507.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-luecke-in-brotli-decoder-gefaehrdet-zahllose-anwendungen-2610-214507.html</guid>
+      <description>Angreifer können aufgrund einer Sicherheitslücke in Brotli potenziell Schadcode über unzählige Apps einschleusen. Entwickler müssen dringend handeln. (Sicherheitslücke, FFmpeg)</description>
+      <pubDate>Mon, 26 Oct 2026 10:44:09 GMT</pubDate>
+    </item>
     <item>
       <title>Laut Elon Musk: Neoclouds bekommen kaum noch Geld am Anleihenmarkt</title>
       <link>https://www.golem.de/news/laut-elon-musk-neoclouds-bekommen-kaum-noch-geld-am-anleihenmarkt-2610-214506.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/millionen-router-angreifbar-16-jahre-alter-broadcom-bug-gefaehrdet-wlan-netze-2610-214298.html</guid>
       <description>Angreifer können viele Router auf Broadcom-Basis per WLAN kompromittieren. Die Kenntnis des Sicherheitsschlüssels ist dafür nicht erforderlich. (Sicherheitslücke, WLAN)</description>
       <pubDate>Tue, 20 Oct 2026 11:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Fosi Audio ZA3 Monoblock-Verstärker mit XLR wieder zum Prime-Day-Preis</title>
-      <link>https://www.golem.de/news/anzeige-fosi-audio-za3-monoblock-verstaerker-mit-xlr-wieder-zum-prime-day-preis-2610-214296.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fosi-audio-za3-monoblock-verstaerker-mit-xlr-wieder-zum-prime-day-preis-2610-214296.html</guid>
-      <description>Symmetrischer XLR-Eingang, Trigger und Mono-Modus machen den Fosi Audio ZA3 zur Ausnahme unter den Mini-Verstärkern. (Technik/Hardware, Audio)</description>
-      <pubDate>Tue, 20 Oct 2026 10:50:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
