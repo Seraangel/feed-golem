@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 10:10:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:35:36 GMT</lastBuildDate>
+    <item>
+      <title>Laut Elon Musk: Neoclouds bekommen kaum noch Geld am Anleihenmarkt</title>
+      <link>https://www.golem.de/news/laut-elon-musk-neoclouds-bekommen-kaum-noch-geld-am-anleihenmarkt-2610-214506.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/laut-elon-musk-neoclouds-bekommen-kaum-noch-geld-am-anleihenmarkt-2610-214506.html</guid>
+      <description>SpaceX soll dennoch eine Milliardenfinanzierung für neue GPUs erhalten. Viel Rechenleistung könnte 2027 zudem ungenutzt bleiben. (KI, Rechenzentrum)</description>
+      <pubDate>Mon, 26 Oct 2026 10:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>Cyberangriffe: Pentagon plant eine geheime Sabotagetruppe gegen Rüstungsvorhaben</title>
       <link>https://www.golem.de/news/cyberangriffe-pentagon-plant-eine-geheime-sabotagetruppe-gegen-ruestungsvorhaben-2610-214501.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-fosi-audio-za3-monoblock-verstaerker-mit-xlr-wieder-zum-prime-day-preis-2610-214296.html</guid>
       <description>Symmetrischer XLR-Eingang, Trigger und Mono-Modus machen den Fosi Audio ZA3 zur Ausnahme unter den Mini-Verstärkern. (Technik/Hardware, Audio)</description>
       <pubDate>Tue, 20 Oct 2026 10:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Revamp: Entwickler streichen Public Beta aus Angst vor KI-Kopien</title>
-      <link>https://www.golem.de/news/revamp-entwickler-streichen-public-beta-wegen-ki-kopien-2610-214295.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/revamp-entwickler-streichen-public-beta-wegen-ki-kopien-2610-214295.html</guid>
-      <description>Weil KI-Werkzeuge Spiele immer schneller nachbauen können, schränkt Digital Sun den Zugang zu seinem kommenden Titel Revamp ein. (Reverse Engineering, KI)</description>
-      <pubDate>Tue, 20 Oct 2026 10:44:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
