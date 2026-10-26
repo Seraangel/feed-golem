@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 17:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:20:35 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Künstliche Intelligenz: Stunde der Wahrheit für den KI-Rechenzentrumsboom</title>
+      <link>https://www.golem.de/news/kuenstliche-intelligenz-stunde-der-wahrheit-fuer-den-ki-rechenzentrumsboom-2610-214522.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-stunde-der-wahrheit-fuer-den-ki-rechenzentrumsboom-2610-214522.html</guid>
+      <description>Abgesagte Börsengänge, fallende Aktienkurse und wachsende Zweifel: Nikkei Asia zeigt in einer Kurzanalyse, warum Anleger in Asien und Ozeanien beim KI-Boom vorsichtiger werden. Von Tsubasa Suruga und Shaun Turton (Rechenzentrum, KI)</description>
+      <pubDate>Mon, 26 Oct 2026 17:15:03 GMT</pubDate>
+    </item>
     <item>
       <title>Google Fitbit Edge im Test: Mehr Sportuhr braucht es oft nicht</title>
       <link>https://www.golem.de/news/google-fitbit-edge-im-test-mehr-sportuhr-braucht-es-oft-nicht-2610-214309.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-cyber-resilience-act-pflichten-fuer-produkthersteller-2610-214027.html</guid>
       <description>Der Cyber Resilience Act stellt Produkthersteller vor Aufgaben bei Risiken, Nachweisen und Pflichten. Ein Workshop vermittelt die Umsetzung anhand eigener Produkte. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Wed, 21 Oct 2026 05:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: KI-Agenten für Büroaufgaben mit Claude einsetzen</title>
-      <link>https://www.golem.de/news/anzeige-ki-agenten-fuer-bueroaufgaben-mit-claude-einsetzen-2610-214028.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ki-agenten-fuer-bueroaufgaben-mit-claude-einsetzen-2610-214028.html</guid>
-      <description>KI-Agenten können wiederkehrende Büroaufgaben strukturieren und vorbereiten. Ein Online-Workshop zeigt, wie mit Claude kontrollierbare Workflows entstehen. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Tue, 20 Oct 2026 16:45:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
