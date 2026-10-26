@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 08:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:50:36 GMT</lastBuildDate>
+    <item>
+      <title>Wegen Schadcode-Lücke: Forscher legen millionenfach installierten Updater still</title>
+      <link>https://www.golem.de/news/wegen-schadcode-luecke-forscher-legen-millionenfach-installierten-updater-still-2610-214498.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wegen-schadcode-luecke-forscher-legen-millionenfach-installierten-updater-still-2610-214498.html</guid>
+      <description>Angreifer hätten Millionen von Geräten über eine Lücke in einem veralteten Popcorn-Time-Fork kapern können. Wie Forscher das verhindert haben. (Sicherheitslücke, Android)</description>
+      <pubDate>Mon, 26 Oct 2026 08:46:10 GMT</pubDate>
+    </item>
     <item>
       <title>Personal Intelligence: Google macht Gmail und Fotos für Werbung nutzbar</title>
       <link>https://www.golem.de/news/personal-intelligence-google-macht-gmail-und-fotos-fuer-werbung-nutzbar-2610-214497.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-reports-ueberlasten-curl-entwickler-wir-muessen-handeln-um-zu-ueberleben-2610-214288.html</guid>
       <description>Die Maintainer von Curl können die Vielzahl an KI-Bug-Reports nicht mehr bewältigen. Zum Selbstschutz greifen sie nun zu drastischen Maßnahmen. (Sicherheitslücke, KI)</description>
       <pubDate>Tue, 20 Oct 2026 09:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Urteil zu Google Earth: Gericht verbietet Google den 3D-Blick in den Garten</title>
-      <link>https://www.golem.de/news/urteil-zu-google-earth-gericht-verbietet-google-den-3d-blick-in-den-garten-2610-214290.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/urteil-zu-google-earth-gericht-verbietet-google-den-3d-blick-in-den-garten-2610-214290.html</guid>
-      <description>Das Landgericht Frankfurt untersagt Google 3D-Luftbilder eines Wohnhauses samt Garten. Das Urteil ist noch nicht rechtskräftig. (Privatsphäre, Google Earth)</description>
-      <pubDate>Tue, 20 Oct 2026 09:29:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
