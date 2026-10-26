@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 17:50:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:15:42 GMT</lastBuildDate>
+    <item>
+      <title>Krieg: Ukraine trifft russisches Finanzamts-Rechenzentrum</title>
+      <link>https://www.golem.de/news/krieg-ukraine-trifft-russisches-finanzamts-rechenzentrum-2610-214530.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/krieg-ukraine-trifft-russisches-finanzamts-rechenzentrum-2610-214530.html</guid>
+      <description>Ein ukrainischer Drohnenangriff hat offenbar ein staatliches russisches Rechenzentrum beschädigt. Möglicherweise sind auch Steuerdaten betroffen. (Rechenzentrum, Web Service)</description>
+      <pubDate>Mon, 26 Oct 2026 18:10:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Copilot im Unternehmen erfolgreich einsetzen</title>
       <link>https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-erfolgreich-einsetzen-2610-214468.html</link>
@@ -86,7 +93,7 @@
       <title>Weltraumschrott: Schutzschicht für Satelliten vorgestellt</title>
       <link>https://www.golem.de/news/weltraumschrott-schutzschicht-fuer-satelliten-vorgestellt-2610-214520.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/weltraumschrott-schutzschicht-fuer-satelliten-vorgestellt-2610-214520.html</guid>
-      <description>Die Armierung soll leichter sein als bisherige Schutzhüllen. Sie verhindert das Durchschlagen selbst bei 26.000 km/h Aufprallgeschwindigkeit. (Weltraumschrott, Nasa)</description>
+      <description>Die Armierung soll wesentlich besser als bisherige Schutzhüllen sein. Nun muss sie im Orbit zeigen, dass sie tatsächlich funktioniert. (Weltraumschrott, Nasa)</description>
       <pubDate>Mon, 26 Oct 2026 14:25:02 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/privatsphaere-gericht-zwingt-google-zur-verpixelung-von-luftbildern-2610-214329.html</guid>
       <description>Das Landgericht Frankfurt hat Google zur Löschung von Luftbildern eines Grundstücks verpflichtet. Durch die Bilder werde die Privatsphäre verletzt. (Google Maps, Google)</description>
       <pubDate>Wed, 21 Oct 2026 05:53:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rote Linie überschritten: Bundeswehr stuft russische Sabotagegefahr als erheblich ein</title>
-      <link>https://www.golem.de/news/rote-linie-ueberschritten-bundeswehr-stuft-russische-sabotagegefahr-als-erheblich-ein-2610-214328.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rote-linie-ueberschritten-bundeswehr-stuft-russische-sabotagegefahr-als-erheblich-ein-2610-214328.html</guid>
-      <description>Erstmals stuft die Bundeswehr die Bedrohung durch russische Sabotageakte auf deutschem Boden als "erheblich" ein. (Bundeswehr, Politik)</description>
-      <pubDate>Wed, 21 Oct 2026 05:36:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
