@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 26 Oct 2026 06:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 06:35:32 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheit: Polizei stoppt Cybertruck auf der A99</title>
+      <link>https://www.golem.de/news/sicherheit-polizei-stoppt-cybertruck-auf-der-a99-2610-214491.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-polizei-stoppt-cybertruck-auf-der-a99-2610-214491.html</guid>
+      <description>Ein 50-jähriger Schwede hat einen Tesla Cybertruck mit polnischem Kennzeichen über die A99 gelenkt - allerdings nicht lange. (Tesla Cybertruck, Auto)</description>
+      <pubDate>Mon, 26 Oct 2026 06:31:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft 365 sicher administrieren und verwalten</title>
       <link>https://www.golem.de/news/anzeige-microsoft-365-sicher-administrieren-und-verwalten-2610-214467.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/datenanalyse-fuer-die-polizei-celonis-nimmt-palantir-mit-metropolis-ins-visier-2610-214286.html</guid>
       <description>Celonis investiert über 100 Millionen Euro in Polizei-Software. Die Münchner wollen Palantir Konkurrenz machen. (Palantir, Security)</description>
       <pubDate>Tue, 20 Oct 2026 08:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cyberangriff: Hackerangriff auf E-Mail-Konten der AfD</title>
-      <link>https://www.golem.de/news/cyberangriff-hackerangriff-auf-e-mail-konten-der-afd-2610-214285.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-hackerangriff-auf-e-mail-konten-der-afd-2610-214285.html</guid>
-      <description>Die AfD bestätigt, dass Unbekannte E-Mails erbeutet haben - spielt die Bedeutung aber herunter. Auch Mails von Alexander Gauland sollen erbeutet worden sein. (Cybercrime, E-Mail)</description>
-      <pubDate>Tue, 20 Oct 2026 08:43:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
