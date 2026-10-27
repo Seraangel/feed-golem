@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 10:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:25:32 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Kabelloses Gaming-Headset von SteelSeries günstig wie nie bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-kabelloses-gaming-headset-von-steelseries-guenstig-wie-nie-bei-amazon-2610-214547.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kabelloses-gaming-headset-von-steelseries-guenstig-wie-nie-bei-amazon-2610-214547.html</guid>
+      <description>Ein kabelloses Gaming-Headset von SteelSeries mit Neodym-Treibern, Schnellladefunktion und Audio-Presets gibt es zum Tiefstpreis bei Amazon. (Steelseries, Technik/Hardware)</description>
+      <pubDate>Tue, 27 Oct 2026 10:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intel-CPUs: Neue Hinweise auf Raptor-Lake-Refresh, Benchmarks zu Nova Lake</title>
+      <link>https://www.golem.de/news/intel-cpus-neue-hinweise-auf-raptor-lake-refresh-benchmarks-zu-nova-lake-2610-214541.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/intel-cpus-neue-hinweise-auf-raptor-lake-refresh-benchmarks-zu-nova-lake-2610-214541.html</guid>
+      <description>Die Hinweise auf neue Intel-Prozessoren mit DDR4-Unterstützung mehren sich. Erste Nova-Lake-Samples liegen noch hinter der Leistung des Vorgängers. (Prozessor, Intel)</description>
+      <pubDate>Tue, 27 Oct 2026 10:20:03 GMT</pubDate>
+    </item>
     <item>
       <title>Japan: Bis zu 26.739 Server eines Cloudanbieters gehackt</title>
       <link>https://www.golem.de/news/japan-bis-zu-26-739-server-eines-cloudanbieters-gehackt-2610-214540.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/quartalszahlen-netflix-waechst-langsamer-und-senkt-die-werbeprognose-2610-214346.html</guid>
       <description>Netflix steigert den Umsatz im dritten Quartal um zwölf Prozent. Der Gewinn wächst, doch die Werbeprognose sinkt. (Netflix, Onlinewerbung)</description>
       <pubDate>Wed, 21 Oct 2026 09:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSH-Traffic umgeleitet: Zehn Prozent aller Tor-Exit-Nodes für MitM-Attacken gekapert</title>
-      <link>https://www.golem.de/news/ssh-traffic-umgeleitet-zehn-prozent-aller-tor-exit-nodes-fuer-mitm-attacken-gekapert-2610-214344.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ssh-traffic-umgeleitet-zehn-prozent-aller-tor-exit-nodes-fuer-mitm-attacken-gekapert-2610-214344.html</guid>
-      <description>Mehr als 300 Tor-Exit-Nodes fingen plötzlich an, E-Mail- und SSH-Traffic umzuleiten. Ein Angreifer hatte die Server Wochen zuvor kompromittiert. (Man-in-the-Middle, E-Mail)</description>
-      <pubDate>Wed, 21 Oct 2026 09:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ID und Cupra: VW ruft weltweit 70.000 Elektroautos zurück</title>
-      <link>https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html</guid>
-      <description>Es hat sich angedeutet, nun hat das Kraftfahrt-Bundesamt Rückrufe für mehrere Elektroautos von VW veröffentlicht. Vorerst gilt ein Ladelimit. (VW, Elektroauto)</description>
-      <pubDate>Wed, 21 Oct 2026 09:01:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
