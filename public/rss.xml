@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 08:30:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:40:38 GMT</lastBuildDate>
+    <item>
+      <title>Steam Frame: Valves Headset bekommt CD-ROM-Unterstützung</title>
+      <link>https://www.golem.de/news/steam-frame-valves-headset-bekommt-cd-rom-unterstuetzung-2610-214538.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/steam-frame-valves-headset-bekommt-cd-rom-unterstuetzung-2610-214538.html</guid>
+      <description>Sony streicht die künftige Unterstützung physischer Medien, Valve fügt sie dem Steam Frame hinzu - nachdem ein Nutzer einen alten Film schauen wollte. (Steam, Headset)</description>
+      <pubDate>Tue, 27 Oct 2026 08:38:10 GMT</pubDate>
+    </item>
     <item>
       <title>Proton: Angestellte müssen erneut ins Bewerbungsgespräch</title>
       <link>https://www.golem.de/news/proton-angestellte-muessen-erneut-ins-bewerbungsgespraech-2610-214537.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/chefs-von-devs-interview-die-glaeserne-it-fabrik-in-der-verwaltung-2610-214335.html</guid>
       <description>Wie bringt man Open Source in die Verwaltung? In unserem Newsletter Chefs von Devs erklärt es uns Dirk Gernhardt, Open-Source-Beauftragter der Stadt München. (Souveränität, Open Source)</description>
       <pubDate>Wed, 21 Oct 2026 08:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>FSR: AMD bringt KI-Upscaling auf Xbox Series X/S</title>
-      <link>https://www.golem.de/news/fsr-amd-bringt-ki-upscaling-auf-xbox-series-x-s-2610-214340.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fsr-amd-bringt-ki-upscaling-auf-xbox-series-x-s-2610-214340.html</guid>
-      <description>Microsofts Xbox Series soll mit FSR 4.1 eine bessere Grafikqualität bekommen. Das könnte vor allem auf der S einige Vorteile bringen. (Xbox, Microsoft)</description>
-      <pubDate>Wed, 21 Oct 2026 08:24:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
