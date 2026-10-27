@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 06:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:25:40 GMT</lastBuildDate>
+    <item>
+      <title>Mein Bildungsraum: Bund beendet Bildungsplattform nach 236 Millionen Euro</title>
+      <link>https://www.golem.de/news/mein-bildungsraum-bund-beendet-bildungsplattform-nach-236-millionen-euro-2610-214533.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mein-bildungsraum-bund-beendet-bildungsplattform-nach-236-millionen-euro-2610-214533.html</guid>
+      <description>Aus der nationalen Bildungsplattform wird eine App für digitale Abiturzeugnisse. Erste Länder testen sie bereits. (Bundesregierung, Politik)</description>
+      <pubDate>Tue, 27 Oct 2026 07:21:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft 365: Identitäten, Geräte und Daten absichern</title>
       <link>https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2610-214489.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/noch-kein-patch-verfuegbar-kritische-php-luecken-gefaehrden-unzaehlige-webserver-2610-214332.html</guid>
       <description>Nach einem Leak warnt die PHP Group vor zwei kritischen PHP-Lücken, die zahlreiche Webplattformen gefährden. Ein Patch ist jetzt verfügbar. (Sicherheitslücke, PHP)</description>
       <pubDate>Wed, 21 Oct 2026 07:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plünderungen: Vinted löscht Angebote gestohlener Beute aus Frankreich</title>
-      <link>https://www.golem.de/news/pluenderungen-in-frankreich-vinted-loescht-angebote-mit-beute-2610-214331.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pluenderungen-in-frankreich-vinted-loescht-angebote-mit-beute-2610-214331.html</guid>
-      <description>Den Verkäufern solcher Beute drohen laut dem Anbieter auch Kontosperren. (Onlinehandel, eBay)</description>
-      <pubDate>Wed, 21 Oct 2026 06:59:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
