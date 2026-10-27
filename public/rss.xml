@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 10:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:05:32 GMT</lastBuildDate>
+    <item>
+      <title>Fahrbericht Xpeng L03: Rückwärts nach vorne schauen</title>
+      <link>https://www.golem.de/news/fahrbericht-xpeng-l03-rueckwaerts-nach-vorne-schauen-2610-214105.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fahrbericht-xpeng-l03-rueckwaerts-nach-vorne-schauen-2610-214105.html</guid>
+      <description>Xpeng sieht sich mehr als Technologieanbieter denn als Autohersteller. Nach einer Fahrt mit dem L03 wird klar, was die Chinesen damit meinen. Ein Bericht von Dirk Kunde (Elektroauto, Auto)</description>
+      <pubDate>Tue, 27 Oct 2026 11:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Börsengang: Entscheidend für Anthropic ist der Umsatz außerhalb der KI-Blase</title>
       <link>https://www.golem.de/news/boersengang-entscheidend-fuer-anthtopic-ist-der-umsatz-ausserhalb-der-ki-blase-2610-214545.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-4k-webcam-mit-sony-sensor-und-pdaf-zum-aktionspreis-bei-amazon-2610-214348.html</guid>
       <description>Eine kompakte 4K-Webcam von Acer mit Sony-Sensor, Phasenerkennungs-Autofokus (PDAF) und Schutzabdeckung ist bei Amazon reduziert. (Technik/Hardware, Acer)</description>
       <pubDate>Wed, 21 Oct 2026 09:40:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copilot: 330.000 Volkswagen-Angestellte bekommen Microsofts KI</title>
-      <link>https://www.golem.de/news/copilot-330-000-volkswagen-angestellte-bekommen-microsofts-ki-2610-214347.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/copilot-330-000-volkswagen-angestellte-bekommen-microsofts-ki-2610-214347.html</guid>
-      <description>Der Microsoft-Deal für Copilot findet vor dem Hintergrund statt, dass VW Tarifverträge kündigt und 110.000 Arbeitsplätze streichen will. (Copilot, Microsoft)</description>
-      <pubDate>Wed, 21 Oct 2026 09:37:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
