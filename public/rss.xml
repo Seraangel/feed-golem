@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 08:40:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:35:33 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia, OpenAI, Oracle: Wie sich die KI-Konzerne gegenseitig Milliarden zuschieben</title>
+      <link>https://www.golem.de/news/nvidia-openai-oracle-wie-sich-die-ki-konzerne-gegenseitig-milliarden-zuschieben-2610-214529.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvidia-openai-oracle-wie-sich-die-ki-konzerne-gegenseitig-milliarden-zuschieben-2610-214529.html</guid>
+      <description>Nvidia investiert in eigene Kunden, die sich für neue KI-Rechenzentren hoch verschulden. Solange der Boom anhält, funktioniert das. Aber wer trägt das Risiko, wenn er endet? Eine Analyse von Björn Meschkat (Rechenzentrum, Nvidia)</description>
+      <pubDate>Tue, 27 Oct 2026 09:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>Steam Frame: Valves Headset bekommt CD-ROM-Unterstützung</title>
       <link>https://www.golem.de/news/steam-frame-valves-headset-bekommt-cd-rom-unterstuetzung-2610-214538.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-soundcore-q20i-kopfhoerer-mit-anc-jetzt-fuer-unter-32-euro-bei-amazon-2610-214341.html</guid>
       <description>Lärm im Zug oder Großraumbüro filtert der Soundcore Q20i per ANC heraus, hält 40 Stunden durch und hat sich tausendfach bewährt. (Technik/Hardware, Bose)</description>
       <pubDate>Wed, 21 Oct 2026 08:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chefs-von-Devs-Interview: Die gläserne IT-Fabrik in der Verwaltung</title>
-      <link>https://www.golem.de/news/chefs-von-devs-interview-die-glaeserne-it-fabrik-in-der-verwaltung-2610-214335.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/chefs-von-devs-interview-die-glaeserne-it-fabrik-in-der-verwaltung-2610-214335.html</guid>
-      <description>Wie bringt man Open Source in die Verwaltung? In unserem Newsletter Chefs von Devs erklärt es uns Dirk Gernhardt, Open-Source-Beauftragter der Stadt München. (Souveränität, Open Source)</description>
-      <pubDate>Wed, 21 Oct 2026 08:30:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
