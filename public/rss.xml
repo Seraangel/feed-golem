@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 10:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:50:32 GMT</lastBuildDate>
+    <item>
+      <title>Börsengang: Entscheidend für Anthtopic ist der Umsatz außerhalb der KI-Blase</title>
+      <link>https://www.golem.de/news/boersengang-entscheidend-fuer-anthtopic-ist-der-umsatz-ausserhalb-der-ki-blase-2610-214545.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/boersengang-entscheidend-fuer-anthtopic-ist-der-umsatz-ausserhalb-der-ki-blase-2610-214545.html</guid>
+      <description>Strategieberater Volker Pfirsching warnt vor Risiken der Zirkulationsgeschäfte: Entscheidend ist die Nachfrage echter Kunden bei Anthropic. (Anthropic, Börse)</description>
+      <pubDate>Tue, 27 Oct 2026 10:48:07 GMT</pubDate>
+    </item>
     <item>
       <title>Eat-Slop: Lieferando stoppt KI-Essensbilder nach peinlichen Pannen</title>
       <link>https://www.golem.de/news/eat-slop-lieferando-stoppt-ki-essensbilder-nach-peinlichen-pannen-2610-214543.html</link>
@@ -83,7 +90,7 @@
       <pubDate>Tue, 27 Oct 2026 08:09:08 GMT</pubDate>
     </item>
     <item>
-      <title>Logitech Sonderedition: MX Master 4 Developer Edition ist speziell für Software-Entwickler</title>
+      <title>Logitech Sonderedition: MX Master 4 für Entwickler ehrt Linux mit nicht kompatibler Software</title>
       <link>https://www.golem.de/news/logitech-sonderedition-mx-master-4-developer-edition-ist-speziell-fuer-software-entwickler-2610-214534.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/logitech-sonderedition-mx-master-4-developer-edition-ist-speziell-fuer-software-entwickler-2610-214534.html</guid>
       <description>Die Logitech-Maus MX Master 4 gibt es neuerdings in einer speziellen Ausführung für Software-Entwickler. Die Developer Edition wird dabei künstlich verknappt. (Logitech, Maus)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/copilot-330-000-volkswagen-angestellte-bekommen-microsofts-ki-2610-214347.html</guid>
       <description>Der Microsoft-Deal für Copilot findet vor dem Hintergrund statt, dass VW Tarifverträge kündigt und 110.000 Arbeitsplätze streichen will. (Copilot, Microsoft)</description>
       <pubDate>Wed, 21 Oct 2026 09:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) AMA heute um 17 Uhr: Was die neuen EU-Digitalgesetze für euch bedeuten</title>
-      <link>https://www.golem.de/news/schaut-morgen-beim-ama-vorbei-eure-datenschutz-fragen-an-unseren-experten-2610-214303.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schaut-morgen-beim-ama-vorbei-eure-datenschutz-fragen-an-unseren-experten-2610-214303.html</guid>
-      <description>Datenschutz, KI-Regeln und Alterskontrollen: Was kommt auf uns zu? DSGVO-Experte Ralf Bendrath beantwortet heute um 17 Uhr Fragen im exklusiven Golem-Plus-Live-Videoformat. (Datenschutz, Politik)</description>
-      <pubDate>Wed, 21 Oct 2026 09:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
