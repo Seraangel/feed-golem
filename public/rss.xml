@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 17:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:50:36 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: KI-Agenten für wiederkehrende Büroaufgaben einsetzen</title>
+      <link>https://www.golem.de/news/anzeige-ki-agenten-fuer-wiederkehrende-bueroaufgaben-einsetzen-2610-214490.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ki-agenten-fuer-wiederkehrende-bueroaufgaben-einsetzen-2610-214490.html</guid>
+      <description>KI-Agenten brauchen klare Aufgaben und menschliche Kontrolle. Ein Online-Workshop zeigt, wie mit Claude wiederverwendbare Abläufe für typische Büroarbeit entstehen. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Tue, 27 Oct 2026 17:45:01 GMT</pubDate>
+    </item>
     <item>
       <title>Antrag: Grüne fordern Haftung für KI-Firmen und Management</title>
       <link>https://www.golem.de/news/antrag-gruene-fordern-haftung-fuer-ki-firmen-und-management-2610-214570.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/produkt-quantum-systems-baut-abfangdrohne-mit-777-km-h-2610-214370.html</guid>
       <description>Quantum Systems meldet einen Testflug des Drohnenjäger-Prototyps mit 777 km/h. Damit könnten auch strahlgetriebene Drohnen abgefangen werden. (Drohne, Politik)</description>
       <pubDate>Thu, 22 Oct 2026 05:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Michal Kobosko: Digital Networks Act der EU wird zur Frequenzlaufzeiten-Flatrate</title>
-      <link>https://www.golem.de/news/michal-kobosko-digital-networks-act-der-eu-wird-zur-frequenzlaufzeiten-flatrate-2610-214368.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/michal-kobosko-digital-networks-act-der-eu-wird-zur-frequenzlaufzeiten-flatrate-2610-214368.html</guid>
-      <description>Die gelockerte Kupferabschaltung im EU-Berichtsentwurf zum Digital Networks Act wird begrüßt, die geplante Verlängerung von Mobilfunkfrequenzen kritisiert. (Breko, Glasfaser)</description>
-      <pubDate>Thu, 22 Oct 2026 05:42:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
