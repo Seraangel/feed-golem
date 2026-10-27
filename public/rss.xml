@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 09:40:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:55:36 GMT</lastBuildDate>
+    <item>
+      <title>Halbleiterproduktion: USA drohen weltweiten Heliummangel zu verschärfen</title>
+      <link>https://www.golem.de/news/halbleiterproduktion-usa-drohen-weltweiten-heliummangel-zu-verschaerfen-2610-214542.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/halbleiterproduktion-usa-drohen-weltweiten-heliummangel-zu-verschaerfen-2610-214542.html</guid>
+      <description>Die USA wollen ihre Heliumproduktion besser schützen. Der weltweit größte Förderer des unersetzlichen Gases droht den Markt durcheinanderzubringen. (Rohstoffe, Prozessor)</description>
+      <pubDate>Tue, 27 Oct 2026 09:53:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kleine Powerbank mit starken 20.000 mAh nur rund 27 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-kleine-powerbank-mit-starken-20-000-mah-nur-rund-27-euro-bei-amazon-2610-214539.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/openai-gpt-6-neue-ki-modelle-ersetzen-bald-auch-c-und-cobol-entwickler-2610-214343.html</guid>
       <description>Einige Programmiersprachen sind für LLMs noch schwierig zu realisieren. OpenAI konnte große Fortschritte erzielen. (Programmiersprachen, KI)</description>
       <pubDate>Wed, 21 Oct 2026 08:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Outdoor: Komoot navigiert auf Wear OS ohne Smartphone</title>
-      <link>https://www.golem.de/news/outdoor-komoot-navigiert-auf-wear-os-ohne-smartphone-2610-214342.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/outdoor-komoot-navigiert-auf-wear-os-ohne-smartphone-2610-214342.html</guid>
-      <description>Offline-Karten, Abbiegehinweise und automatische Routenneuberechnung: Komoot funktioniert auf vielen Smartwatches künftig ohne Smartphone. (Komoot, Navigationssystem)</description>
-      <pubDate>Wed, 21 Oct 2026 08:43:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
