@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 09:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:10:34 GMT</lastBuildDate>
+    <item>
+      <title>Japan: Bis zu 26.739 Server eines Cloudanbieters gehackt</title>
+      <link>https://www.golem.de/news/japan-bis-zu-26-739-server-eines-cloudanbieters-gehackt-2610-214540.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/japan-bis-zu-26-739-server-eines-cloudanbieters-gehackt-2610-214540.html</guid>
+      <description>Hacker sind in Tausende von Cloud-Desktops der japanischen GMO Internet Group eingedrungen. Die erbeuteten Daten sollen extrem umfangreich sein. (Cybercrime, Server)</description>
+      <pubDate>Tue, 27 Oct 2026 10:06:02 GMT</pubDate>
+    </item>
     <item>
       <title>Halbleiterproduktion: USA drohen weltweiten Heliummangel zu verschärfen</title>
       <link>https://www.golem.de/news/halbleiterproduktion-usa-drohen-weltweiten-heliummangel-zu-verschaerfen-2610-214542.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/id-und-cupra-vw-ruft-weltweit-70-000-elektroautos-zurueck-2610-214345.html</guid>
       <description>Es hat sich angedeutet, nun hat das Kraftfahrt-Bundesamt Rückrufe für mehrere Elektroautos von VW veröffentlicht. Vorerst gilt ein Ladelimit. (VW, Elektroauto)</description>
       <pubDate>Wed, 21 Oct 2026 09:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI GPT-6: Neue KI-Modelle ersetzen bald auch C- und Cobol-Entwickler</title>
-      <link>https://www.golem.de/news/openai-gpt-6-neue-ki-modelle-ersetzen-bald-auch-c-und-cobol-entwickler-2610-214343.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/openai-gpt-6-neue-ki-modelle-ersetzen-bald-auch-c-und-cobol-entwickler-2610-214343.html</guid>
-      <description>Einige Programmiersprachen sind für LLMs noch schwierig zu realisieren. OpenAI konnte große Fortschritte erzielen. (Programmiersprachen, KI)</description>
-      <pubDate>Wed, 21 Oct 2026 08:54:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
