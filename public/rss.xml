@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 15:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:15:39 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Smartes Thermometer mit Hygrometer für nur 11,39 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-smartes-thermometer-mit-hygrometer-fuer-nur-11-39-euro-bei-amazon-2610-214567.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartes-thermometer-mit-hygrometer-fuer-nur-11-39-euro-bei-amazon-2610-214567.html</guid>
+      <description>Amazon hat ein Thermometer von Govee im Angebot, das auch die Luftfeuchtigkeit misst und seine Daten per Bluetooth ans Smartphone sendet. (Technik/Hardware)</description>
+      <pubDate>Tue, 27 Oct 2026 16:11:08 GMT</pubDate>
+    </item>
     <item>
       <title>Auftritt mit Trump: VW löscht Mitarbeiter-Kommentare zu Audi-Chef im Intranet</title>
       <link>https://www.golem.de/news/auftritt-mit-trump-vw-loescht-mitarbeiter-kommentare-zu-audi-chef-im-intranet-2610-214566.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-claude-code-ki-agenten-fuer-die-softwareentwicklung-nutzen-2610-214321.html</guid>
       <description>Claude Code unterstützt die Softwareentwicklung mit KI-Agenten. Ein dreitägiger Workshop vermittelt Spec-Driven Development, Context Engineering und Agentic Workflows. (Golem Karrierewelt, Programmiersprachen)</description>
       <pubDate>Thu, 22 Oct 2026 05:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bei Flug 15: Starship soll erstmals wie vorgesehen funktionieren</title>
-      <link>https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bei-flug-15-starship-soll-erstmals-wie-vorgesehen-funktionieren-2610-214363.html</guid>
-      <description>SpaceX plant für den kommenden Start des Starships, dass beide Stufen wieder landen sollen. Es wäre das erste Mal für ein orbitales Trägersystem. (Starship, Elon Musk)</description>
-      <pubDate>Thu, 22 Oct 2026 05:08:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
