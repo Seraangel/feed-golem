@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 07:55:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 08:05:31 GMT</lastBuildDate>
+    <item>
+      <title>Logitech Sonderedition: MX Master 4 Developer Edition ist speziell für Software-Entwickler</title>
+      <link>https://www.golem.de/news/logitech-sonderedition-mx-master-4-developer-edition-ist-speziell-fuer-software-entwickler-2610-214534.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/logitech-sonderedition-mx-master-4-developer-edition-ist-speziell-fuer-software-entwickler-2610-214534.html</guid>
+      <description>Die Logitech-Maus MX Master 4 gibt es neuerdings in einer speziellen Ausführung für Software-Entwickler. Die Developer Edition wird dabei künstlich verknappt. (Logitech, Maus)</description>
+      <pubDate>Tue, 27 Oct 2026 08:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Intelligente Stromspeicher auch für die sonnenarme Zeit</title>
+      <link>https://www.golem.de/news/anzeige-intelligente-stromspeicher-auch-fuer-die-sonnenarme-zeit-2610-214399.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-intelligente-stromspeicher-auch-fuer-die-sonnenarme-zeit-2610-214399.html</guid>
+      <description>Solarstrom lässt sich nicht immer dann gewinnen, wenn der Verbrauch am höchsten ist. Flexible Speicher können diese zeitliche Lücke schließen- ein Vorteil, der in Herbst und Winter besonders relevant wird. (Anker, Technik/Hardware)</description>
+      <pubDate>Tue, 27 Oct 2026 08:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>PHP-Lücken unter Beschuss: Erste erfolgreiche PHP2Shell-Attacken bestätigt</title>
       <link>https://www.golem.de/news/php-luecken-unter-beschuss-erste-erfolgreiche-php2shell-attacken-bestaetigt-2610-214535.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/un-klimabericht-erde-steuert-laut-un-auf-2-8-grad-erwaermung-zu-2610-214333.html</guid>
       <description>Das 1,5-Grad-Limit ist laut UNEP nicht mehr zu halten. Bei aktueller Politik drohen bis in Zukunft sogar 2,8 Grad. (Klimawandel, Klima)</description>
       <pubDate>Wed, 21 Oct 2026 07:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elon Musk: SpaceX und Tesla könnten sich zusammenschließen</title>
-      <link>https://www.golem.de/news/elon-musk-spacex-und-tesla-koennten-sich-zusammenschliessen-2610-214336.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elon-musk-spacex-und-tesla-koennten-sich-zusammenschliessen-2610-214336.html</guid>
-      <description>Über eine mögliche Fusion von Tesla und SpaceX wird schon lange spekuliert. Jetzt verkündet Elon Musk erste Schritte. (Elon Musk, Börse)</description>
-      <pubDate>Wed, 21 Oct 2026 07:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Klassiker von 1997: Jemand baut Diablo 1 in Egoperspektive</title>
-      <link>https://www.golem.de/news/klassiker-von-1997-jemand-baut-diablo-1-in-egoperspektive-2610-214334.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/klassiker-von-1997-jemand-baut-diablo-1-in-egoperspektive-2610-214334.html</guid>
-      <description>Für die First-Person-Ansicht von Tristram und Co. werden die Originaltexturen und Sprites aus Diablo genutzt. (Diablo, Spiele)</description>
-      <pubDate>Wed, 21 Oct 2026 07:17:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
