@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 27 Oct 2026 07:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:55:35 GMT</lastBuildDate>
+    <item>
+      <title>PHP-Lücken unter Beschuss: Erste erfolgreiche PHP2Shell-Attacken bestätigt</title>
+      <link>https://www.golem.de/news/php-luecken-unter-beschuss-erste-erfolgreiche-php2shell-attacken-bestaetigt-2610-214535.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/php-luecken-unter-beschuss-erste-erfolgreiche-php2shell-attacken-bestaetigt-2610-214535.html</guid>
+      <description>PHP2Shell auszunutzen ist schwierig. Dennoch wurden bereits einige anfällige Systeme infiltriert - unter anderem, um an eine Bitcoin-Wallet zu gelangen. (Sicherheitslücke, PHP)</description>
+      <pubDate>Tue, 27 Oct 2026 07:54:07 GMT</pubDate>
+    </item>
     <item>
       <title>Mein Bildungsraum: Bund beendet Bildungsplattform nach 236 Millionen Euro</title>
       <link>https://www.golem.de/news/mein-bildungsraum-bund-beendet-bildungsplattform-nach-236-millionen-euro-2610-214533.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/klassiker-von-1997-jemand-baut-diablo-1-in-egoperspektive-2610-214334.html</guid>
       <description>Für die First-Person-Ansicht von Tristram und Co. werden die Originaltexturen und Sprites aus Diablo genutzt. (Diablo, Spiele)</description>
       <pubDate>Wed, 21 Oct 2026 07:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dringend patchen: Kritische PHP-Lücken gefährden unzählige Webserver</title>
-      <link>https://www.golem.de/news/noch-kein-patch-verfuegbar-kritische-php-luecken-gefaehrden-unzaehlige-webserver-2610-214332.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/noch-kein-patch-verfuegbar-kritische-php-luecken-gefaehrden-unzaehlige-webserver-2610-214332.html</guid>
-      <description>Nach einem Leak warnt die PHP Group vor zwei kritischen PHP-Lücken, die zahlreiche Webplattformen gefährden. Ein Patch ist jetzt verfügbar. (Sicherheitslücke, PHP)</description>
-      <pubDate>Wed, 21 Oct 2026 07:12:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
