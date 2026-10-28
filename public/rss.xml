@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 08:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:55:34 GMT</lastBuildDate>
+    <item>
+      <title>KI-Boom: Fujifilm investiert massiv in Magnetbandproduktion</title>
+      <link>https://www.golem.de/news/ki-boom-fujifilm-investiert-massiv-in-magnetbandproduktion-2610-214580.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-boom-fujifilm-investiert-massiv-in-magnetbandproduktion-2610-214580.html</guid>
+      <description>Fujifilm will seine Produktionskapazitäten von Magnetspeicher stark ausbauen - Grund ist eine KI-getriebene hohe Nachfrage. (Fujifilm, KI)</description>
+      <pubDate>Wed, 28 Oct 2026 08:50:02 GMT</pubDate>
+    </item>
     <item>
       <title>Firewalls unter Beschuss: Server der US-Regierung mittels PHP2Shell infiltriert</title>
       <link>https://www.golem.de/news/firewalls-unter-beschuss-server-der-us-regierung-mittels-php2shell-infiltriert-2610-214578.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/php2shell-zwei-php-luecken-jahre-an-vorarbeit-und-eine-hektische-offenlegung-2610-214379.html</guid>
       <description>Zwei kritische PHP-Lücken bringen Admins seit Mittwoch gehörig ins Schwitzen. Die PHP Foundation schwitzt deswegen schon seit zwei Jahren. Eine Analyse von Marc Stöckel (Sicherheitslücke, PHP)</description>
       <pubDate>Thu, 22 Oct 2026 09:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektromobilität: Tesla verdient 43 Prozent weniger, Forschungskosten steigen</title>
-      <link>https://www.golem.de/news/elektromobilitaet-tesla-verdient-43-prozent-weniger-forschungskosten-steigen-2610-214380.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-tesla-verdient-43-prozent-weniger-forschungskosten-steigen-2610-214380.html</guid>
-      <description>Tesla hat im dritten Quartal 787 Millionen US-Dollar verdient. Der Umsatz stagniert und die Forschungskosten steigen um 69 Prozent. (Tesla, Elektroauto)</description>
-      <pubDate>Thu, 22 Oct 2026 08:52:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
