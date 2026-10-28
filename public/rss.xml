@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 10:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:30:33 GMT</lastBuildDate>
+    <item>
+      <title>Angriff auf PXE-Boot: 16 Jahre alte Uefi-Lücke gefährdet unzählige Server</title>
+      <link>https://www.golem.de/news/angriff-auf-pxe-boot-16-jahre-alte-uefi-luecke-gefaehrdet-unzaehlige-server-2610-214589.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-pxe-boot-16-jahre-alte-uefi-luecke-gefaehrdet-unzaehlige-server-2610-214589.html</guid>
+      <description>Eine kritische Sicherheitslücke lässt Angreifer aus der Ferne Schadcode in PXE-Bootprozesse schleusen. Details wurden versehentlich zu früh geleakt. (Sicherheitslücke, Computer)</description>
+      <pubDate>Wed, 28 Oct 2026 10:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>2.100 Passagiere: Elektrofähre nimmt Dienst in Südamerika auf</title>
       <link>https://www.golem.de/news/2-100-passagiere-elektrofaehre-nimmt-dienst-in-suedamerika-auf-2610-214588.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rollenspiel-cyberpunk-2077-kriegt-konsolen-mods-und-neue-quests-2610-214392.html</guid>
       <description>CD Projekt Red erweitert Cyberpunk 2077 um plattformübergreifende Mods, neue Missionen und einen zusätzlichen Kampfstil. (Cyberpunk 2077, Rollenspiel)</description>
       <pubDate>Thu, 22 Oct 2026 10:48:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smartwatch: Galaxy-Watch-Nutzer berichtet über Verbrennungen</title>
-      <link>https://www.golem.de/news/smartwatch-galaxy-watch-nutzer-berichtet-ueber-verbrennungen-2610-214390.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smartwatch-galaxy-watch-nutzer-berichtet-ueber-verbrennungen-2610-214390.html</guid>
-      <description>Hat Samsungs Galaxy Watch 5 Pro seinem Besitzer über Nacht eine Brandwunde zugefügt? Ein Bild und die Begleitumstände deuten darauf hin. (Samsung, Verbraucherschutz)</description>
-      <pubDate>Thu, 22 Oct 2026 10:32:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
