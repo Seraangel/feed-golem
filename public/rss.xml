@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 18:50:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:15:34 GMT</lastBuildDate>
+    <item>
+      <title>Orange: Netzbetreiber fordert nach Ausfall Schadensersatz von Nokia</title>
+      <link>https://www.golem.de/news/orange-netzbetreiber-fordert-nach-ausfall-schadensersatz-von-nokia-2610-214616.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/orange-netzbetreiber-fordert-nach-ausfall-schadensersatz-von-nokia-2610-214616.html</guid>
+      <description>Nach dem großen Netzausfall vom 21. Oktober zieht Orange Konsequenzen und fordert finanzielle Entschädigung vom Ausrüster Nokia. Der hatte mit einem Softwareupdate das Mobilfunknetz lahmgelegt. (Nokia, Huawei)</description>
+      <pubDate>Wed, 28 Oct 2026 19:11:07 GMT</pubDate>
+    </item>
     <item>
       <title>Amazon Echo: Dot wird Smart-Home-Zentrale, Wecker erkennt Schlafphasen</title>
       <link>https://www.golem.de/news/amazon-echo-dot-wird-smart-home-zentrale-wecker-erkennt-schlafphasen-2610-214615.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/garmr-bundeswehr-holt-48-drohnenabwehr-systeme-von-diehl-2610-214416.html</guid>
       <description>Der Skyranger lässt auf sich warten, die Bundeswehr braucht aber eine Drohnenabwehr. 48 GARMR-Systeme von Diehl sollen die Lücke schließen. (Bundeswehr, Politik)</description>
       <pubDate>Fri, 23 Oct 2026 05:22:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen</title>
-      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214322.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214322.html</guid>
-      <description>Linux-Systemadministration erfordert Kenntnisse von Shell, Diensten und Zugriffsrechten. Ein fünftägiger Online-Workshop vermittelt die Grundlagen. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Fri, 23 Oct 2026 05:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
