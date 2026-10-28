@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 11:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:00:34 GMT</lastBuildDate>
+    <item>
+      <title>RAM: SK Hynix hat Speicherproduktion für 2029 schon verkauft</title>
+      <link>https://www.golem.de/news/ram-sk-hynix-hat-speicherproduktion-fuer-2029-schon-verkauft-2610-214595.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ram-sk-hynix-hat-speicherproduktion-fuer-2029-schon-verkauft-2610-214595.html</guid>
+      <description>SK Hynix hat seine Quartalszahlen vorgestellt und sich zu langfristigen Lieferverträgen geäußert. RAM bleibt wohl noch länger knapp. (RAM, Hynix)</description>
+      <pubDate>Wed, 28 Oct 2026 11:55:07 GMT</pubDate>
+    </item>
     <item>
       <title>Halbierter Energiebedarf: Industrielle Hochtemperatur-Wärmepumpe geht in Dauerbetrieb</title>
       <link>https://www.golem.de/news/halbierter-energiebedarf-industrielle-hochtemperatur-waermepumpe-geht-in-dauerbetrieb-2610-214594.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bioware-macht-dicht-was-bleibt-ist-meine-mass-effect-lederjacke-2610-214394.html</guid>
       <description>Biowares Schließung war absehbar. Trotzdem macht es mich, der sich in Mass Effect verliebte, traurig. Ein Abschied. Ein Nachruf von Oliver Nickel (Bioware, Dragon Age)</description>
       <pubDate>Thu, 22 Oct 2026 12:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kundendaten abgeflossen: Cyberangriff legt Cloudplattform Railway lahm</title>
-      <link>https://www.golem.de/news/kundendaten-abgeflossen-cyberangriff-legt-cloudplattform-railway-lahm-2610-214393.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kundendaten-abgeflossen-cyberangriff-legt-cloudplattform-railway-lahm-2610-214393.html</guid>
-      <description>Railway ist Ziel eines Cyberangriffs geworden. Laut dem Plattformbetreiber sind Angreifer unter anderem an API-Keys und Zugangsdaten seiner Kunden gelangt. (Datenleck, API)</description>
-      <pubDate>Thu, 22 Oct 2026 11:42:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
