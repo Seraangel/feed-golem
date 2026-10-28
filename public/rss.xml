@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 08:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:30:37 GMT</lastBuildDate>
+    <item>
+      <title>Firewalls unter Beschuss: Server der US-Regierung mittels PHP2Shell infiltriert</title>
+      <link>https://www.golem.de/news/firewalls-unter-beschuss-server-der-us-regierung-mittels-php2shell-infiltriert-2610-214578.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/firewalls-unter-beschuss-server-der-us-regierung-mittels-php2shell-infiltriert-2610-214578.html</guid>
+      <description>Chinesische Hacker sollen das Internet nach anfälligen Firewalls abgesucht und einige davon infiltriert haben - darunter solche der US-Regierung. (Cyberwar, PHP)</description>
+      <pubDate>Wed, 28 Oct 2026 08:27:10 GMT</pubDate>
+    </item>
     <item>
       <title>Google Deepmind: Genie 4 baut Welten mit Ton und lässt sich live umbauen</title>
       <link>https://www.golem.de/news/google-deepmind-genie-4-baut-welten-mit-ton-und-laesst-sich-live-umbauen-2610-214579.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaet-tesla-verdient-43-prozent-weniger-forschungskosten-steigen-2610-214380.html</guid>
       <description>Tesla hat im dritten Quartal 787 Millionen US-Dollar verdient. Der Umsatz stagniert und die Forschungskosten steigen um 69 Prozent. (Tesla, Elektroauto)</description>
       <pubDate>Thu, 22 Oct 2026 08:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Eneloop-Akkus in AA und AAA nur noch heute bei Amazon günstiger</title>
-      <link>https://www.golem.de/news/anzeige-eneloop-akkus-in-aa-und-aaa-nur-noch-heute-bei-amazon-guenstiger-2610-214381.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-eneloop-akkus-in-aa-und-aaa-nur-noch-heute-bei-amazon-guenstiger-2610-214381.html</guid>
-      <description>Bei Amazon sind die beliebten Eneloop-Akkus nur noch heute befristet im Angebot. (Technik/Hardware)</description>
-      <pubDate>Thu, 22 Oct 2026 08:36:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
