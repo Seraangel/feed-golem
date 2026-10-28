@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 17:45:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:50:40 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: NIS 2 in bestehende Sicherheitskonzepte integrieren</title>
+      <link>https://www.golem.de/news/anzeige-nis-2-in-bestehende-sicherheitskonzepte-integrieren-2610-214493.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-nis-2-in-bestehende-sicherheitskonzepte-integrieren-2610-214493.html</guid>
+      <description>NIS 2 muss in bestehende Sicherheitskonzepte eingebunden werden. Ein Online-Workshop vermittelt konkrete Schritte für Risikomanagement und Umsetzung. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Wed, 28 Oct 2026 17:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>Decoding China 2026: Huawei will das Reichweitenproblem von 6 GHz gelöst haben</title>
       <link>https://www.golem.de/news/decoding-china-2026-huawei-will-das-reichweitenproblem-von-6-ghz-geloest-haben-2610-214614.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-nach-preisfall-18v-akku-von-bosch-erobert-die-amazon-charts-2610-214415.html</guid>
       <description>Der 5-Ah-Akku von Bosch Professional wird seit mehreren Tagen so günstig wie nie von Amazon angeboten. (Technik/Hardware)</description>
       <pubDate>Thu, 22 Oct 2026 16:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 DSGVO-konform betreiben und absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2610-214324.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-dsgvo-konform-betreiben-und-absichern-2610-214324.html</guid>
-      <description>Microsoft 365 stellt Unternehmen vor Datenschutzfragen. Ein Workshop zeigt, wie sich DSGVO-Anforderungen, Datenresidenz und Audit-Pflichten technisch umsetzen lassen. (Golem Karrierewelt, Datenschutz)</description>
-      <pubDate>Thu, 22 Oct 2026 16:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
