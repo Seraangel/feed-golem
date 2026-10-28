@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 08:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:10:41 GMT</lastBuildDate>
+    <item>
+      <title>Hobby-Port: Entwickler bringt iOS 26 auf Surface Duo</title>
+      <link>https://www.golem.de/news/hobby-port-entwickler-bringt-ios-26-auf-surface-duo-2610-214577.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hobby-port-entwickler-bringt-ios-26-auf-surface-duo-2610-214577.html</guid>
+      <description>Ein Entwickler startet iOS 26 auf dem Surface Duo 2. Beide Displays und Touch funktionieren. (Mobile Endgeräte, Apple)</description>
+      <pubDate>Wed, 28 Oct 2026 08:07:09 GMT</pubDate>
+    </item>
     <item>
       <title>Probefahrt: So gut fährt Nvidias KI-Alpamayo in Berlin</title>
       <link>https://www.golem.de/news/probefahrt-so-gut-faehrt-nvidias-ki-alpamayo-in-berlin-2610-214560.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/apple-das-sagen-erste-tester-ueber-das-iphone-duo-2610-214378.html</guid>
       <description>Apples iPhone Duo ist bei den ersten Testern angekommen. Positiv wird vor allem das Display hervorgehoben, es gibt aber auch Kritik. (iPhone Duo, Smartphone)</description>
       <pubDate>Thu, 22 Oct 2026 08:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Verstecktes Menü verschiebt Taskleiste in Windows 11</title>
-      <link>https://www.golem.de/news/microsoft-verstecktes-menue-verschiebt-taskleiste-in-windows-11-2610-214377.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-verstecktes-menue-verschiebt-taskleiste-in-windows-11-2610-214377.html</guid>
-      <description>Taskleiste an den Seiten oder doch lieber wie bei MacOS oben am Rand? Microsoft testet das Verschieben per Menü, nicht aber Drag-and-Drop. (Windows 11, Microsoft)</description>
-      <pubDate>Thu, 22 Oct 2026 07:57:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
