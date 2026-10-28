@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 07:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 08:05:38 GMT</lastBuildDate>
+    <item>
+      <title>Probefahrt: So gut fährt Nvidias KI-Alpamayo in Berlin</title>
+      <link>https://www.golem.de/news/probefahrt-so-gut-faehrt-nvidias-ki-alpamayo-in-berlin-2610-214560.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/probefahrt-so-gut-faehrt-nvidias-ki-alpamayo-in-berlin-2610-214560.html</guid>
+      <description>Nvidias Fahr-KI Alpamayo kommt mit dem Berliner Verkehr erstaunlich gut klar. Bei unserer Testfahrt zeigten sich aber auch die Grenzen des Systems. Ein Bericht von Johannes Hiltscher (Autonomes Fahren, Nvidia)</description>
+      <pubDate>Wed, 28 Oct 2026 08:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Streamingabo: Abonnenten verbringen weniger Zeit in der Netflix-App</title>
       <link>https://www.golem.de/news/streamingabo-abonnenten-verbringen-weniger-zeit-in-der-netflix-app-2610-214576.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-verstecktes-menue-verschiebt-taskleiste-in-windows-11-2610-214377.html</guid>
       <description>Taskleiste an den Seiten oder doch lieber wie bei MacOS oben am Rand? Microsoft testet das Verschieben per Menü, nicht aber Drag-and-Drop. (Windows 11, Microsoft)</description>
       <pubDate>Thu, 22 Oct 2026 07:57:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krankmeldungen zum Release: GTA 6 soll die USA an einem Tag eine Milliarde kosten</title>
-      <link>https://www.golem.de/news/krankmeldungen-zum-release-gta-6-soll-die-usa-an-einem-tag-eine-milliarde-kosten-2610-214376.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/krankmeldungen-zum-release-gta-6-soll-die-usa-an-einem-tag-eine-milliarde-kosten-2610-214376.html</guid>
-      <description>Ein Ökonom erwartet 1,5 Millionen fehlende Arbeitnehmer am Release-Tag von GTA 6. Die Rechnung dahinter ist allerdings dünn. (Spiele, Take-Two)</description>
-      <pubDate>Thu, 22 Oct 2026 07:47:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
