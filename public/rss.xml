@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 09:40:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:50:35 GMT</lastBuildDate>
+    <item>
+      <title>Zero 3W &amp; 4 Model A: Hinweise auf neue Raspberry Pi 4</title>
+      <link>https://www.golem.de/news/zero-3w-4-model-a-hinweise-auf-neue-raspberry-pi-4-2610-214581.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zero-3w-4-model-a-hinweise-auf-neue-raspberry-pi-4-2610-214581.html</guid>
+      <description>Raspberry Pi sind mittlerweile extrem teuer geworden. Der Linux-Kernel kündigt nun zwei neue, günstigere Modelle an. (Raspberry Pi, Linux)</description>
+      <pubDate>Wed, 28 Oct 2026 09:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Apple Watch Ultra 3 jetzt zum neuen Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-apple-watch-ultra-3-jetzt-zum-neuen-amazon-bestpreis-2610-214586.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/xbox-cloud-gaming-microsoft-verlangt-alternativ-kuenftig-geld-pro-spielstunde-2610-214383.html</guid>
       <description>Xbox-Spiele lassen sich künftig auch ohne Game-Pass-Abo über die Cloud streamen. Dafür fallen zwischen 24 und 40 US-Cent pro Spielstunde an. (Xbox, Microsoft)</description>
       <pubDate>Thu, 22 Oct 2026 10:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonomes Fahren: Selbstfahrassistent von Mercedes kommt nach Deutschland</title>
-      <link>https://www.golem.de/news/autonomes-fahren-mercedes-bringt-fsd-konkurrenten-nach-deutschland-2610-214388.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-mercedes-bringt-fsd-konkurrenten-nach-deutschland-2610-214388.html</guid>
-      <description>Mercedes-Benz' Punkt-zu-Punkt-Fahrassistent kann ab Anfang 2027 gebucht werden - inklusive kostenlosem Probemonat. (Mercedes Benz, Elektroauto)</description>
-      <pubDate>Thu, 22 Oct 2026 09:48:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
