@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 10:45:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 11:05:37 GMT</lastBuildDate>
+    <item>
+      <title>Leica SL3-P im Test: Für Fotos und Videos stark, beim Preis bleibt die SL3-P Luxus</title>
+      <link>https://www.golem.de/news/leica-sl3-p-im-test-fuer-fotos-und-videos-stark-beim-preis-bleibt-die-sl3-p-luxus-2610-214450.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/leica-sl3-p-im-test-fuer-fotos-und-videos-stark-beim-preis-bleibt-die-sl3-p-luxus-2610-214450.html</guid>
+      <description>Die SL-Serie ist Leicas moderne Allrounder-Serie für Fotos und Videos. Die neue SL3-P ist ein guter Kompromiss zwischen den beiden anderen Modellen. Ein Test von Tobias Költzsch (Leica, Kameras)</description>
+      <pubDate>Wed, 28 Oct 2026 11:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Robotaxis: Musk sieht Konkurrenz mit Waymo als "keinen echten Wettkampf"</title>
       <link>https://www.golem.de/news/robotaxis-musk-sieht-konkurrenz-mit-waymo-als-keinen-echten-wettkampf-2610-214591.html</link>
@@ -104,7 +111,7 @@
       <pubDate>Wed, 28 Oct 2026 08:07:09 GMT</pubDate>
     </item>
     <item>
-      <title>Probefahrt: So gut fährt Nvidias KI-Alpamayo in Berlin</title>
+      <title>Probefahrt: So gut fährt Nvidias KI Alpamayo in Berlin</title>
       <link>https://www.golem.de/news/probefahrt-so-gut-faehrt-nvidias-ki-alpamayo-in-berlin-2610-214560.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/probefahrt-so-gut-faehrt-nvidias-ki-alpamayo-in-berlin-2610-214560.html</guid>
       <description>Nvidias Fahr-KI Alpamayo kommt mit dem Berliner Verkehr erstaunlich gut klar. Bei unserer Testfahrt zeigten sich aber auch die Grenzen des Systems. Ein Bericht von Johannes Hiltscher (Autonomes Fahren, Nvidia)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-vertikale-heissluftfritteuse-von-ninja-fuer-unter-80-euro-bei-back-market-2610-214385.html</guid>
       <description>Die Heißluftfritteuse Ninja Double Stack Pro mit zwei vertikalen Schubladen gibt es refurbished zum Sparpreis bei Back Market. (Technik/Hardware)</description>
       <pubDate>Thu, 22 Oct 2026 11:25:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Für Rechenzentren: Nvidia will mehr Geld mit Software-Lizenzen verdienen</title>
-      <link>https://www.golem.de/news/fuer-rechenzentren-nvidia-will-mehr-geld-mit-software-lizenzen-verdienen-2610-214389.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuer-rechenzentren-nvidia-will-mehr-geld-mit-software-lizenzen-verdienen-2610-214389.html</guid>
-      <description>Bislang stellt Nvidia Software für KI-Systeme kostenlos bereit. Das soll sich ändern, Lizenzen sollen ein neues Standbein werden. (Nvidia, KI)</description>
-      <pubDate>Thu, 22 Oct 2026 11:12:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
