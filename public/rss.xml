@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 28 Oct 2026 08:55:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:05:39 GMT</lastBuildDate>
+    <item>
+      <title>Digitale Souveränität im All: Ukraine testet eigenen Kommunikationssatelliten</title>
+      <link>https://www.golem.de/news/digitale-souveraenitaet-im-all-ukraine-testet-eigenen-kommunikationssatelliten-2610-214575.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-im-all-ukraine-testet-eigenen-kommunikationssatelliten-2610-214575.html</guid>
+      <description>Der Testsatellit Obria Nano kreist seit dem 1. Oktober 2026 im Orbit. Mit dem Projekt wollen Himera und Gomspace die Grundlagen für ein nationales ukrainisches Kommunikationsnetz legen. (Satelliten, Mesh)</description>
+      <pubDate>Wed, 28 Oct 2026 09:01:07 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Boom: Fujifilm investiert massiv in Magnetbandproduktion</title>
       <link>https://www.golem.de/news/ki-boom-fujifilm-investiert-massiv-in-magnetbandproduktion-2610-214580.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-soundcore-p31i-in-ears-mit-adaptivem-anc-jetzt-unter-40-euro-bei-amazon-2610-214382.html</guid>
       <description>Lärm filtern die Soundcore P31i per adaptivem ANC heraus, dazu übersetzen sie in über 100 Sprachen und sind jetzt günstiger zu haben. (Technik/Hardware)</description>
       <pubDate>Thu, 22 Oct 2026 09:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP2Shell: Zwei PHP-Lücken, Jahre an Vorarbeit und eine hektische Offenlegung</title>
-      <link>https://www.golem.de/news/php2shell-zwei-php-luecken-jahre-an-vorarbeit-und-eine-hektische-offenlegung-2610-214379.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/php2shell-zwei-php-luecken-jahre-an-vorarbeit-und-eine-hektische-offenlegung-2610-214379.html</guid>
-      <description>Zwei kritische PHP-Lücken bringen Admins seit Mittwoch gehörig ins Schwitzen. Die PHP Foundation schwitzt deswegen schon seit zwei Jahren. Eine Analyse von Marc Stöckel (Sicherheitslücke, PHP)</description>
-      <pubDate>Thu, 22 Oct 2026 09:15:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
