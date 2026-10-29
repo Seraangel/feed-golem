@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 17:50:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:55:45 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: 256 GByte große MicroSD-Karte von Sandisk zum Bestpreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-256-gbyte-grosse-microsd-karte-von-sandisk-zum-bestpreis-bei-amazon-2610-214662.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-256-gbyte-grosse-microsd-karte-von-sandisk-zum-bestpreis-bei-amazon-2610-214662.html</guid>
+      <description>Amazon verkauft die Sandisk Extreme-MicroSD-Karte mit 256 GByte für unter 52 Euro. Günstiger ist sie bei keinem anderen Anbieter. (Speichermedien, Amazon)</description>
+      <pubDate>Thu, 29 Oct 2026 17:53:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Penetration Testing: Sicherheitslücken praktisch untersuchen</title>
       <link>https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-praktisch-untersuchen-2610-214657.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-2-makita-kompatible-akkus-kosten-bei-amazon-zusammen-43-euro-2610-214464.html</guid>
       <description>Zwei Makita-kompatible Akkus kosten bei Amazon im Set keine 43 Euro. Das Angebot gilt befristet. (Technik/Hardware)</description>
       <pubDate>Fri, 23 Oct 2026 16:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365 nach dem Zero-Trust-Prinzip absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-nach-dem-zero-trust-prinzip-absichern-2610-214323.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-nach-dem-zero-trust-prinzip-absichern-2610-214323.html</guid>
-      <description>Zero Trust verbindet Zugriffsschutz, Datenschutz und Monitoring in Microsoft 365. Ein Online-Workshop vermittelt die passenden Sicherheitsmaßnahmen. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Fri, 23 Oct 2026 16:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
