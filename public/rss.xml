@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 15:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:55:45 GMT</lastBuildDate>
+    <item>
+      <title>Umzug auf Azure: KI-Agenten bringen Githubs Infrastruktur an ihre Grenzen</title>
+      <link>https://www.golem.de/news/umzug-auf-azure-ki-agenten-bringen-githubs-infrastruktur-an-ihre-grenzen-2610-214650.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/umzug-auf-azure-ki-agenten-bringen-githubs-infrastruktur-an-ihre-grenzen-2610-214650.html</guid>
+      <description>Um mit dem exponentiellen Wachstum mitzuhalten, baut Github seine Infrastruktur massiv aus - bei Azure statt im eigenen Rechenzentrum. (Github, Computer)</description>
+      <pubDate>Thu, 29 Oct 2026 15:51:02 GMT</pubDate>
+    </item>
     <item>
       <title>Macbook Pro mit Proled XDR: Steve Jobs hatte recht</title>
       <link>https://www.golem.de/news/macbook-pro-mit-proled-xdr-steve-jobs-hatte-recht-2610-214648.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/megawatt-lader-chery-laedt-in-6-minuten-und-50-sekunden-auf-97-prozent-2610-214457.html</guid>
       <description>Chery hat in China einen eigenen Megawatt-Charger für Elektroautos vorgestellt. Doch es gibt schnellere Konkurrenz. (Elektroauto, Auto)</description>
       <pubDate>Fri, 23 Oct 2026 14:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Vertikale Maus mit sechs Tasten für nur 13,95 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-vertikale-maus-mit-sechs-tasten-fuer-nur-13-95-euro-bei-amazon-2610-214455.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-vertikale-maus-mit-sechs-tasten-fuer-nur-13-95-euro-bei-amazon-2610-214455.html</guid>
-      <description>Amazon hat eine vertikale Maus mit sechs Tasten und 4.000 DPI im Angebot, die sich kabellos über 2,4 GHz und Bluetooth verbinden lässt. (Maus, Technik/Hardware)</description>
-      <pubDate>Fri, 23 Oct 2026 13:53:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
