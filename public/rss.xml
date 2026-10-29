@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 09:55:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:10:42 GMT</lastBuildDate>
+    <item>
+      <title>Forscher warnen: Über 300 Chrome-Add-ons leiten heimlich Traffic um</title>
+      <link>https://www.golem.de/news/forscher-warnen-ueber-300-chrome-add-ons-leiten-heimlich-traffic-um-2610-214629.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/forscher-warnen-ueber-300-chrome-add-ons-leiten-heimlich-traffic-um-2610-214629.html</guid>
+      <description>Die Erweiterungen kommen zusammen auf über 13 Millionen Installationen. Sie leiten Suchanfragen um und bescheren den Betreibern damit Werbeeinnahmen. (Browser, Chrome)</description>
+      <pubDate>Thu, 29 Oct 2026 10:09:11 GMT</pubDate>
+    </item>
     <item>
       <title>Einsteiger-CPUs: Intel erweitert günstige Reihe Wildcat Lake</title>
       <link>https://www.golem.de/news/einsteiger-cpus-intel-erweitert-guenstige-reihe-wildcat-lake-2610-214627.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-dji-osmo-pocket-3-inkl-dji-mic-2-im-set-zum-aktionspreis-bei-amazon-2610-214430.html</guid>
       <description>Die DJI Osmo Pocket 3 filmt dank Gimbal ruhige 4K-Videos im Taschenformat und ist im Kreativ-Set mit Funkmikrofon gerade günstiger zu haben. (Technik/Hardware)</description>
       <pubDate>Fri, 23 Oct 2026 08:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Preussenelektra: Alte Kernkraftwerke könnten KI-Rechenzentren werden</title>
-      <link>https://www.golem.de/news/preussenelektra-alte-kernkraftwerke-koennten-ki-rechenzentren-werden-2610-214429.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/preussenelektra-alte-kernkraftwerke-koennten-ki-rechenzentren-werden-2610-214429.html</guid>
-      <description>Alte Kraftwerksstandorte wären ideal für KI-Rechenzentren. Nvidia und Preussenelektra prüfen, ob sich Kernkraftstandorte eignen. (Energie &amp; Klima, Nvidia)</description>
-      <pubDate>Fri, 23 Oct 2026 08:29:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
