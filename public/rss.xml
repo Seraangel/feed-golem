@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 16:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:55:42 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheitsrisiko: Arbeitgeber löschen häufig nicht die digitalen Zugänge ihrer Ex-Mitarbeiter</title>
+      <link>https://www.golem.de/news/sicherheitsrisiko-arbeitgeber-loeschen-haeufig-nicht-die-digitalen-zugaenge-ihrer-ex-mitarbeiter-2610-214659.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsrisiko-arbeitgeber-loeschen-haeufig-nicht-die-digitalen-zugaenge-ihrer-ex-mitarbeiter-2610-214659.html</guid>
+      <description>Lediglich 49 Prozent der Befragten bestätigen die Deaktivierung aller Logins. 54 Prozent nutzen indes auch nach ihrem Ausscheiden noch funktionierende Zugänge. (Datenschutz, Security)</description>
+      <pubDate>Thu, 29 Oct 2026 16:51:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bestseller bei Amazon: kabellose Ladestation für iOS und Android jetzt unter 14 Euro</title>
       <link>https://www.golem.de/news/anzeige-bestseller-bei-amazon-kabellose-ladestation-fuer-ios-und-android-jetzt-unter-14-euro-2610-214652.html</link>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 29 Oct 2026 16:40:04 GMT</pubDate>
     </item>
     <item>
-      <title>Robotik: Lieferroboter verursacht Unfall und begeht Fahrerflucht</title>
+      <title>Robotik: Lieferroboter verursacht Unfall mit neun Verletzten und fährt weiter</title>
       <link>https://www.golem.de/news/robotik-lieferroboter-verursacht-unfall-und-begeht-fahrerflucht-2610-214653.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/robotik-lieferroboter-verursacht-unfall-und-begeht-fahrerflucht-2610-214653.html</guid>
       <description>In Tallinn werden neun Menschen verletzt, weil ein Lieferroboter über Rot fährt. Technisch gesehen hat der Betreiber Fahrerflucht begangen. (Starship Technologies, Roboter)</description>
@@ -195,7 +202,7 @@
       <pubDate>Thu, 29 Oct 2026 09:54:09 GMT</pubDate>
     </item>
     <item>
-      <title>Endlagersuche: Noch 5 Prozent Deutschlands für Endlagerung geeignet</title>
+      <title>Endlagersuche: Nur noch 5 Prozent Deutschlands kommen als Endlagerstandort infrage</title>
       <link>https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html</guid>
       <description>Nur wenige Regionen kommen noch für ein Atommüllendlager infrage. Fünf Bundesländer sind komplett ausgeschieden, weitere folgen. (Atomkraft, Energie &amp; Klima)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/familientarif-spotify-geht-gegen-unerlaubtes-kontensharing-vor-2610-214462.html</guid>
       <description>Das Familienabo von Spotify ist für Familienmitglieder gedacht - wird aber offenbar auch anderweitig genutzt. Das soll nun enden. (Spotify, Verbraucherschutz)</description>
       <pubDate>Fri, 23 Oct 2026 15:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Energiekosten: Zubau von Batteriespeichern hat sich fast verdoppelt</title>
-      <link>https://www.golem.de/news/energiekosten-zubau-von-batteriespeichern-hat-sich-fast-verdoppelt-2610-214460.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/energiekosten-zubau-von-batteriespeichern-hat-sich-fast-verdoppelt-2610-214460.html</guid>
-      <description>Im Vergleich zu 2025 ist die Kapazität neu installierter Akkuspeicher in Deutschland um 91 Prozent gestiegen. Weitere Maßnahmen könnten dies noch beschleunigen. (Akku, Solarenergie)</description>
-      <pubDate>Fri, 23 Oct 2026 15:11:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
