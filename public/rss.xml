@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 14:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:30:47 GMT</lastBuildDate>
+    <item>
+      <title>Gemini 4 Carbon: Google stellt leistungsfähigere Version von Argon vor</title>
+      <link>https://www.golem.de/news/gemini-4-carbon-google-stellt-leistungsfaehigere-version-von-argon-vor-2610-214646.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gemini-4-carbon-google-stellt-leistungsfaehigere-version-von-argon-vor-2610-214646.html</guid>
+      <description>Google kündigt mit Gemini 4 Carbon ein neues KI-Modell an. Normale Nutzer und Entwickler erhalten vorerst keinen Zugang. (Gemini, Google)</description>
+      <pubDate>Thu, 29 Oct 2026 14:28:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Curved Gaming-Laptop mit OLED-Display günstig wie nie bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-curved-gaming-laptop-mit-oled-display-guenstig-wie-nie-bei-amazon-2610-214645.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bezahlsystem-gnu-taler-gruendet-betreibergesellschaft-fuer-deutschlandstart-2610-214449.html</guid>
       <description>Das Bezahlsystem GNU Taler plant den Deutschlandstart mit einer neuen Betreiberfirma. Noch fehlen aber Kapital und die Zulassung der Bafin. (Zahlungssysteme, Datenschutz)</description>
       <pubDate>Fri, 23 Oct 2026 12:43:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Daten-Omnibus: EU-Ministerrat will Datenschutz für KI-Training lockern</title>
-      <link>https://www.golem.de/news/daten-omnibus-eu-ministerrat-will-datenschutz-fuer-ki-training-lockern-2610-214448.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/daten-omnibus-eu-ministerrat-will-datenschutz-fuer-ki-training-lockern-2610-214448.html</guid>
-      <description>Der EU-Ministerrat hat sich beim Daten-Omnibus geeinigt. KI-Training mit persönlichen Daten soll einfacher werden. (DSGVO, Datenschutz)</description>
-      <pubDate>Fri, 23 Oct 2026 12:27:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
