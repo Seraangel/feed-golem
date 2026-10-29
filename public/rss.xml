@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 09:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 09:55:42 GMT</lastBuildDate>
+    <item>
+      <title>Einsteiger-CPUs: Intel erweitert günstige Reihe Wildcat Lake</title>
+      <link>https://www.golem.de/news/einsteiger-cpus-intel-erweitert-guenstige-reihe-wildcat-lake-2610-214627.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/einsteiger-cpus-intel-erweitert-guenstige-reihe-wildcat-lake-2610-214627.html</guid>
+      <description>Ein Modell mit mehr P-Cores, eines komplett ohne: Ein Leak zeigt, dass Intel weitere CPUs für günstige Computer plant. (Prozessor, Intel)</description>
+      <pubDate>Thu, 29 Oct 2026 09:54:09 GMT</pubDate>
+    </item>
     <item>
       <title>Endlagersuche: Noch 5 Prozent Deutschlands für Endlagerung geeignet</title>
       <link>https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/preussenelektra-alte-kernkraftwerke-koennten-ki-rechenzentren-werden-2610-214429.html</guid>
       <description>Alte Kraftwerksstandorte wären ideal für KI-Rechenzentren. Nvidia und Preussenelektra prüfen, ob sich Kernkraftstandorte eignen. (Energie &amp; Klima, Nvidia)</description>
       <pubDate>Fri, 23 Oct 2026 08:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Illegales Tuning: Bei manchen E-Scootern reicht ein Haken in der App</title>
-      <link>https://www.golem.de/news/illegales-tuning-bei-manchen-e-scootern-reicht-ein-haken-in-der-app-2610-214428.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/illegales-tuning-bei-manchen-e-scootern-reicht-ein-haken-in-der-app-2610-214428.html</guid>
-      <description>Polizei und Unfallforscher warnen vor illegal getunten E-Scootern. Jugendliche verunglücken laut Landesverkehrswacht mit bis zu 80 km/h. (Polizei, Elektromobilität)</description>
-      <pubDate>Fri, 23 Oct 2026 08:22:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
