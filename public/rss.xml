@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 17:45:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:50:44 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Penetration Testing: Sicherheitslücken praktisch untersuchen</title>
+      <link>https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-praktisch-untersuchen-2610-214657.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-praktisch-untersuchen-2610-214657.html</guid>
+      <description>Penetration Testing macht Sicherheitslücken nachvollziehbar. Ein zweitägiger Workshop vermittelt Grundlagen und praktische Methoden für Webanwendungen und Netzwerke. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Thu, 29 Oct 2026 17:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>Megaspeed: Mutmaßliche chinesische Agentin in der Nähe von Nvidia-CEO Huang</title>
       <link>https://www.golem.de/news/megaspeed-mutmassliche-chinesische-agentin-in-der-naehe-von-nvidia-ceo-huang-2610-214661.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-nach-dem-zero-trust-prinzip-absichern-2610-214323.html</guid>
       <description>Zero Trust verbindet Zugriffsschutz, Datenschutz und Monitoring in Microsoft 365. Ein Online-Workshop vermittelt die passenden Sicherheitsmaßnahmen. (Golem Karrierewelt, Sicherheitslücke)</description>
       <pubDate>Fri, 23 Oct 2026 16:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Camping-Powerbank mit 90.000 mAh für unter 40 Euro</title>
-      <link>https://www.golem.de/news/anzeige-camping-powerbank-mit-90-000-mah-fuer-unter-40-euro-2610-214465.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-camping-powerbank-mit-90-000-mah-fuer-unter-40-euro-2610-214465.html</guid>
-      <description>Eine Camping-Powerbank von Cuzar mit 90.000 mAh Kapazität und 30 W Spitzenleistung für bis zu 5 Geräte ist bei Amazon zum Tiefstpreis im Angebot. (Technik/Hardware, Amazon)</description>
-      <pubDate>Fri, 23 Oct 2026 16:34:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
