@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 06:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 06:30:42 GMT</lastBuildDate>
+    <item>
+      <title>Sattelschlepper: Tesla Semi geht in Flammen auf</title>
+      <link>https://www.golem.de/news/sattelschlepper-tesla-semi-geht-in-flammen-auf-2610-214618.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sattelschlepper-tesla-semi-geht-in-flammen-auf-2610-214618.html</guid>
+      <description>Ein Tesla Semi ist auf der Interstate 880 in Kalifornien in Brand geraten, der Fahrer blieb unverletzt. Die Brandursache ist noch ungeklärt. (Tesla, Elektroauto)</description>
+      <pubDate>Thu, 29 Oct 2026 06:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>Apple: Mac Studio mit 512 GB RAM kostet mehr als 25.000 Euro</title>
       <link>https://www.golem.de/news/apple-mac-studio-mit-512-gb-ram-kostet-mehr-als-25-000-euro-2610-214617.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/vibe-coding-windows-98-bekommt-usb-4-und-thunderbolt-2610-214420.html</guid>
       <description>Der freie, mithilfe von KI entwickelte Treiber soll auch auf Windows SE, XP, Vista und 7 laufen. (Windows, KI)</description>
       <pubDate>Fri, 23 Oct 2026 06:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Segelboot: Rumpf des Ferrari Hypersail fertiggestellt</title>
-      <link>https://www.golem.de/news/segelboot-rumpf-des-ferrari-hypersail-fertiggestellt-2610-214418.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/segelboot-rumpf-des-ferrari-hypersail-fertiggestellt-2610-214418.html</guid>
-      <description>Das Ferrari-Hypersail-Projekt scheint in die letzte Bauphase einzutreten: Der Rumpf ist etwa 30 Meter lang. (Ferrari, Mobilität)</description>
-      <pubDate>Fri, 23 Oct 2026 05:50:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
