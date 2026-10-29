@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 12:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:00:46 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheit: Universität Leipzig nimmt nach Cyberangriff ganze IT offline</title>
+      <link>https://www.golem.de/news/sicherheit-universitaet-leipzig-nimmt-nach-cyberangriff-ganze-it-offline-2610-214635.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-universitaet-leipzig-nimmt-nach-cyberangriff-ganze-it-offline-2610-214635.html</guid>
+      <description>Ein Cyberangriff zwingt die Universität Leipzig zum Handeln. Alle IT-Dienste sind vorerst offline. Wie lange das so bleibt, ist noch unklar. (Cybercrime, Phishing)</description>
+      <pubDate>Thu, 29 Oct 2026 12:57:06 GMT</pubDate>
+    </item>
     <item>
       <title>Milliardenloch bei Alphabet: Eigene KI kannibalisiert das Suchgeschäft bei Google</title>
       <link>https://www.golem.de/news/milliardenloch-bei-alphabet-eigene-ki-kannibalisiert-das-suchgeschaeft-bei-google-2610-214643.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cyber-resilience-act-die-meldepflicht-mit-den-eingebauten-luecken-2610-214438.html</guid>
       <description>Seit September gilt eine neue EU-Meldepflicht für Sicherheitslücken. Doch wer ein älteres vernetztes Gerät besitzt, kann auf einem bekannten Problem sitzen bleiben - ganz legal. Eine Analyse von Jan Gruber (Security, Exfat)</description>
       <pubDate>Fri, 23 Oct 2026 11:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bundesdigitalminister Karsten Wildberger: Deutschland-App liegt hinter Zeitplan zurück</title>
-      <link>https://www.golem.de/news/bundesdigitalminister-karsten-wildberger-deutschland-app-liegt-hinter-zeitplan-zurueck-2610-214444.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bundesdigitalminister-karsten-wildberger-deutschland-app-liegt-hinter-zeitplan-zurueck-2610-214444.html</guid>
-      <description>Der Probebetrieb in allen Pilotkommunen für die Deutschland-App sollte eigentlich Mitte September starten. Karsten Wildberger räumt Probleme ein, relativiert aber mit gestiegenen Ansprüchen. (Digitalisierung, KI)</description>
-      <pubDate>Fri, 23 Oct 2026 11:06:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
