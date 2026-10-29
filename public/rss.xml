@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 10:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:40:41 GMT</lastBuildDate>
+    <item>
+      <title>1-zu-1-Nachbau: Student rekreiert die Schweiz in Minecraft</title>
+      <link>https://www.golem.de/news/1-zu-1-nachbau-student-rekreiert-die-schweiz-in-minecraft-2610-214631.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/1-zu-1-nachbau-student-rekreiert-die-schweiz-in-minecraft-2610-214631.html</guid>
+      <description>Das Land wird maßstabsgetreu nach Geodaten erschaffen. Ein Block hat dabei eine Kantenlänge von einem Meter. (Spiele, Minecraft)</description>
+      <pubDate>Thu, 29 Oct 2026 10:38:02 GMT</pubDate>
+    </item>
     <item>
       <title>Wegen Porsche und China: Volkswagen meldet 5,82 Milliarden Euro Verlust</title>
       <link>https://www.golem.de/news/wegen-porsche-und-china-volkswagen-meldet-5-82-milliarden-euro-verlust-2610-214630.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-us-mobilfunk-musk-auch-mit-80-000-funkmasten-klappt-es-nicht-2610-214434.html</guid>
       <description>Durch den Zugriff auf die Hälfte aller US-Mobilfunk-Standorte und den Aufkauf verschiedener Frequenzpakete stellt sich SpaceX weiter für den Betrieb eines eigenen Mobilfunknetzes auf. Doch das reicht alles noch nicht aus. Eine Analyse von Achim Sawall (SpaceX, Mobilfunk)</description>
       <pubDate>Fri, 23 Oct 2026 09:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nintendo: Switch 2 mit KI und mechanischem Knopf geknackt</title>
-      <link>https://www.golem.de/news/nintendo-switch-2-mit-ki-und-mechanischem-knopf-geknackt-2610-214432.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nintendo-switch-2-mit-ki-und-mechanischem-knopf-geknackt-2610-214432.html</guid>
-      <description>Ein Entwickler hat mit Codex einen Jailbreak für die Switch 2 geschaffen. Für einige Versuche nutzte er einen Lichtschalter-Betätiger. (Nintendo Switch 2, Homebrew)</description>
-      <pubDate>Fri, 23 Oct 2026 09:06:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
