@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 08:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 08:50:46 GMT</lastBuildDate>
+    <item>
+      <title>Pico11: Dieses Windows 11 passt auf eine CD-ROM</title>
+      <link>https://www.golem.de/news/pico11-dieses-windows-11-passt-auf-eine-cd-rom-2610-214623.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pico11-dieses-windows-11-passt-auf-eine-cd-rom-2610-214623.html</guid>
+      <description>Der Bastler NTDEV will Pico11 als spezielles Windows 11 anbieten. Das braucht im Idle nicht einmal 1 GByte RAM. (Windows 11, Virtualisierung)</description>
+      <pubDate>Thu, 29 Oct 2026 08:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>Xreal Aura: Leichte Android-XR-Brille kommt in ersten Ländern auf den Markt</title>
       <link>https://www.golem.de/news/xreal-aura-leichte-android-xr-brille-kommt-in-ersten-laendern-auf-den-markt-2610-214624.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kernfusion-hybrid-aus-tokamak-und-stellarator-wird-erforscht-2610-214427.html</guid>
       <description>Zwei führende Forschungszentren suchen gemeinsam neue Wege zur Kernfusion. Die Experimente finden in Garching, Greifswald und New York statt. (Kernfusion, Iter)</description>
       <pubDate>Fri, 23 Oct 2026 07:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hackintosh reloaded: MacOS 27 läuft auf einem Windows-Notebook mit Snapdragon</title>
-      <link>https://www.golem.de/news/hackintosh-reloaded-macos-27-laeuft-auf-einem-windows-notebook-mit-snapdragon-2610-214425.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hackintosh-reloaded-macos-27-laeuft-auf-einem-windows-notebook-mit-snapdragon-2610-214425.html</guid>
-      <description>Hackintosh auf ARM: Snapintosh startet MacOS 27 auf einem Snapdragon-Notebook. Ohne zweiten Mac als Host geht es allerdings nicht. (Hackintosh, Apple)</description>
-      <pubDate>Fri, 23 Oct 2026 07:51:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
