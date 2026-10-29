@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 20:30:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:00:43 GMT</lastBuildDate>
+    <item>
+      <title>Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch</title>
+      <link>https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</guid>
+      <description>Eine schwere Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. Es ist Patch-Zeit. (Linux-Kernel, Server)</description>
+      <pubDate>Thu, 29 Oct 2026 20:56:06 GMT</pubDate>
+    </item>
     <item>
       <title>Patrick Stewart: Der Captain hat die Brücke verlassen</title>
       <link>https://www.golem.de/news/patrick-stewart-der-captain-hat-die-bruecke-verlassen-2610-146919.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/home-assistant-open-source-trifft-smart-home-2610-214456.html</guid>
       <description>Home Assistant verbindet Smart-Home-Geräte verschiedener Hersteller, ohne auf die Cloud angewiesen zu sein. Wir zeigen, wie die Einrichtung funktioniert und was sich damit automatisieren lässt. Ein Ratgebertext von Fabian Deitelhoff (Smart Home, Server)</description>
       <pubDate>Sat, 24 Oct 2026 08:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 Jahre Baphomets Fluch: Paris sehen und Tempelritter jagen</title>
-      <link>https://www.golem.de/news/30-jahre-baphomets-fluch-paris-sehen-und-tempelritter-jagen-2610-214384.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/30-jahre-baphomets-fluch-paris-sehen-und-tempelritter-jagen-2610-214384.html</guid>
-      <description>Ein Clown, ein Mord und die Geheimnisse der Tempelritter: Warum Baphomets Fluch auch 30 Jahre später noch beste Adventure-Unterhaltung bietet! Von Olaf Bleich und Benedikt Plass-Fleßenkämper (Baphomets Fluch, Adventure)</description>
-      <pubDate>Sat, 24 Oct 2026 05:30:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
