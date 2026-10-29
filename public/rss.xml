@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 12:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:10:47 GMT</lastBuildDate>
+    <item>
+      <title>Retro aus dem 3D-Drucker: C64-Look für moderne Tastaturen</title>
+      <link>https://www.golem.de/news/retro-aus-dem-3d-drucker-c64-look-fuer-moderne-tastaturen-2610-214637.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/retro-aus-dem-3d-drucker-c64-look-fuer-moderne-tastaturen-2610-214637.html</guid>
+      <description>Ein Bastler hat Tastaturkappen im Stil des C64 entwickelt - mit MX-Mount für viele Tastaturen. Die Keycaps können selbst gedruckt werden. (C64, Eingabegerät)</description>
+      <pubDate>Thu, 29 Oct 2026 12:08:09 GMT</pubDate>
+    </item>
     <item>
       <title>Milliarden mit Azure: Microsoft entkräftet Zweifel an gigantischen KI-Investitionen</title>
       <link>https://www.golem.de/news/milliarden-mit-azure-microsoft-entkraeftet-zweifel-an-gigantischen-ki-investitionen-2610-214634.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/baukastensystem-mercedes-will-autofertigung-mit-austauschbaren-modulen-beschleunigen-2610-214441.html</guid>
       <description>Ein modulares Baukastensystem soll die Autofertigung bei Mercedes im kommenden Jahrzehnt vereinfachen und beschleunigen. (Mercedes Benz, Elektroauto)</description>
       <pubDate>Fri, 23 Oct 2026 10:33:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>82 Prozent ungepatcht: Über 34 Millionen Systeme noch anfällig für PHP2Shell</title>
-      <link>https://www.golem.de/news/82-prozent-ungepatcht-ueber-34-millionen-systeme-noch-anfaellig-fuer-php2shell-2610-214437.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/82-prozent-ungepatcht-ueber-34-millionen-systeme-noch-anfaellig-fuer-php2shell-2610-214437.html</guid>
-      <description>Laut Scans von Censys ist PHP2Shell auf den meisten Systemen im Netz noch ausnutzbar. Allein in Deutschland gibt es Millionen davon. (Sicherheitslücke, PHP)</description>
-      <pubDate>Fri, 23 Oct 2026 10:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
