@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 15:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:15:47 GMT</lastBuildDate>
+    <item>
+      <title>Robotik: Lieferroboter verursacht Unfall und begeht Fahrerflucht</title>
+      <link>https://www.golem.de/news/robotik-lieferroboter-verursacht-unfall-und-begeht-fahrerflucht-2610-214653.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/robotik-lieferroboter-verursacht-unfall-und-begeht-fahrerflucht-2610-214653.html</guid>
+      <description>In Tallinn werden neun Menschen verletzt, weil ein Lieferroboter über Rot fährt. Technisch gesehen hat der Betreiber Fahrerflucht begangen. (Starship Technologies, Roboter)</description>
+      <pubDate>Thu, 29 Oct 2026 16:12:05 GMT</pubDate>
+    </item>
     <item>
       <title>Umzug auf Azure: KI-Agenten bringen Githubs Infrastruktur an ihre Grenzen</title>
       <link>https://www.golem.de/news/umzug-auf-azure-ki-agenten-bringen-githubs-infrastruktur-an-ihre-grenzen-2610-214650.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/coros-dura-2-solar-fahrrad-navi-bekommt-viel-groesseren-bildschirm-2610-214459.html</guid>
       <description>Coros stattet seinen Fahrradcomputer mit einem 3,5-Zoll-Display, verbesserter Navigation und neuer Bedienung aus. Die enorme Akkulaufzeit bleibt. (Coros, Smart Bike)</description>
       <pubDate>Fri, 23 Oct 2026 14:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Megawatt-Lader: Chery lädt in 6 Minuten und 50 Sekunden auf 97 Prozent</title>
-      <link>https://www.golem.de/news/megawatt-lader-chery-laedt-in-6-minuten-und-50-sekunden-auf-97-prozent-2610-214457.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/megawatt-lader-chery-laedt-in-6-minuten-und-50-sekunden-auf-97-prozent-2610-214457.html</guid>
-      <description>Chery hat in China einen eigenen Megawatt-Charger für Elektroautos vorgestellt. Doch es gibt schnellere Konkurrenz. (Elektroauto, Auto)</description>
-      <pubDate>Fri, 23 Oct 2026 14:16:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
