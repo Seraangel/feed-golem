@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 10:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 10:40:44 GMT</lastBuildDate>
+    <item>
+      <title>Angriff auf Ruby-Lücke: Alpine Linux muss Gitlab-Instanz komplett neu aufsetzen</title>
+      <link>https://www.golem.de/news/angriff-auf-ruby-luecke-alpine-linux-muss-gitlab-instanz-komplett-neu-aufsetzen-2610-214676.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-ruby-luecke-alpine-linux-muss-gitlab-instanz-komplett-neu-aufsetzen-2610-214676.html</guid>
+      <description>Hacker haben versucht, über eine Ruby-Lücke die Gitlab-Instanz von Alpine Linux zu kompromittieren. Der Vorfall ist ein Weckruf an andere Gitlab-Admins. (Sicherheitslücke, Ruby)</description>
+      <pubDate>Fri, 30 Oct 2026 10:38:08 GMT</pubDate>
+    </item>
     <item>
       <title>Mistral Large 4: Mistral macht 1-Billion-Parameter-Modell frei zugänglich</title>
       <link>https://www.golem.de/news/mistral-large-4-mistral-macht-1-billion-parameter-modell-frei-zugaenglich-2610-214675.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/legendaere-bossgegner-drachentoeten-leicht-gemacht-2610-214447.html</guid>
       <description>Majestätisch, furchteinflößend und oft nahezu unbesiegbar: Drachen gehören zu den faszinierendsten Wesen der Videospielgeschichte. Was macht einen guten Drachenkampf aus? Von Fabian Mauruschat (Spiele, World of Warcraft)</description>
       <pubDate>Sun, 25 Oct 2026 06:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Sechs IT-Jobs in Datenanalyse, Entwicklung und IT-Operations</title>
-      <link>https://www.golem.de/news/anzeige-sechs-it-jobs-in-datenanalyse-entwicklung-und-it-operations-2610-214144.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sechs-it-jobs-in-datenanalyse-entwicklung-und-it-operations-2610-214144.html</guid>
-      <description>Von Data Analytics und CI/CD bis IT-Security und Operationsmanagement: Sechs neue IT-Jobs bieten anspruchsvolle Aufgaben und Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Sun, 25 Oct 2026 06:00:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
