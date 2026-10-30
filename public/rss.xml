@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 11:55:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:35:45 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Open-Source-Ökosystem: KI-Agenten gefährden die Grundlagen von Open Source</title>
+      <link>https://www.golem.de/news/open-source-oekosystem-ki-agenten-gefaehrden-die-grundlagen-von-open-source-2610-214681.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/open-source-oekosystem-ki-agenten-gefaehrden-die-grundlagen-von-open-source-2610-214681.html</guid>
+      <description>Wie KI-Agenten das Wissen freier Softwareprojekte nutzen, deren Infrastruktur belasten und Maintainer mit automatisierten Beiträgen und erfundenen Fehlerberichten überschwemmen. Von Frank Hofmann und Veit Schiele (KI, Server)</description>
+      <pubDate>Fri, 30 Oct 2026 12:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Claude Code: Millionenfach installierte VS-Code-Erweiterung kompromittiert</title>
       <link>https://www.golem.de/news/claude-code-millionenfach-installierte-vs-code-erweiterung-kompromittiert-2610-214680.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html</guid>
       <description>Ob Sehenswürdigkeiten, Clubs, Museen oder Fun Facts: Local Wikipedia gibt Wikipedia-Artikel aus, die zum eingegebenen Standort passen. (Wikipedia, Suchmaschine)</description>
       <pubDate>Sun, 25 Oct 2026 10:36:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starlink-Drosselung: Musk bezeichnet Ukraine indirekt als Kriegstreiber</title>
-      <link>https://www.golem.de/news/starlink-drosselung-musk-bezeichnet-ukraine-indirekt-als-kriegstreiber-2610-214481.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/starlink-drosselung-musk-bezeichnet-ukraine-indirekt-als-kriegstreiber-2610-214481.html</guid>
-      <description>In einem X-Post wird klar, dass Musk wohl die Drosselung von Starlink beauftragt hat. Seine Aussage: "Möget ihr in der Hölle schmoren." (Elon Musk, Politik)</description>
-      <pubDate>Sun, 25 Oct 2026 10:04:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
