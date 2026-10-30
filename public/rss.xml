@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 09:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:20:45 GMT</lastBuildDate>
+    <item>
+      <title>Energiewende: Wie Inseln zu 100 Prozent Strom aus Erneuerbaren nutzen</title>
+      <link>https://www.golem.de/news/energiewende-wie-inseln-zu-100-prozent-strom-aus-erneuerbaren-nutzen-2610-214671.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/energiewende-wie-inseln-zu-100-prozent-strom-aus-erneuerbaren-nutzen-2610-214671.html</guid>
+      <description>Längst gibt es Stromnetze, die komplett auf erneuerbaren Energien beruhen. Technische Lösungen gibt es, aber die größten Hürden sind andere. (Energiewende, Solarenergie)</description>
+      <pubDate>Fri, 30 Oct 2026 09:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>Disney+ Premium: Verbraucherschützer wollen Preisnachlass für Abonnenten erreichen</title>
       <link>https://www.golem.de/news/disney-premium-verbraucherschuetzer-wollen-preisnachlass-fuer-abonnenten-erreichen-2610-214670.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/brandbrief-bundeslaender-fordern-reform-von-offshore-windkraftgesetz-2610-214475.html</guid>
       <description>Acht Ministerpräsidenten fordern Änderungen am Offshore-Windkraftgesetz und warnen, dass der derzeitige Ansatz Investitionen verhindern könnte. (Windkraft, Bundesregierung)</description>
       <pubDate>Sat, 24 Oct 2026 12:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ausbruchsgefahr: OpenAI sperrt seine KI-Modelle vom Internet aus</title>
-      <link>https://www.golem.de/news/ausbruchsgefahr-openai-sperrt-seine-ki-modelle-vom-internet-aus-2610-214474.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ausbruchsgefahr-openai-sperrt-seine-ki-modelle-vom-internet-aus-2610-214474.html</guid>
-      <description>OpenAI trainiert Spitzenmodelle nur noch offline. Der Grund: KI-Agenten waren in Tests aus Sandboxes ausgebrochen. (OpenAI, KI)</description>
-      <pubDate>Sat, 24 Oct 2026 11:27:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
