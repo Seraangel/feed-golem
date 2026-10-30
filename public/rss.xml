@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 15:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:10:44 GMT</lastBuildDate>
+    <item>
+      <title>Werk in Taiwan: Einige Micron-Mitarbeiter erhalten Boni über fünf Jahresgehälter</title>
+      <link>https://www.golem.de/news/werk-in-taiwan-einige-micron-mitarbeiter-bekommen-ueber-fuenf-jahresgehaelter-bonus-2610-214699.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/werk-in-taiwan-einige-micron-mitarbeiter-bekommen-ueber-fuenf-jahresgehaelter-bonus-2610-214699.html</guid>
+      <description>Micron zahlt in Taiwan erste hohe Boni. Die Belegschaft einer Fab droht dennoch weiter mit Streik. (Micron, Wirtschaft)</description>
+      <pubDate>Fri, 30 Oct 2026 16:05:10 GMT</pubDate>
+    </item>
     <item>
       <title>Cloud Rebuild: Windows-Feature kann PC direkt übers Internet neu installieren</title>
       <link>https://www.golem.de/news/cloud-rebuild-windows-feature-kann-pc-direkt-uebers-internet-neu-installieren-2610-214698.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-film-grok-veroeffentlicht-sieben-minuten-seiner-odyssee-2610-214500.html</guid>
       <description>Elon Musk hatte einen abendfüllenden Film angekündigt. Nun zeigt Grok Episode 1 seiner KI-Odyssee, gemacht mit Wonder Studios. (Grok, Elon Musk)</description>
       <pubDate>Mon, 26 Oct 2026 09:12:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wegen Schadcode-Lücke: Forscher legen millionenfach installierten Updater still</title>
-      <link>https://www.golem.de/news/wegen-schadcode-luecke-forscher-legen-millionenfach-installierten-updater-still-2610-214498.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wegen-schadcode-luecke-forscher-legen-millionenfach-installierten-updater-still-2610-214498.html</guid>
-      <description>Angreifer hätten Millionen von Geräten über eine Lücke in einem veralteten Popcorn-Time-Fork kapern können. Wie Forscher das verhindert haben. (Sicherheitslücke, Android)</description>
-      <pubDate>Mon, 26 Oct 2026 08:46:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
