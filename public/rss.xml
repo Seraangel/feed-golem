@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 12:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 12:40:40 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Logitech MX Master 4 für Mac und PC jetzt zum Aktionspreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-logitech-mx-master-4-fuer-mac-und-pc-jetzt-zum-aktionspreis-bei-amazon-2610-214685.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-logitech-mx-master-4-fuer-mac-und-pc-jetzt-zum-aktionspreis-bei-amazon-2610-214685.html</guid>
+      <description>Mit Daumenrad, haptischem Feedback und Ladebuchse vorn hängt die Logitech MX Master 4 für Mac die Magic Mouse ab - und das zum Sparpreis. (Technik/Hardware, Mac)</description>
+      <pubDate>Fri, 30 Oct 2026 12:36:06 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Open-Source-Ökosystem: KI-Agenten gefährden die Grundlagen von Open Source</title>
       <link>https://www.golem.de/news/open-source-oekosystem-ki-agenten-gefaehrden-die-grundlagen-von-open-source-2610-214681.html</link>
@@ -20,10 +27,10 @@
       <pubDate>Fri, 30 Oct 2026 12:30:03 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Code: Millionenfach installierte VS-Code-Erweiterung kompromittiert</title>
+      <title>Claude Code: Millionenfach installierte Cursor-Erweiterung kompromittiert</title>
       <link>https://www.golem.de/news/claude-code-millionenfach-installierte-vs-code-erweiterung-kompromittiert-2610-214680.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/claude-code-millionenfach-installierte-vs-code-erweiterung-kompromittiert-2610-214680.html</guid>
-      <description>Angreifer haben Schadcode in die offizielle VS-Code-Erweiterung von Claude Code eingeschleust. Unzählige Entwicklersysteme sind potenziell betroffen. (Cybercrime, Malware)</description>
+      <description>Angreifer haben Schadcode in die offizielle Cursor-Erweiterung von Claude Code eingeschleust. Tausende Entwicklersysteme sind betroffen. (Cybercrime, Malware)</description>
       <pubDate>Fri, 30 Oct 2026 11:50:02 GMT</pubDate>
     </item>
     <item>
@@ -156,7 +163,7 @@
       <title>Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch</title>
       <link>https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</guid>
-      <description>Eine gravierende Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. (Security-Alert, Linux-Kernel)</description>
+      <description>Eine gravierende Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. Es ist Patch-Zeit. (Security-Alert, Linux-Kernel)</description>
       <pubDate>Thu, 29 Oct 2026 20:56:06 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/keine-abloesung-von-microsoft-office-daenemark-beendet-collabora-test-2610-214483.html</guid>
       <description>Dänemark hat einen Test mit Collabora beendet. Damit bleibt offen, wie realistisch der Abschied von Microsoft Office in Behörden ist. (Office, Office-Suite)</description>
       <pubDate>Sun, 25 Oct 2026 11:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Local Wikipedia: Suchmaschine zeigt interessante Orte in Laufreichweite an</title>
-      <link>https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/local-wikipedia-suchmaschine-zeigt-interessante-orte-in-laufreichweite-an-2610-214482.html</guid>
-      <description>Ob Sehenswürdigkeiten, Clubs, Museen oder Fun Facts: Local Wikipedia gibt Wikipedia-Artikel aus, die zum eingegebenen Standort passen. (Wikipedia, Suchmaschine)</description>
-      <pubDate>Sun, 25 Oct 2026 10:36:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
