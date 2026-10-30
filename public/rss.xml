@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 15:30:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:45:46 GMT</lastBuildDate>
+    <item>
+      <title>Cloud Rebuild: Windows-Feature kann PC direkt übers Internet neu installieren</title>
+      <link>https://www.golem.de/news/cloud-rebuild-windows-feature-kann-pc-direkt-uebers-internet-neu-installieren-2610-214698.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cloud-rebuild-windows-feature-kann-pc-direkt-uebers-internet-neu-installieren-2610-214698.html</guid>
+      <description>Cloud Rebuild sucht auch Treiber und benötigte Dateien über Windows Update und installiert sie gleich mit. (Windows 11, Microsoft)</description>
+      <pubDate>Fri, 30 Oct 2026 15:41:10 GMT</pubDate>
+    </item>
     <item>
       <title>Kooperation zwischen Russland und SpaceX: Putin lobt Musk als Genie</title>
       <link>https://www.golem.de/news/kooperation-zwischen-russland-und-spacex-putin-lobt-musk-als-genie-2610-214690.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wegen-schadcode-luecke-forscher-legen-millionenfach-installierten-updater-still-2610-214498.html</guid>
       <description>Angreifer hätten Millionen von Geräten über eine Lücke in einem veralteten Popcorn-Time-Fork kapern können. Wie Forscher das verhindert haben. (Sicherheitslücke, Android)</description>
       <pubDate>Mon, 26 Oct 2026 08:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Assistent: Google nutzt Schlupfloch für personalisierte Werbung</title>
-      <link>https://www.golem.de/news/personal-intelligence-google-macht-gmail-und-fotos-fuer-werbung-nutzbar-2610-214497.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/personal-intelligence-google-macht-gmail-und-fotos-fuer-werbung-nutzbar-2610-214497.html</guid>
-      <description>Google ändert seine Datenschutzerklärung. Wer Gmail und Fotos mit Personal Intelligence verbindet, sieht womöglich gezielte Werbung. (Google, Gmail)</description>
-      <pubDate>Mon, 26 Oct 2026 08:28:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
