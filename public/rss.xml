@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 11:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:20:43 GMT</lastBuildDate>
+    <item>
+      <title>Quartalszahlen: Audi-Gewinn bricht ein</title>
+      <link>https://www.golem.de/news/quartalszahlen-audi-gewinn-bricht-ein-2610-214678.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/quartalszahlen-audi-gewinn-bricht-ein-2610-214678.html</guid>
+      <description>Im dritten Quartal 2026 hat Audi nur 13,2 Prozent des Gewinns aus dem Vorjahresquartal erzielt. Die Prognose fürs gesamte Jahr wird angepasst. (Audi, Elektroauto)</description>
+      <pubDate>Fri, 30 Oct 2026 11:19:10 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Spiele auf Steam: Wie viel AI Slop steckt in 2.803 Neuerscheinungen?</title>
       <link>https://www.golem.de/news/ki-spiele-auf-steam-wie-viel-ai-slop-steckt-in-2-803-neuerscheinungen-2610-214633.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jerryrigeverything-haertetest-mit-sand-zerstoert-das-iphone-duo-2610-214480.html</guid>
       <description>Der Youtube-Kanal Jerryrigeverything hat das iPhone Duo im Härtetest diversen Situationen ausgesetzt. Staub und Fingernägel sind wohl besonders fatal. (iPhone Duo, OLED)</description>
       <pubDate>Sun, 25 Oct 2026 09:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Für Technical Writer und UX-Designer: Gute Software-Dokumentation muss nicht jeden Klick erklären</title>
-      <link>https://www.golem.de/news/fuer-technical-writer-und-ux-designer-gute-software-dokumentation-muss-nicht-jeden-klick-erklaeren-2610-214452.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuer-technical-writer-und-ux-designer-gute-software-dokumentation-muss-nicht-jeden-klick-erklaeren-2610-214452.html</guid>
-      <description>Nicht jeder Mausklick braucht eine Anleitung. Wer Nutzern die richtigen Konzepte vermittelt, kann Software-Dokumentation deutlich verkürzen. So funktioniert es. Ein Deep Dive von Johannes Hauser (Gut dokumentiert!, PC-Hardware)</description>
-      <pubDate>Sun, 25 Oct 2026 09:00:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
