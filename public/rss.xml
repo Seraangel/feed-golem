@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 10:40:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:05:43 GMT</lastBuildDate>
+    <item>
+      <title>KI-Spiele auf Steam: Wie viel AI Slop steckt in 2.803 Neuerscheinungen?</title>
+      <link>https://www.golem.de/news/ki-spiele-auf-steam-wie-viel-ai-slop-steckt-in-2-803-neuerscheinungen-2610-214633.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-spiele-auf-steam-wie-viel-ai-slop-steckt-in-2-803-neuerscheinungen-2610-214633.html</guid>
+      <description>41,67 Prozent von 2.803 untersuchten Steam-Neuerscheinungen legen KI-Einsatz offen. Unsere Analyse zeigt, wofür Entwickler die Technik nutzen. Eine Analyse von Oliver Jessner (Spiele, KI)</description>
+      <pubDate>Fri, 30 Oct 2026 11:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Angriff auf Ruby-Lücke: Alpine Linux muss Gitlab-Instanz komplett neu aufsetzen</title>
       <link>https://www.golem.de/news/angriff-auf-ruby-luecke-alpine-linux-muss-gitlab-instanz-komplett-neu-aufsetzen-2610-214676.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fuer-technical-writer-und-ux-designer-gute-software-dokumentation-muss-nicht-jeden-klick-erklaeren-2610-214452.html</guid>
       <description>Nicht jeder Mausklick braucht eine Anleitung. Wer Nutzern die richtigen Konzepte vermittelt, kann Software-Dokumentation deutlich verkürzen. So funktioniert es. Ein Deep Dive von Johannes Hauser (Gut dokumentiert!, PC-Hardware)</description>
       <pubDate>Sun, 25 Oct 2026 09:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Legendäre Bossgegner: Drachentöten leicht gemacht</title>
-      <link>https://www.golem.de/news/legendaere-bossgegner-drachentoeten-leicht-gemacht-2610-214447.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/legendaere-bossgegner-drachentoeten-leicht-gemacht-2610-214447.html</guid>
-      <description>Majestätisch, furchteinflößend und oft nahezu unbesiegbar: Drachen gehören zu den faszinierendsten Wesen der Videospielgeschichte. Was macht einen guten Drachenkampf aus? Von Fabian Mauruschat (Spiele, World of Warcraft)</description>
-      <pubDate>Sun, 25 Oct 2026 06:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
