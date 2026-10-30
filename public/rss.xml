@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 08:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:05:52 GMT</lastBuildDate>
+    <item>
+      <title>Disney+ Premium: Verbraucherschützer wollen Preisnachlass für Abonnenten erreichen</title>
+      <link>https://www.golem.de/news/disney-premium-verbraucherschuetzer-wollen-preisnachlass-fuer-abonnenten-erreichen-2610-214670.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/disney-premium-verbraucherschuetzer-wollen-preisnachlass-fuer-abonnenten-erreichen-2610-214670.html</guid>
+      <description>Die Verbraucherzentrale Niedersachsen will die Benachteiligung von Abonnenten von Disney+ Premium beenden. (Disney+, Verbraucherschutz)</description>
+      <pubDate>Fri, 30 Oct 2026 09:01:01 GMT</pubDate>
+    </item>
     <item>
       <title>Binance gehackt: Milliardendiebstahl erschüttert die Kryptobranche</title>
       <link>https://www.golem.de/news/binance-gehackt-milliardendiebstahl-erschuettert-die-kryptobranche-2610-214667.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ausbruchsgefahr-openai-sperrt-seine-ki-modelle-vom-internet-aus-2610-214474.html</guid>
       <description>OpenAI trainiert Spitzenmodelle nur noch offline. Der Grund: KI-Agenten waren in Tests aus Sandboxes ausgebrochen. (OpenAI, KI)</description>
       <pubDate>Sat, 24 Oct 2026 11:27:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Palantir: Nato-KI hat keinen Kill-Switch</title>
-      <link>https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/palantir-nato-ki-hat-keinen-kill-switch-2610-214473.html</guid>
-      <description>Palantir beteuert, dass weder das Unternehmen noch die US-Regierung das Nato-System Maven abschalten könnten. Die Sorge vor einer Abhängigkeit von US-Technologie ist hoch. (Palantir, KI)</description>
-      <pubDate>Sat, 24 Oct 2026 10:58:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
