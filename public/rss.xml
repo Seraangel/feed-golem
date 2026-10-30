@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 09:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 09:55:45 GMT</lastBuildDate>
+    <item>
+      <title>Survival LLM: Ein KI-Chatbot für den Weltuntergang</title>
+      <link>https://www.golem.de/news/survival-llm-ein-ki-chatbot-fuer-den-weltuntergang-2610-214672.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/survival-llm-ein-ki-chatbot-fuer-den-weltuntergang-2610-214672.html</guid>
+      <description>Was tun in der Apokalypse, wenn Fragen zum Überleben auftauchen? Survival LLM ist eine lokale KI, die offline funktioniert und auf Notfallunterlagen zugreift. (KI, iFixit)</description>
+      <pubDate>Fri, 30 Oct 2026 09:51:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Apple Airpods Pro 3 endlich wieder unter 200 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-apple-airpods-pro-3-endlich-wieder-unter-200-euro-bei-amazon-2610-214673.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/waehleradressen-afd-droht-wegen-datenleck-aerger-mit-dem-datenschutz-2610-214478.html</guid>
       <description>Nach einem E-Mail-Leak prüft der Datenschutzbeauftragte, ob die AfD in MV Wählerdaten nicht ausreichend geschützt hat. (Datenschutz, Politik)</description>
       <pubDate>Sat, 24 Oct 2026 14:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Modell: Moonshot AI stellt Kimi K3.1 Pro vor</title>
-      <link>https://www.golem.de/news/ki-modell-moonshot-ai-stellt-kimi-k3-1-pro-vor-2610-214477.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-modell-moonshot-ai-stellt-kimi-k3-1-pro-vor-2610-214477.html</guid>
-      <description>Moonshot AI hat Kimi K3.1 Pro vorgestellt, ein KI-Modell, das für Entwicklung, Forschung, Finanzanalysen und 3D-Inhalte gedacht ist. (KI, API)</description>
-      <pubDate>Sat, 24 Oct 2026 13:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
