@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 11:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:55:42 GMT</lastBuildDate>
+    <item>
+      <title>Claude Code: Millionenfach installierte VS-Code-Erweiterung kompromittiert</title>
+      <link>https://www.golem.de/news/claude-code-millionenfach-installierte-vs-code-erweiterung-kompromittiert-2610-214680.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/claude-code-millionenfach-installierte-vs-code-erweiterung-kompromittiert-2610-214680.html</guid>
+      <description>Angreifer haben Schadcode in die offizielle VS-Code-Erweiterung von Claude Code eingeschleust. Unzählige Entwicklersysteme sind potenziell betroffen. (Cybercrime, Malware)</description>
+      <pubDate>Fri, 30 Oct 2026 11:50:02 GMT</pubDate>
+    </item>
     <item>
       <title>Projekt Nachtfalke: TSMC scheiterte mit Entwicklung im Schichtbetrieb</title>
       <link>https://www.golem.de/news/projekt-nachtfalke-tsmc-scheiterte-mit-entwicklung-im-schichtbetrieb-2610-214679.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/starlink-drosselung-musk-bezeichnet-ukraine-indirekt-als-kriegstreiber-2610-214481.html</guid>
       <description>In einem X-Post wird klar, dass Musk wohl die Drosselung von Starlink beauftragt hat. Seine Aussage: "Möget ihr in der Hölle schmoren." (Elon Musk, Politik)</description>
       <pubDate>Sun, 25 Oct 2026 10:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Beliebteste elektrische Luftpumpe bei Amazon jetzt zum Angebotspreis</title>
-      <link>https://www.golem.de/news/anzeige-beliebteste-elektrische-luftpumpe-bei-amazon-jetzt-zum-angebotspreis-2610-214461.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebteste-elektrische-luftpumpe-bei-amazon-jetzt-zum-angebotspreis-2610-214461.html</guid>
-      <description>Die beliebteste elektrische Luftpumpe ist bei Amazon heute noch im Sonderangebot und liegt über 6 Euro unter dem letzten Preis. (Technik/Hardware)</description>
-      <pubDate>Sun, 25 Oct 2026 09:40:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
