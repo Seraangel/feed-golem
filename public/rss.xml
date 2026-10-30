@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 29 Oct 2026 23:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:20:43 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen</title>
+      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214655.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214655.html</guid>
+      <description>Linux-Systemadministration erfordert Kenntnisse in Shell, Diensten und Zugriffsrechten. Ein fünftägiger Workshop vermittelt die Grundlagen. (Golem Karrierewelt, Linux)</description>
+      <pubDate>Fri, 30 Oct 2026 06:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch</title>
       <link>https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/iphone-duo-erste-displays-brechen-am-scharnier-2610-214469.html</guid>
       <description>Erste Käufer melden Risse und helle Linien im Innendisplay. Ob es sich um Einzelfälle handelt, bleibt vorerst offen. (iPhone Duo, Smartphone)</description>
       <pubDate>Sat, 24 Oct 2026 08:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Home Assistant: Open Source trifft Smart Home</title>
-      <link>https://www.golem.de/news/home-assistant-open-source-trifft-smart-home-2610-214456.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/home-assistant-open-source-trifft-smart-home-2610-214456.html</guid>
-      <description>Home Assistant verbindet Smart-Home-Geräte verschiedener Hersteller, ohne auf die Cloud angewiesen zu sein. Wir zeigen, wie die Einrichtung funktioniert und was sich damit automatisieren lässt. Ein Ratgebertext von Fabian Deitelhoff (Smart Home, Server)</description>
-      <pubDate>Sat, 24 Oct 2026 08:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
