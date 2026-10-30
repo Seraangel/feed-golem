@@ -11,7 +11,7 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 06:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 06:35:41 GMT</lastBuildDate>
     <item>
       <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen</title>
       <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214655.html</link>
@@ -23,7 +23,7 @@
       <title>Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch</title>
       <link>https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</guid>
-      <description>Eine schwere Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. Es ist Patch-Zeit. (Security-Alert, Linux-Kernel)</description>
+      <description>Eine gravierende Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. (Security-Alert, Linux-Kernel)</description>
       <pubDate>Thu, 29 Oct 2026 20:56:06 GMT</pubDate>
     </item>
     <item>
