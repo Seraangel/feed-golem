@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 30 Oct 2026 18:30:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:35:39 GMT</lastBuildDate>
+    <item>
+      <title>Halloween 2026: Abseits der Blockbuster wird es richtig unheimlich</title>
+      <link>https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html</guid>
+      <description>Ungewöhnliche Horrorideen aus der Indiegames-Szene: Hellraiser wird spielbar, ein Vampir-Adventure erinnert an Bloodlines und in Graveyard Keeper 2 werden Zombies zu Arbeitskräften. Von Rainer Sigl (Indiegames, Spiele)</description>
+      <pubDate>Sat, 31 Oct 2026 06:30:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Beliebte Dyson-Alternative: Akku-Staubsauger für weniger als 140 Euro im Amazon-Angebot</title>
       <link>https://www.golem.de/news/anzeige-beliebte-dyson-alternative-akku-staubsauger-fuer-weniger-als-140-euro-im-amazon-angebot-2610-214707.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/m5-ultra-der-mac-studio-macht-bei-ki-reinen-gpus-konkurrenz-2610-214325.html</guid>
       <description>Apples Mac Studio überzeugt bei KI und rechenintensiven Aufgaben. Das kann den hohen Preis relativieren - es kann aber bessere Alternativen geben. Ein Test von Johannes Hiltscher (Apple, Prozessor)</description>
       <pubDate>Mon, 26 Oct 2026 11:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schadcode-Attacken möglich: Lücke in Brotli-Decoder gefährdet zahllose Anwendungen</title>
-      <link>https://www.golem.de/news/schadcode-attacken-moeglich-luecke-in-brotli-decoder-gefaehrdet-zahllose-anwendungen-2610-214507.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-luecke-in-brotli-decoder-gefaehrdet-zahllose-anwendungen-2610-214507.html</guid>
-      <description>Angreifer können aufgrund einer Sicherheitslücke in Brotli potenziell Schadcode über unzählige Apps einschleusen. Entwickler müssen dringend handeln. (Sicherheitslücke, FFmpeg)</description>
-      <pubDate>Mon, 26 Oct 2026 10:44:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
