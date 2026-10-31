@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 10:35:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 10:55:37 GMT</lastBuildDate>
+    <item>
+      <title>Arbeitsspeicher: OpenAI-Chef findet RAM im Heim-PC "ziemlich furchtbar"</title>
+      <link>https://www.golem.de/news/arbeitsspeicher-openai-chef-findet-ram-im-heim-pc-ziemlich-furchtbar-2610-214709.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/arbeitsspeicher-openai-chef-findet-ram-im-heim-pc-ziemlich-furchtbar-2610-214709.html</guid>
+      <description>Sam Altman kritisiert lokale KI-Modelle. Knapper Arbeitsspeicher sei im eigenen PC schlecht ausgelastet. (Sam Altman, KI)</description>
+      <pubDate>Sat, 31 Oct 2026 10:54:11 GMT</pubDate>
+    </item>
     <item>
       <title>Robotaxi: Waymos verstopfen öffentliche Ladestationen und nerven Anwohner</title>
       <link>https://www.golem.de/news/robotaxi-waymos-verstopfen-oeffentliche-ladestationen-und-nerven-anwohner-2610-214714.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-schwenkbare-ueberwachungskamera-fuer-innenraeume-guenstig-bei-amazon-2610-214515.html</guid>
       <description>Eine schwenkbare Überwachungskamera für Innenräume mit FHD-Auflösung, Nachtsicht und Bewegungserkennung ist bei Amazon reduziert. (Videoüberwachung, Technik/Hardware)</description>
       <pubDate>Mon, 26 Oct 2026 13:05:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>95 Milliarden US-Dollar: Meta verkauft Anteile für gigantische KI-Investition</title>
-      <link>https://www.golem.de/news/95-milliarden-us-dollar-meta-verkauft-anteile-fuer-gigantische-ki-investition-2610-214517.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/95-milliarden-us-dollar-meta-verkauft-anteile-fuer-gigantische-ki-investition-2610-214517.html</guid>
-      <description>Meta Plattforms braucht 95 Milliarden US-Dollar für weitere KI-Pläne. Der Werbemarkt bringt dafür nicht genug ein. (Meta, Rechenzentrum)</description>
-      <pubDate>Mon, 26 Oct 2026 13:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
