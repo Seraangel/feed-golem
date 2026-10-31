@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 06:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 07:20:42 GMT</lastBuildDate>
+    <item>
+      <title>Drohnenkrieg in der Ukraine: Roboter sollen Abfangdrohnen an die Front bringen</title>
+      <link>https://www.golem.de/news/drohnenkrieg-in-der-ukraine-roboter-sollen-abfangdrohnen-an-die-front-bringen-2610-214688.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/drohnenkrieg-in-der-ukraine-roboter-sollen-abfangdrohnen-an-die-front-bringen-2610-214688.html</guid>
+      <description>Die Ukraine baut Drohnen, die von unbemannten Bodenfahrzeugen aus starten und feindliche Flugziele bekämpfen sollen. (Drohne, Politik)</description>
+      <pubDate>Sat, 31 Oct 2026 07:17:09 GMT</pubDate>
+    </item>
     <item>
       <title>Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache</title>
       <link>https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-logitech-mk950-tastatur-maus-set-zum-jahresbestpreis-unter-60-euro-bei-amazon-2610-214510.html</guid>
       <description>Mit dem Logitech MK950 wechseln Tastatur und Maus per Tastendruck zwischen drei Geräten, günstiger war das Set in diesem Jahr noch nicht. (Technik/Hardware, Logitech)</description>
       <pubDate>Mon, 26 Oct 2026 11:21:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ego-Shooter: Doom läuft auf digitalem Multimeter</title>
-      <link>https://www.golem.de/news/ego-shooter-doom-laeuft-auf-digitalem-multimeter-2610-214508.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ego-shooter-doom-laeuft-auf-digitalem-multimeter-2610-214508.html</guid>
-      <description>Ein Entwickler hat Doom auf dem kleinen Farbdisplay eines digitalen Multimeters zum Laufen gebracht - und mit einem Drohnencontroller gesteuert. (Doom, Computer)</description>
-      <pubDate>Mon, 26 Oct 2026 11:13:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
