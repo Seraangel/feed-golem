@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 06:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:50:38 GMT</lastBuildDate>
+    <item>
+      <title>Stromnetzschwankung: Periodische Leistungsspitze im Netz hat dezentrale Ursache</title>
+      <link>https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/stromnetzschwankung-periodische-leistungsspitze-im-netz-hat-dezentrale-ursache-2610-214694.html</guid>
+      <description>Seit Jahren gibt es alle 60 Sekunden eine Spitze im europäischen Strombedarf. Im Reallabor in Jülich ist die Ursache gefunden worden. (Strom, KI)</description>
+      <pubDate>Sat, 31 Oct 2026 06:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Halloween 2026: Abseits der Blockbuster wird es richtig unheimlich</title>
       <link>https://www.golem.de/news/halloween-2026-abseits-der-blockbuster-wird-es-richtig-unheimlich-2610-214316.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ego-shooter-doom-laeuft-auf-digitalem-multimeter-2610-214508.html</guid>
       <description>Ein Entwickler hat Doom auf dem kleinen Farbdisplay eines digitalen Multimeters zum Laufen gebracht - und mit einem Drohnencontroller gesteuert. (Doom, Computer)</description>
       <pubDate>Mon, 26 Oct 2026 11:13:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>M5 Ultra: Der Mac Studio macht bei KI reinen GPUs Konkurrenz</title>
-      <link>https://www.golem.de/news/m5-ultra-der-mac-studio-macht-bei-ki-reinen-gpus-konkurrenz-2610-214325.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/m5-ultra-der-mac-studio-macht-bei-ki-reinen-gpus-konkurrenz-2610-214325.html</guid>
-      <description>Apples Mac Studio überzeugt bei KI und rechenintensiven Aufgaben. Das kann den hohen Preis relativieren - es kann aber bessere Alternativen geben. Ein Test von Johannes Hiltscher (Apple, Prozessor)</description>
-      <pubDate>Mon, 26 Oct 2026 11:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
