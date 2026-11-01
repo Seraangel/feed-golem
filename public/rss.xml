@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 31 Oct 2026 14:45:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 06:05:44 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Sechs IT-Jobs in Security, Administration und Entwicklung</title>
+      <link>https://www.golem.de/news/anzeige-sechs-it-jobs-in-security-administration-und-entwicklung-2611-214544.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sechs-it-jobs-in-security-administration-und-entwicklung-2611-214544.html</guid>
+      <description>Von Java und IT-Security bis SAP Analytics und Systemadministration: Sechs neue IT-Jobs bieten spannende Aufgaben und Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Sun, 01 Nov 2026 06:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Haiku generiert: Googles Satelliten-KI-Rechner meldet sich aus dem Orbit</title>
       <link>https://www.golem.de/news/haiku-generiert-googles-satelliten-ki-rechner-meldet-sich-aus-dem-orbit-2610-214715.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-starthilfepowerbank-von-topdon-fuer-unter-136-euro-bei-amazon-2610-214527.html</guid>
       <description>Nie wieder tote Autobatterien: Die Topdon JS3000 für Benzin- und Dieselfahrzeuge ist bei Amazon zum Sparpreis erhältlich. (Auto, Amazon)</description>
       <pubDate>Mon, 26 Oct 2026 16:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OTA-Update als Belästigung: Telekom darf Netzkennung nicht für Werbung nutzen</title>
-      <link>https://www.golem.de/news/ota-update-als-belaestigung-telekom-darf-netzkennung-nicht-fuer-werbung-nutzen-2610-214526.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ota-update-als-belaestigung-telekom-darf-netzkennung-nicht-fuer-werbung-nutzen-2610-214526.html</guid>
-      <description>Wer statt Telekom.de "Im besten Netz" auf dem Display sieht, wird unzumutbar belästigt: Das Landgericht Köln hat die Zweckentfremdung der Netzkennungsdateien verboten. Doch der Streit geht weiter. (Telekom, Mobilfunk)</description>
-      <pubDate>Mon, 26 Oct 2026 16:15:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
