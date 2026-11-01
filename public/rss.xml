@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 01 Nov 2026 13:50:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 14:20:41 GMT</lastBuildDate>
+    <item>
+      <title>Nextgen: General Atomics baut Nurflügel-Drohne mit Hybridantrieb</title>
+      <link>https://www.golem.de/news/nextgen-general-atomics-baut-nurfluegel-drohne-mit-hybridantrieb-2611-214729.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nextgen-general-atomics-baut-nurfluegel-drohne-mit-hybridantrieb-2611-214729.html</guid>
+      <description>General Atomics arbeitet an einer hybrid-elektrischen Nurflügel-Drohne namens Nextgen, die mehr als 60 Stunden ohne Auftanken fliegen soll. (Drohne, Politik)</description>
+      <pubDate>Sun, 01 Nov 2026 14:15:11 GMT</pubDate>
+    </item>
     <item>
       <title>6,3 Milliarden US-Dollar geklaut: Binance startet nach Rekordhack schrittweise wieder</title>
       <link>https://www.golem.de/news/6-3-milliarden-us-dollar-geklaut-binance-startet-nach-rekordhack-schrittweise-wieder-2611-214728.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-intelligente-stromspeicher-auch-fuer-die-sonnenarme-zeit-2610-214399.html</guid>
       <description>Solarstrom lässt sich nicht immer dann gewinnen, wenn der Verbrauch am höchsten ist. Flexible Speicher können diese zeitliche Lücke schließen- ein Vorteil, der in Herbst und Winter besonders relevant wird. (Anker, Technik/Hardware)</description>
       <pubDate>Tue, 27 Oct 2026 08:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP-Lücken unter Beschuss: Erste erfolgreiche PHP2Shell-Attacken bestätigt</title>
-      <link>https://www.golem.de/news/php-luecken-unter-beschuss-erste-erfolgreiche-php2shell-attacken-bestaetigt-2610-214535.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/php-luecken-unter-beschuss-erste-erfolgreiche-php2shell-attacken-bestaetigt-2610-214535.html</guid>
-      <description>PHP2Shell auszunutzen ist schwierig. Dennoch wurden bereits einige anfällige Systeme infiltriert - unter anderem, um an eine Bitcoin-Wallet zu gelangen. (Sicherheitslücke, PHP)</description>
-      <pubDate>Tue, 27 Oct 2026 07:54:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
