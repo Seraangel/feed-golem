@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 01 Nov 2026 11:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:00:37 GMT</lastBuildDate>
+    <item>
+      <title>Arbeitsplätze: CDU-Vize Prien will KI-Gewinne besteuern</title>
+      <link>https://www.golem.de/news/arbeitsplaetze-cdu-vize-prien-will-ki-gewinne-besteuern-2611-214725.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/arbeitsplaetze-cdu-vize-prien-will-ki-gewinne-besteuern-2611-214725.html</guid>
+      <description>Karin Prien will eine Steuer auf Gewinne aus KI und die Einnahmen in die junge Generation investieren. Damit stellt sie sich gegen Merz und Reiche. (KI, Politik)</description>
+      <pubDate>Sun, 01 Nov 2026 11:56:07 GMT</pubDate>
+    </item>
     <item>
       <title>Mobilfunk: Telefónica verkauft drei von fünf Kundenservice-Standorten</title>
       <link>https://www.golem.de/news/mobilfunk-telefonica-verkauft-drei-von-fuenf-kundenservice-standorten-2611-214724.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-kosten-microsoft-bietet-bis-zu-60-000-mitarbeitern-abfindungen-an-2610-214531.html</guid>
       <description>Microsoft will Mitarbeiter loswerden und macht ihnen Angebote. Potenziell könnten 60.000 Beschäftigte annehmen. (Microsoft, Rechenzentrum)</description>
       <pubDate>Mon, 26 Oct 2026 18:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krieg: Ukraine trifft russisches Finanzamts-Rechenzentrum</title>
-      <link>https://www.golem.de/news/krieg-ukraine-trifft-russisches-finanzamts-rechenzentrum-2610-214530.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/krieg-ukraine-trifft-russisches-finanzamts-rechenzentrum-2610-214530.html</guid>
-      <description>Ein ukrainischer Drohnenangriff hat offenbar ein staatliches russisches Rechenzentrum beschädigt. Möglicherweise sind auch Steuerdaten betroffen. (Rechenzentrum, Web Service)</description>
-      <pubDate>Mon, 26 Oct 2026 18:10:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
