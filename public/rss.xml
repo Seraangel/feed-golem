@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 09:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 09:20:38 GMT</lastBuildDate>
+    <item>
+      <title>Betriebssystem: Windows 11 hat ein neues Rechtsklickmenü</title>
+      <link>https://www.golem.de/news/betriebssystem-windows-11-hat-ein-neues-rechtsklickmenue-2611-214741.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/betriebssystem-windows-11-hat-ein-neues-rechtsklickmenue-2611-214741.html</guid>
+      <description>Microsoft versucht, das teils von Windows 10 übernommene Kontextmenü endlich moderner zu gestalten. (Windows 11, Microsoft)</description>
+      <pubDate>Mon, 02 Nov 2026 09:18:03 GMT</pubDate>
+    </item>
     <item>
       <title>Apple-Warnung: iPhone-Hacker nehmen Bundestag und Regierung ins Visier</title>
       <link>https://www.golem.de/news/apple-warnung-iphone-hacker-nehmen-bundestag-und-regierung-ins-visier-2611-214740.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/intel-cpus-neue-hinweise-auf-raptor-lake-refresh-benchmarks-zu-nova-lake-2610-214541.html</guid>
       <description>Die Hinweise auf neue Intel-Prozessoren mit DDR4-Unterstützung mehren sich. Erste Nova-Lake-Samples liegen noch hinter der Leistung des Vorgängers. (Prozessor, Intel)</description>
       <pubDate>Tue, 27 Oct 2026 10:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Japan: Bis zu 26.739 Server eines Cloudanbieters gehackt</title>
-      <link>https://www.golem.de/news/japan-bis-zu-26-739-server-eines-cloudanbieters-gehackt-2610-214540.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/japan-bis-zu-26-739-server-eines-cloudanbieters-gehackt-2610-214540.html</guid>
-      <description>Hacker sind in Tausende von Cloud-Desktops der japanischen GMO Internet Group eingedrungen. Die erbeuteten Daten sollen extrem umfangreich sein. (Cybercrime, Server)</description>
-      <pubDate>Tue, 27 Oct 2026 10:06:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
