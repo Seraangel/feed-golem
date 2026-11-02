@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 17:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:50:38 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Entra ID: Hybride Strukturen verwalten und absichern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-hybride-strukturen-verwalten-und-absichern-2611-214721.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-hybride-strukturen-verwalten-und-absichern-2611-214721.html</guid>
+      <description>Microsoft Entra ID verlangt Planung bei Einrichtung und Absicherung. Ein Onlineworkshop vermittelt die Konfiguration hybrider Strukturen und Strategien zur Härtung. (Golem Karrierewelt, Sicherheitslücke)</description>
+      <pubDate>Mon, 02 Nov 2026 17:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Digitalgipfel: Merz will Abhängigkeit von US-KI drastisch reduzieren</title>
       <link>https://www.golem.de/news/digitalgipfel-merz-will-abhaengigkeit-von-us-ki-drastisch-reduzieren-2611-214771.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/chinas-reichenliste-ki-milliardaere-an-der-spitze-keine-angaben-zur-parteielite-2610-214573.html</guid>
       <description>Chinesische Tech- und KI-Milliardäre führen den Hurun-Report an. Parteifunktionäre verschleiern ihren Reichtum derweil über Familiennetzwerke. (Bytedance, Studien)</description>
       <pubDate>Tue, 27 Oct 2026 18:53:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>M6-iMac: Apple holt die KI auf den Schreibtisch</title>
-      <link>https://www.golem.de/news/all-in-one-m6-imac-apple-holt-die-ki-auf-den-schreibtisch-2610-214572.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/all-in-one-m6-imac-apple-holt-die-ki-auf-den-schreibtisch-2610-214572.html</guid>
-      <description>Mehr Leistung, schnellere KI direkt auf dem Gerät und sieben Farben: Apples neuer iMac setzt vor allem auf lokale KI-Verarbeitung. (iMac, Apple)</description>
-      <pubDate>Tue, 27 Oct 2026 18:12:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
