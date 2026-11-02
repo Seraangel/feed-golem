@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 16:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:50:38 GMT</lastBuildDate>
+    <item>
+      <title>Pi 5 und Compute Module: Raspberry Pi kostet mittlerweile fast 350 Euro</title>
+      <link>https://www.golem.de/news/pi-5-und-compute-module-raspberry-pi-kostet-mittlerweile-fast-350-euro-2611-214770.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pi-5-und-compute-module-raspberry-pi-kostet-mittlerweile-fast-350-euro-2611-214770.html</guid>
+      <description>Die Raspberry Pi Foundation hebt einmal mehr die Preise für einige Modelle des Computers an - teilweise um ein Viertel. (Raspberry Pi, RAM)</description>
+      <pubDate>Mon, 02 Nov 2026 16:45:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Saugroboter mit Wischfunktion von Roborock wieder zum Tiefstpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-roborock-wieder-zum-tiefstpreis-bei-amazon-2611-214767.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-schweizer-taschenmesser-mit-33-funktionen-bei-amazon-unter-vergleichspreis-2610-214569.html</guid>
       <description>Das Victorinox Swiss Classic bietet 33 Funktionen, unter anderem eine Zange und eine Säge. Bei Amazon ist es nun viel günstiger als in den vergangenen Wochen. (Victorinox, Technik/Hardware)</description>
       <pubDate>Tue, 27 Oct 2026 17:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: KI-Agenten für wiederkehrende Büroaufgaben einsetzen</title>
-      <link>https://www.golem.de/news/anzeige-ki-agenten-fuer-wiederkehrende-bueroaufgaben-einsetzen-2610-214490.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ki-agenten-fuer-wiederkehrende-bueroaufgaben-einsetzen-2610-214490.html</guid>
-      <description>KI-Agenten brauchen klare Aufgaben und menschliche Kontrolle. Ein Online-Workshop zeigt, wie mit Claude wiederverwendbare Abläufe für typische Büroarbeit entstehen. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Tue, 27 Oct 2026 17:45:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
