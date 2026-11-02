@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 11:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:05:42 GMT</lastBuildDate>
+    <item>
+      <title>Straßenverkehr: KI soll Handy-Sünder automatisch erkennen</title>
+      <link>https://www.golem.de/news/strassenverkehr-ki-soll-handy-suender-automatisch-erkennen-2611-214752.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/strassenverkehr-ki-soll-handy-suender-automatisch-erkennen-2611-214752.html</guid>
+      <description>Bund und Länder unterstützen den Einsatz von Kameras, die Autofahrer mit Handy am Steuer per KI identifizieren. (Überwachung, Kameras)</description>
+      <pubDate>Mon, 02 Nov 2026 12:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ugreen 100-W-Ladegerät mit 3 Ports und einziehbarem Kabel unter 40 Euro</title>
       <link>https://www.golem.de/news/anzeige-ugreen-100-w-ladegeraet-mit-3-ports-und-einziehbarem-kabel-unter-40-euro-2611-214751.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/grok-odyssee-dlss-5-trifft-b-movie-2610-214552.html</guid>
       <description>Elon Musk hat wohl den Aufwand, einen guten Film zu machen, unterschätzt. Aber zumindest sind alle Charaktere, wie von Musk gewünscht, weiß. Ein IMHO von Johannes Hiltscher (Filme &amp; Serien, KI)</description>
       <pubDate>Tue, 27 Oct 2026 13:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Golem Karrierewelt: Microsoft 365 absichern: Fünf typische Angriffsvektoren aus der Praxis</title>
-      <link>https://www.golem.de/news/golem-karrierewelt-microsoft-365-absichern-fuenf-typische-angriffsvektoren-aus-der-praxis-2610-214555.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/golem-karrierewelt-microsoft-365-absichern-fuenf-typische-angriffsvektoren-aus-der-praxis-2610-214555.html</guid>
-      <description>Veraltete Einstellungen können Microsoft 365 angreifbar machen. Ein kostenloses Webinar zeigt fünf typische Angriffsvektoren und Ansätze zur Risikominimierung. (Golem Karrierewelt, Betriebssysteme)</description>
-      <pubDate>Tue, 27 Oct 2026 13:06:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
