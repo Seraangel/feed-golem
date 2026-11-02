@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 06:20:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 07:45:47 GMT</lastBuildDate>
+    <item>
+      <title>Operation Ghostbusters: Geisterstudenten sollen mit KI Studienhilfe erschlichen haben</title>
+      <link>https://www.golem.de/news/operation-ghostbusters-geisterstudenten-sollen-mit-ki-studienhilfe-erschlichen-haben-2611-214736.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/operation-ghostbusters-geisterstudenten-sollen-mit-ki-studienhilfe-erschlichen-haben-2611-214736.html</guid>
+      <description>Das US-Justizministerium erhebt Anklage gegen fünf Verdächtige. Der Schaden liegt laut Schätzungen bei über 200 Millionen Dollar. (KI, Wissen)</description>
+      <pubDate>Mon, 02 Nov 2026 07:43:07 GMT</pubDate>
+    </item>
     <item>
       <title>Spielebranche: Claude darf keine bekannten Games mehr nachbauen</title>
       <link>https://www.golem.de/news/spielebranche-claude-darf-keine-bekannten-games-mehr-nachbauen-2611-214734.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/proton-angestellte-muessen-erneut-ins-bewerbungsgespraech-2610-214537.html</guid>
       <description>Proton will laut einer internen E-Mail die Angestellten finden, die mit der KI-Strategie kompatibel sind. Andere werden gehen müssen. (Softwareentwicklung, KI)</description>
       <pubDate>Tue, 27 Oct 2026 08:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Boom: Diebe stehlen Rechenzentrumsfracht für über 100 Mio. US-Dollar</title>
-      <link>https://www.golem.de/news/ki-boom-diebe-stehlen-rechenzentrumsfracht-fuer-ueber-100-mio-us-dollar-2610-214536.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-boom-diebe-stehlen-rechenzentrumsfracht-fuer-ueber-100-mio-us-dollar-2610-214536.html</guid>
-      <description>Diebe fälschen GPS-Daten und kapern Frachtkonten. Seit Juni stehlen sie Rechenzentrumsfracht für über 100 Millionen US-Dollar. (Cybercrime, Rechenzentrum)</description>
-      <pubDate>Tue, 27 Oct 2026 08:09:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
