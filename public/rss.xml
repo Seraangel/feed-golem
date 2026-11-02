@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 12:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:20:39 GMT</lastBuildDate>
+    <item>
+      <title>Keine Degradation: Batteriespeicher aus vermeintlichem Elektroschrott</title>
+      <link>https://www.golem.de/news/keine-degradation-batteriespeicher-aus-vermeintlichem-elektroschrott-2611-214753.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/keine-degradation-batteriespeicher-aus-vermeintlichem-elektroschrott-2611-214753.html</guid>
+      <description>Ein Freiburger Start-up vertreibt stationäre Speicher, die aus alten E-Scootern stammen. Die Kapazität wird zehn Jahre lang garantiert, ohne Verlust. (Energiewende, GreenIT)</description>
+      <pubDate>Mon, 02 Nov 2026 12:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>Straßenverkehr: KI soll Handy-Sünder automatisch erkennen</title>
       <link>https://www.golem.de/news/strassenverkehr-ki-soll-handy-suender-automatisch-erkennen-2611-214752.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-guenstiger-saugroboter-von-roborock-jetzt-zum-tiefstpreis-bei-amazon-2610-214556.html</guid>
       <description>Ein Saugroboter muss nicht teuer sein. Bei Amazon ist jetzt ein beliebtes Einstiegsmodell von Roborock befristet für unter 110 Euro erhältlich. (Saugroboter, Roborock)</description>
       <pubDate>Tue, 27 Oct 2026 13:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok-Odyssee: DLSS 5 trifft B-Movie</title>
-      <link>https://www.golem.de/news/grok-odyssee-dlss-5-trifft-b-movie-2610-214552.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/grok-odyssee-dlss-5-trifft-b-movie-2610-214552.html</guid>
-      <description>Elon Musk hat wohl den Aufwand, einen guten Film zu machen, unterschätzt. Aber zumindest sind alle Charaktere, wie von Musk gewünscht, weiß. Ein IMHO von Johannes Hiltscher (Filme &amp; Serien, KI)</description>
-      <pubDate>Tue, 27 Oct 2026 13:30:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
