@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 12:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:35:37 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Security: Wie gefährlich sind lokale Coding-Agenten?</title>
+      <link>https://www.golem.de/news/security-wie-gefaehrlich-sind-lokale-coding-agenten-2611-214733.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/security-wie-gefaehrlich-sind-lokale-coding-agenten-2611-214733.html</guid>
+      <description>Coding-Agenten können selbstständig Dateien löschen, Zugangsdaten preisgeben oder manipuliert werden. Welche Risiken drohen und wie sich der eigene Rechner schützen lässt. Ein Ratgebertext von Klaus Manhart (Security, KI)</description>
+      <pubDate>Mon, 02 Nov 2026 12:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>Keine Degradation: Batteriespeicher aus vermeintlichem Elektroschrott</title>
       <link>https://www.golem.de/news/keine-degradation-batteriespeicher-aus-vermeintlichem-elektroschrott-2611-214753.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elektroauto-vw-will-china-software-fuer-europaeische-modelle-2610-214558.html</guid>
       <description>In China kommen VW-Modelle mit einer zusammen mit Xpeng entwickelten Software. Diese will Markenchef Schäfer nun auch in Europa verwenden. (VW, Elektroauto)</description>
       <pubDate>Tue, 27 Oct 2026 13:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Günstiger Saugroboter von Roborock jetzt zum Tiefstpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-guenstiger-saugroboter-von-roborock-jetzt-zum-tiefstpreis-bei-amazon-2610-214556.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-guenstiger-saugroboter-von-roborock-jetzt-zum-tiefstpreis-bei-amazon-2610-214556.html</guid>
-      <description>Ein Saugroboter muss nicht teuer sein. Bei Amazon ist jetzt ein beliebtes Einstiegsmodell von Roborock befristet für unter 110 Euro erhältlich. (Saugroboter, Roborock)</description>
-      <pubDate>Tue, 27 Oct 2026 13:34:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
