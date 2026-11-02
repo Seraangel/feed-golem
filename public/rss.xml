@@ -11,12 +11,26 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 11:20:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:40:40 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Ugreen 100-W-Ladegerät mit 3 Ports und einziehbarem Kabel unter 40 Euro</title>
+      <link>https://www.golem.de/news/anzeige-ugreen-100-w-ladegeraet-mit-3-ports-und-einziehbarem-kabel-unter-40-euro-2611-214751.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ugreen-100-w-ladegeraet-mit-3-ports-und-einziehbarem-kabel-unter-40-euro-2611-214751.html</guid>
+      <description>Das Ugreen Nexode mit 100W lädt Macbook, iPhone und Kopfhörer zugleich, hat das Kabel dabei und ist im befristeten Angebot günstiger. (Technik/Hardware, iPhone)</description>
+      <pubDate>Mon, 02 Nov 2026 11:39:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bundesregierung: Deutschland soll bis 2030 zur "KI-Nation" werden</title>
+      <link>https://www.golem.de/news/bundesregierung-deutschland-soll-bis-2030-zur-ki-nation-werden-2611-214750.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bundesregierung-deutschland-soll-bis-2030-zur-ki-nation-werden-2611-214750.html</guid>
+      <description>Wird Deutschland im KI-Wettbewerb mit den USA und China abgehängt? Die Bundesregierung sieht bei dem Thema einen starken Handlungsdruck. (Bundesregierung, KI)</description>
+      <pubDate>Mon, 02 Nov 2026 11:36:01 GMT</pubDate>
+    </item>
     <item>
       <title>Speicher: Lenovo-Fingerabdruck-Stick ist eine Mogelpackung</title>
       <link>https://www.golem.de/news/speicher-lenovo-fingerabdruck-stick-ist-eine-mogelpackung-2611-214742.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/speicher-lenovo-fingerabdruck-stick-ist-eine-mogelpackung-2611-214742.html</guid>
-      <description>Ein vom als AES-256-verschlüsselt beworbenes USB-Laufwerk von Lenovo schützt tatsächlich keine Daten. Das enthüllt eine Sicherheitsanalyse. (Lenovo, Passwort)</description>
+      <description>Ein als AES-256-verschlüsselt beworbenes USB-Laufwerk von Lenovo schützt tatsächlich keine Daten. Das enthüllt eine Sicherheitsanalyse. (Lenovo, Passwort)</description>
       <pubDate>Mon, 02 Nov 2026 11:15:04 GMT</pubDate>
     </item>
     <item>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/golem-karrierewelt-microsoft-365-absichern-fuenf-typische-angriffsvektoren-aus-der-praxis-2610-214555.html</guid>
       <description>Veraltete Einstellungen können Microsoft 365 angreifbar machen. Ein kostenloses Webinar zeigt fünf typische Angriffsvektoren und Ansätze zur Risikominimierung. (Golem Karrierewelt, Betriebssysteme)</description>
       <pubDate>Tue, 27 Oct 2026 13:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>1,1 Milliarden Euro: Infineon baut weltweit erste 300-mm-GaN-Fabrik</title>
-      <link>https://www.golem.de/news/1-1-milliarden-euro-infineon-baut-weltweit-erste-300-mm-gan-fabrik-2610-214553.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/1-1-milliarden-euro-infineon-baut-weltweit-erste-300-mm-gan-fabrik-2610-214553.html</guid>
-      <description>EU-gefördert baut Infineon seine Reinräume in Österreich aus, um Galliumnitridchips im Großmaßstab zu fertigen. Man will die Marktführerschaft bei effizienter Stromversorgung für KI-Infrastruktur und Robotik. (Infineon, Wirtschaft)</description>
-      <pubDate>Tue, 27 Oct 2026 12:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Kompaktes Anker USB-C-Ladegerät mit zwei Anschlüssen für 19 Euro</title>
-      <link>https://www.golem.de/news/anzeige-kompaktes-anker-usb-c-ladegeraet-mit-zwei-anschluessen-fuer-19-euro-2610-214549.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-kompaktes-anker-usb-c-ladegeraet-mit-zwei-anschluessen-fuer-19-euro-2610-214549.html</guid>
-      <description>Bei Amazon gibt es ein platzsparendes USB-C-Netzteil von Anker mit zwei Anschlüssen preiswerter. Es kann auch Notebook-Akkus laden. (Anker, Amazon)</description>
-      <pubDate>Tue, 27 Oct 2026 12:43:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
