@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 11:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:20:39 GMT</lastBuildDate>
+    <item>
+      <title>Speicher: Lenovo-Fingerabdruck-Stick ist eine Mogelpackung</title>
+      <link>https://www.golem.de/news/speicher-lenovo-fingerabdruck-stick-ist-eine-mogelpackung-2611-214742.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/speicher-lenovo-fingerabdruck-stick-ist-eine-mogelpackung-2611-214742.html</guid>
+      <description>Ein vom als AES-256-verschlüsselt beworbenes USB-Laufwerk von Lenovo schützt tatsächlich keine Daten. Das enthüllt eine Sicherheitsanalyse. (Lenovo, Passwort)</description>
+      <pubDate>Mon, 02 Nov 2026 11:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Smarte Anwendungen: Biohacking für zu Hause</title>
       <link>https://www.golem.de/news/smarte-anwendungen-biohacking-fuer-zuhause-2611-214731.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-kompaktes-anker-usb-c-ladegeraet-mit-zwei-anschluessen-fuer-19-euro-2610-214549.html</guid>
       <description>Bei Amazon gibt es ein platzsparendes USB-C-Netzteil von Anker mit zwei Anschlüssen preiswerter. Es kann auch Notebook-Akkus laden. (Anker, Amazon)</description>
       <pubDate>Tue, 27 Oct 2026 12:43:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) ChatGPT Free und Plus im Test: Bezahlen für bessere Antworten?</title>
-      <link>https://www.golem.de/news/chatgpt-free-und-plus-im-test-bezahlen-fuer-bessere-antworten-2610-214551.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/chatgpt-free-und-plus-im-test-bezahlen-fuer-bessere-antworten-2610-214551.html</guid>
-      <description>ChatGPT Plus liefere bessere Antworten als die Gratisversion, heißt es oft. Wir haben dasselbe Konto in beiden Tarifen durch sechs Alltagsaufgaben geschickt, um zu schauen, ob sich die 23 Euro pro Monat lohnen. Ein Test von Nils Matthiesen (ChatGPT, KI)</description>
-      <pubDate>Tue, 27 Oct 2026 12:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
