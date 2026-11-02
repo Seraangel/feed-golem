@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 10:30:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:45:49 GMT</lastBuildDate>
+    <item>
+      <title>KI-Crawler: Google will Robots.txt für alle Anbieter zum Standard machen</title>
+      <link>https://www.golem.de/news/ki-crawler-google-will-robots-txt-fuer-alle-anbieter-zum-standard-machen-2611-214748.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-crawler-google-will-robots-txt-fuer-alle-anbieter-zum-standard-machen-2611-214748.html</guid>
+      <description>Die Robots.txt wird von den meisten KI-Crawlern geflissentlich ignoriert und soll deshalb zum verpflichtenden Standard werden. (KI, Google)</description>
+      <pubDate>Mon, 02 Nov 2026 10:40:09 GMT</pubDate>
+    </item>
     <item>
       <title>Elektro-Lkw: Elektromobilität benötigt bessere Stromvermarktung</title>
       <link>https://www.golem.de/news/elektro-lkw-elektromobilitaet-benoetigt-bessere-stromvermarktung-2611-214747.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-auf-universitaet-daten-von-525-000-personen-aus-testsystem-gestohlen-2610-214548.html</guid>
       <description>Bei der Universität Kopenhagen sind persönliche Daten von einer halben Million Menschen abgeflossen. Zeitweise mussten Türen komplett verriegelt werden. (Datenleck, Cyberwar)</description>
       <pubDate>Tue, 27 Oct 2026 11:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Reolink-Außenkamera mit Doppel-Objektiv zum Aktionspreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-reolink-aussenkamera-mit-doppel-objektiv-zum-aktionspreis-bei-amazon-2610-214550.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-reolink-aussenkamera-mit-doppel-objektiv-zum-aktionspreis-bei-amazon-2610-214550.html</guid>
-      <description>Die Reolink-Außenkamera verfolgt Bewegungen mit Weitwinkel und Teleobjektiv gleichzeitig ohne Abo und ist im Angebot gerade günstiger. (Technik/Hardware, Security)</description>
-      <pubDate>Tue, 27 Oct 2026 11:31:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
