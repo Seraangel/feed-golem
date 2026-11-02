@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 02 Nov 2026 14:50:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 15:10:53 GMT</lastBuildDate>
+    <item>
+      <title>Remote-Steuerung: Kühltheken in Supermärkten erneut gehackt</title>
+      <link>https://www.golem.de/news/remote-steuerung-kuehltheken-in-supermaerkten-erneut-gehackt-2611-214761.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/remote-steuerung-kuehltheken-in-supermaerkten-erneut-gehackt-2611-214761.html</guid>
+      <description>In mehreren europäischen Ländern sind Tiefkühler erneut per Fernwartung in den Abtaumodus versetzt worden. Der Schaden dürfte in die Millionen gehen. (Fernwartung, Cyberwar)</description>
+      <pubDate>Mon, 02 Nov 2026 15:05:02 GMT</pubDate>
+    </item>
     <item>
       <title>ISS: Neue Solarpanels soll sicheren Absturz unterstützen</title>
       <link>https://www.golem.de/news/iss-neue-solarpanels-soll-sicheren-absturz-unterstuetzen-2611-214760.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/doppelte-energiedichte-siliziumreicher-akku-besteht-langzeittest-2610-214562.html</guid>
       <description>Nach mehr als 1.000 kompletten Zyklen war die Hochenergie-Batterie weiter einsatzfähig. Ihre Energiedichte soll weiter steigen. (Akku, Wissenschaft)</description>
       <pubDate>Tue, 27 Oct 2026 15:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Externes DVD-Laufwerk für Prime-Mitglieder jetzt für nur rund 20 Euro</title>
-      <link>https://www.golem.de/news/anzeige-externes-dvd-laufwerk-fuer-prime-mitglieder-jetzt-fuer-nur-rund-20-euro-2610-214564.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-externes-dvd-laufwerk-fuer-prime-mitglieder-jetzt-fuer-nur-rund-20-euro-2610-214564.html</guid>
-      <description>Das Amicool DVD-Laufwerk liest und brennt CDs und DVDs per USB 3.0 und USB-C an jedem Notebook und kostet Prime-Mitglieder gerade weniger. (Technik/Hardware, Mac)</description>
-      <pubDate>Tue, 27 Oct 2026 15:11:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
