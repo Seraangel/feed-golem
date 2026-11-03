@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 08:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:15:41 GMT</lastBuildDate>
+    <item>
+      <title>Keine Reaktion auf fehlende Funktionen: Disney+ ein halbes Jahr mit Preisnachlass nutzen</title>
+      <link>https://www.golem.de/news/keine-reaktion-auf-fehlende-funktionen-disney-ein-halbes-jahr-mit-preisnachlass-nutzen-2611-214778.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/keine-reaktion-auf-fehlende-funktionen-disney-ein-halbes-jahr-mit-preisnachlass-nutzen-2611-214778.html</guid>
+      <description>Disney+ gibt es derzeit für ein halbes Jahr zu einem reduzierten Preis. Das hat nichts mit den gestrichenen Funktionen des Disney-Abos zu tun. (Disney+, Disney)</description>
+      <pubDate>Tue, 03 Nov 2026 08:12:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: So kommt Zigbee in die FRITZ!Box</title>
       <link>https://www.golem.de/news/anzeige-so-kommt-zigbee-in-die-fritz-box-2611-214132.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-boom-fujifilm-investiert-massiv-in-magnetbandproduktion-2610-214580.html</guid>
       <description>Fujifilm will seine Produktionskapazitäten von Magnetspeicher stark ausbauen - Grund ist eine KI-getriebene hohe Nachfrage. (Fujifilm, KI)</description>
       <pubDate>Wed, 28 Oct 2026 08:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firewalls unter Beschuss: Server der US-Regierung mittels PHP2Shell infiltriert</title>
-      <link>https://www.golem.de/news/firewalls-unter-beschuss-server-der-us-regierung-mittels-php2shell-infiltriert-2610-214578.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/firewalls-unter-beschuss-server-der-us-regierung-mittels-php2shell-infiltriert-2610-214578.html</guid>
-      <description>Chinesische Hacker sollen das Internet nach anfälligen Firewalls abgesucht und einige davon infiltriert haben - darunter solche der US-Regierung. (Cyberwar, PHP)</description>
-      <pubDate>Wed, 28 Oct 2026 08:27:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
