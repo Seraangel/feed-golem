@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 08:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:20:58 GMT</lastBuildDate>
+    <item>
+      <title>Attacken laufen bereits: Rund 11.000 angreifbare Gitlab-Instanzen im Netz</title>
+      <link>https://www.golem.de/news/attacken-laufen-bereits-rund-11-000-angreifbare-gitlab-instanzen-im-netz-2611-214776.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/attacken-laufen-bereits-rund-11-000-angreifbare-gitlab-instanzen-im-netz-2611-214776.html</guid>
+      <description>Angreifer nehmen seit einigen Wochen Gitlab-Server ins Visier. Fast jede dritte Gitlab-Instanz ist anfällig für mindestens eine kritische Sicherheitslücke. (Sicherheitslücke, Ruby)</description>
+      <pubDate>Tue, 03 Nov 2026 08:19:08 GMT</pubDate>
+    </item>
     <item>
       <title>Keine Reaktion auf fehlende Funktionen: Disney+ ein halbes Jahr mit Preisnachlass nutzen</title>
       <link>https://www.golem.de/news/keine-reaktion-auf-fehlende-funktionen-disney-ein-halbes-jahr-mit-preisnachlass-nutzen-2611-214778.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-im-all-ukraine-testet-eigenen-kommunikationssatelliten-2610-214575.html</guid>
       <description>Der Testsatellit Obria Nano kreist seit dem 1. Oktober 2026 im Orbit. Mit dem Projekt wollen Himera und Gomspace die Grundlagen für ein nationales ukrainisches Kommunikationsnetz legen. (Satelliten, Mesh)</description>
       <pubDate>Wed, 28 Oct 2026 09:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Boom: Fujifilm investiert massiv in Magnetbandproduktion</title>
-      <link>https://www.golem.de/news/ki-boom-fujifilm-investiert-massiv-in-magnetbandproduktion-2610-214580.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-boom-fujifilm-investiert-massiv-in-magnetbandproduktion-2610-214580.html</guid>
-      <description>Fujifilm will seine Produktionskapazitäten von Magnetspeicher stark ausbauen - Grund ist eine KI-getriebene hohe Nachfrage. (Fujifilm, KI)</description>
-      <pubDate>Wed, 28 Oct 2026 08:50:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
