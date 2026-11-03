@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 16:40:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:50:42 GMT</lastBuildDate>
+    <item>
+      <title>EuGH-Gutachten: Googles Chatbot könnte Urheberrecht von Verlagen verletzen</title>
+      <link>https://www.golem.de/news/eugh-gutachten-googles-chatbot-koennte-urheberrecht-von-verlagen-verletzen-2611-214812.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/eugh-gutachten-googles-chatbot-koennte-urheberrecht-von-verlagen-verletzen-2611-214812.html</guid>
+      <description>Ein Verlag sieht sein Leistungsschutzrecht durch die KI-Übersichten von Google verletzt. Die Klage könnte in Teilen erfolgreich sein. (KI, Urheberrecht)</description>
+      <pubDate>Tue, 03 Nov 2026 16:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Samsung T9 MicroSD-Karte mit 128 GByte zum Bestpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-samsung-t9-microsd-karte-mit-128-gbyte-zum-bestpreis-bei-amazon-2611-214798.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/orange-netzbetreiber-fordert-nach-ausfall-schadensersatz-von-nokia-2610-214616.html</guid>
       <description>Nach dem großen Netzausfall vom 21. Oktober will Orange finanzielle Entschädigung vom Ausrüster Nokia. Der hatte mit einem Softwareupdate das Mobilfunknetz lahmgelegt. (Nokia, Huawei)</description>
       <pubDate>Wed, 28 Oct 2026 19:11:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon Echo: Dot wird Smart-Home-Zentrale, Wecker erkennt Schlafphasen</title>
-      <link>https://www.golem.de/news/amazon-echo-dot-wird-smart-home-zentrale-wecker-erkennt-schlafphasen-2610-214615.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/amazon-echo-dot-wird-smart-home-zentrale-wecker-erkennt-schlafphasen-2610-214615.html</guid>
-      <description>Mit einem smarten Wecker, einem vernetzten Echo Dot, einem größeren Display und einem digitalen Bilderrahmen baut Amazon sein Echo-Angebot aus. (Echo, Mesh)</description>
-      <pubDate>Wed, 28 Oct 2026 18:46:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
