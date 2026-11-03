@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 06:20:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:35:51 GMT</lastBuildDate>
+    <item>
+      <title>Quartalsbericht: Apple mit Rekordquartal aber unausgewogenem Wachstum</title>
+      <link>https://www.golem.de/news/quartalsbericht-apple-mit-rekordquartal-aber-unausgewogenem-wachstum-2611-214774.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/quartalsbericht-apple-mit-rekordquartal-aber-unausgewogenem-wachstum-2611-214774.html</guid>
+      <description>Apple steigert Umsatz und Gewinn deutlich. Der Rekord beruht jedoch vor allem auf dem iPhone, den Services und wenigen starken Märkten. (Apple, Wirtschaft)</description>
+      <pubDate>Tue, 03 Nov 2026 06:32:05 GMT</pubDate>
+    </item>
     <item>
       <title>Astragon Development: Trotz Millionenförderung schließt deutsches Entwicklerstudio</title>
       <link>https://www.golem.de/news/astragon-development-trotz-millionenfoerderung-schliesst-deutsches-entwicklerstudio-2611-214773.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/probefahrt-so-gut-faehrt-nvidias-ki-alpamayo-in-berlin-2610-214560.html</guid>
       <description>Nvidias Fahr-KI Alpamayo kommt mit dem Berliner Verkehr erstaunlich gut klar. Bei unserer Testfahrt zeigten sich aber auch die Grenzen des Systems. Ein Bericht von Johannes Hiltscher (Autonomes Fahren, Nvidia)</description>
       <pubDate>Wed, 28 Oct 2026 08:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Streamingabo: Abonnenten verbringen weniger Zeit in der Netflix-App</title>
-      <link>https://www.golem.de/news/streamingabo-abonnenten-verbringen-weniger-zeit-in-der-netflix-app-2610-214576.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/streamingabo-abonnenten-verbringen-weniger-zeit-in-der-netflix-app-2610-214576.html</guid>
-      <description>Seit mehreren Jahren schafft es Netflix nicht, Abonnenten zu einer längeren Verweildauer zu bringen. Das hat Konsequenzen. (Netflix, Streaming)</description>
-      <pubDate>Wed, 28 Oct 2026 07:50:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
