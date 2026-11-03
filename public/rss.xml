@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 08:00:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:05:43 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: So kommt Zigbee in die FRITZ!Box</title>
+      <link>https://www.golem.de/news/anzeige-so-kommt-zigbee-in-die-fritz-box-2611-214132.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-so-kommt-zigbee-in-die-fritz-box-2611-214132.html</guid>
+      <description>Immer mehr FRITZ!Box-Modelle sprechen Zigbee. Doch was steckt technisch dahinter? Stella und Patrick aus der Softwareentwicklung geben einen Blick hinter die Kulissen. (Fritzbox, AVM)</description>
+      <pubDate>Tue, 03 Nov 2026 08:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>Prodigy-Prozessor: Entwickler Tachyum meldet selbst Insolvenz an</title>
       <link>https://www.golem.de/news/prodigy-prozessor-entwickler-tachyum-meldet-selbst-insolvenz-an-2611-214777.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/firewalls-unter-beschuss-server-der-us-regierung-mittels-php2shell-infiltriert-2610-214578.html</guid>
       <description>Chinesische Hacker sollen das Internet nach anfälligen Firewalls abgesucht und einige davon infiltriert haben - darunter solche der US-Regierung. (Cyberwar, PHP)</description>
       <pubDate>Wed, 28 Oct 2026 08:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Genie 4: Simulator zeigt fotorealistische, per Prompt steuerbare Welten</title>
-      <link>https://www.golem.de/news/google-deepmind-genie-4-baut-welten-mit-ton-und-laesst-sich-live-umbauen-2610-214579.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/google-deepmind-genie-4-baut-welten-mit-ton-und-laesst-sich-live-umbauen-2610-214579.html</guid>
-      <description>Google Deepmind startet Genie 4 als Research-Preview. Das Weltmodell erzeugt Ton und folgt Textbefehlen live. (Deepmind, KI)</description>
-      <pubDate>Wed, 28 Oct 2026 08:17:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
