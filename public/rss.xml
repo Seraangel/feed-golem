@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 07:45:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:00:39 GMT</lastBuildDate>
+    <item>
+      <title>Prodigy-Prozessor: Entwickler Tachyum meldet selbst Insolvenz an</title>
+      <link>https://www.golem.de/news/prodigy-prozessor-entwickler-tachyum-meldet-selbst-insolvenz-an-2611-214777.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/prodigy-prozessor-entwickler-tachyum-meldet-selbst-insolvenz-an-2611-214777.html</guid>
+      <description>Die slowakische Tochter hat den Antrag selbst gestellt. Das Gericht hat das Verfahren eingeleitet, aber noch keinen Konkurs erklärt. (Tachyum, Prozessor)</description>
+      <pubDate>Tue, 03 Nov 2026 07:59:09 GMT</pubDate>
+    </item>
     <item>
       <title>Simsalasim für 10 Euro: Diese Beschränkungen hat der Smartphone-Tarif mit unbegrenzter Datenflatrate</title>
       <link>https://www.golem.de/news/simsalasim-fuer-10-euro-diese-beschraenkungen-hat-der-smartphone-tarif-mit-unbegrenzter-datenflatrate-2611-214775.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/google-deepmind-genie-4-baut-welten-mit-ton-und-laesst-sich-live-umbauen-2610-214579.html</guid>
       <description>Google Deepmind startet Genie 4 als Research-Preview. Das Weltmodell erzeugt Ton und folgt Textbefehlen live. (Deepmind, KI)</description>
       <pubDate>Wed, 28 Oct 2026 08:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS auf Snapdragon: iOS 26 auf Microsoft Surface Duo portiert</title>
-      <link>https://www.golem.de/news/hobby-port-entwickler-bringt-ios-26-auf-surface-duo-2610-214577.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hobby-port-entwickler-bringt-ios-26-auf-surface-duo-2610-214577.html</guid>
-      <description>Ein Entwickler startet iOS 26 auf dem Surface Duo 2. Beide Displays und Touch funktionieren, sehr viel mehr noch nicht. (Mobile Endgeräte, Apple)</description>
-      <pubDate>Wed, 28 Oct 2026 08:07:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
