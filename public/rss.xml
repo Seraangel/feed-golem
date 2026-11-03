@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 01:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 06:20:44 GMT</lastBuildDate>
+    <item>
+      <title>Astragon Development: Trotz Millionenförderung schließt deutsches Entwicklerstudio</title>
+      <link>https://www.golem.de/news/astragon-development-trotz-millionenfoerderung-schliesst-deutsches-entwicklerstudio-2611-214773.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/astragon-development-trotz-millionenfoerderung-schliesst-deutsches-entwicklerstudio-2611-214773.html</guid>
+      <description>Mehr als 1,8 Millionen Euro Förderung sind für die Schiffssimulation Seafarer bewilligt worden. Kurz nach dem Start stehen die Entwickler vor dem Aus. (Spiele-Entwicklung, Spieletest)</description>
+      <pubDate>Tue, 03 Nov 2026 06:19:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Keycloak für sicheres Identitäts- und Zugriffsmanagement</title>
+      <link>https://www.golem.de/news/anzeige-keycloak-fuer-sicheres-identitaets-und-zugriffsmanagement-2611-214722.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-keycloak-fuer-sicheres-identitaets-und-zugriffsmanagement-2611-214722.html</guid>
+      <description>Keycloak verbindet Anmeldung und Zugriffsschutz für Webanwendungen. Ein dreitägiger Workshop vermittelt die Konfiguration sowie die Integration von SSO und MFA. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 03 Nov 2026 06:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Einhell-Kompressor nahe Prime-Day-Preis und 18V-Akkus bei Amazon günstiger</title>
       <link>https://www.golem.de/news/anzeige-einhell-kompressor-nahe-prime-day-preis-und-18v-akkus-bei-amazon-guenstiger-2611-214772.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/streamingabo-abonnenten-verbringen-weniger-zeit-in-der-netflix-app-2610-214576.html</guid>
       <description>Seit mehreren Jahren schafft es Netflix nicht, Abonnenten zu einer längeren Verweildauer zu bringen. Das hat Konsequenzen. (Netflix, Streaming)</description>
       <pubDate>Wed, 28 Oct 2026 07:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notbremsassistenten: Reflektorkleidung macht Fußgänger nachts schlecht sichtbar</title>
-      <link>https://www.golem.de/news/notbremsassistenten-reflektorkleidung-macht-fussgaenger-nachts-schlecht-sichtbar-2610-214574.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/notbremsassistenten-reflektorkleidung-macht-fussgaenger-nachts-schlecht-sichtbar-2610-214574.html</guid>
-      <description>Notbremsassistenten könnten Fußgänger mit reflektierender Arbeits- oder Kinderkleidung bei Dunkelheit schlecht erkennen. Zu diesem Ergebnis kommt der ADAC. (ADAC, Auto)</description>
-      <pubDate>Wed, 28 Oct 2026 06:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Souveräne Cloud: STACKIT und Governance im Überblick</title>
-      <link>https://www.golem.de/news/anzeige-souveraene-cloud-stackit-und-governance-im-ueberblick-2610-214492.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-souveraene-cloud-stackit-und-governance-im-ueberblick-2610-214492.html</guid>
-      <description>Die STACKIT Cloud wirft Fragen zu Souveränität und Governance auf. Ein Workshop vermittelt Funktionen, Strategien und Ansätze zur Integration. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Wed, 28 Oct 2026 06:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
