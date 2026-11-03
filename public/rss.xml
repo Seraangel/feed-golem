@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 14:50:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:05:44 GMT</lastBuildDate>
+    <item>
+      <title>KI-Taskforce der Regierung: Die rosarote Vision einer deutschen KI-Nation</title>
+      <link>https://www.golem.de/news/ki-taskforce-der-regierung-die-rosarote-vision-einer-deutschen-ki-nation-2611-214804.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-taskforce-der-regierung-die-rosarote-vision-einer-deutschen-ki-nation-2611-214804.html</guid>
+      <description>Die KI-Taskforce der Bundesregierung hat ihren ersten Bericht vorgelegt. Sie träumt von einer Art KI-Paradies, in dem alle von der Technik profitieren. Eine Analyse von Friedhelm Greis (KI, Politik)</description>
+      <pubDate>Tue, 03 Nov 2026 15:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: HDMI-Switch von Ugreen mit drei Eingängen und Fernbedienung für unter 17 Euro</title>
       <link>https://www.golem.de/news/anzeige-hdmi-switch-von-ugreen-mit-drei-eingaengen-und-fernbedienung-fuer-unter-17-euro-2611-214803.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sparziel-2-milliarden-euro-sap-ersetzt-hochpreisige-ki-modelle-2610-214611.html</guid>
       <description>Die Auswahl des jeweils günstigsten Modells soll SAP in den kommenden zwei Jahren mit dazu beitragen, zwei Milliarden Euro einsparen. (SAP, Studien)</description>
       <pubDate>Wed, 28 Oct 2026 16:37:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auto-App: Entwickler bringen Android Auto als Standalone-App zurück</title>
-      <link>https://www.golem.de/news/auto-app-entwickler-bringen-android-auto-als-standalone-app-zurueck-2610-214610.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/auto-app-entwickler-bringen-android-auto-als-standalone-app-zurueck-2610-214610.html</guid>
-      <description>Seit einigen Jahren lässt sich Android Auto nicht mehr als App auf einem Smartphone starten. Phoneauto bringt die Funktion zurück. (Android Auto, Google)</description>
-      <pubDate>Wed, 28 Oct 2026 16:23:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
