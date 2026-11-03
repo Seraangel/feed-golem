@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 08:50:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:00:52 GMT</lastBuildDate>
+    <item>
+      <title>Digitalgipfel: Geheimdienste bauen auf Google, Merz nennt das europäisch</title>
+      <link>https://www.golem.de/news/digitalgipfel-geheimdienste-bauen-auf-google-merz-nennt-das-europaeisch-2611-214779.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/digitalgipfel-geheimdienste-bauen-auf-google-merz-nennt-das-europaeisch-2611-214779.html</guid>
+      <description>Bundeskanzler Merz lehnt Autarkie anscheinend ab. Denn die geplante Cloud der Nachrichtendienste mit Google nennt er europäische Infrastruktur. (Friedrich Merz, Datenschutz)</description>
+      <pubDate>Tue, 03 Nov 2026 08:58:11 GMT</pubDate>
+    </item>
     <item>
       <title>Wütende KI-Meuten: Wie gefälschte Proteste auf Tiktok Geld bringen sollen</title>
       <link>https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-gta-6-soll-auf-der-ps5-rund-210-gbyte-gross-sein-2610-214587.html</guid>
       <description>Für GTA 6 müssen Spieler auf der Playstation 5 offenbar viel Speicherplatz freihalten. (GTA 6, Rockstar)</description>
       <pubDate>Wed, 28 Oct 2026 09:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zero 3W &amp; 4 Model A: Hinweise auf neue Raspberry Pi 4</title>
-      <link>https://www.golem.de/news/zero-3w-4-model-a-hinweise-auf-neue-raspberry-pi-4-2610-214581.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zero-3w-4-model-a-hinweise-auf-neue-raspberry-pi-4-2610-214581.html</guid>
-      <description>Raspberry Pi sind mittlerweile extrem teuer geworden. Der Linux-Kernel kündigt nun zwei neue, günstigere Modelle an. (Raspberry Pi, Linux)</description>
-      <pubDate>Wed, 28 Oct 2026 09:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
