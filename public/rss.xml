@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 11:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 12:20:41 GMT</lastBuildDate>
+    <item>
+      <title>Schadcode-Attacken möglich: Kritische Android-Lücken gefährden unzählige Geräte</title>
+      <link>https://www.golem.de/news/schadcode-attacken-moeglich-kritische-android-luecken-gefaehrden-unzaehlige-geraete-2611-214793.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-kritische-android-luecken-gefaehrden-unzaehlige-geraete-2611-214793.html</guid>
+      <description>Google hat mit den neuesten Android-Updates über 200 Sicherheitslücken adressiert. Einige davon ermöglichen gefährliche Schadcode-Attacken. (Sicherheitslücke, Google)</description>
+      <pubDate>Tue, 03 Nov 2026 12:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Versorgungssicherheit: Technologieoffenheit heißt im Stromnetz Gas</title>
       <link>https://www.golem.de/news/versorgungssicherheit-technologieoffenheit-heisst-im-stromnetz-gas-2611-214791.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/goodbye-streamed-millionenfach-genutzter-illegaler-streamingdienst-gibt-auf-2610-214597.html</guid>
       <description>Mehr als 400 Millionen illegale Livestreams von Sportveranstaltungen sind allein im Juli über Streamed abgewickelt worden. Doch damit ist jetzt Schluss. (Streaming, IPTV)</description>
       <pubDate>Wed, 28 Oct 2026 12:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Copilot, Recall, Paint, Notepad: Wie wir KI aus Windows 11 entfernen</title>
-      <link>https://www.golem.de/news/copilot-recall-paint-notepad-wie-wir-ki-aus-windows-11-entfernen-2610-214585.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/copilot-recall-paint-notepad-wie-wir-ki-aus-windows-11-entfernen-2610-214585.html</guid>
-      <description>Wir zeigen zwei Methoden, mit denen sich Windows 11 gezielt ent-KI-fizieren lässt. Netter Nebeneffekt: Bloatware geht gleich mit weg. Eine Anleitung von Oliver Nickel (Windows 11, KI)</description>
-      <pubDate>Wed, 28 Oct 2026 12:30:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
