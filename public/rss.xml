@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 10:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:05:39 GMT</lastBuildDate>
+    <item>
+      <title>Diebisch: Thief kehrt nach 28 Jahren mit neuer Kampagne zurück</title>
+      <link>https://www.golem.de/news/diebisch-thief-kehrt-nach-28-jahren-mit-neuer-kampagne-zurueck-2611-214786.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/diebisch-thief-kehrt-nach-28-jahren-mit-neuer-kampagne-zurueck-2611-214786.html</guid>
+      <description>Der Schleichspielklassiker Thief erscheint als Remaster. Besonders spannend ist eine neue Kampagne, die von erfahrenen Moddern entwickelt wird. (Thief, Spiele)</description>
+      <pubDate>Tue, 03 Nov 2026 10:03:08 GMT</pubDate>
+    </item>
     <item>
       <title>Open World Games: GTA 6 spielen ist anerkannter Bildungsurlaub</title>
       <link>https://www.golem.de/news/open-world-games-gta-6-spielen-ist-anerkannter-bildungsurlaub-2611-214784.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebtes-akku-multifunktionswerkzeug-reduziert-bei-amazon-2610-214590.html</guid>
       <description>Amazon hat ein Akku-Multifunktionswerkzeug für Präzisionsarbeiten im Angebot, das bohren, schleifen, polieren und gravieren kann. (Technik/Hardware)</description>
       <pubDate>Wed, 28 Oct 2026 10:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angriff auf PXE-Boot: 16 Jahre alte Uefi-Lücke gefährdet unzählige Server</title>
-      <link>https://www.golem.de/news/angriff-auf-pxe-boot-16-jahre-alte-uefi-luecke-gefaehrdet-unzaehlige-server-2610-214589.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-pxe-boot-16-jahre-alte-uefi-luecke-gefaehrdet-unzaehlige-server-2610-214589.html</guid>
-      <description>Eine kritische Sicherheitslücke lässt Angreifer aus der Ferne Schadcode in PXE-Bootprozesse schleusen. Details wurden versehentlich zu früh geleakt. (Sicherheitslücke, Computer)</description>
-      <pubDate>Wed, 28 Oct 2026 10:28:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
