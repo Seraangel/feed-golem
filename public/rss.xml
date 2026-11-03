@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 03 Nov 2026 08:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:30:40 GMT</lastBuildDate>
+    <item>
+      <title>Softwareentwicklung mit KI: In elf Tagen zum Linux-kompatiblen Kernel-Prototyp</title>
+      <link>https://www.golem.de/news/softwareentwicklung-mit-ki-in-elf-tagen-zum-linux-kompatiblen-kernel-prototyp-2611-214780.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-mit-ki-in-elf-tagen-zum-linux-kompatiblen-kernel-prototyp-2611-214780.html</guid>
+      <description>Mit Ginux will der Gründer von CentOS und Rocky Linux zeigen, dass von Menschen dirigierte KI Entwicklungsarbeit deutlich beschleunigen kann. (KI, CentOS)</description>
+      <pubDate>Tue, 03 Nov 2026 08:27:01 GMT</pubDate>
+    </item>
     <item>
       <title>Attacken laufen bereits: Rund 11.000 angreifbare Gitlab-Instanzen im Netz</title>
       <link>https://www.golem.de/news/attacken-laufen-bereits-rund-11-000-angreifbare-gitlab-instanzen-im-netz-2611-214776.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/verbrenner-audis-suv-werk-in-den-usa-fuer-umweltminister-ein-totes-pferd-2610-214583.html</guid>
       <description>Bundesumweltminister Carsten Schneider bezeichnet Audis Plan, in den USA ein SUV-Werk zu eröffnen, als eine Wette auf ein totes Pferd - weil dort Verbrenner gebaut werden. (Audi, Auto)</description>
       <pubDate>Wed, 28 Oct 2026 09:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digitale Souveränität im All: Ukraine testet eigenen Kommunikationssatelliten</title>
-      <link>https://www.golem.de/news/digitale-souveraenitaet-im-all-ukraine-testet-eigenen-kommunikationssatelliten-2610-214575.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/digitale-souveraenitaet-im-all-ukraine-testet-eigenen-kommunikationssatelliten-2610-214575.html</guid>
-      <description>Der Testsatellit Obria Nano kreist seit dem 1. Oktober 2026 im Orbit. Mit dem Projekt wollen Himera und Gomspace die Grundlagen für ein nationales ukrainisches Kommunikationsnetz legen. (Satelliten, Mesh)</description>
-      <pubDate>Wed, 28 Oct 2026 09:01:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
