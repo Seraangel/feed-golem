@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 08:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:25:40 GMT</lastBuildDate>
+    <item>
+      <title>Anlagebetrug: Polizei legt Betrugsnetzwerk lahm und übernimmt 100 Server</title>
+      <link>https://www.golem.de/news/anlagebetrug-polizei-legt-betrugsnetzwerk-lahm-und-uebernimmt-100-server-2611-214825.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anlagebetrug-polizei-legt-betrugsnetzwerk-lahm-und-uebernimmt-100-server-2611-214825.html</guid>
+      <description>Anlagebetrüger lockten Opfer mit dem Versprechen hoher Renditen auf ihre Plattform. Strafverfolger haben jetzt die Infrastruktur dahinter zerschlagen. (Cybercrime, Server)</description>
+      <pubDate>Wed, 04 Nov 2026 08:20:07 GMT</pubDate>
+    </item>
     <item>
       <title>KI in der Softwareentwicklung: Warum Prompts Coding-Agenten nicht absichern</title>
       <link>https://www.golem.de/news/ki-in-der-softwareentwicklung-warum-prompts-coding-agenten-nicht-absichern-2611-214799.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/forscher-warnen-ueber-300-chrome-add-ons-leiten-heimlich-traffic-um-2610-214629.html</guid>
       <description>Betroffen sind 319 Erweiterungen mit mehr als 13 Millionen Installationen. Sie leiten Suchanfragen um und bescheren den Betreibern damit Werbeeinnahmen. (Browser, Chrome)</description>
       <pubDate>Thu, 29 Oct 2026 10:09:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Einsteiger-CPUs: Intel erweitert günstige Reihe Wildcat Lake</title>
-      <link>https://www.golem.de/news/einsteiger-cpus-intel-erweitert-guenstige-reihe-wildcat-lake-2610-214627.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/einsteiger-cpus-intel-erweitert-guenstige-reihe-wildcat-lake-2610-214627.html</guid>
-      <description>Ein Modell mit mehr P-Cores, eines komplett ohne: Ein Leak zeigt, dass Intel weitere CPUs für günstige Computer plant. (Prozessor, Intel)</description>
-      <pubDate>Thu, 29 Oct 2026 09:54:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
