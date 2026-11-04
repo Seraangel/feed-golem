@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 13:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:25:40 GMT</lastBuildDate>
+    <item>
+      <title>Chefs-von-Devs-Interview: Wie Open Source vor dem Vendor-Lock-in schützt</title>
+      <link>https://www.golem.de/news/chefs-von-devs-interview-wie-open-source-vor-dem-vendor-lock-in-schuetzt-2611-214848.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chefs-von-devs-interview-wie-open-source-vor-dem-vendor-lock-in-schuetzt-2611-214848.html</guid>
+      <description>Wie verhindert man, dass ein wichtiges Open-Source-Projekt plötzlich verschwindet? In Chefs von Devs erzählt Markus Bätz, wie aus einer beinahe verlorenen ERP-Software ein gemeinschaftlich getragenes Projekt wurde. (Open Source, Software)</description>
+      <pubDate>Wed, 04 Nov 2026 13:22:10 GMT</pubDate>
+    </item>
     <item>
       <title>Binance deckt auf: Wie der größte Krypto-Hack aller Zeiten abgelaufen ist</title>
       <link>https://www.golem.de/news/binance-deckt-auf-wie-der-groesste-krypto-hack-aller-zeiten-abgelaufen-ist-2611-214842.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/macbook-pro-mit-proled-xdr-steve-jobs-hatte-recht-2610-214648.html</guid>
       <description>Touchscreens für Laptops waren für Steve Jobs stets ein No-Go - aus gutem Grund. Das heutige Apple ist sich dafür nicht zu schade. Ein IMHO von Oliver Nickel (Macbook, Display)</description>
       <pubDate>Thu, 29 Oct 2026 15:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Marderschreck fürs Auto günstig bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-marderschreck-fuers-auto-guenstig-bei-amazon-2610-214651.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-marderschreck-fuers-auto-guenstig-bei-amazon-2610-214651.html</guid>
-      <description>Amazon hat einen Marderschreck fürs Auto von Pattler im Angebot, der Marder mit Ultraschalltönen aus dem Motorraum fernhält. (Technik/Hardware)</description>
-      <pubDate>Thu, 29 Oct 2026 15:24:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
