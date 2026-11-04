@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 13:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:55:43 GMT</lastBuildDate>
+    <item>
+      <title>Recht: Betrunken im Tesla geschlafen - Führerschein weg</title>
+      <link>https://www.golem.de/news/recht-betrunken-im-tesla-geschlafen-fuehrerschein-weg-2611-214846.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/recht-betrunken-im-tesla-geschlafen-fuehrerschein-weg-2611-214846.html</guid>
+      <description>Ein Autofahrer hat in einem Tesla seinen Rausch auf dem Fahrersitz ausgeschlafen. Er verlor seinen Führerschein - und wehrte sich dagegen. (Elektroauto, Tesla)</description>
+      <pubDate>Wed, 04 Nov 2026 13:52:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Wasserdichte Handschuhe mit Touch-Funktion günstig bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-wasserdichte-handschuhe-mit-touch-funktion-guenstig-bei-amazon-2611-214847.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/robotik-lieferroboter-verursacht-unfall-und-begeht-fahrerflucht-2610-214653.html</guid>
       <description>In Tallinn werden neun Menschen verletzt, weil ein Lieferroboter über Rot fährt. Technisch gesehen hat der Betreiber Fahrerflucht begangen. (Starship Technologies, Roboter)</description>
       <pubDate>Thu, 29 Oct 2026 16:12:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Umzug auf Azure: KI-Agenten bringen Githubs Infrastruktur an ihre Grenzen</title>
-      <link>https://www.golem.de/news/umzug-auf-azure-ki-agenten-bringen-githubs-infrastruktur-an-ihre-grenzen-2610-214650.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/umzug-auf-azure-ki-agenten-bringen-githubs-infrastruktur-an-ihre-grenzen-2610-214650.html</guid>
-      <description>Um mit dem exponentiellen Wachstum mitzuhalten, baut Github seine Infrastruktur massiv aus - bei Azure statt im eigenen Rechenzentrum. (Github, Computer)</description>
-      <pubDate>Thu, 29 Oct 2026 15:51:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
