@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 14:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:35:41 GMT</lastBuildDate>
+    <item>
+      <title>Quartalsbericht: AMD wird immer mehr zum KI-Ausrüster</title>
+      <link>https://www.golem.de/news/quartalsbericht-amd-wird-immer-mehr-zum-ki-ausruester-2611-214850.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/quartalsbericht-amd-wird-immer-mehr-zum-ki-ausruester-2611-214850.html</guid>
+      <description>Im dritten Quartal 2026 ist der AMD-Umsatz gestiegen, während sich der Nettogewinn verdoppelte. Vor allem KI-Rechenzentren treiben den Kurs des Chipkonzerns. (AMD, Server)</description>
+      <pubDate>Wed, 04 Nov 2026 14:32:01 GMT</pubDate>
+    </item>
     <item>
       <title>Kostenlose Design-Software: Warum Canva fast ein Viertel der Belegschaft entlässt</title>
       <link>https://www.golem.de/news/kostenlose-design-software-warum-canva-fast-ein-viertel-der-belegschaft-entlaesst-2611-214851.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-warum-ki-das-mittlere-management-nicht-abschafft-2610-214656.html</guid>
       <description>KI-Agenten werden viele Managementaufgaben übernehmen. Warum Führungskräfte trotzdem gebraucht werden, erklärt Ex-Google-Manager Kai-Fu Lee in der Financial Times. Von Kai-Fu Lee (KI, Larry Page)</description>
       <pubDate>Thu, 29 Oct 2026 17:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheitsrisiko: Arbeitgeber löschen häufig nicht die digitalen Zugänge ihrer Ex-Mitarbeiter</title>
-      <link>https://www.golem.de/news/sicherheitsrisiko-arbeitgeber-loeschen-haeufig-nicht-die-digitalen-zugaenge-ihrer-ex-mitarbeiter-2610-214659.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsrisiko-arbeitgeber-loeschen-haeufig-nicht-die-digitalen-zugaenge-ihrer-ex-mitarbeiter-2610-214659.html</guid>
-      <description>Lediglich 49 Prozent der Befragten bestätigen die Deaktivierung aller Logins. 54 Prozent nutzen indes auch nach ihrem Ausscheiden noch funktionierende Zugänge. (Datenschutz, Security)</description>
-      <pubDate>Thu, 29 Oct 2026 16:51:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
