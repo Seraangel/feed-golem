@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 11:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 11:20:41 GMT</lastBuildDate>
+    <item>
+      <title>Valve: Entwickler müssen ihre Spiele fünf Minuten selbst über Steam spielen</title>
+      <link>https://www.golem.de/news/valve-entwickler-muessen-ihre-spiele-fuenf-minuten-selbst-ueber-steam-spielen-2611-214837.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/valve-entwickler-muessen-ihre-spiele-fuenf-minuten-selbst-ueber-steam-spielen-2611-214837.html</guid>
+      <description>Manche Entwickler starten ihre Games offenbar nie über Steam. Valve führt deshalb eine neue Pflicht ein. (Steam, DirectX)</description>
+      <pubDate>Wed, 04 Nov 2026 11:15:14 GMT</pubDate>
+    </item>
     <item>
       <title>The Legend of Zelda für Switch 2 im Test: Ocarina of Time gelingt der Sprung in die Gegenwart</title>
       <link>https://www.golem.de/news/the-legend-of-zelda-fuer-switch-2-im-test-ocarina-of-time-gelingt-der-sprung-in-die-gegenwart-2611-214832.html</link>
@@ -83,7 +90,7 @@
       <pubDate>Wed, 04 Nov 2026 09:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>Windows 11 mit 8 GB RAM: Microsoft verspricht bis zu 40 Prozent mehr Tempo</title>
+      <title>Windows 11 mit 8 GByte RAM: Microsoft verspricht bis zu 40 Prozent mehr Tempo</title>
       <link>https://www.golem.de/news/windows-11-mit-8-gb-ram-microsoft-verspricht-bis-zu-40-prozent-mehr-tempo-2611-214826.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/windows-11-mit-8-gb-ram-microsoft-verspricht-bis-zu-40-prozent-mehr-tempo-2611-214826.html</guid>
       <description>Windows 11 hält bis zu 2 GByte mehr Daten im Arbeitsspeicher. Auf 8-GByte-PCs soll das Multitasking laut Microsoft dadurch bis zu 40 Prozent schneller laufen. (Windows 11, Microsoft)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sicherheit-universitaet-leipzig-nimmt-nach-cyberangriff-ganze-it-offline-2610-214635.html</guid>
       <description>Ein Cyberangriff zwingt die Universität Leipzig zum Handeln. Alle IT-Dienste sind vorerst offline. Wie lange das so bleibt, ist noch unklar. (Cybercrime, Phishing)</description>
       <pubDate>Thu, 29 Oct 2026 12:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Milliardenloch bei Alphabet: Eigene KI kannibalisiert das Suchgeschäft bei Google</title>
-      <link>https://www.golem.de/news/milliardenloch-bei-alphabet-eigene-ki-kannibalisiert-das-suchgeschaeft-bei-google-2610-214643.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/milliardenloch-bei-alphabet-eigene-ki-kannibalisiert-das-suchgeschaeft-bei-google-2610-214643.html</guid>
-      <description>Direkte KI-Antworten kosten Google wertvolle Werbeklicks. Weil gleichzeitig die Ausgaben für Rechenzentren rasant steigen, sinkt das Vertrauen der Investoren. (Google, KI)</description>
-      <pubDate>Thu, 29 Oct 2026 12:42:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
