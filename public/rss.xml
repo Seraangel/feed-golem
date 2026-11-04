@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 16:27:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 16:40:45 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Vier USB-C-Kabel für 6,28 Euro | Amazon wiederholt beliebten Sparpreis</title>
+      <link>https://www.golem.de/news/anzeige-vier-usb-c-kabel-fuer-6-28-euro-amazon-wiederholt-beliebten-sparpreis-2611-214860.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-vier-usb-c-kabel-fuer-6-28-euro-amazon-wiederholt-beliebten-sparpreis-2611-214860.html</guid>
+      <description>Vier USB-C-Kabel mit bis zu 60 Watt für nur 1,57 Euro pro Stück: Amazon bietet das Lisen-Set erneut günstig an. (USB PD, Amazon)</description>
+      <pubDate>Wed, 04 Nov 2026 16:35:01 GMT</pubDate>
+    </item>
     <item>
       <title>Ladenetzbetreiber: VW-Tochter Elli streicht Jobs und stellt Wallboxverkauf ein</title>
       <link>https://www.golem.de/news/ladenetzbetreiber-vw-tochter-elli-streicht-jobs-und-stellt-wallboxverkauf-ein-2611-214861.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-2610-214655.html</guid>
       <description>Linux-Systemadministration erfordert Kenntnisse in Shell, Diensten und Zugriffsrechten. Ein fünftägiger Workshop vermittelt die Grundlagen. (Golem Karrierewelt, Linux)</description>
       <pubDate>Fri, 30 Oct 2026 06:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux-Lücke: Claude schreibt Root-Exploit, Ubuntu und RHEL ohne Patch</title>
-      <link>https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/linux-luecke-claude-schreibt-root-exploit-ubuntu-und-rhel-ohne-patch-2610-214664.html</guid>
-      <description>Eine gravierende Sicherheitslücke im Linux-Kernel ermöglicht unter bestimmten Bedingungen Angriffe aus der Ferne. Es ist Patch-Zeit. (Security-Alert, Linux-Kernel)</description>
-      <pubDate>Thu, 29 Oct 2026 20:56:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
