@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 12:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 12:35:52 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Rust-Programmierung: Wie sich mehrere CPU-Kerne effizient auslasten lassen</title>
+      <link>https://www.golem.de/news/rust-programmierung-wie-sich-mehrere-cpu-kerne-effizient-auslasten-lassen-2611-214843.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rust-programmierung-wie-sich-mehrere-cpu-kerne-effizient-auslasten-lassen-2611-214843.html</guid>
+      <description>Rust macht die parallele Verarbeitung einfach und sicher. Bibliotheken wie Rayon helfen dabei, mehrere Prozessorkerne effizient auszulasten. Eine Anleitung von Gerhard Völkl (Rust, Prozessor)</description>
+      <pubDate>Wed, 04 Nov 2026 12:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>Prototyp: Mercedes testet holografischen Display</title>
       <link>https://www.golem.de/news/prototyp-mercedes-testet-holografischen-display-2611-214840.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/autoindustrie-statistik-zu-vw-werken-und-arbeitskosten-irrefuehrend-2610-214647.html</guid>
       <description>Eine VW-interne Tabelle zeigt, dass in China doppelt so viele Fahrzeuge pro Arbeiter gebaut werden, zu einem Bruchteil der Kosten. Stimmt das? (VW, Wirtschaft)</description>
       <pubDate>Thu, 29 Oct 2026 14:51:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 4 Carbon: Google stellt leistungsfähigere Version von Argon vor</title>
-      <link>https://www.golem.de/news/gemini-4-carbon-google-stellt-leistungsfaehigere-version-von-argon-vor-2610-214646.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gemini-4-carbon-google-stellt-leistungsfaehigere-version-von-argon-vor-2610-214646.html</guid>
-      <description>Google kündigt mit Gemini 4 Carbon ein neues KI-Modell an. Normale Nutzer und Entwickler erhalten vorerst keinen Zugang. (Gemini, Google)</description>
-      <pubDate>Thu, 29 Oct 2026 14:28:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
