@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 10:45:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:50:42 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Black Weeks bei notebooksbilliger.de - bis zu 70 Prozent Rabatt sichern!</title>
+      <link>https://www.golem.de/news/anzeige-black-weeks-bei-notebooksbilliger-de-bis-zu-70-prozent-rabatt-sichern-2611-214836.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-black-weeks-bei-notebooksbilliger-de-bis-zu-70-prozent-rabatt-sichern-2611-214836.html</guid>
+      <description>Der November steht im Zeichen des Black Fridays. Bei notebooksbilliger.de laufen bereits ab heute die Black Weeks mit Rabatten bis zu 70 Prozent. (Black Friday, Notebook)</description>
+      <pubDate>Wed, 04 Nov 2026 10:47:08 GMT</pubDate>
+    </item>
     <item>
       <title>Ocarina of Time: Der Suchbegriff Zelda führt zum Google von 1998</title>
       <link>https://www.golem.de/news/ocarina-of-time-der-suchbegriff-zelda-fuehrt-zum-google-von-1998-2611-214834.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-15-siege-in-18-rennen-schumachers-legendaerer-ferrari-von-lego-zum-amazon-tiefstpreis-2610-214642.html</guid>
       <description>Der Ferrari F2004 dominierte die Formel 1 und gilt als technisches Meisterwerk. Lego hat den Rennwagen mit 735 Teilen nachgebaut. Jetzt fällt der Amazon-Preis auf sein Tief. (Lego, Amazon)</description>
       <pubDate>Thu, 29 Oct 2026 12:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Zeit- und Kostenfresser bei KI-Agenten: So finden Entwickler heraus, wo ihre Coding-Agenten Zeit verschwenden</title>
-      <link>https://www.golem.de/news/zeit-und-kostenfresser-bei-ki-agenten-so-finden-entwickler-heraus-wo-ihre-coding-agenten-zeit-verschwenden-2610-214606.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/zeit-und-kostenfresser-bei-ki-agenten-so-finden-entwickler-heraus-wo-ihre-coding-agenten-zeit-verschwenden-2610-214606.html</guid>
-      <description>Claude Code wiederholt im Versuch bereits erfolgreich verlaufene Tests. Ein praktischer Workflow zeigt, wie Entwickler Logs, Metriken und Traces erfassen und damit Wartezeiten, Fehlversuche und zusätzliche Arbeit nachvollziehen. Ein Praxistest von Fabian Deitelhoff (KI, Test)</description>
-      <pubDate>Thu, 29 Oct 2026 12:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
