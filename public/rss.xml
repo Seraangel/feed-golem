@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 17:52:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:20:44 GMT</lastBuildDate>
+    <item>
+      <title>5G-Sicherheit: Bundesbehörden widersprechen sich bei 5G-Risiken deutlich</title>
+      <link>https://www.golem.de/news/5g-sicherheit-bundesbehoerden-widersprechen-sich-bei-5g-risiken-deutlich-2611-214867.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/5g-sicherheit-bundesbehoerden-widersprechen-sich-bei-5g-risiken-deutlich-2611-214867.html</guid>
+      <description>Das Handelsblatt sieht "neue Huawei-Verbote" kommen. Doch die zuständigen Bundesbehörden widersprechen sich und die Verfassung setzt hohe Hürden. Eine Analyse von Achim Sawall (Huawei, Mobilfunk)</description>
+      <pubDate>Wed, 04 Nov 2026 18:16:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Desktop-Anwendungen mit Python und Qt entwickeln</title>
       <link>https://www.golem.de/news/anzeige-desktop-anwendungen-mit-python-und-qt-entwickeln-2611-214819.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/disney-premium-verbraucherschuetzer-wollen-preisnachlass-fuer-abonnenten-erreichen-2610-214670.html</guid>
       <description>Die Verbraucherzentrale Niedersachsen will die Benachteiligung von Abonnenten von Disney+ Premium beenden. (Disney+, Verbraucherschutz)</description>
       <pubDate>Fri, 30 Oct 2026 09:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Binance gehackt: Ein- und Auszahlungen nach Milliardenhack gestoppt</title>
-      <link>https://www.golem.de/news/binance-gehackt-milliardendiebstahl-erschuettert-die-kryptobranche-2610-214667.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/binance-gehackt-milliardendiebstahl-erschuettert-die-kryptobranche-2610-214667.html</guid>
-      <description>Hacker haben Binance Kryptowährungen im Wert von mehr als 6 Milliarden US-Dollar gestohlen. Die Spur der Angreifer führt erneut nach Nordkorea. (Cybercrime, Security)</description>
-      <pubDate>Fri, 30 Oct 2026 08:45:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
