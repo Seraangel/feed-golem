@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 04 Nov 2026 07:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 08:10:40 GMT</lastBuildDate>
+    <item>
+      <title>KI in der Softwareentwicklung: Warum Prompts Coding-Agenten nicht absichern</title>
+      <link>https://www.golem.de/news/ki-in-der-softwareentwicklung-warum-prompts-coding-agenten-nicht-absichern-2611-214799.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-in-der-softwareentwicklung-warum-prompts-coding-agenten-nicht-absichern-2611-214799.html</guid>
+      <description>KI-Agenten können Code ändern und Systeme aufrufen. Warum Verbote im Prompt nicht reichen und welche technischen Grenzen ihren Zugriff absichern. Ein Bericht von Ulrich Hottelet (Softwareentwicklung, KI)</description>
+      <pubDate>Wed, 04 Nov 2026 08:09:10 GMT</pubDate>
+    </item>
     <item>
       <title>5G-Basisstationen: Berlin bereitet Bann für Huawei und ZTE vor</title>
       <link>https://www.golem.de/news/5g-basisstationen-berlin-bereitet-bann-fuer-huawei-und-zte-vor-2611-214823.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/einsteiger-cpus-intel-erweitert-guenstige-reihe-wildcat-lake-2610-214627.html</guid>
       <description>Ein Modell mit mehr P-Cores, eines komplett ohne: Ein Leak zeigt, dass Intel weitere CPUs für günstige Computer plant. (Prozessor, Intel)</description>
       <pubDate>Thu, 29 Oct 2026 09:54:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Endlagersuche: Nur noch 5 Prozent Deutschlands kommen als Endlagerstandort infrage</title>
-      <link>https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/endlagersuche-noch-5-prozent-deutschlands-fuer-endlagerung-geeignet-2610-214625.html</guid>
-      <description>Nur wenige Regionen kommen noch für ein Atommüllendlager infrage. Fünf Bundesländer sind komplett ausgeschieden, weitere folgen. (Atomkraft, Energie &amp; Klima)</description>
-      <pubDate>Thu, 29 Oct 2026 09:01:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
