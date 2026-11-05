@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 08:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:20:40 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI kauft Pierre: Codex erhält Open-Source-Entwicklungswerkzeuge</title>
+      <link>https://www.golem.de/news/openai-kauft-pierre-codex-erhaelt-open-source-entwicklungswerkzeuge-2611-214878.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/openai-kauft-pierre-codex-erhaelt-open-source-entwicklungswerkzeuge-2611-214878.html</guid>
+      <description>Mit der Übernahme der Pierre Computer Company treibt OpenAI den Ausbau von Codex zur vollständigen KI-Entwicklersuite voran. (KI, Versionsverwaltung)</description>
+      <pubDate>Thu, 05 Nov 2026 09:16:10 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI: Nach RAM-Kritik will Altman Arbeitsspeicher für alle</title>
       <link>https://www.golem.de/news/openai-nach-ram-kritik-will-altman-arbeitsspeicher-fuer-alle-2611-214877.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/quartalszahlen-audi-gewinn-bricht-ein-2610-214678.html</guid>
       <description>Im dritten Quartal 2026 hat Audi nur 13,2 Prozent des Gewinns aus dem Vorjahresquartal erzielt. Die Prognose fürs gesamte Jahr wird angepasst. (Audi, Elektroauto)</description>
       <pubDate>Fri, 30 Oct 2026 11:19:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Spiele auf Steam: Wie viel AI Slop steckt in 2.803 Neuerscheinungen?</title>
-      <link>https://www.golem.de/news/ki-spiele-auf-steam-wie-viel-ai-slop-steckt-in-2-803-neuerscheinungen-2610-214633.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-spiele-auf-steam-wie-viel-ai-slop-steckt-in-2-803-neuerscheinungen-2610-214633.html</guid>
-      <description>41,67 Prozent von 2.803 untersuchten Steam-Neuerscheinungen legen KI-Einsatz offen. Unsere Analyse zeigt, wofür Entwickler die Technik nutzen. Eine Analyse von Oliver Jessner (Spiele, KI)</description>
-      <pubDate>Fri, 30 Oct 2026 11:00:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
