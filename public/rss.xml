@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 12:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:50:44 GMT</lastBuildDate>
+    <item>
+      <title>Kein Start nötig: Bloße App-Installation kann Android-Geräte unbrauchbar machen</title>
+      <link>https://www.golem.de/news/kein-start-noetig-blosse-app-installation-kann-android-geraete-unbrauchbar-machen-2611-214896.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kein-start-noetig-blosse-app-installation-kann-android-geraete-unbrauchbar-machen-2611-214896.html</guid>
+      <description>Forscher decken eine gefährliche Android-Lücke auf. Die Installation einer App kann das System in eine Bootschleife versetzen. Es droht Datenverlust. (Sicherheitslücke, Smartphone)</description>
+      <pubDate>Thu, 05 Nov 2026 12:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Startup-Praxis: Mitgründer gesucht - so erkennt man den richtigen Partner</title>
       <link>https://www.golem.de/news/startup-praxis-mitgruender-gesucht-so-erkennt-man-den-richtigen-partner-2611-214881.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kuenstliche-intelligenz-anthropic-und-das-raetsel-der-drei-fehlenden-zahlen-2610-214704.html</guid>
       <description>Drei entscheidende Zahlen fehlen im Börsenprospekt von Anthropic. Die Financial Times erklärt, was sie über das Unternehmen und den KI-Boom verraten würden. Von Richard Waters (Anthropic, Wirtschaft)</description>
       <pubDate>Fri, 30 Oct 2026 17:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: 16 Zoll großer Portable Monitor mit 2,5-K-Auflösung für unter 128 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-16-zoll-grosser-portable-monitor-mit-2-5-k-aufloesung-fuer-unter-128-euro-bei-amazon-2610-214702.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-16-zoll-grosser-portable-monitor-mit-2-5-k-aufloesung-fuer-unter-128-euro-bei-amazon-2610-214702.html</guid>
-      <description>Der Arzopa Z1RC bietet 16 Zoll, 2.560 x 1.600 Pixel und einen ausklappbaren Standfuß. Im Amazon-Angebot kostet der Portable Monitor keine 128 Euro. (TV &amp; Monitore, Display)</description>
-      <pubDate>Fri, 30 Oct 2026 16:46:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
