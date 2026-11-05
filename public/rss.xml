@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 06:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:40:40 GMT</lastBuildDate>
+    <item>
+      <title>Smart Reports: Admins sehen, wie viel Claude-Nutzung privat ist</title>
+      <link>https://www.golem.de/news/smart-reports-admins-sehen-wie-viel-claude-nutzung-privat-ist-2611-214874.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/smart-reports-admins-sehen-wie-viel-claude-nutzung-privat-ist-2611-214874.html</guid>
+      <description>Anthropic wertet Teamgespräche in Claude Enterprise aus. Admins sehen Kosten und Themen, Namen bleiben standardmäßig verborgen. (Claude, KI)</description>
+      <pubDate>Thu, 05 Nov 2026 07:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>Sven Knapp: Breko warnt vor Schein-Verhandlungen beim Open Access</title>
       <link>https://www.golem.de/news/sven-knapp-breko-warnt-vor-schein-verhandlungen-beim-open-access-2611-214872.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-airpods-pro-3-endlich-wieder-unter-200-euro-bei-amazon-2610-214673.html</guid>
       <description>Apples Airpods Pro 3 messen den Puls, dämpfen Lärm stärker als der Vorgänger und sind so günstig wie seit drei Monaten nicht mehr. (Technik/Hardware)</description>
       <pubDate>Fri, 30 Oct 2026 09:43:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Lab Report: Nach dem Reasoning kommt das leise Denken</title>
-      <link>https://www.golem.de/news/ai-lab-report-nach-dem-reasoning-kommt-das-leise-denken-2610-214626.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ai-lab-report-nach-dem-reasoning-kommt-das-leise-denken-2610-214626.html</guid>
-      <description>In der KI-Forschung werden gerade grundlegende Verfahren hinterfragt. Mehr dazu lest ihr in der aktuellen Ausgabe unseres Newsletters AI Lab Report. (KI, In eigener Sache)</description>
-      <pubDate>Fri, 30 Oct 2026 09:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
