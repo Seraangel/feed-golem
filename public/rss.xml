@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 09:30:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:35:43 GMT</lastBuildDate>
+    <item>
+      <title>Starship: SpaceX könnte 22 Starts für die Reise zum Mond benötigen</title>
+      <link>https://www.golem.de/news/starship-spacex-koennte-22-starts-fuer-die-reise-zum-mond-benoetigen-2611-214880.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/starship-spacex-koennte-22-starts-fuer-die-reise-zum-mond-benoetigen-2611-214880.html</guid>
+      <description>Wegen der zu geringen Kapazität des Starships und des ungewissen Treibstofftransfers im Orbit geht die Nasa von einem langwierigen Tankvorgang aus. (Starship, Nasa)</description>
+      <pubDate>Thu, 05 Nov 2026 09:33:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Logitech MX Keys S kabellose Tastatur jetzt zum Aktionspreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-logitech-mx-keys-s-kabellose-tastatur-jetzt-zum-aktionspreis-bei-amazon-2611-214879.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/claude-code-millionenfach-installierte-vs-code-erweiterung-kompromittiert-2610-214680.html</guid>
       <description>Angreifer haben Schadcode in die offizielle Cursor-Erweiterung von Claude Code eingeschleust. Tausende Entwicklersysteme sind betroffen. (Cybercrime, Malware)</description>
       <pubDate>Fri, 30 Oct 2026 11:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Projekt Nachtfalke: TSMC scheiterte mit Entwicklung im Schichtbetrieb</title>
-      <link>https://www.golem.de/news/projekt-nachtfalke-tsmc-scheiterte-mit-entwicklung-im-schichtbetrieb-2610-214679.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/projekt-nachtfalke-tsmc-scheiterte-mit-entwicklung-im-schichtbetrieb-2610-214679.html</guid>
-      <description>Durch Schichtarbeit in der Entwicklungsabteilung wollte TSMC Technologierückstände aufholen. Erfolgreich war aber ein anderer Weg. (TSMC, Wirtschaft)</description>
-      <pubDate>Fri, 30 Oct 2026 11:40:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
