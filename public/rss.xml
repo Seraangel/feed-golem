@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 09:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 09:45:43 GMT</lastBuildDate>
+    <item>
+      <title>Milliardengewinn und höhere Prognose: Telekom meldet Rekordzahlen und Ansturm auf Glasfaser</title>
+      <link>https://www.golem.de/news/milliardengewinn-und-hoehere-prognose-telekom-meldet-rekordzahlen-und-ansturm-auf-glasfaser-2611-214882.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/milliardengewinn-und-hoehere-prognose-telekom-meldet-rekordzahlen-und-ansturm-auf-glasfaser-2611-214882.html</guid>
+      <description>Die Deutsche Telekom schraubt ihre Jahresprognose bereits zum dritten Mal nach oben und berichtet von deutlichen Zugängen bei den Glasfaser- und Breitbandkunden. (Telekom, Glasfaser)</description>
+      <pubDate>Thu, 05 Nov 2026 09:44:04 GMT</pubDate>
+    </item>
     <item>
       <title>Starship: SpaceX könnte 22 Starts für die Reise zum Mond benötigen</title>
       <link>https://www.golem.de/news/starship-spacex-koennte-22-starts-fuer-die-reise-zum-mond-benoetigen-2611-214880.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/open-source-oekosystem-ki-agenten-gefaehrden-die-grundlagen-von-open-source-2610-214681.html</guid>
       <description>Wie KI-Agenten das Wissen freier Softwareprojekte nutzen, deren Infrastruktur belasten und Maintainer mit automatisierten Beiträgen und erfundenen Fehlerberichten überschwemmen. Von Frank Hofmann und Veit Schiele (KI, Server)</description>
       <pubDate>Fri, 30 Oct 2026 12:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Backdoor eingebaut: Offizielle Claude-Code-Erweiterung für Cursor kompromittiert</title>
-      <link>https://www.golem.de/news/claude-code-millionenfach-installierte-vs-code-erweiterung-kompromittiert-2610-214680.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/claude-code-millionenfach-installierte-vs-code-erweiterung-kompromittiert-2610-214680.html</guid>
-      <description>Angreifer haben Schadcode in die offizielle Cursor-Erweiterung von Claude Code eingeschleust. Tausende Entwicklersysteme sind betroffen. (Cybercrime, Malware)</description>
-      <pubDate>Fri, 30 Oct 2026 11:50:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
