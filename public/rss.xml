@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 09:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 10:00:40 GMT</lastBuildDate>
+    <item>
+      <title>Speicherkrise: KI-Boom gefährdet Spielmodule für Nintendo Switch</title>
+      <link>https://www.golem.de/news/speicherkrise-ki-boom-gefaehrdet-spielmodule-fuer-nintendo-switch-2611-214883.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/speicherkrise-ki-boom-gefaehrdet-spielmodule-fuer-nintendo-switch-2611-214883.html</guid>
+      <description>Ein wichtiger Chiphersteller verabschiedet sich von Nintendo-Spielmodulen. Publisher könnten stärker auf Downloads setzen. (Nintendo Switch 2, Nintendo)</description>
+      <pubDate>Thu, 05 Nov 2026 09:58:04 GMT</pubDate>
+    </item>
     <item>
       <title>Milliardengewinn und höhere Prognose: Telekom meldet Rekordzahlen und Ansturm auf Glasfaser</title>
       <link>https://www.golem.de/news/milliardengewinn-und-hoehere-prognose-telekom-meldet-rekordzahlen-und-ansturm-auf-glasfaser-2611-214882.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-logitech-mx-master-4-fuer-mac-und-pc-jetzt-zum-aktionspreis-bei-amazon-2610-214685.html</guid>
       <description>Mit Daumenrad, haptischem Feedback und Ladebuchse vorn hängt die Logitech MX Master 4 für Mac die Magic Mouse ab - und das zum Sparpreis. (Technik/Hardware, Mac)</description>
       <pubDate>Fri, 30 Oct 2026 12:36:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Open-Source-Ökosystem: KI-Agenten gefährden die Grundlagen von Open Source</title>
-      <link>https://www.golem.de/news/open-source-oekosystem-ki-agenten-gefaehrden-die-grundlagen-von-open-source-2610-214681.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/open-source-oekosystem-ki-agenten-gefaehrden-die-grundlagen-von-open-source-2610-214681.html</guid>
-      <description>Wie KI-Agenten das Wissen freier Softwareprojekte nutzen, deren Infrastruktur belasten und Maintainer mit automatisierten Beiträgen und erfundenen Fehlerberichten überschwemmen. Von Frank Hofmann und Veit Schiele (KI, Server)</description>
-      <pubDate>Fri, 30 Oct 2026 12:30:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
