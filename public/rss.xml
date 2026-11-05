@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 12:55:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:15:42 GMT</lastBuildDate>
+    <item>
+      <title>Swift: Weltraumteleskop über Indonesien verglüht</title>
+      <link>https://www.golem.de/news/swift-weltraumteleskop-ueber-indonesien-verglueht-2611-214895.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/swift-weltraumteleskop-ueber-indonesien-verglueht-2611-214895.html</guid>
+      <description>Nach einem gescheiterten Rettungsversuch ist das Teleskop auf weniger als 200 km gesunken. Die Mission hat zehnmal länger gedauert als erwartet. (Weltraumteleskop, Nasa)</description>
+      <pubDate>Thu, 05 Nov 2026 13:12:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Samsung TV (55 Zoll) im Mobilfunktarif mit 40 GByte für einmalig 7 Euro bei Blau</title>
       <link>https://www.golem.de/news/anzeige-samsung-tv-55-zoll-im-mobilfunktarif-mit-40-gbyte-fuer-einmalig-7-euro-bei-blau-2611-214897.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ki-gestuetzte-entwicklungsablaeufe-mit-claude-code-steuern-2610-214658.html</guid>
       <description>Claude Code braucht klare Vorgaben und überprüfbare Ergebnisse. Ein dreitägiger Workshop vermittelt Spezifikationen, Context Engineering und automatisierte Prüfungen. (Golem Karrierewelt, Programmiersprachen)</description>
       <pubDate>Fri, 30 Oct 2026 17:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tripo.ai und Meshy: KIs für 3D-Modelle schotten sich nach Milliardenbewertung ab</title>
-      <link>https://www.golem.de/news/tripo-ai-und-meshy-kis-fuer-3d-modelle-schotten-sich-nach-milliardenbewertung-ab-2610-214705.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/tripo-ai-und-meshy-kis-fuer-3d-modelle-schotten-sich-nach-milliardenbewertung-ab-2610-214705.html</guid>
-      <description>Kostenlos 3D-Modelle entwerfen, ohne sich in komplexe Programme einzuarbeiten. Das war bei Tripo.ai und Meshy möglich - vor ihrer Milliardenbewertung. Ein Erfahrungsbericht von Achim Sawall (DIY - Do it yourself, KI)</description>
-      <pubDate>Fri, 30 Oct 2026 17:45:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
