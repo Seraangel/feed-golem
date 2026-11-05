@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 11:45:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 12:00:43 GMT</lastBuildDate>
+    <item>
+      <title>Entwicklungszentrum eröffnet: Tesla bündelt 30 Testlabore in Berlin</title>
+      <link>https://www.golem.de/news/entwicklungszentrum-eroeffnet-tesla-buendelt-30-testlabore-in-berlin-2611-214894.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/entwicklungszentrum-eroeffnet-tesla-buendelt-30-testlabore-in-berlin-2611-214894.html</guid>
+      <description>Nach weniger als einem Jahr Bauzeit hat Tesla sein Entwicklungszentrum in Berlin eröffnet. Es soll vier bisherige Standorte vereinen. (Tesla, Technologie)</description>
+      <pubDate>Thu, 05 Nov 2026 11:56:08 GMT</pubDate>
+    </item>
     <item>
       <title>Tim Höttges: Kein einziges "Sicherheitsproblem mit unseren chinesischen Partnern"</title>
       <link>https://www.golem.de/news/tim-hoettges-kein-einziges-sicherheitsproblem-mit-unseren-chinesischen-partnern-2611-214892.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/werk-in-taiwan-einige-micron-mitarbeiter-bekommen-ueber-fuenf-jahresgehaelter-bonus-2610-214699.html</guid>
       <description>Micron zahlt in Taiwan erste hohe Boni. Die Belegschaft einer Fab droht dennoch weiter mit Streik. (Micron, Wirtschaft)</description>
       <pubDate>Fri, 30 Oct 2026 16:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloud Rebuild: Windows-Feature kann PC direkt übers Internet neu installieren</title>
-      <link>https://www.golem.de/news/cloud-rebuild-windows-feature-kann-pc-direkt-uebers-internet-neu-installieren-2610-214698.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cloud-rebuild-windows-feature-kann-pc-direkt-uebers-internet-neu-installieren-2610-214698.html</guid>
-      <description>Cloud Rebuild sucht auch Treiber und benötigte Dateien über Windows Update und installiert sie gleich mit. (Windows 11, Microsoft)</description>
-      <pubDate>Fri, 30 Oct 2026 15:41:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
