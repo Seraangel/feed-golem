@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 17:30:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:50:41 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: KI-Governance: Risiken bewerten und Zuständigkeiten klären</title>
+      <link>https://www.golem.de/news/anzeige-ki-governance-risiken-bewerten-und-zustaendigkeiten-klaeren-2611-214870.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ki-governance-risiken-bewerten-und-zustaendigkeiten-klaeren-2611-214870.html</guid>
+      <description>KI-Governance erfordert klare Zuständigkeiten und bewertete Risiken. Ein Online-Workshop vermittelt Grundlagen für Freigaben, Kontrollen und Compliance. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Thu, 05 Nov 2026 17:45:02 GMT</pubDate>
+    </item>
     <item>
       <title>Führerschein: Bundestag beschließt Reform der Fahrschulausbildung</title>
       <link>https://www.golem.de/news/fuehrerschein-bundestag-beschliesst-reform-der-fahrschulausbildung-2611-214907.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/robotaxi-waymos-verstopfen-oeffentliche-ladestationen-und-nerven-anwohner-2610-214714.html</guid>
       <description>Waymo verwendet eigene Ladedepots für seine Robotaxis, weicht aber auch auf öffentliche Ladestationen aus - und nervt damit andere Elektroautofahrer. (Waymo, Elektroauto)</description>
       <pubDate>Sat, 31 Oct 2026 10:32:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI an Hochschulen: Berkeley-Professor benotet wegen KI keine Hausaufgaben mehr</title>
-      <link>https://www.golem.de/news/ki-an-hochschulen-berkeley-professor-benotet-wegen-ki-keine-hausaufgaben-mehr-2610-214710.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-an-hochschulen-berkeley-professor-benotet-wegen-ki-keine-hausaufgaben-mehr-2610-214710.html</guid>
-      <description>Richard Borcherds vergibt nur noch Punkte fürs Abgeben von Hausaufgaben. Und Onlineprüfungen hält der Professor wegen KI für Zeitverschwendung. (KI, Wissenschaft)</description>
-      <pubDate>Sat, 31 Oct 2026 10:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
