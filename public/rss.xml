@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 07:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:05:41 GMT</lastBuildDate>
+    <item>
+      <title>Cyberangriff: Kühlanlagen französischer Blutbank manipuliert</title>
+      <link>https://www.golem.de/news/cyberangriff-kuehlanlagen-franzoesischer-blutbank-manipuliert-2611-214875.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-kuehlanlagen-franzoesischer-blutbank-manipuliert-2611-214875.html</guid>
+      <description>Die französische Blutbank EFS meldet einen Hackerangriff auf ihre Kühltechnik. In den betroffenen Räumen lagern Blutprodukte und Proben. (Hacker, Cyberwar)</description>
+      <pubDate>Thu, 05 Nov 2026 08:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Geschäftsreise planen: Praktische Tipps für mehr Effizienz</title>
+      <link>https://www.golem.de/news/anzeige-geschaeftsreise-planen-praktische-tipps-fuer-mehr-effizienz-2611-214783.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-geschaeftsreise-planen-praktische-tipps-fuer-mehr-effizienz-2611-214783.html</guid>
+      <description>Von der Buchung über Versicherung und Lounge bis zu Mobilität und Reisekosten: So holst du aus einer Geschäftsreise das Beste für dein Business raus. (Reisen, Wirtschaft)</description>
+      <pubDate>Thu, 05 Nov 2026 08:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>Schadcode-Attacken möglich: In Microsoft Paint klafft eine Zero-Click-Lücke</title>
       <link>https://www.golem.de/news/schadcode-attacken-moeglich-in-microsoft-paint-klafft-eine-zero-click-luecke-2611-214873.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mistral-large-4-mistral-macht-1-billion-parameter-modell-frei-zugaenglich-2610-214675.html</guid>
       <description>Mistrals aktuelles großes Modell soll die Grundlage souveräner KI bilden. Es soll eines der besten offenen Modelle sein und bei Coding herausstechen. (KI, API)</description>
       <pubDate>Fri, 30 Oct 2026 10:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Onlineforen: Reddit will Kontozwang einführen</title>
-      <link>https://www.golem.de/news/onlineforen-reddit-will-kontozwang-einfuehren-2610-214674.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/onlineforen-reddit-will-kontozwang-einfuehren-2610-214674.html</guid>
-      <description>Bald ist wohl Schluss mit dem anonymen Lesen von Reddit-Beiträgen. (Reddit, Soziales Netz)</description>
-      <pubDate>Fri, 30 Oct 2026 10:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Survival LLM: Ein KI-Chatbot für den Weltuntergang</title>
-      <link>https://www.golem.de/news/survival-llm-ein-ki-chatbot-fuer-den-weltuntergang-2610-214672.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/survival-llm-ein-ki-chatbot-fuer-den-weltuntergang-2610-214672.html</guid>
-      <description>Was tun in der Apokalypse, wenn Fragen zum Überleben auftauchen? Survival LLM ist eine lokale KI, die offline funktioniert und auf Notfallunterlagen zugreift. (KI, iFixit)</description>
-      <pubDate>Fri, 30 Oct 2026 09:51:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
