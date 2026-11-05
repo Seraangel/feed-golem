@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 07:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 07:45:44 GMT</lastBuildDate>
+    <item>
+      <title>Schadcode-Attacken möglich: In Microsoft Paint klafft eine Zero-Click-Lücke</title>
+      <link>https://www.golem.de/news/schadcode-attacken-moeglich-in-microsoft-paint-klafft-eine-zero-click-luecke-2611-214873.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-in-microsoft-paint-klafft-eine-zero-click-luecke-2611-214873.html</guid>
+      <description>Angreifer können über Microsoft Paint Schadcode auf Windows-11-Systeme schleusen. Es gibt zwar einen Patch, aber der kommt bei vielen noch nicht an. (Sicherheitslücke, Microsoft)</description>
+      <pubDate>Thu, 05 Nov 2026 07:44:05 GMT</pubDate>
+    </item>
     <item>
       <title>Smart Reports: Admins sehen, wie viel Claude-Nutzung privat ist</title>
       <link>https://www.golem.de/news/smart-reports-admins-sehen-wie-viel-claude-nutzung-privat-ist-2611-214874.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/survival-llm-ein-ki-chatbot-fuer-den-weltuntergang-2610-214672.html</guid>
       <description>Was tun in der Apokalypse, wenn Fragen zum Überleben auftauchen? Survival LLM ist eine lokale KI, die offline funktioniert und auf Notfallunterlagen zugreift. (KI, iFixit)</description>
       <pubDate>Fri, 30 Oct 2026 09:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Apple Airpods Pro 3 endlich wieder unter 200 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-apple-airpods-pro-3-endlich-wieder-unter-200-euro-bei-amazon-2610-214673.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-airpods-pro-3-endlich-wieder-unter-200-euro-bei-amazon-2610-214673.html</guid>
-      <description>Apples Airpods Pro 3 messen den Puls, dämpfen Lärm stärker als der Vorgänger und sind so günstig wie seit drei Monaten nicht mehr. (Technik/Hardware)</description>
-      <pubDate>Fri, 30 Oct 2026 09:43:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
