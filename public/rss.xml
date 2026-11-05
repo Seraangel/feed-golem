@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 05 Nov 2026 08:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 08:20:46 GMT</lastBuildDate>
+    <item>
+      <title>KI für den Tatort: Holodeck für Staatsanwälte</title>
+      <link>https://www.golem.de/news/ki-fuer-den-tatort-holodeck-fuer-staatsanwaelte-2611-214862.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-fuer-den-tatort-holodeck-fuer-staatsanwaelte-2611-214862.html</guid>
+      <description>Die Polizei will mit KI Tatorte rekonstruieren, Spuren suchen, Tathergänge überprüfen. Doch was, wenn die Technik einen Beweis findet, den es gar nicht gibt? Ein Bericht von Friedrich List (KI, Software)</description>
+      <pubDate>Thu, 05 Nov 2026 08:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>Cyberangriff: Kühlanlagen französischer Blutbank manipuliert</title>
       <link>https://www.golem.de/news/cyberangriff-kuehlanlagen-franzoesischer-blutbank-manipuliert-2611-214875.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-ruby-luecke-alpine-linux-muss-gitlab-instanz-komplett-neu-aufsetzen-2610-214676.html</guid>
       <description>Hacker haben versucht, über eine Ruby-Lücke die Gitlab-Instanz von Alpine Linux zu kompromittieren. Der Vorfall ist ein Weckruf an andere Gitlab-Admins. (Sicherheitslücke, Ruby)</description>
       <pubDate>Fri, 30 Oct 2026 10:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mistral Large 4: Mistral macht 1-Billion-Parameter-Modell frei zugänglich</title>
-      <link>https://www.golem.de/news/mistral-large-4-mistral-macht-1-billion-parameter-modell-frei-zugaenglich-2610-214675.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mistral-large-4-mistral-macht-1-billion-parameter-modell-frei-zugaenglich-2610-214675.html</guid>
-      <description>Mistrals aktuelles großes Modell soll die Grundlage souveräner KI bilden. Es soll eines der besten offenen Modelle sein und bei Coding herausstechen. (KI, API)</description>
-      <pubDate>Fri, 30 Oct 2026 10:16:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
