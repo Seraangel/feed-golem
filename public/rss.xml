@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 08:10:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:20:44 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheitslücke in der Firmware: PHP2Shell bleibt in Firewalls und Industriegeräten gefährlich</title>
+      <link>https://www.golem.de/news/sicherheitsluecke-in-der-firmware-php2shell-bleibt-in-firewalls-und-industriegeraeten-gefaehrlich-2611-214898.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsluecke-in-der-firmware-php2shell-bleibt-in-firewalls-und-industriegeraeten-gefaehrlich-2611-214898.html</guid>
+      <description>Bei Firewalls, Routern und Industrieanlagen können Admins verwundbares PHP oft nicht selbst patchen. Selbst nach einem Update bleibt deshalb Handlungsbedarf. Ein Ratgebertext von Steffen Zahn (Security, PHP)</description>
+      <pubDate>Fri, 06 Nov 2026 08:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>Switch-2-Emulation: Zelda läuft per Emulator schon jetzt auf PCs</title>
       <link>https://www.golem.de/news/switch-2-emulation-zelda-laeuft-per-emulator-schon-jetzt-auf-pcs-2611-214917.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/star-trek-jubilaeumsjahr-captain-janeway-und-die-autonomen-autos-2611-214692.html</guid>
       <description>Eine Entscheidung aus Star Trek: Voyager sorgt bis heute für Fan-Diskussionen. Dahinter steckt ein moralisches Problem, das ganz schön aktuell ist. Von Emanuel Kessler (Star Trek, Unterhaltung &amp; Hobby)</description>
       <pubDate>Sun, 01 Nov 2026 06:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Sechs IT-Jobs in Security, Administration und Entwicklung</title>
-      <link>https://www.golem.de/news/anzeige-sechs-it-jobs-in-security-administration-und-entwicklung-2611-214544.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sechs-it-jobs-in-security-administration-und-entwicklung-2611-214544.html</guid>
-      <description>Von Java und IT-Security bis SAP Analytics und Systemadministration: Sechs neue IT-Jobs bieten spannende Aufgaben und Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Sun, 01 Nov 2026 06:00:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
