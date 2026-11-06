@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 07:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:00:45 GMT</lastBuildDate>
+    <item>
+      <title>Kundendaten abgeflossen: Digicert bestätigt Datenpanne nach Systemumzug</title>
+      <link>https://www.golem.de/news/kundendaten-abgeflossen-digicert-bestaetigt-datenpanne-nach-systemumzug-2611-214916.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kundendaten-abgeflossen-digicert-bestaetigt-datenpanne-nach-systemumzug-2611-214916.html</guid>
+      <description>Bei Digicert hat ein unbefugter Akteur nach dem Umzug eines internen IT-Systems Kundendaten abgreifen können. Auch Ausweisdokumente sind betroffen. (Datenleck, Sicherheitslücke)</description>
+      <pubDate>Fri, 06 Nov 2026 07:56:08 GMT</pubDate>
+    </item>
     <item>
       <title>Rundfunkbeitrag: Ab Mitte Dezember droht Post vom Beitragsservice</title>
       <link>https://www.golem.de/news/rundfunkbeitrag-ab-mitte-dezember-droht-post-vom-beitragsservice-2611-214915.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/haiku-generiert-googles-satelliten-ki-rechner-meldet-sich-aus-dem-orbit-2610-214715.html</guid>
       <description>Googles experimenteller Satelliten-KI-Rechner ist online und funkt mit Bodenstationen. Die erste Aufgabe der KI an Bord: ein Gedicht über den Weltraum schreiben. (Satelliten, Google)</description>
       <pubDate>Sat, 31 Oct 2026 14:41:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nationalversammlung: Frankreich will eine Steuer von 5,5 Cent pro Gigabyte</title>
-      <link>https://www.golem.de/news/nationalversammlung-frankreich-will-eine-steuer-von-5-5-cent-pro-gigabyte-2610-214718.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nationalversammlung-frankreich-will-eine-steuer-von-5-5-cent-pro-gigabyte-2610-214718.html</guid>
-      <description>Die französische Nationalversammlung hat einen Antrag verabschiedet, der Hersteller digitaler Daten dazu verpflichten würde, 5,5 Cent für jedes Gigabyte zu zahlen. (Internet, Politik)</description>
-      <pubDate>Sat, 31 Oct 2026 14:03:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
