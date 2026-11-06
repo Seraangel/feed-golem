@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 10:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 10:55:48 GMT</lastBuildDate>
+    <item>
+      <title>FSD: Wieder schlafender Tesla-Fahrer in Kanada gefilmt</title>
+      <link>https://www.golem.de/news/fsd-wieder-schlafender-tesla-fahrer-in-kanada-gefilmt-2611-214933.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fsd-wieder-schlafender-tesla-fahrer-in-kanada-gefilmt-2611-214933.html</guid>
+      <description>Teslas FSD Supervised funktioniert gut - so gut, dass manche Fahrer nicht mehr aufpassen. In Kanada ist offenbar erneut ein Pärchen am Steuer eingeschlafen. (Tesla, Elektroauto)</description>
+      <pubDate>Fri, 06 Nov 2026 10:51:05 GMT</pubDate>
+    </item>
     <item>
       <title>Fehler bei Passwortprüfung: Angreifer können über OpenSSH Linux-Konten kapern</title>
       <link>https://www.golem.de/news/fehler-bei-passwortpruefung-angreifer-koennen-ueber-openssh-linux-konten-kapern-2611-214928.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-sicherheit-auf-die-t-i-s-p-pruefung-vorbereiten-2611-214719.html</guid>
       <description>IT-Sicherheit verlangt technische und organisatorische Kenntnisse. Ein fünftägiger Online-Workshop vertieft das Wissen und bereitet auf eine Zertifizierungsprüfung vor. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Mon, 02 Nov 2026 06:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nextgen: General Atomics baut Nurflügel-Drohne mit Hybridantrieb</title>
-      <link>https://www.golem.de/news/nextgen-general-atomics-baut-nurfluegel-drohne-mit-hybridantrieb-2611-214729.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nextgen-general-atomics-baut-nurfluegel-drohne-mit-hybridantrieb-2611-214729.html</guid>
-      <description>General Atomics arbeitet an einer hybrid-elektrischen Nurflügel-Drohne namens Nextgen, die mehr als 60 Stunden ohne Auftanken fliegen soll. (Drohne, Politik)</description>
-      <pubDate>Sun, 01 Nov 2026 14:15:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
