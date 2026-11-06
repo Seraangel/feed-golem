@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 06:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:35:47 GMT</lastBuildDate>
+    <item>
+      <title>KI-Boom: Neue Mega-Rechenzentren bedrohen Trinkwasserversorgung</title>
+      <link>https://www.golem.de/news/ki-boom-neue-mega-rechenzentren-bedrohen-trinkwasserversorgung-2611-214913.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-boom-neue-mega-rechenzentren-bedrohen-trinkwasserversorgung-2611-214913.html</guid>
+      <description>Der Wasserbedarf deutscher KI-Rechenzentren könnte sich bis 2030 mehr als verdoppeln. Die Politik soll gegenlenken. (KI, GreenIT)</description>
+      <pubDate>Fri, 06 Nov 2026 06:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>Finanzkriminalität: KI filtert aus Millionen Dateien die entscheidenden Spuren heraus</title>
       <link>https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-kurs-bei-proton-yen-sagt-umstrittene-mitarbeiterinterviews-zu-ki-ab-2610-214712.html</guid>
       <description>Proton streicht die Re-Interviews zur KI-Nutzung. Yen räumt Kommunikationsfehler ein, will KI aber weiter vorantreiben. (Unternehmen, Wirtschaft)</description>
       <pubDate>Sat, 31 Oct 2026 13:09:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Das Recht, selbst zu denken: KI-Verweigerer erhält religiöse Ausnahme</title>
-      <link>https://www.golem.de/news/das-recht-selbst-zu-denken-ki-verweigerer-erhaelt-religioese-ausnahme-2610-214708.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/das-recht-selbst-zu-denken-ki-verweigerer-erhaelt-religioese-ausnahme-2610-214708.html</guid>
-      <description>Ein Angestellter aus Kentucky will aus religiösen Gründen sein Denken nicht an KI auslagern. Sein Arbeitgeber macht eine Ausnahme. (KI, Rechenzentrum)</description>
-      <pubDate>Sat, 31 Oct 2026 12:30:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
