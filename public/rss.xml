@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 17:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:40:43 GMT</lastBuildDate>
+    <item>
+      <title>Onlinehändler: Hacker attackieren Mindfactory</title>
+      <link>https://www.golem.de/news/onlinehaendler-hacker-attackieren-mindfactory-2611-214956.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/onlinehaendler-hacker-attackieren-mindfactory-2611-214956.html</guid>
+      <description>Mindfactory warnt nach einem Cyberangriff seine Kunden per E-Mail: Angreifer könnten Adressen, E-Mails und Telefonnummern erbeutet haben. (Hacker, Security)</description>
+      <pubDate>Fri, 06 Nov 2026 17:36:08 GMT</pubDate>
+    </item>
     <item>
       <title>TUMonline: Cyberangriff auf die TU München</title>
       <link>https://www.golem.de/news/tumonline-cyberangriff-auf-die-tu-muenchen-2611-214955.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nintendo-switch-2-emulatoren-bringen-mario-kart-world-auf-den-pc-2611-214749.html</guid>
       <description>Einige konnten das Switch-2-Spiel bereits mit 60 fps testen. Eine Person hat das sogar auf MacOS zum Laufen bekommen. (Nintendo Switch, Nintendo)</description>
       <pubDate>Mon, 02 Nov 2026 10:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Crawler: Google will Robots.txt für alle Anbieter zum Standard machen</title>
-      <link>https://www.golem.de/news/ki-crawler-google-will-robots-txt-fuer-alle-anbieter-zum-standard-machen-2611-214748.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-crawler-google-will-robots-txt-fuer-alle-anbieter-zum-standard-machen-2611-214748.html</guid>
-      <description>Die Robots.txt wird von den meisten KI-Crawlern geflissentlich ignoriert und soll deshalb zum verpflichtenden Standard werden. (KI, Google)</description>
-      <pubDate>Mon, 02 Nov 2026 10:40:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
