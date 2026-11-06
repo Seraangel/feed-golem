@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 07:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:35:43 GMT</lastBuildDate>
+    <item>
+      <title>Rundfunkbeitrag: Ab Mitte Dezember droht Post vom Beitragsservice</title>
+      <link>https://www.golem.de/news/rundfunkbeitrag-ab-mitte-dezember-droht-post-vom-beitragsservice-2611-214915.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rundfunkbeitrag-ab-mitte-dezember-droht-post-vom-beitragsservice-2611-214915.html</guid>
+      <description>Am 8. November 2026 startet der vierte bundesweite Meldedatenabgleich. Wer keiner angemeldeten Wohnung zugeordnet wird, erhält Post. (Rundfunkbeitrag, QR-Code)</description>
+      <pubDate>Fri, 06 Nov 2026 07:32:07 GMT</pubDate>
+    </item>
     <item>
       <title>Verwaltung: Bayern und Schleswig-Holstein kooperieren bei offener IT</title>
       <link>https://www.golem.de/news/verwaltung-bayern-und-schleswig-holstein-kooperieren-bei-offener-it-2611-214914.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nationalversammlung-frankreich-will-eine-steuer-von-5-5-cent-pro-gigabyte-2610-214718.html</guid>
       <description>Die französische Nationalversammlung hat einen Antrag verabschiedet, der Hersteller digitaler Daten dazu verpflichten würde, 5,5 Cent für jedes Gigabyte zu zahlen. (Internet, Politik)</description>
       <pubDate>Sat, 31 Oct 2026 14:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nasdaq: KI-Sorgen treiben Anleger aus Tech-Aktien</title>
-      <link>https://www.golem.de/news/nasdaq-ki-sorgen-treiben-anleger-aus-tech-aktien-2610-214717.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nasdaq-ki-sorgen-treiben-anleger-aus-tech-aktien-2610-214717.html</guid>
-      <description>Der Technologie-Index Nasdaq 100 hat an Wert eingebüßt - gibt es erste Zweifel daran, ob sich die Investitionen in künstliche Intelligenz wirklich lohnen werden? (KI, Intel)</description>
-      <pubDate>Sat, 31 Oct 2026 13:38:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
