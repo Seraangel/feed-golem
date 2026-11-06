@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 17:45:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:50:47 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Cloud Competence Center: Strategien für die Cloud-Transformation</title>
+      <link>https://www.golem.de/news/anzeige-cloud-competence-center-strategien-fuer-die-cloud-transformation-2611-214957.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-cloud-competence-center-strategien-fuer-die-cloud-transformation-2611-214957.html</guid>
+      <description>Cloud Governance erfordert klare Rollen, Prozesse und eine Roadmap. Ein Online-Workshop zeigt, wie Unternehmen ein Cloud Competence Center aufbauen. (Golem Karrierewelt, Verschlüsselung)</description>
+      <pubDate>Fri, 06 Nov 2026 17:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Mini-Powerbank von Iniu mit 45 W und 10.000 mAh für unter 34 Euro</title>
       <link>https://www.golem.de/news/anzeige-mini-powerbank-von-iniu-mit-45-w-und-10-000-mah-fuer-unter-34-euro-2611-214958.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/speicher-lenovo-fingerabdruck-stick-ist-eine-mogelpackung-2611-214742.html</guid>
       <description>Ein als AES-256-verschlüsselt beworbenes USB-Laufwerk von Lenovo schützt tatsächlich keine Daten. Das enthüllt eine Sicherheitsanalyse. (Lenovo, Passwort)</description>
       <pubDate>Mon, 02 Nov 2026 11:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smarte Anwendungen: Biohacking für zu Hause</title>
-      <link>https://www.golem.de/news/smarte-anwendungen-biohacking-fuer-zuhause-2611-214731.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smarte-anwendungen-biohacking-fuer-zuhause-2611-214731.html</guid>
-      <description>Unsere Autorin hat einen Blutzuckersensor, einen Fitnessring und einen Zyklustracker getestet. Was ihr dabei gefallen hat und was überhaupt nicht. Ein Praxistest von Andrea Maurer (Technik/Hardware, Datenschutz)</description>
-      <pubDate>Mon, 02 Nov 2026 11:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
