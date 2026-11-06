@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 06 Nov 2026 08:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 08:10:43 GMT</lastBuildDate>
+    <item>
+      <title>Switch-2-Emulation: Zelda läuft per Emulator schon jetzt auf PCs</title>
+      <link>https://www.golem.de/news/switch-2-emulation-zelda-laeuft-per-emulator-schon-jetzt-auf-pcs-2611-214917.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/switch-2-emulation-zelda-laeuft-per-emulator-schon-jetzt-auf-pcs-2611-214917.html</guid>
+      <description>Der Emulator Lichii startet Ocarina of Time schon vor dem Release. Grafikfehler und Ruckler bremsen das Remake allerdings aus. (Zelda, Nintendo)</description>
+      <pubDate>Fri, 06 Nov 2026 08:07:08 GMT</pubDate>
+    </item>
     <item>
       <title>Kundendaten abgeflossen: Digicert bestätigt Datenpanne nach Systemumzug</title>
       <link>https://www.golem.de/news/kundendaten-abgeflossen-digicert-bestaetigt-datenpanne-nach-systemumzug-2611-214916.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-sechs-it-jobs-in-security-administration-und-entwicklung-2611-214544.html</guid>
       <description>Von Java und IT-Security bis SAP Analytics und Systemadministration: Sechs neue IT-Jobs bieten spannende Aufgaben und Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)</description>
       <pubDate>Sun, 01 Nov 2026 06:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haiku generiert: Googles Satelliten-KI-Rechner meldet sich aus dem Orbit</title>
-      <link>https://www.golem.de/news/haiku-generiert-googles-satelliten-ki-rechner-meldet-sich-aus-dem-orbit-2610-214715.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/haiku-generiert-googles-satelliten-ki-rechner-meldet-sich-aus-dem-orbit-2610-214715.html</guid>
-      <description>Googles experimenteller Satelliten-KI-Rechner ist online und funkt mit Bodenstationen. Die erste Aufgabe der KI an Bord: ein Gedicht über den Weltraum schreiben. (Satelliten, Google)</description>
-      <pubDate>Sat, 31 Oct 2026 14:41:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
