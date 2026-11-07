@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 07 Nov 2026 11:55:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 12:30:39 GMT</lastBuildDate>
+    <item>
+      <title>Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze</title>
+      <link>https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html</guid>
+      <description>Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. (BYD, Elektroauto)</description>
+      <pubDate>Sat, 07 Nov 2026 12:27:04 GMT</pubDate>
+    </item>
     <item>
       <title>Amsterdam: Eskalation vor Microsoft-RZ-Baustelle endet mit 200 Festnahmen</title>
       <link>https://www.golem.de/news/amsterdam-eskalation-vor-microsoft-rz-baustelle-endet-mit-200-festnahmen-2611-214961.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/remote-steuerung-kuehltheken-in-supermaerkten-erneut-gehackt-2611-214761.html</guid>
       <description>In mehreren europäischen Ländern sind Tiefkühler erneut per Fernwartung in den Abtaumodus versetzt worden. Der Schaden dürfte in die Millionen gehen. (Fernwartung, Cyberwar)</description>
       <pubDate>Mon, 02 Nov 2026 15:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>ISS: Neue Solarpanels soll sicheren Absturz unterstützen</title>
-      <link>https://www.golem.de/news/iss-neue-solarpanels-soll-sicheren-absturz-unterstuetzen-2611-214760.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/iss-neue-solarpanels-soll-sicheren-absturz-unterstuetzen-2611-214760.html</guid>
-      <description>Um 30 Prozent wird die Stromproduktion der Raumstation angehoben. Damit soll das sichere Deorbiting ermöglicht werden. (ISS, Nasa)</description>
-      <pubDate>Mon, 02 Nov 2026 14:45:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
