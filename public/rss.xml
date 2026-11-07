@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 07 Nov 2026 07:25:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:30:40 GMT</lastBuildDate>
+    <item>
+      <title>Leipzig: Fahnder suchen mutmaßlichen Drohnen-Täter mit KI-Gesicht</title>
+      <link>https://www.golem.de/news/leipzig-fahnder-suchen-mutmasslichen-drohnen-taeter-mit-ki-gesicht-2611-214948.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/leipzig-fahnder-suchen-mutmasslichen-drohnen-taeter-mit-ki-gesicht-2611-214948.html</guid>
+      <description>Nach dem Drohnenanschlag auf den Flughafen Leipzig suchen Generalbundesanwalt und BKA mit einem ungewöhnlichen Mittel nach einer unbekannten Person. (KI, Security)</description>
+      <pubDate>Sat, 07 Nov 2026 08:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>Gina Hinojosa: Texas will Ausbau von KI-Rechenzentren auf Eis legen</title>
       <link>https://www.golem.de/news/gina-hinojosa-texas-will-ausbau-von-ki-rechenzentren-auf-eis-legen-2611-214946.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/security-wie-gefaehrlich-sind-lokale-coding-agenten-2611-214733.html</guid>
       <description>Coding-Agenten können selbstständig Dateien löschen, Zugangsdaten preisgeben oder manipuliert werden. Welche Risiken drohen und wie sich der eigene Rechner schützen lässt. Ein Ratgebertext von Klaus Manhart (Security, KI)</description>
       <pubDate>Mon, 02 Nov 2026 12:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keine Degradation: Batteriespeicher aus vermeintlichem Elektroschrott</title>
-      <link>https://www.golem.de/news/keine-degradation-batteriespeicher-aus-vermeintlichem-elektroschrott-2611-214753.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/keine-degradation-batteriespeicher-aus-vermeintlichem-elektroschrott-2611-214753.html</guid>
-      <description>Ein Freiburger Start-up vertreibt stationäre Speicher, die aus alten E-Scootern stammen. Die Kapazität wird zehn Jahre lang garantiert, ohne Verlust. (Energiewende, GreenIT)</description>
-      <pubDate>Mon, 02 Nov 2026 12:16:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
