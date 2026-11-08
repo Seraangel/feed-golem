@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 10:40:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 11:25:13 GMT</lastBuildDate>
+    <item>
+      <title>Keine Spur: Nvidia-Hardware auf dem Weg nach Texas verschwunden</title>
+      <link>https://www.golem.de/news/keine-spur-nvidia-hardware-auf-dem-weg-nach-texas-verschwunden-2611-214967.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/keine-spur-nvidia-hardware-auf-dem-weg-nach-texas-verschwunden-2611-214967.html</guid>
+      <description>Sechs Paletten mit Hardware im Wert von über 11 Millionen US-Dollar sind spurlos verschwunden. Die Vorfälle häufen sich, auch wegen Exportbeschränkungen. (Nvidia, Prozessor)</description>
+      <pubDate>Sun, 08 Nov 2026 11:22:09 GMT</pubDate>
+    </item>
     <item>
       <title>Atomenergie: Sachsen plant Reaktor zur Atommüllnutzung</title>
       <link>https://www.golem.de/news/atomenergie-sachsen-plant-reaktor-zur-atommuellnutzung-2611-214966.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/pi-5-und-compute-module-raspberry-pi-kostet-mittlerweile-fast-350-euro-2611-214770.html</guid>
       <description>Die Raspberry Pi Foundation hebt einmal mehr die Preise für einige Modelle des Computers an - teilweise um ein Viertel. (Raspberry Pi, RAM)</description>
       <pubDate>Mon, 02 Nov 2026 16:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Saugroboter mit Wischfunktion von Roborock wieder zum Tiefstpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-roborock-wieder-zum-tiefstpreis-bei-amazon-2611-214767.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-roborock-wieder-zum-tiefstpreis-bei-amazon-2611-214767.html</guid>
-      <description>18.500 Pa Saugdruck und eine Station, die Mopps mit heißem Wasser reinigt: Der Roborock Qrevo S Pro kostet bei Amazon wieder unter 390 Euro. (Saugroboter, Amazon)</description>
-      <pubDate>Mon, 02 Nov 2026 16:35:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
