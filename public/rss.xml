@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 14:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:45:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Beliebte Apple-Pencil-Alternative jetzt wieder unter 15 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-beliebte-apple-pencil-alternative-jetzt-wieder-unter-15-euro-bei-amazon-2611-214950.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebte-apple-pencil-alternative-jetzt-wieder-unter-15-euro-bei-amazon-2611-214950.html</guid>
+      <description>Der iPad-Stift von Meko bietet Handballen- sowie Neigungserkennung und kann den teuren Apple Pencil ersetzen. (Technik/Hardware, iPad)</description>
+      <pubDate>Sun, 08 Nov 2026 14:40:02 GMT</pubDate>
+    </item>
     <item>
       <title>Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel</title>
       <link>https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/astragon-development-trotz-millionenfoerderung-schliesst-deutsches-entwicklerstudio-2611-214773.html</guid>
       <description>Mehr als 1,8 Millionen Euro Förderung sind für die Schiffssimulation Seafarer bewilligt worden. Kurz nach dem Start stehen die Entwickler vor dem Aus. (Spiele-Entwicklung, Spieletest)</description>
       <pubDate>Tue, 03 Nov 2026 06:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Keycloak für sicheres Identitäts- und Zugriffsmanagement</title>
-      <link>https://www.golem.de/news/anzeige-keycloak-fuer-sicheres-identitaets-und-zugriffsmanagement-2611-214722.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-keycloak-fuer-sicheres-identitaets-und-zugriffsmanagement-2611-214722.html</guid>
-      <description>Keycloak verbindet Anmeldung und Zugriffsschutz für Webanwendungen. Ein dreitägiger Workshop vermittelt die Konfiguration sowie die Integration von SSO und MFA. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 03 Nov 2026 06:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
