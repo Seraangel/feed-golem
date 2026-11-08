@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 12:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 13:40:14 GMT</lastBuildDate>
+    <item>
+      <title>Apple-Tastatur: Was das iPhone nicht zu Ende schreiben will</title>
+      <link>https://www.golem.de/news/apple-tastatur-was-das-iphone-nicht-zu-ende-schreiben-will-2611-214970.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/apple-tastatur-was-das-iphone-nicht-zu-ende-schreiben-will-2611-214970.html</guid>
+      <description>Apple hat eine Wortvorhersage, die aber bei vielen politischen Begriffen, Drogen und heiklen Ausdrücken gezielt den Dienst quittiert. (iOS, Apple)</description>
+      <pubDate>Sun, 08 Nov 2026 13:38:02 GMT</pubDate>
+    </item>
     <item>
       <title>Jensen Huang: Nvidia-Chef wird Verhältnis mit chinesischer Spionin vorgeworfen</title>
       <link>https://www.golem.de/news/jensen-huang-nvidia-chef-wird-verhaeltnis-mit-chinesischer-spionin-vorgeworfen-2611-214969.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-kompressor-nahe-prime-day-preis-und-18v-akkus-bei-amazon-guenstiger-2611-214772.html</guid>
       <description>Zum bisher besten Amazon-Preis jenseits von Prime gibt es aktuell einen 18V-Kompressor von Einhell. Auch 18-V-Akkus sind günstiger geworden. (Technik/Hardware)</description>
       <pubDate>Mon, 02 Nov 2026 17:55:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Entra ID: Hybride Strukturen verwalten und absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-hybride-strukturen-verwalten-und-absichern-2611-214721.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-hybride-strukturen-verwalten-und-absichern-2611-214721.html</guid>
-      <description>Microsoft Entra ID verlangt Planung bei Einrichtung und Absicherung. Ein Onlineworkshop vermittelt die Konfiguration hybrider Strukturen und Strategien zur Härtung. (Golem Karrierewelt, Sicherheitslücke)</description>
-      <pubDate>Mon, 02 Nov 2026 17:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
