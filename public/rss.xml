@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 07 Nov 2026 13:40:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 06:05:12 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Jobs in Cloud, Systemadministration und Softwareentwicklung</title>
+      <link>https://www.golem.de/news/anzeige-it-jobs-in-cloud-systemadministration-und-softwareentwicklung-2611-214922.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-cloud-systemadministration-und-softwareentwicklung-2611-214922.html</guid>
+      <description>Ob Cloud-Administration, IT-Security, SAP SuccessFactors oder Fullstack-Entwicklung - diese sechs IT-Jobs bieten vielseitige Aufgaben. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Sun, 08 Nov 2026 06:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>Other Worlds: Neue Stranger-Things-Serie spielt im Jahr 1955</title>
       <link>https://www.golem.de/news/outer-worlds-neue-stranger-things-serie-spielt-im-jahr-1955-2611-214964.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/lumentum-marvell-gibt-115-milliarden-dollar-fuer-ki-laserexperten-aus-2611-214765.html</guid>
       <description>Mit der historischen Übernahme von Lumentum sichert sich Marvell Technology die Kontrolle über optische Schlüsseltechnologien für KI-Rechenzentren. (Marvell, KI)</description>
       <pubDate>Mon, 02 Nov 2026 15:42:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Sicherheit: TÜV hält Selbstverpflichtungen für unzureichend</title>
-      <link>https://www.golem.de/news/ki-sicherheit-tuev-haelt-selbstverpflichtungen-fuer-unzureichend-2611-214763.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-tuev-haelt-selbstverpflichtungen-fuer-unzureichend-2611-214763.html</guid>
-      <description>Um staatliche Verantwortung mit technischer Expertise zu verbinden, schlägt der TÜV einen mehrstufigen Sicherheitsrahmen vor. (KI, Bundesregierung)</description>
-      <pubDate>Mon, 02 Nov 2026 15:32:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
