@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 09:50:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 10:40:17 GMT</lastBuildDate>
+    <item>
+      <title>Atomenergie: Sachsen plant Reaktor zur Atommüllnutzung</title>
+      <link>https://www.golem.de/news/atomenergie-sachsen-plant-reaktor-zur-atommuellnutzung-2611-214966.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/atomenergie-sachsen-plant-reaktor-zur-atommuellnutzung-2611-214966.html</guid>
+      <description>Ein experimenteller Kernreaktor mit 50 Megawatt soll deutschen Atommüll verstromen. Der Flüssigsalzreaktor könnte zukünftig auch exportiert werden. (Atomkraft, Wissen)</description>
+      <pubDate>Sun, 08 Nov 2026 10:36:07 GMT</pubDate>
+    </item>
     <item>
       <title>Bei Dunkelflaute: Effizientere Wärmepumpe dank chemischem Speicher</title>
       <link>https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-roborock-wieder-zum-tiefstpreis-bei-amazon-2611-214767.html</guid>
       <description>18.500 Pa Saugdruck und eine Station, die Mopps mit heißem Wasser reinigt: Der Roborock Qrevo S Pro kostet bei Amazon wieder unter 390 Euro. (Saugroboter, Amazon)</description>
       <pubDate>Mon, 02 Nov 2026 16:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minecraft und Mindustry: Risikoscheue KI-Agenten entwickeln ausgeprägte Bürokratie</title>
-      <link>https://www.golem.de/news/minecraft-und-mindustry-risikoscheue-ki-agenten-entwickeln-ausgepraegte-buerokratie-2611-214769.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/minecraft-und-mindustry-risikoscheue-ki-agenten-entwickeln-ausgepraegte-buerokratie-2611-214769.html</guid>
-      <description>Bei Misserfolgen neigen KI-Agenten dazu, ein starkes Vorsorgeverhalten zu entwickeln und Aufgaben übermäßig bürokratisch zu regeln. (KI, Minecraft)</description>
-      <pubDate>Mon, 02 Nov 2026 16:25:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
