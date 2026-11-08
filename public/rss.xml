@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 13:40:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 14:20:13 GMT</lastBuildDate>
+    <item>
+      <title>Privatfahrzeug: Umweltminister Carsten Schneider fährt 13 Jahre alten Diesel</title>
+      <link>https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html</guid>
+      <description>Umweltminister Carsten Schneider setzt auf bezahlbare Alternativen statt moralischer Appelle und fährt selbst einen alten Diesel. (Elektroauto, Auto)</description>
+      <pubDate>Sun, 08 Nov 2026 14:17:02 GMT</pubDate>
+    </item>
     <item>
       <title>Apple-Tastatur: Was das iPhone nicht zu Ende schreiben will</title>
       <link>https://www.golem.de/news/apple-tastatur-was-das-iphone-nicht-zu-ende-schreiben-will-2611-214970.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-keycloak-fuer-sicheres-identitaets-und-zugriffsmanagement-2611-214722.html</guid>
       <description>Keycloak verbindet Anmeldung und Zugriffsschutz für Webanwendungen. Ein dreitägiger Workshop vermittelt die Konfiguration sowie die Integration von SSO und MFA. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Tue, 03 Nov 2026 06:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Einhell-Kompressor nahe Prime-Day-Preis und 18V-Akkus bei Amazon günstiger</title>
-      <link>https://www.golem.de/news/anzeige-einhell-kompressor-nahe-prime-day-preis-und-18v-akkus-bei-amazon-guenstiger-2611-214772.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-einhell-kompressor-nahe-prime-day-preis-und-18v-akkus-bei-amazon-guenstiger-2611-214772.html</guid>
-      <description>Zum bisher besten Amazon-Preis jenseits von Prime gibt es aktuell einen 18V-Kompressor von Einhell. Auch 18-V-Akkus sind günstiger geworden. (Technik/Hardware)</description>
-      <pubDate>Mon, 02 Nov 2026 17:55:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
