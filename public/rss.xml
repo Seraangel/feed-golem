@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 09:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:50:14 GMT</lastBuildDate>
+    <item>
+      <title>Bei Dunkelflaute: Effizientere Wärmepumpe dank chemischem Speicher</title>
+      <link>https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html</guid>
+      <description>Damit Wärmepumpen bei einer Kältewelle verlässlich heizen, ist die Kombination mit Speichern sinnvoll. Eine effizientere Pumpe allein genügt nicht. (Wärmepumpe, Akku)</description>
+      <pubDate>Sun, 08 Nov 2026 09:47:07 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht</title>
       <link>https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/minecraft-und-mindustry-risikoscheue-ki-agenten-entwickeln-ausgepraegte-buerokratie-2611-214769.html</guid>
       <description>Bei Misserfolgen neigen KI-Agenten dazu, ein starkes Vorsorgeverhalten zu entwickeln und Aufgaben übermäßig bürokratisch zu regeln. (KI, Minecraft)</description>
       <pubDate>Mon, 02 Nov 2026 16:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cyberattacke: Postfächer von Linke-Abgeordneten im Bundestag lahmgelegt</title>
-      <link>https://www.golem.de/news/cyberattacke-postfaecher-von-linke-abgeordneten-im-bundestag-lahmgelegt-2611-214768.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cyberattacke-postfaecher-von-linke-abgeordneten-im-bundestag-lahmgelegt-2611-214768.html</guid>
-      <description>Cyberangriff auf Linken-Abgeordnete im Bundestag: Manche von ihnen erhalten so viele E-Mails, dass ihre Postfächer nicht mehr nutzbar sind. (Deutscher Bundestag, Spam)</description>
-      <pubDate>Mon, 02 Nov 2026 16:06:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
