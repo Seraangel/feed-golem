@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 07:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:05:17 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht</title>
+      <link>https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html</guid>
+      <description>Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt (Softwareentwicklung, Ruby)</description>
+      <pubDate>Sun, 08 Nov 2026 09:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>Lego-Alternative: Das Bluebrixx nur für Hartgesottene</title>
       <link>https://www.golem.de/news/lego-alternative-das-bluebrixx-nur-fuer-hartgesottene-2611-214936.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cyberattacke-postfaecher-von-linke-abgeordneten-im-bundestag-lahmgelegt-2611-214768.html</guid>
       <description>Cyberangriff auf Linken-Abgeordnete im Bundestag: Manche von ihnen erhalten so viele E-Mails, dass ihre Postfächer nicht mehr nutzbar sind. (Deutscher Bundestag, Spam)</description>
       <pubDate>Mon, 02 Nov 2026 16:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Max Verstappens Formel-1-Helm zum Bestpreis | 55 Teile für unter 28 Euro</title>
-      <link>https://www.golem.de/news/anzeige-max-verstappens-formel-1-helm-zum-bestpreis-55-teile-fuer-unter-28-euro-2611-214766.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-max-verstappens-formel-1-helm-zum-bestpreis-55-teile-fuer-unter-28-euro-2611-214766.html</guid>
-      <description>Der viermalige Weltmeister gewinnt den Großen Preis von Mexiko. Passend dazu gibt es seinen Red-Bull-Helm als 3D-Puzzle zum Amazon-Tiefstpreis. (Formel 1, Amazon)</description>
-      <pubDate>Mon, 02 Nov 2026 15:54:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
