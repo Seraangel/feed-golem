@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 08 Nov 2026 20:55:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 06:20:16 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Zero Trust: Von den Grundlagen zur Implementierung</title>
+      <link>https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2611-214972.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2611-214972.html</guid>
+      <description>Zero Trust Security erfordert ein strukturiertes Sicherheitskonzept. Ein Online-Workshop vermittelt Grundlagen und konkrete Schritte zur Implementierung des Frameworks. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Mon, 09 Nov 2026 06:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Beliebte Apple-Pencil-Alternative jetzt wieder unter 15 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-beliebte-apple-pencil-alternative-jetzt-wieder-unter-15-euro-bei-amazon-2611-214950.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/quartalsbericht-apple-mit-rekordquartal-aber-unausgewogenem-wachstum-2611-214774.html</guid>
       <description>Während das iPhone boomt, verlieren iPad und Wearables Umsatz. Zugleich steigen Apples Lagerbestände ungewöhnlich stark. (Apple, Wirtschaft)</description>
       <pubDate>Tue, 03 Nov 2026 06:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astragon Development: Trotz Millionenförderung schließt deutsches Entwicklerstudio</title>
-      <link>https://www.golem.de/news/astragon-development-trotz-millionenfoerderung-schliesst-deutsches-entwicklerstudio-2611-214773.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/astragon-development-trotz-millionenfoerderung-schliesst-deutsches-entwicklerstudio-2611-214773.html</guid>
-      <description>Mehr als 1,8 Millionen Euro Förderung sind für die Schiffssimulation Seafarer bewilligt worden. Kurz nach dem Start stehen die Entwickler vor dem Aus. (Spiele-Entwicklung, Spieletest)</description>
-      <pubDate>Tue, 03 Nov 2026 06:19:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
