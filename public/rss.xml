@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 10:10:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:20:14 GMT</lastBuildDate>
+    <item>
+      <title>Fernzugriff auf Türen und Motoren: Forscher demonstrieren folgenschwere Auto-Hacks</title>
+      <link>https://www.golem.de/news/fernzugriff-auf-tueren-und-motoren-forscher-demonstrieren-folgenschwere-auto-hacks-2611-214981.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fernzugriff-auf-tueren-und-motoren-forscher-demonstrieren-folgenschwere-auto-hacks-2611-214981.html</guid>
+      <description>Angreifer hätten durch eine Lücke in der Zugriffsverwaltung für App-Konten unzählige Autos zweier Hersteller aus der Ferne entriegeln und starten können. (Sicherheitslücke, API)</description>
+      <pubDate>Mon, 09 Nov 2026 10:19:03 GMT</pubDate>
+    </item>
     <item>
       <title>Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite</title>
       <link>https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digitalgipfel-geheimdienste-bauen-auf-google-merz-nennt-das-europaeisch-2611-214779.html</guid>
       <description>Bundeskanzler Merz lehnt Autarkie anscheinend ab. Denn die geplante Cloud der Nachrichtendienste mit Google nennt er europäische Infrastruktur. (Friedrich Merz, Datenschutz)</description>
       <pubDate>Tue, 03 Nov 2026 08:58:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wütende KI-Meuten: Wie gefälschte Proteste auf Tiktok Geld bringen sollen</title>
-      <link>https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html</guid>
-      <description>Auf Tiktok protestieren KI-generierte Menschen gegen die Politik. Dahinter steckt ein Geschäftsmodell, das mit Empörung Reichweite und Geld erzeugt. Von Alexander Riechelmann (Tiktok, Spam)</description>
-      <pubDate>Tue, 03 Nov 2026 08:45:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
