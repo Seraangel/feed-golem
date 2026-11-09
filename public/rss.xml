@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 07:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:50:12 GMT</lastBuildDate>
+    <item>
+      <title>Plex2Shell: QNAP-NAS-Systeme über Plex-Lücken kompromittiert</title>
+      <link>https://www.golem.de/news/plex2shell-qnap-nas-systeme-ueber-plex-luecken-kompromittiert-2611-214973.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/plex2shell-qnap-nas-systeme-ueber-plex-luecken-kompromittiert-2611-214973.html</guid>
+      <description>Wer ein QNAP-NAS mit Plex Media Server betreibt, sollte dringend handeln. Angreifer schleusen über vier Sicherheitslücken Schadcode ein. (Sicherheitslücke, Storage)</description>
+      <pubDate>Mon, 09 Nov 2026 07:48:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Zero Trust: Von den Grundlagen zur Implementierung</title>
       <link>https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2611-214972.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/simsalasim-fuer-10-euro-diese-beschraenkungen-hat-der-smartphone-tarif-mit-unbegrenzter-datenflatrate-2611-214775.html</guid>
       <description>Der Marktstart des 10-Euro-Tarifs Simsalasim mit unbegrenzter Datenflatrate rückt näher. Neue Details zeigen so manche Beschränkung. (Simsalasim, Mobilfunk)</description>
       <pubDate>Tue, 03 Nov 2026 06:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quartalsbericht: Apples Rekordgeschäft basiert auf dem iPhone</title>
-      <link>https://www.golem.de/news/quartalsbericht-apple-mit-rekordquartal-aber-unausgewogenem-wachstum-2611-214774.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/quartalsbericht-apple-mit-rekordquartal-aber-unausgewogenem-wachstum-2611-214774.html</guid>
-      <description>Während das iPhone boomt, verlieren iPad und Wearables Umsatz. Zugleich steigen Apples Lagerbestände ungewöhnlich stark. (Apple, Wirtschaft)</description>
-      <pubDate>Tue, 03 Nov 2026 06:32:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
