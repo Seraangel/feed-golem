@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 08:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:20:18 GMT</lastBuildDate>
+    <item>
+      <title>Spionage-Affäre: Jensen Huang entschuldigt sich für Affäre und will Nvidia-Chef bleiben</title>
+      <link>https://www.golem.de/news/spionage-affaere-jensen-huang-entschuldigt-sich-fuer-affaere-und-will-nvidia-chef-bleiben-2611-214974.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spionage-affaere-jensen-huang-entschuldigt-sich-fuer-affaere-und-will-nvidia-chef-bleiben-2611-214974.html</guid>
+      <description>Jensen Huang hat sich in einer öffentlichen Nachricht für seine Affäre entschuldigt - und versichert, dass er sein Land und Nvidia liebe. (Nvidia, KI)</description>
+      <pubDate>Mon, 09 Nov 2026 08:19:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Wenn KI-Piloten funktionieren, aber die Skalierung scheitert</title>
       <link>https://www.golem.de/news/anzeige-wenn-ki-piloten-funktionieren-aber-die-skalierung-scheitert-2611-214921.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-so-kommt-zigbee-in-die-fritz-box-2611-214132.html</guid>
       <description>Immer mehr FRITZ!Box-Modelle sprechen Zigbee. Doch was steckt technisch dahinter? Stella und Patrick aus der Softwareentwicklung geben einen Blick hinter die Kulissen. (Fritzbox, AVM)</description>
       <pubDate>Tue, 03 Nov 2026 08:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prodigy-Prozessor: Entwickler Tachyum meldet selbst Insolvenz an</title>
-      <link>https://www.golem.de/news/prodigy-prozessor-entwickler-tachyum-meldet-selbst-insolvenz-an-2611-214777.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/prodigy-prozessor-entwickler-tachyum-meldet-selbst-insolvenz-an-2611-214777.html</guid>
-      <description>Die slowakische Tochter hat den Antrag selbst gestellt. Das Gericht hat das Verfahren eingeleitet, aber noch keinen Konkurs erklärt. (Tachyum, Prozessor)</description>
-      <pubDate>Tue, 03 Nov 2026 07:59:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
