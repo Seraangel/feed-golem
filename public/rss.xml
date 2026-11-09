@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 12:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:35:18 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Micropython: Schnell entwickelt, teuer erkauft?</title>
+      <link>https://www.golem.de/news/micropython-schnell-entwickelt-teuer-erkauft-2611-214992.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/micropython-schnell-entwickelt-teuer-erkauft-2611-214992.html</guid>
+      <description>Micropython erleichtert die Entwicklung auf Mikrocontrollern, benötigt aber mehr Rechenzeit und Speicher. Wann lohnt sich der Einsatz trotzdem? Ein Erfahrungsbericht von Fabian Deitelhoff (Python, Programmiersprachen)</description>
+      <pubDate>Mon, 09 Nov 2026 12:32:06 GMT</pubDate>
+    </item>
     <item>
       <title>Cyberangriff auf WorkOS: Abtrünniger KI-Agent hackt Entwicklerplattform</title>
       <link>https://www.golem.de/news/cyberangriff-auf-workos-abtruenniger-ki-agent-hackt-entwicklerplattform-2611-214993.html</link>
@@ -86,7 +93,7 @@
       <title>Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite</title>
       <link>https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html</guid>
-      <description>CATL sieht in Lithium-Luft-Akkus ein Langzeitziel. Sie könnten bis zu fünfmal mehr Energie speichern als Festkörperakkus. (Elektroauto, Auto)</description>
+      <description>CATL sieht in Lithium-Luft-Akkus ein Langzeitziel. Sie könnten bis zu fünfmal so viel Energie speichern wie Festkörperakkus. (Elektroauto, Auto)</description>
       <pubDate>Mon, 09 Nov 2026 10:06:01 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/versorgungssicherheit-technologieoffenheit-heisst-im-stromnetz-gas-2611-214791.html</guid>
       <description>Die Zuschläge für dringend benötigte Reservekraftwerke gehen durchweg an Gasturbinen. Das war absehbar, könnte aber noch sehr teuer werden. (Bundesnetzagentur, Akku)</description>
       <pubDate>Tue, 03 Nov 2026 11:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia, AMD, Intel: Grafikkarten werden knapp und fast unbezahlbar</title>
-      <link>https://www.golem.de/news/nvidia-amd-intel-grafikkarten-werden-knapp-und-fast-unbezahlbar-2611-214790.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nvidia-amd-intel-grafikkarten-werden-knapp-und-fast-unbezahlbar-2611-214790.html</guid>
-      <description>Die hohe Nachfrage nach Grafikkarten hat die Preise bei allen Herstellern noch einmal merklich nach oben getrieben. (Grafikkarten, AMD)</description>
-      <pubDate>Tue, 03 Nov 2026 11:22:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
