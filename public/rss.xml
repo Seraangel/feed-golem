@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 12:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:50:19 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Robuste Taschenlampe von Shadowhawk für nur 17,96 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-robuste-taschenlampe-von-shadowhawk-fuer-nur-17-96-euro-bei-amazon-2611-214994.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-robuste-taschenlampe-von-shadowhawk-fuer-nur-17-96-euro-bei-amazon-2611-214994.html</guid>
+      <description>Eine robuste Taschenlampe von Shadowhawk mit aufladbarem Akku, fünf Leuchtmodi und einstellbarem Fokus gibt es zum Sparpreis bei Amazon. (Technik/Hardware)</description>
+      <pubDate>Mon, 09 Nov 2026 12:49:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11: Nach über 30 Jahren schaltet Microsoft das Einrast-Pop-up ab</title>
+      <link>https://www.golem.de/news/windows-11-nach-ueber-30-jahren-schaltet-microsoft-das-einrast-pop-up-ab-2611-214988.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-11-nach-ueber-30-jahren-schaltet-microsoft-das-einrast-pop-up-ab-2611-214988.html</guid>
+      <description>Microsoft testet in Windows 11 eine Option, die den Einrastfunktion-Hinweis nach fünfmaliger Umschalttaste dauerhaft abschaltet. (Windows 11, Microsoft)</description>
+      <pubDate>Mon, 09 Nov 2026 12:46:10 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Micropython: Schnell entwickelt, teuer erkauft?</title>
       <link>https://www.golem.de/news/micropython-schnell-entwickelt-teuer-erkauft-2611-214992.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-alle-modelle-der-ninja-creami-eismaschine-zu-neuen-amazon-bestpreisen-2611-214792.html</guid>
       <description>Die Ninja Creami macht aus gefrorenen Zutaten in Minuten Eis, Sorbet oder Milchshakes und ist ausgerechnet im Winter so günstig wie nie. (Technik/Hardware, Amazon)</description>
       <pubDate>Tue, 03 Nov 2026 12:21:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schadcode-Attacken möglich: Kritische Android-Lücken gefährden unzählige Geräte</title>
-      <link>https://www.golem.de/news/schadcode-attacken-moeglich-kritische-android-luecken-gefaehrden-unzaehlige-geraete-2611-214793.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-kritische-android-luecken-gefaehrden-unzaehlige-geraete-2611-214793.html</guid>
-      <description>Google hat mit den neuesten Android-Updates über 200 Sicherheitslücken adressiert. Einige davon ermöglichen gefährliche Schadcode-Attacken. (Sicherheitslücke, Google)</description>
-      <pubDate>Tue, 03 Nov 2026 12:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Versorgungssicherheit: Technologieoffenheit heißt im Stromnetz Gas</title>
-      <link>https://www.golem.de/news/versorgungssicherheit-technologieoffenheit-heisst-im-stromnetz-gas-2611-214791.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/versorgungssicherheit-technologieoffenheit-heisst-im-stromnetz-gas-2611-214791.html</guid>
-      <description>Die Zuschläge für dringend benötigte Reservekraftwerke gehen durchweg an Gasturbinen. Das war absehbar, könnte aber noch sehr teuer werden. (Bundesnetzagentur, Akku)</description>
-      <pubDate>Tue, 03 Nov 2026 11:54:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
