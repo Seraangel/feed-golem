@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 09:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:45:17 GMT</lastBuildDate>
+    <item>
+      <title>Konkurrenz zu SpaceX: Blue Origin will Baukosten auf 25 Prozent gesenkt haben</title>
+      <link>https://www.golem.de/news/konkurrenz-zu-spacex-blue-origin-will-baukosten-auf-25-prozent-gesenkt-haben-2611-214977.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/konkurrenz-zu-spacex-blue-origin-will-baukosten-auf-25-prozent-gesenkt-haben-2611-214977.html</guid>
+      <description>Die neue Generation von Raketentriebwerken besitzt weniger Komponenten, kostet ein Viertel und soll demnächst an einem Tag gebaut werden. (Rakete, Nasa)</description>
+      <pubDate>Mon, 09 Nov 2026 09:40:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Apple Airtag 2 im Viererpack jetzt nur rund 20 Euro pro Stück bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-apple-airtag-2-im-viererpack-jetzt-nur-rund-20-euro-pro-stueck-bei-amazon-2611-214976.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-mit-ki-in-elf-tagen-zum-linux-kompatiblen-kernel-prototyp-2611-214780.html</guid>
       <description>Mit Ginux will der Gründer von CentOS und Rocky Linux zeigen, dass von Menschen dirigierte KI Entwicklungsarbeit deutlich beschleunigen kann. (KI, CentOS)</description>
       <pubDate>Tue, 03 Nov 2026 08:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dringend patchen: 11.000 Gitlab-Instanzen durch laufende Angriffe gefährdet</title>
-      <link>https://www.golem.de/news/attacken-laufen-bereits-rund-11-000-angreifbare-gitlab-instanzen-im-netz-2611-214776.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/attacken-laufen-bereits-rund-11-000-angreifbare-gitlab-instanzen-im-netz-2611-214776.html</guid>
-      <description>Angreifer nehmen seit einigen Wochen Gitlab-Server ins Visier. Fast jede dritte Gitlab-Instanz ist anfällig für mindestens eine kritische Sicherheitslücke. (Sicherheitslücke, Ruby)</description>
-      <pubDate>Tue, 03 Nov 2026 08:19:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
