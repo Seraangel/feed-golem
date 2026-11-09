@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 09:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 10:10:16 GMT</lastBuildDate>
+    <item>
+      <title>Lithium-Luft: CATL erforscht Akku für theoretisch 2.000 km Reichweite</title>
+      <link>https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html</guid>
+      <description>CATL sieht in Lithium-Luft-Akkus ein Langzeitziel. Sie könnten bis zu fünfmal mehr Energie speichern als Festkörperakkus. (Elektroauto, Auto)</description>
+      <pubDate>Mon, 09 Nov 2026 10:06:01 GMT</pubDate>
+    </item>
     <item>
       <title>Speichermangel: Linux-Skript meldet freien RAM an Sam Altman</title>
       <link>https://www.golem.de/news/speichermangel-linux-skript-meldet-freien-ram-an-sam-altman-2611-214979.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wuetende-ki-meuten-wie-gefaelschte-proteste-auf-tiktok-geld-bringen-sollen-2611-214732.html</guid>
       <description>Auf Tiktok protestieren KI-generierte Menschen gegen die Politik. Dahinter steckt ein Geschäftsmodell, das mit Empörung Reichweite und Geld erzeugt. Von Alexander Riechelmann (Tiktok, Spam)</description>
       <pubDate>Tue, 03 Nov 2026 08:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weltraumteleskop: Rettungsmission für Hubble geplant</title>
-      <link>https://www.golem.de/news/weltraumteleskop-rettungsmission-fuer-hubble-geplant-2611-214781.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/weltraumteleskop-rettungsmission-fuer-hubble-geplant-2611-214781.html</guid>
-      <description>Weil vor 2040 kein Ersatz für Hubble im Orbit sein wird, soll das Weltraumteleskop wieder angehoben werden. Unklar ist, wer das kann. (Weltraumteleskop, Nasa)</description>
-      <pubDate>Tue, 03 Nov 2026 08:36:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
