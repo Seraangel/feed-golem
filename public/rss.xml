@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 08:30:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:20:14 GMT</lastBuildDate>
+    <item>
+      <title>Autoindustrie: Land Rover wirft BYD Defender-Kopie vor</title>
+      <link>https://www.golem.de/news/autoindustrie-land-rover-wirft-byd-defender-kopie-vor-2611-214975.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/autoindustrie-land-rover-wirft-byd-defender-kopie-vor-2611-214975.html</guid>
+      <description>Gerichtsvollzieher haben im August Daten in BYD-Büros gesichert. Diese Woche tagt ein Gericht in Den Haag zum Streit um den Ti7. (BYD, Auto)</description>
+      <pubDate>Mon, 09 Nov 2026 09:19:06 GMT</pubDate>
+    </item>
     <item>
       <title>Spionage-Affäre: Jensen Huang entschuldigt sich für Affäre und will Nvidia-Chef bleiben</title>
       <link>https://www.golem.de/news/spionage-affaere-jensen-huang-entschuldigt-sich-fuer-affaere-und-will-nvidia-chef-bleiben-2611-214974.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/keine-reaktion-auf-fehlende-funktionen-disney-ein-halbes-jahr-mit-preisnachlass-nutzen-2611-214778.html</guid>
       <description>Disney+ gibt es derzeit für ein halbes Jahr zu einem reduzierten Preis. Das hat nichts mit den gestrichenen Funktionen des Disney-Abos zu tun. (Disney+, Disney)</description>
       <pubDate>Tue, 03 Nov 2026 08:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: So kommt Zigbee in die FRITZ!Box</title>
-      <link>https://www.golem.de/news/anzeige-so-kommt-zigbee-in-die-fritz-box-2611-214132.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-so-kommt-zigbee-in-die-fritz-box-2611-214132.html</guid>
-      <description>Immer mehr FRITZ!Box-Modelle sprechen Zigbee. Doch was steckt technisch dahinter? Stella und Patrick aus der Softwareentwicklung geben einen Blick hinter die Kulissen. (Fritzbox, AVM)</description>
-      <pubDate>Tue, 03 Nov 2026 08:00:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
