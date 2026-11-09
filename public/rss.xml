@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 12:10:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 12:15:20 GMT</lastBuildDate>
+    <item>
+      <title>Cyberangriff auf WorkOS: Abtrünniger KI-Agent hackt Entwicklerplattform</title>
+      <link>https://www.golem.de/news/cyberangriff-auf-workos-abtruenniger-ki-agent-hackt-entwicklerplattform-2611-214993.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-auf-workos-abtruenniger-ki-agent-hackt-entwicklerplattform-2611-214993.html</guid>
+      <description>Ein KI-Agent eines Sicherheitsforschers hat unerwartet ein System von WorkOS attackiert und Kundendaten ausgeleitet. Der Forscher gestand die Panne. (Security, KI)</description>
+      <pubDate>Mon, 09 Nov 2026 12:14:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: iPhone 18 Pro und Airpods Pro 3 für nur 1 Euro und Black-Week-Rabatt bei o2</title>
       <link>https://www.golem.de/news/anzeige-iphone-18-pro-und-airpods-pro-3-fuer-nur-1-euro-und-black-week-rabatt-bei-o2-2611-214990.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nvidia-amd-intel-grafikkarten-werden-knapp-und-fast-unbezahlbar-2611-214790.html</guid>
       <description>Die hohe Nachfrage nach Grafikkarten hat die Preise bei allen Herstellern noch einmal merklich nach oben getrieben. (Grafikkarten, AMD)</description>
       <pubDate>Tue, 03 Nov 2026 11:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Maschinenträume 5: KI-Ent-Täuschung</title>
-      <link>https://www.golem.de/news/maschinentraeume-5-ki-ent-taeuschung-2611-214755.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/maschinentraeume-5-ki-ent-taeuschung-2611-214755.html</guid>
-      <description>Die KI-Apostel versprechen uns das Paradies auf Erden. Doch selbst eine Superintelligenz kann keine Wunder vollbringen. Zeit für ein wenig Realismus. Ein Deep Dive von P. R. Rhesia (Maschinenträume, KI)</description>
-      <pubDate>Tue, 03 Nov 2026 11:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
