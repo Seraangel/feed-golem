@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 09 Nov 2026 09:45:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:55:16 GMT</lastBuildDate>
+    <item>
+      <title>Speichermangel: Linux-Skript meldet freien RAM an Sam Altman</title>
+      <link>https://www.golem.de/news/speichermangel-linux-skript-meldet-freien-ram-an-sam-altman-2611-214979.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/speichermangel-linux-skript-meldet-freien-ram-an-sam-altman-2611-214979.html</guid>
+      <description>Ein Bash-Skript mit dem Namen Ram Altman sendet E-Mails an den OpenAI-Chef, sobald der Arbeitsspeicher nicht genug ausgelastet ist. (RAM, KI)</description>
+      <pubDate>Mon, 09 Nov 2026 09:53:11 GMT</pubDate>
+    </item>
     <item>
       <title>Konkurrenz zu SpaceX: Blue Origin will Baukosten auf 25 Prozent gesenkt haben</title>
       <link>https://www.golem.de/news/konkurrenz-zu-spacex-blue-origin-will-baukosten-auf-25-prozent-gesenkt-haben-2611-214977.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/weltraumteleskop-rettungsmission-fuer-hubble-geplant-2611-214781.html</guid>
       <description>Weil vor 2040 kein Ersatz für Hubble im Orbit sein wird, soll das Weltraumteleskop wieder angehoben werden. Unklar ist, wer das kann. (Weltraumteleskop, Nasa)</description>
       <pubDate>Tue, 03 Nov 2026 08:36:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Softwareentwicklung mit KI: In elf Tagen zum Linux-kompatiblen Kernel-Prototyp</title>
-      <link>https://www.golem.de/news/softwareentwicklung-mit-ki-in-elf-tagen-zum-linux-kompatiblen-kernel-prototyp-2611-214780.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-mit-ki-in-elf-tagen-zum-linux-kompatiblen-kernel-prototyp-2611-214780.html</guid>
-      <description>Mit Ginux will der Gründer von CentOS und Rocky Linux zeigen, dass von Menschen dirigierte KI Entwicklungsarbeit deutlich beschleunigen kann. (KI, CentOS)</description>
-      <pubDate>Tue, 03 Nov 2026 08:27:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
