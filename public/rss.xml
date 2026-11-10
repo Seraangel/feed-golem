@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 18:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 18:45:58 GMT</lastBuildDate>
+    <item>
+      <title>Spionage: Bundeswehr sperrt DJI-Drohnen und chinesische Autos aus</title>
+      <link>https://www.golem.de/news/spionage-bundeswehr-sperrt-dji-drohnen-und-chinesische-autos-aus-2611-215061.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spionage-bundeswehr-sperrt-dji-drohnen-und-chinesische-autos-aus-2611-215061.html</guid>
+      <description>Aus Sorge vor möglicher Spionage dürfen chinesische Drohnen und Autos nicht mehr in Bundeswehr-Kasernen. (Bundeswehr, Elektroauto)</description>
+      <pubDate>Tue, 10 Nov 2026 18:44:03 GMT</pubDate>
+    </item>
     <item>
       <title>Formula 2030: Polestar holt physische Tasten ins Auto zurück</title>
       <link>https://www.golem.de/news/formula-2030-polestar-holt-physische-tasten-ins-auto-zurueck-2611-215059.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wirtschaft-aws-manager-warnt-vor-denkfehler-beim-ki-einsatz-2611-214864.html</guid>
       <description>Zeitersparnis allein reicht nicht. In einem Gastbeitrag für Nikkei Asia erklärt ein AWS-Manager, wie Firmen mit KI nicht nur Kosten sparen, sondern mehr Geld verdienen können. Von Jaime Valles (KI, AWS)</description>
       <pubDate>Wed, 04 Nov 2026 17:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nokia: KI wird fast die Hälfte des Netzwerkverkehrs ausmachen</title>
-      <link>https://www.golem.de/news/nokia-ki-wird-fast-die-haelfte-des-netzwerkverkehrs-ausmachen-2611-214863.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nokia-ki-wird-fast-die-haelfte-des-netzwerkverkehrs-ausmachen-2611-214863.html</guid>
-      <description>Autonome Agenten werden den weltweiten Datenverkehr fundamental verändern. Hintergrund ist der Einstieg von Nvidia bei Nokia und die Umstellung auf AI-RAN-Hardware. (Nokia, Nvidia)</description>
-      <pubDate>Wed, 04 Nov 2026 16:44:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
