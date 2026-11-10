@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 14:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:05:19 GMT</lastBuildDate>
+    <item>
+      <title>Rockstar Games: GTA 6 mit 30 fps und Raytracing auf PS5 Pro</title>
+      <link>https://www.golem.de/news/rockstar-games-gta-6-mit-30-fps-und-raytracing-auf-ps5-pro-2611-215047.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-gta-6-mit-30-fps-und-raytracing-auf-ps5-pro-2611-215047.html</guid>
+      <description>Rockstar Games nennt technische Details zu GTA 6. Überraschung: Per Cloud-Gaming läuft das Spiel auf der Xbox One. (GTA 6, Spielestreaming)</description>
+      <pubDate>Tue, 10 Nov 2026 15:01:09 GMT</pubDate>
+    </item>
     <item>
       <title>Sabotage in Supermärkten: Warum Hacker Kühlanlagen in ganz Europa angreifen können</title>
       <link>https://www.golem.de/news/sabotage-in-supermaerkten-warum-hacker-kuehlanlagen-in-ganz-europa-angreifen-koennen-2611-215039.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cadillac-super-cruise-haende-weg-vom-lenkrad-auf-ueber-180-000-kilometern-2611-214844.html</guid>
       <description>Freihändiges Fahren auf Europas Autobahnen: Cadillac führt sein Fahrerassistenzsystem Super Cruise in 16 europäischen Ländern ein. (Autonomes Fahren, Google Maps)</description>
       <pubDate>Wed, 04 Nov 2026 12:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Rust-Programmierung: Wie sich mehrere CPU-Kerne effizient auslasten lassen</title>
-      <link>https://www.golem.de/news/rust-programmierung-wie-sich-mehrere-cpu-kerne-effizient-auslasten-lassen-2611-214843.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rust-programmierung-wie-sich-mehrere-cpu-kerne-effizient-auslasten-lassen-2611-214843.html</guid>
-      <description>Rust macht die parallele Verarbeitung einfach und sicher. Bibliotheken wie Rayon helfen dabei, mehrere Prozessorkerne effizient auszulasten. Eine Anleitung von Gerhard Völkl (Rust, Prozessor)</description>
-      <pubDate>Wed, 04 Nov 2026 12:30:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
