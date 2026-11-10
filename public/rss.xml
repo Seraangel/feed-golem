@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 06:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:20:19 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic: Fable 5.2 und Mythos 5.2 legen deutlich zu</title>
+      <link>https://www.golem.de/news/anthropic-fable-5-2-und-mythos-5-2-legen-deutlich-zu-2611-215015.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anthropic-fable-5-2-und-mythos-5-2-legen-deutlich-zu-2611-215015.html</guid>
+      <description>Anthropic stellt mit Fable 5.2 und Mythos 5.2 zwei neue Claude-Modelle vor, die bis zu 30 Prozent schneller sind als die Vorgänger. (Claude, KI)</description>
+      <pubDate>Tue, 10 Nov 2026 06:18:06 GMT</pubDate>
+    </item>
     <item>
       <title>PC-Gaming: Epic Games Launcher kommt offiziell auf SteamOS</title>
       <link>https://www.golem.de/news/pc-gaming-epic-games-launcher-kommt-offiziell-auf-steamos-2611-215013.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mram-statt-dram-neuer-ki-chip-soll-98-prozent-weniger-strom-verbrauchen-2611-214806.html</guid>
       <description>Ein Toyota-Zulieferer hat einen KI-Chip entwickelt, der deutlich sparsamer und schneller arbeiten soll. Die Technik könnte die KI-Verarbeitung in Autos verbessern, berichtet Nikkei Asia. Von Shota Uehara (KI, Toyota)</description>
       <pubDate>Tue, 03 Nov 2026 17:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>EuGH-Gutachten: Googles Chatbot könnte Urheberrecht von Verlagen verletzen</title>
-      <link>https://www.golem.de/news/eugh-gutachten-googles-chatbot-koennte-urheberrecht-von-verlagen-verletzen-2611-214812.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/eugh-gutachten-googles-chatbot-koennte-urheberrecht-von-verlagen-verletzen-2611-214812.html</guid>
-      <description>Ein Verlag sieht sein Leistungsschutzrecht durch die KI-Übersichten von Google verletzt. Die Klage könnte in Teilen erfolgreich sein. (KI, Urheberrecht)</description>
-      <pubDate>Tue, 03 Nov 2026 16:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
