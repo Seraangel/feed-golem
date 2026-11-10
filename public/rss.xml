@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 17:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:50:59 GMT</lastBuildDate>
+    <item>
+      <title>DCF77-Signal: Wetterstationen mit Meteotime könnten dauerhaft ausfallen</title>
+      <link>https://www.golem.de/news/dcf77-signal-wetterstationen-mit-meteotime-koennten-dauerhaft-ausfallen-2611-215062.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/dcf77-signal-wetterstationen-mit-meteotime-koennten-dauerhaft-ausfallen-2611-215062.html</guid>
+      <description>Seit mehr als vier Monaten erhalten Wetterstationen keine Vorhersagen mehr über das Funksignal DCF77. Hama bietet einen kostenlosen Gerätetausch an. (Technik/Hardware)</description>
+      <pubDate>Tue, 10 Nov 2026 17:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Claude Code: KI-Agenten für die Softwareentwicklung nutzen</title>
+      <link>https://www.golem.de/news/anzeige-claude-code-ki-agenten-fuer-die-softwareentwicklung-nutzen-2611-215014.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-claude-code-ki-agenten-fuer-die-softwareentwicklung-nutzen-2611-215014.html</guid>
+      <description>Claude Code ermöglicht KI-gestützte Softwareentwicklung. Ein dreitägiger Workshop zeigt, wie Entwickler mit Agentic Coding, Spezifikationen und Tests arbeiten. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Tue, 10 Nov 2026 17:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Melbourne-Toulouse: Qantas stellt mit Airbus A350-1000ULR neuen Langstreckenrekord auf</title>
       <link>https://www.golem.de/news/melbourne-toulouse-qantas-stellt-mit-airbus-a350-1000ulr-neuen-langstreckenrekord-auf-2611-215057.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ladenetzbetreiber-vw-tochter-elli-streicht-jobs-und-stellt-wallboxverkauf-ein-2611-214861.html</guid>
       <description>Die Sparpläne bei VW treffen auch den Ladeserviceanbieter Elli. Künftig werden keine Wallboxen mehr angeboten, ein Verkauf der Firma ist möglich. (Ladesäule, Elektroauto)</description>
       <pubDate>Wed, 04 Nov 2026 15:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Beliebtes Makita Makpac Größe 2 fällt bei Amazon im Preis</title>
-      <link>https://www.golem.de/news/anzeige-beliebtes-makita-makpac-groesse-2-bei-amazon-unter-dem-preis-der-letzten-zeit-2611-214856.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-beliebtes-makita-makpac-groesse-2-bei-amazon-unter-dem-preis-der-letzten-zeit-2611-214856.html</guid>
-      <description>Das sehr beliebte Makita Makpac in der Größe 2 ist bei Amazon nun günstiger als im Schnitt der letzten 90 Tage. (Technik/Hardware)</description>
-      <pubDate>Wed, 04 Nov 2026 15:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Argo Space: Mit Wasserantrieb in den Mondorbit</title>
-      <link>https://www.golem.de/news/argo-space-mit-wasserantrieb-in-den-mondorbit-2611-214858.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/argo-space-mit-wasserantrieb-in-den-mondorbit-2611-214858.html</guid>
-      <description>Ein Start-up nutzt gewöhnliches Wasser zum Beschleunigen seiner Raumsonden. Der Weg vom Erd- in den Mondorbit wäre damit frei. (Raumfahrt, SpaceX)</description>
-      <pubDate>Wed, 04 Nov 2026 15:23:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
