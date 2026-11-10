@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 09:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:25:21 GMT</lastBuildDate>
+    <item>
+      <title>Wärmewende: Wasserstoff und Biogas gegeneinander statt nebeneinander</title>
+      <link>https://www.golem.de/news/waermewende-wasserstoff-und-biogas-gegeneinander-statt-nebeneinander-2611-215027.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/waermewende-wasserstoff-und-biogas-gegeneinander-statt-nebeneinander-2611-215027.html</guid>
+      <description>Biogas kann Erdgas hervorragend ersetzen. Der Ausbau des Wasserstoffnetzes und das neue Heizungsgesetz gefährden jedoch die effektive Nutzung. (Energiewende, Brennstoffzelle)</description>
+      <pubDate>Tue, 10 Nov 2026 09:22:08 GMT</pubDate>
+    </item>
     <item>
       <title>Cybersicherheit: Crowdstrike führt Not-Aus für KI-Agenten ein</title>
       <link>https://www.golem.de/news/cybersicherheit-crowdstrike-fuehrt-not-aus-fuer-ki-agenten-ein-2611-215025.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anlagebetrug-polizei-legt-betrugsnetzwerk-lahm-und-uebernimmt-100-server-2611-214825.html</guid>
       <description>Anlagebetrüger lockten Opfer mit dem Versprechen hoher Renditen auf ihre Plattform. Strafverfolger haben jetzt die Infrastruktur dahinter zerschlagen. (Cybercrime, Server)</description>
       <pubDate>Wed, 04 Nov 2026 08:20:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI in der Softwareentwicklung: Warum Prompts Coding-Agenten nicht absichern</title>
-      <link>https://www.golem.de/news/ki-in-der-softwareentwicklung-warum-prompts-coding-agenten-nicht-absichern-2611-214799.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-in-der-softwareentwicklung-warum-prompts-coding-agenten-nicht-absichern-2611-214799.html</guid>
-      <description>KI-Agenten können Code ändern und Systeme aufrufen. Warum Verbote im Prompt nicht reichen und welche technischen Grenzen ihren Zugriff absichern. Ein Bericht von Ulrich Hottelet (Softwareentwicklung, KI)</description>
-      <pubDate>Wed, 04 Nov 2026 08:09:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
