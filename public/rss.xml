@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 15:30:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:41:02 GMT</lastBuildDate>
+    <item>
+      <title>Börsengang: Anthropic strebt Bewertung von bis zu 1,4 Billionen US-Dollar an</title>
+      <link>https://www.golem.de/news/boersengang-anthropic-strebt-bewertung-von-bis-zu-1-4-billionen-us-dollar-an-2611-215051.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/boersengang-anthropic-strebt-bewertung-von-bis-zu-1-4-billionen-us-dollar-an-2611-215051.html</guid>
+      <description>Der KI-Anbieter Anthropic hat die Preisspanne für seinen Börsengang genannt. Dieser könnte rund 100 Milliarden US-Dollar einbringen. (Anthropic, Börse)</description>
+      <pubDate>Tue, 10 Nov 2026 15:38:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Elektrische Handwärmer mit magnetischer Halterung für unter 11 Euro</title>
       <link>https://www.golem.de/news/anzeige-elektrische-handwaermer-mit-magnetischer-halterung-fuer-unter-11-euro-2611-215050.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-wasserdichte-handschuhe-mit-touch-funktion-guenstig-bei-amazon-2611-214847.html</guid>
       <description>Amazon hat wasserdichte Handschuhe mit Touch-Funktion im Angebot, die auch beim Tippen auf dem Smartphone getragen werden können. (Technik/Hardware)</description>
       <pubDate>Wed, 04 Nov 2026 13:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chefs-von-Devs-Interview: Wie Open Source vor dem Vendor-Lock-in schützt</title>
-      <link>https://www.golem.de/news/chefs-von-devs-interview-wie-open-source-vor-dem-vendor-lock-in-schuetzt-2611-214848.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/chefs-von-devs-interview-wie-open-source-vor-dem-vendor-lock-in-schuetzt-2611-214848.html</guid>
-      <description>Wie verhindert man, dass ein wichtiges Open-Source-Projekt plötzlich verschwindet? In Chefs von Devs erzählt Markus Bätz, wie aus einer beinahe verlorenen ERP-Software ein gemeinschaftlich getragenes Projekt wurde. (Open Source, Software)</description>
-      <pubDate>Wed, 04 Nov 2026 13:22:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
