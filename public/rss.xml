@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 07:50:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 08:05:22 GMT</lastBuildDate>
+    <item>
+      <title>Hoverair Versa im Test: Eine Kamera zum Abheben</title>
+      <link>https://www.golem.de/news/hoverair-versa-im-test-eine-kamera-zum-abheben-2611-214963.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hoverair-versa-im-test-eine-kamera-zum-abheben-2611-214963.html</guid>
+      <description>Die Hoverair Versa kombiniert eine Gimbalkamera mit einer autonomen Drohne. Im Test zeigt die Kamera am Boden einige Schwächen. Ein Test von Peter Steinlechner (Drohne, Kameras)</description>
+      <pubDate>Tue, 10 Nov 2026 08:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen erlernen</title>
       <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-erlernen-2611-215012.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-vibe-coding-mit-ki-vom-anforderungsprofil-zum-prototyp-2611-214818.html</guid>
       <description>Vibe Coding erleichtert den Bau von Software-Prototypen. Ein Workshop vermittelt Tool-Auswahl, Anforderungsformulierung und die Prüfung der Ergebnisse. (Golem Karrierewelt, Programmiersprachen)</description>
       <pubDate>Wed, 04 Nov 2026 06:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Schon zu 84 Prozent vergriffen: Victorinox mit bis zu 73 Funktionen im Amazon-Angebot</title>
-      <link>https://www.golem.de/news/anzeige-schon-zu-84-prozent-vergriffen-victorinox-mit-bis-zu-73-funktionen-im-amazon-angebot-2611-214816.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-schon-zu-84-prozent-vergriffen-victorinox-mit-bis-zu-73-funktionen-im-amazon-angebot-2611-214816.html</guid>
-      <description>Bei Amazon sind Schweizer Taschenmesser mit 13, 33 und 73 Funktionen befristet im Angebot. (Victorinox, Technik/Hardware)</description>
-      <pubDate>Tue, 03 Nov 2026 18:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
