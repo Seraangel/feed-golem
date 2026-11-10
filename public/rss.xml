@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 09:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 09:40:17 GMT</lastBuildDate>
+    <item>
+      <title>Able2Shell: Geleakte N-central-Exploits gefährden unzählige Unternehmen</title>
+      <link>https://www.golem.de/news/able2shell-geleakte-n-central-exploits-gefaehrden-unzaehlige-unternehmen-2611-215026.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/able2shell-geleakte-n-central-exploits-gefaehrden-unzaehlige-unternehmen-2611-215026.html</guid>
+      <description>Nach einem Leak von über 30 N-central-Exploits hat N-able seine Server offline genommen - mit Folgen für die IT-Verwaltung zahlreicher Unternehmen. (Sicherheitslücke, Server)</description>
+      <pubDate>Tue, 10 Nov 2026 09:37:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Black Weeks bei Pÿur - schnelles Internet dauerhaft zum halben Preis</title>
       <link>https://www.golem.de/news/anzeige-black-weeks-bei-pyur-schnelles-internet-dauerhaft-zum-halben-preis-2611-215008.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/windows-11-mit-8-gb-ram-microsoft-verspricht-bis-zu-40-prozent-mehr-tempo-2611-214826.html</guid>
       <description>Windows 11 hält bis zu 2 GByte mehr Daten im Arbeitsspeicher. Auf 8-GByte-PCs soll das Multitasking laut Microsoft dadurch bis zu 40 Prozent schneller laufen. (Windows 11, Microsoft)</description>
       <pubDate>Wed, 04 Nov 2026 08:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI als Hauptgrund genannt: Suse streicht jeden zehnten Job</title>
-      <link>https://www.golem.de/news/ki-als-hauptgrund-genannt-suse-streicht-jeden-zehnten-job-2611-214827.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-als-hauptgrund-genannt-suse-streicht-jeden-zehnten-job-2611-214827.html</guid>
-      <description>Der Stellenabbau soll laut dem Suse-CEO notwendig sein, um das Unternehmen nachhaltig aufzustellen. (Suse, Linux)</description>
-      <pubDate>Wed, 04 Nov 2026 08:28:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
