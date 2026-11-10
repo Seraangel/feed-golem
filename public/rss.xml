@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 07:40:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 07:50:15 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen erlernen</title>
+      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-erlernen-2611-215012.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-erlernen-2611-215012.html</guid>
+      <description>Linux-Systemadministration erfordert Kenntnisse in Shell, Dateisystemen und Diensten. Ein fünftägiger Online-Workshop vermittelt die Grundlagen für den Einstieg. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 10 Nov 2026 07:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adrenalin-Bug: Radeon-Treiber schreibt im Leerlauf ständig auf SSDs</title>
+      <link>https://www.golem.de/news/adrenalin-bug-radeon-treiber-schreibt-im-leerlauf-staendig-auf-ssds-2611-215020.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/adrenalin-bug-radeon-treiber-schreibt-im-leerlauf-staendig-auf-ssds-2611-215020.html</guid>
+      <description>AMD bestätigt den Fehler. Der Fix soll mit Adrenalin 26.11.1 kommen, bis dahin helfen nur Notlösungen. (Grafikkarten, AMD)</description>
+      <pubDate>Tue, 10 Nov 2026 07:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Yangwang Altior: BYD greift Rolls Royce mit elektrischem Luxusauto an</title>
       <link>https://www.golem.de/news/yangwang-altior-byd-greift-rolls-royce-mit-elektrischem-luxusauto-an-2611-215017.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-schon-zu-84-prozent-vergriffen-victorinox-mit-bis-zu-73-funktionen-im-amazon-angebot-2611-214816.html</guid>
       <description>Bei Amazon sind Schweizer Taschenmesser mit 13, 33 und 73 Funktionen befristet im Angebot. (Victorinox, Technik/Hardware)</description>
       <pubDate>Tue, 03 Nov 2026 18:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Boost Mobile: Elon Musk sucht mit neuem Zukauf die Mobilfunk-Hintertür</title>
-      <link>https://www.golem.de/news/boost-mobile-elon-musk-sucht-mit-neuem-zukauf-die-mobilfunk-hintertuer-2611-214815.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/boost-mobile-elon-musk-sucht-mit-neuem-zukauf-die-mobilfunk-hintertuer-2611-214815.html</guid>
-      <description>Musk will Starlink unbedingt zum Mobilfunkanbieter in den USA ausbauen. Nun verhandelt SpaceX über den Kauf eines MVNOs, um sich Netzkapazität zu sichern. Eine Analyse von Achim Sawall (SpaceX, Mobilfunk)</description>
-      <pubDate>Tue, 03 Nov 2026 17:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft 365: Identitäten, Geräte und Daten absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2611-214723.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2611-214723.html</guid>
-      <description>Microsoft 365 Security verbindet Identitäts-, Geräte- und Datenschutz. Ein dreitägiger Workshop vermittelt die Konfiguration der Sicherheitsdienste. (Golem Karrierewelt, Identitätsmanagement)</description>
-      <pubDate>Tue, 03 Nov 2026 17:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
