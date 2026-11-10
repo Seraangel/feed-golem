@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 06:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:40:17 GMT</lastBuildDate>
+    <item>
+      <title>Forefront-Konzept: Renault baut Boden-Drohne aus Autoteilen</title>
+      <link>https://www.golem.de/news/forefront-konzept-renault-baut-boden-drohne-aus-autoteilen-2611-215018.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/forefront-konzept-renault-baut-boden-drohne-aus-autoteilen-2611-215018.html</guid>
+      <description>Renault und John Cockerill zeigen mit Forefront einen modularen Bodenroboter, der zivile und militärische Einsätze verbinden soll. (Roboter, Auto)</description>
+      <pubDate>Tue, 10 Nov 2026 06:37:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic: Fable 5.2 und Mythos 5.2 legen deutlich zu</title>
       <link>https://www.golem.de/news/anthropic-fable-5-2-und-mythos-5-2-legen-deutlich-zu-2611-215015.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ugreen-steam-deck-dock-mit-neun-anschluessen-fuer-37-98-euro-bei-amazon-2611-214811.html</guid>
       <description>Das Ugreen Steam Deck Dock mit neun Anschlüssen für Handheld, Monitor, Smartphone, Speichermedien und Ethernet ist bei Amazon reduziert. (Dockingstation, Technik/Hardware)</description>
       <pubDate>Tue, 03 Nov 2026 17:05:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) MRAM statt DRAM: Neuer KI-Chip soll 98 Prozent weniger Strom verbrauchen</title>
-      <link>https://www.golem.de/news/mram-statt-dram-neuer-ki-chip-soll-98-prozent-weniger-strom-verbrauchen-2611-214806.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mram-statt-dram-neuer-ki-chip-soll-98-prozent-weniger-strom-verbrauchen-2611-214806.html</guid>
-      <description>Ein Toyota-Zulieferer hat einen KI-Chip entwickelt, der deutlich sparsamer und schneller arbeiten soll. Die Technik könnte die KI-Verarbeitung in Autos verbessern, berichtet Nikkei Asia. Von Shota Uehara (KI, Toyota)</description>
-      <pubDate>Tue, 03 Nov 2026 17:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
