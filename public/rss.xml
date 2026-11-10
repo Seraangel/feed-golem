@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 14:45:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:55:17 GMT</lastBuildDate>
+    <item>
+      <title>Sabotage in Supermärkten: Warum Hacker Kühlanlagen in ganz Europa angreifen können</title>
+      <link>https://www.golem.de/news/sabotage-in-supermaerkten-warum-hacker-kuehlanlagen-in-ganz-europa-angreifen-koennen-2611-215039.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sabotage-in-supermaerkten-warum-hacker-kuehlanlagen-in-ganz-europa-angreifen-koennen-2611-215039.html</guid>
+      <description>Öffentlich zugängliche Webinterfaces und bekannte Sicherheitslücken machen vernetzte Kontrollsysteme angreifbar, mit potenziell gravierenden Folgen weit über den Lebensmittelhandel hinaus. Ein Bericht von Stefan Beiersmann (Security, Cyberwar)</description>
+      <pubDate>Tue, 10 Nov 2026 14:52:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Simracing-Einstieg für 209 Euro - Logitech G923 zum Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-simracing-einstieg-fuer-209-euro-logitech-g923-zum-amazon-bestpreis-2611-215044.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rust-programmierung-wie-sich-mehrere-cpu-kerne-effizient-auslasten-lassen-2611-214843.html</guid>
       <description>Rust macht die parallele Verarbeitung einfach und sicher. Bibliotheken wie Rayon helfen dabei, mehrere Prozessorkerne effizient auszulasten. Eine Anleitung von Gerhard Völkl (Rust, Prozessor)</description>
       <pubDate>Wed, 04 Nov 2026 12:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prototyp: Mercedes testet holografisches Display</title>
-      <link>https://www.golem.de/news/prototyp-mercedes-testet-holografischen-display-2611-214840.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/prototyp-mercedes-testet-holografischen-display-2611-214840.html</guid>
-      <description>Im Forschungszentrum Sindelfingen hat Mercedes-Benz den Prototyp eines holografischen Displays vorgestellt. Noch hat die Technik Grenzen. (Mercedes Benz, Display)</description>
-      <pubDate>Wed, 04 Nov 2026 12:20:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
