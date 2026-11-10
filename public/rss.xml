@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 11:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:20:17 GMT</lastBuildDate>
+    <item>
+      <title>Kritische Infrastruktur: Verbände fordern Notfallnetz für Krisenkommunikation</title>
+      <link>https://www.golem.de/news/kritische-infrastruktur-verbaende-fordern-notfallnetz-fuer-krisenkommunikation-2611-215034.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kritische-infrastruktur-verbaende-fordern-notfallnetz-fuer-krisenkommunikation-2611-215034.html</guid>
+      <description>Kein Handyempfang, kein Internet - und trotzdem müssen Behörden im Krisenfall zusammenarbeiten. Wie kann das gelingen? (Infrastruktur, Verschlüsselung)</description>
+      <pubDate>Tue, 10 Nov 2026 11:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>Vor dem Börsengang: Wie riskant ist die Anthropic-Aktie?</title>
       <link>https://www.golem.de/news/vor-dem-boersengang-wie-riskant-ist-die-anthropic-aktie-2611-215031.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ohne-zustimmung-zu-ki-us-schulen-verlieren-zugriff-auf-google-suche-2611-214831.html</guid>
       <description>Wollen Schulen in den USA auf Googles KI-Integration verzichten, streicht der Konzern auch eine Kernfunktion aus seinen Schulanwendungen. (KI, Google)</description>
       <pubDate>Wed, 04 Nov 2026 10:08:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Passwortmanager mSecure: Nutzer sollen nach IT-Vorfall Hunderte Passwörter ändern</title>
-      <link>https://www.golem.de/news/passwortmanager-msecure-nutzer-sollen-nach-it-vorfall-hunderte-passwoerter-aendern-2611-214829.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/passwortmanager-msecure-nutzer-sollen-nach-it-vorfall-hunderte-passwoerter-aendern-2611-214829.html</guid>
-      <description>Ein Angreifer ist offenbar an eine verschlüsselte Datenbank von mSecure gelangt. Nutzer des Passwortmanagers sollten ihre Zugangsdaten erneuern. (Passwortmanager, Verschlüsselung)</description>
-      <pubDate>Wed, 04 Nov 2026 09:41:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
