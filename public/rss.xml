@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 10 Nov 2026 10:15:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 10:45:18 GMT</lastBuildDate>
+    <item>
+      <title>Rockstar Games: GTA 6 verursacht erste massive Traffic-Spitzen</title>
+      <link>https://www.golem.de/news/rockstar-games-gta-6-verursacht-erste-massive-traffic-spitzen-2611-215032.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-gta-6-verursacht-erste-massive-traffic-spitzen-2611-215032.html</guid>
+      <description>Der Preload von GTA 6 macht sich in den Netzen bemerkbar. Ein großer Provider meldet Golem einen zehnfachen Anstieg des Gaming-Datenverkehrs. (GTA 6, PSN)</description>
+      <pubDate>Tue, 10 Nov 2026 10:42:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Tablet Xiaomi Redmi Pad 2 Pro im frühen Black Friday Angebot</title>
       <link>https://www.golem.de/news/anzeige-tablet-xiaomi-redmi-pad-2-pro-im-fruehen-black-friday-angebot-2611-215030.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-sabrent-dual-nvme-dockingstation-mit-klonfunktion-jetzt-reduziert-bei-amazon-2611-214830.html</guid>
       <description>Das Sabrent Dual-NVMe-Gehäuse klont M.2-SSDs per Tastendruck, kühlt per Lüfter und macht den SSD-Umzug jetzt auch preislich leichter. (Technik/Hardware, Speichermedien)</description>
       <pubDate>Wed, 04 Nov 2026 09:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iter: Supraleitende Magnetspulen bestehen Testlauf bei -269 °C</title>
-      <link>https://www.golem.de/news/iter-supraleitende-magnetspulen-bestehen-testlauf-bei-269-c-2611-214824.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/iter-supraleitende-magnetspulen-bestehen-testlauf-bei-269-c-2611-214824.html</guid>
-      <description>Der magnetische Einschluss des Fusionsreaktors ist der entscheidende Teil von Iter. Die Feldspulen müssen gerade zeigen, dass sie funktionieren. (Iter, Kernfusion)</description>
-      <pubDate>Wed, 04 Nov 2026 09:26:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
