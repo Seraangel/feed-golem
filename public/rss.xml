@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 09:20:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:26:01 GMT</lastBuildDate>
+    <item>
+      <title>November-Patchday: Microsoft stopft erneut mehr als 1.000 Sicherheitslöcher</title>
+      <link>https://www.golem.de/news/november-patchday-microsoft-stopft-erneut-mehr-als-1-000-sicherheitsloecher-2611-215072.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/november-patchday-microsoft-stopft-erneut-mehr-als-1-000-sicherheitsloecher-2611-215072.html</guid>
+      <description>Darunter ist eine Zero-Day-Lücke in Outlook. Hacker nehmen die Schwachstelle bereits ins Visier. (Patchday, Microsoft)</description>
+      <pubDate>Wed, 11 Nov 2026 09:24:04 GMT</pubDate>
+    </item>
     <item>
       <title>Informationen falsch verknüpft: Googles KI-Suche diffamiert Bremer Anwalt</title>
       <link>https://www.golem.de/news/informationen-falsch-verknuepft-googles-ki-suche-diffamiert-bremer-anwalt-2611-215071.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-kuehlanlagen-franzoesischer-blutbank-manipuliert-2611-214875.html</guid>
       <description>Die französische Blutbank EFS meldet einen Hackerangriff auf ihre Kühltechnik. In den betroffenen Räumen lagern Blutprodukte und Proben. (Hacker, Cyberwar)</description>
       <pubDate>Thu, 05 Nov 2026 08:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Geschäftsreise planen: Praktische Tipps für mehr Effizienz</title>
-      <link>https://www.golem.de/news/anzeige-geschaeftsreise-planen-praktische-tipps-fuer-mehr-effizienz-2611-214783.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-geschaeftsreise-planen-praktische-tipps-fuer-mehr-effizienz-2611-214783.html</guid>
-      <description>Von der Buchung über Versicherung und Lounge bis zu Mobilität und Reisekosten: So holst du aus einer Geschäftsreise das Beste für dein Business raus. (Reisen, Wirtschaft)</description>
-      <pubDate>Thu, 05 Nov 2026 08:00:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
