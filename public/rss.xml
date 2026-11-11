@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 09:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:20:58 GMT</lastBuildDate>
+    <item>
+      <title>Informationen falsch verknüpft: Googles KI-Suche diffamiert Bremer Anwalt</title>
+      <link>https://www.golem.de/news/informationen-falsch-verknuepft-googles-ki-suche-diffamiert-bremer-anwalt-2611-215071.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/informationen-falsch-verknuepft-googles-ki-suche-diffamiert-bremer-anwalt-2611-215071.html</guid>
+      <description>Weil die Google-Suche einen Fernsehbericht falsch zuordnete, sind einem Anwalt in der KI-Zusammenfassung schwere Straftaten zugeschrieben worden. (KI, Google)</description>
+      <pubDate>Wed, 11 Nov 2026 09:15:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Neue 30 Jahre Pokémon Figuren-Kollektion für nur 36,99 Euro</title>
       <link>https://www.golem.de/news/anzeige-neue-30-jahre-pokemon-figuren-kollektion-fuer-nur-36-99-euro-2611-215070.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-geschaeftsreise-planen-praktische-tipps-fuer-mehr-effizienz-2611-214783.html</guid>
       <description>Von der Buchung über Versicherung und Lounge bis zu Mobilität und Reisekosten: So holst du aus einer Geschäftsreise das Beste für dein Business raus. (Reisen, Wirtschaft)</description>
       <pubDate>Thu, 05 Nov 2026 08:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schadcode-Attacken möglich: In Microsoft Paint klafft eine Zero-Click-Lücke</title>
-      <link>https://www.golem.de/news/schadcode-attacken-moeglich-in-microsoft-paint-klafft-eine-zero-click-luecke-2611-214873.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-in-microsoft-paint-klafft-eine-zero-click-luecke-2611-214873.html</guid>
-      <description>Angreifer können über Microsoft Paint Schadcode auf Windows-11-Systeme schleusen. Es gibt zwar einen Patch, aber der kommt bei vielen noch nicht an. (Sicherheitslücke, Microsoft)</description>
-      <pubDate>Thu, 05 Nov 2026 07:44:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
