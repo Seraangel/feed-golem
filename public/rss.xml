@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 13:11:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:31:00 GMT</lastBuildDate>
+    <item>
+      <title>Höchster Schweregrad: Adobe schließt kritische Lücken in Connect</title>
+      <link>https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html</guid>
+      <description>Die Lernumgebung Connect ist aus der Ferne und ohne Interaktion mit Nutzern angreifbar. (Patchday, Adobe)</description>
+      <pubDate>Wed, 11 Nov 2026 13:25:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Kopfhörer Soundcore Liberty 5 mit Dolby Audio reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-kopfhoerer-soundcore-liberty-5-mit-dolby-audio-reduziert-bei-amazon-2611-215091.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-samsung-tv-55-zoll-im-mobilfunktarif-mit-40-gbyte-fuer-einmalig-7-euro-bei-blau-2611-214897.html</guid>
       <description>Die Black Week wirft ihre Schatten voraus. Bei Blau gibt es einen Tarif mit 40 GByte und Samsung TV mit 55 Zoll als Black Deal für 7 Euro. (Blau.de, Samsung)</description>
       <pubDate>Thu, 05 Nov 2026 12:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kein Patch verfügbar: Gefährliche Android-Lücke kann Smartphones unbrauchbar machen</title>
-      <link>https://www.golem.de/news/kein-start-noetig-blosse-app-installation-kann-android-geraete-unbrauchbar-machen-2611-214896.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kein-start-noetig-blosse-app-installation-kann-android-geraete-unbrauchbar-machen-2611-214896.html</guid>
-      <description>Forscher haben eine gefährliche Android-Lücke aufgedeckt, mit der sich das System dauerhaft in eine Bootschleife versetzen lässt. Es droht Datenverlust. (Sicherheitslücke, Smartphone)</description>
-      <pubDate>Thu, 05 Nov 2026 12:45:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
