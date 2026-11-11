@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 09:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:01:13 GMT</lastBuildDate>
+    <item>
+      <title>Venice: AMDs Epyc 9006 setzen sich an die Spitze der Server-CPUs</title>
+      <link>https://www.golem.de/news/venice-amds-epyc-9006-setzen-sich-an-die-spitze-der-server-cpus-2611-215075.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/venice-amds-epyc-9006-setzen-sich-an-die-spitze-der-server-cpus-2611-215075.html</guid>
+      <description>AMD hat offiziell den Verkauf der Epyc 9006 gestartet. In ersten Benchmarks setzt sich die sechste Zen-Generation deutlich von der Konkurrenz ab. (Prozessor, AMD)</description>
+      <pubDate>Wed, 11 Nov 2026 09:58:07 GMT</pubDate>
+    </item>
     <item>
       <title>Solarzellen-Recycling: Bessere Batterien aus ausgedienten Solarmodulen</title>
       <link>https://www.golem.de/news/solarzellen-recycling-bessere-batterien-aus-ausgedienten-solarmodulen-2611-215074.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/openai-kauft-pierre-codex-erhaelt-open-source-entwicklungswerkzeuge-2611-214878.html</guid>
       <description>Mit der Übernahme der Pierre Computer Company treibt OpenAI den Ausbau von Codex zur vollständigen KI-Entwicklersuite voran. (KI, Versionsverwaltung)</description>
       <pubDate>Thu, 05 Nov 2026 09:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI: Nach RAM-Kritik will Altman Arbeitsspeicher für alle</title>
-      <link>https://www.golem.de/news/openai-nach-ram-kritik-will-altman-arbeitsspeicher-fuer-alle-2611-214877.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/openai-nach-ram-kritik-will-altman-arbeitsspeicher-fuer-alle-2611-214877.html</guid>
-      <description>Altman sieht seine Podcast-Aussage zu Arbeitsspeicher missverstanden. Nutzer sollen so viel RAM einbauen können, wie sie wollen. (Sam Altman, KI)</description>
-      <pubDate>Thu, 05 Nov 2026 08:36:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
