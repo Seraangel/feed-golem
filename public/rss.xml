@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 11:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:15:57 GMT</lastBuildDate>
+    <item>
+      <title>Bestellstopp für EQE und EQS SUV: Mercedes lässt elektrische Oberklasse-Modelle auslaufen</title>
+      <link>https://www.golem.de/news/bestellstopp-fuer-eqe-und-eqs-suv-mercedes-laesst-elektrische-oberklasse-modelle-auslaufen-2611-215080.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bestellstopp-fuer-eqe-und-eqs-suv-mercedes-laesst-elektrische-oberklasse-modelle-auslaufen-2611-215080.html</guid>
+      <description>Mit EQE und EQS setzte Mercedes auf effiziente Elektromobilität in der Oberklasse. Doch von vier Modellen ist nur noch eines bestellbar. (Elektroauto, Akku)</description>
+      <pubDate>Wed, 11 Nov 2026 11:14:02 GMT</pubDate>
+    </item>
     <item>
       <title>Die Ringe der Macht - Staffel 3: Endlich bekommen wir das Mittelerde-Epos, das wir wollten!</title>
       <link>https://www.golem.de/news/die-ringe-der-macht-staffel-3-endlich-bekommen-wir-das-mittelerde-epos-das-wir-wollten-2611-215078.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-mikrofon-fuer-streaming-und-gaming-reduziert-bei-amazon-2611-214886.html</guid>
       <description>Amazon hat ein Mikrofon mit Schwenkarm und Rauschunterdrückung im Angebot, das für Streaming und Gaming über USB und XLR geeignet ist. (Technik/Hardware)</description>
       <pubDate>Thu, 05 Nov 2026 10:29:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mit KI-Agenten: OpenAI will in Linux-System fast 1.000 Root-Lücken gefunden haben</title>
-      <link>https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html</guid>
-      <description>Laut OpenAI haben KI-Agenten bei internen Tests 948 Root-Lücken in einem Linux-System aufgedeckt - und obendrein passende Patches entwickelt. (Sicherheitslücke, Linux-Kernel)</description>
-      <pubDate>Thu, 05 Nov 2026 10:17:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
