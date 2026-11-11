@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 08:36:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 08:56:01 GMT</lastBuildDate>
+    <item>
+      <title>3.900 komprimierte Datensätze: Uni Tübingen meldet Sicherheitsvorfall</title>
+      <link>https://www.golem.de/news/3-900-komprimierte-datensaetze-uni-tuebingen-meldet-sicherheitsvorfall-2611-215069.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/3-900-komprimierte-datensaetze-uni-tuebingen-meldet-sicherheitsvorfall-2611-215069.html</guid>
+      <description>Als Einfallstor dient eine Sicherheitslücke, die sich aus einer empfohlenen Softwarekonfiguration ergibt. Betroffen sind Mitarbeiter der Uni. (Cybercrime, Datenschutz)</description>
+      <pubDate>Wed, 11 Nov 2026 08:54:10 GMT</pubDate>
+    </item>
     <item>
       <title>Reddit Reviews: Reddit wird zum Produktbewertungsportal</title>
       <link>https://www.golem.de/news/reddit-reviews-reddit-wird-zum-produktbewertungsportal-2611-215068.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/smart-reports-admins-sehen-wie-viel-claude-nutzung-privat-ist-2611-214874.html</guid>
       <description>Anthropic wertet Teamgespräche in Claude Enterprise aus. Admins sehen Kosten und Themen, Namen bleiben standardmäßig verborgen. (Claude, KI)</description>
       <pubDate>Thu, 05 Nov 2026 07:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sven Knapp: Breko warnt vor Schein-Verhandlungen beim Open Access</title>
-      <link>https://www.golem.de/news/sven-knapp-breko-warnt-vor-schein-verhandlungen-beim-open-access-2611-214872.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sven-knapp-breko-warnt-vor-schein-verhandlungen-beim-open-access-2611-214872.html</guid>
-      <description>Der Bundestag debattiert über die Novelle des Telekommunikationsgesetzes - doch aus Sicht der alternativen Netzbetreiber steuert das Gesetz laut Breko gegen die eigenen Ziele. (Breko, Open Access)</description>
-      <pubDate>Wed, 04 Nov 2026 23:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
