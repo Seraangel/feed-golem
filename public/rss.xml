@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 07:45:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:55:58 GMT</lastBuildDate>
+    <item>
+      <title>Polestar 4 SUV: Polestar muss raus aus der Premium-Nische</title>
+      <link>https://www.golem.de/news/polestar-4-suv-polestar-muss-raus-aus-der-premium-nische-2611-214999.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/polestar-4-suv-polestar-muss-raus-aus-der-premium-nische-2611-214999.html</guid>
+      <description>Als Absatzmarkt bleibt Polestar nur Europa. Es müssen schnell Modelle folgen, die sich in hohen Stückzahlen verkaufen, sonst fressen die Schulden das Unternehmen auf. Ein Bericht von Dirk Kunde (Elektroauto, Auto)</description>
+      <pubDate>Wed, 11 Nov 2026 07:50:11 GMT</pubDate>
+    </item>
     <item>
       <title>iFixit-Teardown: Vier LEDs bringen das leuchtende Apple-Logo zurück</title>
       <link>https://www.golem.de/news/ifixit-teardown-vier-leds-bringen-das-leuchtende-apple-logo-zurueck-2611-215066.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/5g-sicherheit-bundesbehoerden-widersprechen-sich-bei-5g-risiken-deutlich-2611-214867.html</guid>
       <description>Das Handelsblatt sieht "neue Huawei-Verbote" kommen. Doch die zuständigen Bundesbehörden widersprechen sich und die Verfassung setzt hohe Hürden. Eine Analyse von Achim Sawall (Huawei, Mobilfunk)</description>
       <pubDate>Wed, 04 Nov 2026 18:16:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Desktop-Anwendungen mit Python und Qt entwickeln</title>
-      <link>https://www.golem.de/news/anzeige-desktop-anwendungen-mit-python-und-qt-entwickeln-2611-214819.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-desktop-anwendungen-mit-python-und-qt-entwickeln-2611-214819.html</guid>
-      <description>Python und Qt verbinden Desktop-Oberflächen mit plattformunabhängiger Entwicklung. Ein Workshop vermittelt die Umsetzung anhand einer Task-Manager-App. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Wed, 04 Nov 2026 17:45:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
