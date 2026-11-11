@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 12:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:36:00 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Softwareentwicklung: KI schreibt immer mehr Code - was bleibt für Entwickler?</title>
+      <link>https://www.golem.de/news/softwareentwicklung-ki-schreibt-immer-mehr-code-was-bleibt-fuer-entwickler-2611-215040.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-ki-schreibt-immer-mehr-code-was-bleibt-fuer-entwickler-2611-215040.html</guid>
+      <description>KI schreibt immer mehr Code. Studien zeigen, welche Aufgaben Entwickler abgeben und wo ihre eigene Arbeit weiterhin entscheidend bleibt. Ein Ratgebertext von Klaus Manhart (Stirbt das Coding?, KI)</description>
+      <pubDate>Wed, 11 Nov 2026 12:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Doppeltes Datenvolumen zur Black Week im CallYa Jahrespaket M von Vodafone</title>
       <link>https://www.golem.de/news/anzeige-doppeltes-datenvolumen-zur-black-week-im-callya-jahrespaket-m-von-vodafone-2611-215060.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/entwicklungszentrum-eroeffnet-tesla-buendelt-30-testlabore-in-berlin-2611-214894.html</guid>
       <description>Nach weniger als einem Jahr Bauzeit hat Tesla sein Entwicklungszentrum in Berlin eröffnet. Es soll vier bisherige Standorte vereinen. (Tesla, Technologie)</description>
       <pubDate>Thu, 05 Nov 2026 11:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tim Höttges: Kein einziges "Sicherheitsproblem mit unseren chinesischen Partnern"</title>
-      <link>https://www.golem.de/news/tim-hoettges-kein-einziges-sicherheitsproblem-mit-unseren-chinesischen-partnern-2611-214892.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/tim-hoettges-kein-einziges-sicherheitsproblem-mit-unseren-chinesischen-partnern-2611-214892.html</guid>
-      <description>Konzernchef Tim Höttges setzt auf technische Fakten gegen Verbotsforderungen zu Huawei. Den Cyber Security Act lehnt er ab und verweist auf gültige Verträge. (Security, Telekom)</description>
-      <pubDate>Thu, 05 Nov 2026 11:44:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
