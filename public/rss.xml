@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 10:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:05:59 GMT</lastBuildDate>
+    <item>
+      <title>Die Ringe der Macht - Staffel 3: Endlich bekommen wir das Mittelerde-Epos, das wir wollten!</title>
+      <link>https://www.golem.de/news/die-ringe-der-macht-staffel-3-endlich-bekommen-wir-das-mittelerde-epos-das-wir-wollten-2611-215078.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/die-ringe-der-macht-staffel-3-endlich-bekommen-wir-das-mittelerde-epos-das-wir-wollten-2611-215078.html</guid>
+      <description>Düsterer, größer, packender: In Staffel 3 von Die Ringe der Macht greifen alle Handlungsstränge ineinander. Aus dem zähen Aufbau wird ein gewaltiges Mittelerde-Epos. Eine Rezension von Peter Osteried (Der Herr der Ringe, Streaming)</description>
+      <pubDate>Wed, 11 Nov 2026 11:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Nach Sicherheitsvorfall mit OpenAI: Australien prüft Straftatbestand gegen unsichere KI</title>
       <link>https://www.golem.de/news/nach-sicherheitsvorfall-mit-openai-australien-prueft-straftatbestand-gegen-unsichere-ki-2611-215079.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mit-ki-agenten-openai-will-in-linux-system-fast-1-000-root-luecken-gefunden-haben-2611-214884.html</guid>
       <description>Laut OpenAI haben KI-Agenten bei internen Tests 948 Root-Lücken in einem Linux-System aufgedeckt - und obendrein passende Patches entwickelt. (Sicherheitslücke, Linux-Kernel)</description>
       <pubDate>Thu, 05 Nov 2026 10:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speicherkrise: KI-Boom gefährdet Spielmodule für Nintendo Switch</title>
-      <link>https://www.golem.de/news/speicherkrise-ki-boom-gefaehrdet-spielmodule-fuer-nintendo-switch-2611-214883.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/speicherkrise-ki-boom-gefaehrdet-spielmodule-fuer-nintendo-switch-2611-214883.html</guid>
-      <description>Ein wichtiger Chiphersteller verabschiedet sich von Nintendo-Spielmodulen. Publisher könnten stärker auf Downloads setzen. (Nintendo Switch 2, Nintendo)</description>
-      <pubDate>Thu, 05 Nov 2026 09:58:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
