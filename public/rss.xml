@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 11 Nov 2026 08:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:16:02 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Neue 30 Jahre Pokémon Figuren-Kollektion für nur 36,99 Euro</title>
+      <link>https://www.golem.de/news/anzeige-neue-30-jahre-pokemon-figuren-kollektion-fuer-nur-36-99-euro-2611-215070.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-neue-30-jahre-pokemon-figuren-kollektion-fuer-nur-36-99-euro-2611-215070.html</guid>
+      <description>Während die Preise teils über 100 Euro steigen, bietet Amazon die 30-Jahre-Pokémon-Figuren-Kollektionen noch für jeweils nur 36,99 Euro an. (Pokémon, Amazon)</description>
+      <pubDate>Wed, 11 Nov 2026 09:11:02 GMT</pubDate>
+    </item>
     <item>
       <title>3.900 komprimierte Datensätze: Uni Tübingen meldet Sicherheitsvorfall</title>
       <link>https://www.golem.de/news/3-900-komprimierte-datensaetze-uni-tuebingen-meldet-sicherheitsvorfall-2611-215069.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-in-microsoft-paint-klafft-eine-zero-click-luecke-2611-214873.html</guid>
       <description>Angreifer können über Microsoft Paint Schadcode auf Windows-11-Systeme schleusen. Es gibt zwar einen Patch, aber der kommt bei vielen noch nicht an. (Sicherheitslücke, Microsoft)</description>
       <pubDate>Thu, 05 Nov 2026 07:44:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smart Reports: Admins sehen, wie viel Claude-Nutzung privat ist</title>
-      <link>https://www.golem.de/news/smart-reports-admins-sehen-wie-viel-claude-nutzung-privat-ist-2611-214874.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/smart-reports-admins-sehen-wie-viel-claude-nutzung-privat-ist-2611-214874.html</guid>
-      <description>Anthropic wertet Teamgespräche in Claude Enterprise aus. Admins sehen Kosten und Themen, Namen bleiben standardmäßig verborgen. (Claude, KI)</description>
-      <pubDate>Thu, 05 Nov 2026 07:35:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
