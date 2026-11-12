@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 08:40:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:20:28 GMT</lastBuildDate>
+    <item>
+      <title>Songs of the Past: KI gibt dem Witcher seine alte Stimme zurück</title>
+      <link>https://www.golem.de/news/songs-of-the-past-ki-gibt-dem-witcher-seine-alte-stimme-zurueck-2611-215118.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/songs-of-the-past-ki-gibt-dem-witcher-seine-alte-stimme-zurueck-2611-215118.html</guid>
+      <description>Nach einem Schlaganfall klingt Geralts polnischer Synchronsprecher anders als früher. Für neue Inhalte von The Witcher 3 hilft künstliche Intelligenz. (The Witcher 3, Rollenspiel)</description>
+      <pubDate>Thu, 12 Nov 2026 09:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>Nachfolge-Debatte: Zwei Manager könnten Jensen Huang als Nvidia-Chef ablösen</title>
       <link>https://www.golem.de/news/nachfolge-debatte-zwei-manager-koennten-jensen-huang-als-nvidia-chef-abloesen-2611-215117.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kundendaten-abgeflossen-digicert-bestaetigt-datenpanne-nach-systemumzug-2611-214916.html</guid>
       <description>Bei Digicert hat ein unbefugter Akteur nach dem Umzug eines internen IT-Systems Kundendaten abgreifen können. Auch Ausweisdokumente sind betroffen. (Datenleck, Sicherheitslücke)</description>
       <pubDate>Fri, 06 Nov 2026 07:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rundfunkbeitrag: Ab Mitte Dezember droht Post vom Beitragsservice</title>
-      <link>https://www.golem.de/news/rundfunkbeitrag-ab-mitte-dezember-droht-post-vom-beitragsservice-2611-214915.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rundfunkbeitrag-ab-mitte-dezember-droht-post-vom-beitragsservice-2611-214915.html</guid>
-      <description>Am 8. November 2026 startet der vierte bundesweite Meldedatenabgleich. Wer keiner angemeldeten Wohnung zugeordnet wird, erhält Post. (Rundfunkbeitrag, QR-Code)</description>
-      <pubDate>Fri, 06 Nov 2026 07:32:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
