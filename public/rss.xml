@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 07:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:35:31 GMT</lastBuildDate>
+    <item>
+      <title>Führungskrise bei Nvidia: Musk würde Jensen Huang gern einstellen</title>
+      <link>https://www.golem.de/news/fuehrungskrise-bei-nvidia-musk-wuerde-jensen-huang-gern-einstellen-2611-215116.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fuehrungskrise-bei-nvidia-musk-wuerde-jensen-huang-gern-einstellen-2611-215116.html</guid>
+      <description>Nvidias Vorstand berät über die Abberufung von Jensen Huang. Elon Musk sagt, ihn einzustellen wäre eine Ehre. (Nvidia, Wirtschaft)</description>
+      <pubDate>Thu, 12 Nov 2026 07:34:07 GMT</pubDate>
+    </item>
     <item>
       <title>Ring: Amazon entwickelt Überwachungsdrohnen für Zuhause</title>
       <link>https://www.golem.de/news/ring-amazon-entwickelt-ueberwachungsdrohnen-fuer-zuhause-2611-215112.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html</guid>
       <description>Die händische Auswertung von Ermittlungsunterlagen ist zeitraubend: Dabei nutzen Behörden jetzt eine eigene KI, das beschleunigt die Arbeit. (KI, Finanzsoftware)</description>
       <pubDate>Fri, 06 Nov 2026 06:21:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Copilot im Unternehmen gezielt einsetzen</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2611-214911.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-copilot-im-unternehmen-gezielt-einsetzen-2611-214911.html</guid>
-      <description>Microsoft Copilot kann Arbeitsabläufe unterstützen. Ein Online-Workshop zeigt, wie Unternehmen KI-Anwendungen integrieren und geeignete Einsatzszenarien entwickeln. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Fri, 06 Nov 2026 06:15:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
