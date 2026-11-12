@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 07:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 08:05:25 GMT</lastBuildDate>
+    <item>
+      <title>Schweitzers Reformplan: Längere Befristungen, weniger Kündigungsschutz</title>
+      <link>https://www.golem.de/news/schweitzers-reformplan-laengere-befristungen-weniger-kuendigungsschutz-2611-215115.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schweitzers-reformplan-laengere-befristungen-weniger-kuendigungsschutz-2611-215115.html</guid>
+      <description>Bundesarbeitsminister Alexander Schweitzer will Befristungen ausweiten, Sonntagsarbeit erleichtern und den Kündigungsschutz für Topverdiener lockern. (Arbeit, Wirtschaft)</description>
+      <pubDate>Thu, 12 Nov 2026 08:01:07 GMT</pubDate>
+    </item>
     <item>
       <title>Führungskrise bei Nvidia: Elon Musk würde Jensen Huang gern einstellen</title>
       <link>https://www.golem.de/news/fuehrungskrise-bei-nvidia-musk-wuerde-jensen-huang-gern-einstellen-2611-215116.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ki-boom-neue-mega-rechenzentren-bedrohen-trinkwasserversorgung-2611-214913.html</guid>
       <description>Der Wasserbedarf deutscher KI-Rechenzentren könnte sich bis 2030 mehr als verdoppeln. Die Politik soll gegenlenken. (KI, Rechenzentrum)</description>
       <pubDate>Fri, 06 Nov 2026 06:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Finanzkriminalität: KI filtert aus Millionen Dateien die entscheidenden Spuren heraus</title>
-      <link>https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/finanzkriminalitaet-ki-filtert-aus-millionen-dateien-die-entscheidenden-spuren-heraus-2611-214912.html</guid>
-      <description>Die händische Auswertung von Ermittlungsunterlagen ist zeitraubend: Dabei nutzen Behörden jetzt eine eigene KI, das beschleunigt die Arbeit. (KI, Finanzsoftware)</description>
-      <pubDate>Fri, 06 Nov 2026 06:21:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
