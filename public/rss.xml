@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 10:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:50:27 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheitsupdate: Google stopft fünf kritische Löcher in Chrome</title>
+      <link>https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html</guid>
+      <description>Chrome ist anfällig für eine Remotecodeausführung außerhalb der Sandbox. Angreifbar ist der Browser unter Windows, MacOS und Linux. (Chrome, Google)</description>
+      <pubDate>Thu, 12 Nov 2026 10:48:07 GMT</pubDate>
+    </item>
     <item>
       <title>1.040 Qubits: IBMs erster Dual-Socket-Quantencomputer kommt 2027</title>
       <link>https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-praktische-tracker-karte-fuer-die-geldboerse-jetzt-nur-17-euro-amazon-2611-214923.html</guid>
       <description>Die Tracker-Karte ist so dünn wie zwei Bankkarten und verschwindet mühelos im Portemonnaie. Sie meldet den Standort ans iPhone. (Technik/Hardware)</description>
       <pubDate>Fri, 06 Nov 2026 09:37:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Retrogaming: EA restauriert Wing Commander und Road Rash</title>
-      <link>https://www.golem.de/news/retrogaming-ea-restauriert-wing-commander-und-road-rash-2611-214925.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/retrogaming-ea-restauriert-wing-commander-und-road-rash-2611-214925.html</guid>
-      <description>Theme Hospital, Crusader und Privateer: Electronic Arts hat Klassiker neu veröffentlicht. Sieben Titel sind aufwendig restauriert worden. (Wing Commander, Electronic Arts)</description>
-      <pubDate>Fri, 06 Nov 2026 09:30:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
