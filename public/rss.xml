@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 11:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:20:32 GMT</lastBuildDate>
+    <item>
+      <title>Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen</title>
+      <link>https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html</guid>
+      <description>Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. (Gigafactory Berlin, Elektroauto)</description>
+      <pubDate>Thu, 12 Nov 2026 11:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Smartes Heizkörperthermostat mit Hub zum Sparpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-smartes-heizkoerperthermostat-mit-hub-zum-sparpreis-bei-amazon-2611-215128.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fehler-bei-passwortpruefung-angreifer-koennen-ueber-openssh-linux-konten-kapern-2611-214928.html</guid>
       <description>Einige Linux-Systeme lassen sich durch sehr lange Passworteingaben über SSH infiltrieren, manchmal sogar mit Root-Zugriff. Angreifer nutzen das bereits aus. (Sicherheitslücke, Linux)</description>
       <pubDate>Fri, 06 Nov 2026 10:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jason Momoas Synchronsprecher klagt: Netflix verwendet deutsche Stimme unerlaubt für KI-Training</title>
-      <link>https://www.golem.de/news/jason-momoas-synchronsprecher-klagt-netflix-verwendet-deutsche-stimme-unerlaubt-fuer-ki-training-2611-214929.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/jason-momoas-synchronsprecher-klagt-netflix-verwendet-deutsche-stimme-unerlaubt-fuer-ki-training-2611-214929.html</guid>
-      <description>Netflix hat die Stimme von mindestens einem Synchronsprecher ohne Zustimmung für KI-Training genutzt. Dagegen wehrt sich nun ein Betroffener. (Netflix, Urheberrecht)</description>
-      <pubDate>Fri, 06 Nov 2026 10:20:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
