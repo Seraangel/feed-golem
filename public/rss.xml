@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 06:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 06:20:31 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: STACKIT Cloud: Souveräne Cloud-Strategien entwickeln</title>
+      <link>https://www.golem.de/news/anzeige-stackit-cloud-souveraene-cloud-strategien-entwickeln-2611-215109.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-stackit-cloud-souveraene-cloud-strategien-entwickeln-2611-215109.html</guid>
+      <description>Datensouveränität und Cloud-Governance stellen Unternehmen vor neue Anforderungen. Ein Workshop zeigt die Möglichkeiten von STACKIT und den Vergleich mit Hyperscalern. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Thu, 12 Nov 2026 06:15:10 GMT</pubDate>
+    </item>
     <item>
       <title>Aus nach 28 Jahren: Apple schließt Support-Community</title>
       <link>https://www.golem.de/news/aus-nach-28-jahren-apple-schliesst-support-community-2611-215114.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/telekom-chef-tim-hoettges-musk-kann-fuer-spacex-mobilfunk-nicht-ueber-wasser-gehen-2611-214910.html</guid>
       <description>Telekom-Chef Höttges rechnet fest damit, dass Elon Musk mit SpaceX ein viertes US-Mobilfunknetz aufbauen wird und auch nach Europa strebt. (Elon Musk, Telekom)</description>
       <pubDate>Thu, 05 Nov 2026 17:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: KI-Governance: Risiken bewerten und Zuständigkeiten klären</title>
-      <link>https://www.golem.de/news/anzeige-ki-governance-risiken-bewerten-und-zustaendigkeiten-klaeren-2611-214870.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ki-governance-risiken-bewerten-und-zustaendigkeiten-klaeren-2611-214870.html</guid>
-      <description>KI-Governance erfordert klare Zuständigkeiten und bewertete Risiken. Ein Online-Workshop vermittelt Grundlagen für Freigaben, Kontrollen und Compliance. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Thu, 05 Nov 2026 17:45:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
