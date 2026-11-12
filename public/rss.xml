@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 10:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:40:35 GMT</lastBuildDate>
+    <item>
+      <title>1.040 Qubits: IBMs erster Dual-Socket-Quantencomputer kommt 2027</title>
+      <link>https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html</guid>
+      <description>IBM arbeitet an einem Quantencomputer mit zwei Nighthawk-r3-Chips. Die sollen über mehr und stabilere Qubits verfügen als die aktuelle Generation. (Quantencomputer, IBM)</description>
+      <pubDate>Thu, 12 Nov 2026 10:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>Patch Tuesday: Neuer Windows-11-Patch installiert nicht</title>
       <link>https://www.golem.de/news/patch-tuesday-neuer-windows-11-patch-installiert-nicht-2611-215124.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/retrogaming-ea-restauriert-wing-commander-und-road-rash-2611-214925.html</guid>
       <description>Theme Hospital, Crusader und Privateer: Electronic Arts hat Klassiker neu veröffentlicht. Sieben Titel sind aufwendig restauriert worden. (Wing Commander, Electronic Arts)</description>
       <pubDate>Fri, 06 Nov 2026 09:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cybercrime: US-Behörden warnen vor Angriffen auf Kühlanlagen weltweit</title>
-      <link>https://www.golem.de/news/cybercrime-us-behoerden-warnen-vor-angriffen-auf-kuehlanlagen-weltweit-2611-214924.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cybercrime-us-behoerden-warnen-vor-angriffen-auf-kuehlanlagen-weltweit-2611-214924.html</guid>
-      <description>Cyberkriminelle können aus der Ferne die Temperatur in Kühlanlagen erhöhen. Nun schlagen US-Behörden Alarm und warnen vor einer weltweiten Gefahr. (Cybercrime, Fernwartung)</description>
-      <pubDate>Fri, 06 Nov 2026 09:22:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
