@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 13:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:50:28 GMT</lastBuildDate>
+    <item>
+      <title>Rückschritt: Humble Bundle schwächt Sicherheit seiner Website</title>
+      <link>https://www.golem.de/news/rueckschritt-humble-bundle-schwaecht-sicherheit-seiner-website-2611-215137.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rueckschritt-humble-bundle-schwaecht-sicherheit-seiner-website-2611-215137.html</guid>
+      <description>Beim Relaunch der Humble-Bundle-Webseite streichen die Entwickler unter anderem die Anmeldung in zwei Schritten - ohne Vorankündigung. (2-FA, Passwort)</description>
+      <pubDate>Thu, 12 Nov 2026 13:49:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Smarter Mini-Beamer mit Akku zum Jahrestiefstpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-smarter-mini-beamer-mit-akku-zum-jahrestiefstpreis-bei-amazon-2611-215138.html</link>
@@ -83,7 +90,7 @@
       <pubDate>Thu, 12 Nov 2026 11:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen</title>
+      <title>Kapazitäten erreicht: Zweite Tesla-Fabrik in Grünheide steht auf der Kippe</title>
       <link>https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html</guid>
       <description>Die Kapazitäten der Gigafactory in Grünheide stoßen an ihr Limit. Eine mögliche Erweiterung ist jedoch nicht für das Tesla Model Y geplant. (Gigafactory Berlin, Elektroauto)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/us-rechenzentren-unter-druck-europas-chance-auf-ki-milliarden-2611-214941.html</guid>
       <description>Immer mehr US-Bürger wehren sich gegen neue Rechenzentren. Milliardeninvestitionen könnten deshalb nach Europa fließen, doch auch hier ist der Strom knapp. Eine Analyse von Mike Faust (KI, Rechenzentrum)</description>
       <pubDate>Fri, 06 Nov 2026 15:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Faltbare Tastatur plus flache Maus für Smartphones</title>
-      <link>https://www.golem.de/news/anzeige-faltbare-tastatur-plus-flache-maus-fuer-smartphones-2611-214943.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-faltbare-tastatur-plus-flache-maus-fuer-smartphones-2611-214943.html</guid>
-      <description>Unterwegs im Zug, im Flugzeug oder im Café tippen, das geht mit einer faltbaren Tastatur, die es gerade bei Amazon günstiger gibt. (Tastatur, Eingabegerät)</description>
-      <pubDate>Fri, 06 Nov 2026 13:48:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
