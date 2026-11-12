@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 17:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:20:29 GMT</lastBuildDate>
+    <item>
+      <title>Ausblick 2027: Großteil der KI-Ausgaben fließt weiter in die Infrastruktur</title>
+      <link>https://www.golem.de/news/ausblick-2027-grossteil-der-ki-ausgaben-fliesst-weiter-in-die-infrastruktur-2611-215155.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ausblick-2027-grossteil-der-ki-ausgaben-fliesst-weiter-in-die-infrastruktur-2611-215155.html</guid>
+      <description>Ein zirkulärer Markt: Während Hyperscaler Milliarden in KI-Hardware investieren, machen direkte Ausgaben für KI-Modelle nur einen winzigen Bruchteil aus. (Gartner, Studien)</description>
+      <pubDate>Thu, 12 Nov 2026 17:18:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Mini-LED-Gaming-Monitor mit 27 Zoll und 320 Hz von TCL günstig wie nie</title>
       <link>https://www.golem.de/news/anzeige-mini-led-gaming-monitor-mit-27-zoll-und-320-hz-von-tcl-guenstig-wie-nie-2611-215154.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/surveillance-pricing-wie-weit-duerfen-haendler-preise-personalisieren-2611-214937.html</guid>
       <description>Ein Produkt, zwei Kunden, zwei unterschiedliche Preise: Wir erklären, wann Händler in der EU Kundendaten zur Preisgestaltung nutzen dürfen und wo Datenschutz- und Verbraucherrecht Grenzen setzen. Eine Analyse von Nils Matthiesen (Verbraucherschutz, KI)</description>
       <pubDate>Sat, 07 Nov 2026 09:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flughafen Leipzig: BKA sucht mit KI-Bild nach mutmaßlichem Drohnenangreifer</title>
-      <link>https://www.golem.de/news/leipzig-fahnder-suchen-mutmasslichen-drohnen-taeter-mit-ki-gesicht-2611-214948.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/leipzig-fahnder-suchen-mutmasslichen-drohnen-taeter-mit-ki-gesicht-2611-214948.html</guid>
-      <description>Die ukrainische Transportmaschine wurde mit einer Sprengstoffdrohne attackiert. Die Ermittler vermuten russische Sabotage. (KI, Security)</description>
-      <pubDate>Sat, 07 Nov 2026 08:26:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
