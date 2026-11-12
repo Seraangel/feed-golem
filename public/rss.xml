@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 09:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:35:30 GMT</lastBuildDate>
+    <item>
+      <title>Ungewöhnliche Aktivitäten: Lego schaltet seinen Marktplatz Bricklink ab</title>
+      <link>https://www.golem.de/news/ungewoehnliche-aktivitaeten-lego-schaltet-seinen-marktplatz-bricklink-ab-2611-215119.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ungewoehnliche-aktivitaeten-lego-schaltet-seinen-marktplatz-bricklink-ab-2611-215119.html</guid>
+      <description>Der Markplatz ist bereits seit Anfang der Woche offline. Lego ermittelt weiterhin die Ursachen für die Aktivitäten. (Lego, Security)</description>
+      <pubDate>Thu, 12 Nov 2026 09:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ask Me Anything am 26.11.: Wie viel KI verträgt die Softwareentwicklung?</title>
+      <link>https://www.golem.de/news/ask-me-anything-am-26-11-wie-viel-ki-vertraegt-die-softwareentwicklung-2611-215098.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ask-me-anything-am-26-11-wie-viel-ki-vertraegt-die-softwareentwicklung-2611-215098.html</guid>
+      <description>Welche Entwicklungsaufgaben lassen sich sinnvoll an KI delegieren und unter welchen Voraussetzungen? Im Live-AMA gibt Experte Fabian Deitelhoff praktische Tipps. (KI, Softwareentwicklung)</description>
+      <pubDate>Thu, 12 Nov 2026 09:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Songs of the Past: KI gibt dem Witcher seine alte Stimme zurück</title>
       <link>https://www.golem.de/news/songs-of-the-past-ki-gibt-dem-witcher-seine-alte-stimme-zurueck-2611-215118.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sicherheitsluecke-in-der-firmware-php2shell-bleibt-in-firewalls-und-industriegeraeten-gefaehrlich-2611-214898.html</guid>
       <description>Bei Firewalls, Routern und Industrieanlagen können Admins verwundbares PHP oft nicht selbst patchen. Selbst nach einem Update bleibt deshalb Handlungsbedarf. Ein Ratgebertext von Steffen Zahn (Security, PHP)</description>
       <pubDate>Fri, 06 Nov 2026 08:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Switch-2-Emulation: Zelda läuft per Emulator schon jetzt auf PCs</title>
-      <link>https://www.golem.de/news/switch-2-emulation-zelda-laeuft-per-emulator-schon-jetzt-auf-pcs-2611-214917.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/switch-2-emulation-zelda-laeuft-per-emulator-schon-jetzt-auf-pcs-2611-214917.html</guid>
-      <description>Der Emulator Lichii startet Ocarina of Time zeitgleich mit dem Release. Grafikfehler und Ruckler bremsen das Remake allerdings noch aus. (Zelda, Nintendo)</description>
-      <pubDate>Fri, 06 Nov 2026 08:07:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kundendaten abgeflossen: Digicert bestätigt Datenpanne nach Systemumzug</title>
-      <link>https://www.golem.de/news/kundendaten-abgeflossen-digicert-bestaetigt-datenpanne-nach-systemumzug-2611-214916.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kundendaten-abgeflossen-digicert-bestaetigt-datenpanne-nach-systemumzug-2611-214916.html</guid>
-      <description>Bei Digicert hat ein unbefugter Akteur nach dem Umzug eines internen IT-Systems Kundendaten abgreifen können. Auch Ausweisdokumente sind betroffen. (Datenleck, Sicherheitslücke)</description>
-      <pubDate>Fri, 06 Nov 2026 07:56:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
