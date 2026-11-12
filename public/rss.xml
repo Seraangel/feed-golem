@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 11:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:35:29 GMT</lastBuildDate>
+    <item>
+      <title>Mittelsfrau statt Spionin: Megaspeed folgt in China verbreitetem Geschäftsmodell</title>
+      <link>https://www.golem.de/news/mittelsfrau-statt-spionin-megaspeed-folgt-in-china-verbreitetem-geschaeftsmodell-2611-215130.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mittelsfrau-statt-spionin-megaspeed-folgt-in-china-verbreitetem-geschaeftsmodell-2611-215130.html</guid>
+      <description>Statt unbewiesenen Spionagevorwürfen nachzujagen, fordert ein chinesischer Dissident, dem Geld aus China zu Nvidia zu folgen. (Nvidia, Wirtschaft)</description>
+      <pubDate>Thu, 12 Nov 2026 11:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Ausbau der Gigafactory: Tesla würde weiteres Elektroauto-Modell in Grünheide bauen</title>
       <link>https://www.golem.de/news/ausbau-der-gigafactory-tesla-wuerde-weiteres-elektroauto-modell-in-gruenheide-bauen-2611-215127.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/fsd-wieder-schlafender-tesla-fahrer-in-kanada-gefilmt-2611-214933.html</guid>
       <description>Teslas FSD Supervised funktioniert gut - so gut, dass manche Fahrer nicht mehr aufpassen. In Kanada ist offenbar erneut ein Pärchen am Steuer eingeschlafen. (Tesla, Elektroauto)</description>
       <pubDate>Fri, 06 Nov 2026 10:51:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fehler bei Passwortprüfung: Angreifer können über OpenSSH Linux-Konten kapern</title>
-      <link>https://www.golem.de/news/fehler-bei-passwortpruefung-angreifer-koennen-ueber-openssh-linux-konten-kapern-2611-214928.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fehler-bei-passwortpruefung-angreifer-koennen-ueber-openssh-linux-konten-kapern-2611-214928.html</guid>
-      <description>Einige Linux-Systeme lassen sich durch sehr lange Passworteingaben über SSH infiltrieren, manchmal sogar mit Root-Zugriff. Angreifer nutzen das bereits aus. (Sicherheitslücke, Linux)</description>
-      <pubDate>Fri, 06 Nov 2026 10:38:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
