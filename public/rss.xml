@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 12:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:15:29 GMT</lastBuildDate>
+    <item>
+      <title>Russische Cloud: Yandex gibt Datenverlust nach ukrainischen Drohnenangriffen zu</title>
+      <link>https://www.golem.de/news/russische-cloud-yandex-gibt-datenverlust-nach-ukrainischen-drohnenangriffen-zu-2611-215132.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/russische-cloud-yandex-gibt-datenverlust-nach-ukrainischen-drohnenangriffen-zu-2611-215132.html</guid>
+      <description>Ukrainische Drohnen haben im Oktober Yandex-Rechenzentren beschädigt. Aber auch fehlende Backups haben den Datenverlust unvermeidlich gemacht. (Ukrainekrieg, Rechenzentrum)</description>
+      <pubDate>Thu, 12 Nov 2026 12:12:04 GMT</pubDate>
+    </item>
     <item>
       <title>Bundeshaushalt 2027: Stromsteuer wird doch nicht gesenkt</title>
       <link>https://www.golem.de/news/bundeshaushalt-2027-stromsteuer-wird-doch-nicht-gesenkt-2611-215133.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/akku-vorheizung-und-mehr-komfort-vw-bringt-wichtiges-update-fuer-aeltere-id-modelle-2611-214935.html</guid>
       <description>Mehr Ladekomfort, höhere Sicherheit: Volkswagen verteilt das Software-Update 3.9.1 für ausgewählte E-Autos. (Volkswagen ID., Elektroauto)</description>
       <pubDate>Fri, 06 Nov 2026 11:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektromobilitätsgesetz: Bundestag verlängert Sonderrechte für E-Autos bis 2035</title>
-      <link>https://www.golem.de/news/elektromobilitaetsgesetz-bundestag-verlaengert-sonderrechte-fuer-e-autos-bis-2035-2611-214931.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektromobilitaetsgesetz-bundestag-verlaengert-sonderrechte-fuer-e-autos-bis-2035-2611-214931.html</guid>
-      <description>Der Bundestag hat der Verlängerung der Sonderrechte für E-Autos zugestimmt. Die bisherigen Regelungen wären Ende 2026 ausgelaufen. (Elektromobilität, Auto)</description>
-      <pubDate>Fri, 06 Nov 2026 11:19:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
