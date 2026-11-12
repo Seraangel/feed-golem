@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 10:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:25:29 GMT</lastBuildDate>
+    <item>
+      <title>Patch Tuesday: Neuer Windows-11-Patch installiert nicht</title>
+      <link>https://www.golem.de/news/patch-tuesday-neuer-windows-11-patch-installiert-nicht-2611-215124.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/patch-tuesday-neuer-windows-11-patch-installiert-nicht-2611-215124.html</guid>
+      <description>Mehrere User wollten zum Patch Tuesday das aktuelle Windows-11-Update aufspielen. Stattdessen gibt es einen Fehler. (Windows 11, Microsoft)</description>
+      <pubDate>Thu, 12 Nov 2026 10:22:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: LG OLED C6 - 77-Zoll-TV bietet Oberklasse-Technik wie der G6, aber 880 Euro günstiger</title>
       <link>https://www.golem.de/news/anzeige-lg-oled-c6-77-zoll-tv-bietet-oberklasse-technik-wie-der-g6-aber-880-euro-guenstiger-2611-215121.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cybercrime-us-behoerden-warnen-vor-angriffen-auf-kuehlanlagen-weltweit-2611-214924.html</guid>
       <description>Cyberkriminelle können aus der Ferne die Temperatur in Kühlanlagen erhöhen. Nun schlagen US-Behörden Alarm und warnen vor einer weltweiten Gefahr. (Cybercrime, Fernwartung)</description>
       <pubDate>Fri, 06 Nov 2026 09:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft: Im nächsten Jahr kommt wohl kein Windows 12</title>
-      <link>https://www.golem.de/news/microsoft-im-naechsten-jahr-kommt-wohl-kein-windows-12-2611-214920.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-im-naechsten-jahr-kommt-wohl-kein-windows-12-2611-214920.html</guid>
-      <description>Die Hoffnung auf einen Windows-11-Nachfolger wird durch einige Informationen geschmälert. Parallel wird 2027 die Zeit für Windows 10 ablaufen. (Betriebssysteme, Steam)</description>
-      <pubDate>Fri, 06 Nov 2026 08:51:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
