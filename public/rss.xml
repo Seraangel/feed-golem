@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 14:45:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:50:31 GMT</lastBuildDate>
+    <item>
+      <title>Jensen Huang: Der Mann, der Nvidia war</title>
+      <link>https://www.golem.de/news/jensen-huang-der-mann-der-nvidia-war-2611-215141.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/jensen-huang-der-mann-der-nvidia-war-2611-215141.html</guid>
+      <description>Nvidia hatte in seiner Geschichte nur einen CEO. Jensen Huangs Ausstieg wird das Unternehmen verändern - er könnte der Beginn eines Abstiegs sein. Eine Analyse von Johannes Hiltscher (Nvidia, Grafikkarten)</description>
+      <pubDate>Thu, 12 Nov 2026 14:48:02 GMT</pubDate>
+    </item>
     <item>
       <title>Jensen Huang: Nvidia-Chef tritt wegen Spionage- und Affärenskandalen zurück</title>
       <link>https://www.golem.de/news/jensen-huang-nvidia-chef-tritt-wegen-spionage-und-affaerenskandalen-zurueck-2611-215142.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-usb4-ssd-mit-bis-zu-3-800-mbyte-s-sandisk-extreme-pro-so-guenstig-wie-seit-september-nicht-2611-214953.html</guid>
       <description>Die Extreme Pro mit 2 TByte erreicht im Test enorme Geschwindigkeiten. Bei Amazon ist sie jetzt zum niedrigsten Preis seit September erhältlich. (USB4, Speichermedien)</description>
       <pubDate>Fri, 06 Nov 2026 16:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>8-Zoll-Floppy: US-Flughäfen migrieren weg von der Diskette</title>
-      <link>https://www.golem.de/news/8-zoll-floppy-us-flughaefen-migrieren-weg-von-der-diskette-2611-214954.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/8-zoll-floppy-us-flughaefen-migrieren-weg-von-der-diskette-2611-214954.html</guid>
-      <description>Bisher nutzt die FAA teils noch uralte Diskettensysteme aus den Anfängen des Computerzeitalters. Das soll sich ändern. (Flugzeug, Luftfahrt)</description>
-      <pubDate>Fri, 06 Nov 2026 16:17:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
