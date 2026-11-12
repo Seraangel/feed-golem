@@ -11,12 +11,19 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 09:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:50:38 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Apple Airpods Max mit USB-C rund 85 Euro unter Durchschnittspreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-apple-airpods-max-mit-usb-c-rund-85-euro-unter-durchschnittspreis-bei-amazon-2611-215120.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-airpods-max-mit-usb-c-rund-85-euro-unter-durchschnittspreis-bei-amazon-2611-215120.html</guid>
+      <description>Die Apple Airpods Max mit USB-C blenden Lärm aus, bieten 3D-Audio mit Head Tracking und sind so günstig wie seit drei Monaten nicht mehr. (Technik/Hardware)</description>
+      <pubDate>Thu, 12 Nov 2026 09:46:01 GMT</pubDate>
+    </item>
     <item>
       <title>Ungewöhnliche Aktivitäten: Lego schaltet seinen Marktplatz Bricklink ab</title>
       <link>https://www.golem.de/news/ungewoehnliche-aktivitaeten-lego-schaltet-seinen-marktplatz-bricklink-ab-2611-215119.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/ungewoehnliche-aktivitaeten-lego-schaltet-seinen-marktplatz-bricklink-ab-2611-215119.html</guid>
-      <description>Der Markplatz ist bereits seit Anfang der Woche offline. Lego ermittelt weiterhin die Ursachen für die Aktivitäten. (Lego, Security)</description>
+      <description>Der Markplatz ist bereits seit Anfang der Woche offline. Lego habe darauf ungewöhnliche Aktivitäten festgestellt. (Lego, Security)</description>
       <pubDate>Thu, 12 Nov 2026 09:31:10 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tech-aktien-besonders-betroffen-us-boerse-verliert-3-2-billionen-us-dollar-an-einem-tag-2611-214918.html</guid>
       <description>Anleger sehen den Investitionshöhepunkt bei KI-Technologien erreicht und verkaufen Tech-Aktien im großen Stil. (Börse, KI)</description>
       <pubDate>Fri, 06 Nov 2026 08:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheitslücke in der Firmware: PHP2Shell bleibt in Firewalls und Industriegeräten gefährlich</title>
-      <link>https://www.golem.de/news/sicherheitsluecke-in-der-firmware-php2shell-bleibt-in-firewalls-und-industriegeraeten-gefaehrlich-2611-214898.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsluecke-in-der-firmware-php2shell-bleibt-in-firewalls-und-industriegeraeten-gefaehrlich-2611-214898.html</guid>
-      <description>Bei Firewalls, Routern und Industrieanlagen können Admins verwundbares PHP oft nicht selbst patchen. Selbst nach einem Update bleibt deshalb Handlungsbedarf. Ein Ratgebertext von Steffen Zahn (Security, PHP)</description>
-      <pubDate>Fri, 06 Nov 2026 08:15:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
