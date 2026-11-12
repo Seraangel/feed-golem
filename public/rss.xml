@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 12 Nov 2026 12:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 12:45:28 GMT</lastBuildDate>
+    <item>
+      <title>Red Hat: Kritische Sicherheitslücke in Apache HTTP Server entdeckt</title>
+      <link>https://www.golem.de/news/red-hat-kritische-sicherheitsluecke-in-apache-http-server-entdeckt-2611-215134.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/red-hat-kritische-sicherheitsluecke-in-apache-http-server-entdeckt-2611-215134.html</guid>
+      <description>Auf der CVE-Skala hat die kritische Sicherheitslücke eine Bewertung von 9,8 von 10 Punkten erhalten. Ein Patch ist deshalb sinnvoll. (Apache, Red Hat)</description>
+      <pubDate>Thu, 12 Nov 2026 12:43:06 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) E-Rechnungspflicht ab 2027: Die fünf größten E-Rechnungsprobleme und wie die IT sie löst</title>
       <link>https://www.golem.de/news/e-rechnungspflicht-ab-2027-die-fuenf-groessten-e-rechnungsprobleme-und-wie-die-it-sie-loest-2611-215123.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/post-quanten-kryptografie-fuer-unternehme-warum-firmen-ihre-verschluesselung-jetzt-umstellen-muessen-2611-214930.html</guid>
       <description>Das BSI warnt vor einem bislang empfohlenen Verfahren. Für IT-Verantwortliche wird die Wahl quantensicherer Verschlüsselung komplizierter. Wir geben Entscheidungshilfe. Ein Ratgebertext von Marvin Sprey (Post-Quanten-Kryptografie, Verschlüsselung)</description>
       <pubDate>Fri, 06 Nov 2026 12:30:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: PS5 rechtzeitig für GTA 6 mit Rabatt bei Back Market sichern</title>
-      <link>https://www.golem.de/news/anzeige-ps5-rechtzeitig-fuer-gta-6-mit-rabatt-bei-back-market-sichern-2611-214932.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ps5-rechtzeitig-fuer-gta-6-mit-rabatt-bei-back-market-sichern-2611-214932.html</guid>
-      <description>Rechtzeitig zum Erscheinungstermin von GTA 6 bietet Back Market die PS5 in verschiedenen Versionen professionell erneuert mit Rabatt an. (Playstation 5, GTA 6)</description>
-      <pubDate>Fri, 06 Nov 2026 12:05:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
