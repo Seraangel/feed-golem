@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 10:25:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:40:25 GMT</lastBuildDate>
+    <item>
+      <title>Mitmach-Aktion: Arbeiten trotz Krankheit</title>
+      <link>https://www.golem.de/news/mitmach-aktion-arbeiten-trotz-krankheit-2611-215150.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mitmach-aktion-arbeiten-trotz-krankheit-2611-215150.html</guid>
+      <description>Ein leichter Schnupfen, ein gebrochenes Bein oder auch eine ausgewachsene Grippe: Wann und warum habt ihr schon mal krank gearbeitet? (Arbeit, Wirtschaft)</description>
+      <pubDate>Fri, 13 Nov 2026 10:35:02 GMT</pubDate>
+    </item>
     <item>
       <title>Next Gen: Jeder zehnte Entwickler arbeitet an Spiel für Playstation 6</title>
       <link>https://www.golem.de/news/next-gen-jeder-zehnte-entwickler-arbeitet-an-spiel-fuer-playstation-6-2611-215177.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-wenn-ki-piloten-funktionieren-aber-die-skalierung-scheitert-2611-214921.html</guid>
       <description>KI-Piloten überzeugen, doch im produktiven Betrieb entstehen neue Risiken. Warum Infrastruktur, Security und Datenkontrolle über den Erfolg entscheiden. (Telekom, KI)</description>
       <pubDate>Mon, 09 Nov 2026 08:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plex2Shell: QNAP-NAS-Systeme über Plex-Lücken kompromittiert</title>
-      <link>https://www.golem.de/news/plex2shell-qnap-nas-systeme-ueber-plex-luecken-kompromittiert-2611-214973.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/plex2shell-qnap-nas-systeme-ueber-plex-luecken-kompromittiert-2611-214973.html</guid>
-      <description>Wer ein QNAP-NAS mit Plex Media Server betreibt, sollte dringend handeln. Angreifer schleusen über vier Sicherheitslücken Schadcode ein. (Sicherheitslücke, Storage)</description>
-      <pubDate>Mon, 09 Nov 2026 07:48:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
