@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 10:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:25:26 GMT</lastBuildDate>
+    <item>
+      <title>Next Gen: Jeder zehnte Entwickler arbeitet an Spiel für Playstation 6</title>
+      <link>https://www.golem.de/news/next-gen-jeder-zehnte-entwickler-arbeitet-an-spiel-fuer-playstation-6-2611-215177.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/next-gen-jeder-zehnte-entwickler-arbeitet-an-spiel-fuer-playstation-6-2611-215177.html</guid>
+      <description>Schon 10 Prozent der GDC-Teilnehmer mit laufendem Spieleprojekt planen für die PS6. Für Microsofts Project Helix sind es 8 Prozent. (GDC, Playstation)</description>
+      <pubDate>Fri, 13 Nov 2026 10:20:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Viture Pro 2 XR-Brille mit 146 Zoll erstmals unter 300 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-viture-pro-2-xr-brille-mit-146-zoll-erstmals-unter-300-euro-bei-amazon-2611-215175.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/plex2shell-qnap-nas-systeme-ueber-plex-luecken-kompromittiert-2611-214973.html</guid>
       <description>Wer ein QNAP-NAS mit Plex Media Server betreibt, sollte dringend handeln. Angreifer schleusen über vier Sicherheitslücken Schadcode ein. (Sicherheitslücke, Storage)</description>
       <pubDate>Mon, 09 Nov 2026 07:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Zero Trust: Von den Grundlagen zur Implementierung</title>
-      <link>https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2611-214972.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-von-den-grundlagen-zur-implementierung-2611-214972.html</guid>
-      <description>Zero Trust Security erfordert ein strukturiertes Sicherheitskonzept. Ein Online-Workshop vermittelt Grundlagen und konkrete Schritte zur Implementierung des Frameworks. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Mon, 09 Nov 2026 06:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
