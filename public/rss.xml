@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 12:30:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:35:25 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Selbsthosting ohne Beeper: 1.456 Chats, fünf Messenger, ein Raspberry Pi</title>
+      <link>https://www.golem.de/news/selbsthosting-ohne-beeper-1-456-chats-fuenf-messenger-ein-raspberry-pi-2611-215180.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/selbsthosting-ohne-beeper-1-456-chats-fuenf-messenger-ein-raspberry-pi-2611-215180.html</guid>
+      <description>Nach fünf Jahren mit Beeper wollte ich meine Chats nicht länger einem Anbieter anvertrauen. Mein Raspberry Pi übernimmt jetzt fünf Messenger. Ein Erfahrungsbericht von Marius Quadbeck (Raspberry Pi, Instant Messenger)</description>
+      <pubDate>Fri, 13 Nov 2026 12:30:01 GMT</pubDate>
+    </item>
     <item>
       <title>Europäische Atomwaffen: Bundesregierung plant Beteiligung an Urananreicherer</title>
       <link>https://www.golem.de/news/europaeische-atomwaffen-bundesregierung-plant-beteiligung-an-urenco-2611-215184.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/lithium-luft-catl-erforscht-akku-fuer-theoretisch-2-000-km-reichweite-2611-214980.html</guid>
       <description>CATL sieht in Lithium-Luft-Akkus ein Langzeitziel. Sie könnten bis zu fünfmal so viel Energie speichern wie Festkörperakkus. (Elektroauto, Auto)</description>
       <pubDate>Mon, 09 Nov 2026 10:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speichermangel: Linux-Skript meldet freien RAM an Sam Altman</title>
-      <link>https://www.golem.de/news/speichermangel-linux-skript-meldet-freien-ram-an-sam-altman-2611-214979.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/speichermangel-linux-skript-meldet-freien-ram-an-sam-altman-2611-214979.html</guid>
-      <description>Ein Bash-Skript mit dem Namen Ram Altman sendet E-Mails an den OpenAI-Chef, sobald der Arbeitsspeicher nicht genug ausgelastet ist. (RAM, KI)</description>
-      <pubDate>Mon, 09 Nov 2026 09:53:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
