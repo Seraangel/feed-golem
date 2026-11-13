@@ -11,12 +11,19 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 09:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:40:32 GMT</lastBuildDate>
     <item>
-      <title>Wearable: Whoop startet soziales Netzwerk in der eigenen App</title>
+      <title>Fake-Anruf: Russisches Komiker-Duo täuscht OpenAI im Videocall</title>
+      <link>https://www.golem.de/news/fake-anruf-russisches-komiker-duo-taeuscht-openai-im-videocall-2611-215172.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fake-anruf-russisches-komiker-duo-taeuscht-openai-im-videocall-2611-215172.html</guid>
+      <description>Drei hochrangige OpenAI-Mitarbeiter dachten, sie sprächen mit dem früheren ukrainischen Verteidigungsminister. (Russland, KI)</description>
+      <pubDate>Fri, 13 Nov 2026 09:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whoop Humans: Neues soziales Netzwerk soll Bots und KI aussperren</title>
       <link>https://www.golem.de/news/wearable-whoop-startet-soziales-netzwerk-in-der-eigenen-app-2611-215170.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/wearable-whoop-startet-soziales-netzwerk-in-der-eigenen-app-2611-215170.html</guid>
-      <description>Whoop startet Humans. Mitglieder teilen Schlaf- und Trainingsdaten mit Freunden, das Ganze laut Hersteller in einem Netzwerk ohne Bots. (Wearable, Sport)</description>
+      <description>Whoop Humans ist laut CEO das "nachweislich menschlichsten Netzwerk, das je ins Leben gerufen wurde." (Wearable, Sport)</description>
       <pubDate>Fri, 13 Nov 2026 09:20:02 GMT</pubDate>
     </item>
     <item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 13 Nov 2026 08:56:10 GMT</pubDate>
     </item>
     <item>
-      <title>Finanzierungsrunde: Agile Robots aus München mit 8,5 Milliarden US-Dollar bewertet</title>
+      <title>Agile Robots: Humanoide Roboter aus München bekommen 500 Millionen Dollar</title>
       <link>https://www.golem.de/news/finanzierungsrunde-agile-robots-aus-muenchen-mit-8-5-milliarden-us-dollar-bewertet-2611-215167.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/finanzierungsrunde-agile-robots-aus-muenchen-mit-8-5-milliarden-us-dollar-bewertet-2611-215167.html</guid>
       <description>Nvidia und Softbank investieren in den Münchner Roboterbauer Agile Robots. Die Bewertung liegt nach der Runde bei 8,5 Milliarden US-Dollar. (Roboter, Wirtschaft)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jensen-huang-nvidia-chef-wird-verhaeltnis-mit-chinesischer-spionin-vorgeworfen-2611-214969.html</guid>
       <description>Nvidia-Chef Jensen Huang soll nach US-Geheimdienstinformationen eine romantische Beziehung zu einer chinesischen Spionin unterhalten haben. (Nvidia, Politik)</description>
       <pubDate>Sun, 08 Nov 2026 12:53:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Ryzen-Mini-PC mit 16 GByte RAM und Windows 11 Pro bei Amazon unter 350 Euro</title>
-      <link>https://www.golem.de/news/anzeige-ryzen-mini-pc-mit-16-gbyte-ram-und-windows-11-pro-bei-amazon-unter-350-euro-2611-214951.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-ryzen-mini-pc-mit-16-gbyte-ram-und-windows-11-pro-bei-amazon-unter-350-euro-2611-214951.html</guid>
-      <description>Der Acemagic K1 Mini-PC in der Ryzen-3-Variante ist bei Amazon wieder zu seinem bisher niedrigsten Preis des Jahres erhältlich. (PC, Computer)</description>
-      <pubDate>Sun, 08 Nov 2026 12:40:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
