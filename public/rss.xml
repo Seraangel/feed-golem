@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 12:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:00:29 GMT</lastBuildDate>
+    <item>
+      <title>Über 35.000 Webanwendungen: Grok-Apps leaken Kundendaten und Passwörter</title>
+      <link>https://www.golem.de/news/ueber-35-000-webanwendungen-grok-apps-leaken-kundendaten-und-passwoerter-2611-215185.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ueber-35-000-webanwendungen-grok-apps-leaken-kundendaten-und-passwoerter-2611-215185.html</guid>
+      <description>Auf die Sicherheitslücke hingewiesen, hat SpaceX nur die Apps seiner eigenen Mitarbeiter gelöscht. (KI, Sicherheitslücke)</description>
+      <pubDate>Fri, 13 Nov 2026 12:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>Aldi Talk: Jahrespakete bieten bis zu 500 GByte</title>
       <link>https://www.golem.de/news/aldi-talk-jahrespakete-bieten-bis-zu-500-gbyte-2611-215187.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/satya-nadella-microsoft-ceo-spricht-von-20-millionen-ki-agenten-im-konzern-2611-214983.html</guid>
       <description>"KI ist nicht mehr eine Art von Technologie. Es ist die Zukunft der Firma", sagt Satya Nadella. (Satya Nadella, Microsoft)</description>
       <pubDate>Mon, 09 Nov 2026 10:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fernzugriff auf Türen und Motoren: Forscher demonstrieren folgenschwere Auto-Hacks</title>
-      <link>https://www.golem.de/news/fernzugriff-auf-tueren-und-motoren-forscher-demonstrieren-folgenschwere-auto-hacks-2611-214981.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fernzugriff-auf-tueren-und-motoren-forscher-demonstrieren-folgenschwere-auto-hacks-2611-214981.html</guid>
-      <description>Angreifer hätten durch eine Lücke in der Zugriffsverwaltung für App-Konten unzählige Autos zweier Hersteller aus der Ferne entriegeln und starten können. (Sicherheitslücke, API)</description>
-      <pubDate>Mon, 09 Nov 2026 10:19:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
