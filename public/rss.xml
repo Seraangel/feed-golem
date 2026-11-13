@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 06:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:30:36 GMT</lastBuildDate>
+    <item>
+      <title>Cloud: Serverausfälle stören Outlook und Microsoft 365</title>
+      <link>https://www.golem.de/news/cloud-serverausfaelle-stoeren-outlook-und-microsoft-365-2611-215165.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cloud-serverausfaelle-stoeren-outlook-und-microsoft-365-2611-215165.html</guid>
+      <description>Am Abend des 12. Novembers hat es Probleme mit Outlook, Microsoft 365 und weiteren Onlinediensten von Microsoft gegeben. (Microsoft 365, Microsoft)</description>
+      <pubDate>Fri, 13 Nov 2026 06:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>Nach Cyberangriff: Bundeswehr legt Quantum-Drohnen offenbar still</title>
       <link>https://www.golem.de/news/nach-cyberangriff-bundeswehr-legt-quantum-drohnen-offenbar-still-2611-215162.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-carplay-display-mit-android-auto-guenstig-bei-amazon-2611-214944.html</guid>
       <description>Amazon hat ein Carplay Display im Angebot, das sowohl Apple Carplay als auch Android Auto unterstützt und als Freisprecheinrichtung dient. (Technik/Hardware)</description>
       <pubDate>Sat, 07 Nov 2026 12:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektroauto: Yangwang U9 Xtreme durchbricht die 500-km/h-Grenze</title>
-      <link>https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektroauto-yangwang-u9-xtreme-durchbricht-die-500-km-h-grenze-2611-214962.html</guid>
-      <description>Das elektrische Hypercar von Yangwang U9 Xtreme hat in Abu Dhabi 503,17 km/h erreicht. Die FIA hat den Wert offiziell anerkannt. (BYD, Elektroauto)</description>
-      <pubDate>Sat, 07 Nov 2026 12:27:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
