@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 06:50:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:05:37 GMT</lastBuildDate>
+    <item>
+      <title>Militär: Anduril will Satelliten im Erdschatten aufspüren</title>
+      <link>https://www.golem.de/news/militaer-anduril-will-satelliten-im-erdschatten-aufspueren-2611-215163.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/militaer-anduril-will-satelliten-im-erdschatten-aufspueren-2611-215163.html</guid>
+      <description>Anduril hat ein langwelliges Infrarotsystem getestet, das Satellitenmanöver auch in der orbitalen Nacht erkennen soll. (Satelliten, Politik)</description>
+      <pubDate>Fri, 13 Nov 2026 07:01:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Cloud-Transformation: Strategie, Governance und klare Zuständigkeiten</title>
       <link>https://www.golem.de/news/anzeige-cloud-transformation-strategie-governance-und-klare-zustaendigkeiten-2611-215161.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/lego-alternative-das-bluebrixx-nur-fuer-hartgesottene-2611-214936.html</guid>
       <description>Modbrix-Modelle sehen toll aus, wenn sie fertiggesteckt sind. Selten haben wir aber das Bauen mit Klemmbausteinen so verflucht. Ein Erfahrungsbericht von Oliver Nickel (Bluebrixx, Lego)</description>
       <pubDate>Sun, 08 Nov 2026 06:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: IT-Jobs in Cloud, Systemadministration und Softwareentwicklung</title>
-      <link>https://www.golem.de/news/anzeige-it-jobs-in-cloud-systemadministration-und-softwareentwicklung-2611-214922.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-cloud-systemadministration-und-softwareentwicklung-2611-214922.html</guid>
-      <description>Ob Cloud-Administration, IT-Security, SAP SuccessFactors oder Fullstack-Entwicklung - diese sechs IT-Jobs bieten vielseitige Aufgaben. (Golem Karrierewelt, Unternehmenssoftware)</description>
-      <pubDate>Sun, 08 Nov 2026 06:00:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
