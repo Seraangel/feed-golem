@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 13:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:15:25 GMT</lastBuildDate>
+    <item>
+      <title>Nach Rücktritt: Jensen Huang und Nvidia stehen vor stürmischen Zeiten</title>
+      <link>https://www.golem.de/news/nach-ruecktritt-jensen-huang-und-nvidia-stehen-vor-stuermischen-zeiten-2611-215183.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-ruecktritt-jensen-huang-und-nvidia-stehen-vor-stuermischen-zeiten-2611-215183.html</guid>
+      <description>Der Rücktritt von Jensen Huang könnte für Nvidia erst der Anfang sein. Der zurückgetretene CEO hinterlässt ein schweres Erbe, diverse Probleme könnten den Absatz gefährden. Eine Analyse von Johannes Hiltscher (Nvidia, Börse)</description>
+      <pubDate>Fri, 13 Nov 2026 13:12:04 GMT</pubDate>
+    </item>
     <item>
       <title>Über 35.000 Webanwendungen: Grok-Apps leaken Kundendaten und Passwörter</title>
       <link>https://www.golem.de/news/ueber-35-000-webanwendungen-grok-apps-leaken-kundendaten-und-passwoerter-2611-215185.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/world-of-warcraft-70-480-cpu-kerne-und-251-tbyte-ram-fuer-den-start-von-forever-2611-214984.html</guid>
       <description>Blizzard verrät, welche gewaltige Servertechnik hinter WoW - Forever steckt. Interessant ist auch der Vergleich mit 2009. (World of Warcraft, MMORPG)</description>
       <pubDate>Mon, 09 Nov 2026 10:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Satya Nadella: Microsoft-CEO spricht von 20 Millionen KI-Agenten im Konzern</title>
-      <link>https://www.golem.de/news/satya-nadella-microsoft-ceo-spricht-von-20-millionen-ki-agenten-im-konzern-2611-214983.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/satya-nadella-microsoft-ceo-spricht-von-20-millionen-ki-agenten-im-konzern-2611-214983.html</guid>
-      <description>"KI ist nicht mehr eine Art von Technologie. Es ist die Zukunft der Firma", sagt Satya Nadella. (Satya Nadella, Microsoft)</description>
-      <pubDate>Mon, 09 Nov 2026 10:33:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
