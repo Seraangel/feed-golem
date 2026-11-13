@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 15:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:55:27 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Saugroboter mit Wischfunktion von Dreame reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-dreame-reduziert-bei-amazon-2611-215203.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-dreame-reduziert-bei-amazon-2611-215203.html</guid>
+      <description>Den Saugroboter Dreame L40 Ultra A mit Wischfunktion, 24.000 Pa und Multifunktionsdock gibt es zum Sparpreis bei Amazon. (Saugroboter, Technik/Hardware)</description>
+      <pubDate>Fri, 13 Nov 2026 15:50:07 GMT</pubDate>
+    </item>
     <item>
       <title>Vodafone und andere: Telekommunikationsbranche streicht weltweit über 17.000 Stellen</title>
       <link>https://www.golem.de/news/vodafone-und-andere-telekommunikationsbranche-streicht-weltweit-ueber-17-000-stellen-2611-215195.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/windows-11-nach-ueber-30-jahren-schaltet-microsoft-das-einrast-pop-up-ab-2611-214988.html</guid>
       <description>Microsoft testet in Windows 11 eine Option, die den Einrastfunktion-Hinweis nach fünfmaliger Umschalttaste dauerhaft abschaltet. (Windows 11, Microsoft)</description>
       <pubDate>Mon, 09 Nov 2026 12:46:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Micropython: Schnell entwickelt, teuer erkauft?</title>
-      <link>https://www.golem.de/news/micropython-schnell-entwickelt-teuer-erkauft-2611-214992.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/micropython-schnell-entwickelt-teuer-erkauft-2611-214992.html</guid>
-      <description>Micropython erleichtert die Entwicklung auf Mikrocontrollern, benötigt aber mehr Rechenzeit und Speicher. Wann lohnt sich der Einsatz trotzdem? Ein Erfahrungsbericht von Fabian Deitelhoff (Python, Programmiersprachen)</description>
-      <pubDate>Mon, 09 Nov 2026 12:32:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
