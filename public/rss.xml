@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 15:55:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:05:30 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Opinion: Anthropic's Dario Amodei Can't Always Have His Way</title>
+      <link>https://www.golem.de/news/opinion-anthropic-s-dario-amodei-can-t-always-have-his-way-2611-215204.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/opinion-anthropic-s-dario-amodei-can-t-always-have-his-way-2611-215204.html</guid>
+      <description>Anthropic PBC has benefited from the single-minded focus of a leader who doesn't waver from his decisions. But that advantage could become a liability. Von Parmy Olson (Anthropic, Silicon Valley)</description>
+      <pubDate>Fri, 13 Nov 2026 17:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Saugroboter mit Wischfunktion von Dreame reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-dreame-reduziert-bei-amazon-2611-215203.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-robuste-taschenlampe-von-shadowhawk-fuer-nur-17-96-euro-bei-amazon-2611-214994.html</guid>
       <description>Eine robuste Taschenlampe von Shadowhawk mit aufladbarem Akku, fünf Leuchtmodi und einstellbarem Fokus gibt es zum Sparpreis bei Amazon. (Technik/Hardware)</description>
       <pubDate>Mon, 09 Nov 2026 12:49:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11: Nach über 30 Jahren schaltet Microsoft das Einrast-Pop-up ab</title>
-      <link>https://www.golem.de/news/windows-11-nach-ueber-30-jahren-schaltet-microsoft-das-einrast-pop-up-ab-2611-214988.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/windows-11-nach-ueber-30-jahren-schaltet-microsoft-das-einrast-pop-up-ab-2611-214988.html</guid>
-      <description>Microsoft testet in Windows 11 eine Option, die den Einrastfunktion-Hinweis nach fünfmaliger Umschalttaste dauerhaft abschaltet. (Windows 11, Microsoft)</description>
-      <pubDate>Mon, 09 Nov 2026 12:46:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
