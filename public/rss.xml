@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 08:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:30:25 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia-Chefposten: Trump empfiehlt Tim Cook als Nachfolger von Jensen Huang</title>
+      <link>https://www.golem.de/news/nvidia-chefposten-trump-empfiehlt-tim-cook-als-nachfolger-von-jensen-huang-2611-215166.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvidia-chefposten-trump-empfiehlt-tim-cook-als-nachfolger-von-jensen-huang-2611-215166.html</guid>
+      <description>Nach dem Rücktritt von Jensen Huang als Nvidia-Chef hat US-Präsident Trump einen potenziellen Nachfolger genannt: Apple-Chairman Tim Cook. (Nvidia, Wirtschaft)</description>
+      <pubDate>Fri, 13 Nov 2026 08:29:08 GMT</pubDate>
+    </item>
     <item>
       <title>Cybersicherheit: Bundestag erlaubt Hackbacks durch die Polizei</title>
       <link>https://www.golem.de/news/cybersicherheit-bundestag-erlaubt-hackbacks-durch-die-polizei-2611-215160.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bei-dunkelflaute-effizientere-waermepumpe-dank-chemischem-speicher-2611-214965.html</guid>
       <description>Damit Wärmepumpen bei einer Kältewelle verlässlich heizen, ist die Kombination mit Speichern sinnvoll. Eine effizientere Pumpe allein genügt nicht. (Wärmepumpe, Akku)</description>
       <pubDate>Sun, 08 Nov 2026 09:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Pizzarechner mit Flutter: Einstieg in Web-Apps leicht gemacht</title>
-      <link>https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html</guid>
-      <description>Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt (Softwareentwicklung, Ruby)</description>
-      <pubDate>Sun, 08 Nov 2026 09:00:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
