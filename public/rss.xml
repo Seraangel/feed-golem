@@ -11,12 +11,19 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 06:40:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 06:45:34 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheit: Neue Starlink-Drosselung verunsichert die Ukraine</title>
+      <link>https://www.golem.de/news/sicherheit-neue-starlink-drosselung-verunsichert-die-ukraine-2611-215164.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-neue-starlink-drosselung-verunsichert-die-ukraine-2611-215164.html</guid>
+      <description>Die Ukraine meldet erneute Einschränkungen bei Starshield. Diese könnten die Drohnenabwehr behindern. (Starlink, Politik)</description>
+      <pubDate>Fri, 13 Nov 2026 06:42:05 GMT</pubDate>
+    </item>
     <item>
       <title>Cloud: Serverausfälle stören Outlook und Microsoft 365</title>
       <link>https://www.golem.de/news/cloud-serverausfaelle-stoeren-outlook-und-microsoft-365-2611-215165.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/cloud-serverausfaelle-stoeren-outlook-und-microsoft-365-2611-215165.html</guid>
-      <description>Ab dem Abend des 12. Novembers hat es weitreichende Probleme mit Microsofts Onlinediensten gegeben - ganz ausgestanden sind sie noch nicht. (Microsoft 365, Microsoft)</description>
+      <description>Ab dem Abend des 12. Novembers hat es weitreichende Probleme mit Microsoft-Diensten gegeben - nach und nach laufen die Dienste wieder. (Microsoft 365, Microsoft)</description>
       <pubDate>Fri, 13 Nov 2026 06:26:07 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/outer-worlds-neue-stranger-things-serie-spielt-im-jahr-1955-2611-214964.html</guid>
       <description>Netflix bringt ein Spin-off von Stranger Things: Other Worlds spielt in den 50er Jahren und kommt mit neuen Charakteren. (Netflix, Streaming)</description>
       <pubDate>Sat, 07 Nov 2026 13:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Carplay Display mit Android Auto günstig bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-carplay-display-mit-android-auto-guenstig-bei-amazon-2611-214944.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-carplay-display-mit-android-auto-guenstig-bei-amazon-2611-214944.html</guid>
-      <description>Amazon hat ein Carplay Display im Angebot, das sowohl Apple Carplay als auch Android Auto unterstützt und als Freisprecheinrichtung dient. (Technik/Hardware)</description>
-      <pubDate>Sat, 07 Nov 2026 12:40:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
