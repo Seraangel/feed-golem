@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 10:40:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:05:25 GMT</lastBuildDate>
+    <item>
+      <title>Der Gewissenskonflikt: Darf ich zu X zurück, obwohl ich Musk kritisiere?</title>
+      <link>https://www.golem.de/news/der-gewissenskonflikt-darf-ich-zu-x-zurueck-obwohl-ich-musk-kritisiere-2611-215129.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/der-gewissenskonflikt-darf-ich-zu-x-zurueck-obwohl-ich-musk-kritisiere-2611-215129.html</guid>
+      <description>Unter welchen Umständen ist es vertretbar, einem Unternehmen oder einer Person zu Geld zu verhelfen, obwohl man deren Geschäfte öffentlich kritisiert hat? Eine Kolumne von Tim Reinboth (Gewissenskonflikt, Soziales Netz)</description>
+      <pubDate>Fri, 13 Nov 2026 11:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Mitmach-Aktion: Arbeiten trotz Krankheit</title>
       <link>https://www.golem.de/news/mitmach-aktion-arbeiten-trotz-krankheit-2611-215150.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spionage-affaere-jensen-huang-entschuldigt-sich-fuer-affaere-und-will-nvidia-chef-bleiben-2611-214974.html</guid>
       <description>Jensen Huang hat sich in einer öffentlichen Nachricht für seine Affäre entschuldigt - und versichert, dass er seine Familie, sein Land und Nvidia liebe. (Nvidia, KI)</description>
       <pubDate>Mon, 09 Nov 2026 08:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Wenn KI-Piloten funktionieren, aber die Skalierung scheitert</title>
-      <link>https://www.golem.de/news/anzeige-wenn-ki-piloten-funktionieren-aber-die-skalierung-scheitert-2611-214921.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-wenn-ki-piloten-funktionieren-aber-die-skalierung-scheitert-2611-214921.html</guid>
-      <description>KI-Piloten überzeugen, doch im produktiven Betrieb entstehen neue Risiken. Warum Infrastruktur, Security und Datenkontrolle über den Erfolg entscheiden. (Telekom, KI)</description>
-      <pubDate>Mon, 09 Nov 2026 08:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
