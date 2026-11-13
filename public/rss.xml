@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 07:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:15:24 GMT</lastBuildDate>
+    <item>
+      <title>Cybersicherheit: Bundestag erlaubt Hackbacks durch die Polizei</title>
+      <link>https://www.golem.de/news/cybersicherheit-bundestag-erlaubt-hackbacks-durch-die-polizei-2611-215160.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cybersicherheit-bundestag-erlaubt-hackbacks-durch-die-polizei-2611-215160.html</guid>
+      <description>BKA und Bundespolizei dürfen künftig als Reaktion auf Cyberangriffe IT-Systeme manipulieren und zerstören. (Hackback, CCC)</description>
+      <pubDate>Fri, 13 Nov 2026 08:13:02 GMT</pubDate>
+    </item>
     <item>
       <title>Militär: Anduril will Satelliten im Erdschatten aufspüren</title>
       <link>https://www.golem.de/news/militaer-anduril-will-satelliten-im-erdschatten-aufspueren-2611-215163.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/pizzarechner-mit-flutter-einstieg-in-web-apps-leicht-gemacht-2611-214942.html</guid>
       <description>Mit Flutter/Dart kleine, kompakte Web-Apps bauen, ohne Javascript und HTML schreiben zu müssen - geht das überhaupt? Spoiler: Ja, das geht. Der Artikel zeigt, wie. Eine Anleitung von Stefanie Schmidt (Softwareentwicklung, Ruby)</description>
       <pubDate>Sun, 08 Nov 2026 09:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lego-Alternative: Das Bluebrixx nur für Hartgesottene</title>
-      <link>https://www.golem.de/news/lego-alternative-das-bluebrixx-nur-fuer-hartgesottene-2611-214936.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/lego-alternative-das-bluebrixx-nur-fuer-hartgesottene-2611-214936.html</guid>
-      <description>Modbrix-Modelle sehen toll aus, wenn sie fertiggesteckt sind. Selten haben wir aber das Bauen mit Klemmbausteinen so verflucht. Ein Erfahrungsbericht von Oliver Nickel (Bluebrixx, Lego)</description>
-      <pubDate>Sun, 08 Nov 2026 06:30:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
