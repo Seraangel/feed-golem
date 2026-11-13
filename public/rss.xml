@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 09:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 09:55:24 GMT</lastBuildDate>
+    <item>
+      <title>Über MCP-Server: Erneuter Hackerangriff auf Hoster Mittwald</title>
+      <link>https://www.golem.de/news/ueber-mcp-server-erneuter-hackerangriff-auf-hoster-mittwald-2611-215173.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ueber-mcp-server-erneuter-hackerangriff-auf-hoster-mittwald-2611-215173.html</guid>
+      <description>Es ist die zweite Attacke innerhalb einer Woche: Wieder hat Mittwald Kundencenter und das Control-Panel mStudio abgeschaltet. (Hacker, KI)</description>
+      <pubDate>Fri, 13 Nov 2026 09:50:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Zendure Solarspeicher bei Mini Power mit exklusivem Golem-Rabatt sichern</title>
       <link>https://www.golem.de/news/anzeige-zendure-solarspeicher-bei-mini-power-mit-exklusivem-golem-rabatt-sichern-2611-215148.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/privatfahrzeug-umweltminister-carsten-schneider-faehrt-13-jahre-alten-diesel-2611-214971.html</guid>
       <description>Bei der Energiewende setzt Schneider auf bezahlbare Alternativen statt moralischer Appelle - auch privat. (Elektroauto, Auto)</description>
       <pubDate>Sun, 08 Nov 2026 14:17:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple-Tastatur: Was das iPhone nicht zu Ende schreiben will</title>
-      <link>https://www.golem.de/news/apple-tastatur-was-das-iphone-nicht-zu-ende-schreiben-will-2611-214970.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/apple-tastatur-was-das-iphone-nicht-zu-ende-schreiben-will-2611-214970.html</guid>
-      <description>Apple hat eine Wortvorhersage, die aber bei vielen politischen Begriffen, Drogen und heiklen Ausdrücken gezielt den Dienst quittiert. (iOS, Apple)</description>
-      <pubDate>Sun, 08 Nov 2026 13:38:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
