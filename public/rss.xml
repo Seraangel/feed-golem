@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 13 Nov 2026 11:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 11:35:33 GMT</lastBuildDate>
+    <item>
+      <title>Cybersicherheit: KI legt Windpark in unter zwei Stunden lahm</title>
+      <link>https://www.golem.de/news/cybersicherheit-ki-legt-windpark-in-unter-zwei-stunden-lahm-2611-215181.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cybersicherheit-ki-legt-windpark-in-unter-zwei-stunden-lahm-2611-215181.html</guid>
+      <description>Den KI-Modellen Claude und Kimi ist es in einer Testumgebung gelungen, einen simulierten Windpark auf kreative Weise stillzulegen. (KI, Sicherheitslücke)</description>
+      <pubDate>Fri, 13 Nov 2026 11:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Auto: Elektroautoprämie könnte schon Ende 2027 aufgebraucht sein</title>
       <link>https://www.golem.de/news/auto-elektroautopraemie-koennte-schon-ende-2027-aufgebraucht-sein-2611-215182.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-airtag-2-im-viererpack-jetzt-nur-rund-20-euro-pro-stueck-bei-amazon-2611-214976.html</guid>
       <description>Apples Airtag der 2. Generation ortet Schlüssel und Koffer aus größerer Entfernung, piept lauter und sind im Viererpack jetzt günstiger. (Technik/Hardware, iPhone)</description>
       <pubDate>Mon, 09 Nov 2026 09:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autoindustrie: Land Rover wirft BYD Defender-Kopie vor</title>
-      <link>https://www.golem.de/news/autoindustrie-land-rover-wirft-byd-defender-kopie-vor-2611-214975.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autoindustrie-land-rover-wirft-byd-defender-kopie-vor-2611-214975.html</guid>
-      <description>Gerichtsvollzieher haben im August Daten in BYD-Büros gesichert. Diese Woche tagt ein Gericht in Den Haag zum Streit um den Ti7. (BYD, Auto)</description>
-      <pubDate>Mon, 09 Nov 2026 09:19:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
