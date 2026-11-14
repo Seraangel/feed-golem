@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 14 Nov 2026 14:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 17:21:07 GMT</lastBuildDate>
+    <item>
+      <title>Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück</title>
+      <link>https://www.golem.de/news/petition-nvidia-mitarbeiter-und-elon-musk-wollen-huang-zurueck-2611-215228.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/petition-nvidia-mitarbeiter-und-elon-musk-wollen-huang-zurueck-2611-215228.html</guid>
+      <description>Trotz mehrerer Affären wünschen sich viele die Rückkehr von Jensen Huang an die Nvidia-Spitze. Ein interner und ein externer Aufruf stoßen auf Zuspruch. (Nvidia, Wirtschaft)</description>
+      <pubDate>Sat, 14 Nov 2026 17:19:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: IT-Jobs in Systemadministration, Netzwerkarchitektur und Security</title>
       <link>https://www.golem.de/news/anzeige-it-jobs-in-systemadministration-netzwerkarchitektur-und-security-2611-215171.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/forefront-konzept-renault-baut-boden-drohne-aus-autoteilen-2611-215018.html</guid>
       <description>Renault und John Cockerill zeigen mit Forefront einen modularen Bodenroboter, der zivile und militärische Einsätze verbinden soll. (Roboter, Auto)</description>
       <pubDate>Tue, 10 Nov 2026 06:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic: Fable 5.2 und Mythos 5.2 legen deutlich zu</title>
-      <link>https://www.golem.de/news/anthropic-fable-5-2-und-mythos-5-2-legen-deutlich-zu-2611-215015.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anthropic-fable-5-2-und-mythos-5-2-legen-deutlich-zu-2611-215015.html</guid>
-      <description>Anthropic stellt mit Fable 5.2 und Mythos 5.2 zwei neue Claude-Modelle vor, die bis zu 30 Prozent schneller sind als die Vorgänger. (Claude, KI)</description>
-      <pubDate>Tue, 10 Nov 2026 06:18:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
