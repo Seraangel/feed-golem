@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 14 Nov 2026 09:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 09:10:30 GMT</lastBuildDate>
+    <item>
+      <title>Outlook und Teams: Serverausfälle bei Microsoft nicht wegen KI oder Hackern</title>
+      <link>https://www.golem.de/news/outlook-und-teams-serverausfaelle-bei-microsoft-nicht-wegen-ki-oder-hackern-2611-215215.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/outlook-und-teams-serverausfaelle-bei-microsoft-nicht-wegen-ki-oder-hackern-2611-215215.html</guid>
+      <description>Microsoft hat eine erste Erklärung für den stundenlangen Serverausfall gegeben. Eine ausführliche Fehleranalyse soll folgen. (Microsoft 365, Microsoft)</description>
+      <pubDate>Sat, 14 Nov 2026 09:09:06 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) KI-Code in Open Source: Wie Maintainer ihre Projekte vor Überlastung schützen</title>
       <link>https://www.golem.de/news/ki-code-in-open-source-wie-maintainer-ihre-projekte-vor-ueberlastung-schuetzen-2611-215205.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/innerhalb-von-zwei-jahren-vodafone-will-2-300-stellen-in-deutschland-streichen-2611-215002.html</guid>
       <description>Vodafone hat viele Kunden im Mobilfunk- und Breitbandgeschäft verloren und will nun gezielter in den Glasfaserausbau investieren. (Vodafone, Glasfaser)</description>
       <pubDate>Mon, 09 Nov 2026 15:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Preload: GTA 6 deutet getrennte Downloads für Online und Story an</title>
-      <link>https://www.golem.de/news/preload-gta-6-deutet-getrennte-downloads-fuer-online-und-story-an-2611-215003.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/preload-gta-6-deutet-getrennte-downloads-fuer-online-und-story-an-2611-215003.html</guid>
-      <description>Analysen der Preload-Dateien von GTA 6 liefern Hinweise auf Solo- und Online-Modus. Auch im Playstation-Backend gibt es Entdeckungen. (GTA 6, Rockstar)</description>
-      <pubDate>Mon, 09 Nov 2026 15:18:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
