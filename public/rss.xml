@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 14 Nov 2026 13:06:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 14:01:09 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Jobs in Systemadministration, Netzwerkarchitektur und Security</title>
+      <link>https://www.golem.de/news/anzeige-it-jobs-in-systemadministration-netzwerkarchitektur-und-security-2611-215171.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-systemadministration-netzwerkarchitektur-und-security-2611-215171.html</guid>
+      <description>Die sechs Stellenangebote diese Woche reichen von der Administration von IT-Systemen über die Planung komplexer Netzwerke bis zur Entwicklung von Sicherheitskonzepten. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Sat, 14 Nov 2026 14:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Starshield gedrosselt: Ukraine steuert Drohnen über israelische Satellitentechnik</title>
       <link>https://www.golem.de/news/starshield-gedrosselt-ukraine-steuert-drohnen-ueber-israelische-satellitentechnik-2611-215225.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anthropic-fable-5-2-und-mythos-5-2-legen-deutlich-zu-2611-215015.html</guid>
       <description>Anthropic stellt mit Fable 5.2 und Mythos 5.2 zwei neue Claude-Modelle vor, die bis zu 30 Prozent schneller sind als die Vorgänger. (Claude, KI)</description>
       <pubDate>Tue, 10 Nov 2026 06:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>PC-Gaming: Epic Games Launcher kommt offiziell auf SteamOS</title>
-      <link>https://www.golem.de/news/pc-gaming-epic-games-launcher-kommt-offiziell-auf-steamos-2611-215013.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pc-gaming-epic-games-launcher-kommt-offiziell-auf-steamos-2611-215013.html</guid>
-      <description>Der Epic Games Launcher soll künftig auch auf dem Steam Deck laufen. Fortnite bleibt auf Valves Handheld vorerst außen vor. (Steam Deck, Steam)</description>
-      <pubDate>Tue, 10 Nov 2026 06:08:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
