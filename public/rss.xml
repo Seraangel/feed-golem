@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 15 Nov 2026 09:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:46:06 GMT</lastBuildDate>
+    <item>
+      <title>DIY: Wir bauen einen Supercomputer!</title>
+      <link>https://www.golem.de/news/diy-wir-bauen-einen-supercomputer-2611-215201.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/diy-wir-bauen-einen-supercomputer-2611-215201.html</guid>
+      <description>Zweimal im Jahr werden die leistungsfähigsten Supercomputer gekürt. Unser DIY-Modell wäre vor 30 Jahren der schnellste Computer der Welt gewesen. Eine Anleitung von Johannes Hiltscher (Supercomputer, Intel)</description>
+      <pubDate>Sun, 15 Nov 2026 09:45:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Der Golem-Performance-PC mit Black-November-Rabatt bei Systemtreff</title>
       <link>https://www.golem.de/news/anzeige-der-golem-performance-pc-mit-black-november-rabatt-bei-systemtreff-2611-215176.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/yangwang-altior-byd-greift-rolls-royce-mit-elektrischem-luxusauto-an-2611-215017.html</guid>
       <description>Der Yangwang Altior ist noch länger als der Rolls Royce Spectre und soll bis zu 1.000 km weit kommen. Der Preis ist auch kein Schnäppchen. (BYD, Elektroauto)</description>
       <pubDate>Tue, 10 Nov 2026 07:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dringend patchen: Attackierte Chrome-Lücke gefährdet unzählige Nutzer</title>
-      <link>https://www.golem.de/news/dringend-patchen-attackierte-chrome-luecke-gefaehrdet-unzaehlige-nutzer-2611-215019.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/dringend-patchen-attackierte-chrome-luecke-gefaehrdet-unzaehlige-nutzer-2611-215019.html</guid>
-      <description>Ein neues Chrome-Update adressiert mehrere gefährliche Sicherheitslücken. Eine wird bereits aktiv ausgenutzt. Nutzer sollten zügig patchen. (Sicherheitslücke, Google)</description>
-      <pubDate>Tue, 10 Nov 2026 07:25:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
