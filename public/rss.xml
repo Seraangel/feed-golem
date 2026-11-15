@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 15 Nov 2026 11:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 11:36:07 GMT</lastBuildDate>
+    <item>
+      <title>Outlook: Chlorunfall im Phantasialand wegen Microsoft-Panne</title>
+      <link>https://www.golem.de/news/outlook-chlorunfall-im-phantasialand-wegen-microsoft-panne-2611-215231.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/outlook-chlorunfall-im-phantasialand-wegen-microsoft-panne-2611-215231.html</guid>
+      <description>In einem Hotel im Phantasialand sind 15 Gäste durch zu viel Chlor im Pool verletzt worden. Eine Warnung kam wegen der Microsoft-Störung nicht an. (Outlook, Microsoft)</description>
+      <pubDate>Sun, 15 Nov 2026 11:33:02 GMT</pubDate>
+    </item>
     <item>
       <title>Netzwerk geflutet: Ein Router hat die Flugausfälle in den USA verursacht</title>
       <link>https://www.golem.de/news/netzwerk-geflutet-ein-router-hat-die-flugausfaelle-in-den-usa-verursacht-2611-215230.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/hoverair-versa-im-test-eine-kamera-zum-abheben-2611-214963.html</guid>
       <description>Die Hoverair Versa kombiniert eine Gimbalkamera mit einer autonomen Drohne. Im Test zeigt die Kamera am Boden einige Schwächen. Ein Test von Peter Steinlechner (Drohne, Kameras)</description>
       <pubDate>Tue, 10 Nov 2026 08:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen erlernen</title>
-      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-erlernen-2611-215012.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-erlernen-2611-215012.html</guid>
-      <description>Linux-Systemadministration erfordert Kenntnisse in Shell, Dateisystemen und Diensten. Ein fünftägiger Online-Workshop vermittelt die Grundlagen für den Einstieg. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 10 Nov 2026 07:45:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
