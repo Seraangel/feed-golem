@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 15 Nov 2026 09:46:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 10:21:11 GMT</lastBuildDate>
+    <item>
+      <title>Analog statt digtal: Faxgeräte halten Japan beim Outlook-Ausfall am Laufen</title>
+      <link>https://www.golem.de/news/analog-statt-digtal-faxgeraete-halten-japan-beim-outlook-ausfall-am-laufen-2611-215229.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/analog-statt-digtal-faxgeraete-halten-japan-beim-outlook-ausfall-am-laufen-2611-215229.html</guid>
+      <description>Faxgeräte gelten als überholt. In Japan haben sie sich beim Outlook-Ausfall als wichtiges Backup für die Kommunikation erwiesen. (Outlook, Groupware)</description>
+      <pubDate>Sun, 15 Nov 2026 10:17:10 GMT</pubDate>
+    </item>
     <item>
       <title>DIY: Wir bauen einen Supercomputer!</title>
       <link>https://www.golem.de/news/diy-wir-bauen-einen-supercomputer-2611-215201.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/adrenalin-bug-radeon-treiber-schreibt-im-leerlauf-staendig-auf-ssds-2611-215020.html</guid>
       <description>AMD bestätigt den Fehler. Der Fix soll mit Adrenalin 26.11.1 kommen, bis dahin helfen nur Notlösungen. (Grafikkarten, AMD)</description>
       <pubDate>Tue, 10 Nov 2026 07:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yangwang Altior: BYD macht Rolls Royce mit Luxus-Limousine Konkurrenz</title>
-      <link>https://www.golem.de/news/yangwang-altior-byd-greift-rolls-royce-mit-elektrischem-luxusauto-an-2611-215017.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/yangwang-altior-byd-greift-rolls-royce-mit-elektrischem-luxusauto-an-2611-215017.html</guid>
-      <description>Der Yangwang Altior ist noch länger als der Rolls Royce Spectre und soll bis zu 1.000 km weit kommen. Der Preis ist auch kein Schnäppchen. (BYD, Elektroauto)</description>
-      <pubDate>Tue, 10 Nov 2026 07:34:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
