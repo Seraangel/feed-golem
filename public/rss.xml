@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 14 Nov 2026 23:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 09:01:09 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Führung in der IT: Vom Entwickler zum Chef: Diese Fehler bremsen das ganze Team</title>
+      <link>https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html</guid>
+      <description>Der Vertrieb verspricht Funktionen, die Entwicklung weiß von nichts. Und der Chef programmiert lieber selbst. Wie IT-Führungskräfte solche Fehler vermeiden. Ein Ratgebertext von Pierre Wilken (IT-Führung, Softwareentwicklung)</description>
+      <pubDate>Sun, 15 Nov 2026 09:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Petition: Nvidia-Mitarbeiter und Elon Musk wollen Huang zurück</title>
       <link>https://www.golem.de/news/petition-nvidia-mitarbeiter-und-elon-musk-wollen-huang-zurueck-2611-215228.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/scx-26-kriegsschiff-mit-100-startschaechten-soll-drohnen-abwehren-2611-215016.html</guid>
       <description>Die französische Naval Group zeigt mit der SCX 26 ein visionäres Kriegsschiff, das Drohnenabwehr, Modularität und Automatisierung verbinden soll. (Militär, Politik)</description>
       <pubDate>Tue, 10 Nov 2026 06:51:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Forefront-Konzept: Renault baut Boden-Drohne aus Autoteilen</title>
-      <link>https://www.golem.de/news/forefront-konzept-renault-baut-boden-drohne-aus-autoteilen-2611-215018.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/forefront-konzept-renault-baut-boden-drohne-aus-autoteilen-2611-215018.html</guid>
-      <description>Renault und John Cockerill zeigen mit Forefront einen modularen Bodenroboter, der zivile und militärische Einsätze verbinden soll. (Roboter, Auto)</description>
-      <pubDate>Tue, 10 Nov 2026 06:37:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
