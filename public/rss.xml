@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 12:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:35:55 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Entwicklerportale: Erst Baukasten, dann Dauerbaustelle</title>
+      <link>https://www.golem.de/news/entwicklerportale-erst-baukasten-dann-dauerbaustelle-2611-215212.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/entwicklerportale-erst-baukasten-dann-dauerbaustelle-2611-215212.html</guid>
+      <description>Backstage ist kostenlos, kann aber mehrere Vollzeitstellen erfordern. Was Entwicklerportale tatsächlich kosten, wann sich der Aufwand lohnt und wann eine einfache Tabelle genügt. Ein Erfahrungsbericht von Rene Koch (Softwareentwicklung, Server)</description>
+      <pubDate>Mon, 16 Nov 2026 12:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ladegerät mit 100 W und vier Ports reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ladegeraet-mit-100-w-und-vier-ports-reduziert-bei-amazon-2611-215263.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/whatsapp-signal-und-co-deepmind-ki-liefert-beweis-fuer-signal-verschluesselung-2611-215053.html</guid>
       <description>Die von Deepmind entwickelte Methode könnte den mathematischen Beweis für Softwaresicherheit deutlich vereinfachen. (KI, Google)</description>
       <pubDate>Tue, 10 Nov 2026 16:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia: Huangs jahrelange Beziehung soll 7,5 Milliarden US-Dollar gebracht haben</title>
-      <link>https://www.golem.de/news/nvidia-huangs-jahrelange-beziehung-soll-7-5-milliarden-us-dollar-gebracht-haben-2611-215052.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nvidia-huangs-jahrelange-beziehung-soll-7-5-milliarden-us-dollar-gebracht-haben-2611-215052.html</guid>
-      <description>Jensen Huangs Verhältnis zu Alice Huang soll Nvidia Zugang zu Chinas Markt ermöglicht haben - und Milliarden an US-Dollar Umsatz für Nvidia. (Nvidia, KI)</description>
-      <pubDate>Tue, 10 Nov 2026 15:56:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
