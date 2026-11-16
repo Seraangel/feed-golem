@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 15:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:35:53 GMT</lastBuildDate>
+    <item>
+      <title>DIY: Bastler baut 486-PC mit Breadboards und FPGA</title>
+      <link>https://www.golem.de/news/diy-bastler-baut-486-pc-mit-breadboards-und-fpga-2611-215267.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/diy-bastler-baut-486-pc-mit-breadboards-und-fpga-2611-215267.html</guid>
+      <description>Von einer blinkenden LED zu Doom in wenigen Wochen: Der DIY Retro-PC eines japanischen Entwicklers funktioniert besser, als die Bilder vermuten lassen. (DIY - Do it yourself, Computer)</description>
+      <pubDate>Mon, 16 Nov 2026 15:33:08 GMT</pubDate>
+    </item>
     <item>
       <title>Sportuhr: Garmin platziert Solarzellen zwischen AMOLED-Pixel</title>
       <link>https://www.golem.de/news/sportuhr-garmin-platziert-solarzellen-zwischen-amoled-pixel-2611-215273.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/formula-2030-polestar-holt-physische-tasten-ins-auto-zurueck-2611-215059.html</guid>
       <description>Die flache Designstudie Formula 2030 gibt Hinweise auf Polestars kommende E-Autos. Im Innenraum kehren zudem physische Bedienelemente zurück. (Elektroauto, Auto)</description>
       <pubDate>Tue, 10 Nov 2026 18:10:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Anker Solix C1000 Powerstation mit 2000 W erstmals unter 500 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-anker-solix-c1000-powerstation-mit-2000-w-erstmals-unter-500-euro-bei-amazon-2611-215049.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-anker-solix-c1000-powerstation-mit-2000-w-erstmals-unter-500-euro-bei-amazon-2611-215049.html</guid>
-      <description>Die Anker Solix C1000 Gen 2 speichert 1.024 Wattstunden, liefert 2.000 Watt Dauerleistung und ist bei Amazon so günstig wie noch nie. (Technik/Hardware, Powerstation)</description>
-      <pubDate>Tue, 10 Nov 2026 18:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
