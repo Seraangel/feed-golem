@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 09:40:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:00:53 GMT</lastBuildDate>
+    <item>
+      <title>BSI warnt: Verheerende Firmware-Lücken gefährden weiterhin Kühlanlagen</title>
+      <link>https://www.golem.de/news/bsi-warnt-verheerende-firmware-luecken-gefaehrden-weiterhin-kuehlanlagen-2611-215249.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bsi-warnt-verheerende-firmware-luecken-gefaehrden-weiterhin-kuehlanlagen-2611-215249.html</guid>
+      <description>Viele Kühlanlagen in Supermärkten scheinen noch immer anfällig für Cyberangriffe zu sein. Das BSI schlägt aufgrund neuer Funde Alarm. (Sicherheitslücke, Firmware)</description>
+      <pubDate>Mon, 16 Nov 2026 09:56:10 GMT</pubDate>
+    </item>
     <item>
       <title>Vulcan-Rakete: Amazon verliert 40 Breitband-Satelliten</title>
       <link>https://www.golem.de/news/vulcan-rakete-amazon-verliert-40-breitband-satelliten-2611-215250.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/klimakrise-co2-emissionen-aus-oel-gas-und-kohle-sinken-weltweit-2611-215037.html</guid>
       <description>2026 wird der CO2-Ausstoß aus fossilen Energieträgern kleiner. 40 Länder weltweit konnten die Emissionen senken, während die Wirtschaft wächst. (Klimakrise, Wissenschaft)</description>
       <pubDate>Tue, 10 Nov 2026 11:42:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angriff auf Beget: Hacker zerstören Daten und Backups eines russischen Hosters</title>
-      <link>https://www.golem.de/news/angriff-auf-beget-hacker-zerstoeren-daten-und-backups-eines-russischen-hosters-2611-215035.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/angriff-auf-beget-hacker-zerstoeren-daten-und-backups-eines-russischen-hosters-2611-215035.html</guid>
-      <description>Angreifer sind in die IT von einem der größten Hoster Russlands eingedrungen und haben Daten unzähliger Kunden unwiederbringlich gelöscht. (Cybercrime, Back-up)</description>
-      <pubDate>Tue, 10 Nov 2026 11:28:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
