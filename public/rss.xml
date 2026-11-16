@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 10:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 10:30:56 GMT</lastBuildDate>
+    <item>
+      <title>Gamedev: Mobile-Games-Studios setzen besonders häufig auf KI</title>
+      <link>https://www.golem.de/news/gamedev-mobile-games-studios-setzen-besonders-haeufig-auf-ki-2611-215252.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gamedev-mobile-games-studios-setzen-besonders-haeufig-auf-ki-2611-215252.html</guid>
+      <description>Eine große Entwicklerumfrage zeigt auch, wofür KI tatsächlich genutzt wird: Es sind eher nicht finale Spielinhalte. (GDC 2027, KI)</description>
+      <pubDate>Mon, 16 Nov 2026 10:25:03 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Boom: Samsung will Komplettanbieter für KI-Rechenzentren werden</title>
       <link>https://www.golem.de/news/ki-boom-samsung-will-komplettanbieter-fuer-ki-rechenzentren-werden-2611-215251.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/capacities-im-test-das-notizprogramm-fuer-einzelgaenger-2611-214997.html</guid>
       <description>Capacities ist ein ungewöhnliches Notizprogramm: Gedanken werden zu Objekten, Coworking gibt es nicht. Für Eigenbrötler wie mich genau das Richtige. Ein Test von Tobias Költzsch (Unternehmenssoftware, Office-Suite)</description>
       <pubDate>Tue, 10 Nov 2026 12:30:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Andrea Nahles: Bundesarbeitsagentur erwartet 800.000 Arbeitsplätze weniger durch KI</title>
-      <link>https://www.golem.de/news/andrea-nahles-bundesarbeitsagentur-erwartet-800-000-arbeitsplaetze-weniger-durch-ki-2611-215038.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/andrea-nahles-bundesarbeitsagentur-erwartet-800-000-arbeitsplaetze-weniger-durch-ki-2611-215038.html</guid>
-      <description>Die Bundesarbeitsagentur rechnet wegen KI mit einem weitreichenden Umbau des Arbeitsmarkts. Besonders hart trifft es den Nachwuchs. (KI, Wirtschaft)</description>
-      <pubDate>Tue, 10 Nov 2026 11:57:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
