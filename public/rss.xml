@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 16:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:10:54 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Amazon Fire TV Stick 4K Plus zum Aktionspreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-amazon-fire-tv-stick-4k-plus-zum-aktionspreis-bei-amazon-2611-215275.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-amazon-fire-tv-stick-4k-plus-zum-aktionspreis-bei-amazon-2611-215275.html</guid>
+      <description>Amazon bietet seinen Fire TV Stick 4K Plus mit Wi-Fi 6, Alexa+ und Dolby Vision in einem frühen Black Friday Angebot zum Aktionspreis an. (Fire TV Stick, Amazon)</description>
+      <pubDate>Mon, 16 Nov 2026 16:05:06 GMT</pubDate>
+    </item>
     <item>
       <title>Nebenkostenprivileg: Verfassungsgericht bestätigt Kündigungsrecht der Vermieter</title>
       <link>https://www.golem.de/news/nebenkostenprivileg-verfassungsgericht-bestaetigt-kuendigungsrecht-der-vermieter-2611-215277.html</link>
@@ -195,7 +202,7 @@
       <pubDate>Mon, 16 Nov 2026 10:10:03 GMT</pubDate>
     </item>
     <item>
-      <title>BSI warnt: Kühlanlagen in Supermärkten weiterhin durch Firmware-Lücken gefährdet</title>
+      <title>BSI warnt: Verheerende Firmware-Lücken gefährden weiterhin Kühlanlagen</title>
       <link>https://www.golem.de/news/bsi-warnt-verheerende-firmware-luecken-gefaehrden-weiterhin-kuehlanlagen-2611-215249.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/bsi-warnt-verheerende-firmware-luecken-gefaehrden-weiterhin-kuehlanlagen-2611-215249.html</guid>
       <description>Viele Kühlanlagen in Supermärkten scheinen noch immer anfällig für Cyberangriffe zu sein. Das BSI schlägt aufgrund neuer Funde Alarm. (Sicherheitslücke, Firmware)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/arctic-hunter-kongsberg-entwickelt-unbemanntes-system-fuer-die-u-boot-jagd-2611-215065.html</guid>
       <description>Mit einem unbemannten Überwasserfahrzeug will Kongsberg Maritime die britische Royal Navy bei der U-Boot-Abwehr im hohen Norden unterstützen. (Schifffahrt, Politik)</description>
       <pubDate>Wed, 11 Nov 2026 06:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Starlink Mini 2: Tragbares Starlink hat jetzt einen Akku</title>
-      <link>https://www.golem.de/news/satelliteninternet-starlink-mini-2-hat-jetzt-einen-akku-2611-215064.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/satelliteninternet-starlink-mini-2-hat-jetzt-einen-akku-2611-215064.html</guid>
-      <description>Das neue Produkt von SpaceX soll auch ohne ständige Verbindung zu einer externen Stromquelle funktionieren. (Starlink, Satelliteninternet)</description>
-      <pubDate>Wed, 11 Nov 2026 06:14:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
