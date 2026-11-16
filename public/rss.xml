@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 06:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 06:56:06 GMT</lastBuildDate>
+    <item>
+      <title>Patentanmeldung: Playstation-Controller könnte bald als Kartenleser dienen</title>
+      <link>https://www.golem.de/news/patentanmeldung-playstation-controller-koennte-bald-als-kartenleser-dienen-2611-215238.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/patentanmeldung-playstation-controller-koennte-bald-als-kartenleser-dienen-2611-215238.html</guid>
+      <description>Sony beschreibt einen Controller, der Smartphone und Karte per NFC erkennt. Die Zahlung läuft direkt über die Konsole. (Playstation, Sony)</description>
+      <pubDate>Mon, 16 Nov 2026 06:50:10 GMT</pubDate>
+    </item>
     <item>
       <title>Brandschutz: Dieses System löscht Feuer mit Infraschall</title>
       <link>https://www.golem.de/news/brandschutz-dieses-system-loescht-feuer-mit-infraschall-2611-215237.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-eufy-solar-aussenueberwachungskamera-ohne-abo-fast-zum-bestpreis-bei-amazon-2611-215028.html</guid>
       <description>Die Eufy SoloCam S340 überwacht mit zwei Kameras, 3K und Solarpanel das Grundstück und ist schon vor der Black Week fast so günstig wie nie. (Technik/Hardware, Akku)</description>
       <pubDate>Tue, 10 Nov 2026 09:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Able2Shell: Geleakte N-central-Exploits gefährden unzählige Unternehmen</title>
-      <link>https://www.golem.de/news/able2shell-geleakte-n-central-exploits-gefaehrden-unzaehlige-unternehmen-2611-215026.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/able2shell-geleakte-n-central-exploits-gefaehrden-unzaehlige-unternehmen-2611-215026.html</guid>
-      <description>Nach einem Leak von über 30 N-central-Exploits hat N-able seine Server offline genommen - mit Folgen für die IT-Verwaltung zahlreicher Unternehmen. (Sicherheitslücke, Server)</description>
-      <pubDate>Tue, 10 Nov 2026 09:37:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
