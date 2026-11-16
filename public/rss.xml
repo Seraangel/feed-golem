@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 15:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:20:57 GMT</lastBuildDate>
+    <item>
+      <title>Sportuhr: Garmin platziert Solarzellen zwischen AMOLED-Pixel</title>
+      <link>https://www.golem.de/news/sportuhr-garmin-platziert-solarzellen-zwischen-amoled-pixel-2611-215273.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sportuhr-garmin-platziert-solarzellen-zwischen-amoled-pixel-2611-215273.html</guid>
+      <description>Mit einem Trick könnte Garmin bei AMOLED-und Micro-LED-Bildschirmchen möglicherweise Solarstrom gewinnen. (Garmin, Display)</description>
+      <pubDate>Mon, 16 Nov 2026 15:18:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ninja Dual-Zone-Heißluftfritteuse mit 9,5 Litern am frühen Black Friday zum Bestpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ninja-dual-zone-heissluftfritteuse-mit-9-5-litern-am-fruehen-black-friday-zum-bestpreis-bei-amazon-2611-215272.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-anker-solix-c1000-powerstation-mit-2000-w-erstmals-unter-500-euro-bei-amazon-2611-215049.html</guid>
       <description>Die Anker Solix C1000 Gen 2 speichert 1.024 Wattstunden, liefert 2.000 Watt Dauerleistung und ist bei Amazon so günstig wie noch nie. (Technik/Hardware, Powerstation)</description>
       <pubDate>Tue, 10 Nov 2026 18:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>DCF77-Signal: Wetterstationen mit Meteotime könnten dauerhaft ausfallen</title>
-      <link>https://www.golem.de/news/dcf77-signal-wetterstationen-mit-meteotime-koennten-dauerhaft-ausfallen-2611-215062.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/dcf77-signal-wetterstationen-mit-meteotime-koennten-dauerhaft-ausfallen-2611-215062.html</guid>
-      <description>Seit mehr als vier Monaten erhalten Wetterstationen keine Vorhersagen mehr über das Funksignal DCF77. Hama bietet einen kostenlosen Gerätetausch an. (Technik/Hardware)</description>
-      <pubDate>Tue, 10 Nov 2026 17:48:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
