@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 12:55:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:05:54 GMT</lastBuildDate>
+    <item>
+      <title>Golem Rooms: Sichere Videogespräche mit mehr Kontrolle</title>
+      <link>https://www.golem.de/news/golem-rooms-sichere-videogespraeche-mit-mehr-kontrolle-2611-215199.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/golem-rooms-sichere-videogespraeche-mit-mehr-kontrolle-2611-215199.html</guid>
+      <description>Wichtige Calls bleiben im Kopf - nicht auf dem Server: Mit Rooms startet Golem eine eigene, digital souveräne Videolösung für vertrauliche Gespräche. (In eigener Sache, Software)</description>
+      <pubDate>Mon, 16 Nov 2026 13:02:10 GMT</pubDate>
+    </item>
     <item>
       <title>NoisyTCP: Kernel-Lücke lässt Angreifer Linux-Systeme lahmlegen</title>
       <link>https://www.golem.de/news/noisytcp-kernel-luecke-laesst-angreifer-linux-systeme-lahmlegen-2611-215261.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-gaming-monitor-mit-25-und-300-hz-fuer-unter-100-euro-bei-amazon-2611-215048.html</guid>
       <description>Einen Gaming-Monitor mit 25''-IPS-Display, FHD-Auflösung, 300 Hz und 1 Millisekunde MPRT gibt es zum neuen Tiefstpreis bei Amazon. (Technik/Hardware, Acer)</description>
       <pubDate>Tue, 10 Nov 2026 16:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Halbleiterproduktion in China: Alibaba beantragt Börsengang für T-Head in Hongkong</title>
-      <link>https://www.golem.de/news/halbleiterproduktion-in-china-alibaba-beantragt-boersengang-fuer-t-head-in-hongkong-2611-215054.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/halbleiterproduktion-in-china-alibaba-beantragt-boersengang-fuer-t-head-in-hongkong-2611-215054.html</guid>
-      <description>Der Börsengang von T-Head soll Alibabas Halbleitersparte direkten Zugang zu Fremdkapital ermöglichen. (KI, Börse)</description>
-      <pubDate>Tue, 10 Nov 2026 16:34:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
