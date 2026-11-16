@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 13:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:10:54 GMT</lastBuildDate>
+    <item>
+      <title>Directroutes: Telekom verkauft kostenpflichtiges Peering über den DE-CIX</title>
+      <link>https://www.golem.de/news/directroutes-telekom-verkauft-kostenpflichtiges-peering-ueber-den-de-cix-2611-215265.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/directroutes-telekom-verkauft-kostenpflichtiges-peering-ueber-den-de-cix-2611-215265.html</guid>
+      <description>Über den DE-CIX bietet die Telekom kleineren Providern künftig einen direkten Zugang zu ihrem Endkundennetz an. Doch ihr Peering bleibt kostenpflichtig. (DE-CIX, Telekom)</description>
+      <pubDate>Mon, 16 Nov 2026 13:08:06 GMT</pubDate>
+    </item>
     <item>
       <title>Golem Rooms: Sichere Videogespräche mit mehr Kontrolle</title>
       <link>https://www.golem.de/news/golem-rooms-sichere-videogespraeche-mit-mehr-kontrolle-2611-215199.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/hohe-nachfrage-bund-plant-2027-deutlich-mehr-geld-fuer-e-auto-praemie-ein-2611-215056.html</guid>
       <description>Die Bundesregierung korrigiert ihre Haushaltspläne für die Kaufprämie. Die Mittel für 2027 sollen für rund 400.000 geförderte E-Autos reichen. (Elektroauto, Tesla)</description>
       <pubDate>Tue, 10 Nov 2026 16:51:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Gaming-Monitor mit 25'' und 300 Hz für unter 100 Euro bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-gaming-monitor-mit-25-und-300-hz-fuer-unter-100-euro-bei-amazon-2611-215048.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-gaming-monitor-mit-25-und-300-hz-fuer-unter-100-euro-bei-amazon-2611-215048.html</guid>
-      <description>Einen Gaming-Monitor mit 25''-IPS-Display, FHD-Auflösung, 300 Hz und 1 Millisekunde MPRT gibt es zum neuen Tiefstpreis bei Amazon. (Technik/Hardware, Acer)</description>
-      <pubDate>Tue, 10 Nov 2026 16:40:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
