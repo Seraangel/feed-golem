@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 14:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:05:59 GMT</lastBuildDate>
+    <item>
+      <title>Sicherheitsvorfall: Massenhaft unberechtigte Anmeldeversuche bei Bürgerkonto BundID</title>
+      <link>https://www.golem.de/news/sicherheitsvorfall-massenhaft-unberechtigte-anmeldeversuche-bei-buergerkonto-bundid-2611-215270.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsvorfall-massenhaft-unberechtigte-anmeldeversuche-bei-buergerkonto-bundid-2611-215270.html</guid>
+      <description>Das BSI bestätigt den Sicherheitsvorfall, der zur Sperrung einiger BundID-Konten führt. (Security, BSI)</description>
+      <pubDate>Mon, 16 Nov 2026 15:02:02 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft-Ausfall: Monate alter Update-Fehler legte Outlook weltweit lahm</title>
       <link>https://www.golem.de/news/microsoft-ausfall-monate-alter-update-fehler-legte-outlook-weltweit-lahm-2611-215269.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-claude-code-ki-agenten-fuer-die-softwareentwicklung-nutzen-2611-215014.html</guid>
       <description>Claude Code ermöglicht KI-gestützte Softwareentwicklung. Ein dreitägiger Workshop zeigt, wie Entwickler mit Agentic Coding, Spezifikationen und Tests arbeiten. (Golem Karrierewelt, Programmiersprachen)</description>
       <pubDate>Tue, 10 Nov 2026 17:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Melbourne-Toulouse: Qantas stellt mit Airbus A350-1000ULR neuen Langstreckenrekord auf</title>
-      <link>https://www.golem.de/news/melbourne-toulouse-qantas-stellt-mit-airbus-a350-1000ulr-neuen-langstreckenrekord-auf-2611-215057.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/melbourne-toulouse-qantas-stellt-mit-airbus-a350-1000ulr-neuen-langstreckenrekord-auf-2611-215057.html</guid>
-      <description>Der Rekordflug des Airbus A350-1000ULR soll den Weg für regelmäßige Nonstopflüge bereiten. (Airbus, Flugzeug)</description>
-      <pubDate>Tue, 10 Nov 2026 17:31:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
