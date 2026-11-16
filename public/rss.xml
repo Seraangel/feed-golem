@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 14:30:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:45:58 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft-Ausfall: Monate alter Update-Fehler legte Outlook weltweit lahm</title>
+      <link>https://www.golem.de/news/microsoft-ausfall-monate-alter-update-fehler-legte-outlook-weltweit-lahm-2611-215269.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-ausfall-monate-alter-update-fehler-legte-outlook-weltweit-lahm-2611-215269.html</guid>
+      <description>Ein fehlerhaftes Software-Update vom Juli 2026 und unzureichende Belastungstests haben zu einem kaskadierenden Serverausfall bei Microsoft geführt. (Microsoft, Windows)</description>
+      <pubDate>Mon, 16 Nov 2026 14:44:11 GMT</pubDate>
+    </item>
     <item>
       <title>Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab</title>
       <link>https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/melbourne-toulouse-qantas-stellt-mit-airbus-a350-1000ulr-neuen-langstreckenrekord-auf-2611-215057.html</guid>
       <description>Der Rekordflug des Airbus A350-1000ULR soll den Weg für regelmäßige Nonstopflüge bereiten. (Airbus, Flugzeug)</description>
       <pubDate>Tue, 10 Nov 2026 17:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>PC-Gaming: Steam zeigt erstmals echte Frameraten</title>
-      <link>https://www.golem.de/news/pc-gaming-steam-zeigt-erstmals-echte-frameraten-2611-215055.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pc-gaming-steam-zeigt-erstmals-echte-frameraten-2611-215055.html</guid>
-      <description>Wie flüssig läuft ein Spiel auf dem Steam Deck? Valve veröffentlicht erstmals Bildraten aus der Praxis. Andere Geräte sollen folgen. (Steam, Valve)</description>
-      <pubDate>Tue, 10 Nov 2026 17:16:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
