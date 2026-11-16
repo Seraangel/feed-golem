@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 13:10:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 13:26:00 GMT</lastBuildDate>
+    <item>
+      <title>PHP2Shell: Gehackte Gateways von Check Point schleusen Malware ein</title>
+      <link>https://www.golem.de/news/php2shell-gehackte-gateways-von-check-point-schleusen-malware-ein-2611-215264.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/php2shell-gehackte-gateways-von-check-point-schleusen-malware-ein-2611-215264.html</guid>
+      <description>Das eigentliche Ziel sind Hosts für VMware ESXi, auf denen die Angreifer einen Data Wiper installieren. (Malware, PHP)</description>
+      <pubDate>Mon, 16 Nov 2026 13:23:06 GMT</pubDate>
+    </item>
     <item>
       <title>Directroutes: Telekom verkauft kostenpflichtiges Peering über den DE-CIX</title>
       <link>https://www.golem.de/news/directroutes-telekom-verkauft-kostenpflichtiges-peering-ueber-den-de-cix-2611-215265.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-100-w-usb-ladegeraet-von-anker-fuer-unter-50-euro-im-fruehen-black-friday-angebot-2611-215058.html</guid>
       <description>Ein 100-W-USB-Ladegerät von Anker mit drei Anschlüssen ist unter den frühen Black Friday Angeboten. Weitere Elektronik des Herstellers ist ebenfalls reduziert. (Black Friday, Amazon)</description>
       <pubDate>Tue, 10 Nov 2026 16:53:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hohe Nachfrage: Bund plant 2027 deutlich mehr Geld für E-Auto-Prämie ein</title>
-      <link>https://www.golem.de/news/hohe-nachfrage-bund-plant-2027-deutlich-mehr-geld-fuer-e-auto-praemie-ein-2611-215056.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hohe-nachfrage-bund-plant-2027-deutlich-mehr-geld-fuer-e-auto-praemie-ein-2611-215056.html</guid>
-      <description>Die Bundesregierung korrigiert ihre Haushaltspläne für die Kaufprämie. Die Mittel für 2027 sollen für rund 400.000 geförderte E-Autos reichen. (Elektroauto, Tesla)</description>
-      <pubDate>Tue, 10 Nov 2026 16:51:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
