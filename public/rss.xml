@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 17:26:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:46:11 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Penetration Testing: Sicherheitslücken erkennen und ausnutzen</title>
+      <link>https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-erkennen-und-ausnutzen-2611-215284.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-erkennen-und-ausnutzen-2611-215284.html</guid>
+      <description>Penetration Testing macht Schwachstellen in IT-Systemen sichtbar. Ein zweitägiger Online-Workshop vermittelt Angriffstechniken und den praktischen Einsatz von Kali Linux und Burp. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 17 Nov 2026 17:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Amazon ruft Black Friday bei Hazet aus: Reifenfüller, Kalender, Drehmoment, Bits</title>
       <link>https://www.golem.de/news/anzeige-amazon-ruft-black-friday-bei-hazet-aus-reifenfueller-kalender-drehmoment-bits-2611-215325.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/schweitzers-reformplan-laengere-befristungen-weniger-kuendigungsschutz-2611-215115.html</guid>
       <description>Bundesarbeitsminister Alexander Schweitzer will Befristungen ausweiten, Sonntagsarbeit erleichtern und den Kündigungsschutz für Topverdiener lockern. (Arbeit, Wirtschaft)</description>
       <pubDate>Thu, 12 Nov 2026 08:01:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Führungskrise bei Nvidia: Elon Musk würde Jensen Huang gern einstellen</title>
-      <link>https://www.golem.de/news/fuehrungskrise-bei-nvidia-musk-wuerde-jensen-huang-gern-einstellen-2611-215116.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuehrungskrise-bei-nvidia-musk-wuerde-jensen-huang-gern-einstellen-2611-215116.html</guid>
-      <description>Nvidias Vorstand berät über die Abberufung von Jensen Huang. Elon Musk sagt, ihn einzustellen, wäre ihm eine Ehre. (Nvidia, Wirtschaft)</description>
-      <pubDate>Thu, 12 Nov 2026 07:34:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
