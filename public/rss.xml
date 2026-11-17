@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 08:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:11:09 GMT</lastBuildDate>
+    <item>
+      <title>Nachrichtendienstreform: So können Geheimdienste künftig Fahrzeugdaten auswerten</title>
+      <link>https://www.golem.de/news/nachrichtendienstreform-so-koennen-geheimdienste-kuenftig-fahrzeugdaten-auswerten-2611-215279.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nachrichtendienstreform-so-koennen-geheimdienste-kuenftig-fahrzeugdaten-auswerten-2611-215279.html</guid>
+      <description>BND und Verfassungsschutz sollen künftig Fahrzeugdaten abfragen dürfen. Bereits existierende technische Spezifikationen zeigen, wie weit die Möglichkeiten reichen. Ein Bericht von Erich Moechel (Datensicherheit, Datenschutz)</description>
+      <pubDate>Tue, 17 Nov 2026 09:07:10 GMT</pubDate>
+    </item>
     <item>
       <title>Linux: Neues Librem-Smartphone mit Risc-V kostet 1.900 Euro</title>
       <link>https://www.golem.de/news/linux-neues-librem-smartphone-mit-risc-v-kostet-1-900-euro-2611-215294.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-sicherheitsvorfall-mit-openai-australien-prueft-straftatbestand-gegen-unsichere-ki-2611-215079.html</guid>
       <description>Neben der Schaffung einer neuen Sicherheitsbehörde will Australien Unternehmen, die wissentlich unsichere KI-Modelle auf den Markt bringen, bestrafen. (KI, Politik)</description>
       <pubDate>Wed, 11 Nov 2026 10:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sony: Playstation wendet sich weiter vom PC ab</title>
-      <link>https://www.golem.de/news/sony-playstation-wendet-sich-weiter-vom-pc-ab-2611-215077.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sony-playstation-wendet-sich-weiter-vom-pc-ab-2611-215077.html</guid>
-      <description>PC-Spieler verlieren eine Möglichkeit, Konsolenspiele ohne Playstation zu nutzen: Sony verabschiedet sich von seiner PS-Plus-App für Windows. (Playstation Plus, Sony)</description>
-      <pubDate>Wed, 11 Nov 2026 10:36:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
