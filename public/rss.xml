@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 11:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:56:08 GMT</lastBuildDate>
+    <item>
+      <title>Fate of the Galaxy: Star Wars bekommt nach 19 Jahren ein Fan-Weltraumspiel</title>
+      <link>https://www.golem.de/news/fate-of-the-galaxy-star-wars-bekommt-nach-19-jahren-ein-fan-weltraumspiel-2611-215307.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fate-of-the-galaxy-star-wars-bekommt-nach-19-jahren-ein-fan-weltraumspiel-2611-215307.html</guid>
+      <description>Mehr als 60 Raumschiffe, Kampagnen für Rebellen und Imperium: Fans haben mit Fate of the Galaxy ein Star-Wars-Weltraumspiel veröffentlicht. (Star Wars, Disney)</description>
+      <pubDate>Tue, 17 Nov 2026 11:54:09 GMT</pubDate>
+    </item>
     <item>
       <title>Datensammlung: Windows 11 meldet Coding-Agenten und Entwickler-Tools an Microsoft</title>
       <link>https://www.golem.de/news/datensammlung-windows-11-meldet-coding-agenten-und-entwickler-tools-an-microsoft-2611-215308.html</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 17 Nov 2026 11:25:07 GMT</pubDate>
     </item>
     <item>
-      <title>Xreal 1 Pro+ im Test: Kino und Büro für die Nase</title>
+      <title>Xreal 1 Pro+ im Test: Ein Heimkino auf der Nase, einen Heizkörper an der Stirn</title>
       <link>https://www.golem.de/news/xreal-1-pro-im-test-kino-und-buero-fuer-die-nase-2611-215271.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/xreal-1-pro-im-test-kino-und-buero-fuer-die-nase-2611-215271.html</guid>
       <description>Xreals Displaybrille 1 Pro+ macht Spaß beim Filmegucken. Auch zum Arbeiten lässt sich die Brille verwenden - kann aber etwas warm werden an der Stirn. Ein Test von Tobias Költzsch (Datenbrille, OLED)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/reservekraftwerk-flexible-wasserstoffturbine-geht-in-testbetrieb-2611-215093.html</guid>
       <description>Die mit 34 Megawatt bisher größte Gasturbine für reine Wasserstoffverbrennung geht in Lingen in Betrieb. Sie ist Teil des Wasserstoffnetzwerks. (Wasserstoff, Brennstoffzelle)</description>
       <pubDate>Wed, 11 Nov 2026 14:09:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Höchster Schweregrad: Adobe schließt kritische Lücken in Connect</title>
-      <link>https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/hoechster-schweregrad-adobe-schliesst-kritische-luecken-in-connect-2611-215092.html</guid>
-      <description>Die Lernumgebung Connect ist aus der Ferne und ohne Interaktion mit Nutzern angreifbar. (Patchday, Adobe)</description>
-      <pubDate>Wed, 11 Nov 2026 13:25:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
