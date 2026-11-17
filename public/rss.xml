@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 10:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:41:08 GMT</lastBuildDate>
+    <item>
+      <title>Wirtschaft: 15 Millionen geleakte Interna der Deutschen Bank analysiert</title>
+      <link>https://www.golem.de/news/wirtschaft-15-millionen-geleakte-interna-der-deutschen-bank-analysiert-2611-215302.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wirtschaft-15-millionen-geleakte-interna-der-deutschen-bank-analysiert-2611-215302.html</guid>
+      <description>Ein Datenleak bei der Deutschen Bank offenbart riskante Russland-Pläne, vertuschte Pannen und millionenschwere Epstein-Zahlungen. (Datenleck, Politik)</description>
+      <pubDate>Tue, 17 Nov 2026 10:40:04 GMT</pubDate>
+    </item>
     <item>
       <title>Ask Maps startet in Deutschland: Google Maps wird zum KI-Guide</title>
       <link>https://www.golem.de/news/ask-maps-startet-in-deutschland-google-maps-wird-zum-ki-guide-2611-215299.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/code-analyse-telekom-braucht-rund-um-die-uhr-ki-modelle-gegen-zero-day-luecken-2611-215088.html</guid>
       <description>Der Chief Security Officer der Telekom räumt mit verbreiteten Mythen rund um KI auf. Ein besonderes Sicherheitsprobleme sieht er bei Open Source. (Softwareentwicklung, KI)</description>
       <pubDate>Wed, 11 Nov 2026 12:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>2-nm-Fertigung: Rapidus scheint Produktionsstart verschieben zu müssen</title>
-      <link>https://www.golem.de/news/2-nm-fertigung-rapidus-scheint-produktionsstart-verschieben-zu-muessen-2611-215085.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/2-nm-fertigung-rapidus-scheint-produktionsstart-verschieben-zu-muessen-2611-215085.html</guid>
-      <description>Das japanische Halbleiter-Start-up Rapidus plagen wohl noch diverse Probleme. Zentrale Schaltungsteile sollen nicht wie geplant funktionieren. (Halbleiterfertigung, IBM)</description>
-      <pubDate>Wed, 11 Nov 2026 12:04:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
