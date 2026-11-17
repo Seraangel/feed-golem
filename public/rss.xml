@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 11:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:16:07 GMT</lastBuildDate>
+    <item>
+      <title>Xreal 1 Pro+ im Test: Kino und Büro für die Nase</title>
+      <link>https://www.golem.de/news/xreal-1-pro-im-test-kino-und-buero-fuer-die-nase-2611-215271.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/xreal-1-pro-im-test-kino-und-buero-fuer-die-nase-2611-215271.html</guid>
+      <description>Xreals Displaybrille 1 Pro+ macht Spaß beim Filmegucken. Auch zum Arbeiten lässt sich die Brille verwenden - kann aber etwas warm werden an der Stirn. Ein Test von Tobias Költzsch (Datenbrille, OLED)</description>
+      <pubDate>Tue, 17 Nov 2026 11:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer</title>
       <link>https://www.golem.de/news/rubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html</link>
@@ -55,7 +62,7 @@
       <pubDate>Tue, 17 Nov 2026 10:24:07 GMT</pubDate>
     </item>
     <item>
-      <title>Deutsche-Bank-Datenleck: Trumps Steuerunterlagen wurden versehntlich versendet</title>
+      <title>Deutsche-Bank-Datenleck: Trumps Steuerunterlagen wurden versehentlich versendet</title>
       <link>https://www.golem.de/news/deutsche-bank-datenleck-trumps-steuerunterlagen-wurden-versehntlich-versendet-2611-215301.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/deutsche-bank-datenleck-trumps-steuerunterlagen-wurden-versehntlich-versendet-2611-215301.html</guid>
       <description>Kurz nach Trumps erstem Wahlsieg versendete ein Angestellter der Deutschen Bank versehentlich einen Link zu mehr als 1.500 Steuerunterlagen. (Datenleck, Sicherheitslücke)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/digital-fairness-act-eu-will-dark-patterns-und-abofallen-stoppen-2611-215090.html</guid>
       <description>Verbraucher sollen das Recht auf menschlichen Kundenservice bekommen. Die EU-Kommission will viele Geschäftspraktiken untersagen. (Verbraucherschutz, Instant Messenger)</description>
       <pubDate>Wed, 11 Nov 2026 13:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Downloadstart: DE-CIX verzeichnet wegen GTA VI neue Datenrekorde</title>
-      <link>https://www.golem.de/news/downloadstart-de-cix-verzeichnet-wegen-gta-vi-neue-datenrekorde-2611-215089.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/downloadstart-de-cix-verzeichnet-wegen-gta-vi-neue-datenrekorde-2611-215089.html</guid>
-      <description>Ein Spitzenwert von 22,30 Terabit pro Sekunde für den Vorab-Download für Grand Theft Auto VI. Auch weltweit verzeichnete der DE-CIX einen neuen Höchstwert. (DE-CIX, Spiele)</description>
-      <pubDate>Wed, 11 Nov 2026 12:49:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
