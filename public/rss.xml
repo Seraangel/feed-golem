@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 08:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:46:09 GMT</lastBuildDate>
+    <item>
+      <title>Linux: Neues Librem-Smartphone mit Risc-V kostet 1.900 Euro</title>
+      <link>https://www.golem.de/news/linux-neues-librem-smartphone-mit-risc-v-kostet-1-900-euro-2611-215294.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/linux-neues-librem-smartphone-mit-risc-v-kostet-1-900-euro-2611-215294.html</guid>
+      <description>Purism hat das Crowdfunding zum Librem 5 v2 gestartet. Neben einem Risc-V-Prozessor gibt es herausnehmbare Modemkarten. (Purism, Smartphone)</description>
+      <pubDate>Tue, 17 Nov 2026 08:44:05 GMT</pubDate>
+    </item>
     <item>
       <title>Ikea, Gitlab und mehr: Prominente Webportale mit Schadcode verseucht</title>
       <link>https://www.golem.de/news/ikea-gitlab-und-mehr-prominente-webportale-mit-schadcode-verseucht-2611-215291.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sony-playstation-wendet-sich-weiter-vom-pc-ab-2611-215077.html</guid>
       <description>PC-Spieler verlieren eine Möglichkeit, Konsolenspiele ohne Playstation zu nutzen: Sony verabschiedet sich von seiner PS-Plus-App für Windows. (Playstation Plus, Sony)</description>
       <pubDate>Wed, 11 Nov 2026 10:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>IT-Jobs: Produktmanager sind Gewinner des KI-Zeitalters</title>
-      <link>https://www.golem.de/news/it-jobs-produktmanager-sind-gewinner-des-ki-zeitalters-2611-215076.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/it-jobs-produktmanager-sind-gewinner-des-ki-zeitalters-2611-215076.html</guid>
-      <description>In den USA werden immer weniger Softwareentwickler eingestellt. Auch wird der Umgang mit KI zu einem essenziellen Skill bei der Jobsuche. (Arbeit, Softwareentwicklung)</description>
-      <pubDate>Wed, 11 Nov 2026 10:22:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
