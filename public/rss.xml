@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 16 Nov 2026 20:45:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:16:12 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen lernen</title>
+      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-lernen-2611-215283.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-lernen-2611-215283.html</guid>
+      <description>Linux-Systemadministration umfasst zahlreiche Werkzeuge und Aufgaben. Ein fünftägiger Online-Workshop vermittelt Grundlagen von Bash und Dateisystemen bis zu Netzwerk und SSH. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 17 Nov 2026 06:15:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: T.I.S.P. - In fünf Tagen auf die IT-Sicherheitsprüfung vorbereiten</title>
       <link>https://www.golem.de/news/anzeige-t-i-s-p-in-fuenf-tagen-auf-die-it-sicherheitspruefung-vorbereiten-2611-215256.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/buero-software-anthropic-gibt-claude-eine-eigene-tabellenkalkulation-2611-215067.html</guid>
       <description>Claude Sheets und Whiteboards starten als Beta. Die Tabellenkalkulation beherrscht vorerst allerdings nur einfache Funktionen. (Claude, Office-Suite)</description>
       <pubDate>Wed, 11 Nov 2026 08:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polestar 4 SUV: Polestar muss raus aus der Premium-Nische</title>
-      <link>https://www.golem.de/news/polestar-4-suv-polestar-muss-raus-aus-der-premium-nische-2611-214999.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/polestar-4-suv-polestar-muss-raus-aus-der-premium-nische-2611-214999.html</guid>
-      <description>Als Absatzmarkt bleibt Polestar nur Europa. Es müssen schnell Modelle folgen, die sich in hohen Stückzahlen verkaufen, sonst fressen die Schulden das Unternehmen auf. Ein Bericht von Dirk Kunde (Elektroauto, Auto)</description>
-      <pubDate>Wed, 11 Nov 2026 07:50:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
