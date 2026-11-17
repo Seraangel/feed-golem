@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 10:56:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:11:10 GMT</lastBuildDate>
+    <item>
+      <title>Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer</title>
+      <link>https://www.golem.de/news/rubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html</guid>
+      <description>Nvidias Fokus verschob sich bei Hardware für Rechenzentren zu KI. Supercomputer profitieren davon aber nicht immer. AMD hatte hier vorgelegt. (Supercomputer, Grafikkarten)</description>
+      <pubDate>Tue, 17 Nov 2026 11:06:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Smartphone Samsung Galaxy A57 5G zum günstigen Black Friday Preis</title>
       <link>https://www.golem.de/news/anzeige-smartphone-samsung-galaxy-a57-5g-zum-guenstigen-black-friday-preis-2611-215303.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/downloadstart-de-cix-verzeichnet-wegen-gta-vi-neue-datenrekorde-2611-215089.html</guid>
       <description>Ein Spitzenwert von 22,30 Terabit pro Sekunde für den Vorab-Download für Grand Theft Auto VI. Auch weltweit verzeichnete der DE-CIX einen neuen Höchstwert. (DE-CIX, Spiele)</description>
       <pubDate>Wed, 11 Nov 2026 12:49:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Softwareentwicklung: KI schreibt immer mehr Code - was bleibt für Entwickler?</title>
-      <link>https://www.golem.de/news/softwareentwicklung-ki-schreibt-immer-mehr-code-was-bleibt-fuer-entwickler-2611-215040.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/softwareentwicklung-ki-schreibt-immer-mehr-code-was-bleibt-fuer-entwickler-2611-215040.html</guid>
-      <description>KI schreibt immer mehr Code. Studien zeigen, welche Aufgaben Entwickler abgeben und wo ihre eigene Arbeit weiterhin entscheidend bleibt. Ein Ratgebertext von Klaus Manhart (Stirbt das Coding?, KI)</description>
-      <pubDate>Wed, 11 Nov 2026 12:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
