@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 12:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 12:31:07 GMT</lastBuildDate>
+    <item>
+      <title>(g+) IT-Sicherheit in der Industrie: Alte Industriesteuerungen werden zum Sicherheitsrisiko</title>
+      <link>https://www.golem.de/news/it-sicherheit-in-der-industrie-alte-industriesteuerungen-werden-zum-sicherheitsrisiko-2611-215214.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/it-sicherheit-in-der-industrie-alte-industriesteuerungen-werden-zum-sicherheitsrisiko-2611-215214.html</guid>
+      <description>Unsichere Fernzugänge, fehlende Netztrennung und alte Steuerungen gefährden Fabriken. Wie sich Produktionsanlagen schützen lassen, ohne sie stillzulegen. Eine Analyse von Dietmar Müller (Security, Server)</description>
+      <pubDate>Tue, 17 Nov 2026 12:30:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bestseller-Fußmassagegerät mit Wärme am frühen Black Friday für 85 Euro</title>
       <link>https://www.golem.de/news/anzeige-bestseller-fussmassagegeraet-mit-waerme-am-fruehen-black-friday-fuer-85-euro-2611-215309.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/start-im-januar-2027-geplant-delos-uebernimmt-operativen-betrieb-von-microsoft-2611-215096.html</guid>
       <description>Die Delos Cloud ermöglicht es Behörden, mit Microsoft-Produkten weiterzuarbeiten. Die Kritik daran bleibt. (Souveränität, Microsoft)</description>
       <pubDate>Wed, 11 Nov 2026 15:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smartes Türschloss mit Code und Fingerabdruck zum Tiefpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-smartes-tuerschloss-mit-code-und-fingerabdruck-zum-tiefpreis-bei-amazon-2611-215095.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartes-tuerschloss-mit-code-und-fingerabdruck-zum-tiefpreis-bei-amazon-2611-215095.html</guid>
-      <description>Amazon hat ein smartes Türschloss von SwitchBot im Angebot, das sich per Smartphone, Code, Fingerabdruck und NFC-Karte öffnen lässt. (Technik/Hardware, Türschloss)</description>
-      <pubDate>Wed, 11 Nov 2026 15:19:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
