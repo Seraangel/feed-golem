@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 06:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:21:12 GMT</lastBuildDate>
+    <item>
+      <title>Top-500-Liste: So wenige neue Supercomputer wie nie</title>
+      <link>https://www.golem.de/news/top-500-liste-so-wenige-neue-supercomputer-wie-nie-2611-215285.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/top-500-liste-so-wenige-neue-supercomputer-wie-nie-2611-215285.html</guid>
+      <description>Der leistungsfähigste neue Supercomputer schafft es nicht in die Top 10. Ein Großteil der Rechenleistung bleibt unvermessen. (Top500-Liste, AMD)</description>
+      <pubDate>Tue, 17 Nov 2026 06:19:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen lernen</title>
       <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-lernen-2611-215283.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/reddit-reviews-reddit-wird-zum-produktbewertungsportal-2611-215068.html</guid>
       <description>Reddit-Threads sind voll von Produktbewertungen. Das Portal sammelt diese nun und baut damit ein Vergleichsportal. (Reddit, Onlineshop)</description>
       <pubDate>Wed, 11 Nov 2026 08:32:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Sheets: Anthropic bringt Microsoft-Office-Konkurrenz mit KI</title>
-      <link>https://www.golem.de/news/buero-software-anthropic-gibt-claude-eine-eigene-tabellenkalkulation-2611-215067.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/buero-software-anthropic-gibt-claude-eine-eigene-tabellenkalkulation-2611-215067.html</guid>
-      <description>Claude Sheets und Whiteboards starten als Beta. Die Tabellenkalkulation beherrscht vorerst allerdings nur einfache Funktionen. (Claude, Office-Suite)</description>
-      <pubDate>Wed, 11 Nov 2026 08:12:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
