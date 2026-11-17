@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 17:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:56:27 GMT</lastBuildDate>
+    <item>
+      <title>AI-RAN: Wie Nvidia versucht, den Mobilfunk zu vereinnahmen</title>
+      <link>https://www.golem.de/news/ai-ran-wie-nvidia-versucht-den-mobilfunk-zu-vereinnahmen-2611-215327.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ai-ran-wie-nvidia-versucht-den-mobilfunk-zu-vereinnahmen-2611-215327.html</guid>
+      <description>Mit AI-RAN will Nvidia Mobilfunkmasten zu dezentralen KI-Rechenzentren aufrüsten und hat sich dazu Nokia untergeordnet. Doch in der Branche wächst die Skepsis. Eine Analyse von Achim Sawall (Nvidia, Cuda)</description>
+      <pubDate>Tue, 17 Nov 2026 17:51:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Penetration Testing: Sicherheitslücken erkennen und ausnutzen</title>
       <link>https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-erkennen-und-ausnutzen-2611-215284.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-xiaomi-redmi-note-17-pro-mit-100-gbyte-als-black-deal-nur-15-99-euro-im-monat-bei-blau-2611-215097.html</guid>
       <description>Auch der Mobilfunkanbieter Blau offeriert bereits Black Deals. So gibt es jetzt 100 GByte Datenvolumen mit Xiaomi-Smartphone zum Sparpreis. (Blau.de, Smartphone)</description>
       <pubDate>Thu, 12 Nov 2026 08:28:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Schweitzers Reformplan: Längere Befristungen, weniger Kündigungsschutz</title>
-      <link>https://www.golem.de/news/schweitzers-reformplan-laengere-befristungen-weniger-kuendigungsschutz-2611-215115.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/schweitzers-reformplan-laengere-befristungen-weniger-kuendigungsschutz-2611-215115.html</guid>
-      <description>Bundesarbeitsminister Alexander Schweitzer will Befristungen ausweiten, Sonntagsarbeit erleichtern und den Kündigungsschutz für Topverdiener lockern. (Arbeit, Wirtschaft)</description>
-      <pubDate>Thu, 12 Nov 2026 08:01:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
