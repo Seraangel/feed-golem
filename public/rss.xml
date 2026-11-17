@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 07:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:56:06 GMT</lastBuildDate>
+    <item>
+      <title>Rechenzentren: KI-Racks könnten 2030 ein Megawatt Leistung erreichen</title>
+      <link>https://www.golem.de/news/rechenzentren-ki-racks-koennten-2030-ein-megawatt-leistung-erreichen-2611-215290.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rechenzentren-ki-racks-koennten-2030-ein-megawatt-leistung-erreichen-2611-215290.html</guid>
+      <description>Racks liegen heute bei 15 bis 25 kW. IDTechEx erwartet bis 2030 bis zu 1.000 kW. Das hat Auswirkungen auf Kühlung und Stromversorgung. (Rechenzentrum, Nvidia)</description>
+      <pubDate>Tue, 17 Nov 2026 07:53:02 GMT</pubDate>
+    </item>
     <item>
       <title>Exportkontrolle: USA führen Lizenzpflicht für Chipexporte ein</title>
       <link>https://www.golem.de/news/exportkontrolle-usa-fuehren-lizenzpflicht-fuer-chipexporte-ein-2611-215289.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-tapo-p100-smarte-wlan-steckdosen-4-stk-zum-jahresbestpreis-bei-amazon-2611-215073.html</guid>
       <description>Die Tapo P100 schalten Lichterkette und Lampe per App oder Alexa ohne Hub und sind im Viererpack so günstig wie seit einem Jahr nicht. (Technik/Hardware, Smart Home)</description>
       <pubDate>Wed, 11 Nov 2026 09:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>November-Patchday: Microsoft stopft erneut mehr als 1.000 Sicherheitslöcher</title>
-      <link>https://www.golem.de/news/november-patchday-microsoft-stopft-erneut-mehr-als-1-000-sicherheitsloecher-2611-215072.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/november-patchday-microsoft-stopft-erneut-mehr-als-1-000-sicherheitsloecher-2611-215072.html</guid>
-      <description>Darunter ist eine Zero-Day-Lücke in Outlook. Hacker nehmen die Schwachstelle bereits ins Visier. (Patchday, Microsoft)</description>
-      <pubDate>Wed, 11 Nov 2026 09:24:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
