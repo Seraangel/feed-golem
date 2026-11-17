@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 07:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 07:41:08 GMT</lastBuildDate>
+    <item>
+      <title>Exportkontrolle: USA führen Lizenzpflicht für Chipexporte ein</title>
+      <link>https://www.golem.de/news/exportkontrolle-usa-fuehren-lizenzpflicht-fuer-chipexporte-ein-2611-215289.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/exportkontrolle-usa-fuehren-lizenzpflicht-fuer-chipexporte-ein-2611-215289.html</guid>
+      <description>Auf Druck des US-Finanzministeriums werden neue Beschränkungen und Ausnahmen für den Handel mit KI-Chips erlassen. (Politik, KI)</description>
+      <pubDate>Tue, 17 Nov 2026 07:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>Neuer James-Bond-Darsteller: Robert Pattinson erhält als 007 die Lizenz zum Töten</title>
       <link>https://www.golem.de/news/neuer-james-bond-darsteller-robert-pattinson-erhaelt-als-007-die-lizenz-zum-toeten-2611-215288.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/november-patchday-microsoft-stopft-erneut-mehr-als-1-000-sicherheitsloecher-2611-215072.html</guid>
       <description>Darunter ist eine Zero-Day-Lücke in Outlook. Hacker nehmen die Schwachstelle bereits ins Visier. (Patchday, Microsoft)</description>
       <pubDate>Wed, 11 Nov 2026 09:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Informationen falsch verknüpft: Googles KI-Suche diffamiert Bremer Anwalt</title>
-      <link>https://www.golem.de/news/informationen-falsch-verknuepft-googles-ki-suche-diffamiert-bremer-anwalt-2611-215071.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/informationen-falsch-verknuepft-googles-ki-suche-diffamiert-bremer-anwalt-2611-215071.html</guid>
-      <description>Weil die Google-Suche einen Fernsehbericht falsch zuordnete, sind einem Anwalt in der KI-Zusammenfassung schwere Straftaten zugeschrieben worden. (KI, Google)</description>
-      <pubDate>Wed, 11 Nov 2026 09:15:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
