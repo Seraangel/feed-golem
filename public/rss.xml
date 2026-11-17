@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 08:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:36:09 GMT</lastBuildDate>
+    <item>
+      <title>Ikea, Gitlab und mehr: Prominente Webportale mit Schadcode verseucht</title>
+      <link>https://www.golem.de/news/ikea-gitlab-und-mehr-prominente-webportale-mit-schadcode-verseucht-2611-215291.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ikea-gitlab-und-mehr-prominente-webportale-mit-schadcode-verseucht-2611-215291.html</guid>
+      <description>Ein Angriff auf Optimizely trifft Besucher von Websites zahlreicher Unternehmen. Die Angreifer wollten vor allem Zahlungen abgreifen und iOS-Geräte kapern. (Malware, iPhone)</description>
+      <pubDate>Tue, 17 Nov 2026 08:31:03 GMT</pubDate>
+    </item>
     <item>
       <title>KI-Sicherheit: Kalifornien verklagt OpenAI wegen irreführender Werbung</title>
       <link>https://www.golem.de/news/ki-sicherheit-kalifornien-verklagt-openai-wegen-irrefuehrender-werbung-2611-215292.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/it-jobs-produktmanager-sind-gewinner-des-ki-zeitalters-2611-215076.html</guid>
       <description>In den USA werden immer weniger Softwareentwickler eingestellt. Auch wird der Umgang mit KI zu einem essenziellen Skill bei der Jobsuche. (Arbeit, Softwareentwicklung)</description>
       <pubDate>Wed, 11 Nov 2026 10:22:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Samsung Galaxy Watch 9 günstig wie nie bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-samsung-galaxy-watch-9-guenstig-wie-nie-bei-amazon-2611-214405.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-samsung-galaxy-watch-9-guenstig-wie-nie-bei-amazon-2611-214405.html</guid>
-      <description>Die Samsung Galaxy Watch 9 mit AMOLED-Display, Snapdragon-Prozessor und Fitnessindex ist bei Amazon so günstig wie noch nie zuvor. (Smartwatch, Samsung)</description>
-      <pubDate>Wed, 11 Nov 2026 10:12:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
