@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 08:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 08:16:08 GMT</lastBuildDate>
+    <item>
+      <title>KI-Sicherheit: Kalifornien verklagt OpenAI wegen irreführender Werbung</title>
+      <link>https://www.golem.de/news/ki-sicherheit-kalifornien-verklagt-openai-wegen-irrefuehrender-werbung-2611-215292.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-kalifornien-verklagt-openai-wegen-irrefuehrender-werbung-2611-215292.html</guid>
+      <description>Die Klage richtet sich gegen OpenAIs Unternehmenskultur, absehbare Folgen von ungesicherten KI-Modellen einfach in Kauf zu nehmen. (KI, Politik)</description>
+      <pubDate>Tue, 17 Nov 2026 08:12:04 GMT</pubDate>
+    </item>
     <item>
       <title>Hoverboard-Prototyp: Youtuber lässt Mini-Board per Magnet über Kupfer schweben</title>
       <link>https://www.golem.de/news/hoverboard-prototyp-youtuber-laesst-mini-board-per-magnet-ueber-kupfer-schweben-2611-215293.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-samsung-galaxy-watch-9-guenstig-wie-nie-bei-amazon-2611-214405.html</guid>
       <description>Die Samsung Galaxy Watch 9 mit AMOLED-Display, Snapdragon-Prozessor und Fitnessindex ist bei Amazon so günstig wie noch nie zuvor. (Smartwatch, Samsung)</description>
       <pubDate>Wed, 11 Nov 2026 10:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Venice: AMDs Epyc 9006 setzen sich an die Spitze der Server-CPUs</title>
-      <link>https://www.golem.de/news/venice-amds-epyc-9006-setzen-sich-an-die-spitze-der-server-cpus-2611-215075.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/venice-amds-epyc-9006-setzen-sich-an-die-spitze-der-server-cpus-2611-215075.html</guid>
-      <description>AMD hat offiziell den Verkauf der Epyc 9006 gestartet. In ersten Benchmarks setzt sich die sechste Zen-Generation deutlich von der Konkurrenz ab. (Prozessor, AMD)</description>
-      <pubDate>Wed, 11 Nov 2026 09:58:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
