@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 17 Nov 2026 09:31:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:56:11 GMT</lastBuildDate>
+    <item>
+      <title>FBI warnt: Hacker knacken Netzwerke mit Artex AI in unter drei Stunden</title>
+      <link>https://www.golem.de/news/fbi-warnt-hacker-knacken-netzwerke-mit-artex-ai-in-unter-drei-stunden-2611-215300.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/fbi-warnt-hacker-knacken-netzwerke-mit-artex-ai-in-unter-drei-stunden-2611-215300.html</guid>
+      <description>Cyberkriminelle setzen zunehmend auf das KI-Pentesting-Tool Artex AI. Das FBI schlägt Alarm und warnt vor massiv beschleunigten Angriffen. (Cybercrime, Microsoft)</description>
+      <pubDate>Tue, 17 Nov 2026 09:52:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Neuer Amazon Echo Dot mit integriertem Smart-Home-Hub zum Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-neuer-amazon-echo-dot-mit-integriertem-smart-home-hub-zum-bestpreis-2611-215298.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spielebranche-china-haengt-die-usa-bei-mobile-games-ab-2611-215081.html</guid>
       <description>US-Spieleentwickler verlieren laut einer Analyse massiv an Boden - sogar im Heimatmarkt. Ein wichtiger Wert ist besonders auffällig. (Mobile Games, Microsoft)</description>
       <pubDate>Wed, 11 Nov 2026 11:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erneuerbare Energien: Schwungrad-Kraftwerk soll Chinas Stromnetz stabilisieren</title>
-      <link>https://www.golem.de/news/erneuerbare-energien-schwungrad-kraftwerk-soll-chinas-stromnetz-stabilisieren-2611-215082.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/erneuerbare-energien-schwungrad-kraftwerk-soll-chinas-stromnetz-stabilisieren-2611-215082.html</guid>
-      <description>Das Schwungrad soll in Millisekunden auf Frequenzschwankungen reagieren und so Stromnetze mit viel Wind- und Solarenergie optimieren. (Energiewende, Akku)</description>
-      <pubDate>Wed, 11 Nov 2026 11:27:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
