@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 06:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 06:31:09 GMT</lastBuildDate>
+    <item>
+      <title>Behördenverbot: Waymo stoppt autonome Fahrten auf US-Autobahnen</title>
+      <link>https://www.golem.de/news/behoerdenverbot-waymo-stoppt-autonome-fahrten-auf-us-autobahnen-2611-215331.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/behoerdenverbot-waymo-stoppt-autonome-fahrten-auf-us-autobahnen-2611-215331.html</guid>
+      <description>Nach Zwischenfällen mit autonomen Fahrzeugen auf US-Autobahnen und dem Einschalten der Behörden reagiert Waymo mit einem Fahrstopp. (Waymo, Auto)</description>
+      <pubDate>Wed, 18 Nov 2026 06:28:02 GMT</pubDate>
+    </item>
     <item>
       <title>Handyverbot an Schulen: US-Studie zeigt leichte Lernfortschritte</title>
       <link>https://www.golem.de/news/handyverbot-an-schulen-handy-weg-noten-rauf-2611-215330.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ask-me-anything-am-26-11-wie-viel-ki-vertraegt-die-softwareentwicklung-2611-215098.html</guid>
       <description>Welche Entwicklungsaufgaben lassen sich sinnvoll an KI delegieren und unter welchen Voraussetzungen? Im Live-AMA gibt Experte Fabian Deitelhoff praktische Tipps. (KI, Softwareentwicklung)</description>
       <pubDate>Thu, 12 Nov 2026 09:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Songs of the Past: KI gibt dem Witcher seine alte Stimme zurück</title>
-      <link>https://www.golem.de/news/songs-of-the-past-ki-gibt-dem-witcher-seine-alte-stimme-zurueck-2611-215118.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/songs-of-the-past-ki-gibt-dem-witcher-seine-alte-stimme-zurueck-2611-215118.html</guid>
-      <description>Nach einem Schlaganfall klingt Geralts polnischer Synchronsprecher anders als früher. Für neue Inhalte von The Witcher 3 hilft künstliche Intelligenz. (The Witcher 3, Rollenspiel)</description>
-      <pubDate>Thu, 12 Nov 2026 09:15:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
