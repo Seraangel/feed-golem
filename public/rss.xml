@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 18:15:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:40:28 GMT</lastBuildDate>
+    <item>
+      <title>Millionen Webserver gefährdet: NGINX-Lücke erlaubt Codeausführung ohne Anmeldung</title>
+      <link>https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html</guid>
+      <description>Zwei NGINX-Lücken könnten bei aktivem HTTP/2 Codeausführung auf Webservern ermöglichen. Die Patches sollten schnell eingespielt werden. (Nginx, Server)</description>
+      <pubDate>Wed, 18 Nov 2026 20:35:09 GMT</pubDate>
+    </item>
     <item>
       <title>Gartner widerspricht KI-Blase: KI-Ausbau "ist womöglich noch zu klein"</title>
       <link>https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-cloud-transformation-strategie-governance-und-klare-zustaendigkeiten-2611-215161.html</guid>
       <description>Cloud-Projekte erfordern klare Strukturen und Verantwortlichkeiten. Ein Workshop zeigt, wie sich Cloud Competence Center, Governance und Roadmap aufeinander abstimmen lassen. (Golem Karrierewelt, Verschlüsselung)</description>
       <pubDate>Fri, 13 Nov 2026 06:45:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheit: Neue Starlink-Drosselung verunsichert die Ukraine</title>
-      <link>https://www.golem.de/news/sicherheit-neue-starlink-drosselung-verunsichert-die-ukraine-2611-215164.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheit-neue-starlink-drosselung-verunsichert-die-ukraine-2611-215164.html</guid>
-      <description>Die Ukraine meldet erneute Einschränkungen bei Starshield. Diese könnten die Drohnenabwehr behindern. (Starlink, Politik)</description>
-      <pubDate>Fri, 13 Nov 2026 06:42:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
