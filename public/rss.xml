@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 08:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:51:11 GMT</lastBuildDate>
+    <item>
+      <title>Apple Homeview: Ifixit zerbricht beim Teardown einen Lautsprecher</title>
+      <link>https://www.golem.de/news/apple-homeview-ifixit-zerbricht-beim-teardown-einen-lautsprecher-2611-215340.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/apple-homeview-ifixit-zerbricht-beim-teardown-einen-lautsprecher-2611-215340.html</guid>
+      <description>Ifixit hat Apples Homeview zerlegt. Verklebte Lautsprecher, Stecker und Platine erschweren die Reparatur deutlich. (iFixit, Apple)</description>
+      <pubDate>Wed, 18 Nov 2026 08:50:02 GMT</pubDate>
+    </item>
     <item>
       <title>Nach Abgang von Huang: Neues Komitee soll bei Nvidia die Exporte kontrollieren</title>
       <link>https://www.golem.de/news/nach-abgang-von-huang-neues-komitee-soll-bei-nvidia-die-exporte-kontrollieren-2611-215339.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-black-friday-im-anmarsch-360-drohne-antigravity-a1-bald-mit-sattem-rabatt-sichern-2611-215106.html</guid>
       <description>Fotos und Videos aus der Vogelperspektive kann jeder machen. Mit der 360°-Drohne Antigravity A1 bald auch zum Sparpreis bis zu 640 Euro günstiger. (Antigravity, Kameras)</description>
       <pubDate>Thu, 12 Nov 2026 10:55:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sicherheitsupdate: Google stopft fünf kritische Löcher in Chrome</title>
-      <link>https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html</guid>
-      <description>Chrome ist anfällig für eine Remotecodeausführung außerhalb der Sandbox. Angreifbar ist der Browser unter Windows, MacOS und Linux. (Chrome, Google)</description>
-      <pubDate>Thu, 12 Nov 2026 10:48:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
