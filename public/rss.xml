@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 12:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:50:23 GMT</lastBuildDate>
+    <item>
+      <title>Nach Cyberangriff: Japan nimmt Supercomputer Fugaku vom Netz</title>
+      <link>https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html</guid>
+      <description>Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. (Supercomputer, Computer)</description>
+      <pubDate>Wed, 18 Nov 2026 12:45:11 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Lokale KI: Wann sich ein eigener KI-Server rechnet und wann er nur beruhigt</title>
       <link>https://www.golem.de/news/lokale-ki-wann-sich-ein-eigener-ki-server-rechnet-und-wann-er-nur-beruhigt-2611-215216.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/seit-2025-jensen-huangs-china-kommentare-aenderten-sich-drastisch-2611-215143.html</guid>
       <description>Eine Analyse der öffentlichen Äußerungen von Jensen Huang zeigt, wie seine Argumentation ab 2025 freundlicher gegenüber China wurde. (Jen-Hsun Huang, Nvidia)</description>
       <pubDate>Thu, 12 Nov 2026 15:06:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jensen Huang: Der Mann, der Nvidia war</title>
-      <link>https://www.golem.de/news/jensen-huang-der-mann-der-nvidia-war-2611-215141.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/jensen-huang-der-mann-der-nvidia-war-2611-215141.html</guid>
-      <description>Nvidia hatte in seiner Geschichte nur einen CEO. Jensen Huangs Ausstieg wird das Unternehmen verändern - er könnte der Beginn eines Abstiegs sein. Eine Analyse von Johannes Hiltscher (Nvidia, Grafikkarten)</description>
-      <pubDate>Thu, 12 Nov 2026 14:48:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
