@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 08:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:26:09 GMT</lastBuildDate>
+    <item>
+      <title>Docker Hub: Geleakte API-Keys innerhalb von Sekunden missbraucht</title>
+      <link>https://www.golem.de/news/docker-hub-geleakte-api-keys-innerhalb-von-sekunden-missbraucht-2611-215336.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/docker-hub-geleakte-api-keys-innerhalb-von-sekunden-missbraucht-2611-215336.html</guid>
+      <description>Wer bei Docker Hub versehentlich ein Image mit enthaltenem API-Key veröffentlicht, sollte schnell sein. Angreifer bedienen sich in Sekundenschnelle. (Container, Server-Applikationen)</description>
+      <pubDate>Wed, 18 Nov 2026 08:24:08 GMT</pubDate>
+    </item>
     <item>
       <title>Geschäftsjahr 2027: Nvidia verdoppelt im dritten Quartal Umsatz und Gewinn</title>
       <link>https://www.golem.de/news/geschaeftsjahr-2027-nvidia-verdoppelt-im-dritten-quartal-umsatz-und-gewinn-2611-215338.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html</guid>
       <description>IBM arbeitet an einem Quantencomputer mit zwei Nighthawk-r3-Chips. Die sollen über mehr und stabilere Qubits verfügen als die aktuelle Generation. (Quantencomputer, IBM)</description>
       <pubDate>Thu, 12 Nov 2026 10:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Patch Tuesday: Neuer Windows-11-Patch installiert nicht</title>
-      <link>https://www.golem.de/news/patch-tuesday-neuer-windows-11-patch-installiert-nicht-2611-215124.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/patch-tuesday-neuer-windows-11-patch-installiert-nicht-2611-215124.html</guid>
-      <description>Mehrere User wollten zum Patch Tuesday das aktuelle Windows-11-Update aufspielen. Stattdessen gibt es einen Fehler. (Windows 11, Microsoft)</description>
-      <pubDate>Thu, 12 Nov 2026 10:22:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
