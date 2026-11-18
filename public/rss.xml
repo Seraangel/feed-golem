@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 06:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 07:16:08 GMT</lastBuildDate>
+    <item>
+      <title>Neue Optimierungen: Microsoft verbessert Leistung von Windows 11 bei 8 GByte RAM</title>
+      <link>https://www.golem.de/news/neue-optimierungen-microsoft-verbessert-leistung-von-windows-11-bei-8-gbyte-ram-2611-215332.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/neue-optimierungen-microsoft-verbessert-leistung-von-windows-11-bei-8-gbyte-ram-2611-215332.html</guid>
+      <description>Ein Test mit jüngsten Builds von Windows 11 zeigt deutlich weniger Zugriffe auf die Auslagerungsdatei. (Betriebssysteme, Microsoft)</description>
+      <pubDate>Wed, 18 Nov 2026 07:11:04 GMT</pubDate>
+    </item>
     <item>
       <title>Behördenverbot: Waymo stoppt autonome Fahrten auf US-Autobahnen</title>
       <link>https://www.golem.de/news/behoerdenverbot-waymo-stoppt-autonome-fahrten-auf-us-autobahnen-2611-215331.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ungewoehnliche-aktivitaeten-lego-schaltet-seinen-marktplatz-bricklink-ab-2611-215119.html</guid>
       <description>Der Markplatz ist bereits seit Anfang der Woche offline. Lego habe darauf ungewöhnliche Aktivitäten festgestellt. (Lego, Security)</description>
       <pubDate>Thu, 12 Nov 2026 09:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ask Me Anything am 26.11.: Wie viel KI verträgt die Softwareentwicklung?</title>
-      <link>https://www.golem.de/news/ask-me-anything-am-26-11-wie-viel-ki-vertraegt-die-softwareentwicklung-2611-215098.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ask-me-anything-am-26-11-wie-viel-ki-vertraegt-die-softwareentwicklung-2611-215098.html</guid>
-      <description>Welche Entwicklungsaufgaben lassen sich sinnvoll an KI delegieren und unter welchen Voraussetzungen? Im Live-AMA gibt Experte Fabian Deitelhoff praktische Tipps. (KI, Softwareentwicklung)</description>
-      <pubDate>Thu, 12 Nov 2026 09:30:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
