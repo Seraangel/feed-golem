@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 17:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:15:24 GMT</lastBuildDate>
+    <item>
+      <title>Gartner widerspricht KI-Blase: KI-Ausbau "ist womöglich noch zu klein"</title>
+      <link>https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html</guid>
+      <description>Rund 2,4 Billionen US-Dollar sollen 2027 weltweit in KI-Infrastruktur fließen - weit mehr, als Endkunden bisher für Anwendungen zahlen. Gartner hält den massiven Vorab-Ausbau für nötig. (KI, Studien)</description>
+      <pubDate>Wed, 18 Nov 2026 18:12:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Mit Vibe Coding eigene Anwendungen per KI entwickeln</title>
       <link>https://www.golem.de/news/anzeige-mit-vibe-coding-eigene-anwendungen-per-ki-entwickeln-2611-215329.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sicherheit-neue-starlink-drosselung-verunsichert-die-ukraine-2611-215164.html</guid>
       <description>Die Ukraine meldet erneute Einschränkungen bei Starshield. Diese könnten die Drohnenabwehr behindern. (Starlink, Politik)</description>
       <pubDate>Fri, 13 Nov 2026 06:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloud: Serverausfälle stören Outlook und Microsoft 365</title>
-      <link>https://www.golem.de/news/cloud-serverausfaelle-stoeren-outlook-und-microsoft-365-2611-215165.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cloud-serverausfaelle-stoeren-outlook-und-microsoft-365-2611-215165.html</guid>
-      <description>Seit dem Abend des 12. Novembers gibt weitreichende Probleme mit Microsoft-Diensten - Dienste laufen wieder größtenteils. (Microsoft 365, Microsoft)</description>
-      <pubDate>Fri, 13 Nov 2026 06:26:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
