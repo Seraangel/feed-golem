@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 16:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:50:27 GMT</lastBuildDate>
+    <item>
+      <title>Glasfaser: Telekom baut in Bayern massiv FTTH - in München bricht das Tempo ein</title>
+      <link>https://www.golem.de/news/glasfaser-telekom-baut-in-bayern-massiv-ftth-in-muenchen-bricht-das-tempo-ein-2611-215374.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/glasfaser-telekom-baut-in-bayern-massiv-ftth-in-muenchen-bricht-das-tempo-ein-2611-215374.html</guid>
+      <description>Mit 400.000 neuen Anschlüssen soll Bayern Schwerpunkt beim Glasfaserausbau der Telekom bleiben. In München bremst der Konzern das Tempo jedoch deutlich. (Telekom, Glasfaser)</description>
+      <pubDate>Wed, 18 Nov 2026 16:46:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Fritz!Smart Heizkörperthermostat zum Tiefpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-fritz-smart-heizkoerperthermostat-zum-tiefpreis-bei-amazon-2611-215369.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/autohersteller-mercedes-stoppt-alle-investitionen-in-deutschland-2611-215158.html</guid>
       <description>Mercedes-Benz setzt alle weiteren Investitionen in seinen deutschen Werken vorerst aus. Es drohen Werksschließungen. (Mercedes Benz, Wirtschaft)</description>
       <pubDate>Thu, 12 Nov 2026 17:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Microsoft Entra ID: Identitäten verwalten und absichern</title>
-      <link>https://www.golem.de/news/anzeige-microsoft-entra-id-identitaeten-verwalten-und-absichern-2611-215157.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-identitaeten-verwalten-und-absichern-2611-215157.html</guid>
-      <description>Microsoft Entra ID verbindet Identitätsverwaltung und Zugriffsschutz. Ein Online-Workshop vermittelt die Konfiguration, Verwaltung und Absicherung hybrider Umgebungen. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Thu, 12 Nov 2026 17:45:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
