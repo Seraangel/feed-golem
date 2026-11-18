@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 11:40:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:45:29 GMT</lastBuildDate>
+    <item>
+      <title>Notfall-Update veröffentlicht: Laufende Angriffe beeinträchtigen das Tor-Netzwerk</title>
+      <link>https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html</guid>
+      <description>Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. (DoS, Cyberwar)</description>
+      <pubDate>Wed, 18 Nov 2026 11:40:07 GMT</pubDate>
+    </item>
     <item>
       <title>Rockstar Games: GTA 6 holt Rekordwertungen</title>
       <link>https://www.golem.de/news/rockstar-games-gta-6-holt-rekordwertungen-2611-215356.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rueckschritt-humble-bundle-schwaecht-sicherheit-seiner-website-2611-215137.html</guid>
       <description>Beim Relaunch der Humble-Bundle-Webseite streichen die Entwickler unter anderem die Anmeldung in zwei Schritten - ohne Vorankündigung. (2-FA, Passwort)</description>
       <pubDate>Thu, 12 Nov 2026 13:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smarter Mini-Beamer mit Akku zum Jahrestiefstpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-smarter-mini-beamer-mit-akku-zum-jahrestiefstpreis-bei-amazon-2611-215138.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smarter-mini-beamer-mit-akku-zum-jahrestiefstpreis-bei-amazon-2611-215138.html</guid>
-      <description>Als Mini-Beamer mit Akku und Google TV bietet der Anker Nebula Capsule 3 ortsunabhängiges Streaming. Bei Amazon ist er zurzeit reduziert. (Beamer, Audio/Video)</description>
-      <pubDate>Thu, 12 Nov 2026 13:40:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
