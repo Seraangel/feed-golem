@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 12:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:35:25 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Lokale KI: Wann sich ein eigener KI-Server rechnet und wann er nur beruhigt</title>
+      <link>https://www.golem.de/news/lokale-ki-wann-sich-ein-eigener-ki-server-rechnet-und-wann-er-nur-beruhigt-2611-215216.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/lokale-ki-wann-sich-ein-eigener-ki-server-rechnet-und-wann-er-nur-beruhigt-2611-215216.html</guid>
+      <description>Ein eigener KI-Server soll Kosten sparen und unabhängiger von Cloudanbietern machen. Doch was kostet er tatsächlich? Ein Deep Dive von Benedikt Matthes (KI, Nvidia)</description>
+      <pubDate>Wed, 18 Nov 2026 12:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Sonys neuer ANC-Kopfhörer WH-1000XM4C vor dem Black Friday zum Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-sonys-neuer-anc-kopfhoerer-wh-1000xm4c-vor-dem-black-friday-zum-amazon-bestpreis-2611-215360.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jensen-huang-der-mann-der-nvidia-war-2611-215141.html</guid>
       <description>Nvidia hatte in seiner Geschichte nur einen CEO. Jensen Huangs Ausstieg wird das Unternehmen verändern - er könnte der Beginn eines Abstiegs sein. Eine Analyse von Johannes Hiltscher (Nvidia, Grafikkarten)</description>
       <pubDate>Thu, 12 Nov 2026 14:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jensen Huang: Nvidia-Chef tritt wegen Spionage- und Affärenskandalen zurück</title>
-      <link>https://www.golem.de/news/jensen-huang-nvidia-chef-tritt-wegen-spionage-und-affaerenskandalen-zurueck-2611-215142.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/jensen-huang-nvidia-chef-tritt-wegen-spionage-und-affaerenskandalen-zurueck-2611-215142.html</guid>
-      <description>Nvidia hat mitgeteilt, dass Jensen Huang mit sofortiger Wirkung als Präsident, Chief Executive Officer und Mitglied des Verwaltungsrats zurückgetreten ist. (Nvidia, Wirtschaft)</description>
-      <pubDate>Thu, 12 Nov 2026 14:19:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
