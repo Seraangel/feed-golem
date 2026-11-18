@@ -11,7 +11,7 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 11:30:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:40:25 GMT</lastBuildDate>
     <item>
       <title>Rockstar Games: GTA 6 holt Rekordwertungen</title>
       <link>https://www.golem.de/news/rockstar-games-gta-6-holt-rekordwertungen-2611-215356.html</link>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 18 Nov 2026 11:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>Lücke gefährdet Java-Anwendungen: Mit nur 65 Zeichen zur Schadcode-Ausfühung</title>
+      <title>Java4Shell: Schadcode-Lücke in OpenJDK gefährdet unzählige Systeme</title>
       <link>https://www.golem.de/news/luecke-gefaehrdet-java-anwendungen-mit-nur-65-zeichen-zur-schadcode-ausfuehung-2611-215347.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/luecke-gefaehrdet-java-anwendungen-mit-nur-65-zeichen-zur-schadcode-ausfuehung-2611-215347.html</guid>
       <description>Zahlreiche Java-basierte Tools sind anfällig für eine Sicherheitslücke in OpenJDK. Angreifer können mit einem einfachen Trick Schadcode einschleusen. (Sicherheitslücke, Java)</description>
