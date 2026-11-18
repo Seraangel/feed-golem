@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 10:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:55:26 GMT</lastBuildDate>
+    <item>
+      <title>Lücke gefährdet Java-Anwendungen: Mit nur 65 Zeichen zur Schadcode-Ausfühung</title>
+      <link>https://www.golem.de/news/luecke-gefaehrdet-java-anwendungen-mit-nur-65-zeichen-zur-schadcode-ausfuehung-2611-215347.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/luecke-gefaehrdet-java-anwendungen-mit-nur-65-zeichen-zur-schadcode-ausfuehung-2611-215347.html</guid>
+      <description>Zahlreiche Java-basierte Tools sind anfällig für eine Sicherheitslücke in OpenJDK. Angreifer können mit einem einfachen Trick Schadcode einschleusen. (Sicherheitslücke, Java)</description>
+      <pubDate>Wed, 18 Nov 2026 10:51:08 GMT</pubDate>
+    </item>
     <item>
       <title>Hochschulzugangsprüfung: Südkorea überklebt bei Prüfung Knöpfe gegen KI-Betrug</title>
       <link>https://www.golem.de/news/hochschulzugangspruefung-suedkorea-ueberklebt-bei-pruefung-knoepfe-gegen-ki-betrug-2611-215351.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/red-hat-kritische-sicherheitsluecke-in-apache-http-server-entdeckt-2611-215134.html</guid>
       <description>Auf der CVE-Skala hat die kritische Sicherheitslücke eine Bewertung von 9,8 von 10 Punkten erhalten. Ein Patch ist deshalb sinnvoll. (Apache, Red Hat)</description>
       <pubDate>Thu, 12 Nov 2026 12:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) E-Rechnungspflicht ab 2027: Die fünf größten E-Rechnungsprobleme und wie die IT sie löst</title>
-      <link>https://www.golem.de/news/e-rechnungspflicht-ab-2027-die-fuenf-groessten-e-rechnungsprobleme-und-wie-die-it-sie-loest-2611-215123.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/e-rechnungspflicht-ab-2027-die-fuenf-groessten-e-rechnungsprobleme-und-wie-die-it-sie-loest-2611-215123.html</guid>
-      <description>Unterschiedliche Formate, fehlerhafte Rechnungen und aufwendige Schnittstellen machen Firmen bei der E-Rechnung zu schaffen. Worauf IT-Verantwortliche achten müssen. Ein Ratgebertext von Thomas Hafen (Elektronische Rechnung, ERP)</description>
-      <pubDate>Thu, 12 Nov 2026 12:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
