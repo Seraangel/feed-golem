@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 08:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 08:36:06 GMT</lastBuildDate>
+    <item>
+      <title>Nach Abgang von Huang: Neues Komitee soll bei Nvidia die Exporte kontrollieren</title>
+      <link>https://www.golem.de/news/nach-abgang-von-huang-neues-komitee-soll-bei-nvidia-die-exporte-kontrollieren-2611-215339.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-abgang-von-huang-neues-komitee-soll-bei-nvidia-die-exporte-kontrollieren-2611-215339.html</guid>
+      <description>Nach den Vorwürfen des illegalen Exports von Chips nach China soll ein neues Komitee die Exporte bei Nvidia überwachen. (Nvidia, KI)</description>
+      <pubDate>Wed, 18 Nov 2026 08:33:10 GMT</pubDate>
+    </item>
     <item>
       <title>Docker Hub: Geleakte API-Keys innerhalb von Sekunden missbraucht</title>
       <link>https://www.golem.de/news/docker-hub-geleakte-api-keys-innerhalb-von-sekunden-missbraucht-2611-215336.html</link>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 18 Nov 2026 08:01:09 GMT</pubDate>
     </item>
     <item>
-      <title>Krypto-Prozess: Richter will Movie2k-Verfahren gegen 40.000 Bitcoin beenden</title>
+      <title>Landgericht Leipzig: Richter will Movie2k-Verfahren gegen 40.000 Bitcoin beenden</title>
       <link>https://www.golem.de/news/krypto-prozess-richter-will-movie2k-verfahren-gegen-40-000-bitcoin-beenden-2611-215334.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/krypto-prozess-richter-will-movie2k-verfahren-gegen-40-000-bitcoin-beenden-2611-215334.html</guid>
       <description>Im Movie2k-Prozess steht ein Deal zur Debatte. Zahlt der Angeklagte 40.000 Bitcoin, könnte das Verfahren enden. (Kino.to, Bitcoin)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sicherheitsupdate-google-stopft-fuenf-kritische-loecher-in-chrome-2611-215126.html</guid>
       <description>Chrome ist anfällig für eine Remotecodeausführung außerhalb der Sandbox. Angreifbar ist der Browser unter Windows, MacOS und Linux. (Chrome, Google)</description>
       <pubDate>Thu, 12 Nov 2026 10:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>1.040 Qubits: IBMs erster Dual-Socket-Quantencomputer kommt 2027</title>
-      <link>https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/1-040-qubits-ibms-erster-dual-socket-quantencomputer-kommt-2027-2611-215125.html</guid>
-      <description>IBM arbeitet an einem Quantencomputer mit zwei Nighthawk-r3-Chips. Die sollen über mehr und stabilere Qubits verfügen als die aktuelle Generation. (Quantencomputer, IBM)</description>
-      <pubDate>Thu, 12 Nov 2026 10:35:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
