@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 10:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:05:27 GMT</lastBuildDate>
+    <item>
+      <title>Ghost in the Shell: Die Zukunft, die uns einholt</title>
+      <link>https://www.golem.de/news/ghost-in-the-shell-die-zukunft-die-uns-einholt-2611-215335.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ghost-in-the-shell-die-zukunft-die-uns-einholt-2611-215335.html</guid>
+      <description>Gehackte Gehirne und künstliche Körper sind noch Fiktion. Doch andere Probleme des Kult-Animes sind längst Realität. (Ghost in the Shell, KI)</description>
+      <pubDate>Wed, 18 Nov 2026 11:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Lücke gefährdet Java-Anwendungen: Mit nur 65 Zeichen zur Schadcode-Ausfühung</title>
       <link>https://www.golem.de/news/luecke-gefaehrdet-java-anwendungen-mit-nur-65-zeichen-zur-schadcode-ausfuehung-2611-215347.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/it-arbeitsmarkt-mehr-jobs-und-hoehere-gehaelter-aber-weniger-offene-stellen-2611-215136.html</guid>
       <description>Der ITK-Sektor in Deutschland befindet sich weiterhin auf Wachstumskurs. Die Arbeitslosenquote bei ITlern bleibt dennoch hoch. (Arbeit, Studien)</description>
       <pubDate>Thu, 12 Nov 2026 13:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Red Hat: Kritische Sicherheitslücke in Apache HTTP Server entdeckt</title>
-      <link>https://www.golem.de/news/red-hat-kritische-sicherheitsluecke-in-apache-http-server-entdeckt-2611-215134.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/red-hat-kritische-sicherheitsluecke-in-apache-http-server-entdeckt-2611-215134.html</guid>
-      <description>Auf der CVE-Skala hat die kritische Sicherheitslücke eine Bewertung von 9,8 von 10 Punkten erhalten. Ein Patch ist deshalb sinnvoll. (Apache, Red Hat)</description>
-      <pubDate>Thu, 12 Nov 2026 12:43:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
