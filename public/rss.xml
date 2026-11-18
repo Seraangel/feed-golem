@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 13:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:25:27 GMT</lastBuildDate>
+    <item>
+      <title>Kritische Bugs: Google schließt mehr als 200 Lücken in Chrome</title>
+      <link>https://www.golem.de/news/kritische-bugs-google-schliesst-mehr-als-200-luecken-in-chrome-2611-215363.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kritische-bugs-google-schliesst-mehr-als-200-luecken-in-chrome-2611-215363.html</guid>
+      <description>Mindestens eine kritische Lücke in Google Chrome erlaubt über manipulierten Netzwerk-Traffic einen Sandbox Escape. (Chrome, Google)</description>
+      <pubDate>Wed, 18 Nov 2026 13:23:05 GMT</pubDate>
+    </item>
     <item>
       <title>NSA muss Hauptsitz schließen: Patch-Fehler legt Geheimdienstnetz lahm</title>
       <link>https://www.golem.de/news/nsa-muss-hauptsitz-schliessen-patch-fehler-legt-geheimdienstnetz-lahm-2611-215361.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/adobe-max-photoshop-und-premiere-oeffnen-sich-fuer-externe-ki-agenten-2611-215149.html</guid>
       <description>ChatGPT, Claude und andere KI-Assistenten sollen künftig Photoshop und Premiere direkt bedienen können. Die Projektdateien bleiben bearbeitbar. (Adobe, KI)</description>
       <pubDate>Thu, 12 Nov 2026 15:57:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quartalszahlen: Kundenplus reicht nicht für ein Ende der Telefónica-Krise</title>
-      <link>https://www.golem.de/news/quartalszahlen-kundenplus-reicht-nicht-fuer-ein-ende-der-telefonica-krise-2611-215147.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/quartalszahlen-kundenplus-reicht-nicht-fuer-ein-ende-der-telefonica-krise-2611-215147.html</guid>
-      <description>Trotz leichten Kundenzuwachses sinkt der Umsatz von Telefónica Deutschland. Während der Konzern Servicestandorte verkauft, zieht die Telekom bei den Kundenzahlen davon. (Telefónica, Mobilfunk)</description>
-      <pubDate>Thu, 12 Nov 2026 15:31:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
