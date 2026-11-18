@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 10:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:21:07 GMT</lastBuildDate>
+    <item>
+      <title>Nach Technik-Pannen: Trump spielt Gefahr durch Cyberprobleme herunter</title>
+      <link>https://www.golem.de/news/nach-technik-pannen-trump-spielt-gefahr-durch-cyberprobleme-herunter-2611-215348.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-technik-pannen-trump-spielt-gefahr-durch-cyberprobleme-herunter-2611-215348.html</guid>
+      <description>"So ist das Leben" - bei einem Staatsbesuch gibt sich US-Präsident Trump unbesorgt mit Blick auf die zahlreichen Cyberprobleme der vergangenen Tage. (Donald Trump, Microsoft)</description>
+      <pubDate>Wed, 18 Nov 2026 10:19:10 GMT</pubDate>
+    </item>
     <item>
       <title>Überlastete Sozialgerichte: Sachsen erwägt Gebühr gegen KI-Klageflut</title>
       <link>https://www.golem.de/news/ueberlastete-sozialgerichte-sachsen-erwaegt-gebuehr-gegen-ki-klageflut-2611-215343.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/russische-cloud-yandex-gibt-datenverlust-nach-ukrainischen-drohnenangriffen-zu-2611-215132.html</guid>
       <description>Ukrainische Drohnen haben im Oktober Yandex-Rechenzentren beschädigt. Aber auch fehlende Backups haben den Datenverlust unvermeidlich gemacht. (Ukrainekrieg, Rechenzentrum)</description>
       <pubDate>Thu, 12 Nov 2026 12:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bundeshaushalt 2027: Koalition will Stromsteuer doch nicht senken</title>
-      <link>https://www.golem.de/news/bundeshaushalt-2027-stromsteuer-wird-doch-nicht-gesenkt-2611-215133.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bundeshaushalt-2027-stromsteuer-wird-doch-nicht-gesenkt-2611-215133.html</guid>
-      <description>Noch vor einem Monat hat Bundeskanzler Merz eine Senkung der Stromsteuer angekündigt. Daraus wird aber nichts. (Elektroauto, Politik)</description>
-      <pubDate>Thu, 12 Nov 2026 11:57:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
