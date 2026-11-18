@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 11:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:00:24 GMT</lastBuildDate>
+    <item>
+      <title>Elektroautos: Falsche Gerüchte zu Elektromobilität als größte Kaufhürde</title>
+      <link>https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html</guid>
+      <description>Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität für die meisten Elektroauto-Fahrer die größte Einstiegshürde gewesen sind. (Elektromobilität, Elektroauto)</description>
+      <pubDate>Wed, 18 Nov 2026 11:56:09 GMT</pubDate>
+    </item>
     <item>
       <title>Notfall-Update veröffentlicht: Laufende Angriffe beeinträchtigen das Tor-Netzwerk</title>
       <link>https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/zink-brom-akku-langlebige-grossbatterie-soll-fast-keine-kapazitaet-verlieren-2611-215140.html</guid>
       <description>Die Stadtwerke Gaggenau planen, die Flüssigbatterie mit insgesamt 30 Megawattstunden bis 2028 in Betrieb zu nehmen. Der Akku besitzt einige Vorteile. (Akku, Solarenergie)</description>
       <pubDate>Thu, 12 Nov 2026 14:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rückschritt: Humble Bundle schwächt Sicherheit seiner Website</title>
-      <link>https://www.golem.de/news/rueckschritt-humble-bundle-schwaecht-sicherheit-seiner-website-2611-215137.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rueckschritt-humble-bundle-schwaecht-sicherheit-seiner-website-2611-215137.html</guid>
-      <description>Beim Relaunch der Humble-Bundle-Webseite streichen die Entwickler unter anderem die Anmeldung in zwei Schritten - ohne Vorankündigung. (2-FA, Passwort)</description>
-      <pubDate>Thu, 12 Nov 2026 13:49:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
