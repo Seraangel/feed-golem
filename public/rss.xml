@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 17:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:50:36 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mit Vibe Coding eigene Anwendungen per KI entwickeln</title>
+      <link>https://www.golem.de/news/anzeige-mit-vibe-coding-eigene-anwendungen-per-ki-entwickeln-2611-215329.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mit-vibe-coding-eigene-anwendungen-per-ki-entwickeln-2611-215329.html</guid>
+      <description>Vibe Coding ermöglicht die Softwareentwicklung mit KI ohne Programmierkenntnisse. Ein Online-Workshop zeigt, wie sich eigene Apps, Tools und Prototypen erstellen lassen. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Wed, 18 Nov 2026 17:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Shelly 1 Gen4 WLAN Smart-Relais (2 Stk.) zum neuen Bestpreis rund 30 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-shelly-1-gen4-wlan-smart-relais-2-stk-zum-neuen-bestpreis-rund-30-euro-bei-amazon-2611-215367.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-shelly-1-gen4-wlan-smart-relais-2-stk-zum-neuen-bestpreis-rund-30-euro-bei-amazon-2611-215367.html</guid>
+      <description>Das Shelly 1 Gen4 steuert Licht und Garagentor per WLAN, Zigbee und Matter ohne Hub und ist im Doppelpack so günstig wie nie. (Technik/Hardware, WLAN)</description>
+      <pubDate>Wed, 18 Nov 2026 17:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Externe SSD von Samsung mit 1 TByte für unter 180 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-externe-ssd-von-samsung-mit-1-tbyte-fuer-unter-180-euro-bei-amazon-2611-215376.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cloud-serverausfaelle-stoeren-outlook-und-microsoft-365-2611-215165.html</guid>
       <description>Seit dem Abend des 12. Novembers gibt weitreichende Probleme mit Microsoft-Diensten - Dienste laufen wieder größtenteils. (Microsoft 365, Microsoft)</description>
       <pubDate>Fri, 13 Nov 2026 06:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nach Cyberangriff: Bundeswehr legt Quantum-Drohnen offenbar still</title>
-      <link>https://www.golem.de/news/nach-cyberangriff-bundeswehr-legt-quantum-drohnen-offenbar-still-2611-215162.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nach-cyberangriff-bundeswehr-legt-quantum-drohnen-offenbar-still-2611-215162.html</guid>
-      <description>Die Bundeswehr setzt Drohnen von Quantum Systems offenbar vorsorglich nicht mehr ein. Hintergrund ist ein Cyberangriff. (Cyberwar, Server)</description>
-      <pubDate>Fri, 13 Nov 2026 06:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quartalsbericht: 1&amp;1 investiert weiter wenig in sein Mobilfunknetz</title>
-      <link>https://www.golem.de/news/quartalsbericht-1-1-investiert-weiter-wenig-in-sein-mobilfunknetz-2611-215159.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/quartalsbericht-1-1-investiert-weiter-wenig-in-sein-mobilfunknetz-2611-215159.html</guid>
-      <description>Trotz steigender Gewinne hält 1&amp;1 die Ausgaben für sein 5G-Netz niedrig. Durch das Ende von Billigtarifen sinkt die Zahl der Kunden. (1&amp;1, Mobilfunk)</description>
-      <pubDate>Thu, 12 Nov 2026 18:08:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
