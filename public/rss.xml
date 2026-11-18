@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 16:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:25:27 GMT</lastBuildDate>
+    <item>
+      <title>Gerichtsurteil: DAZN muss Preiserhöhung zurückzahlen</title>
+      <link>https://www.golem.de/news/gerichtsurteil-dazn-muss-preiserhoehung-zurueckzahlen-2611-215372.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gerichtsurteil-dazn-muss-preiserhoehung-zurueckzahlen-2611-215372.html</guid>
+      <description>Das Oberlandesgericht Hamm erklärt Preiserhöhungen von DAZN für rechtswidrig. Wer Geld zurück will, muss allerdings einiges nachweisen. (Dazn, Verbraucherschutz)</description>
+      <pubDate>Wed, 18 Nov 2026 16:22:07 GMT</pubDate>
+    </item>
     <item>
       <title>Fusion: Paketdienste GLS und DPD schließen sich zusammen</title>
       <link>https://www.golem.de/news/fusion-paketdienste-gls-und-dpd-schliessen-sich-zusammen-2611-215371.html</link>
@@ -97,10 +104,10 @@
       <pubDate>Wed, 18 Nov 2026 12:23:01 GMT</pubDate>
     </item>
     <item>
-      <title>Elektroautos: Falsche Gerüchte zu Elektromobilität als größte Kaufhürde</title>
+      <title>Elektroautos: Falsche Gerüchte zu Elektromobilität sind die größte Kaufhürde</title>
       <link>https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html</guid>
-      <description>Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität für die meisten Elektroauto-Fahrer die größte Einstiegshürde gewesen sind. (Elektromobilität, Elektroauto)</description>
+      <description>Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität den Einstieg ins Elektroauto am meisten verzögert haben. (Elektromobilität, Elektroauto)</description>
       <pubDate>Wed, 18 Nov 2026 11:56:09 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-akkuschrauber-mit-20-bits-im-set-zum-neuen-bestpreis-rund-50-euro-bei-amazon-2611-215146.html</guid>
       <description>Der Fanttik S2 Pro schraubt mit sieben Drehmomentstufen alles vom Smartphone bis zum Schrank und ist vor dem Black Friday so günstig wie nie. (Technik/Hardware, Amazon)</description>
       <pubDate>Thu, 12 Nov 2026 17:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ausblick 2027: Großteil der KI-Ausgaben fließt weiter in die Infrastruktur</title>
-      <link>https://www.golem.de/news/ausblick-2027-grossteil-der-ki-ausgaben-fliesst-weiter-in-die-infrastruktur-2611-215155.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ausblick-2027-grossteil-der-ki-ausgaben-fliesst-weiter-in-die-infrastruktur-2611-215155.html</guid>
-      <description>Ein zirkulärer Markt: Während Hyperscaler Milliarden in KI-Hardware investieren, machen direkte Ausgaben für KI-Modelle nur einen winzigen Bruchteil aus. Eine Analyse von Achim Sawall (Gartner, Studien)</description>
-      <pubDate>Thu, 12 Nov 2026 17:18:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
