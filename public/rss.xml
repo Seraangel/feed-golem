@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 15:50:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:05:28 GMT</lastBuildDate>
+    <item>
+      <title>Windkraft: Höhenwindrad geht offiziell in Betrieb</title>
+      <link>https://www.golem.de/news/windkraft-hoehenwindrad-geht-offiziell-in-betrieb-2611-215428.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windkraft-hoehenwindrad-geht-offiziell-in-betrieb-2611-215428.html</guid>
+      <description>Nach Abschluss der kostspieligen Bauarbeiten und ersten Tests ist die Inbetriebnahme erfolgt. Das Potenzial der Windkraft könnte sich vervielfachen. (Windkraft, Windpark)</description>
+      <pubDate>Thu, 19 Nov 2026 16:03:09 GMT</pubDate>
+    </item>
     <item>
       <title>Lagebericht des BSI: Angreifer nutzen Sicherheitslücken immer schneller aus</title>
       <link>https://www.golem.de/news/lagebericht-des-bsi-angreifer-nutzen-sicherheitsluecken-immer-schneller-aus-2611-215425.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/spacex-starship-startet-erneut-ohne-landung-des-boosters-2611-215218.html</guid>
       <description>Landung erfolgreich, System gescheitert. Das Starship hat ein Loch im Hitzeschutzschild und der Booster landet nicht aus Treibstoffmangel. Von Frank Wunderlich-Pfeiffer (Starship, Raumfahrt)</description>
       <pubDate>Sat, 14 Nov 2026 10:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonomes Fahren: Tesla verkauft Cybercab an erste Privatkunden</title>
-      <link>https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html</guid>
-      <description>Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. (Cybercab, Elektroauto)</description>
-      <pubDate>Sat, 14 Nov 2026 09:45:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
