@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 16:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:20:23 GMT</lastBuildDate>
+    <item>
+      <title>Tiny 2.1: Mini-Sprachmodell passt auf eine Diskette</title>
+      <link>https://www.golem.de/news/tiny-2-1-mini-sprachmodell-passt-auf-eine-diskette-2611-215426.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/tiny-2-1-mini-sprachmodell-passt-auf-eine-diskette-2611-215426.html</guid>
+      <description>Tiny 2.1 ist ein Transformer-Sprachmodell mit 367.000 Parametern, welches auf 3.500 Fakten trainiert ist - und das auf eine Floppy-Disc passt. (KI, DIY - Do it yourself)</description>
+      <pubDate>Thu, 19 Nov 2026 16:18:08 GMT</pubDate>
+    </item>
     <item>
       <title>Windkraft: Höhenwindrad geht offiziell in Betrieb</title>
       <link>https://www.golem.de/news/windkraft-hoehenwindrad-geht-offiziell-in-betrieb-2611-215428.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kommunikationsprobleme-mehr-als-10-000-flugausfaelle-nach-technikpanne-in-den-usa-2611-215220.html</guid>
       <description>Erst vor wenigen Tagen hat die US-Flugsicherung die Ausmusterung von Disketten angekündigt. Doch die alten und neuen Systeme harmonieren noch nicht. (Flugzeug, Luftfahrt)</description>
       <pubDate>Sat, 14 Nov 2026 10:56:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX: Starship landet ohne Landung des Boosters</title>
-      <link>https://www.golem.de/news/spacex-starship-startet-erneut-ohne-landung-des-boosters-2611-215218.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/spacex-starship-startet-erneut-ohne-landung-des-boosters-2611-215218.html</guid>
-      <description>Landung erfolgreich, System gescheitert. Das Starship hat ein Loch im Hitzeschutzschild und der Booster landet nicht aus Treibstoffmangel. Von Frank Wunderlich-Pfeiffer (Starship, Raumfahrt)</description>
-      <pubDate>Sat, 14 Nov 2026 10:10:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
