@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 08:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 08:20:22 GMT</lastBuildDate>
+    <item>
+      <title>Cybersicherheit: Überstürztes Handeln führt zu mehr Systemausfällen</title>
+      <link>https://www.golem.de/news/cybersicherheit-ueberstuerztes-handeln-fuehrt-zu-mehr-systemausfaellen-2611-215391.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cybersicherheit-ueberstuerztes-handeln-fuehrt-zu-mehr-systemausfaellen-2611-215391.html</guid>
+      <description>Von KI gefundene Sicherheitslücken sofort und gleichzeitig zu schließen, belastet bestehende IT-Infrastruktur stark. (KI, Sicherheitslücke)</description>
+      <pubDate>Thu, 19 Nov 2026 08:18:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: TCL Mini-LED-TV mit 144 Hz und 98 Zoll zum neuen Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-tcl-mini-led-tv-mit-144-hz-und-98-zoll-zum-neuen-amazon-bestpreis-2611-215390.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/xbox-wolfenstein-3-kommt-und-id-software-arbeitet-am-naechsten-spiel-2611-215174.html</guid>
       <description>Neun Jahre nach The New Colossus kehrt B.J. Blazkowicz in Wolfenstein zurück. Auch id Software hat ein neues Spiel in Arbeit. (Wolfenstein, id Software)</description>
       <pubDate>Fri, 13 Nov 2026 10:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Über MCP-Server: Erneuter Hackerangriff auf Hoster Mittwald</title>
-      <link>https://www.golem.de/news/ueber-mcp-server-erneuter-hackerangriff-auf-hoster-mittwald-2611-215173.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ueber-mcp-server-erneuter-hackerangriff-auf-hoster-mittwald-2611-215173.html</guid>
-      <description>Es ist die zweite Attacke innerhalb einer Woche: Wieder hat Mittwald Kundencenter und das Control-Panel mStudio abgeschaltet. (Hacker, KI)</description>
-      <pubDate>Fri, 13 Nov 2026 09:50:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
