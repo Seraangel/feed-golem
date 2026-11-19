@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 13:00:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:15:35 GMT</lastBuildDate>
+    <item>
+      <title>Auch in Deutschland: Hacker greifen Millionen Bezahlkartendaten von Terminals ab</title>
+      <link>https://www.golem.de/news/auch-in-deutschland-hacker-greifen-millionen-bezahlkartendaten-von-terminals-ab-2611-215408.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/auch-in-deutschland-hacker-greifen-millionen-bezahlkartendaten-von-terminals-ab-2611-215408.html</guid>
+      <description>Angreifer haben Windows-basierte Zahlungsterminals in mehreren Ländern mit Malware infiltriert und massenhaft Kartendaten ausgeleitet. (Datenleck, Virus)</description>
+      <pubDate>Thu, 19 Nov 2026 13:12:09 GMT</pubDate>
+    </item>
     <item>
       <title>Google: Gemini 4 Neon soll leistungsfähig und günstiger sein</title>
       <link>https://www.golem.de/news/google-gemini-4-neon-soll-leistungsfaehig-und-guenstiger-sein-2611-215409.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-bosch-pro-deahschlagschrauber-bei-amazon-nun-klar-unter-vergleichspreis-2611-215209.html</guid>
       <description>Der Bosch Professional GDX 18V-285 ist ein Akku-Drehschlagschrauber. Amazon verkauft ihn nun günstiger als anderswo und üblicherweise. (Technik/Hardware)</description>
       <pubDate>Fri, 13 Nov 2026 17:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: ISO 27001: Grundlagen für ein sicheres ISMS</title>
-      <link>https://www.golem.de/news/anzeige-iso-27001-grundlagen-fuer-ein-sicheres-isms-2611-215194.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-iso-27001-grundlagen-fuer-ein-sicheres-isms-2611-215194.html</guid>
-      <description>ISO 27001 definiert Anforderungen an das Informationssicherheitsmanagement. Ein zweitägiger Online-Workshop vermittelt die Grundlagen und bereitet auf die Zertifizierung vor. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Fri, 13 Nov 2026 17:45:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
