@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 15:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:50:28 GMT</lastBuildDate>
+    <item>
+      <title>Lagebericht des BSI: Angreifer nutzen Sicherheitslücken immer schneller aus</title>
+      <link>https://www.golem.de/news/lagebericht-des-bsi-angreifer-nutzen-sicherheitsluecken-immer-schneller-aus-2611-215425.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/lagebericht-des-bsi-angreifer-nutzen-sicherheitsluecken-immer-schneller-aus-2611-215425.html</guid>
+      <description>Die IT-Sicherheitslage in Deutschland wird vom BSI als kritisch bewertet. IoT-Geräte verschärfen die Lage zusätzlich. (BSI, Sicherheitslücke)</description>
+      <pubDate>Thu, 19 Nov 2026 15:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Black Friday bei Amazon - das sind die 40 besten Deals</title>
       <link>https://www.golem.de/news/anzeige-black-friday-bei-amazon-das-sind-die-40-besten-deals-2611-215422.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-tesla-verkauft-cybercab-an-erste-privatkunden-2611-215217.html</guid>
       <description>Mit Tesla verkauft erstmals ein Hersteller sein Robotaxi an Privatpersonen. Doch der Nutzen des Cybercab ist stark eingeschränkt. (Cybercab, Elektroauto)</description>
       <pubDate>Sat, 14 Nov 2026 09:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Black Week Special - Vodafone empfehlen und bis zu 260 Euro Prämie sichern</title>
-      <link>https://www.golem.de/news/anzeige-black-week-special-vodafone-empfehlen-und-bis-zu-260-euro-praemie-sichern-2611-215156.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-black-week-special-vodafone-empfehlen-und-bis-zu-260-euro-praemie-sichern-2611-215156.html</guid>
-      <description>Die Black Week bringt allerlei Angebote und Deals. Bei Vodafone sollen auch alle profitieren, die Vodafone ihren Freunden weiterempfehlen. (Vodafone, Kabelnetz)</description>
-      <pubDate>Sat, 14 Nov 2026 09:40:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
