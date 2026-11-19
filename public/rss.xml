@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 12:30:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 12:40:30 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Datenschutz: Microsoft 365 DSGVO-konform betreiben - Realität oder Mythos?</title>
+      <link>https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/datenschutz-microsoft-365-dsgvo-konform-betreiben-realitaet-oder-mythos-2611-215208.html</guid>
+      <description>Microsoft 365 lässt sich DSGVO-konform betreiben, doch MFA allein reicht nicht. Welche Einstellungen und Nachweise bei einer Datenschutzprüfung entscheidend sind. Ein Ratgebertext von Aaron Siller (Microsoft 365, Datenschutz)</description>
+      <pubDate>Thu, 19 Nov 2026 12:36:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Xbox Wireless Controller zum günstigen Black Friday Preis</title>
       <link>https://www.golem.de/news/anzeige-xbox-wireless-controller-zum-guenstigen-black-friday-preis-2611-215413.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-saugroboter-mit-wischfunktion-von-dreame-reduziert-bei-amazon-2611-215203.html</guid>
       <description>Den Saugroboter Dreame L40 Ultra A mit Wischfunktion, 24.000 Pa und Multifunktionsdock gibt es zum Sparpreis bei Amazon. (Saugroboter, Technik/Hardware)</description>
       <pubDate>Fri, 13 Nov 2026 15:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vodafone und andere: Telekommunikationsbranche streicht weltweit über 17.000 Stellen</title>
-      <link>https://www.golem.de/news/vodafone-und-andere-telekommunikationsbranche-streicht-weltweit-ueber-17-000-stellen-2611-215195.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vodafone-und-andere-telekommunikationsbranche-streicht-weltweit-ueber-17-000-stellen-2611-215195.html</guid>
-      <description>Der Stellenabbau bei Vodafone Deutschland ist Teil einer weltweiten Entlassungswelle im Telcosektor. KI dient vielen Konzernen vor allem als Vorwand. (Telekommunikation, Studien)</description>
-      <pubDate>Fri, 13 Nov 2026 14:46:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
