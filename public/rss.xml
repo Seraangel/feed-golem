@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 00:00:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:20:25 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Desktop-Apps mit Python und Qt plattformübergreifend entwickeln</title>
+      <link>https://www.golem.de/news/anzeige-desktop-apps-mit-python-und-qt-plattformuebergreifend-entwickeln-2611-215380.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-desktop-apps-mit-python-und-qt-plattformuebergreifend-entwickeln-2611-215380.html</guid>
+      <description>Python und Qt ermöglichen Desktop-Anwendungen für mehrere Betriebssysteme. Ein zweitägiger Workshop vermittelt GUI-Entwicklung mit PySide6 anhand eines Praxisprojekts. (Golem Karrierewelt, Python)</description>
+      <pubDate>Thu, 19 Nov 2026 06:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Black Friday Woche 2026 - Jetzt die besten Deals bei Amazon sichern</title>
       <link>https://www.golem.de/news/anzeige-black-friday-woche-2026-jetzt-die-besten-deals-bei-amazon-sichern-2611-215370.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/cybersicherheit-bundestag-erlaubt-hackbacks-durch-die-polizei-2611-215160.html</guid>
       <description>BKA und Bundespolizei dürfen künftig als Reaktion auf Cyberangriffe IT-Systeme manipulieren und zerstören. (Hackback, CCC)</description>
       <pubDate>Fri, 13 Nov 2026 08:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Militär: Anduril will Satelliten im Erdschatten aufspüren</title>
-      <link>https://www.golem.de/news/militaer-anduril-will-satelliten-im-erdschatten-aufspueren-2611-215163.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/militaer-anduril-will-satelliten-im-erdschatten-aufspueren-2611-215163.html</guid>
-      <description>Anduril hat ein langwelliges Infrarotsystem getestet, das Satellitenmanöver auch in der orbitalen Nacht erkennen soll. (Satelliten, Politik)</description>
-      <pubDate>Fri, 13 Nov 2026 07:01:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
