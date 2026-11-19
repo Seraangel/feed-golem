@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 06:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:10:22 GMT</lastBuildDate>
+    <item>
+      <title>Streamingabo: Disney reaktiviert Airplay für Disney+, Chromecast fehlt weiterhin</title>
+      <link>https://www.golem.de/news/streamingabo-disney-reaktiviert-airplay-fuer-disney-chromecast-fehlt-weiterhin-2611-215387.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/streamingabo-disney-reaktiviert-airplay-fuer-disney-chromecast-fehlt-weiterhin-2611-215387.html</guid>
+      <description>Airplay lässt sich mit Disney+ wieder nutzen. Disney musste die Funktion aufgrund eines Patentrechtsstreits aus allen Abostufen entfernen. (Disney+, Verbraucherschutz)</description>
+      <pubDate>Thu, 19 Nov 2026 07:09:11 GMT</pubDate>
+    </item>
     <item>
       <title>Unbemannte Kampfflugzeuge: Rennen um Drohnen-Milliardenauftrag für die Luftwaffe</title>
       <link>https://www.golem.de/news/unbemannte-kampfflugzeuge-rennen-um-drohnen-milliardenauftrag-fuer-die-luftwaffe-2611-215386.html</link>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 18 Nov 2026 23:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>Millionen Webserver gefährdet: NGINX-Lücke erlaubt Codeausführung ohne Anmeldung</title>
+      <title>Millionen Webserver gefährdet: NGINX-Lücke ermöglicht Codeausführung ohne Anmeldung</title>
       <link>https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html</guid>
       <description>Zwei NGINX-Lücken könnten bei aktivem HTTP/2 Codeausführung auf Webservern ermöglichen. Die Patches sollten schnell eingespielt werden. (Nginx, Server)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/tesla-cybertruck-wird-ein-paar-monate-laenger-produziert-2611-215169.html</guid>
       <description>Um mehr Vorbestellungen zu bedienen, will Elon Musk den Cybertruck bis zum Ende des Sommers 2027 produzieren. (Tesla Cybertruck, Elektroauto)</description>
       <pubDate>Fri, 13 Nov 2026 08:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agile Robots: Humanoide Roboter aus München bekommen 500 Millionen Dollar</title>
-      <link>https://www.golem.de/news/finanzierungsrunde-agile-robots-aus-muenchen-mit-8-5-milliarden-us-dollar-bewertet-2611-215167.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/finanzierungsrunde-agile-robots-aus-muenchen-mit-8-5-milliarden-us-dollar-bewertet-2611-215167.html</guid>
-      <description>Nvidia und Softbank investieren in den Münchner Roboterbauer Agile Robots. Die Bewertung liegt nach der Runde bei 8,5 Milliarden US-Dollar. (Roboter, Wirtschaft)</description>
-      <pubDate>Fri, 13 Nov 2026 08:48:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
