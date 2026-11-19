@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 09:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:55:26 GMT</lastBuildDate>
+    <item>
+      <title>Windows 11: Microsoft lässt Apps den Windows-Sicherheitsstatus prüfen</title>
+      <link>https://www.golem.de/news/windows-11-microsoft-laesst-apps-den-windows-sicherheitsstatus-pruefen-2611-215399.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/windows-11-microsoft-laesst-apps-den-windows-sicherheitsstatus-pruefen-2611-215399.html</guid>
+      <description>Windows Baseline Protection fasst acht Schutzfunktionen in einem Ja-Nein-Signal zusammen. Entwickler entscheiden dann, wie ihre Apps reagieren. (Windows 11, Microsoft)</description>
+      <pubDate>Thu, 19 Nov 2026 09:51:11 GMT</pubDate>
+    </item>
     <item>
       <title>US-Wahlkampf: Elon Musk ist nicht mehr MAGA-süchtig</title>
       <link>https://www.golem.de/news/us-wahlkampf-elon-musk-ist-nicht-mehr-maga-suechtig-2611-215398.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-samsung-galaxy-s25-im-fruehen-black-friday-deal-guenstig-bei-back-market-2611-215178.html</guid>
       <description>Das Smartphone Samsung Galaxy S25 mit AMOLED-Display und Snapdragon 8 Elite gibt es im Black Friday Deal günstig bei Back Market. (Samsung Galaxy, Smartphone)</description>
       <pubDate>Fri, 13 Nov 2026 12:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cybersicherheit: KI legt Windpark in unter zwei Stunden lahm</title>
-      <link>https://www.golem.de/news/cybersicherheit-ki-legt-windpark-in-unter-zwei-stunden-lahm-2611-215181.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cybersicherheit-ki-legt-windpark-in-unter-zwei-stunden-lahm-2611-215181.html</guid>
-      <description>Den KI-Modellen Claude und Kimi ist es in einer Testumgebung gelungen, einen simulierten Windpark auf kreative Weise stillzulegen. (KI, Sicherheitslücke)</description>
-      <pubDate>Fri, 13 Nov 2026 11:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
