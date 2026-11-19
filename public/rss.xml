@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 16:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:05:23 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Wachstum: Wo bleibt Europas KI-Boom?</title>
+      <link>https://www.golem.de/news/wachstum-wo-bleibt-europas-ki-boom-2611-215427.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wachstum-wo-bleibt-europas-ki-boom-2611-215427.html</guid>
+      <description>Wenn man ganz genau hinsieht, kann man ihn in den Daten entdecken - unsere heutige Leseempfehlung aus der Financial Times. Von Soumaya Keynes (Wirtschaft, KI)</description>
+      <pubDate>Thu, 19 Nov 2026 17:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Xpeng L03 mit 1.000 km Reichweite: Weiterer China-Hersteller bietet Range Extender</title>
       <link>https://www.golem.de/news/xpeng-l03-mit-1-000-km-reichweite-weiterer-china-hersteller-bietet-range-extender-2611-215434.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-frueher-black-friday-nass-trockensauger-von-tineco-mit-gutschein-zum-tiefstpreis-bei-amazon-2611-215206.html</guid>
       <description>Der Black Friday wirft seine Schatten voraus: Ein beliebter Nass-Trockensauger von Tineco ist bei Amazon mit Coupon jetzt zum Tiefstpreis erhältlich. (Black Friday, Technik/Hardware)</description>
       <pubDate>Sat, 14 Nov 2026 12:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neue Gewichtung: OpenAI löst Robotik-Team auf</title>
-      <link>https://www.golem.de/news/neue-gewichtung-openai-loest-robotik-team-auf-2611-215222.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neue-gewichtung-openai-loest-robotik-team-auf-2611-215222.html</guid>
-      <description>OpenAI löst sein Robotik-Team auf und setzt nun auf allgemeine KI-Modelle als Grundlage für künftige Roboterforschung. (Roboter, KI)</description>
-      <pubDate>Sat, 14 Nov 2026 12:35:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
