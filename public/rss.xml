@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 18 Nov 2026 21:10:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 00:00:23 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Black Friday Woche 2026 - Jetzt die besten Deals bei Amazon sichern</title>
+      <link>https://www.golem.de/news/anzeige-black-friday-woche-2026-jetzt-die-besten-deals-bei-amazon-sichern-2611-215370.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-black-friday-woche-2026-jetzt-die-besten-deals-bei-amazon-sichern-2611-215370.html</guid>
+      <description>Amazon hat uns mit den frühen Black Friday Angeboten bereits einen Vorgeschmack geliefert. Seit Mitternacht läuft jetzt die Black Friday Woche. (Black Friday, Amazon)</description>
+      <pubDate>Wed, 18 Nov 2026 23:01:01 GMT</pubDate>
+    </item>
     <item>
       <title>Millionen Webserver gefährdet: NGINX-Lücke erlaubt Codeausführung ohne Anmeldung</title>
       <link>https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/militaer-anduril-will-satelliten-im-erdschatten-aufspueren-2611-215163.html</guid>
       <description>Anduril hat ein langwelliges Infrarotsystem getestet, das Satellitenmanöver auch in der orbitalen Nacht erkennen soll. (Satelliten, Politik)</description>
       <pubDate>Fri, 13 Nov 2026 07:01:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Cloud-Transformation: Strategie, Governance und klare Zuständigkeiten</title>
-      <link>https://www.golem.de/news/anzeige-cloud-transformation-strategie-governance-und-klare-zustaendigkeiten-2611-215161.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-cloud-transformation-strategie-governance-und-klare-zustaendigkeiten-2611-215161.html</guid>
-      <description>Cloud-Projekte erfordern klare Strukturen und Verantwortlichkeiten. Ein Workshop zeigt, wie sich Cloud Competence Center, Governance und Roadmap aufeinander abstimmen lassen. (Golem Karrierewelt, Verschlüsselung)</description>
-      <pubDate>Fri, 13 Nov 2026 06:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
