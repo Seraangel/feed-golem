@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 08:30:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:05:36 GMT</lastBuildDate>
+    <item>
+      <title>Nur ein Klick nötig: XSS-Lücke in uBlock Origin ermöglicht Datenklau</title>
+      <link>https://www.golem.de/news/nur-ein-klick-noetig-xss-luecke-in-ublock-origin-ermoeglicht-datenklau-2611-215395.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nur-ein-klick-noetig-xss-luecke-in-ublock-origin-ermoeglicht-datenklau-2611-215395.html</guid>
+      <description>Im beliebten Werbeblocker uBlock Origin klafft eine gefährliche Sicherheitslücke. Er wurde temporär aus dem Tor-Browser in Tails entfernt. (Sicherheitslücke, Firefox)</description>
+      <pubDate>Thu, 19 Nov 2026 09:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: RayNeo iO: Diese smarte Brille bringt KI direkt vor die Augen</title>
+      <link>https://www.golem.de/news/anzeige-rayneo-io-diese-smarte-brille-bringt-ki-direkt-vor-die-augen-2611-215365.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-rayneo-io-diese-smarte-brille-bringt-ki-direkt-vor-die-augen-2611-215365.html</guid>
+      <description>Fragen stellen, Übersetzungen lesen oder Informationen abrufen, ohne zum Smartphone greifen zu müssen: Die RayNeo iO kombiniert verschiedene KI-Assistenten mit einem transparenten MicroLED-Display und praktischen Alltagsfunktionen. (Black Friday, Technik/Hardware)</description>
+      <pubDate>Thu, 19 Nov 2026 09:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Adobe Creative Cloud Pro am Black Friday sensationell günstig bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-adobe-creative-cloud-pro-am-black-friday-sensationell-guenstig-bei-amazon-2611-215392.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/der-gewissenskonflikt-darf-ich-zu-x-zurueck-obwohl-ich-musk-kritisiere-2611-215129.html</guid>
       <description>Unter welchen Umständen ist es vertretbar, einem Unternehmen oder einer Person zu Geld zu verhelfen, obwohl man deren Geschäfte öffentlich kritisiert hat? Eine Kolumne von Tim Reinboth (Gewissenskonflikt, Soziales Netz)</description>
       <pubDate>Fri, 13 Nov 2026 11:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mitmach-Aktion: Arbeiten trotz Krankheit</title>
-      <link>https://www.golem.de/news/mitmach-aktion-arbeiten-trotz-krankheit-2611-215150.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mitmach-aktion-arbeiten-trotz-krankheit-2611-215150.html</guid>
-      <description>Ein leichter Schnupfen, ein gebrochenes Bein oder auch eine ausgewachsene Grippe: Wann und warum habt ihr schon mal krank gearbeitet? (Arbeit, Wirtschaft)</description>
-      <pubDate>Fri, 13 Nov 2026 10:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next Gen: Jeder zehnte Entwickler arbeitet an Spiel für Playstation 6</title>
-      <link>https://www.golem.de/news/next-gen-jeder-zehnte-entwickler-arbeitet-an-spiel-fuer-playstation-6-2611-215177.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/next-gen-jeder-zehnte-entwickler-arbeitet-an-spiel-fuer-playstation-6-2611-215177.html</guid>
-      <description>Schon 10 Prozent der GDC-Teilnehmer mit laufendem Spieleprojekt planen für die PS6. Für Microsofts Project Helix sind es 8 Prozent. (GDC, Playstation)</description>
-      <pubDate>Fri, 13 Nov 2026 10:20:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
