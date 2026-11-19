@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 17:40:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:50:23 GMT</lastBuildDate>
+    <item>
+      <title>Breko-Jahrestagung: Telekom-Konkurrenten drängen auf erste eigene Kupferabschaltung</title>
+      <link>https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html</guid>
+      <description>Bislang hat nur die Telekom selbst alte DSL-Netze für ihre Glasfaser abschalten dürfen. (Breko, DSL)</description>
+      <pubDate>Thu, 19 Nov 2026 17:49:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: IT-Sicherheitsvorfälle: Die ersten Maßnahmen richtig wählen</title>
+      <link>https://www.golem.de/news/anzeige-it-sicherheitsvorfaelle-die-ersten-massnahmen-richtig-waehlen-2611-215381.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-sicherheitsvorfaelle-die-ersten-massnahmen-richtig-waehlen-2611-215381.html</guid>
+      <description>Bei Cyberangriffen müssen IT-Teams schnell und strukturiert reagieren. Ein Workshop zur Incident Response vermittelt erste Maßnahmen, IT-Forensik und Beweissicherung. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Thu, 19 Nov 2026 17:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Hacking-Tool: Flipper One mit Rekordstart trotz offener Fragen</title>
       <link>https://www.golem.de/news/hacking-tool-flipper-one-mit-rekordstart-trotz-offener-fragen-2611-215435.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/diy-wir-bauen-einen-supercomputer-2611-215201.html</guid>
       <description>Zweimal im Jahr werden die leistungsfähigsten Supercomputer gekürt. Unser DIY-Modell wäre vor 30 Jahren der schnellste Computer der Welt gewesen. Eine Anleitung von Johannes Hiltscher (Supercomputer, Intel)</description>
       <pubDate>Sun, 15 Nov 2026 09:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Der Golem-Performance-PC mit Black-November-Rabatt bei Systemtreff</title>
-      <link>https://www.golem.de/news/anzeige-der-golem-performance-pc-mit-black-november-rabatt-bei-systemtreff-2611-215176.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-der-golem-performance-pc-mit-black-november-rabatt-bei-systemtreff-2611-215176.html</guid>
-      <description>Starker Gaming-PC mit RX 9070 XT, 2 TB SSD und 32 GB RAM: Der Golem Performance wird zum Black November günstiger. (Technik/Hardware, Spiele)</description>
-      <pubDate>Sun, 15 Nov 2026 09:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Führung in der IT: Vom Entwickler zum Chef: Diese Fehler bremsen das ganze Team</title>
-      <link>https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fuehrung-in-der-it-vom-entwickler-zum-chef-diese-fehler-bremsen-das-ganze-team-2611-215207.html</guid>
-      <description>Der Vertrieb verspricht Funktionen, die Entwicklung weiß von nichts. Und der Chef programmiert lieber selbst. Wie IT-Führungskräfte solche Fehler vermeiden. Ein Ratgebertext von Pierre Wilken (IT-Führung, Softwareentwicklung)</description>
-      <pubDate>Sun, 15 Nov 2026 09:00:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
