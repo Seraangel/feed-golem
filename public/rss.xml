@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 11:50:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:55:29 GMT</lastBuildDate>
+    <item>
+      <title>Java4Shell-Lücke: Berliner Schulen schalten zentrale Anwendungen ab</title>
+      <link>https://www.golem.de/news/java4shell-luecke-berliner-schulen-schalten-zentrale-anwendungen-ab-2611-215412.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/java4shell-luecke-berliner-schulen-schalten-zentrale-anwendungen-ab-2611-215412.html</guid>
+      <description>Die Senatsverwaltung warnt vor Gefahren für sensible Schuldaten, da viele Lernplattformen auf Java basieren. (Schulen, Java)</description>
+      <pubDate>Thu, 19 Nov 2026 11:51:04 GMT</pubDate>
+    </item>
     <item>
       <title>Rockstar Games: GTA 6 startet pünktlich und erzählt erst mal vom Knast</title>
       <link>https://www.golem.de/news/rockstar-games-gta-6-startet-puenktlich-und-erzaehlt-erst-mal-vom-knast-2611-215410.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/golem-umfrage-das-beliebteste-windows-der-golem-community-ist-2611-215086.html</guid>
       <description>Per Umfrage und über Golem Talk haben wir außerdem das meistgehasste Windows gefunden - und das, das ihr als erstes genutzt habt. Von Oliver Nickel (Windows 11, Microsoft)</description>
       <pubDate>Fri, 13 Nov 2026 14:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rockstar Games: Fast 5.000 Menschen haben an GTA 6 gearbeitet</title>
-      <link>https://www.golem.de/news/rockstar-games-fast-5-000-menschen-haben-an-gta-6-gearbeitet-2611-215191.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-fast-5-000-menschen-haben-an-gta-6-gearbeitet-2611-215191.html</guid>
-      <description>Tausende Mitarbeiter, Studios auf mehreren Kontinenten und eine kleine Führungsgruppe: Rockstar Games erklärt den Aufwand hinter GTA 6. (GTA 6, Red Dead Redemption)</description>
-      <pubDate>Fri, 13 Nov 2026 13:55:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
