@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 14:55:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:35:28 GMT</lastBuildDate>
+    <item>
+      <title>Offshore-Windparks: Entlastungen in Millionenhöhe für Windparks auf See geplant</title>
+      <link>https://www.golem.de/news/offshore-windparks-entlastungen-in-millionenhoehe-fuer-windparks-auf-see-geplant-2611-215417.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/offshore-windparks-entlastungen-in-millionenhoehe-fuer-windparks-auf-see-geplant-2611-215417.html</guid>
+      <description>Die Bundesregierung plant starke Erleichterungen beim Aufbau von Windparks in Nord- und Ostsee. Wer nicht baut, könnte Millionen verlieren. (Windkraft, Politik)</description>
+      <pubDate>Thu, 19 Nov 2026 15:30:09 GMT</pubDate>
+    </item>
     <item>
       <title>Bundesdigitalminister Wildberger: Nokia und Ericsson orientieren sich in Richtung USA</title>
       <link>https://www.golem.de/news/bundesdigitalminister-wildberger-nokia-und-ericsson-orientieren-sich-in-richtung-usa-2611-215424.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/outlook-und-teams-serverausfaelle-bei-microsoft-nicht-wegen-ki-oder-hackern-2611-215215.html</guid>
       <description>Microsoft hat eine erste Erklärung für den stundenlangen Serverausfall gegeben. Eine ausführliche Fehleranalyse soll folgen. (Microsoft 365, Microsoft)</description>
       <pubDate>Sat, 14 Nov 2026 09:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) KI-Code in Open Source: Wie Maintainer ihre Projekte vor Überlastung schützen</title>
-      <link>https://www.golem.de/news/ki-code-in-open-source-wie-maintainer-ihre-projekte-vor-ueberlastung-schuetzen-2611-215205.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-code-in-open-source-wie-maintainer-ihre-projekte-vor-ueberlastung-schuetzen-2611-215205.html</guid>
-      <description>KI-Code überflutet Open-Source-Projekte. Wie Maintainer mit Github-Funktionen, Beitragsregeln und Prüfverfahren die Kontrolle behalten. Ein Ratgebertext von Fabian Deitelhoff (Github, KI)</description>
-      <pubDate>Sat, 14 Nov 2026 09:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
