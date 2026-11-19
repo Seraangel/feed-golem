@@ -11,7 +11,7 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 14:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 14:35:30 GMT</lastBuildDate>
     <item>
       <title>Anzeige: Mechanische Corsair-Tastatur mit integriertem Stream Deck zum neuen Amazon-Bestpreis</title>
       <link>https://www.golem.de/news/anzeige-mechanische-corsair-tastatur-mit-integriertem-stream-deck-zum-neuen-amazon-bestpreis-2611-215420.html</link>
@@ -223,10 +223,10 @@
       <pubDate>Thu, 19 Nov 2026 07:58:01 GMT</pubDate>
     </item>
     <item>
-      <title>Nach PHP2Shell: PHP Foundation warnt erneut vor kritischen PHP-Lücken</title>
+      <title>Nach PHP2Shell: PHP Foundation patcht erneut kritische PHP-Lücken</title>
       <link>https://www.golem.de/news/nach-php2shell-php-foundation-warnt-erneut-vor-kritischen-php-luecken-2611-215389.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/nach-php2shell-php-foundation-warnt-erneut-vor-kritischen-php-luecken-2611-215389.html</guid>
-      <description>Einen Monat nach PHP2Shell steht wieder ein wichtiges PHP-Release an. Panik ist nicht angebracht, Admins sollten sich aber dennoch vorbereiten. (Sicherheitslücke, PHP)</description>
+      <description>Einen Monat nach PHP2Shell steht wieder ein wichtiges PHP-Release an. Panik ist nicht angebracht, Admins sollten aber dennoch zügig patchen. (Sicherheitslücke, PHP)</description>
       <pubDate>Thu, 19 Nov 2026 07:50:11 GMT</pubDate>
     </item>
     <item>
