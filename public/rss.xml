@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 11:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:10:37 GMT</lastBuildDate>
+    <item>
+      <title>Preview-Version bereits verfügbar: Windows Server 2028 soll besser gegen Angriffe geschützt sein</title>
+      <link>https://www.golem.de/news/preview-version-bereits-verfuegbar-windows-server-2028-soll-besser-gegen-angriffe-geschuetzt-sein-2611-215406.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/preview-version-bereits-verfuegbar-windows-server-2028-soll-besser-gegen-angriffe-geschuetzt-sein-2611-215406.html</guid>
+      <description>Neben einer gehärteten Server-Core-Installation soll Windows Server 2028 auch Laufzeit- und Inferenz-Engines für lokale KI-Modelle unterstützen. (KI, Microsoft)</description>
+      <pubDate>Thu, 19 Nov 2026 11:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>Neue Düsentriebwerke: Weniger Ruß, tausendmal mehr Eiskristalle</title>
       <link>https://www.golem.de/news/neue-duesentriebwerke-weniger-russ-tausendmal-mehr-eiskristalle-2611-214949.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/reform-bundestag-beschliesst-mehr-befugnisse-fuer-geheimdienste-2611-215190.html</guid>
       <description>Der Bundestag erweitert die Befugnisse von BND und Verfassungsschutz. Beide Dienste dürfen damit bei drohender Sabotage selbst eingreifen. (Geheimdienste, Politik)</description>
       <pubDate>Fri, 13 Nov 2026 13:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Star Wars: Originalversion von Krieg der Sterne kommt wieder in die Kinos</title>
-      <link>https://www.golem.de/news/star-wars-originalversion-von-krieg-der-sterne-kommt-wieder-in-die-kinos-2611-215189.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/star-wars-originalversion-von-krieg-der-sterne-kommt-wieder-in-die-kinos-2611-215189.html</guid>
-      <description>Zum 50-jährigen Jubiläum kommt 2027 der allererste Star-Wars-Film wieder in die Kinos - in der unveränderten Originalversion. (Star Wars, Digitalkino)</description>
-      <pubDate>Fri, 13 Nov 2026 13:26:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
