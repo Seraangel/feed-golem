@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 09:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:15:24 GMT</lastBuildDate>
+    <item>
+      <title>Sam Altman: Ein Wendehals ohne Rücksicht auf Verluste</title>
+      <link>https://www.golem.de/news/sam-altman-ein-wendehals-ohne-ruecksicht-auf-verluste-2611-215344.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/sam-altman-ein-wendehals-ohne-ruecksicht-auf-verluste-2611-215344.html</guid>
+      <description>Der OpenAI-Chef fällt immer wieder mit Wortmeldungen auf - zu denen er aber selten steht. Im politischen Dickicht taucht er mal da, mal dort auf. Eine Kolumne von Claudia Zettel (Tech-Bro-Watchblog, Politik)</description>
+      <pubDate>Thu, 19 Nov 2026 09:12:06 GMT</pubDate>
+    </item>
     <item>
       <title>Nur ein Klick nötig: XSS-Lücke in uBlock Origin ermöglicht Datenklau</title>
       <link>https://www.golem.de/news/nur-ein-klick-noetig-xss-luecke-in-ublock-origin-ermoeglicht-datenklau-2611-215395.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/auto-elektroautopraemie-koennte-schon-ende-2027-aufgebraucht-sein-2611-215182.html</guid>
       <description>Die Elektroautoprämie ist ein Erfolg. Das Umweltministerium geht aber offenbar von einem deutlich früheren Ende der Förderung aus. (Elektroauto, Politik)</description>
       <pubDate>Fri, 13 Nov 2026 11:15:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Der Gewissenskonflikt: Darf ich zu X zurück, obwohl ich Musk kritisiere?</title>
-      <link>https://www.golem.de/news/der-gewissenskonflikt-darf-ich-zu-x-zurueck-obwohl-ich-musk-kritisiere-2611-215129.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/der-gewissenskonflikt-darf-ich-zu-x-zurueck-obwohl-ich-musk-kritisiere-2611-215129.html</guid>
-      <description>Unter welchen Umständen ist es vertretbar, einem Unternehmen oder einer Person zu Geld zu verhelfen, obwohl man deren Geschäfte öffentlich kritisiert hat? Eine Kolumne von Tim Reinboth (Gewissenskonflikt, Soziales Netz)</description>
-      <pubDate>Fri, 13 Nov 2026 11:00:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
