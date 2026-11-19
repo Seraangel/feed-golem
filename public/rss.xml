@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 19 Nov 2026 07:45:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 07:55:22 GMT</lastBuildDate>
+    <item>
+      <title>Nach PHP2Shell: PHP Foundation warnt erneut vor kritischen PHP-Lücken</title>
+      <link>https://www.golem.de/news/nach-php2shell-php-foundation-warnt-erneut-vor-kritischen-php-luecken-2611-215389.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nach-php2shell-php-foundation-warnt-erneut-vor-kritischen-php-luecken-2611-215389.html</guid>
+      <description>Einen Monat nach PHP2Shell steht wieder ein wichtiges PHP-Release an. Panik ist nicht angebracht, Admins sollten sich aber dennoch vorbereiten. (Sicherheitslücke, PHP)</description>
+      <pubDate>Thu, 19 Nov 2026 07:50:11 GMT</pubDate>
+    </item>
     <item>
       <title>Börsengang: Anthropic übertrifft den Emissionsrekord von SpaceX</title>
       <link>https://www.golem.de/news/boersengang-anthropic-uebertrifft-den-emissionsrekord-von-spacex-2611-215388.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-zendure-solarspeicher-bei-mini-power-mit-exklusivem-golem-rabatt-sichern-2611-215148.html</guid>
       <description>Beim Händler Mini Power gibt es im Rahmen der Winter Sales Rabatte auf Batteriespeichersysteme von Zendure. Es winkt ein exklusiver Golem-Rabatt. (Energie &amp; Klima, Technik/Hardware)</description>
       <pubDate>Fri, 13 Nov 2026 09:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fake-Anruf: Russisches Komiker-Duo täuscht OpenAI im Videocall</title>
-      <link>https://www.golem.de/news/fake-anruf-russisches-komiker-duo-taeuscht-openai-im-videocall-2611-215172.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/fake-anruf-russisches-komiker-duo-taeuscht-openai-im-videocall-2611-215172.html</guid>
-      <description>Drei hochrangige OpenAI-Mitarbeiter dachten, sie sprächen mit dem früheren ukrainischen Verteidigungsminister. (Russland, KI)</description>
-      <pubDate>Fri, 13 Nov 2026 09:35:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
