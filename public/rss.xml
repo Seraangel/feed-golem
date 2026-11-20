@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 17:45:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:50:36 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Microsoft Purview: Sensible Unternehmensdaten schützen</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-purview-sensible-unternehmensdaten-schuetzen-2611-215384.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-purview-sensible-unternehmensdaten-schuetzen-2611-215384.html</guid>
+      <description>Microsoft Purview unterstützt den Schutz sensibler Daten in Microsoft 365. Ein Workshop zeigt die Einrichtung von Sensitivity Labels, DLP-Richtlinien und Insider Risk Management. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Fri, 20 Nov 2026 17:45:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Samsung Galaxy A17 mit 128 GByte für unter 180 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-samsung-galaxy-a17-mit-128-gbyte-fuer-unter-180-euro-bei-amazon-2611-215497.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/exportkontrolle-usa-fuehren-lizenzpflicht-fuer-chipexporte-ein-2611-215289.html</guid>
       <description>Auf Druck des US-Finanzministeriums werden neue Beschränkungen und Ausnahmen für den Handel mit KI-Chips erlassen. (Politik, KI)</description>
       <pubDate>Tue, 17 Nov 2026 07:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neuer James-Bond-Darsteller: Robert Pattinson erhält als 007 die Lizenz zum Töten</title>
-      <link>https://www.golem.de/news/neuer-james-bond-darsteller-robert-pattinson-erhaelt-als-007-die-lizenz-zum-toeten-2611-215288.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neuer-james-bond-darsteller-robert-pattinson-erhaelt-als-007-die-lizenz-zum-toeten-2611-215288.html</guid>
-      <description>Der Twilight-Star Robert Pattinson übernimmt die Rolle des britischen Geheimagenten James Bond. Die Arbeiten am nächsten 007-Film können beginnen. (James Bond, Amazon)</description>
-      <pubDate>Tue, 17 Nov 2026 07:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
