@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 08:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:55:30 GMT</lastBuildDate>
+    <item>
+      <title>Stellenanzeigen: Apple baut KI-Agenten, der Apps und Browser selbst bedient</title>
+      <link>https://www.golem.de/news/stellenanzeigen-apple-baut-ki-agenten-der-apps-und-browser-selbst-bedient-2611-215449.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/stellenanzeigen-apple-baut-ki-agenten-der-apps-und-browser-selbst-bedient-2611-215449.html</guid>
+      <description>Neue Stellenanzeigen liefern Hinweise, was Apple in Sachen autonome KI plant. Der Agent soll im Netz surfen, Code schreiben und Apps steuern. (Siri, Apple)</description>
+      <pubDate>Fri, 20 Nov 2026 08:54:11 GMT</pubDate>
+    </item>
     <item>
       <title>Mondforschung: Kartoffeln in Mondregolith gezüchtet</title>
       <link>https://www.golem.de/news/mondforschung-kartoffeln-in-mondregolith-gezuechtet-2611-215448.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/patentanmeldung-playstation-controller-koennte-bald-als-kartenleser-dienen-2611-215238.html</guid>
       <description>Sony beschreibt einen Controller, der Smartphone und Karte per NFC erkennt. Die Zahlung läuft direkt über die Konsole. (Playstation, Sony)</description>
       <pubDate>Mon, 16 Nov 2026 06:50:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brandschutz: Dieses System löscht Feuer mit Infraschall</title>
-      <link>https://www.golem.de/news/brandschutz-dieses-system-loescht-feuer-mit-infraschall-2611-215237.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/brandschutz-dieses-system-loescht-feuer-mit-infraschall-2611-215237.html</guid>
-      <description>Sonic Fire Tech löscht Brände mit Infraschall statt Wasser. Experten bezweifeln allerdings, dass das System Sprinkler übertrifft. (Innovation &amp; Forschung, Wissen)</description>
-      <pubDate>Mon, 16 Nov 2026 06:33:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
