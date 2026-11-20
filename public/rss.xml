@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 12:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:50:35 GMT</lastBuildDate>
+    <item>
+      <title>Weltraumrechenzentren: Google setzt beim Satellitenstart auf Blue Origin</title>
+      <link>https://www.golem.de/news/weltraumrechenzentren-google-setzt-beim-satellitenstart-auf-blue-origin-2611-215470.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/weltraumrechenzentren-google-setzt-beim-satellitenstart-auf-blue-origin-2611-215470.html</guid>
+      <description>Das Project Suncatcher geht in die nächste Phase: Blue Origin soll 2029 mehrere Satelliten mit KI-Chips von Google in den Orbit befördern. (Google, KI)</description>
+      <pubDate>Fri, 20 Nov 2026 12:45:02 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) SaaS: Warum Investoren nicht wollen, dass dein Startup überlebt</title>
       <link>https://www.golem.de/news/saas-warum-investoren-nicht-wollen-dass-dein-startup-ueberlebt-2611-215405.html</link>
@@ -233,7 +240,7 @@
       <title>Breko-Jahrestagung: Telekom-Konkurrenten drängen auf erste eigene Kupferabschaltung</title>
       <link>https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html</guid>
-      <description>Bislang hat nur die Telekom selbst alte DSL-Netze für ihre Glasfaser abschalten dürfen. (Breko, DSL)</description>
+      <description>Bislang hat nur die Telekom selbst alte DSL-Netze für ihre Glasfaser abschalten dürfen. (Breko, Telekom)</description>
       <pubDate>Thu, 19 Nov 2026 17:49:08 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ladegeraet-mit-100-w-und-vier-ports-reduziert-bei-amazon-2611-215263.html</guid>
       <description>Ein Ladegerät von Ugreen mit 100 W, vier Ports und effizienter GaN-Technologie gibt es bei Amazon zum günstigen Aktionspreis. (Anker, Technik/Hardware)</description>
       <pubDate>Mon, 16 Nov 2026 12:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonome Killerroboter: Staaten ringen um Verbot KI-basierter Waffen</title>
-      <link>https://www.golem.de/news/autonome-killerroboter-staaten-ringen-um-verbot-ki-basierter-waffen-2611-215262.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonome-killerroboter-staaten-ringen-um-verbot-ki-basierter-waffen-2611-215262.html</guid>
-      <description>Angeblich kommen im Ukraine-Krieg schon autonome Killerdrohnen zum Einsatz. Doch weltweit könnten solche Waffen verboten werden. (Militär, KI)</description>
-      <pubDate>Mon, 16 Nov 2026 12:16:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
