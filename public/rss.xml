@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 09:55:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:10:42 GMT</lastBuildDate>
+    <item>
+      <title>Mit Nvidia RTX Spark N1X: Asus verkauft KI-Mini-PC ab 4.700 Euro</title>
+      <link>https://www.golem.de/news/mit-nvidia-rtx-spark-n1x-asus-verkauft-ki-mini-pc-ab-4-700-euro-2611-215457.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mit-nvidia-rtx-spark-n1x-asus-verkauft-ki-mini-pc-ab-4-700-euro-2611-215457.html</guid>
+      <description>Der Asus ProArt GR1X soll mithilfe von Nvidias RTX Spark N1X große Sprachmodelle und KI-Agenten ohne Cloud ausführen können. (KI, Nvidia)</description>
+      <pubDate>Fri, 20 Nov 2026 10:05:09 GMT</pubDate>
+    </item>
     <item>
       <title>Finanzierungsrunde: Investoren wollen SpaceX-GPUs nicht im All sehen</title>
       <link>https://www.golem.de/news/finanzierungsrunde-investoren-wollen-spacex-gpus-nicht-im-all-sehen-2611-215454.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-fritz-repeater-2700-mit-wi-fi-7-zum-aktionspreis-bei-amazon-2611-215247.html</guid>
       <description>Der Fritz!Repeater 2700 erweitert das Mesh mit Wi-Fi 7 und 2,5-Gigabit-LAN und ist als frühes Black-Friday-Angebot günstiger als im Schnitt. (Technik/Hardware, Netzwerk)</description>
       <pubDate>Mon, 16 Nov 2026 09:27:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Zero Trust Security in Unternehmen richtig umsetzen</title>
-      <link>https://www.golem.de/news/anzeige-zero-trust-security-in-unternehmen-richtig-umsetzen-2611-215248.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-security-in-unternehmen-richtig-umsetzen-2611-215248.html</guid>
-      <description>Zero Trust Security erfordert ein Umdenken bei der IT-Sicherheit. Ein Online-Workshop vermittelt die Grundlagen und konkrete Schritte zur Implementierung. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Mon, 16 Nov 2026 09:18:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
