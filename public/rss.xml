@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 16:50:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:05:34 GMT</lastBuildDate>
+    <item>
+      <title>Entlang der Schiene: Niedax/Netz 33 beginnt Bau von Glasfasernetz sieben Monate später</title>
+      <link>https://www.golem.de/news/entlang-der-schiene-niedax-netz-33-beginnt-bau-von-glasfasernetz-sieben-monate-spaeter-2611-215492.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/entlang-der-schiene-niedax-netz-33-beginnt-bau-von-glasfasernetz-sieben-monate-spaeter-2611-215492.html</guid>
+      <description>Schon im April feierte Niedax den Spatenstich für seine Glasfaser-Teststrecke entlang der Bahngleise. Nun wird der Baustart noch einmal angekündigt. (Deutsche Bahn, Glasfaser)</description>
+      <pubDate>Fri, 20 Nov 2026 17:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>(g+) Jensen Huang: Wie die New York Times den Spionageskandal um Nvidia aufdeckte</title>
+      <link>https://www.golem.de/news/jensen-huang-wie-die-new-york-times-den-spionageskandal-um-nvidia-aufdeckte-2611-215440.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/jensen-huang-wie-die-new-york-times-den-spionageskandal-um-nvidia-aufdeckte-2611-215440.html</guid>
+      <description>"Über Geschichten wie diese stolpert man nur einmal": Das New-York-Times-Reporter-Team erzählt von der Recherche, die Jensen Huang zu Fall brachte. Von Patrick Healy (Jensen Huang, Nvidia)</description>
+      <pubDate>Fri, 20 Nov 2026 17:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>E-Auto: VW zeigt ID. Polo GTI mit Rennstreckenpotenzial</title>
       <link>https://www.golem.de/news/e-auto-vw-zeigt-id-polo-gti-mit-rennstreckenpotenzial-2611-215491.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/affaeren-huang-rueckkehr-scheint-kein-thema-fuer-nvidias-verwaltungsrat-2611-215287.html</guid>
       <description>Donald Trump wäre einem Comeback von Jensen Huang nicht abgeneigt. Doch Nvidias Verwaltungsrat erwägt eine Rückkehr des Mitgründers offenbar nicht. (Nvidia, Grafikkarten)</description>
       <pubDate>Tue, 17 Nov 2026 06:31:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Top-500-Liste: So wenige neue Supercomputer wie nie</title>
-      <link>https://www.golem.de/news/top-500-liste-so-wenige-neue-supercomputer-wie-nie-2611-215285.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/top-500-liste-so-wenige-neue-supercomputer-wie-nie-2611-215285.html</guid>
-      <description>Der leistungsfähigste neue Supercomputer schafft es nicht in die Top 10. Ein Großteil der Rechenleistung bleibt unvermessen. (Top500-Liste, AMD)</description>
-      <pubDate>Tue, 17 Nov 2026 06:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Linux-Systemadministration: Grundlagen in fünf Tagen lernen</title>
-      <link>https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-lernen-2611-215283.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-lernen-2611-215283.html</guid>
-      <description>Linux-Systemadministration umfasst zahlreiche Werkzeuge und Aufgaben. Ein fünftägiger Online-Workshop vermittelt Grundlagen von Bash und Dateisystemen bis zu Netzwerk und SSH. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 17 Nov 2026 06:15:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
