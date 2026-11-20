@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 13:25:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:35:29 GMT</lastBuildDate>
+    <item>
+      <title>Vor EU-UK-Gipfel: KI-gestützter Cyberangriff auf EU-Kommission</title>
+      <link>https://www.golem.de/news/vor-eu-uk-gipfel-ki-gestuetzter-cyberangriff-auf-eu-kommission-2611-215474.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/vor-eu-uk-gipfel-ki-gestuetzter-cyberangriff-auf-eu-kommission-2611-215474.html</guid>
+      <description>Die EU-Kommission nimmt ihre Personalplattform vom Netz. Ob Daten abgeflossen sind, ist unklar. (EU-Kommission, KI)</description>
+      <pubDate>Fri, 20 Nov 2026 13:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Fire TV Cube auf Amazon zum Jahrestiefstpreis mit 111 Euro Rabatt</title>
       <link>https://www.golem.de/news/anzeige-fire-tv-cube-auf-amazon-zum-jahrestiefstpreis-mit-111-euro-rabatt-2611-215475.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/php2shell-gehackte-gateways-von-check-point-schleusen-malware-ein-2611-215264.html</guid>
       <description>Das eigentliche Ziel sind Hosts für VMware ESXi, auf denen die Angreifer einen Data Wiper installieren. (Malware, PHP)</description>
       <pubDate>Mon, 16 Nov 2026 13:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Directroutes: Telekom verkauft kostenpflichtiges Peering über den DE-CIX</title>
-      <link>https://www.golem.de/news/directroutes-telekom-verkauft-kostenpflichtiges-peering-ueber-den-de-cix-2611-215265.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/directroutes-telekom-verkauft-kostenpflichtiges-peering-ueber-den-de-cix-2611-215265.html</guid>
-      <description>Über den DE-CIX bietet die Telekom kleineren Providern künftig einen direkten Zugang zu ihrem Endkundennetz an. Doch ihr Peering bleibt kostenpflichtig. (DE-CIX, Telekom)</description>
-      <pubDate>Mon, 16 Nov 2026 13:08:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
