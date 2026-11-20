@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 14:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:35:31 GMT</lastBuildDate>
+    <item>
+      <title>Muse: Metas KI-Agent liest Benachrichtigungen und verwechselt Nutzer</title>
+      <link>https://www.golem.de/news/muse-metas-ki-agent-liest-benachrichtigungen-und-verwechselt-nutzer-2611-215480.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/muse-metas-ki-agent-liest-benachrichtigungen-und-verwechselt-nutzer-2611-215480.html</guid>
+      <description>Metas KI-Agent Muse soll Unterhaltungen verschiedener Nutzer vermischt haben. Das Unternehmen spricht von Halluzinationen und Einzelfällen. (Meta, KI)</description>
+      <pubDate>Fri, 20 Nov 2026 14:33:02 GMT</pubDate>
+    </item>
     <item>
       <title>Breko-Jahrestagung: DSL mangels Ersatzteilen bald erheblich teurer</title>
       <link>https://www.golem.de/news/breko-jahrestagung-dsl-mangels-ersatzteilen-bald-erheblich-teurer-2611-215478.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/sicherheitsvorfall-massenhaft-unberechtigte-anmeldeversuche-bei-buergerkonto-bundid-2611-215270.html</guid>
       <description>Das BSI bestätigt den Sicherheitsvorfall, der zur Sperrung einiger BundID-Konten führt. (Security, BSI)</description>
       <pubDate>Mon, 16 Nov 2026 15:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft-Ausfall: Monate alter Update-Fehler legte Outlook weltweit lahm</title>
-      <link>https://www.golem.de/news/microsoft-ausfall-monate-alter-update-fehler-legte-outlook-weltweit-lahm-2611-215269.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/microsoft-ausfall-monate-alter-update-fehler-legte-outlook-weltweit-lahm-2611-215269.html</guid>
-      <description>Ein fehlerhaftes Software-Update vom Juli 2026 und unzureichende Belastungstests haben zu einem kaskadierenden Serverausfall bei Microsoft geführt. (Microsoft, Windows)</description>
-      <pubDate>Mon, 16 Nov 2026 14:44:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
