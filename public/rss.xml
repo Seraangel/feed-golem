@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 13:55:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 14:15:29 GMT</lastBuildDate>
+    <item>
+      <title>Breko-Jahrestagung: DSL mangels Ersatzteilen bald erheblich teurer</title>
+      <link>https://www.golem.de/news/breko-jahrestagung-dsl-mangels-ersatzteilen-bald-erheblich-teurer-2611-215478.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/breko-jahrestagung-dsl-mangels-ersatzteilen-bald-erheblich-teurer-2611-215478.html</guid>
+      <description>Weil die Ersatzteile ausgehen, hält Breko-Präsident Westfal das Ende von DSL für unvermeidbar und warnt vor steigenden Preisen für Verweigerer. (Breko, DSL)</description>
+      <pubDate>Fri, 20 Nov 2026 14:14:09 GMT</pubDate>
+    </item>
     <item>
       <title>Browseragent für Chrome: Google baut Tausende Fake-Webseiten für Sicherheitstests</title>
       <link>https://www.golem.de/news/browseragent-fuer-chrome-google-baut-tausende-fake-webseiten-fuer-sicherheitstests-2611-215476.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/microsoft-ausfall-monate-alter-update-fehler-legte-outlook-weltweit-lahm-2611-215269.html</guid>
       <description>Ein fehlerhaftes Software-Update vom Juli 2026 und unzureichende Belastungstests haben zu einem kaskadierenden Serverausfall bei Microsoft geführt. (Microsoft, Windows)</description>
       <pubDate>Mon, 16 Nov 2026 14:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drei Milliarden Euro für Grünheide: Tesla baut neue Autofabrik für das Cybercab</title>
-      <link>https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/drei-milliarden-euro-fuer-gruenheide-tesla-baut-neue-autofabrik-fuer-das-cybercab-2611-215268.html</guid>
-      <description>Während deutsche Autohersteller mit Investitionen knausern, baut Tesla in Grünheide eine weitere Fabrik. Ab 2029 sollen Cybercabs vom Band rollen. (Gigafactory Berlin, Elektroauto)</description>
-      <pubDate>Mon, 16 Nov 2026 14:27:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
