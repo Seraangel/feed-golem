@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 11:50:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:05:31 GMT</lastBuildDate>
+    <item>
+      <title>Angriffe seit September: Update für Zero-Day-Lücke in VMware vCenter verfügbar</title>
+      <link>https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html</guid>
+      <description>Hacker können die Authentifizierung für VMware vCenter umgehen und erhalten Systemzugriff. (Security, Virtualisierung)</description>
+      <pubDate>Fri, 20 Nov 2026 12:02:05 GMT</pubDate>
+    </item>
     <item>
       <title>Spielebranche: Xbox Series X und S sollen durch Linux-Technik schneller werden</title>
       <link>https://www.golem.de/news/spielebranche-xbox-series-x-und-s-sollen-durch-linux-technik-schneller-werden-2611-215458.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/scraping-in-den-nutzungsbedingungen-verlagsverbaende-fordern-unterlassungserklaerung-von-meta-2611-215260.html</guid>
       <description>Meta hat die Einführung seiner umstrittenen Nutzungsbedingungen nur aufgeschoben, aber nicht verbindlich abgesagt. (Meta, Urheberrecht)</description>
       <pubDate>Mon, 16 Nov 2026 12:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nach November-Updates: Microsoft bestätigt Druckerproblem</title>
-      <link>https://www.golem.de/news/nach-november-updates-microsoft-bestaetigt-druckerproblem-2611-215258.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nach-november-updates-microsoft-bestaetigt-druckerproblem-2611-215258.html</guid>
-      <description>Der Fehler tritt unter Windows und Windows Server bei bestimmten Dokumenten mit komplexen Formatierungen auf. (Betriebssysteme, Microsoft)</description>
-      <pubDate>Mon, 16 Nov 2026 11:45:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
