@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 12:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:20:34 GMT</lastBuildDate>
+    <item>
+      <title>Schadcode-Attacken möglich: Ruby2ßhell-Lücke gefährdet zahlreiche Anwendungen</title>
+      <link>https://www.golem.de/news/schadcode-attacken-moeglich-ruby2sshell-luecke-gefaehrdet-zahlreiche-anwendungen-2611-215467.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-ruby2sshell-luecke-gefaehrdet-zahlreiche-anwendungen-2611-215467.html</guid>
+      <description>Eine Sicherheitslücke lässt Angreifer Schadcode über Ruby-basierte Apps einschleusen. Schon 21 ß-Zeichen reichen dafür aus. (Sicherheitslücke, Ruby)</description>
+      <pubDate>Fri, 20 Nov 2026 12:17:09 GMT</pubDate>
+    </item>
     <item>
       <title>Angriffe seit September: Update für Zero-Day-Lücke in VMware vCenter verfügbar</title>
       <link>https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-balkonkraftwerk-mit-speicher-bei-mini-power-100-euro-guenstiger-mit-golem-gutschein-2611-215211.html</guid>
       <description>Ein Komplettset aus Balkonkraftwerk und Speicher findet sich beim Anbieter Mini Power. Golem-Leser erhalten einen Exklusiv-Rabatt von 100 Euro. (Balkonkraftwerk, Energie &amp; Klima)</description>
       <pubDate>Mon, 16 Nov 2026 12:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scraping in den Nutzungsbedingungen: Verlagsverbände fordern Unterlassungserklärung von Meta</title>
-      <link>https://www.golem.de/news/scraping-in-den-nutzungsbedingungen-verlagsverbaende-fordern-unterlassungserklaerung-von-meta-2611-215260.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/scraping-in-den-nutzungsbedingungen-verlagsverbaende-fordern-unterlassungserklaerung-von-meta-2611-215260.html</guid>
-      <description>Meta hat die Einführung seiner umstrittenen Nutzungsbedingungen nur aufgeschoben, aber nicht verbindlich abgesagt. (Meta, Urheberrecht)</description>
-      <pubDate>Mon, 16 Nov 2026 12:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
