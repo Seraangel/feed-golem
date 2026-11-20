@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 08:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:30:30 GMT</lastBuildDate>
+    <item>
+      <title>Synology warnt: Kritische NAS-Lücken ermöglichen Datenklau und mehr</title>
+      <link>https://www.golem.de/news/synology-warnt-kritische-nas-luecken-ermoeglichen-datenklau-und-mehr-2611-215445.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/synology-warnt-kritische-nas-luecken-ermoeglichen-datenklau-und-mehr-2611-215445.html</guid>
+      <description>Im NAS-Betriebssystem von Synology klaffen zwei kritische Sicherheitslücken. Angreifer können etwa Schadcode einschleusen und Daten abgreifen. (Sicherheitslücke, Storage)</description>
+      <pubDate>Fri, 20 Nov 2026 08:26:07 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Turtle Beach Stealth 600 Gaming-Headset für PC und PS5 zum Sparpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-turtle-beach-stealth-600-gaming-headset-fuer-pc-und-ps5-zum-sparpreis-bei-amazon-2611-215446.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/project-helix-naechste-xbox-wird-kein-pc-fuer-konsolenspiele-2611-215240.html</guid>
       <description>Microsoft setzt bei Project Helix auf neuronales Rendering, um die Grafik zu verbessern und bei Speicher und Rechenleistung zu sparen. (Xbox, Microsoft)</description>
       <pubDate>Mon, 16 Nov 2026 06:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rockstar Games: Der erste Patch für GTA 6 ist da</title>
-      <link>https://www.golem.de/news/rockstar-games-der-erste-patch-fuer-gta-6-ist-da-2611-215239.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rockstar-games-der-erste-patch-fuer-gta-6-ist-da-2611-215239.html</guid>
-      <description>Wer GTA 6 bereits heruntergeladen hat, bekommt auf PS5 und Xbox Series X/S einen weiteren Download. (GTA 6, Rockstar)</description>
-      <pubDate>Mon, 16 Nov 2026 06:10:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
