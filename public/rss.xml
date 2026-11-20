@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 13:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:45:32 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mobiler Router mit Wi-Fi 7 am Black Friday zum Tiefpreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-mobiler-router-mit-wi-fi-7-am-black-friday-zum-tiefpreis-bei-amazon-2611-215477.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobiler-router-mit-wi-fi-7-am-black-friday-zum-tiefpreis-bei-amazon-2611-215477.html</guid>
+      <description>Der mobile WLAN‑Router GL.iNet MUDI 7 mit Wi-Fi 7, 5G-Mobilfunk, VPN und eSIM ist in der Black Friday Woche bei Amazon reduziert. (Router, Black Friday)</description>
+      <pubDate>Fri, 20 Nov 2026 13:41:09 GMT</pubDate>
+    </item>
     <item>
       <title>Vor EU-UK-Gipfel: KI-gestützter Cyberangriff auf EU-Kommission</title>
       <link>https://www.golem.de/news/vor-eu-uk-gipfel-ki-gestuetzter-cyberangriff-auf-eu-kommission-2611-215474.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/haushaltsstreit-mit-spd-merz-und-soeder-beharren-auf-stromsteuersenkung-2611-215266.html</guid>
       <description>Das Hin und Her um die Stromsteuer geht weiter. Bundeskanzler Merz sieht dafür Spielraum im Bundeshalt 2027. (Bundesregierung, Elektroauto)</description>
       <pubDate>Mon, 16 Nov 2026 13:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP2Shell: Gehackte Gateways von Check Point schleusen Malware ein</title>
-      <link>https://www.golem.de/news/php2shell-gehackte-gateways-von-check-point-schleusen-malware-ein-2611-215264.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/php2shell-gehackte-gateways-von-check-point-schleusen-malware-ein-2611-215264.html</guid>
-      <description>Das eigentliche Ziel sind Hosts für VMware ESXi, auf denen die Angreifer einen Data Wiper installieren. (Malware, PHP)</description>
-      <pubDate>Mon, 16 Nov 2026 13:23:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
