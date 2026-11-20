@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 16:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:50:32 GMT</lastBuildDate>
+    <item>
+      <title>E-Auto: VW zeigt ID. Polo GTI mit Rennstreckenpotenzial</title>
+      <link>https://www.golem.de/news/e-auto-vw-zeigt-id-polo-gti-mit-rennstreckenpotenzial-2611-215491.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/e-auto-vw-zeigt-id-polo-gti-mit-rennstreckenpotenzial-2611-215491.html</guid>
+      <description>VW hat ein neues Konzeptfahrzeug vorgestellt, das einen Ausblick darauf gibt, wie weit das GTI-Leistungslabel im Elektrozeitalter noch getrieben werden könnte. (Volkswagen ID., Auto)</description>
+      <pubDate>Fri, 20 Nov 2026 16:47:02 GMT</pubDate>
+    </item>
     <item>
       <title>Bluetooth-Lücke: Angreifer konnten VWs abhören, orten und manipulieren</title>
       <link>https://www.golem.de/news/bluetooth-luecke-angreifer-konnten-vws-abhoeren-orten-und-manipulieren-2611-215483.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-linux-systemadministration-grundlagen-in-fuenf-tagen-lernen-2611-215283.html</guid>
       <description>Linux-Systemadministration umfasst zahlreiche Werkzeuge und Aufgaben. Ein fünftägiger Online-Workshop vermittelt Grundlagen von Bash und Dateisystemen bis zu Netzwerk und SSH. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Tue, 17 Nov 2026 06:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: T.I.S.P. - In fünf Tagen auf die IT-Sicherheitsprüfung vorbereiten</title>
-      <link>https://www.golem.de/news/anzeige-t-i-s-p-in-fuenf-tagen-auf-die-it-sicherheitspruefung-vorbereiten-2611-215256.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-t-i-s-p-in-fuenf-tagen-auf-die-it-sicherheitspruefung-vorbereiten-2611-215256.html</guid>
-      <description>Die T.I.S.P.-Zertifizierung weist Fachwissen zur Informationssicherheit nach. Ein fünftägiger Onlinekurs bereitet auf die Prüfung vor und vermittelt zentrale Sicherheitskonzepte. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Mon, 16 Nov 2026 17:45:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
