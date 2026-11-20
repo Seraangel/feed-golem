@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 12:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:00:31 GMT</lastBuildDate>
+    <item>
+      <title>Marktstart verschoben?: Zen6 für Desktops wohl erst nach Computex 2027</title>
+      <link>https://www.golem.de/news/marktstart-verschoben-zen6-fuer-desktops-wohl-erst-nach-computex-2027-2611-215469.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/marktstart-verschoben-zen6-fuer-desktops-wohl-erst-nach-computex-2027-2611-215469.html</guid>
+      <description>Auch bei AMDs Zen6 wird es wohl zuerst wieder Notebook-CPUs geben. Über die Gründe gibt es widersprüchliche Informationen. (Prozessor, AMD)</description>
+      <pubDate>Fri, 20 Nov 2026 12:58:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Govee LED-Strip (20 m) mit App zum Black Friday nur einen Euro pro Meter</title>
       <link>https://www.golem.de/news/anzeige-govee-led-strip-20-m-mit-app-zum-black-friday-nur-einen-euro-pro-meter-2611-215473.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/noisytcp-kernel-luecke-laesst-angreifer-linux-systeme-lahmlegen-2611-215261.html</guid>
       <description>Speziell gestalteter TCP-Traffic kann Linux-Systeme zum Absturz bringen. Laut Entdecker der Sicherheitslücke sind nahezu alle Distributionen betroffen. (Sicherheitslücke, Debian)</description>
       <pubDate>Mon, 16 Nov 2026 12:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Entwicklerportale: Erst Baukasten, dann Dauerbaustelle</title>
-      <link>https://www.golem.de/news/entwicklerportale-erst-baukasten-dann-dauerbaustelle-2611-215212.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/entwicklerportale-erst-baukasten-dann-dauerbaustelle-2611-215212.html</guid>
-      <description>Backstage ist kostenlos, kann aber mehrere Vollzeitstellen erfordern. Was Entwicklerportale tatsächlich kosten, wann sich der Aufwand lohnt und wann eine einfache Tabelle genügt. Ein Erfahrungsbericht von Rene Koch (Softwareentwicklung, Server)</description>
-      <pubDate>Mon, 16 Nov 2026 12:30:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
