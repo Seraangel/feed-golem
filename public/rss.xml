@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 13:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 13:15:33 GMT</lastBuildDate>
+    <item>
+      <title>Speicherkrise: Valve geht die Steam Machine mit 2 TByte aus</title>
+      <link>https://www.golem.de/news/speicherkrise-valve-geht-die-steam-machine-mit-2-tbyte-aus-2611-215472.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/speicherkrise-valve-geht-die-steam-machine-mit-2-tbyte-aus-2611-215472.html</guid>
+      <description>Wegen knapper Speicherbauteile schließt Valve die Warteliste für das größere Modell. Wer mit 512 GByte auskommt, kann direkt bestellen. (Steam Machine, Steam)</description>
+      <pubDate>Fri, 20 Nov 2026 13:14:03 GMT</pubDate>
+    </item>
     <item>
       <title>Marktstart verschoben?: Zen6 für Desktops wohl erst nach Computex 2027</title>
       <link>https://www.golem.de/news/marktstart-verschoben-zen6-fuer-desktops-wohl-erst-nach-computex-2027-2611-215469.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/golem-rooms-sichere-videogespraeche-mit-mehr-kontrolle-2611-215199.html</guid>
       <description>Wichtige Calls bleiben im Kopf - nicht auf dem Server: Mit Rooms startet Golem eine eigene, digital souveräne Videolösung für vertrauliche Gespräche. (In eigener Sache, Software)</description>
       <pubDate>Mon, 16 Nov 2026 13:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoisyTCP: Kernel-Lücke lässt Angreifer Linux-Systeme lahmlegen</title>
-      <link>https://www.golem.de/news/noisytcp-kernel-luecke-laesst-angreifer-linux-systeme-lahmlegen-2611-215261.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/noisytcp-kernel-luecke-laesst-angreifer-linux-systeme-lahmlegen-2611-215261.html</guid>
-      <description>Speziell gestalteter TCP-Traffic kann Linux-Systeme zum Absturz bringen. Laut Entdecker der Sicherheitslücke sind nahezu alle Distributionen betroffen. (Sicherheitslücke, Debian)</description>
-      <pubDate>Mon, 16 Nov 2026 12:52:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
