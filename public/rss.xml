@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 11:25:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:35:31 GMT</lastBuildDate>
+    <item>
+      <title>Von AMD und Nvidia: US-Handelsministerium genehmigte Chipverkäufe an China</title>
+      <link>https://www.golem.de/news/von-amd-und-nvidia-us-handelsministerium-genehmigte-chipverkaeufe-an-china-2611-215462.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/von-amd-und-nvidia-us-handelsministerium-genehmigte-chipverkaeufe-an-china-2611-215462.html</guid>
+      <description>Das US-Handelsministerium hat auch Lieferungen genehmigt, die an Scheinfirmen oder Großkonzerne wie Alibaba und Tencent gehen sollten. (KI, AMD)</description>
+      <pubDate>Fri, 20 Nov 2026 11:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Tablet von Amazon mit 11'', 2,5K und Alexa+ am Black Friday reduziert</title>
       <link>https://www.golem.de/news/anzeige-tablet-von-amazon-mit-11-2-5k-und-alexa-am-black-friday-reduziert-2611-215466.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-bestseller-studio-lautsprecher-mit-bluetooth-jetzt-zum-tiefpreis-bei-amazon-2611-215259.html</guid>
       <description>Die Edifier MR3 liefern Hi-Res-Klang mit 36 Watt, Bluetooth 5.4 und App-Equalizer und sind bei Amazon im Angebot. (Technik/Hardware, Lautsprecher)</description>
       <pubDate>Mon, 16 Nov 2026 11:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mini-Rechner: Windows 11 läuft ohne Jailbreak auf iPhone Duo</title>
-      <link>https://www.golem.de/news/mini-rechner-windows-11-laeuft-ohne-jailbreak-auf-iphone-duo-2611-215257.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mini-rechner-windows-11-laeuft-ohne-jailbreak-auf-iphone-duo-2611-215257.html</guid>
-      <description>Windows 11 lässt sich auf Apples faltbarem iPhone Duo wie auf einem kleinen Laptop verwenden - ohne Jailbreak. Es gibt aber einige gewichtige Abstriche. (iPhone Duo, Smartphone)</description>
-      <pubDate>Mon, 16 Nov 2026 11:30:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
