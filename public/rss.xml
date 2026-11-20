@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 17:50:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:55:38 GMT</lastBuildDate>
+    <item>
+      <title>Digital Networks / Cyber Security Act: Telekom fordert Bundesregierung zum Widerstand gegen EU auf</title>
+      <link>https://www.golem.de/news/digital-networks-cyber-security-act-telekom-fordert-bundesregierung-zum-widerstand-gegen-eu-auf-2611-215494.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/digital-networks-cyber-security-act-telekom-fordert-bundesregierung-zum-widerstand-gegen-eu-auf-2611-215494.html</guid>
+      <description>Die EU will Kupferleitungen abschalten und chinesische Technologieanbieter breitflächig ausschließen. Die Telekom hält das für rechtswidrig. (Telekom, DSL)</description>
+      <pubDate>Fri, 20 Nov 2026 17:51:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Microsoft Purview: Sensible Unternehmensdaten schützen</title>
       <link>https://www.golem.de/news/anzeige-microsoft-purview-sensible-unternehmensdaten-schuetzen-2611-215384.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/rechenzentren-ki-racks-koennten-2030-ein-megawatt-leistung-erreichen-2611-215290.html</guid>
       <description>Racks liegen heute bei 15 bis 25 kW. IDTechEx erwartet bis 2030 bis zu 1.000 kW. Das hat Auswirkungen auf Kühlung und Stromversorgung. (Rechenzentrum, Nvidia)</description>
       <pubDate>Tue, 17 Nov 2026 07:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exportkontrolle: USA führen Lizenzpflicht für Chipexporte ein</title>
-      <link>https://www.golem.de/news/exportkontrolle-usa-fuehren-lizenzpflicht-fuer-chipexporte-ein-2611-215289.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/exportkontrolle-usa-fuehren-lizenzpflicht-fuer-chipexporte-ein-2611-215289.html</guid>
-      <description>Auf Druck des US-Finanzministeriums werden neue Beschränkungen und Ausnahmen für den Handel mit KI-Chips erlassen. (Politik, KI)</description>
-      <pubDate>Tue, 17 Nov 2026 07:36:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
