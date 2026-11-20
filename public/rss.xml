@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 10:55:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:05:31 GMT</lastBuildDate>
+    <item>
+      <title>Wenn Kranksein keine Option ist: "Sein Kopf ist ja nicht krank, der kann noch arbeiten"</title>
+      <link>https://www.golem.de/news/wenn-kranksein-keine-option-ist-sein-kopf-ist-ja-nicht-krank-der-kann-noch-arbeiten-2611-215419.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wenn-kranksein-keine-option-ist-sein-kopf-ist-ja-nicht-krank-der-kann-noch-arbeiten-2611-215419.html</guid>
+      <description>Warum schleppen sich Golem-Leser krank zur Arbeit? Eure Antworten zeigen eindrücklich, aus welchen Gründen ITler an die Belastungsgrenze gehen. (Arbeit, Wirtschaft)</description>
+      <pubDate>Fri, 20 Nov 2026 11:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Großes Carplay-Display für iOS und Android zum Black-Friday-Bestpreis unter 65 Euro</title>
       <link>https://www.golem.de/news/anzeige-grosses-carplay-display-fuer-ios-und-android-zum-black-friday-bestpreis-unter-65-euro-2611-215463.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-tv-hintergrundbeleuchtung-mit-kamera-zum-tiefpreis-bei-amazon-2611-215253.html</guid>
       <description>Eine TV-Hintergrundbeleuchtung von Govee mit Kamera, RGBIC+W und Alexa ist bei Amazon zum reduzierten Preis erhältlich. (Technik/Hardware)</description>
       <pubDate>Mon, 16 Nov 2026 10:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gamedev: Mobile-Games-Studios setzen besonders häufig auf KI</title>
-      <link>https://www.golem.de/news/gamedev-mobile-games-studios-setzen-besonders-haeufig-auf-ki-2611-215252.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gamedev-mobile-games-studios-setzen-besonders-haeufig-auf-ki-2611-215252.html</guid>
-      <description>Eine große Entwicklerumfrage zeigt auch, wofür KI tatsächlich genutzt wird: Es sind eher nicht finale Spielinhalte. (GDC 2027, KI)</description>
-      <pubDate>Mon, 16 Nov 2026 10:25:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
