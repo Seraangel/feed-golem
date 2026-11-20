@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 08:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 08:35:30 GMT</lastBuildDate>
+    <item>
+      <title>Mondforschung: Kartoffeln in Mondregolith gezüchtet</title>
+      <link>https://www.golem.de/news/mondforschung-kartoffeln-in-mondregolith-gezuechtet-2611-215448.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/mondforschung-kartoffeln-in-mondregolith-gezuechtet-2611-215448.html</guid>
+      <description>Simuliert wurden mehrere Generationen von Kartoffeln, die Mondstaub als Wachstumsgrundlage haben. Unter einer Bedingung sind sie essbar. (Mondlandung, Nasa)</description>
+      <pubDate>Fri, 20 Nov 2026 08:34:10 GMT</pubDate>
+    </item>
     <item>
       <title>Synology warnt: Kritische NAS-Lücken ermöglichen Datenklau und mehr</title>
       <link>https://www.golem.de/news/synology-warnt-kritische-nas-luecken-ermoeglichen-datenklau-und-mehr-2611-215445.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/brandschutz-dieses-system-loescht-feuer-mit-infraschall-2611-215237.html</guid>
       <description>Sonic Fire Tech löscht Brände mit Infraschall statt Wasser. Experten bezweifeln allerdings, dass das System Sprinkler übertrifft. (Innovation &amp; Forschung, Wissen)</description>
       <pubDate>Mon, 16 Nov 2026 06:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project Helix: Nächste Xbox wird kein PC für Konsolenspiele</title>
-      <link>https://www.golem.de/news/project-helix-naechste-xbox-wird-kein-pc-fuer-konsolenspiele-2611-215240.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/project-helix-naechste-xbox-wird-kein-pc-fuer-konsolenspiele-2611-215240.html</guid>
-      <description>Microsoft setzt bei Project Helix auf neuronales Rendering, um die Grafik zu verbessern und bei Speicher und Rechenleistung zu sparen. (Xbox, Microsoft)</description>
-      <pubDate>Mon, 16 Nov 2026 06:22:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
