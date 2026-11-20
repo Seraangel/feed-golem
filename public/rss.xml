@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 09:40:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 09:55:32 GMT</lastBuildDate>
+    <item>
+      <title>Finanzierungsrunde: Investoren wollen SpaceX-GPUs nicht im All sehen</title>
+      <link>https://www.golem.de/news/finanzierungsrunde-investoren-wollen-spacex-gpus-nicht-im-all-sehen-2611-215454.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/finanzierungsrunde-investoren-wollen-spacex-gpus-nicht-im-all-sehen-2611-215454.html</guid>
+      <description>Mit neuem Geld will SpaceX Nvidia-GPUs kaufen. Die dienen als Sicherheit, weshalb Investoren wollen, dass sie die Erde nicht verlassen. (SpaceX, KI)</description>
+      <pubDate>Fri, 20 Nov 2026 09:50:06 GMT</pubDate>
+    </item>
     <item>
       <title>Android: Google macht App-Verifizierung ab Januar 2027 weltweit zur Pflicht</title>
       <link>https://www.golem.de/news/android-google-macht-app-verifizierung-ab-januar-2027-weltweit-zur-pflicht-2611-215455.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-zero-trust-security-in-unternehmen-richtig-umsetzen-2611-215248.html</guid>
       <description>Zero Trust Security erfordert ein Umdenken bei der IT-Sicherheit. Ein Online-Workshop vermittelt die Grundlagen und konkrete Schritte zur Implementierung. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Mon, 16 Nov 2026 09:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia: Jensen Huang soll über Rückkehr sprechen</title>
-      <link>https://www.golem.de/news/nvidia-jensen-huang-soll-ueber-rueckkehr-sprechen-2611-215246.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nvidia-jensen-huang-soll-ueber-rueckkehr-sprechen-2611-215246.html</guid>
-      <description>Mit seinem Weggang scheint sich Ex-Nvidia-Chef Jensen Huang offenbar nicht abfinden zu wollen: Er soll seine Rückkehr planen. (Nvidia, KI)</description>
-      <pubDate>Mon, 16 Nov 2026 09:09:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
