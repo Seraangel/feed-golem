@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 16:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:35:32 GMT</lastBuildDate>
+    <item>
+      <title>Bluetooth-Lücke: Angreifer konnten VWs abhören, orten und manipulieren</title>
+      <link>https://www.golem.de/news/bluetooth-luecke-angreifer-konnten-vws-abhoeren-orten-und-manipulieren-2611-215483.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bluetooth-luecke-angreifer-konnten-vws-abhoeren-orten-und-manipulieren-2611-215483.html</guid>
+      <description>Rund 16 Monate brauchte VW für ein Update gegen eine Bluetooth-Schwachstelle. Mehrere Hunderttausend Fahrzeuge sollen betroffen sein. (Volkswagen ID., Bluetooth)</description>
+      <pubDate>Fri, 20 Nov 2026 16:33:04 GMT</pubDate>
+    </item>
     <item>
       <title>KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität</title>
       <link>https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-t-i-s-p-in-fuenf-tagen-auf-die-it-sicherheitspruefung-vorbereiten-2611-215256.html</guid>
       <description>Die T.I.S.P.-Zertifizierung weist Fachwissen zur Informationssicherheit nach. Ein fünftägiger Onlinekurs bereitet auf die Prüfung vor und vermittelt zentrale Sicherheitskonzepte. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Mon, 16 Nov 2026 17:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Externe Gaming-HDD für Konsole und PC mit 2 TByte für gut 100 Euro</title>
-      <link>https://www.golem.de/news/anzeige-externe-gaming-hdd-fuer-konsole-und-pc-mit-2-tbyte-fuer-gut-100-euro-2611-215281.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-externe-gaming-hdd-fuer-konsole-und-pc-mit-2-tbyte-fuer-gut-100-euro-2611-215281.html</guid>
-      <description>Im Rahmen der frühen Black Friday Angebote verkauft Amazon die 2 TByte große Seagate Firecuda Gaming-HDD mit über 25 Euro Rabatt auf den letzten Durchschnittspreis. (Black Friday, Speichermedien)</description>
-      <pubDate>Mon, 16 Nov 2026 17:14:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
