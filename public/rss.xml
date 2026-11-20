@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 11:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:50:32 GMT</lastBuildDate>
+    <item>
+      <title>Spielebranche: Xbox Series X und S sollen durch Linux-Technik schneller werden</title>
+      <link>https://www.golem.de/news/spielebranche-xbox-series-x-und-s-sollen-durch-linux-technik-schneller-werden-2611-215458.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spielebranche-xbox-series-x-und-s-sollen-durch-linux-technik-schneller-werden-2611-215458.html</guid>
+      <description>Microsoft testet einen von Valve mitentwickelten Compiler, der bis zu 16 Prozent mehr Leistung ermöglichen soll. (Xbox Series X, Microsoft)</description>
+      <pubDate>Fri, 20 Nov 2026 11:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>Von AMD und Nvidia: US-Handelsministerium genehmigte Chipverkäufe an China</title>
       <link>https://www.golem.de/news/von-amd-und-nvidia-us-handelsministerium-genehmigte-chipverkaeufe-an-china-2611-215462.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-november-updates-microsoft-bestaetigt-druckerproblem-2611-215258.html</guid>
       <description>Der Fehler tritt unter Windows und Windows Server bei bestimmten Dokumenten mit komplexen Formatierungen auf. (Betriebssysteme, Microsoft)</description>
       <pubDate>Mon, 16 Nov 2026 11:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Bestseller-Studio-Lautsprecher mit Bluetooth jetzt zum Tiefpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-bestseller-studio-lautsprecher-mit-bluetooth-jetzt-zum-tiefpreis-bei-amazon-2611-215259.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bestseller-studio-lautsprecher-mit-bluetooth-jetzt-zum-tiefpreis-bei-amazon-2611-215259.html</guid>
-      <description>Die Edifier MR3 liefern Hi-Res-Klang mit 36 Watt, Bluetooth 5.4 und App-Equalizer und sind bei Amazon im Angebot. (Technik/Hardware, Lautsprecher)</description>
-      <pubDate>Mon, 16 Nov 2026 11:36:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
