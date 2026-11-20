@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 10:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:55:34 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Großes Carplay-Display für iOS und Android zum Black-Friday-Bestpreis unter 65 Euro</title>
+      <link>https://www.golem.de/news/anzeige-grosses-carplay-display-fuer-ios-und-android-zum-black-friday-bestpreis-unter-65-euro-2611-215463.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-grosses-carplay-display-fuer-ios-und-android-zum-black-friday-bestpreis-unter-65-euro-2611-215463.html</guid>
+      <description>Das Display bringt kabelloses Carplay und Android Auto auf 9 Zoll ins Auto und ist zum Black Friday so günstig wie nie. (Technik/Hardware, Carplay)</description>
+      <pubDate>Fri, 20 Nov 2026 10:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Photovoltaik: Tesla plant Polysilizium-Raffinerie für 3 Milliarden US-Dollar</title>
+      <link>https://www.golem.de/news/photovoltaik-tesla-plant-polysilizium-raffinerie-fuer-3-milliarden-us-dollar-2611-215460.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/photovoltaik-tesla-plant-polysilizium-raffinerie-fuer-3-milliarden-us-dollar-2611-215460.html</guid>
+      <description>Mit einer eigenen Rohstoffproduktion könnte der Konzern Solarzellen komplett unabhängig produzieren. Dafür werden Steuererleichterungen gefordert. (Solarenergie, Tesla)</description>
+      <pubDate>Fri, 20 Nov 2026 10:50:02 GMT</pubDate>
+    </item>
     <item>
       <title>Revolut-Datenpanne: Nach Cyberangriff drohen Kunden gewaltsame Übergriffe</title>
       <link>https://www.golem.de/news/revolut-datenpanne-nach-cyberangriff-drohen-kunden-gewaltsame-uebergriffe-2611-215459.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gamedev-mobile-games-studios-setzen-besonders-haeufig-auf-ki-2611-215252.html</guid>
       <description>Eine große Entwicklerumfrage zeigt auch, wofür KI tatsächlich genutzt wird: Es sind eher nicht finale Spielinhalte. (GDC 2027, KI)</description>
       <pubDate>Mon, 16 Nov 2026 10:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Boom: Samsung will Komplettanbieter für KI-Rechenzentren werden</title>
-      <link>https://www.golem.de/news/ki-boom-samsung-will-komplettanbieter-fuer-ki-rechenzentren-werden-2611-215251.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-boom-samsung-will-komplettanbieter-fuer-ki-rechenzentren-werden-2611-215251.html</guid>
-      <description>Samsungs Firmenkonglomerat umfasst bereits praktisch jeden Aspekt bei Bau und Betrieb von Rechenzentren. Nun soll alles zusammen kommen. (Samsung, KI)</description>
-      <pubDate>Mon, 16 Nov 2026 10:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>BSI warnt: Verheerende Firmware-Lücken gefährden weiterhin Kühlanlagen</title>
-      <link>https://www.golem.de/news/bsi-warnt-verheerende-firmware-luecken-gefaehrden-weiterhin-kuehlanlagen-2611-215249.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bsi-warnt-verheerende-firmware-luecken-gefaehrden-weiterhin-kuehlanlagen-2611-215249.html</guid>
-      <description>Viele Kühlanlagen in Supermärkten scheinen noch immer anfällig für Cyberangriffe zu sein. Das BSI schlägt aufgrund neuer Funde Alarm. (Sicherheitslücke, Firmware)</description>
-      <pubDate>Mon, 16 Nov 2026 09:56:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
