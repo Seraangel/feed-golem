@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 20 Nov 2026 18:50:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:35:20 GMT</lastBuildDate>
+    <item>
+      <title>Gebrauchte Hardware: KI-Workstation des armen Mannes schlägt Framework Desktop</title>
+      <link>https://www.golem.de/news/gebrauchte-hardware-ki-workstation-des-armen-mannes-schlaegt-framework-desktop-2611-215421.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gebrauchte-hardware-ki-workstation-des-armen-mannes-schlaegt-framework-desktop-2611-215421.html</guid>
+      <description>Lokale KI wird immer interessanter, die Hardware aber teurer. Wir haben ein System gebaut, das ab 900 Euro Modelle bis 200 Milliarden Parameter stemmt. Von Johannes Hiltscher (DIY-KI, AMD)</description>
+      <pubDate>Sat, 21 Nov 2026 06:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren</title>
       <link>https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ikea-gitlab-und-mehr-prominente-webportale-mit-schadcode-verseucht-2611-215291.html</guid>
       <description>Ein Angriff auf Optimizely trifft Besucher von Websites zahlreicher Unternehmen. Die Angreifer wollten vor allem Zahlungen abgreifen und iOS-Geräte kapern. (Malware, iPhone)</description>
       <pubDate>Tue, 17 Nov 2026 08:31:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Sicherheit: Kalifornien verklagt OpenAI wegen irreführender Werbung</title>
-      <link>https://www.golem.de/news/ki-sicherheit-kalifornien-verklagt-openai-wegen-irrefuehrender-werbung-2611-215292.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-sicherheit-kalifornien-verklagt-openai-wegen-irrefuehrender-werbung-2611-215292.html</guid>
-      <description>Die Klage richtet sich gegen OpenAIs Unternehmenskultur, absehbare Folgen von ungesicherten KI-Modellen einfach in Kauf zu nehmen. (KI, Politik)</description>
-      <pubDate>Tue, 17 Nov 2026 08:12:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
