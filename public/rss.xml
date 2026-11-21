@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 21 Nov 2026 12:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 14:10:23 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: IT-Jobs in Administration, Data Engineering und Security</title>
+      <link>https://www.golem.de/news/anzeige-it-jobs-in-administration-data-engineering-und-security-2611-215439.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-jobs-in-administration-data-engineering-und-security-2611-215439.html</guid>
+      <description>Ob IT-Security im Ministerium, Data Engineering im Rettungsdienst oder Systemadministration in Unternehmen - diese sechs Jobs bieten neue Perspektiven. (Golem Karrierewelt, Unternehmenssoftware)</description>
+      <pubDate>Sat, 21 Nov 2026 14:00:11 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Black Deal bei Blau - iPhone 18 Pro mit 100 GByte Datenvolumen für 1 Euro</title>
       <link>https://www.golem.de/news/anzeige-black-deal-bei-blau-iphone-18-pro-mit-100-gbyte-datenvolumen-fuer-1-euro-2611-215471.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/wirtschaft-15-millionen-geleakte-interna-der-deutschen-bank-analysiert-2611-215302.html</guid>
       <description>Ein Datenleak bei der Deutschen Bank offenbart riskante Russland-Pläne, vertuschte Pannen und millionenschwere Epstein-Zahlungen. (Datenleck, Politik)</description>
       <pubDate>Tue, 17 Nov 2026 10:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ask Maps startet in Deutschland: Google Maps wird zum KI-Guide</title>
-      <link>https://www.golem.de/news/ask-maps-startet-in-deutschland-google-maps-wird-zum-ki-guide-2611-215299.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ask-maps-startet-in-deutschland-google-maps-wird-zum-ki-guide-2611-215299.html</guid>
-      <description>Google bringt eine Maps-Überarbeitung in die EU: Ask Maps beantwortet Alltagsfragen, erstellt Reisepläne und soll künftig Bestellungen auslösen. (Google Maps, KI)</description>
-      <pubDate>Tue, 17 Nov 2026 10:31:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
