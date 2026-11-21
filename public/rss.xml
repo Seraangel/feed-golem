@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 21 Nov 2026 10:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 11:10:22 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic: Mathematiker will mit Claude Riemann-Vermutung gelöst haben</title>
+      <link>https://www.golem.de/news/anthropic-mathematiker-will-mit-claude-riemann-vermutung-geloest-haben-2611-215500.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anthropic-mathematiker-will-mit-claude-riemann-vermutung-geloest-haben-2611-215500.html</guid>
+      <description>Levent Alpöge will mit Claude die Riemann-Vermutung bewiesen haben. Die Prüfung des Lean-Codes läuft noch. (Claude, Wissen)</description>
+      <pubDate>Sat, 21 Nov 2026 11:06:02 GMT</pubDate>
+    </item>
     <item>
       <title>Verivox-Studie: Internettarife werden nach Rabatt fast dreimal so teuer</title>
       <link>https://www.golem.de/news/verivox-studie-internettarife-werden-nach-rabatt-fast-dreimal-so-teuer-2611-215503.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/regierung-in-der-cloud-estland-ruestet-sich-fuer-den-digitalen-ernstfall-2611-215296.html</guid>
       <description>Estland plant eine digitale Exilregierung. Selbst bei Besatzung oder zerstörten Rechenzentren sollen Staatsdienste aus dem Ausland weiterlaufen. (Datensicherheit, Rechenzentrum)</description>
       <pubDate>Tue, 17 Nov 2026 10:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deutsche-Bank-Datenleck: Trumps Steuerunterlagen wurden versehentlich versendet</title>
-      <link>https://www.golem.de/news/deutsche-bank-datenleck-trumps-steuerunterlagen-wurden-versehntlich-versendet-2611-215301.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/deutsche-bank-datenleck-trumps-steuerunterlagen-wurden-versehntlich-versendet-2611-215301.html</guid>
-      <description>Kurz nach Trumps erstem Wahlsieg versendete ein Angestellter der Deutschen Bank versehentlich einen Link zu mehr als 1.500 Steuerunterlagen. (Datenleck, Sicherheitslücke)</description>
-      <pubDate>Tue, 17 Nov 2026 10:04:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
