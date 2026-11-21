@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 21 Nov 2026 06:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:00:20 GMT</lastBuildDate>
+    <item>
+      <title>Bestehende Windkraftanlagen: Lasermessung verspricht mehr Strom aus Windkraft</title>
+      <link>https://www.golem.de/news/bestehende-windkraftanlagen-lasermessung-verspricht-mehr-strom-aus-windkraft-2611-215481.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bestehende-windkraftanlagen-lasermessung-verspricht-mehr-strom-aus-windkraft-2611-215481.html</guid>
+      <description>Ein neues System soll die Verhältnisse für Windräder günstiger und schneller dokumentieren. Vorhandene Windparks könnten so optimiert werden. (Windkraft, Lidar)</description>
+      <pubDate>Sat, 21 Nov 2026 06:57:03 GMT</pubDate>
+    </item>
     <item>
       <title>Gebrauchte Hardware: KI-Workstation des armen Mannes schlägt Framework Desktop</title>
       <link>https://www.golem.de/news/gebrauchte-hardware-ki-workstation-des-armen-mannes-schlaegt-framework-desktop-2611-215421.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/linux-neues-librem-smartphone-mit-risc-v-kostet-1-900-euro-2611-215294.html</guid>
       <description>Purism hat das Crowdfunding zum Librem 5 v2 gestartet. Neben einem Risc-V-Prozessor gibt es herausnehmbare Modemkarten. (Purism, Smartphone)</description>
       <pubDate>Tue, 17 Nov 2026 08:44:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ikea, Gitlab und mehr: Prominente Webportale mit Schadcode verseucht</title>
-      <link>https://www.golem.de/news/ikea-gitlab-und-mehr-prominente-webportale-mit-schadcode-verseucht-2611-215291.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ikea-gitlab-und-mehr-prominente-webportale-mit-schadcode-verseucht-2611-215291.html</guid>
-      <description>Ein Angriff auf Optimizely trifft Besucher von Websites zahlreicher Unternehmen. Die Angreifer wollten vor allem Zahlungen abgreifen und iOS-Geräte kapern. (Malware, iPhone)</description>
-      <pubDate>Tue, 17 Nov 2026 08:31:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
