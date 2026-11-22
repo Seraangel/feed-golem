@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 22 Nov 2026 06:35:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:05:26 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Agenten und SQL: Mit strengem Datenbankdesign zu besseren KI-Ergebnissen</title>
+      <link>https://www.golem.de/news/agenten-und-sql-mit-strengem-datenbankdesign-zu-besseren-ki-ergebnissen-2611-215226.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/agenten-und-sql-mit-strengem-datenbankdesign-zu-besseren-ki-ergebnissen-2611-215226.html</guid>
+      <description>KI-Agenten können bei Datenbankabfragen halluzinieren. Klare Strukturen und Regeln helfen, Fehler zu vermeiden. Ein Plädoyer für sorgfältiges Database Design. Ein Ratgebertext von Antony Ghiroz (Datenbank, PostgreSQL)</description>
+      <pubDate>Sun, 22 Nov 2026 09:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>Pädophilenjäger: Selbstjustiz im Netz</title>
       <link>https://www.golem.de/news/paedophilenjaeger-selbstjustiz-im-netz-2611-215224.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartphone-samsung-galaxy-a57-5g-zum-guenstigen-black-friday-preis-2611-215303.html</guid>
       <description>Das Smartphone Samsung Galaxy A57 5G mit 6,7"-AMOLED-Display, 50-MP-Hauptkamera und 8 GByte RAM ist bei Amazon stark reduziert. (Black Friday, Smartphone)</description>
       <pubDate>Tue, 17 Nov 2026 10:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marvel-Film: Disney ändert deutsche Stimme von Robert Downey Jr. in Avengers: Doomsday</title>
-      <link>https://www.golem.de/news/marvel-film-disney-aendert-deutsche-stimme-von-robert-downey-jr-in-avengers-doomsday-2611-215304.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/marvel-film-disney-aendert-deutsche-stimme-von-robert-downey-jr-in-avengers-doomsday-2611-215304.html</guid>
-      <description>Robert Downey Jr. wird in Avengers: Doomsday mit einer anderen deutschen Stimme sprechen. Grund könnte ein Rechtsstreit sein, Disney bestreitet das. (Disney, Rechtsstreitigkeiten)</description>
-      <pubDate>Tue, 17 Nov 2026 10:47:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
