@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sun, 22 Nov 2026 09:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 09:45:26 GMT</lastBuildDate>
+    <item>
+      <title>Cybercrime: Unbefugte verschaffen sich Zugang zu FBI-Datenbank</title>
+      <link>https://www.golem.de/news/cybercrime-unbefugte-verschaffen-sich-zugang-zu-fbi-datenbank-2611-215508.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cybercrime-unbefugte-verschaffen-sich-zugang-zu-fbi-datenbank-2611-215508.html</guid>
+      <description>Hacker haben nicht nur die US-Bundespolizei FBI erfolgreich infiltriert, sondern auch das US-Landwirtschaftsministerium. (FBI, Cyberwar)</description>
+      <pubDate>Sun, 22 Nov 2026 09:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Wärmebildkamera fürs Handy am Black Friday günstig wie nie bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-waermebildkamera-fuers-handy-am-black-friday-guenstig-wie-nie-bei-amazon-2611-215373.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-waermebildkamera-fuers-handy-am-black-friday-guenstig-wie-nie-bei-amazon-2611-215373.html</guid>
+      <description>Mit der Topdon TC001 Mini hat Amazon eine Wärmebildkamera fürs Handy im Angebot, die Temperaturunterschiede präzise per App analysiert. (Technik/Hardware, Black Friday)</description>
+      <pubDate>Sun, 22 Nov 2026 09:40:07 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Agenten und SQL: Mit strengem Datenbankdesign zu besseren KI-Ergebnissen</title>
       <link>https://www.golem.de/news/agenten-und-sql-mit-strengem-datenbankdesign-zu-besseren-ki-ergebnissen-2611-215226.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/xreal-1-pro-im-test-kino-und-buero-fuer-die-nase-2611-215271.html</guid>
       <description>Xreals neue Displaybrille begeistert im Test mit Bildqualität und Komfort. Auch zum Arbeiten taugt sie überraschend gut. Ein Test von Tobias Költzsch (Datenbrille, OLED)</description>
       <pubDate>Tue, 17 Nov 2026 11:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rubin HPC: Nvidia bringt eigene Rubin-GPU für Supercomputer</title>
-      <link>https://www.golem.de/news/rubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/rubin-hpc-nvidia-bringt-eigene-rubin-gpu-fuer-supercomputer-2611-215305.html</guid>
-      <description>Nvidias Fokus verschob sich bei Hardware für Rechenzentren zu KI. Supercomputer profitieren davon aber nicht immer. AMD hatte hier vorgelegt. (Supercomputer, Grafikkarten)</description>
-      <pubDate>Tue, 17 Nov 2026 11:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Smartphone Samsung Galaxy A57 5G zum günstigen Black Friday Preis</title>
-      <link>https://www.golem.de/news/anzeige-smartphone-samsung-galaxy-a57-5g-zum-guenstigen-black-friday-preis-2611-215303.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartphone-samsung-galaxy-a57-5g-zum-guenstigen-black-friday-preis-2611-215303.html</guid>
-      <description>Das Smartphone Samsung Galaxy A57 5G mit 6,7"-AMOLED-Display, 50-MP-Hauptkamera und 8 GByte RAM ist bei Amazon stark reduziert. (Black Friday, Smartphone)</description>
-      <pubDate>Tue, 17 Nov 2026 10:54:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
