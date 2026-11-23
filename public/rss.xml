@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 17:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:05:58 GMT</lastBuildDate>
+    <item>
+      <title>AWS Trainium: Amazon kauft KI-Chip-Optimierung von Decart AI für 7,5 Milliarden US-Dollar</title>
+      <link>https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html</guid>
+      <description>Statt einer klassischen Firmenübernahme holt sich Amazon die Kern-Software und rund 100 Entwickler des KI-Startups Decart AI ins Haus. (Amazon, Cuda)</description>
+      <pubDate>Mon, 23 Nov 2026 18:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 20 Prozent Rabatt auf Keycloak-Workshop</title>
       <link>https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-keycloak-workshop-2611-215538.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-sonys-neuer-anc-kopfhoerer-wh-1000xm4c-vor-dem-black-friday-zum-amazon-bestpreis-2611-215360.html</guid>
       <description>Sonys Kopfhörerikone WH-1000XM4 gibt es als Neuauflage. Bereits vor dem Black Friday gibt es den neuen WH-1000XM4C zum Amazon-Bestpreis. (Sony, Amazon)</description>
       <pubDate>Wed, 18 Nov 2026 12:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elektroautos: Falsche Behauptungen zu Elektromobilität sind die größte Kaufhürde</title>
-      <link>https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html</guid>
-      <description>Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität den Einstieg ins Elektroauto am meisten verzögert haben. (Elektromobilität, Elektroauto)</description>
-      <pubDate>Wed, 18 Nov 2026 11:56:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
