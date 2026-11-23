@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 15:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 15:40:58 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Apple Airpods Pro 3 zum Bestpreis bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-apple-airpods-pro-3-zum-bestpreis-bei-amazon-2611-215540.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-airpods-pro-3-zum-bestpreis-bei-amazon-2611-215540.html</guid>
+      <description>Bei Amazon gibt es Apples In-Ears zum Black Friday für unter 190 Euro. Kein anderer Anbieter verkauft die Kopfhörer günstiger. (Black Friday, Apple)</description>
+      <pubDate>Mon, 23 Nov 2026 15:38:02 GMT</pubDate>
+    </item>
     <item>
       <title>Jensen Huang: Nvidia-Aktie springt nach Huang-Rückkehr um 30 Prozent</title>
       <link>https://www.golem.de/news/jensen-huang-nvidia-aktie-springt-nach-huang-rueckkehr-um-30-prozent-2611-215550.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ghost-in-the-shell-die-zukunft-die-uns-einholt-2611-215335.html</guid>
       <description>Gehackte Gehirne und künstliche Körper sind noch Fiktion. Doch andere Probleme des Kult-Animes sind längst Realität. (Ghost in the Shell, KI)</description>
       <pubDate>Wed, 18 Nov 2026 11:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java4Shell: Schadcode-Lücke in OpenJDK gefährdet unzählige Systeme</title>
-      <link>https://www.golem.de/news/luecke-gefaehrdet-java-anwendungen-mit-nur-65-zeichen-zur-schadcode-ausfuehung-2611-215347.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/luecke-gefaehrdet-java-anwendungen-mit-nur-65-zeichen-zur-schadcode-ausfuehung-2611-215347.html</guid>
-      <description>Zahlreiche Java-basierte Tools sind anfällig für eine Sicherheitslücke in OpenJDK. Angreifer können mit einem einfachen Trick Schadcode einschleusen. (Sicherheitslücke, Java)</description>
-      <pubDate>Wed, 18 Nov 2026 10:51:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
