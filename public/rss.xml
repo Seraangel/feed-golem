@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 10:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 11:01:12 GMT</lastBuildDate>
+    <item>
+      <title>EU-Digitalreform: Neuer Bundesdatenschützer will Datenhändler strenger regulieren</title>
+      <link>https://www.golem.de/news/eu-digitalreform-neuer-bundesdatenschuetzer-will-datenhaendler-strenger-regulieren-2611-215210.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/eu-digitalreform-neuer-bundesdatenschuetzer-will-datenhaendler-strenger-regulieren-2611-215210.html</guid>
+      <description>Moritz Hennemann will die DSGVO reformieren, Bürokratie abbauen und klarere Regeln für KI schaffen. Auch die ständigen Cookie-Banner sollen weg. Ein Interview von Ulrich Hottelet (Datenschutz, KI)</description>
+      <pubDate>Mon, 23 Nov 2026 11:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ryzen-5-Mini-PC mit 24 GByte DDR5-RAM für gut 500 Euro mit exklusivem Rabatt</title>
       <link>https://www.golem.de/news/anzeige-ryzen-5-mini-pc-mit-24-gbyte-ddr5-ram-fuer-gut-500-euro-mit-exklusivem-rabatt-2611-215326.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/jeff-bezos-hat-mit-entschieden-amazon-wollte-robert-pattinson-zunaechst-nicht-als-neuen-james-bond-2611-215333.html</guid>
       <description>Fast wäre Robert Pattinson nicht der neue James Bond geworden. Amazon-Gründer Jeff Bezos nennt den Grund. (James Bond, Amazon)</description>
       <pubDate>Wed, 18 Nov 2026 07:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neue Optimierungen: Microsoft verbessert Leistung von Windows 11 bei 8 GByte RAM</title>
-      <link>https://www.golem.de/news/neue-optimierungen-microsoft-verbessert-leistung-von-windows-11-bei-8-gbyte-ram-2611-215332.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neue-optimierungen-microsoft-verbessert-leistung-von-windows-11-bei-8-gbyte-ram-2611-215332.html</guid>
-      <description>Ein Test mit jüngsten Builds von Windows 11 zeigt deutlich weniger Zugriffe auf die Auslagerungsdatei. (Betriebssysteme, Microsoft)</description>
-      <pubDate>Wed, 18 Nov 2026 07:11:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
