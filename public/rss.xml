@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 06:26:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:35:58 GMT</lastBuildDate>
+    <item>
+      <title>Berliner Polizei: Internetwache der Berliner Polizei bleibt abgeschaltet</title>
+      <link>https://www.golem.de/news/berliner-polizei-internetwache-der-berliner-polizei-bleibt-abgeschaltet-2611-215515.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/berliner-polizei-internetwache-der-berliner-polizei-bleibt-abgeschaltet-2611-215515.html</guid>
+      <description>Wegen einer vermuteten Sicherheitslücke ist die Online-Anzeige in Berlin seit Samstag nicht möglich. Wann sie zurückkommt, bleibt offen. (Sicherheitslücke, Security)</description>
+      <pubDate>Mon, 23 Nov 2026 07:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Die Black Week 2026 der Golem Karrierewelt startet</title>
       <link>https://www.golem.de/news/anzeige-die-black-week-2026-der-golem-karrierewelt-startet-2611-215514.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-boses-anc-kopfhoerer-als-frueher-black-friday-deal-zum-amazon-bestpreis-von-165-euro-2611-215313.html</guid>
       <description>Den tollen Bose-Kopfhörer Quiet Comfort gibt es als frühes Black Friday Angebot gerade zum bisherigen Amazon-Bestpreis. Käufer bekommen viel Kopfhörer-Leistung für ihr Geld. (Black Friday, Amazon)</description>
       <pubDate>Tue, 17 Nov 2026 14:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neue Sicherheitsfunktion: Microsoft testet Remote-Sperre für Windows-Geräte</title>
-      <link>https://www.golem.de/news/neue-sicherheitsfunktion-microsoft-testet-remote-sperre-fuer-windows-geraete-2611-215314.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neue-sicherheitsfunktion-microsoft-testet-remote-sperre-fuer-windows-geraete-2611-215314.html</guid>
-      <description>Die Sperrfunktion richtet sich an verwaltete Geräte mit Windows 11 und verzichtet auf eine Löschung von Daten. (Windows 11, Microsoft)</description>
-      <pubDate>Tue, 17 Nov 2026 14:05:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
