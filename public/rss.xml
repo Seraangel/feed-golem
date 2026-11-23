@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 10:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:21:06 GMT</lastBuildDate>
+    <item>
+      <title>GL.iNet: Unzählige Router über Cloud des Herstellers kompromittiert</title>
+      <link>https://www.golem.de/news/gl-inet-unzaehlige-router-ueber-cloud-des-herstellers-kompromittiert-2611-215523.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/gl-inet-unzaehlige-router-ueber-cloud-des-herstellers-kompromittiert-2611-215523.html</guid>
+      <description>Angreifer haben über die Cloud von GL.iNet Malware auf Router und KVM-Geräte geschleust. Die Updates des Herstellers helfen wohl nur teilweise. (Sicherheitslücke, Virus)</description>
+      <pubDate>Mon, 23 Nov 2026 10:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>Rockstar Games: GTA 6 wird auch auf der PS5 Pro nicht mit 60 fps laufen</title>
       <link>https://www.golem.de/news/rockstar-games-gta-6-wird-auch-auf-der-ps5-pro-nicht-mit-60-fps-laufen-2611-215524.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ai-ran-wie-nvidia-versucht-den-mobilfunk-zu-vereinnahmen-2611-215327.html</guid>
       <description>Mit AI-RAN will Nvidia Mobilfunkmasten zu dezentralen KI-Rechenzentren aufrüsten und hat sich dazu Nokia untergeordnet. Doch in der Branche wächst die Skepsis. Eine Analyse von Achim Sawall (Nvidia, Cuda)</description>
       <pubDate>Tue, 17 Nov 2026 17:51:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Penetration Testing: Sicherheitslücken erkennen und ausnutzen</title>
-      <link>https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-erkennen-und-ausnutzen-2611-215284.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-penetration-testing-sicherheitsluecken-erkennen-und-ausnutzen-2611-215284.html</guid>
-      <description>Penetration Testing macht Schwachstellen in IT-Systemen sichtbar. Ein zweitägiger Online-Workshop vermittelt Angriffstechniken und den praktischen Einsatz von Kali Linux und Burp. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 17 Nov 2026 17:45:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
