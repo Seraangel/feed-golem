@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 11:51:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:01:05 GMT</lastBuildDate>
+    <item>
+      <title>Daten abgeflossen: Microsoft gesteht Datenpanne bei Entra Connect Health</title>
+      <link>https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html</guid>
+      <description>Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. (Sicherheitslücke, Microsoft)</description>
+      <pubDate>Mon, 23 Nov 2026 11:56:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Gaming-Tastatur von SteelSeries am Black Friday zum Tiefstpreis</title>
       <link>https://www.golem.de/news/anzeige-gaming-tastatur-von-steelseries-am-black-friday-zum-tiefstpreis-2611-215535.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/docker-hub-geleakte-api-keys-innerhalb-von-sekunden-missbraucht-2611-215336.html</guid>
       <description>Wer bei Docker Hub versehentlich ein Image mit enthaltenem API-Key veröffentlicht, sollte schnell sein. Angreifer bedienen sich in Sekundenschnelle. (Container, Server-Applikationen)</description>
       <pubDate>Wed, 18 Nov 2026 08:24:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Geschäftsjahr 2027: Nvidia verdoppelt im dritten Quartal Umsatz und Gewinn</title>
-      <link>https://www.golem.de/news/geschaeftsjahr-2027-nvidia-verdoppelt-im-dritten-quartal-umsatz-und-gewinn-2611-215338.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/geschaeftsjahr-2027-nvidia-verdoppelt-im-dritten-quartal-umsatz-und-gewinn-2611-215338.html</guid>
-      <description>Nvidia setzt 115,8 Milliarden US-Dollar um und verdient 65,3 Milliarden. Für das vierte Quartal peilt der Konzern 130 Milliarden an. (Nvidia, Wirtschaft)</description>
-      <pubDate>Wed, 18 Nov 2026 08:14:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
