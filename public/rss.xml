@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 12:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:36:04 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Leatherman Wave+ Bestseller-Multitool zum Black Friday nur rund 100 Euro</title>
+      <link>https://www.golem.de/news/anzeige-leatherman-wave-bestseller-multitool-zum-black-friday-nur-rund-100-euro-2611-215537.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-leatherman-wave-bestseller-multitool-zum-black-friday-nur-rund-100-euro-2611-215537.html</guid>
+      <description>Das Leatherman Wave+ vereint 18 Werkzeuge von der Zange bis zur Säge und ist zum Black Friday ein deutlich günstiger angebotenes Weihnachtsgeschenk. (Technik/Hardware)</description>
+      <pubDate>Mon, 23 Nov 2026 12:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>(g+) Intune, Defender und Co.: Warum teure Security-Lizenzen allein nicht schützen</title>
+      <link>https://www.golem.de/news/intune-defender-und-co-warum-teure-security-lizenzen-allein-nicht-schuetzen-2611-215531.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/intune-defender-und-co-warum-teure-security-lizenzen-allein-nicht-schuetzen-2611-215531.html</guid>
+      <description>Intune, Defender und Co. sind aktiviert - trotzdem können Sicherheitslücken bleiben. Entscheidend ist die richtige Konfiguration. Ein Ratgebertext von Aaron Siller (Security, Windows Intune)</description>
+      <pubDate>Mon, 23 Nov 2026 12:30:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Lego One Piece Flying Lamb Piratenschiff bei Amazon nie günstiger</title>
       <link>https://www.golem.de/news/anzeige-lego-one-piece-flying-lamb-piratenschiff-bei-amazon-nie-guenstiger-2611-215532.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/chatbot-gemini-google-speichert-temporaere-chats-jetzt-bis-zu-zwei-monate-2611-215341.html</guid>
       <description>Neben der verlängerten Aufbewahrungsfrist erweitert Google die Option, zum KI-Training mit gespeicherten Chats zuzustimmen. (KI, Google)</description>
       <pubDate>Wed, 18 Nov 2026 09:12:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Homeview: Ifixit zerbricht beim Teardown einen Lautsprecher</title>
-      <link>https://www.golem.de/news/apple-homeview-ifixit-zerbricht-beim-teardown-einen-lautsprecher-2611-215340.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/apple-homeview-ifixit-zerbricht-beim-teardown-einen-lautsprecher-2611-215340.html</guid>
-      <description>Ifixit hat Apples Homeview zerlegt. Verklebte Lautsprecher, Stecker und Platine erschweren die Reparatur deutlich. (iFixit, Apple)</description>
-      <pubDate>Wed, 18 Nov 2026 08:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nach Abgang von Huang: Neues Komitee soll bei Nvidia die Exporte kontrollieren</title>
-      <link>https://www.golem.de/news/nach-abgang-von-huang-neues-komitee-soll-bei-nvidia-die-exporte-kontrollieren-2611-215339.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nach-abgang-von-huang-neues-komitee-soll-bei-nvidia-die-exporte-kontrollieren-2611-215339.html</guid>
-      <description>Nach den Vorwürfen des illegalen Exports von Chips nach China soll ein neues Komitee die Exporte bei Nvidia überwachen. (Nvidia, KI)</description>
-      <pubDate>Wed, 18 Nov 2026 08:33:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
