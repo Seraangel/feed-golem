@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 17:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 17:51:01 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: 20 Prozent Rabatt auf Keycloak-Workshop</title>
+      <link>https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-keycloak-workshop-2611-215538.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-keycloak-workshop-2611-215538.html</guid>
+      <description>Keycloak bündelt Anmeldungen und Zugriffsrechte. Jetzt die Black Week nutzen und mit Preisvorteil buchen! (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Mon, 23 Nov 2026 17:45:10 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Google Deepminds Henry Shevlin: "Das ist der wichtigste Teil des Menschseins"</title>
       <link>https://www.golem.de/news/google-deepminds-henry-shevlin-das-ist-der-wichtigste-teil-des-menschseins-2611-215553.html</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 23 Nov 2026 17:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>Mercedes Benz Ludwigsfelde: Gewerkschaftler ruft auf zum "Flachlegen des Ladens, länger als eine Woche"</title>
+      <title>Mercedes Benz Ludwigsfelde: Gewerkschaftler ruft zum "Flachlegen des Ladens, länger als eine Woche" auf</title>
       <link>https://www.golem.de/news/mercedes-benz-ludwigsfelde-gewerkschaftler-ruft-auf-zum-flachlegen-des-ladens-laenger-als-eine-woche-2611-215555.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/mercedes-benz-ludwigsfelde-gewerkschaftler-ruft-auf-zum-flachlegen-des-ladens-laenger-als-eine-woche-2611-215555.html</guid>
       <description>Unklare Perspektiven bei der Umstellung auf Elektro-Transporter treiben die Belegschaft am Mercedes-Benz-Werk in Ludwigsfelde auf die Barrikaden. (Mercedes Benz, Wirtschaft)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/elektroautos-falsche-geruechte-zu-elektromobilitaet-als-groesste-kaufhuerde-2611-215358.html</guid>
       <description>Eine weltweite Umfrage zeigt, dass Mythen zur Elektromobilität den Einstieg ins Elektroauto am meisten verzögert haben. (Elektromobilität, Elektroauto)</description>
       <pubDate>Wed, 18 Nov 2026 11:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notfall-Update gegen DDoS: Flut an Client-Verbindungen überlastet das Tor-Netzwerk</title>
-      <link>https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/notfall-update-veroeffentlicht-laufende-angriffe-beeintraechtigen-das-tor-netzwerk-2611-215355.html</guid>
-      <description>Betreiber von Tor-Relays sollten zügig ihre Software aktualisieren. Das jüngste Update enthält einen neuen Schutz vor laufenden DDoS-Attacken. (DoS, Cyberwar)</description>
-      <pubDate>Wed, 18 Nov 2026 11:40:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
