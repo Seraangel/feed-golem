@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 10:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 10:36:07 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT for SNES: Winziges ChatGPT kann auf Super Nintendo ausgeführt werden</title>
+      <link>https://www.golem.de/news/chatgpt-for-snes-winziges-chatgpt-kann-auf-super-nintendo-ausgefuehrt-werden-2611-215526.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/chatgpt-for-snes-winziges-chatgpt-kann-auf-super-nintendo-ausgefuehrt-werden-2611-215526.html</guid>
+      <description>Für das Projekt ChatGPT for SNES musste OpenAIs LLM auf eine Größe von wenigen Megabyte geschrumpft werden. (ChatGPT, KI)</description>
+      <pubDate>Mon, 23 Nov 2026 10:30:08 GMT</pubDate>
+    </item>
     <item>
       <title>GL.iNet: Unzählige Router über Cloud des Herstellers kompromittiert</title>
       <link>https://www.golem.de/news/gl-inet-unzaehlige-router-ueber-cloud-des-herstellers-kompromittiert-2611-215523.html</link>
@@ -153,7 +160,7 @@
       <pubDate>Sun, 22 Nov 2026 10:32:08 GMT</pubDate>
     </item>
     <item>
-      <title>Onlineshopping: Mehr Komfort beim Päckchen-Versand mit DHL</title>
+      <title>DHL: Päckchen lassen sich künftig ebenfalls verfolgen</title>
       <link>https://www.golem.de/news/onlineshopping-mehr-komfort-beim-paeckchen-versand-mit-dhl-2611-215512.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/onlineshopping-mehr-komfort-beim-paeckchen-versand-mit-dhl-2611-215512.html</guid>
       <description>Der Paketdienst DHL bringt mehr Komfortfunktionen für den Versand und Empfang von Päckchen. (DHL, Onlineshop)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-identitaeten-geraete-und-daten-absichern-2611-215328.html</guid>
       <description>Microsoft 365 Security umfasst den Schutz von Identitäten, Endgeräten und Daten. Ein dreitägiger Workshop vermittelt die nötigen Konfigurationen und Sicherheitskonzepte. (Golem Karrierewelt, Verschlüsselung)</description>
       <pubDate>Wed, 18 Nov 2026 06:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI-RAN: Wie Nvidia versucht, den Mobilfunk zu vereinnahmen</title>
-      <link>https://www.golem.de/news/ai-ran-wie-nvidia-versucht-den-mobilfunk-zu-vereinnahmen-2611-215327.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ai-ran-wie-nvidia-versucht-den-mobilfunk-zu-vereinnahmen-2611-215327.html</guid>
-      <description>Mit AI-RAN will Nvidia Mobilfunkmasten zu dezentralen KI-Rechenzentren aufrüsten und hat sich dazu Nokia untergeordnet. Doch in der Branche wächst die Skepsis. Eine Analyse von Achim Sawall (Nvidia, Cuda)</description>
-      <pubDate>Tue, 17 Nov 2026 17:51:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
