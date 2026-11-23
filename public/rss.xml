@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 12:01:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:16:12 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Lego One Piece Flying Lamb Piratenschiff bei Amazon nie günstiger</title>
+      <link>https://www.golem.de/news/anzeige-lego-one-piece-flying-lamb-piratenschiff-bei-amazon-nie-guenstiger-2611-215532.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-lego-one-piece-flying-lamb-piratenschiff-bei-amazon-nie-guenstiger-2611-215532.html</guid>
+      <description>Das Lego-One-Piece-Piratenschiff Flying Lamb setzt mit Minifiguren die Segel: Zum Black Friday gibt es das Set zum neuen Amazon-Tiefstpreis. (Lego, Amazon)</description>
+      <pubDate>Mon, 23 Nov 2026 12:13:03 GMT</pubDate>
+    </item>
     <item>
       <title>Daten abgeflossen: Microsoft gesteht Datenpanne bei Entra Connect Health</title>
       <link>https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-abgang-von-huang-neues-komitee-soll-bei-nvidia-die-exporte-kontrollieren-2611-215339.html</guid>
       <description>Nach den Vorwürfen des illegalen Exports von Chips nach China soll ein neues Komitee die Exporte bei Nvidia überwachen. (Nvidia, KI)</description>
       <pubDate>Wed, 18 Nov 2026 08:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Docker Hub: Geleakte API-Keys innerhalb von Sekunden missbraucht</title>
-      <link>https://www.golem.de/news/docker-hub-geleakte-api-keys-innerhalb-von-sekunden-missbraucht-2611-215336.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/docker-hub-geleakte-api-keys-innerhalb-von-sekunden-missbraucht-2611-215336.html</guid>
-      <description>Wer bei Docker Hub versehentlich ein Image mit enthaltenem API-Key veröffentlicht, sollte schnell sein. Angreifer bedienen sich in Sekundenschnelle. (Container, Server-Applikationen)</description>
-      <pubDate>Wed, 18 Nov 2026 08:24:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
