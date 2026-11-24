@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 18:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:45:42 GMT</lastBuildDate>
+    <item>
+      <title>Leo: Starlink-Konkurrent der Bundeswehr kostet 15 Milliarden Euro</title>
+      <link>https://www.golem.de/news/leo-starlink-konkurrent-der-bundeswehr-kostet-15-milliarden-euro-2611-215614.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/leo-starlink-konkurrent-der-bundeswehr-kostet-15-milliarden-euro-2611-215614.html</guid>
+      <description>Für ihr militärisches Starlink bekommt die Bundeswehr Milliarden. Die Verträge für SATCOMBw Stufe 4 stehen kurz vor der Unterzeichnung. (Satelliten, Telekommunikation)</description>
+      <pubDate>Tue, 24 Nov 2026 18:38:05 GMT</pubDate>
+    </item>
     <item>
       <title>Netz 33: Finanzierung von neuem bundesweiten Glasfasernetz fortgeschritten</title>
       <link>https://www.golem.de/news/netz-33-finanzierung-von-neuem-bundesweiten-glasfasernetz-fortgeschritten-2611-215612.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/auch-in-deutschland-hacker-greifen-millionen-bezahlkartendaten-von-terminals-ab-2611-215408.html</guid>
       <description>Angreifer haben Windows-basierte Zahlungsterminals in mehreren Ländern mit Malware infiltriert und massenhaft Kartendaten ausgeleitet. (Datenleck, Virus)</description>
       <pubDate>Thu, 19 Nov 2026 13:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google: Gemini 4 Neon soll leistungsfähig und günstiger sein</title>
-      <link>https://www.golem.de/news/google-gemini-4-neon-soll-leistungsfaehig-und-guenstiger-sein-2611-215409.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/google-gemini-4-neon-soll-leistungsfaehig-und-guenstiger-sein-2611-215409.html</guid>
-      <description>Googles neues KI-Modell Gemini 4 Neon ist zwischen dem leistungsfähigeren Carbon und dem preiswerteren Hydrogen angesiedelt. (Gemini, Google)</description>
-      <pubDate>Thu, 19 Nov 2026 12:57:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
