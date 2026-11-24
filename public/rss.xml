@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 06:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:10:40 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: GoEdit - Office-Anhänge direkt in Confluence bearbeiten</title>
+      <link>https://www.golem.de/news/anzeige-goedit-office-anhaenge-direkt-in-confluence-bearbeiten-2611-214055.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-goedit-office-anhaenge-direkt-in-confluence-bearbeiten-2611-214055.html</guid>
+      <description>Mit GoEdit lassen sich Office-Dokumente in Confluence und Jira direkt im Browser gemeinsam bearbeiten - inklusive Schutz vor gegenseitigem Überschreiben. (Software)</description>
+      <pubDate>Tue, 24 Nov 2026 07:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Krypto-Geschäfte: Donald Trump im Bitcoin-Dilemma</title>
       <link>https://www.golem.de/news/krypto-geschaefte-donald-trump-im-bitcoin-dilemma-2611-215559.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nsa-muss-hauptsitz-schliessen-patch-fehler-legt-geheimdienstnetz-lahm-2611-215361.html</guid>
       <description>Nach dem Einspielen eines Patches ist das Kommunikationsnetzwerk der NSA weitestgehend ausgefallen. (NSA, Politik)</description>
       <pubDate>Wed, 18 Nov 2026 13:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Black Week - PS5 Slim Digital mit GTA 6 und unendlich Datenvolumen für 1 Euro bei o2</title>
-      <link>https://www.golem.de/news/anzeige-black-week-ps5-slim-digital-mit-gta-6-und-unendlich-datenvolumen-fuer-1-euro-bei-o2-2611-215280.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-black-week-ps5-slim-digital-mit-gta-6-und-unendlich-datenvolumen-fuer-1-euro-bei-o2-2611-215280.html</guid>
-      <description>Morgen erscheint das lang erwartete GTA 6. Zur Black Week bietet o2 das Spiel mit der PS5 Slim Digital und Top-Handytarif für nur 1 Euro an. (O2, Spiele)</description>
-      <pubDate>Wed, 18 Nov 2026 12:50:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
