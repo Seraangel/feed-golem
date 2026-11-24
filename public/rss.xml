@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 09:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:30:29 GMT</lastBuildDate>
+    <item>
+      <title>Jensen Huang: Er ist Nvidias größte Stärke - und größte Schwäche</title>
+      <link>https://www.golem.de/news/jensen-huang-er-ist-nvidias-groesste-staerke-und-groesste-schwaeche-2611-215568.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/jensen-huang-er-ist-nvidias-groesste-staerke-und-groesste-schwaeche-2611-215568.html</guid>
+      <description>Jensen Huangs Odyssee zeigt nicht nur, wie sehr Nvidia von ihm abhängt, sondern eine ganze Industrie. Das kann nicht gesund sein. Ein IMHO von Tobias Költzsch (Jensen Huang, Nvidia)</description>
+      <pubDate>Tue, 24 Nov 2026 09:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Smartwatch von Fitbit als Black Friday Deal zum halben Preis bei Media Markt</title>
+      <link>https://www.golem.de/news/anzeige-smartwatch-von-fitbit-als-black-friday-deal-zum-halben-preis-bei-media-markt-2611-215556.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-smartwatch-von-fitbit-als-black-friday-deal-zum-halben-preis-bei-media-markt-2611-215556.html</guid>
+      <description>Auch bei Media Markt gibt es spannende Deals zum Black Friday. Smartwatches von Fitbit sind derzeit um bis zu 50 Prozent reduziert. (Fitbit, Media Markt)</description>
+      <pubDate>Tue, 24 Nov 2026 09:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>Videostreaming und Black Friday: Apple TV ein halbes Jahr lang zum halben Preis auch auf Amazon</title>
       <link>https://www.golem.de/news/videostreaming-und-black-friday-apple-tv-ein-halbes-jahr-lang-zum-halben-preis-auch-auf-amazon-2611-215567.html</link>
@@ -55,7 +69,7 @@
       <pubDate>Tue, 24 Nov 2026 07:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>Cyberangriff auf Netbeat: Hoster setzt Passwörter seiner Kundschaft zurück</title>
+      <title>Netbeat: Hoster setzt nach Cyberangriff Passwörter seiner Kundschaft zurück</title>
       <link>https://www.golem.de/news/cyberangriff-auf-netbeat-hoster-setzt-passwoerter-seiner-kundschaft-zurueck-2611-215561.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-auf-netbeat-hoster-setzt-passwoerter-seiner-kundschaft-zurueck-2611-215561.html</guid>
       <description>Der Hoster Netbeat hat unbefugte Zugriffe auf seine Systeme festgestellt. Dabei könnten etwa Zugangsdaten und API-Schlüssel abgeflossen sein. (Datenleck, API)</description>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/glasfaser-telekom-baut-in-bayern-massiv-ftth-in-muenchen-bricht-das-tempo-ein-2611-215374.html</guid>
       <description>Mit 400.000 neuen Anschlüssen soll Bayern Schwerpunkt beim Glasfaserausbau der Telekom bleiben. In München bremst der Konzern das Tempo jedoch deutlich. (Telekom, Glasfaser)</description>
       <pubDate>Wed, 18 Nov 2026 16:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Fritz!Smart Heizkörperthermostat zum Tiefpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-fritz-smart-heizkoerperthermostat-zum-tiefpreis-bei-amazon-2611-215369.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-fritz-smart-heizkoerperthermostat-zum-tiefpreis-bei-amazon-2611-215369.html</guid>
-      <description>Mit dem Fritz!Smart Thermo 302 hat Amazon zum Black Friday ein smartes Heizkörperthermostat für Fritz!Box-Nutzer im Angebot. (Technik/Hardware, AVM)</description>
-      <pubDate>Wed, 18 Nov 2026 16:35:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gerichtsurteil: DAZN muss Preiserhöhung zurückzahlen</title>
-      <link>https://www.golem.de/news/gerichtsurteil-dazn-muss-preiserhoehung-zurueckzahlen-2611-215372.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gerichtsurteil-dazn-muss-preiserhoehung-zurueckzahlen-2611-215372.html</guid>
-      <description>Das Oberlandesgericht Hamm erklärt Preiserhöhungen von DAZN für rechtswidrig. Wer Geld zurück will, muss allerdings einiges nachweisen. (Dazn, Verbraucherschutz)</description>
-      <pubDate>Wed, 18 Nov 2026 16:22:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
