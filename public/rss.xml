@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 07:10:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:45:26 GMT</lastBuildDate>
+    <item>
+      <title>Cyberangriff auf Netbeat: Hoster setzt Passwörter seiner Kundschaft zurück</title>
+      <link>https://www.golem.de/news/cyberangriff-auf-netbeat-hoster-setzt-passwoerter-seiner-kundschaft-zurueck-2611-215561.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-auf-netbeat-hoster-setzt-passwoerter-seiner-kundschaft-zurueck-2611-215561.html</guid>
+      <description>Der Hoster Netbeat hat unbefugte Zugriffe auf seine Systeme festgestellt. Dabei könnten etwa Zugangsdaten und API-Schlüssel abgeflossen sein. (Datenleck, API)</description>
+      <pubDate>Tue, 24 Nov 2026 07:43:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Bluetooth-Lautsprecher von JBL zum Black Friday günstig wie nie</title>
+      <link>https://www.golem.de/news/anzeige-bluetooth-lautsprecher-von-jbl-zum-black-friday-guenstig-wie-nie-2611-215554.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bluetooth-lautsprecher-von-jbl-zum-black-friday-guenstig-wie-nie-2611-215554.html</guid>
+      <description>Der Bluetooth-Lautsprecher JBL Xtreme 4 mit bis zu 100 W und austauschbarem 24-Stunden-Akku ist zum Black Friday stark reduziert bei Amazon! (Lautsprecher, Sound-Hardware)</description>
+      <pubDate>Tue, 24 Nov 2026 07:36:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: GoEdit - Office-Anhänge direkt in Confluence bearbeiten</title>
       <link>https://www.golem.de/news/anzeige-goedit-office-anhaenge-direkt-in-confluence-bearbeiten-2611-214055.html</link>
@@ -132,7 +146,7 @@
       <pubDate>Mon, 23 Nov 2026 14:16:06 GMT</pubDate>
     </item>
     <item>
-      <title>Sonnensystem: Masse und Bahn von Planet hinter dem Neptun errechnet</title>
+      <title>Sonnensystem: Masse und Bahn von möglichem Planet hinter dem Neptun errechnet</title>
       <link>https://www.golem.de/news/sonnensystem-masse-und-bahn-von-planet-hinter-dem-neptun-errechnet-2611-215539.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/sonnensystem-masse-und-bahn-von-planet-hinter-dem-neptun-errechnet-2611-215539.html</guid>
       <description>Überraschend groß und mit ungewöhnlicher Bahnkurve würde die Existenz des Planeten das Verhalten der Objekte am Rand des Sonnensystems erklären. (Astronomie, Weltraumteleskop)</description>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-samsung-galaxy-buds-4-pro-zum-black-friday-guenstig-wie-nie-bei-amazon-2611-215364.html</guid>
       <description>Die Samsung Galaxy Buds 4 Pro mit elegantem Metall-Design und detailreichem Hi-Fi-Sound gibt es zum neuen Tiefstpreis bei Amazon. (Kopfhörer, Samsung)</description>
       <pubDate>Wed, 18 Nov 2026 13:43:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kritische Bugs: Google schließt mehr als 200 Lücken in Chrome</title>
-      <link>https://www.golem.de/news/kritische-bugs-google-schliesst-mehr-als-200-luecken-in-chrome-2611-215363.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kritische-bugs-google-schliesst-mehr-als-200-luecken-in-chrome-2611-215363.html</guid>
-      <description>Mindestens eine kritische Lücke in Google Chrome erlaubt über manipulierten Netzwerk-Traffic einen Sandbox Escape. (Chrome, Google)</description>
-      <pubDate>Wed, 18 Nov 2026 13:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>NSA muss Hauptsitz schließen: Patch-Fehler legt Geheimdienstnetz lahm</title>
-      <link>https://www.golem.de/news/nsa-muss-hauptsitz-schliessen-patch-fehler-legt-geheimdienstnetz-lahm-2611-215361.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nsa-muss-hauptsitz-schliessen-patch-fehler-legt-geheimdienstnetz-lahm-2611-215361.html</guid>
-      <description>Nach dem Einspielen eines Patches ist das Kommunikationsnetzwerk der NSA weitestgehend ausgefallen. (NSA, Politik)</description>
-      <pubDate>Wed, 18 Nov 2026 13:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
