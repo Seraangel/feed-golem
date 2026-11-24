@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 12:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:10:27 GMT</lastBuildDate>
+    <item>
+      <title>Verkaufsverbot verhängt: BYD soll Design von Land Rover kopiert haben</title>
+      <link>https://www.golem.de/news/verkaufsverbot-verhaengt-byd-soll-design-von-land-rover-kopiert-haben-2611-215583.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/verkaufsverbot-verhaengt-byd-soll-design-von-land-rover-kopiert-haben-2611-215583.html</guid>
+      <description>BYD darf sein SUV Ti7 vorerst nicht in die EU einführen. Ein niederländisches Gericht sieht zu große Ähnlichkeiten mit einem Land Rover. (BYD, Auto)</description>
+      <pubDate>Tue, 24 Nov 2026 12:08:04 GMT</pubDate>
+    </item>
     <item>
       <title>Zocken auf dem PC: Angreifer locken GTA-6-Fans in die Malware-Falle</title>
       <link>https://www.golem.de/news/zocken-auf-dem-pc-hacker-locken-gta-6-fans-in-die-malware-falle-2611-215581.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-php2shell-php-foundation-warnt-erneut-vor-kritischen-php-luecken-2611-215389.html</guid>
       <description>Einen Monat nach PHP2Shell steht wieder ein wichtiges PHP-Release an. Panik ist nicht angebracht, Admins sollten aber dennoch zügig patchen. (Sicherheitslücke, PHP)</description>
       <pubDate>Thu, 19 Nov 2026 07:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>IPO: Anthropic gelingt Rekord-Börsengang mit 107 Milliarden US-Dollar</title>
-      <link>https://www.golem.de/news/boersengang-anthropic-uebertrifft-den-emissionsrekord-von-spacex-2611-215388.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/boersengang-anthropic-uebertrifft-den-emissionsrekord-von-spacex-2611-215388.html</guid>
-      <description>Anthropic startet mit einer hohen Bewertung an der Nasdaq. Nun muss sich zeigen, wie viel Anleger im Handel für die Aktie bezahlen. (Anthropic, Börse)</description>
-      <pubDate>Thu, 19 Nov 2026 07:35:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
