@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 08:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:30:38 GMT</lastBuildDate>
+    <item>
+      <title>Prüfung von Pull Requests: Anthropic lässt KI-Agenten Code freigeben</title>
+      <link>https://www.golem.de/news/pruefung-von-pull-requests-anthropic-laesst-ki-agenten-code-freigeben-2611-215564.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pruefung-von-pull-requests-anthropic-laesst-ki-agenten-code-freigeben-2611-215564.html</guid>
+      <description>Claude Ship prüft Pull Requests, behebt Fehler und entscheidet anhand festgelegter Regeln, wann noch ein Mensch zustimmen muss. (KI, Unternehmenssoftware)</description>
+      <pubDate>Tue, 24 Nov 2026 08:22:05 GMT</pubDate>
+    </item>
     <item>
       <title>Satellitenkommunikation: Europa zahlt für Starlink-Alternativen doppelt</title>
       <link>https://www.golem.de/news/satellitenkommunikation-europa-zahlt-fuer-starlink-alternativen-doppelt-2611-215563.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/1-1-cloudbetreiber-ionos-holt-sich-neuen-ceo-von-sap-2611-215366.html</guid>
       <description>Führungswechsel beim europäischen Cloud-Marktführer: SAP-Manager Saueressig übernimmt bei Ionos und soll das Geschäft mit Großkunden und KI ausbauen. (SAP, Rechenzentrum)</description>
       <pubDate>Wed, 18 Nov 2026 14:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Colossus-Rechenzentrum: Memphis verteilt SpaceX-Steuereinnahmen an Anwohner</title>
-      <link>https://www.golem.de/news/colossus-rechenzentrum-memphis-verteilt-spacex-steuereinnahmen-an-anwohner-2611-215362.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/colossus-rechenzentrum-memphis-verteilt-spacex-steuereinnahmen-an-anwohner-2611-215362.html</guid>
-      <description>Die Stadt Memphis gibt einen Teil der Steuereinnahmen durch SpaceX an die Nachbarschaft des Colossus-Rechenzentrums zurück. (Rechenzentrum, Barrierefreiheit)</description>
-      <pubDate>Wed, 18 Nov 2026 14:12:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
