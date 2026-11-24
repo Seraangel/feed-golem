@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 12:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:55:30 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Post-Quanten-Kryptografie: Wie Admins ihre IT-Infrastruktur quantensicher machen</title>
+      <link>https://www.golem.de/news/post-quanten-kryptografie-wie-admins-ihre-it-infrastruktur-quantensicher-machen-2611-215584.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/post-quanten-kryptografie-wie-admins-ihre-it-infrastruktur-quantensicher-machen-2611-215584.html</guid>
+      <description>Der quantensichere Schlüsselaustausch läuft in Browsern, Bibliotheken und SSH längst mit, oft ohne Zutun der Admins. Bei Signaturen, VPNs und E-Mail sieht es düsterer aus. Was heute geht, wo es klemmt und was es kostet. Ein Ratgebertext von Marvin Sprey (Post-Quanten-Kryptografie, Verschlüsselung)</description>
+      <pubDate>Tue, 24 Nov 2026 12:50:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Topdon-Starthilfe-Powerbank für Kfz zum Black-Friday-Bestpreis nur rund 85 Euro</title>
+      <link>https://www.golem.de/news/anzeige-topdon-starthilfe-powerbank-fuer-kfz-zum-black-friday-bestpreis-nur-rund-85-euro-2611-215530.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-topdon-starthilfe-powerbank-fuer-kfz-zum-black-friday-bestpreis-nur-rund-85-euro-2611-215530.html</guid>
+      <description>Die Topdon JS2000 Pro startet mit 2500 A auch Diesel bis 6 Liter, lädt nebenbei das Smartphone und ist zum Black Friday so günstig wie nie. (Mobilität, Auto)</description>
+      <pubDate>Tue, 24 Nov 2026 12:46:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Elektrischer Schimmelentferner für die Wand zum Tiefstpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-elektrischer-schimmelentferner-fuer-die-wand-zum-tiefstpreis-bei-amazon-2611-215585.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-adobe-creative-cloud-pro-am-black-friday-sensationell-guenstig-bei-amazon-2611-215392.html</guid>
       <description>Die Adobe Creative Cloud Pro mit Anwendungen wie Photoshop, Lightroom und InDesign ist am Black Friday bei Amazon günstig wie nie. (Creative Cloud, Adobe)</description>
       <pubDate>Thu, 19 Nov 2026 08:27:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Downloads: DE-CIX stemmt 13 komplette GTA-6-Downloads pro Sekunde</title>
-      <link>https://www.golem.de/news/downloads-de-cix-stemmt-13-komplette-gta-6-downloads-pro-sekunde-2611-215393.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/downloads-de-cix-stemmt-13-komplette-gta-6-downloads-pro-sekunde-2611-215393.html</guid>
-      <description>Zum Start von GTA 6 erreicht der Datenverkehr an den Internetknoten von DE-CIX einen neuen Höchstwert. (GTA 6, Rockstar)</description>
-      <pubDate>Thu, 19 Nov 2026 08:21:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cybersicherheit: Überstürztes Handeln führt zu mehr Systemausfällen</title>
-      <link>https://www.golem.de/news/cybersicherheit-ueberstuerztes-handeln-fuehrt-zu-mehr-systemausfaellen-2611-215391.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cybersicherheit-ueberstuerztes-handeln-fuehrt-zu-mehr-systemausfaellen-2611-215391.html</guid>
-      <description>Von KI gefundene Sicherheitslücken sofort und gleichzeitig zu schließen, belastet bestehende IT-Infrastruktur stark. (KI, Sicherheitslücke)</description>
-      <pubDate>Thu, 19 Nov 2026 08:18:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
