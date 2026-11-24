@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 11:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:00:28 GMT</lastBuildDate>
+    <item>
+      <title>Zocken auf dem PC: Hacker locken GTA-6-Fans in die Malware-Falle</title>
+      <link>https://www.golem.de/news/zocken-auf-dem-pc-hacker-locken-gta-6-fans-in-die-malware-falle-2611-215581.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zocken-auf-dem-pc-hacker-locken-gta-6-fans-in-die-malware-falle-2611-215581.html</guid>
+      <description>Viele würden GTA 6 am liebsten schon jetzt auf dem PC zocken. Angreifer nutzen das aus und ködern mit angeblichem Cloudgaming. (Malware, API)</description>
+      <pubDate>Tue, 24 Nov 2026 11:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konkurrenz zu Chrome, Firefox und Safari: Neuer Browser Ladybird nutzt eine eigene Browser-Engine</title>
+      <link>https://www.golem.de/news/konkurrenz-zu-chrome-firefox-und-safari-neuer-browser-ladybird-nutzt-eine-eigene-browser-engine-2611-215579.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/konkurrenz-zu-chrome-firefox-und-safari-neuer-browser-ladybird-nutzt-eine-eigene-browser-engine-2611-215579.html</guid>
+      <description>Ladybird ist ein neuartiger Browser. Er soll sich grundlegend von den bekannten Browsern wie Chrome, Firefox, Safari, Vivaldi oder Opera unterscheiden. (Browser, Webkit)</description>
+      <pubDate>Tue, 24 Nov 2026 11:40:11 GMT</pubDate>
+    </item>
     <item>
       <title>Google-Alternative: Kagi bringt E-Mail-Dienst mit Privacy-Funktionen</title>
       <link>https://www.golem.de/news/google-alternative-kagi-bringt-e-mail-dienst-mit-privacy-funktionen-2611-215577.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/boersengang-anthropic-uebertrifft-den-emissionsrekord-von-spacex-2611-215388.html</guid>
       <description>Anthropic startet mit einer hohen Bewertung an der Nasdaq. Nun muss sich zeigen, wie viel Anleger im Handel für die Aktie bezahlen. (Anthropic, Börse)</description>
       <pubDate>Thu, 19 Nov 2026 07:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Betriebserlaubnis: ADAC warnt vor billigen Nachrüst-LEDs für Autos</title>
-      <link>https://www.golem.de/news/betriebserlaubnis-adac-warnt-vor-billigen-nachruest-leds-fuer-autos-2611-215385.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/betriebserlaubnis-adac-warnt-vor-billigen-nachruest-leds-fuer-autos-2611-215385.html</guid>
-      <description>Ein ADAC-Test zeigt: Nachrüst-LEDs können Halogenlicht deutlich verbessern. Nicht jedes H7-Produkt ist jedoch zulässig oder sicher. (ADAC, Auto)</description>
-      <pubDate>Thu, 19 Nov 2026 07:24:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Streamingabo: Disney reaktiviert Airplay für Disney+, Chromecast fehlt weiterhin</title>
-      <link>https://www.golem.de/news/streamingabo-disney-reaktiviert-airplay-fuer-disney-chromecast-fehlt-weiterhin-2611-215387.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/streamingabo-disney-reaktiviert-airplay-fuer-disney-chromecast-fehlt-weiterhin-2611-215387.html</guid>
-      <description>Airplay lässt sich mit Disney+ wieder nutzen. Disney musste die Funktion aufgrund eines Patentrechtsstreits aus allen Abostufen entfernen. (Disney+, Verbraucherschutz)</description>
-      <pubDate>Thu, 19 Nov 2026 07:09:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
