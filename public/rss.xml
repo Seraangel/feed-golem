@@ -11,9 +11,23 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 10:50:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 11:15:28 GMT</lastBuildDate>
     <item>
-      <title>Photovoltaik: Windrad aus Fahradfelgen steigert Stromertrag um 14 Prozent</title>
+      <title>Nvidia-Aktie: Trump wird durch Huangs Rückkehr 15 Millionen US-Dollar reicher</title>
+      <link>https://www.golem.de/news/nvidia-aktie-trump-wird-durch-huangs-rueckkehr-15-millionen-us-dollar-reicher-2611-215575.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nvidia-aktie-trump-wird-durch-huangs-rueckkehr-15-millionen-us-dollar-reicher-2611-215575.html</guid>
+      <description>Der US-Präsident hat stolz verkündet: "Ich habe den Deal gemacht." Von anderen Seiten kommen weitere Korruptionsvorwürfe. (Jensen Huang, Nvidia)</description>
+      <pubDate>Tue, 24 Nov 2026 11:14:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Serie Blade Runner 2099: Was bleibt vom Menschen, wenn er sich selbst überflüssig macht?</title>
+      <link>https://www.golem.de/news/serie-blade-runner-2099-was-bleibt-vom-menschen-wenn-er-sich-selbst-ueberfluessig-macht-2611-215576.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/serie-blade-runner-2099-was-bleibt-vom-menschen-wenn-er-sich-selbst-ueberfluessig-macht-2611-215576.html</guid>
+      <description>50 Jahre nach Blade Runner 2049 sind es die Menschen, die gejagt werden - und die Replikanten herrschen. Die neue Serie führt das Erbe der Kultfilme fort, und zwar brillant. Eine Rezension von Peter Osteried (Blade Runner, KI)</description>
+      <pubDate>Tue, 24 Nov 2026 11:07:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Photovoltaik: Windrad aus Fahrradfelgen steigert Stromertrag um 14 Prozent</title>
       <link>https://www.golem.de/news/photovoltaik-windrad-aus-fahradfelgen-steigert-stromertrag-um-14-prozent-2611-215573.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/photovoltaik-windrad-aus-fahradfelgen-steigert-stromertrag-um-14-prozent-2611-215573.html</guid>
       <description>Ein mit einfachsten Mitteln konstruiertes Kühlsystem erhöht den Stromertrag aus Solarzellen. In der Spitze ist es ein Fünftel mehr. (Solarenergie, Wissenschaft)</description>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/adac-e-autos-erzielen-im-tuev-report-sehr-unterschiedliche-ergebnisse-2611-215383.html</guid>
       <description>Der TÜV-Report 2027 zeigt bei E-Autos große Qualitätsunterschiede. Einige schneiden stark ab, andere fallen bei der HU auffallend oft durch. (ADAC, Elektroauto)</description>
       <pubDate>Thu, 19 Nov 2026 06:39:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arbeitsmarkt: Kabinett lockert Kündigungsschutz und Befristungsregeln</title>
-      <link>https://www.golem.de/news/arbeitsmarkt-kabinett-lockert-kuendigungsschutz-und-befristungsregeln-2611-215379.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/arbeitsmarkt-kabinett-lockert-kuendigungsschutz-und-befristungsregeln-2611-215379.html</guid>
-      <description>Das Bundeskabinett hat Änderungen im Arbeitsrecht beschlossen. Ein Ziel ist mehr Wirtschaftswachstum. (Arbeit, Wirtschaft)</description>
-      <pubDate>Thu, 19 Nov 2026 06:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Desktop-Apps mit Python und Qt plattformübergreifend entwickeln</title>
-      <link>https://www.golem.de/news/anzeige-desktop-apps-mit-python-und-qt-plattformuebergreifend-entwickeln-2611-215380.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-desktop-apps-mit-python-und-qt-plattformuebergreifend-entwickeln-2611-215380.html</guid>
-      <description>Python und Qt ermöglichen Desktop-Anwendungen für mehrere Betriebssysteme. Ein zweitägiger Workshop vermittelt GUI-Entwicklung mit PySide6 anhand eines Praxisprojekts. (Golem Karrierewelt, Python)</description>
-      <pubDate>Thu, 19 Nov 2026 06:15:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
