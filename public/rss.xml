@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 15:30:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:35:30 GMT</lastBuildDate>
+    <item>
+      <title>Europäische Raumfahrt: Ariane 6 fliegt 36 Satelliten in den Orbit</title>
+      <link>https://www.golem.de/news/europaeische-raumfahrt-ariane-6-fliegt-36-satelliten-in-den-orbit-2611-215597.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/europaeische-raumfahrt-ariane-6-fliegt-36-satelliten-in-den-orbit-2611-215597.html</guid>
+      <description>Die europäische Trägerrakete stellt derzeit die einzige echte Alternative zu SpaceX dar, kann einen systemischen Fehler aber nicht überwinden. (Rakete, Amazon)</description>
+      <pubDate>Tue, 24 Nov 2026 15:32:08 GMT</pubDate>
+    </item>
     <item>
       <title>Frostbite: Von KI entworfene CPU verspricht deutlich höhere Effizienz</title>
       <link>https://www.golem.de/news/frostbite-von-ki-entworfene-cpu-verspricht-deutlich-hoehere-effizienz-2611-215594.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bei-globalfoundries-roboter-atlas-soll-ab-2027-in-chipfabriken-arbeiten-2611-215400.html</guid>
       <description>Welche Aufgaben der humanoide Roboter bei Globalfoundries übernehmen kann, muss noch erprobt werden. (Roboter, Globalfoundries)</description>
       <pubDate>Thu, 19 Nov 2026 10:43:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nach AMD: Nvidia-Treiber schreiben stündlich Gigabytes auf SSD</title>
-      <link>https://www.golem.de/news/nach-amd-nvidia-treiber-schreiben-stuendlich-gigabytes-auf-ssd-2611-215401.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nach-amd-nvidia-treiber-schreiben-stuendlich-gigabytes-auf-ssd-2611-215401.html</guid>
-      <description>Nutzer berichten, Nvidias GPU-Treiber schreibe ab Version 621.14 teilweise mehrere GByte pro Minute. Es gibt einen Workaround. (Treiber, Grafikkarten)</description>
-      <pubDate>Thu, 19 Nov 2026 10:28:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
