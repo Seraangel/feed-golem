@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 10:20:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:30:31 GMT</lastBuildDate>
+    <item>
+      <title>KI in der Cloud: Neue US-Exportregeln erzeugen Chaos in Asien</title>
+      <link>https://www.golem.de/news/ki-in-der-cloud-neue-us-exportregeln-erzeugen-chaos-in-asien-2611-215571.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-in-der-cloud-neue-us-exportregeln-erzeugen-chaos-in-asien-2611-215571.html</guid>
+      <description>Die neuen US-Regeln sollen chinesische Firmen daran hindern, exportbeschränkte Hardware in der Cloud zu nutzen. Vorerst stiftet sie viel Verwirrung. (China, Nvidia)</description>
+      <pubDate>Tue, 24 Nov 2026 10:23:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Fahrradcomputer von Garmin zum Black Friday reduziert bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-fahrradcomputer-von-garmin-zum-black-friday-reduziert-bei-amazon-2611-215574.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html</guid>
       <description>Rund 2,4 Billionen US-Dollar sollen 2027 weltweit in KI-Infrastruktur fließen - weit mehr, als Endkunden bisher für Anwendungen zahlen. Gartner hält den massiven Vorab-Ausbau für nötig. (KI, Studien)</description>
       <pubDate>Wed, 18 Nov 2026 18:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Mit Vibe Coding eigene Anwendungen per KI entwickeln</title>
-      <link>https://www.golem.de/news/anzeige-mit-vibe-coding-eigene-anwendungen-per-ki-entwickeln-2611-215329.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mit-vibe-coding-eigene-anwendungen-per-ki-entwickeln-2611-215329.html</guid>
-      <description>Vibe Coding ermöglicht die Softwareentwicklung mit KI ohne Programmierkenntnisse. Ein Online-Workshop zeigt, wie sich eigene Apps, Tools und Prototypen erstellen lassen. (Golem Karrierewelt, Programmiersprachen)</description>
-      <pubDate>Wed, 18 Nov 2026 17:45:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
