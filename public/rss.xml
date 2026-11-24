@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 14:55:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 15:20:29 GMT</lastBuildDate>
+    <item>
+      <title>Frostbite: Von KI entworfene CPU verspricht deutlich höhere Effizienz</title>
+      <link>https://www.golem.de/news/frostbite-von-ki-entworfene-cpu-verspricht-deutlich-hoehere-effizienz-2611-215594.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/frostbite-von-ki-entworfene-cpu-verspricht-deutlich-hoehere-effizienz-2611-215594.html</guid>
+      <description>Parallelismus ohne Threads, CPUs fast ohne Caches und Koordinationsaufwand: Das Konzept hinter Frostbite klingt fast zu gut, um wahr zu sein. (Prozessor, KI)</description>
+      <pubDate>Tue, 24 Nov 2026 15:14:06 GMT</pubDate>
+    </item>
     <item>
       <title>Statt Palantir: NRW setzt künftig deutsche Polizei-Software ein</title>
       <link>https://www.golem.de/news/statt-palantir-nrw-setzt-kuenftig-deutsche-polizei-software-ein-2611-215593.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-amd-nvidia-treiber-schreiben-stuendlich-gigabytes-auf-ssd-2611-215401.html</guid>
       <description>Nutzer berichten, Nvidias GPU-Treiber schreibe ab Version 621.14 teilweise mehrere GByte pro Minute. Es gibt einen Workaround. (Treiber, Grafikkarten)</description>
       <pubDate>Thu, 19 Nov 2026 10:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Black-Friday-Aktion: Streamingabo Paramount+ kostet für zwei Monate nur 5 Euro</title>
-      <link>https://www.golem.de/news/black-friday-aktion-streamingabo-paramount-kostet-fuer-zwei-monate-nur-5-euro-2611-215402.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/black-friday-aktion-streamingabo-paramount-kostet-fuer-zwei-monate-nur-5-euro-2611-215402.html</guid>
-      <description>Paramount will mit einer Preisaktion neue Abonnenten für Paramount+ gewinnen. Die Ersparnis für Abonnenten fällt ungewöhnlich groß aus. (Paramount+, Streaming)</description>
-      <pubDate>Thu, 19 Nov 2026 10:14:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
