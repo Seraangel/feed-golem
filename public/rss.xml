@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Mon, 23 Nov 2026 18:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:20:29 GMT</lastBuildDate>
+    <item>
+      <title>Xbox: Leaker veröffentlicht EXE-Datei von GTA 6</title>
+      <link>https://www.golem.de/news/xbox-leaker-veroeffentlicht-exe-datei-von-gta-6-2611-215558.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/xbox-leaker-veroeffentlicht-exe-datei-von-gta-6-2611-215558.html</guid>
+      <description>Die bislang fehlende Programmdatei von GTA 6 ist offenbar im Netz. Mehrere Teams versuchen, die Xbox-Version auf PCs zum Laufen zu bringen. (GTA 6, Rockstar)</description>
+      <pubDate>Tue, 24 Nov 2026 06:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: IT-Sicherheit im Betrieb von Zugängen bis zur Erstreaktion</title>
+      <link>https://www.golem.de/news/anzeige-it-sicherheit-im-betrieb-von-zugaengen-bis-zur-erstreaktion-2611-215560.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-sicherheit-im-betrieb-von-zugaengen-bis-zur-erstreaktion-2611-215560.html</guid>
+      <description>Wer hat Zugriff, welcher Patch ist dringend und was zählt im Ernstfall? Die Workshops der Golem Karrierewelt geben Einblicke. In der Black Week mit 20 Prozent Rabatt. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Tue, 24 Nov 2026 06:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>AWS Trainium: Amazon kauft KI-Chip-Optimierung von Decart AI für 7,5 Milliarden US-Dollar</title>
       <link>https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/nach-cyberangriff-japan-nimmt-supercomputer-fugaku-vom-netz-2611-215359.html</guid>
       <description>Unbekannte sind über ein Web-Dashboard in das Netzwerk des Fugaku-Betreibers Riken eingedrungen und haben auf Nutzerdaten zugegriffen. (Supercomputer, Computer)</description>
       <pubDate>Wed, 18 Nov 2026 12:45:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Lokale KI: Wann sich ein eigener KI-Server rechnet und wann er nur beruhigt</title>
-      <link>https://www.golem.de/news/lokale-ki-wann-sich-ein-eigener-ki-server-rechnet-und-wann-er-nur-beruhigt-2611-215216.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/lokale-ki-wann-sich-ein-eigener-ki-server-rechnet-und-wann-er-nur-beruhigt-2611-215216.html</guid>
-      <description>Ein eigener KI-Server soll Kosten sparen und unabhängiger von Cloudanbietern machen. Doch was kostet er tatsächlich? Ein Deep Dive von Benedikt Matthes (KI, Nvidia)</description>
-      <pubDate>Wed, 18 Nov 2026 12:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Sonys neuer ANC-Kopfhörer WH-1000XM4C vor dem Black Friday zum Amazon-Bestpreis</title>
-      <link>https://www.golem.de/news/anzeige-sonys-neuer-anc-kopfhoerer-wh-1000xm4c-vor-dem-black-friday-zum-amazon-bestpreis-2611-215360.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sonys-neuer-anc-kopfhoerer-wh-1000xm4c-vor-dem-black-friday-zum-amazon-bestpreis-2611-215360.html</guid>
-      <description>Sonys Kopfhörerikone WH-1000XM4 gibt es als Neuauflage. Bereits vor dem Black Friday gibt es den neuen WH-1000XM4C zum Amazon-Bestpreis. (Sony, Amazon)</description>
-      <pubDate>Wed, 18 Nov 2026 12:23:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
