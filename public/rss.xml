@@ -11,7 +11,28 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 10:30:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 10:50:30 GMT</lastBuildDate>
+    <item>
+      <title>Photovoltaik: Windrad aus Fahradfelgen steigert Stromertrag um 14 Prozent</title>
+      <link>https://www.golem.de/news/photovoltaik-windrad-aus-fahradfelgen-steigert-stromertrag-um-14-prozent-2611-215573.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/photovoltaik-windrad-aus-fahradfelgen-steigert-stromertrag-um-14-prozent-2611-215573.html</guid>
+      <description>Ein mit einfachsten Mitteln konstruiertes Kühlsystem erhöht den Stromertrag aus Solarzellen. In der Spitze ist es ein Fünftel mehr. (Solarenergie, Wissenschaft)</description>
+      <pubDate>Tue, 24 Nov 2026 10:48:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Sony WH-1000XM6 Referenz-Kopfhörer am Black Friday zum Amazon-Bestpreis</title>
+      <link>https://www.golem.de/news/anzeige-sony-wh-1000xm6-referenz-kopfhoerer-am-black-friday-zum-amazon-bestpreis-2611-215578.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-sony-wh-1000xm6-referenz-kopfhoerer-am-black-friday-zum-amazon-bestpreis-2611-215578.html</guid>
+      <description>Der Sony WH-1000XM6 verwendet zwölf Mikrofone und den QN3-Chip, um Lärm herauszufiltern, und ist zum Black Friday wieder auf seinen Tiefstpreis gefallen. (Technik/Hardware, Sony)</description>
+      <pubDate>Tue, 24 Nov 2026 10:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>OLEDTextFix: Tool soll Schrift auf OLED-Monitoren schärfer darstellen</title>
+      <link>https://www.golem.de/news/oledtextfix-tool-soll-schrift-auf-oled-monitoren-schaerfer-darstellen-2611-215572.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/oledtextfix-tool-soll-schrift-auf-oled-monitoren-schaerfer-darstellen-2611-215572.html</guid>
+      <description>OLEDTextFix verschiebt Subpixel auf OLED-Panels so, dass möglichst keine störenden Farbränder auftreten. (OLED, Display)</description>
+      <pubDate>Tue, 24 Nov 2026 10:35:03 GMT</pubDate>
+    </item>
     <item>
       <title>KI in der Cloud: Neue US-Exportregeln erzeugen Chaos in Asien</title>
       <link>https://www.golem.de/news/ki-in-der-cloud-neue-us-exportregeln-erzeugen-chaos-in-asien-2611-215571.html</link>
@@ -1390,27 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-desktop-apps-mit-python-und-qt-plattformuebergreifend-entwickeln-2611-215380.html</guid>
       <description>Python und Qt ermöglichen Desktop-Anwendungen für mehrere Betriebssysteme. Ein zweitägiger Workshop vermittelt GUI-Entwicklung mit PySide6 anhand eines Praxisprojekts. (Golem Karrierewelt, Python)</description>
       <pubDate>Thu, 19 Nov 2026 06:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Black Friday Woche 2026 - Jetzt die besten Deals bei Amazon sichern</title>
-      <link>https://www.golem.de/news/anzeige-black-friday-woche-2026-jetzt-die-besten-deals-bei-amazon-sichern-2611-215370.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-black-friday-woche-2026-jetzt-die-besten-deals-bei-amazon-sichern-2611-215370.html</guid>
-      <description>Amazon hat uns mit den frühen Black Friday Angeboten bereits einen Vorgeschmack geliefert. Seit Mitternacht läuft jetzt die Black Friday Woche. (Black Friday, Amazon)</description>
-      <pubDate>Wed, 18 Nov 2026 23:01:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Millionen Webserver gefährdet: NGINX-Lücke ermöglicht Codeausführung ohne Anmeldung</title>
-      <link>https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/millionen-webserver-gefaehrdet-nginx-luecke-erlaubt-codeausfuehrung-ohne-anmeldung-2611-215378.html</guid>
-      <description>Zwei NGINX-Lücken könnten bei aktivem HTTP/2 Codeausführung auf Webservern ermöglichen. Die Patches sollten schnell eingespielt werden. (Nginx, Server)</description>
-      <pubDate>Wed, 18 Nov 2026 20:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gartner widerspricht KI-Blase: Weltweiter KI-Ausbau "ist womöglich noch zu klein"</title>
-      <link>https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gartner-widerspricht-ki-blase-ki-ausbau-ist-womoeglich-noch-zu-klein-2611-215377.html</guid>
-      <description>Rund 2,4 Billionen US-Dollar sollen 2027 weltweit in KI-Infrastruktur fließen - weit mehr, als Endkunden bisher für Anwendungen zahlen. Gartner hält den massiven Vorab-Ausbau für nötig. (KI, Studien)</description>
-      <pubDate>Wed, 18 Nov 2026 18:12:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
