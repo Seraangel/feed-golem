@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 12:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:25:27 GMT</lastBuildDate>
+    <item>
+      <title>Militärtechnik: Deutschland baut ukrainische Drohnen</title>
+      <link>https://www.golem.de/news/militaertechnik-deutschland-baut-ukrainische-drohnen-2611-215582.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/militaertechnik-deutschland-baut-ukrainische-drohnen-2611-215582.html</guid>
+      <description>Deutschland will ukrainische Drohnen im Inland bauen. Das vertieft die Zusammenarbeit bei der Militärtechnik. (Militär, Politik)</description>
+      <pubDate>Tue, 24 Nov 2026 12:21:03 GMT</pubDate>
+    </item>
     <item>
       <title>Verkaufsverbot verhängt: BYD soll Design von Land Rover kopiert haben</title>
       <link>https://www.golem.de/news/verkaufsverbot-verhaengt-byd-soll-design-von-land-rover-kopiert-haben-2611-215583.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-tcl-mini-led-tv-mit-144-hz-und-98-zoll-zum-neuen-amazon-bestpreis-2611-215390.html</guid>
       <description>Der TCL 98Q7D Pro bringt 98 Zoll, 2.000 Nits und 144 Hz fürs Gaming ins Wohnzimmer und ist zum Start der Black Week so günstig wie nie. (Technik/Hardware, Spiele)</description>
       <pubDate>Thu, 19 Nov 2026 07:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nach PHP2Shell: PHP Foundation patcht erneut kritische PHP-Lücken</title>
-      <link>https://www.golem.de/news/nach-php2shell-php-foundation-warnt-erneut-vor-kritischen-php-luecken-2611-215389.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nach-php2shell-php-foundation-warnt-erneut-vor-kritischen-php-luecken-2611-215389.html</guid>
-      <description>Einen Monat nach PHP2Shell steht wieder ein wichtiges PHP-Release an. Panik ist nicht angebracht, Admins sollten aber dennoch zügig patchen. (Sicherheitslücke, PHP)</description>
-      <pubDate>Thu, 19 Nov 2026 07:50:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
