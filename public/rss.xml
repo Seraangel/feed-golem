@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 16:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:25:37 GMT</lastBuildDate>
+    <item>
+      <title>AT&amp;T: US-Regulierer macht Weg für Kupferabschaltung in Kalifornien frei</title>
+      <link>https://www.golem.de/news/at-t-us-regulierer-macht-weg-fuer-kupferabschaltung-in-kalifornien-frei-2611-215601.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/at-t-us-regulierer-macht-weg-fuer-kupferabschaltung-in-kalifornien-frei-2611-215601.html</guid>
+      <description>Gegen Widerstand erlaubt die FCC dem Netzbetreiber AT&amp;T, sein Kupfernetz ab Sommer 2027 abzuschalten. (AT&amp;T, VoIP)</description>
+      <pubDate>Tue, 24 Nov 2026 16:20:03 GMT</pubDate>
+    </item>
     <item>
       <title>Einfuhrkontrolle: EU legt Importzahlen für chinesische Hybride fest</title>
       <link>https://www.golem.de/news/einfuhrkontrolle-eu-legt-importzahlen-fuer-chinesische-hybride-fest-2611-215599.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/vodafone-festnetz-gta-6-verfehlt-datenrekord-der-champions-league-2611-215403.html</guid>
       <description>Der GTA-6-Preload treibt das Vodafone-Netz auf rund 35 TBit/s. Den Jahresrekord hält aber ein Champions-League-Spiel. (Streaming, Vodafone)</description>
       <pubDate>Thu, 19 Nov 2026 11:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Preview-Version bereits verfügbar: Windows Server 2028 soll besser gegen Angriffe geschützt sein</title>
-      <link>https://www.golem.de/news/preview-version-bereits-verfuegbar-windows-server-2028-soll-besser-gegen-angriffe-geschuetzt-sein-2611-215406.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/preview-version-bereits-verfuegbar-windows-server-2028-soll-besser-gegen-angriffe-geschuetzt-sein-2611-215406.html</guid>
-      <description>Neben einer gehärteten Server-Core-Installation soll Windows Server 2028 auch Laufzeit- und Inferenz-Engines für lokale KI-Modelle unterstützen. (KI, Microsoft)</description>
-      <pubDate>Thu, 19 Nov 2026 11:08:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
