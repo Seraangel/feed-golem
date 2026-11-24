@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 15:55:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:10:33 GMT</lastBuildDate>
+    <item>
+      <title>Einfuhrkontrolle: EU legt Importzahlen für chinesische Hybride fest</title>
+      <link>https://www.golem.de/news/einfuhrkontrolle-eu-legt-importzahlen-fuer-chinesische-hybride-fest-2611-215599.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/einfuhrkontrolle-eu-legt-importzahlen-fuer-chinesische-hybride-fest-2611-215599.html</guid>
+      <description>Hybridfahrzeuge aus chinesischer Produktion überschwemmen den europäischen Markt. Das soll im kommenden Jahr anders werden. (Plugin-Hybrid, Elektroauto)</description>
+      <pubDate>Tue, 24 Nov 2026 16:05:10 GMT</pubDate>
+    </item>
     <item>
       <title>KI-gestützter Angriff: EU-Kommission bestätigt Datendiebstahl</title>
       <link>https://www.golem.de/news/ki-gestuetzter-angriff-eu-kommission-bestaetigt-datendiebstahl-2611-215598.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/preview-version-bereits-verfuegbar-windows-server-2028-soll-besser-gegen-angriffe-geschuetzt-sein-2611-215406.html</guid>
       <description>Neben einer gehärteten Server-Core-Installation soll Windows Server 2028 auch Laufzeit- und Inferenz-Engines für lokale KI-Modelle unterstützen. (KI, Microsoft)</description>
       <pubDate>Thu, 19 Nov 2026 11:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neue Düsentriebwerke: Weniger Ruß, tausendmal mehr Eiskristalle</title>
-      <link>https://www.golem.de/news/neue-duesentriebwerke-weniger-russ-tausendmal-mehr-eiskristalle-2611-214949.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/neue-duesentriebwerke-weniger-russ-tausendmal-mehr-eiskristalle-2611-214949.html</guid>
-      <description>Offene Rotoren, Hybridantriebe und neue Kraftstoffe sollen Jets sparsamer und klimaverträglicher machen. Doch Messflüge zeigen, dass ein entscheidendes Problem bleibt. Eine Analyse von Friedrich List (Luftfahrt, DLR)</description>
-      <pubDate>Thu, 19 Nov 2026 11:04:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
