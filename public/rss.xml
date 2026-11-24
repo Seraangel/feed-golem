@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 13:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:55:33 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Logitech-Tastatur MX Keys S am Black Friday zum Sensationspreis auf Amazon</title>
+      <link>https://www.golem.de/news/anzeige-logitech-tastatur-mx-keys-s-am-black-friday-zum-sensationspreis-auf-amazon-2611-215588.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-logitech-tastatur-mx-keys-s-am-black-friday-zum-sensationspreis-auf-amazon-2611-215588.html</guid>
+      <description>Zum Black Friday gibt es nicht nur die Tastatur MX Keys S besonders günstig. Auch die Logitech-Maus MX Master gibt es zum Amazon-Tiefstpreis. (Black Friday, Amazon)</description>
+      <pubDate>Tue, 24 Nov 2026 13:47:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Änderungen im Bildungssystem gefordert: Deutschland verliert immer mehr MINT-Nachwuchs</title>
+      <link>https://www.golem.de/news/aenderungen-im-bildungssystem-gefordert-deutschland-verliert-immer-mehr-mint-nachwuchs-2611-215589.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/aenderungen-im-bildungssystem-gefordert-deutschland-verliert-immer-mehr-mint-nachwuchs-2611-215589.html</guid>
+      <description>In Deutschland fehlen nicht nur Akademiker im MINT-Bereich, sondern auch Meister und Techniker. (Mint, Wirtschaft)</description>
+      <pubDate>Tue, 24 Nov 2026 13:35:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Akkuschrauber mit 20 Bits zum Black Friday erstmals unter 50 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-akkuschrauber-mit-20-bits-zum-black-friday-erstmals-unter-50-euro-bei-amazon-2611-215586.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/us-wahlkampf-elon-musk-ist-nicht-mehr-maga-suechtig-2611-215398.html</guid>
       <description>Rund eine halbe Milliarde US-Dollar hat Elon Musk in den erfolglosen Wahlkampf der Republikaner gesteckt - und will nun nicht mehr MAGA sein. (Elon Musk, Politik)</description>
       <pubDate>Thu, 19 Nov 2026 09:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman: Ein Wendehals ohne Rücksicht auf Verluste</title>
-      <link>https://www.golem.de/news/sam-altman-ein-wendehals-ohne-ruecksicht-auf-verluste-2611-215344.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/sam-altman-ein-wendehals-ohne-ruecksicht-auf-verluste-2611-215344.html</guid>
-      <description>Der OpenAI-Chef fällt immer wieder mit Wortmeldungen auf - zu denen er aber selten steht. Im politischen Dickicht taucht er mal da, mal dort auf. Eine Kolumne von Claudia Zettel (Tech-Bro-Watchblog, Politik)</description>
-      <pubDate>Thu, 19 Nov 2026 09:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nur ein Klick nötig: XSS-Lücke in uBlock Origin ermöglicht Datenklau</title>
-      <link>https://www.golem.de/news/nur-ein-klick-noetig-xss-luecke-in-ublock-origin-ermoeglicht-datenklau-2611-215395.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/nur-ein-klick-noetig-xss-luecke-in-ublock-origin-ermoeglicht-datenklau-2611-215395.html</guid>
-      <description>Im beliebten Werbeblocker uBlock Origin klafft eine gefährliche Sicherheitslücke. Er wurde temporär aus dem Tor-Browser in Tails entfernt. (Sicherheitslücke, Firefox)</description>
-      <pubDate>Thu, 19 Nov 2026 09:01:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
