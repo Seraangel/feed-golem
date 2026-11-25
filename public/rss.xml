@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 11:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:26:41 GMT</lastBuildDate>
+    <item>
+      <title>Vertriebskooperation: Bahn verkauft Flixtrain-Tickets via DB-Navigator</title>
+      <link>https://www.golem.de/news/vertriebskooperation-bahn-verkauft-flixtrain-tickets-via-db-navigator-2611-215643.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/vertriebskooperation-bahn-verkauft-flixtrain-tickets-via-db-navigator-2611-215643.html</guid>
+      <description>Erstmals können Tickets für den Bahnkonkurrenten in der DB-App und auf bahn.de gebucht werden. Auch kombinierte Fahrten sind möglich. (Deutsche Bahn, Mobilität)</description>
+      <pubDate>Wed, 25 Nov 2026 12:22:04 GMT</pubDate>
+    </item>
     <item>
       <title>Rollenspiel: Gothic 3 kommt mit Community-Patch auf Konsolen</title>
       <link>https://www.golem.de/news/rollenspiel-gothic-3-kommt-mit-community-patch-auf-konsolen-2611-215640.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/stellenanzeigen-apple-baut-ki-agenten-der-apps-und-browser-selbst-bedient-2611-215449.html</guid>
       <description>Neue Stellenanzeigen liefern Hinweise, was Apple in Sachen autonome KI plant. Der Agent soll im Netz surfen, Code schreiben und Apps steuern. (Siri, Apple)</description>
       <pubDate>Fri, 20 Nov 2026 08:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mondforschung: Kartoffeln in Mondregolith gezüchtet</title>
-      <link>https://www.golem.de/news/mondforschung-kartoffeln-in-mondregolith-gezuechtet-2611-215448.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/mondforschung-kartoffeln-in-mondregolith-gezuechtet-2611-215448.html</guid>
-      <description>Simuliert wurden mehrere Generationen von Kartoffeln, die Mondstaub als Wachstumsgrundlage haben. Unter einer Bedingung sind sie essbar. (Mondlandung, Nasa)</description>
-      <pubDate>Fri, 20 Nov 2026 08:34:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
