@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Tue, 24 Nov 2026 18:45:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 06:30:44 GMT</lastBuildDate>
+    <item>
+      <title>Haushalt 2027: Grüne fordern Digitalabgabe und Geld für dezentrale Dienste</title>
+      <link>https://www.golem.de/news/haushalt-2027-gruene-fordern-digitalabgabe-und-geld-fuer-dezentrale-dienste-2611-215618.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/haushalt-2027-gruene-fordern-digitalabgabe-und-geld-fuer-dezentrale-dienste-2611-215618.html</guid>
+      <description>Der Bund darf 2027 mehr als fünf Milliarden Euro für Digitalisierung ausgeben. Die Opposition fordert mehr Widerstand gegen die US-IT-Konzerne. (Deutscher Bundestag, Datenschutz)</description>
+      <pubDate>Wed, 25 Nov 2026 06:15:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Microsoft 365 einrichten, verwalten und absichern</title>
+      <link>https://www.golem.de/news/anzeige-microsoft-365-einrichten-verwalten-und-absichern-2611-215613.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-365-einrichten-verwalten-und-absichern-2611-215613.html</guid>
+      <description>Copilot fasst Dokumente zusammen und Intune verwaltet Firmengeräte. Fünf Kurse zeigen, wie die IT Microsoft 365 betreibt. In der Black Week kosten sie 20 Prozent weniger. (Golem Karrierewelt, Server-Applikationen)</description>
+      <pubDate>Wed, 25 Nov 2026 06:15:09 GMT</pubDate>
+    </item>
     <item>
       <title>Leo: Starlink-Konkurrent der Bundeswehr kostet 15 Milliarden Euro</title>
       <link>https://www.golem.de/news/leo-starlink-konkurrent-der-bundeswehr-kostet-15-milliarden-euro-2611-215614.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/ohne-starshield-so-hat-der-angriff-auf-die-kertsch-bruecke-funktioniert-2611-215397.html</guid>
       <description>Mit einem cleveren Drohnen-Relaisnetzwerk hat die Ukraine die wichtigste Brücke zur Krim getroffen - und die Beschränkungen von Starshield elegant umgangen. (Ukrainekrieg, Mesh)</description>
       <pubDate>Thu, 19 Nov 2026 13:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stromsteuersenkung: Ein Nullsummenspiel für die Verbraucher</title>
-      <link>https://www.golem.de/news/stromsteuersenkung-ein-nullsummenspiel-fuer-die-verbraucher-2611-215411.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/stromsteuersenkung-ein-nullsummenspiel-fuer-die-verbraucher-2611-215411.html</guid>
-      <description>Die Koalition hat sich auf eine Senkung der Stromsteuer geeinigt. Das liegt jedoch vor allem an höheren Strompreisen und bringt E-Autofahrern wenig. Eine Analyse von Friedhelm Greis (Strom, Elektroauto)</description>
-      <pubDate>Thu, 19 Nov 2026 13:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auch in Deutschland: Hacker greifen Millionen Bezahlkartendaten von Terminals ab</title>
-      <link>https://www.golem.de/news/auch-in-deutschland-hacker-greifen-millionen-bezahlkartendaten-von-terminals-ab-2611-215408.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/auch-in-deutschland-hacker-greifen-millionen-bezahlkartendaten-von-terminals-ab-2611-215408.html</guid>
-      <description>Angreifer haben Windows-basierte Zahlungsterminals in mehreren Ländern mit Malware infiltriert und massenhaft Kartendaten ausgeleitet. (Datenleck, Virus)</description>
-      <pubDate>Thu, 19 Nov 2026 13:12:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
