@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 09:30:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 10:00:44 GMT</lastBuildDate>
+    <item>
+      <title>Spielebranche: CD Projekt Red und Sony tun sich für The Witcher 4 zusammen</title>
+      <link>https://www.golem.de/news/spielebranche-cd-projekt-red-und-sony-tun-sich-fuer-the-witcher-4-zusammen-2611-215634.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/spielebranche-cd-projekt-red-und-sony-tun-sich-fuer-the-witcher-4-zusammen-2611-215634.html</guid>
+      <description>Sony unterstützt das polnische Studio bei der Werbung für das Rollenspiel. Eine ähnliche Zusammenarbeit gab es bereits bei GTA 6. (The Witcher 4, Rollenspiel)</description>
+      <pubDate>Wed, 25 Nov 2026 09:48:06 GMT</pubDate>
+    </item>
     <item>
       <title>US-Geheimdienst: Cyberangriff trifft Analysesystem der CIA</title>
       <link>https://www.golem.de/news/us-geheimdienst-cyberangriff-trifft-analysesystem-der-cia-2611-215631.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-microsoft-entra-id-identitaeten-und-zugriffe-sicher-verwalten-2611-215382.html</guid>
       <description>Microsoft Entra ID verbindet Identitätsverwaltung und Zugriffsschutz. Ein Workshop vermittelt die Konfiguration hybrider Umgebungen sowie Strategien zur Absicherung. (Golem Karrierewelt, Identitätsmanagement)</description>
       <pubDate>Fri, 20 Nov 2026 06:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Magnetische Powerbank mit Qi2 zum Jahresbestpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-magnetische-powerbank-mit-qi2-zum-jahresbestpreis-bei-amazon-2611-215438.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-magnetische-powerbank-mit-qi2-zum-jahresbestpreis-bei-amazon-2611-215438.html</guid>
-      <description>Eine magnetische Powerbank von Anker mit Qi2, 15 W und 10.000 mAh ist zum Black Friday bei Amazon so günstig wie noch nie in diesem Jahr. (Technik/Hardware, Black Friday)</description>
-      <pubDate>Thu, 19 Nov 2026 17:55:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
