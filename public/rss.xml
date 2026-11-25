@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 17:26:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:31:14 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Akku-Handstaubsauger von Einhell zum Black Friday nur rund 55 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-akku-handstaubsauger-von-einhell-zum-black-friday-nur-rund-55-euro-bei-amazon-2611-215658.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-akku-handstaubsauger-von-einhell-zum-black-friday-nur-rund-55-euro-bei-amazon-2611-215658.html</guid>
+      <description>Power X-Change-System, drei Düsen und zwei Saugrohre: Der Einhell Akku-Handstaubsauger ist bei Amazon wieder günstiger. (Technik/Hardware, Haushaltsgeräte)</description>
+      <pubDate>Wed, 25 Nov 2026 17:30:10 GMT</pubDate>
+    </item>
     <item>
       <title>Wirtschaftskrieg: US-Gericht muss Huawei in wichtigsten Anklagepunkten freisprechen</title>
       <link>https://www.golem.de/news/wirtschaftskrieg-us-gericht-muss-huawei-in-wichtigsten-anklagepunkten-freisprechen-2611-215662.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/schadcode-attacken-moeglich-ruby2sshell-luecke-gefaehrdet-zahlreiche-anwendungen-2611-215467.html</guid>
       <description>Eine Sicherheitslücke lässt Angreifer Schadcode über Ruby-basierte Apps einschleusen. Schon 21 ß-Zeichen reichen dafür aus. (Sicherheitslücke, Ruby)</description>
       <pubDate>Fri, 20 Nov 2026 12:17:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angriffe seit September: Update für Zero-Day-Lücke in VMware vCenter verfügbar</title>
-      <link>https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html</guid>
-      <description>Hacker können die Authentifizierung für VMware vCenter umgehen und erhalten Systemzugriff. (Security, Virtualisierung)</description>
-      <pubDate>Fri, 20 Nov 2026 12:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
