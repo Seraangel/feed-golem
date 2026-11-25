@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 12:26:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 12:36:10 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Microsoft 365: Wie Admins typische Sicherheitslücken verhindern</title>
+      <link>https://www.golem.de/news/microsoft-365-wie-admins-typische-sicherheitsluecken-verhindern-2611-215590.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/microsoft-365-wie-admins-typische-sicherheitsluecken-verhindern-2611-215590.html</guid>
+      <description>Ausgehebelte MFA, verwaiste Gastkonten und alte Freigabelinks: Wir zeigen, wo bei Microsoft 365 Risiken bestehen und wie diese sich vermindern lassen. Ein Ratgebertext von Aaron Siller (Microsoft 365, API)</description>
+      <pubDate>Wed, 25 Nov 2026 12:30:01 GMT</pubDate>
+    </item>
     <item>
       <title>Vertriebskooperation: Bahn verkauft Flixtrain-Tickets via DB-Navigator</title>
       <link>https://www.golem.de/news/vertriebskooperation-bahn-verkauft-flixtrain-tickets-via-db-navigator-2611-215643.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/e-mail-dienst-bending-spoons-kauft-mailchimp-2611-215450.html</guid>
       <description>Der vorherige Eigentümer erhält nur noch ein Drittel des ursprünglichen Kaufpreises für Mailchimp von Bending Spoons. (Unternehmen, Wirtschaft)</description>
       <pubDate>Fri, 20 Nov 2026 08:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stellenanzeigen: Apple baut KI-Agenten, der Apps und Browser selbst bedient</title>
-      <link>https://www.golem.de/news/stellenanzeigen-apple-baut-ki-agenten-der-apps-und-browser-selbst-bedient-2611-215449.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/stellenanzeigen-apple-baut-ki-agenten-der-apps-und-browser-selbst-bedient-2611-215449.html</guid>
-      <description>Neue Stellenanzeigen liefern Hinweise, was Apple in Sachen autonome KI plant. Der Agent soll im Netz surfen, Code schreiben und Apps steuern. (Siri, Apple)</description>
-      <pubDate>Fri, 20 Nov 2026 08:54:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
