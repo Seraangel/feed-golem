@@ -11,12 +11,40 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 15:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:26:18 GMT</lastBuildDate>
     <item>
-      <title>Elektroautos: "Geisterfabrik" in China kostet Audi Hunderte Millionen</title>
+      <title>Wirtschaftskrieg: US-Gericht muss Huawei in wichtigsten Anklagepunkten freisprechen</title>
+      <link>https://www.golem.de/news/wirtschaftskrieg-us-gericht-muss-huawei-in-wichtigsten-anklagepunkten-freisprechen-2611-215662.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/wirtschaftskrieg-us-gericht-muss-huawei-in-wichtigsten-anklagepunkten-freisprechen-2611-215662.html</guid>
+      <description>Ein US-Geschworenengericht hat Huawei schuldig gesprochen. Die wichtigsten Anklagepunkte wurden aber fallengelassen. Eine Analyse von Achim Sawall (Huawei, Wirtschaft)</description>
+      <pubDate>Wed, 25 Nov 2026 17:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>(g+) Security: Die iranische Hackereinheit hinter den Kühlanlagen-Angriffen</title>
+      <link>https://www.golem.de/news/security-die-iranische-hackereinheit-hinter-den-kuehlanlagen-angriffen-2611-215660.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/security-die-iranische-hackereinheit-hinter-den-kuehlanlagen-angriffen-2611-215660.html</guid>
+      <description>Die FT rekonstruiert mit Geheimdiensterkenntnissen und Expertenaussagen, wer mutmaßlich hinter den Angriffen auf Supermarkt-Kühlanlagen steckt. Von Tom Wilson (Security, Stuxnet)</description>
+      <pubDate>Wed, 25 Nov 2026 17:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vertragskündigung: Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abo</title>
+      <link>https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/vertragskuendigung-verbraucherzentrale-verklagt-openai-wegen-chatgpt-abo-2611-215664.html</guid>
+      <description>Nach Ansicht der Verbraucherzentrale Brandenburg sind die Hürden bei der Kündigung eines kostenpflichtigen ChatGPT-Abos zu hoch. (ChatGPT, KI)</description>
+      <pubDate>Wed, 25 Nov 2026 16:58:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anzeige: Nachtsichtgerät mit 4K zum Black Friday reduziert bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-nachtsichtgeraet-mit-4k-zum-black-friday-reduziert-bei-amazon-2611-215661.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-nachtsichtgeraet-mit-4k-zum-black-friday-reduziert-bei-amazon-2611-215661.html</guid>
+      <description>Amazon hat ein Nachtsichtgerät im Angebot, das mit 4K-Auflösung und einstellbarem Infrarotlicht detaillierte Bilder im Dunkeln liefert. (Technik/Hardware, Black Friday)</description>
+      <pubDate>Wed, 25 Nov 2026 16:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Elektroautos: Audis "Geisterfabrik" in China steht fast immer still</title>
       <link>https://www.golem.de/news/elektroautos-geisterfabrik-in-china-kostet-audi-hunderte-millionen-2611-215657.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/elektroautos-geisterfabrik-in-china-kostet-audi-hunderte-millionen-2611-215657.html</guid>
-      <description>Audis neue Fabrik für Elektroautos in China ist kaum ausgelastet. E-Tron-Modelle wie der Q6 oder A6 verkaufen sich sehr schlecht. (Audi, Technologie)</description>
+      <description>Audis neue Fabrik für Elektroautos in China läuft nur an wenigen Tagen im Monat. E-Tron-Modelle wie der Q6 oder A6 verkaufen sich sehr schlecht. (Audi, Technologie)</description>
       <pubDate>Wed, 25 Nov 2026 15:30:09 GMT</pubDate>
     </item>
     <item>
@@ -27,7 +55,7 @@
       <pubDate>Wed, 25 Nov 2026 15:10:08 GMT</pubDate>
     </item>
     <item>
-      <title>MVNO Simsalasim: 10-Euro-Datenflatrate Simsalasim weiter ohne festen Starttermin</title>
+      <title>MVNO Simsalasim: Internationale 10-Euro-Datenflatrate Simsalasim weiter ohne festen Starttermin</title>
       <link>https://www.golem.de/news/mvno-simsalasim-10-euro-datenflatrate-simsalasim-weiter-ohne-festen-starttermin-2611-215652.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/mvno-simsalasim-10-euro-datenflatrate-simsalasim-weiter-ohne-festen-starttermin-2611-215652.html</guid>
       <description>Ein konkreter Termin für den Start des neuen Mobilfunkanbieters Simsalasim steht aus. Aber es gibt viele Voranmeldungen. (Simsalasim, Mobilfunk)</description>
@@ -104,10 +132,10 @@
       <pubDate>Wed, 25 Nov 2026 12:30:01 GMT</pubDate>
     </item>
     <item>
-      <title>Vertriebskooperation: Bahn verkauft Flixtrain-Tickets via DB-Navigator</title>
+      <title>(g+) Vertriebskooperation: Bahn verkauft Flixtrain-Tickets via DB-Navigator</title>
       <link>https://www.golem.de/news/vertriebskooperation-bahn-verkauft-flixtrain-tickets-via-db-navigator-2611-215643.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/vertriebskooperation-bahn-verkauft-flixtrain-tickets-via-db-navigator-2611-215643.html</guid>
-      <description>Erstmals können Tickets für den Bahnkonkurrenten in der DB-App und auf bahn.de gebucht werden. Auch kombinierte Fahrten sind möglich. (Deutsche Bahn, Mobilität)</description>
+      <description>Erstmals können Tickets für den Bahnkonkurrenten in der DB-App und auf bahn.de gebucht werden. Auch kombinierte Fahrten sind möglich. (Deutsche Bahn, Golem Plus)</description>
       <pubDate>Wed, 25 Nov 2026 12:22:04 GMT</pubDate>
     </item>
     <item>
@@ -1383,34 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/angriffe-seit-september-update-fuer-zero-day-luecke-in-vmware-vcenter-verfuegbar-2611-215464.html</guid>
       <description>Hacker können die Authentifizierung für VMware vCenter umgehen und erhalten Systemzugriff. (Security, Virtualisierung)</description>
       <pubDate>Fri, 20 Nov 2026 12:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spielebranche: Xbox Series X und S sollen durch Linux-Technik schneller werden</title>
-      <link>https://www.golem.de/news/spielebranche-xbox-series-x-und-s-sollen-durch-linux-technik-schneller-werden-2611-215458.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/spielebranche-xbox-series-x-und-s-sollen-durch-linux-technik-schneller-werden-2611-215458.html</guid>
-      <description>Microsoft testet einen von Valve mitentwickelten Compiler, der bis zu 16 Prozent mehr Leistung ermöglichen soll. (Xbox Series X, Microsoft)</description>
-      <pubDate>Fri, 20 Nov 2026 11:45:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Von AMD und Nvidia: US-Handelsministerium genehmigte Chipverkäufe an China</title>
-      <link>https://www.golem.de/news/von-amd-und-nvidia-us-handelsministerium-genehmigte-chipverkaeufe-an-china-2611-215462.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/von-amd-und-nvidia-us-handelsministerium-genehmigte-chipverkaeufe-an-china-2611-215462.html</guid>
-      <description>Das US-Handelsministerium hat auch Lieferungen genehmigt, die an Scheinfirmen oder Großkonzerne wie Alibaba und Tencent gehen sollten. (KI, AMD)</description>
-      <pubDate>Fri, 20 Nov 2026 11:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Tablet von Amazon mit 11'', 2,5K und Alexa+ am Black Friday reduziert</title>
-      <link>https://www.golem.de/news/anzeige-tablet-von-amazon-mit-11-2-5k-und-alexa-am-black-friday-reduziert-2611-215466.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-tablet-von-amazon-mit-11-2-5k-und-alexa-am-black-friday-reduziert-2611-215466.html</guid>
-      <description>Das neue Amazon Alexa Tablet mit 11'' großem 2,5K-Display, 8 GByte RAM und Alexa+ gibt es am Black Friday zum Sparpreis. (Tablet, Amazon)</description>
-      <pubDate>Fri, 20 Nov 2026 11:20:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>EV1: Kias kompaktes Elektroauto soll weniger als 22.000 Euro kosten</title>
-      <link>https://www.golem.de/news/ev1-kias-kompaktes-elektroauto-soll-weniger-als-22-000-euro-kosten-2611-215461.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ev1-kias-kompaktes-elektroauto-soll-weniger-als-22-000-euro-kosten-2611-215461.html</guid>
-      <description>Kias Elektro-Lineup beginnt beim EV2 - ein kleineres Auto soll 2027 fertig sein. Dabei dürfte es sich um den EV1 handeln. (Kia, Elektroauto)</description>
-      <pubDate>Fri, 20 Nov 2026 11:15:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
