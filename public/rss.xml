@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 13:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 13:41:11 GMT</lastBuildDate>
+    <item>
+      <title>Actionspiel: Take-Two bestätigt Xbox-Leak von GTA 6</title>
+      <link>https://www.golem.de/news/actionspiel-take-two-bestaetigt-xbox-leak-von-gta-6-2611-215647.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/actionspiel-take-two-bestaetigt-xbox-leak-von-gta-6-2611-215647.html</guid>
+      <description>Mehr als 3.000 Repositorys eines inoffiziellen PC-Ports von GTA 6 hat Github auf Betreiben von Take-Two gesperrt. (GTA 6, Take-Two)</description>
+      <pubDate>Wed, 25 Nov 2026 13:39:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Küchengeräte von Ninja im günstigen Black Friday Deal bei Back Market</title>
       <link>https://www.golem.de/news/anzeige-kuechengeraete-von-ninja-im-guenstigen-black-friday-deal-bei-back-market-2611-215642.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/finanzierungsrunde-investoren-wollen-spacex-gpus-nicht-im-all-sehen-2611-215454.html</guid>
       <description>Mit neuem Geld will SpaceX Nvidia-GPUs kaufen. Die dienen als Sicherheit, weshalb Investoren wollen, dass sie die Erde nicht verlassen. (SpaceX, KI)</description>
       <pubDate>Fri, 20 Nov 2026 09:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android: Google macht App-Verifizierung ab Januar 2027 weltweit zur Pflicht</title>
-      <link>https://www.golem.de/news/android-google-macht-app-verifizierung-ab-januar-2027-weltweit-zur-pflicht-2611-215455.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/android-google-macht-app-verifizierung-ab-januar-2027-weltweit-zur-pflicht-2611-215455.html</guid>
-      <description>Die Registrierung von Apps macht Android laut Google sicherer - eine Option für das Sideloading bleibt aber. (Android, Google)</description>
-      <pubDate>Fri, 20 Nov 2026 09:35:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
