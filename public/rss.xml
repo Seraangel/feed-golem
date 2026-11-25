@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 09:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:30:45 GMT</lastBuildDate>
+    <item>
+      <title>US-Geheimdienst: Cyberangriff trifft Analysesystem der CIA</title>
+      <link>https://www.golem.de/news/us-geheimdienst-cyberangriff-trifft-analysesystem-der-cia-2611-215631.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/us-geheimdienst-cyberangriff-trifft-analysesystem-der-cia-2611-215631.html</guid>
+      <description>Berichten zufolge haben Angreifer Zugriff auf ein Analysesystem der CIA erlangt. Die Daten könnten Prioritäten von US-Geheimdiensten offenlegen. (Geheimdienste, KI)</description>
+      <pubDate>Wed, 25 Nov 2026 09:27:03 GMT</pubDate>
+    </item>
     <item>
       <title>Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar</title>
       <link>https://www.golem.de/news/probefahrt-mit-dem-slate-truck-der-billig-pick-up-fuer-25-000-us-dollar-2611-215536.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-magnetische-powerbank-mit-qi2-zum-jahresbestpreis-bei-amazon-2611-215438.html</guid>
       <description>Eine magnetische Powerbank von Anker mit Qi2, 15 W und 10.000 mAh ist zum Black Friday bei Amazon so günstig wie noch nie in diesem Jahr. (Technik/Hardware, Black Friday)</description>
       <pubDate>Thu, 19 Nov 2026 17:55:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Breko-Jahrestagung: Telekom-Konkurrenten drängen auf erste eigene Kupferabschaltung</title>
-      <link>https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html</guid>
-      <description>Bislang hat nur die Telekom selbst alte DSL-Netze für ihre Glasfaser abschalten dürfen. (Breko, Telekom)</description>
-      <pubDate>Thu, 19 Nov 2026 17:49:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
