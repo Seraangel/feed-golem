@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 09:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 09:25:43 GMT</lastBuildDate>
+    <item>
+      <title>Probefahrt mit dem Slate Truck: Der Billig-Pick-up für 25.000 US-Dollar</title>
+      <link>https://www.golem.de/news/probefahrt-mit-dem-slate-truck-der-billig-pick-up-fuer-25-000-us-dollar-2611-215536.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/probefahrt-mit-dem-slate-truck-der-billig-pick-up-fuer-25-000-us-dollar-2611-215536.html</guid>
+      <description>Ein Elektro-Pick-up für nur 25.000 Dollar, fast ohne Komfort: Das von Jeff Bezos mitfinanzierte Start-up Slate will mit einem Billigmodell punkten. Golem ist den Truck gefahren. Ein Bericht von Stefan Grundhoff (Elektroauto, Auto)</description>
+      <pubDate>Wed, 25 Nov 2026 09:15:08 GMT</pubDate>
+    </item>
     <item>
       <title>Letzter Durchschlag: Bohrungen für Brennerbasistunnel komplettiert</title>
       <link>https://www.golem.de/news/letzter-durchschlag-bohrungen-fuer-brennerbasistunnel-komplettiert-2611-215629.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/breko-jahrestagung-telekom-konkurrenten-draengen-auf-erste-eigene-kupferabschaltung-2611-215437.html</guid>
       <description>Bislang hat nur die Telekom selbst alte DSL-Netze für ihre Glasfaser abschalten dürfen. (Breko, Telekom)</description>
       <pubDate>Thu, 19 Nov 2026 17:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: IT-Sicherheitsvorfälle: Die ersten Maßnahmen richtig wählen</title>
-      <link>https://www.golem.de/news/anzeige-it-sicherheitsvorfaelle-die-ersten-massnahmen-richtig-waehlen-2611-215381.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-sicherheitsvorfaelle-die-ersten-massnahmen-richtig-waehlen-2611-215381.html</guid>
-      <description>Bei Cyberangriffen müssen IT-Teams schnell und strukturiert reagieren. Ein Workshop zur Incident Response vermittelt erste Maßnahmen, IT-Forensik und Beweissicherung. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Thu, 19 Nov 2026 17:45:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
