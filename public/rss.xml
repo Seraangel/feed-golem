@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 11:20:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 11:40:41 GMT</lastBuildDate>
+    <item>
+      <title>Rollenspiel: Gothic 3 kommt mit Community-Patch auf Konsolen</title>
+      <link>https://www.golem.de/news/rollenspiel-gothic-3-kommt-mit-community-patch-auf-konsolen-2611-215640.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/rollenspiel-gothic-3-kommt-mit-community-patch-auf-konsolen-2611-215640.html</guid>
+      <description>20 Jahre nach der PC-Veröffentlichung erscheint Gothic 3 für PS5 und Xbox Series X/S. Die Konsolenfassung enthält den Community-Patch 1.75. (Gothic, Rollenspiel)</description>
+      <pubDate>Wed, 25 Nov 2026 11:30:01 GMT</pubDate>
+    </item>
     <item>
       <title>Musikstreaming: Tidal verbannt vollständig KI-generierte Musiktitel</title>
       <link>https://www.golem.de/news/musikstreaming-tidal-verbannt-vollstaendig-ki-generierte-musiktitel-2611-215635.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mondforschung-kartoffeln-in-mondregolith-gezuechtet-2611-215448.html</guid>
       <description>Simuliert wurden mehrere Generationen von Kartoffeln, die Mondstaub als Wachstumsgrundlage haben. Unter einer Bedingung sind sie essbar. (Mondlandung, Nasa)</description>
       <pubDate>Fri, 20 Nov 2026 08:34:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Synology warnt: Kritische NAS-Lücken ermöglichen Datenklau und mehr</title>
-      <link>https://www.golem.de/news/synology-warnt-kritische-nas-luecken-ermoeglichen-datenklau-und-mehr-2611-215445.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/synology-warnt-kritische-nas-luecken-ermoeglichen-datenklau-und-mehr-2611-215445.html</guid>
-      <description>Im NAS-Betriebssystem von Synology klaffen zwei kritische Sicherheitslücken. Angreifer können etwa Schadcode einschleusen und Daten abgreifen. (Sicherheitslücke, Storage)</description>
-      <pubDate>Fri, 20 Nov 2026 08:26:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
