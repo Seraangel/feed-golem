@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 08:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:26:09 GMT</lastBuildDate>
+    <item>
+      <title>Medizintechnik: Neuralinks Hirnchip kommt in die Zulassungsstudie</title>
+      <link>https://www.golem.de/news/medizintechnik-neuralinks-hirnchip-kommt-in-die-zulassungsstudie-2611-215676.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/medizintechnik-neuralinks-hirnchip-kommt-in-die-zulassungsstudie-2611-215676.html</guid>
+      <description>Neuralink darf sein Hirnimplantat für eine Zulassung testen. Es soll Menschen mit ALS helfen, digitale Geräte zu steuern. (Neuralink, Elon Musk)</description>
+      <pubDate>Thu, 26 Nov 2026 08:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>Musso EV im Test: Das Elektroauto für Extrovertierte</title>
       <link>https://www.golem.de/news/musso-ev-im-test-das-elektroauto-fuer-extrovertierte-2611-215645.html</link>
@@ -83,10 +90,10 @@
       <pubDate>Wed, 25 Nov 2026 17:45:07 GMT</pubDate>
     </item>
     <item>
-      <title>Anzeige: Amazons meistegekaufter Hi-Fi-Verstärker kostet vorübergehend unter 100 Euro</title>
+      <title>Anzeige: Amazons meistgekaufter Hi-Fi-Verstärker kostet vorübergehend unter 100 Euro</title>
       <link>https://www.golem.de/news/anzeige-amazons-meistegekaufter-hi-fi-verstaerker-kostet-voruebergehend-unter-100-euro-2611-215665.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-amazons-meistegekaufter-hi-fi-verstaerker-kostet-voruebergehend-unter-100-euro-2611-215665.html</guid>
-      <description>Der Fosi Audio BT20A Pro macht passive Lautsprecher fit für Musik vom Smartphone. Nun kostet der kompakte Stereo-Verstärker weniger als 100 Euro. (Technik/Hardware)</description>
+      <description>Der Fosi Audio BT20A Pro macht passive Lautsprecher fit für Musik vom Smartphone. Nun kostet der kompakte Stereo-Verstärker weniger als 100 Euro. (Technik/Hardware, Amazon)</description>
       <pubDate>Wed, 25 Nov 2026 17:39:07 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ankers-nano-usb-c-hub-mit-acht-anschluessen-fuer-nur-28-47-euro-auf-amazon-2611-215479.html</guid>
       <description>Ein guter USB-Hub wertet ein Notebook erheblich auf. Ankers kompakten USB-C-Hub mit acht Anschlüssen gibt es zum Black Friday zum Amazon-Tiefstpreis. (Black Friday, Amazon)</description>
       <pubDate>Fri, 20 Nov 2026 14:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Muse: Metas KI-Agent liest Benachrichtigungen und verwechselt Nutzer</title>
-      <link>https://www.golem.de/news/muse-metas-ki-agent-liest-benachrichtigungen-und-verwechselt-nutzer-2611-215480.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/muse-metas-ki-agent-liest-benachrichtigungen-und-verwechselt-nutzer-2611-215480.html</guid>
-      <description>Metas KI-Agent Muse soll Unterhaltungen verschiedener Nutzer vermischt haben. Das Unternehmen spricht von Halluzinationen und Einzelfällen. (Meta, KI)</description>
-      <pubDate>Fri, 20 Nov 2026 14:33:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
