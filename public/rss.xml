@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 10:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:31:12 GMT</lastBuildDate>
+    <item>
+      <title>N hoch 9/4: OpenAI will Untergrenze für Matrixmultiplikation gefunden haben</title>
+      <link>https://www.golem.de/news/n-hoch-9-4-openai-will-untergrenze-fuer-matrixmultiplikation-gefunden-haben-2611-215683.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/n-hoch-9-4-openai-will-untergrenze-fuer-matrixmultiplikation-gefunden-haben-2611-215683.html</guid>
+      <description>Wie viele Multiplikationen braucht eine Matrixmultiplikation? OpenAIs KI soll die runde, praktisch nur für Mathematiker relevante Antwort gefunden haben. (Innovation &amp; Forschung, KI)</description>
+      <pubDate>Thu, 26 Nov 2026 10:27:04 GMT</pubDate>
+    </item>
     <item>
       <title>Auch in Deutschland: 22 Organisationen über Check-Point-Server gehackt</title>
       <link>https://www.golem.de/news/auch-in-deutschland-22-organisationen-ueber-check-point-server-gehackt-2611-215682.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bluetooth-luecke-angreifer-konnten-vws-abhoeren-orten-und-manipulieren-2611-215483.html</guid>
       <description>Rund 16 Monate brauchte VW für ein Update gegen eine Bluetooth-Schwachstelle. Mehrere Hunderttausend Fahrzeuge sollen betroffen sein. (Volkswagen ID., Bluetooth)</description>
       <pubDate>Fri, 20 Nov 2026 16:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>KBA: Neue Webseite bietet interaktiven Überblick zur Elektromobilität</title>
-      <link>https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html</guid>
-      <description>Das KBA will Interessenten einen Einstieg in Daten und Analysen zur Elektromobilität anbieten. Dafür gibt es eine neue Webseite. (Elektromobilität, Elektroauto)</description>
-      <pubDate>Fri, 20 Nov 2026 16:11:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
