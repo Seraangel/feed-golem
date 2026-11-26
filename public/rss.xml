@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 07:46:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:51:07 GMT</lastBuildDate>
+    <item>
+      <title>Messenger: Whatsapp verschickt Nachrichten bald zur Wunschzeit</title>
+      <link>https://www.golem.de/news/messenger-whatsapp-verschickt-nachrichten-bald-zur-wunschzeit-2611-215674.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/messenger-whatsapp-verschickt-nachrichten-bald-zur-wunschzeit-2611-215674.html</guid>
+      <description>Whatsapp lässt Nachrichten bald vorplanen. Sie gehen sogar bei leerem Akku zum gewünschten Zeitpunkt raus. (Whatsapp, Instant Messenger)</description>
+      <pubDate>Thu, 26 Nov 2026 07:50:05 GMT</pubDate>
+    </item>
     <item>
       <title>Palo Alto Networks: Firewall-Hersteller patcht Root-Lücke erst nach Monaten</title>
       <link>https://www.golem.de/news/palo-alto-networks-firewall-hersteller-patcht-root-luecke-erst-nach-monaten-2611-215673.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/browseragent-fuer-chrome-google-baut-tausende-fake-webseiten-fuer-sicherheitstests-2611-215476.html</guid>
       <description>In der abgeschotteten Testumgebung wird Googles Browseragent in Chrome gezielt mit manipulierten Inhalten konfrontiert. (KI, Google)</description>
       <pubDate>Fri, 20 Nov 2026 13:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Mobiler Router mit Wi-Fi 7 am Black Friday zum Tiefpreis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-mobiler-router-mit-wi-fi-7-am-black-friday-zum-tiefpreis-bei-amazon-2611-215477.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobiler-router-mit-wi-fi-7-am-black-friday-zum-tiefpreis-bei-amazon-2611-215477.html</guid>
-      <description>Der mobile WLAN‑Router GL.iNet MUDI 7 mit Wi-Fi 7, 5G-Mobilfunk, VPN und eSIM ist in der Black Friday Woche bei Amazon reduziert. (Router, Black Friday)</description>
-      <pubDate>Fri, 20 Nov 2026 13:41:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
