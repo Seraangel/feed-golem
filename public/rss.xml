@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 06:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:31:06 GMT</lastBuildDate>
+    <item>
+      <title>Eine Million Satelliten: SpaceX darf Rechenzentren ins All bringen</title>
+      <link>https://www.golem.de/news/eine-million-satelliten-spacex-darf-rechenzentren-ins-all-bringen-2611-215669.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/eine-million-satelliten-spacex-darf-rechenzentren-ins-all-bringen-2611-215669.html</guid>
+      <description>Die US-Behörde FCC hat den Plan von SpaceX genehmigt, bis zu einer Million Satelliten für künstliche Intelligenz in die Umlaufbahn zu schicken. (SpaceX, KI)</description>
+      <pubDate>Thu, 26 Nov 2026 06:26:10 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Mit KI Apps bauen und Aufgaben im Büro automatisieren</title>
       <link>https://www.golem.de/news/anzeige-mit-ki-apps-bauen-und-aufgaben-im-buero-automatisieren-2611-215667.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/speicherkrise-valve-geht-die-steam-machine-mit-2-tbyte-aus-2611-215472.html</guid>
       <description>Wegen knapper Speicherbauteile schließt Valve die Warteliste für das größere Modell. Wer mit 512 GByte auskommt, kann direkt bestellen. (Steam Machine, Steam)</description>
       <pubDate>Fri, 20 Nov 2026 13:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marktstart verschoben?: Zen6 für Desktops wohl erst nach Computex 2027</title>
-      <link>https://www.golem.de/news/marktstart-verschoben-zen6-fuer-desktops-wohl-erst-nach-computex-2027-2611-215469.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/marktstart-verschoben-zen6-fuer-desktops-wohl-erst-nach-computex-2027-2611-215469.html</guid>
-      <description>Auch bei AMDs Zen6 wird es wohl zuerst wieder Notebook-CPUs geben. Über die Gründe gibt es widersprüchliche Informationen. (Prozessor, AMD)</description>
-      <pubDate>Fri, 20 Nov 2026 12:58:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
