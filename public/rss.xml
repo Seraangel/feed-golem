@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 09:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:06:09 GMT</lastBuildDate>
+    <item>
+      <title>Bug in Office 365: Word zeigt nach Start nur leeres Pop-up an</title>
+      <link>https://www.golem.de/news/bug-in-office-365-word-zeigt-nach-start-nur-leeres-pop-up-an-2611-215685.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bug-in-office-365-word-zeigt-nach-start-nur-leeres-pop-up-an-2611-215685.html</guid>
+      <description>Die Office-Community ist verwirrt über das merkwürdige Fenster. Microsoft hat es als einen Bug identifiziert. (Microsoft 365, Microsoft)</description>
+      <pubDate>Thu, 26 Nov 2026 10:01:07 GMT</pubDate>
+    </item>
     <item>
       <title>Destillation: Tim Sweeney bezeichnet Claude als Müll</title>
       <link>https://www.golem.de/news/destillation-tim-sweeney-bezeichnet-claude-als-muell-2611-215681.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobiler-fotodrucker-von-canon-zum-black-friday-reduziert-bei-amazon-2611-215488.html</guid>
       <description>Den mobilen Fotodrucker Canon Selphy CP1500 für hochwertige Fotoausdrucke unterwegs gibt es zum günstigen Black Friday Preis bei Amazon. (Canon, Drucker)</description>
       <pubDate>Fri, 20 Nov 2026 16:05:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autonomes Fahren: Mercedes-Benz bekommt Zulassung für Selbstfahrassistenten</title>
-      <link>https://www.golem.de/news/autonomes-fahren-mercedes-benz-bekommt-zulassung-fuer-selbstfahrassistenten-2611-215487.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/autonomes-fahren-mercedes-benz-bekommt-zulassung-fuer-selbstfahrassistenten-2611-215487.html</guid>
-      <description>Der neue Punkt-zu-Punkt-Fahrassistent von Mercedes-Benz hat die Zulassung des KBA erhalten. (Mercedes Benz, Elektroauto)</description>
-      <pubDate>Fri, 20 Nov 2026 15:54:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
