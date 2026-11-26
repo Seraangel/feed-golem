@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 07:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 08:01:06 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Nr. 1 bei Amazon: Multitool-Stift mit LED für Prime-Kunden jetzt unter 13 Euro</title>
+      <link>https://www.golem.de/news/anzeige-nr-1-bei-amazon-multitool-stift-mit-led-fuer-prime-kunden-jetzt-unter-13-euro-2611-215675.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-nr-1-bei-amazon-multitool-stift-mit-led-fuer-prime-kunden-jetzt-unter-13-euro-2611-215675.html</guid>
+      <description>Der BIIB-Multitool-Kugelschreiber vereint LED-Lampe, Glasbrecher und Flaschenöffner und ist für Prime-Mitglieder gerade besonders günstig. (Technik/Hardware, LED)</description>
+      <pubDate>Thu, 26 Nov 2026 07:57:07 GMT</pubDate>
+    </item>
     <item>
       <title>Messenger: Whatsapp verschickt Nachrichten bald zur Wunschzeit</title>
       <link>https://www.golem.de/news/messenger-whatsapp-verschickt-nachrichten-bald-zur-wunschzeit-2611-215674.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/breko-jahrestagung-dsl-mangels-ersatzteilen-bald-erheblich-teurer-2611-215478.html</guid>
       <description>Weil die Ersatzteile ausgehen, hält Breko-Präsident Westfal das Ende von DSL für unvermeidbar und warnt vor steigenden Preisen für Verweigerer. (Breko, DSL)</description>
       <pubDate>Fri, 20 Nov 2026 14:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Browseragent für Chrome: Google baut Tausende Fake-Webseiten für Sicherheitstests</title>
-      <link>https://www.golem.de/news/browseragent-fuer-chrome-google-baut-tausende-fake-webseiten-fuer-sicherheitstests-2611-215476.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/browseragent-fuer-chrome-google-baut-tausende-fake-webseiten-fuer-sicherheitstests-2611-215476.html</guid>
-      <description>In der abgeschotteten Testumgebung wird Googles Browseragent in Chrome gezielt mit manipulierten Inhalten konfrontiert. (KI, Google)</description>
-      <pubDate>Fri, 20 Nov 2026 13:54:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
