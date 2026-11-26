@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 10:06:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:16:09 GMT</lastBuildDate>
+    <item>
+      <title>Auch in Deutschland: 22 Organisationen über Check-Point-Server gehackt</title>
+      <link>https://www.golem.de/news/auch-in-deutschland-22-organisationen-ueber-check-point-server-gehackt-2611-215682.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/auch-in-deutschland-22-organisationen-ueber-check-point-server-gehackt-2611-215682.html</guid>
+      <description>Angreifer haben es auf Check-Point-Server abgesehen. Durch teils seit Monaten bekannte Sicherheitslücken konnten sie in mehrere IT-Umgebungen eindringen. (Sicherheitslücke, KI)</description>
+      <pubDate>Thu, 26 Nov 2026 10:14:03 GMT</pubDate>
+    </item>
     <item>
       <title>Bug in Office 365: Word zeigt nach Start nur leeres Pop-up an</title>
       <link>https://www.golem.de/news/bug-in-office-365-word-zeigt-nach-start-nur-leeres-pop-up-an-2611-215685.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kba-neue-webseite-bietet-interaktiven-ueberblick-zur-elektromobilitaet-2611-215490.html</guid>
       <description>Das KBA will Interessenten einen Einstieg in Daten und Analysen zur Elektromobilität anbieten. Dafür gibt es eine neue Webseite. (Elektromobilität, Elektroauto)</description>
       <pubDate>Fri, 20 Nov 2026 16:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Mobiler Fotodrucker von Canon zum Black Friday reduziert bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-mobiler-fotodrucker-von-canon-zum-black-friday-reduziert-bei-amazon-2611-215488.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobiler-fotodrucker-von-canon-zum-black-friday-reduziert-bei-amazon-2611-215488.html</guid>
-      <description>Den mobilen Fotodrucker Canon Selphy CP1500 für hochwertige Fotoausdrucke unterwegs gibt es zum günstigen Black Friday Preis bei Amazon. (Canon, Drucker)</description>
-      <pubDate>Fri, 20 Nov 2026 16:05:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
