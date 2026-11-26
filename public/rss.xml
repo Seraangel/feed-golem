@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 13:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 13:41:13 GMT</lastBuildDate>
+    <item>
+      <title>Leak: GTA 6 wird zum Grand Theft an Rockstar Games</title>
+      <link>https://www.golem.de/news/leak-gta-6-wird-zum-grand-theft-an-rockstar-games-2611-215697.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/leak-gta-6-wird-zum-grand-theft-an-rockstar-games-2611-215697.html</guid>
+      <description>Der Leak der Xbox-Version von GTA 6 wird weitreichende Folgen haben. Für Rockstar Games steht die Veröffentlichungsstrategie der kommenden Jahre auf dem Spiel. (GTA 6, IMHO)</description>
+      <pubDate>Thu, 26 Nov 2026 13:37:08 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Mobiler Canon-Fotodrucker fürs Smartphone zum Sensationspreis von 69 Euro</title>
       <link>https://www.golem.de/news/anzeige-mobiler-canon-fotodrucker-fuers-smartphone-zum-sensationspreis-von-69-euro-2611-215696.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/bestehende-windkraftanlagen-lasermessung-verspricht-mehr-strom-aus-windkraft-2611-215481.html</guid>
       <description>Ein neues System soll die Verhältnisse für Windräder günstiger und schneller dokumentieren. Vorhandene Windparks könnten so optimiert werden. (Windkraft, Lidar)</description>
       <pubDate>Sat, 21 Nov 2026 06:57:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gebrauchte Hardware: KI-Workstation des armen Mannes schlägt Framework Desktop</title>
-      <link>https://www.golem.de/news/gebrauchte-hardware-ki-workstation-des-armen-mannes-schlaegt-framework-desktop-2611-215421.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gebrauchte-hardware-ki-workstation-des-armen-mannes-schlaegt-framework-desktop-2611-215421.html</guid>
-      <description>Lokale KI wird immer interessanter, die Hardware aber teurer. Wir haben ein System gebaut, das ab 900 Euro Modelle bis 200 Milliarden Parameter stemmt. Von Johannes Hiltscher (DIY-KI, AMD)</description>
-      <pubDate>Sat, 21 Nov 2026 06:30:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
