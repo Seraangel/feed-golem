@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 16:21:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:41:07 GMT</lastBuildDate>
+    <item>
+      <title>Höhenwind: Windpark auf 5.100 Meter Höhe eröffnet</title>
+      <link>https://www.golem.de/news/hoehenwind-windpark-auf-5-100-meter-hoehe-eroeffnet-2611-215712.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/hoehenwind-windpark-auf-5-100-meter-hoehe-eroeffnet-2611-215712.html</guid>
+      <description>Im Himalaya geht ein Windpark auf einem Gebirgskamm in Betrieb. Aufgrund stärkerer Winde soll der Ertrag deutlich höher sein als anderswo. (Windkraft, Windpark)</description>
+      <pubDate>Thu, 26 Nov 2026 16:40:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Festplatten-Dockingstation mit zwei Slots für unter 26 Euro</title>
       <link>https://www.golem.de/news/anzeige-festplatten-dockingstation-mit-zwei-slots-fuer-unter-26-euro-2611-215711.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/agenten-und-sql-mit-strengem-datenbankdesign-zu-besseren-ki-ergebnissen-2611-215226.html</guid>
       <description>KI-Agenten können bei Datenbankabfragen halluzinieren. Klare Strukturen und Regeln helfen, Fehler zu vermeiden. Ein Plädoyer für sorgfältiges Database Design. Ein Ratgebertext von Antony Ghiroz (Datenbank, PostgreSQL)</description>
       <pubDate>Sun, 22 Nov 2026 09:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pädophilenjäger: Selbstjustiz im Netz</title>
-      <link>https://www.golem.de/news/paedophilenjaeger-selbstjustiz-im-netz-2611-215224.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/paedophilenjaeger-selbstjustiz-im-netz-2611-215224.html</guid>
-      <description>Sie geben vor, Kinder zu schützen. Doch selbst ernannte Pädophilenjäger werden immer wieder selbst zu Tätern - mit teilweise tödlichen Folgen. Von Elke Wittich (Politik, Soziales Netz)</description>
-      <pubDate>Sun, 22 Nov 2026 06:30:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
