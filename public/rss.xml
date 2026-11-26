@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 13:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:01:14 GMT</lastBuildDate>
+    <item>
+      <title>Bis zu 45 Prozent: Serverhersteller erhöhen nachträglich Preise</title>
+      <link>https://www.golem.de/news/bis-zu-45-prozent-serverhersteller-erhoehen-nachtraeglich-preise-2611-215698.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/bis-zu-45-prozent-serverhersteller-erhoehen-nachtraeglich-preise-2611-215698.html</guid>
+      <description>Auch die Hersteller von Servern sind angeblich von den Preissteigerungen für Speicher kalt erwischt worden - und versuchen, Mehrkosten weiterzugeben. (Server, Dell)</description>
+      <pubDate>Thu, 26 Nov 2026 14:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>Leak: GTA 6 wird zum Grand Theft an Rockstar Games</title>
       <link>https://www.golem.de/news/leak-gta-6-wird-zum-grand-theft-an-rockstar-games-2611-215697.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/kubernetes-integrationstests-wie-entwickler-versteckte-kubernetes-fehler-vor-dem-deployment-finden-2611-215227.html</guid>
       <description>Mocks können Fehler im Zusammenspiel von Anwendung und Datenbank übersehen. Mit kind und Testcontainers lässt sich eine Bestell-API unter realistischen Kubernetes-Bedingungen prüfen. Ein Ratgebertext von Fabian Deitelhoff (Softwareentwicklung, PostgreSQL)</description>
       <pubDate>Sat, 21 Nov 2026 09:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bestehende Windkraftanlagen: Lasermessung verspricht mehr Strom aus Windkraft</title>
-      <link>https://www.golem.de/news/bestehende-windkraftanlagen-lasermessung-verspricht-mehr-strom-aus-windkraft-2611-215481.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/bestehende-windkraftanlagen-lasermessung-verspricht-mehr-strom-aus-windkraft-2611-215481.html</guid>
-      <description>Ein neues System soll die Verhältnisse für Windräder günstiger und schneller dokumentieren. Vorhandene Windparks könnten so optimiert werden. (Windkraft, Lidar)</description>
-      <pubDate>Sat, 21 Nov 2026 06:57:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
