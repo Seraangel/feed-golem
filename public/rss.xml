@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 12:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 12:31:10 GMT</lastBuildDate>
+    <item>
+      <title>(g+) Go-Programmierung: Typensicherer Datenbankzugriff ohne lästige Handarbeit</title>
+      <link>https://www.golem.de/news/go-programmierung-typensicherer-datenbankzugriff-ohne-laestige-handarbeit-2611-215684.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/go-programmierung-typensicherer-datenbankzugriff-ohne-laestige-handarbeit-2611-215684.html</guid>
+      <description>sqlc generiert aus SQL-Abfragen typensicheren Go-Code. Wir zeigen anhand eines Beispielprojekts, wie Entwickler das Tool einsetzen. Eine Anleitung von Dominik Robert (SQL, PostgreSQL)</description>
+      <pubDate>Thu, 26 Nov 2026 12:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>Automotive: Was würde eine chinesische Übernahme für Volkswagen bedeuten?</title>
       <link>https://www.golem.de/news/automotive-was-wuerde-eine-chinesische-uebernahme-fuer-volkswagen-bedeuten-2611-215690.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/abbau-db-systel-beschaeftigte-protestieren-mit-flood-the-office-fuer-homeoffice-2611-215498.html</guid>
       <description>Die Deutsche Bahn will ihre Belegschaft zurück ins Büro holen, doch es fehlen Schreibtische. Bei einer Protestaktion wurde auf den Fluren gearbeitet. (Arbeit, Deutsche Bahn)</description>
       <pubDate>Fri, 20 Nov 2026 18:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Schweizer Taschenmesser mit Zange bei Amazon günstiger als im 90-Tage-Schnitt</title>
-      <link>https://www.golem.de/news/anzeige-schweizer-taschenmesser-mit-zange-bei-amazon-guenstiger-als-im-90-tage-schnitt-2611-215495.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-schweizer-taschenmesser-mit-zange-bei-amazon-guenstiger-als-im-90-tage-schnitt-2611-215495.html</guid>
-      <description>Zwei Schweizer Taschenmesser mit Zange sind bei Amazon zum besten Vergleichspreis zu haben. Zusätzlich gibt es spannende Black Friday Deals. (Victorinox, Technik/Hardware)</description>
-      <pubDate>Fri, 20 Nov 2026 17:55:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
