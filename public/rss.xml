@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 16:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:46:07 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Bestseller zum neuen Bestpreis: DJI Osmo Action 4 erstmals für 170 Euro bei Amazon</title>
+      <link>https://www.golem.de/news/anzeige-bestseller-zum-neuen-bestpreis-dji-osmo-action-4-erstmals-fuer-170-euro-bei-amazon-2611-215707.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-bestseller-zum-neuen-bestpreis-dji-osmo-action-4-erstmals-fuer-170-euro-bei-amazon-2611-215707.html</guid>
+      <description>Die DJI Osmo Action 4 filmt mit 1/1,3-Zoll-Sensor in 4K bei 120 fps und ist als Bestseller jetzt so günstig wie noch nie. (Technik/Hardware, Ultra-HD)</description>
+      <pubDate>Thu, 26 Nov 2026 16:45:08 GMT</pubDate>
+    </item>
     <item>
       <title>Höhenwind: Windpark auf 5.100 Meter Höhe eröffnet</title>
       <link>https://www.golem.de/news/hoehenwind-windpark-auf-5-100-meter-hoehe-eroeffnet-2611-215712.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-waermebildkamera-fuers-handy-am-black-friday-guenstig-wie-nie-bei-amazon-2611-215373.html</guid>
       <description>Mit der Topdon TC001 Mini hat Amazon eine Wärmebildkamera fürs Handy im Angebot, die Temperaturunterschiede präzise per App analysiert. (Technik/Hardware, Black Friday)</description>
       <pubDate>Sun, 22 Nov 2026 09:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>(g+) Agenten und SQL: Mit strengem Datenbankdesign zu besseren KI-Ergebnissen</title>
-      <link>https://www.golem.de/news/agenten-und-sql-mit-strengem-datenbankdesign-zu-besseren-ki-ergebnissen-2611-215226.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/agenten-und-sql-mit-strengem-datenbankdesign-zu-besseren-ki-ergebnissen-2611-215226.html</guid>
-      <description>KI-Agenten können bei Datenbankabfragen halluzinieren. Klare Strukturen und Regeln helfen, Fehler zu vermeiden. Ein Plädoyer für sorgfältiges Database Design. Ein Ratgebertext von Antony Ghiroz (Datenbank, PostgreSQL)</description>
-      <pubDate>Sun, 22 Nov 2026 09:00:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
