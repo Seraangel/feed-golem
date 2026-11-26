@@ -11,12 +11,19 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 07:16:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 07:46:07 GMT</lastBuildDate>
     <item>
-      <title>Urteil: BGH bekräftigt Anspruch von Mietern auf Balkonkraftwerk</title>
+      <title>Palo Alto Networks: Firewall-Hersteller patcht Root-Lücke erst nach Monaten</title>
+      <link>https://www.golem.de/news/palo-alto-networks-firewall-hersteller-patcht-root-luecke-erst-nach-monaten-2611-215673.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/palo-alto-networks-firewall-hersteller-patcht-root-luecke-erst-nach-monaten-2611-215673.html</guid>
+      <description>Die Linux-Lücke Fragnesia ist seit Mai bekannt. Jetzt liefert Palo Alto Networks einen Patch für seine Firewalls - nachdem die Lücke bereits ausgenutzt wurde. (Sicherheitslücke, Server)</description>
+      <pubDate>Thu, 26 Nov 2026 07:40:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Urteil: Vermieter dürfen Balkonkraftwerke nicht aus rein optischen Gründen verbieten</title>
       <link>https://www.golem.de/news/urteil-bgh-bekraeftigt-anspruch-von-mietern-auf-balkonkraftwerk-2611-215672.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/urteil-bgh-bekraeftigt-anspruch-von-mietern-auf-balkonkraftwerk-2611-215672.html</guid>
-      <description>Vermieter können Balkonkraftwerke nicht pauschal ablehnen. Das hat der BGH entschieden und stärkt damit Mieter im Streit um die Montage. (Balkonkraftwerk, Politik)</description>
+      <description>Eine Wohnungsgenossenschaft verlangte den Abbau von Solarmodulen am Balkon. Der BGH stellt klar, welche Vorgaben Vermieter machen dürfen. (Balkonkraftwerk, Politik)</description>
       <pubDate>Thu, 26 Nov 2026 07:13:04 GMT</pubDate>
     </item>
     <item>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-mobiler-router-mit-wi-fi-7-am-black-friday-zum-tiefpreis-bei-amazon-2611-215477.html</guid>
       <description>Der mobile WLAN‑Router GL.iNet MUDI 7 mit Wi-Fi 7, 5G-Mobilfunk, VPN und eSIM ist in der Black Friday Woche bei Amazon reduziert. (Router, Black Friday)</description>
       <pubDate>Fri, 20 Nov 2026 13:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vor EU-UK-Gipfel: KI-gestützter Cyberangriff auf EU-Kommission</title>
-      <link>https://www.golem.de/news/vor-eu-uk-gipfel-ki-gestuetzter-cyberangriff-auf-eu-kommission-2611-215474.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/vor-eu-uk-gipfel-ki-gestuetzter-cyberangriff-auf-eu-kommission-2611-215474.html</guid>
-      <description>Die EU-Kommission nimmt ihre Personalplattform vom Netz. Ob Daten abgeflossen sind, ist unklar. (EU-Kommission, KI)</description>
-      <pubDate>Fri, 20 Nov 2026 13:33:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
