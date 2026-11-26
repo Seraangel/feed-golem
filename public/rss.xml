@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Thu, 26 Nov 2026 17:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 18:36:08 GMT</lastBuildDate>
+    <item>
+      <title>KI-orientierte Umstrukturierung: SAP erwägt erneut Abbau von mindestens 10.000 Arbeitsplätzen</title>
+      <link>https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-orientierte-umstrukturierung-sap-erwaegt-erneut-abbau-von-mindestens-10-000-arbeitsplaetzen-2611-215715.html</guid>
+      <description>Nach dem Einstellungsstopp im Sommer plant SAP offenbar den nächsten großen Stellenabbau. Betroffen sein sollen vor allem Produktentwicklung und Vertrieb. (SAP, KI)</description>
+      <pubDate>Thu, 26 Nov 2026 18:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Daten in Microsoft 365 schützen und Vorfälle untersuchen</title>
       <link>https://www.golem.de/news/anzeige-daten-in-microsoft-365-schuetzen-und-vorfaelle-untersuchen-2611-215668.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-neuer-apple-mac-mini-seit-heute-zum-neuen-amazon-tiefstpreis-2611-215506.html</guid>
       <description>Bei Amazon ist der Apple Mac Mini mit M6-Chip seit heute im Black-Friday-Angebot. Er wird erst seit gut drei Monaten dort gelistet. (Mac, Apple)</description>
       <pubDate>Sun, 22 Nov 2026 10:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>DHL: Päckchen lassen sich künftig ebenfalls verfolgen</title>
-      <link>https://www.golem.de/news/onlineshopping-mehr-komfort-beim-paeckchen-versand-mit-dhl-2611-215512.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/onlineshopping-mehr-komfort-beim-paeckchen-versand-mit-dhl-2611-215512.html</guid>
-      <description>Der Paketdienst DHL bringt mehr Komfortfunktionen für den Versand und Empfang von Päckchen. (DHL, Onlineshop)</description>
-      <pubDate>Sun, 22 Nov 2026 10:16:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
