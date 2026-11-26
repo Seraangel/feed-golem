@@ -11,7 +11,21 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Wed, 25 Nov 2026 17:46:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 06:16:11 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Mit KI Apps bauen und Aufgaben im Büro automatisieren</title>
+      <link>https://www.golem.de/news/anzeige-mit-ki-apps-bauen-und-aufgaben-im-buero-automatisieren-2611-215667.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-mit-ki-apps-bauen-und-aufgaben-im-buero-automatisieren-2611-215667.html</guid>
+      <description>Eine App mit KI bauen, Code prüfen oder Büroaufgaben automatisieren. Fünf Workshops greifen solche Aufgaben auf. In der Black Week gibt es 20 Prozent Rabatt auf ausgewählte Kurse. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Thu, 26 Nov 2026 06:15:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Namen und Mail-Adressen erbeutet: Hacker bei 1Password eingedrungen</title>
+      <link>https://www.golem.de/news/namen-und-mail-adressen-erbeutet-hacker-bei-1password-eingedrungen-2611-215670.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/namen-und-mail-adressen-erbeutet-hacker-bei-1password-eingedrungen-2611-215670.html</guid>
+      <description>Der Passwortmanager 1Password meldet einen Sicherheitsvorfall. Offenbar sind Namen und E-Mail-Adressen gestohlen worden. (Passwortmanager, Security)</description>
+      <pubDate>Thu, 26 Nov 2026 06:14:02 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Was die IT vor dem Start von Microsoft 365 Copilot klärt</title>
       <link>https://www.golem.de/news/anzeige-was-die-it-vor-dem-start-von-microsoft-365-copilot-klaert-2611-215615.html</link>
@@ -1397,20 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/marktstart-verschoben-zen6-fuer-desktops-wohl-erst-nach-computex-2027-2611-215469.html</guid>
       <description>Auch bei AMDs Zen6 wird es wohl zuerst wieder Notebook-CPUs geben. Über die Gründe gibt es widersprüchliche Informationen. (Prozessor, AMD)</description>
       <pubDate>Fri, 20 Nov 2026 12:58:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Govee LED-Strip (20 m) mit App zum Black Friday nur einen Euro pro Meter</title>
-      <link>https://www.golem.de/news/anzeige-govee-led-strip-20-m-mit-app-zum-black-friday-nur-einen-euro-pro-meter-2611-215473.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-govee-led-strip-20-m-mit-app-zum-black-friday-nur-einen-euro-pro-meter-2611-215473.html</guid>
-      <description>Der LED-Strip von Govee ist bei Amazon im Rahmen des Black Friday reduziert und zählt zu den meistgekauften RGBIC-Lichtlösungen. (Smart Home, LED)</description>
-      <pubDate>Fri, 20 Nov 2026 12:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weltraumrechenzentren: Google setzt beim Satellitenstart auf Blue Origin</title>
-      <link>https://www.golem.de/news/weltraumrechenzentren-google-setzt-beim-satellitenstart-auf-blue-origin-2611-215470.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/weltraumrechenzentren-google-setzt-beim-satellitenstart-auf-blue-origin-2611-215470.html</guid>
-      <description>Das Project Suncatcher geht in die nächste Phase: Blue Origin soll 2029 mehrere Satelliten mit KI-Chips von Google in den Orbit befördern. (Google, KI)</description>
-      <pubDate>Fri, 20 Nov 2026 12:45:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
