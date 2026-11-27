@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 14:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 14:31:10 GMT</lastBuildDate>
+    <item>
+      <title>CPU im Backofen: Neues Werkzeug köpft Prozessoren schonender</title>
+      <link>https://www.golem.de/news/cpu-im-backofen-neues-werkzeug-koepft-prozessoren-schonender-2611-215756.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/cpu-im-backofen-neues-werkzeug-koepft-prozessoren-schonender-2611-215756.html</guid>
+      <description>Thermal Grizzly stellt ein Werkzeug vor, das CPUs mit Hitze statt Gewalt vom Heatspreader trennt. Das allein genügt aber nicht. (Prozessor, PC-Hardware)</description>
+      <pubDate>Fri, 27 Nov 2026 14:28:07 GMT</pubDate>
+    </item>
     <item>
       <title>Pyur-Mutterkonzern: Gläubiger übernehmen Tele Columbus</title>
       <link>https://www.golem.de/news/pyur-mutterkonzern-glaeubiger-uebernehmen-tele-columbus-2611-215755.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-weitere-preissenkung-fuer-echo-lautsprecher-in-amazons-black-friday-woche-2611-215545.html</guid>
       <description>In der laufenden Black Friday Woche hat Amazon seine Echo-Lautsprecher nochmals im Preis gesenkt. Einige Lautsprecher gab es noch nie so günstig. (Black Friday, Amazon)</description>
       <pubDate>Mon, 23 Nov 2026 15:08:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: Apple Magic Mouse zum günstigen Black-Friday-Preis bei Amazon</title>
-      <link>https://www.golem.de/news/anzeige-apple-magic-mouse-zum-guenstigen-black-friday-preis-bei-amazon-2611-215543.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-magic-mouse-zum-guenstigen-black-friday-preis-bei-amazon-2611-215543.html</guid>
-      <description>Die Apple Magic Mouse mit Multi-Touch-Oberfläche zur Steuerung von iPad und Mac ist zum Black Friday bei Amazon reduziert. (Maus, Apple)</description>
-      <pubDate>Mon, 23 Nov 2026 14:36:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
