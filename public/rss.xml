@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 07:26:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 07:31:07 GMT</lastBuildDate>
+    <item>
+      <title>Nova Lake: Intels Topmodell kommt offenbar mit 144 MByte Cache</title>
+      <link>https://www.golem.de/news/nova-lake-intels-topmodell-kommt-offenbar-mit-144-mbyte-cache-2611-215721.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nova-lake-intels-topmodell-kommt-offenbar-mit-144-mbyte-cache-2611-215721.html</guid>
+      <description>Ein Leak beschreibt sieben neue Nova-Lake-CPUs. Das Spitzenmodell soll 28 Kerne bieten und mit bis zu 5,5 GHz takten. (Intel, Prozessor)</description>
+      <pubDate>Fri, 27 Nov 2026 07:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>Onlineshopping: EU zwingt Temu zu eindeutigen Preisen und echten Bewertungen</title>
       <link>https://www.golem.de/news/onlineshopping-eu-zwingt-temu-zu-eindeutigen-preisen-und-echten-bewertungen-2611-215719.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-tapo-d260-smarte-4k-video-tuerklingel-30-euro-guenstiger-im-vorverkauf-2611-215430.html</guid>
       <description>Tapo hat eine neue smarte Video-Türklingel mit 4K-Auflösung vorgestellt. Die Tapo D260 ist seit Freitag im Vorverkauf und um 30 Euro reduziert. (TP-Link, Technik/Hardware)</description>
       <pubDate>Sun, 22 Nov 2026 12:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>KI-Angst an der Wall Street: US-Tech-Aktien rutschen in den Bärenmarkt</title>
-      <link>https://www.golem.de/news/ki-angst-an-der-wall-street-us-tech-aktien-rutschen-in-den-baerenmarkt-2611-215510.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/ki-angst-an-der-wall-street-us-tech-aktien-rutschen-in-den-baerenmarkt-2611-215510.html</guid>
-      <description>Die US-Technologiebörse erlebt ihre schlechteste Woche seit der Coronakrise. Aus der Euphorie über KI ist Unbehagen geworden. (Börse, KI)</description>
-      <pubDate>Sun, 22 Nov 2026 12:04:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
