@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 07:51:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 08:01:12 GMT</lastBuildDate>
+    <item>
+      <title>Zugriff über Github: Cyberangriff auf SAP gefährdet Softwareprojekte</title>
+      <link>https://www.golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/zugriff-ueber-github-cyberangriff-auf-sap-gefaehrdet-softwareprojekte-2611-215722.html</guid>
+      <description>Berichten zufolge ist es Angreifern gelungen, Github-Zugänge von SAP-Mitarbeitern zu kapern und damit auf Quellcodes des Konzerns zuzugreifen. (Cybercrime, KI)</description>
+      <pubDate>Fri, 27 Nov 2026 07:57:04 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: PS5-Controller Dualsense am Black Friday unter 60 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ps5-controller-dualsense-am-black-friday-unter-60-euro-bei-amazon-2611-215723.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-apple-watch-series-12-und-ultra-4-zum-black-friday-mit-neuen-amazon-bestpreisen-2611-215518.html</guid>
       <description>Rabatt mit Seltenheitswert: Apple Watch Series 12 und die Ultra 4 zum Black Friday so günstig wie noch nie bei Amazon. (Smartwatch, Technik/Hardware)</description>
       <pubDate>Mon, 23 Nov 2026 07:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Berliner Polizei: Internetwache der Berliner Polizei bleibt abgeschaltet</title>
-      <link>https://www.golem.de/news/berliner-polizei-internetwache-der-berliner-polizei-bleibt-abgeschaltet-2611-215515.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/berliner-polizei-internetwache-der-berliner-polizei-bleibt-abgeschaltet-2611-215515.html</guid>
-      <description>Wegen einer vermuteten Sicherheitslücke ist die Online-Anzeige in Berlin seit Samstag nicht möglich. Wann sie zurückkommt, bleibt offen. (Sicherheitslücke, Security)</description>
-      <pubDate>Mon, 23 Nov 2026 07:33:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
