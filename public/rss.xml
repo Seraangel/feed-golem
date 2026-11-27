@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 12:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:41:11 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: Laptop von Lenovo mit 15,3'' am Black Friday zum Amazon-Tiefstpreis</title>
+      <link>https://www.golem.de/news/anzeige-laptop-von-lenovo-mit-15-3-am-black-friday-zum-amazon-tiefstpreis-2611-215743.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-laptop-von-lenovo-mit-15-3-am-black-friday-zum-amazon-tiefstpreis-2611-215743.html</guid>
+      <description>Ein Laptop von Lenovo mit 15,3''-IPS-Display, Intel Core Ultra 5 Prozessor und 16 GByte RAM ist am Black Friday bei Amazon stark reduziert. (Lenovo, Notebook)</description>
+      <pubDate>Fri, 27 Nov 2026 12:35:05 GMT</pubDate>
+    </item>
     <item>
       <title>(g+) Datensicherheit unter Linux: Cloudspeicher nutzen, ohne dem Anbieter vertrauen zu müssen</title>
       <link>https://www.golem.de/news/datensicherheit-unter-linux-cloudspeicher-nutzen-ohne-dem-anbieter-vertrauen-zu-muessen-2611-215699.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-lego-one-piece-flying-lamb-piratenschiff-bei-amazon-nie-guenstiger-2611-215532.html</guid>
       <description>Das Lego-One-Piece-Piratenschiff Flying Lamb setzt mit Minifiguren die Segel: Zum Black Friday gibt es das Set zum neuen Amazon-Tiefstpreis. (Lego, Amazon)</description>
       <pubDate>Mon, 23 Nov 2026 12:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Daten abgeflossen: Microsoft gesteht Datenpanne bei Entra Connect Health</title>
-      <link>https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/daten-abgeflossen-microsoft-gesteht-datenpanne-bei-entra-connect-health-2611-215534.html</guid>
-      <description>Angreifer haben über eine Sicherheitslücke bei Microsoft Entra Connect Health Daten von On-Premises-Systemen abgegriffen. Betroffene werden informiert. (Sicherheitslücke, Microsoft)</description>
-      <pubDate>Mon, 23 Nov 2026 11:56:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
