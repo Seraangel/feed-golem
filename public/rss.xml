@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 06:26:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 06:56:08 GMT</lastBuildDate>
+    <item>
+      <title>Urheberrechte schützen: Bundesregierung fordert Vergütung für KI-generierte Inhalte</title>
+      <link>https://www.golem.de/news/urheberrechte-schuetzen-bundesregierung-fordert-verguetung-fuer-ki-generierte-inhalte-2611-215718.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/urheberrechte-schuetzen-bundesregierung-fordert-verguetung-fuer-ki-generierte-inhalte-2611-215718.html</guid>
+      <description>KI-Systeme erzeugen Texte, Musik und Videos, die mit den Werken von Menschen konkurrieren. Die Regierung verlangt dafür eine Vergütung. (KI, Urheberrecht)</description>
+      <pubDate>Fri, 27 Nov 2026 06:53:10 GMT</pubDate>
+    </item>
     <item>
       <title>KI: OpenAI rüstet Nato-Cyberabwehr auf</title>
       <link>https://www.golem.de/news/ki-openai-ruestet-nato-cyberabwehr-auf-2611-215717.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/mobilitaet-toyota-zeigt-kofferraum-e-bike-als-konzept-2611-215509.html</guid>
       <description>Toyota zeigt mit dem BKE Concept ein faltbares Elektrogefährt für kurze Strecken. Die Idee wirkt durchdacht, die Faktenlage bleibt dünn. (E-Bike, Toyota)</description>
       <pubDate>Sun, 22 Nov 2026 11:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>E-Books und Bücher: Hackerangriff legt Hugendubel-Homepage und Tolino-Cloud lahm</title>
-      <link>https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/e-books-und-buecher-hackerangriff-legt-hugendubel-homepage-und-tolino-cloud-lahm-2611-215513.html</guid>
-      <description>Hugendubel ist Opfer eines Hackerangriffs geworden und hat etliche Systeme vom Netz genommen. Das hat auch Auswirkungen auf E-Book-Reader. (Cybercrime, Mobil)</description>
-      <pubDate>Sun, 22 Nov 2026 10:58:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
