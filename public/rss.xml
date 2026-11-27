@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 11:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:06:14 GMT</lastBuildDate>
+    <item>
+      <title>NFS2Root: 12 Jahre alter Kernel-Bug gewährt Root-Zugriff unter Linux</title>
+      <link>https://www.golem.de/news/nfs2root-12-jahre-alter-kernel-bug-gewaehrt-root-zugriff-unter-linux-2611-215735.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/nfs2root-12-jahre-alter-kernel-bug-gewaehrt-root-zugriff-unter-linux-2611-215735.html</guid>
+      <description>Eine kritische Sicherheitslücke gefährdet unzählige Linux-Systeme. Angreifer können per NFS Schadcode einschleusen und gleich als Root ausführen. (Sicherheitslücke, Ubuntu)</description>
+      <pubDate>Fri, 27 Nov 2026 12:05:06 GMT</pubDate>
+    </item>
     <item>
       <title>Ökonomie: Forscher sieht 97-prozentige Wahrscheinlichkeit für KI-Blase</title>
       <link>https://www.golem.de/news/oekonomie-forscher-sieht-97-prozentige-wahrscheinlichkeit-fuer-ki-blase-2611-215732.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/gaming-anthropic-chef-sah-games-als-mittel-gegen-ki-unruhen-2611-215529.html</guid>
       <description>Dario Amodei hat Computerspiele als Mittel gegen gesellschaftliche Konflikte durch KI-Arbeitslosigkeit ins Gespräch gebracht. (Anthropic, KI)</description>
       <pubDate>Mon, 23 Nov 2026 11:15:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>EU-Digitalreform: Neuer Bundesdatenschützer will Datenhändler strenger regulieren</title>
-      <link>https://www.golem.de/news/eu-digitalreform-neuer-bundesdatenschuetzer-will-datenhaendler-strenger-regulieren-2611-215210.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/eu-digitalreform-neuer-bundesdatenschuetzer-will-datenhaendler-strenger-regulieren-2611-215210.html</guid>
-      <description>Moritz Hennemann will die DSGVO reformieren, Bürokratie abbauen und klarere Regeln für KI schaffen. Auch die ständigen Cookie-Banner sollen weg. Ein Interview von Ulrich Hottelet (Datenschutz, KI)</description>
-      <pubDate>Mon, 23 Nov 2026 11:00:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
