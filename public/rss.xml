@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 12:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 12:21:05 GMT</lastBuildDate>
+    <item>
+      <title>Einschränkungen bei T-online-Mail: Telekom blockiert IMAP- und POP3-Zugriffe aus dem Ausland</title>
+      <link>https://www.golem.de/news/einschraenkungen-bei-t-online-mail-telekom-blockiert-imap-und-pop3-zugriffe-aus-dem-ausland-2611-215740.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/einschraenkungen-bei-t-online-mail-telekom-blockiert-imap-und-pop3-zugriffe-aus-dem-ausland-2611-215740.html</guid>
+      <description>Wer sein T-online.de-Postfach aus dem Ausland über externe Mailprogramme abrufen will, scheitert. Die Deutsche Telekom bestätigt die Einschränkung. (Telekom, Server)</description>
+      <pubDate>Fri, 27 Nov 2026 12:20:01 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Ryzen 7 7800X3D Prozessor zum Bestpreis bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-ryzen-7-7800x3d-prozessor-zum-bestpreis-bei-amazon-2611-215742.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-gaming-tastatur-von-steelseries-am-black-friday-zum-tiefstpreis-2611-215535.html</guid>
       <description>Die Gaming-Tastatur SteelSeries Apex Pro Mini Gen 3 mit Hall-Effect-Switches ist in der Black Friday Woche bei Amazon günstig wie nie. (Technik/Hardware, Black Friday)</description>
       <pubDate>Mon, 23 Nov 2026 11:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alice Huang: Hinter Megaspeed stand ein komplexes Schmuggelnetzwerk</title>
-      <link>https://www.golem.de/news/alice-huang-hinter-megaspeed-stand-ein-komplexes-schmuggelnetzwerk-2611-215533.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/alice-huang-hinter-megaspeed-stand-ein-komplexes-schmuggelnetzwerk-2611-215533.html</guid>
-      <description>Komplexe Firmengeflechte, Verbindungen zur organisierten Kriminalität: Der Schmuggel von Nvidia-Hardware nach China wurde aufwendig vorbereitet. (Nvidia, KI)</description>
-      <pubDate>Mon, 23 Nov 2026 11:41:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
