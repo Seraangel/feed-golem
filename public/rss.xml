@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 17:31:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 17:46:07 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: 20 Prozent Rabatt auf Vibe-Coding-Workshop</title>
+      <link>https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-vibe-coding-workshop-2611-215772.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-vibe-coding-workshop-2611-215772.html</guid>
+      <description>Eine eigene App mit ChatGPT bauen und testen, ganz ohne Programmierkenntnisse. Der Vibe-Coding-Workshop kostet in der Black Week 20 Prozent weniger. (Golem Karrierewelt, Programmiersprachen)</description>
+      <pubDate>Fri, 27 Nov 2026 17:45:03 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: Bestseller-Luftpumpe mit Akku zum Black Friday nur rund 22 Euro bei Amazon</title>
       <link>https://www.golem.de/news/anzeige-bestseller-luftpumpe-mit-akku-zum-black-friday-nur-rund-22-euro-bei-amazon-2611-215767.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html</guid>
       <description>Statt einer klassischen Firmenübernahme holt sich Amazon die Kern-Software und rund 100 Entwickler des KI-Startups Decart AI ins Haus. (Amazon, Cuda)</description>
       <pubDate>Mon, 23 Nov 2026 18:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: 20 Prozent Rabatt auf Keycloak-Workshop</title>
-      <link>https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-keycloak-workshop-2611-215538.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-keycloak-workshop-2611-215538.html</guid>
-      <description>Keycloak bündelt Anmeldungen und Zugriffsrechte. Jetzt die Black Week nutzen und mit Preisvorteil buchen! (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Mon, 23 Nov 2026 17:45:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
