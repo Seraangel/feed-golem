@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 09:26:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:41:09 GMT</lastBuildDate>
+    <item>
+      <title>Agentische KI: BSI-Chefin warnt vor "Cyberangriffen zum Schnäppchenpreis"</title>
+      <link>https://www.golem.de/news/agentische-ki-bsi-chefin-warnt-vor-cyberangriffen-zum-schnaeppchenpreis-2611-215726.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/agentische-ki-bsi-chefin-warnt-vor-cyberangriffen-zum-schnaeppchenpreis-2611-215726.html</guid>
+      <description>Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. (Cybercrime, KI)</description>
+      <pubDate>Fri, 27 Nov 2026 09:40:07 GMT</pubDate>
+    </item>
     <item>
       <title>Satelliten von SpaceX: Es braucht internationale Regeln für Satellitenstarts</title>
       <link>https://www.golem.de/news/satelliten-von-spacex-es-braucht-internationale-regeln-fuer-satellitenstarts-2611-215725.html</link>
@@ -90,7 +97,7 @@
       <pubDate>Fri, 27 Nov 2026 07:24:10 GMT</pubDate>
     </item>
     <item>
-      <title>Urheberrechte schützen: Bundesregierung fordert Vergütung für KI-generierte Inhalte</title>
+      <title>Urheberrechte der Menschen schützen: Bundesregierung fordert Vergütung für KI-generierte Inhalte</title>
       <link>https://www.golem.de/news/urheberrechte-schuetzen-bundesregierung-fordert-verguetung-fuer-ki-generierte-inhalte-2611-215718.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/urheberrechte-schuetzen-bundesregierung-fordert-verguetung-fuer-ki-generierte-inhalte-2611-215718.html</guid>
       <description>KI-Systeme erzeugen Texte, Musik und Videos, die mit den Werken von Menschen konkurrieren. Die Regierung verlangt dafür eine Vergütung. (KI, Urheberrecht)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-curved-gaming-monitor-von-samsung-am-black-friday-guenstig-wie-nie-2611-215521.html</guid>
       <description>Einen Curved Gaming-Monitor von Samsung mit 27''-VA-Display, 165 Hz und AMD FreeSync gibt es am Black Friday zum Tiefstpreis bei Amazon. (TV &amp; Monitore, Display)</description>
       <pubDate>Mon, 23 Nov 2026 09:23:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Modding mit KI: Wenn Super Mario in Halo kämpft</title>
-      <link>https://www.golem.de/news/modding-mit-ki-wenn-super-mario-in-halo-kaempft-2611-215465.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/modding-mit-ki-wenn-super-mario-in-halo-kaempft-2611-215465.html</guid>
-      <description>Vibe Coding ermöglicht verrückte Spiele-Mash-ups und Mods ohne große Programmierkenntnisse. Das bringt auch neue Probleme. Von Christian Rentrop (Mods, KI)</description>
-      <pubDate>Mon, 23 Nov 2026 09:20:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
