@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 10:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 11:01:04 GMT</lastBuildDate>
+    <item>
+      <title>Amazfit T-Rex Dual Solar im Test: Diese Sportuhr lädt am besten kopfüber</title>
+      <link>https://www.golem.de/news/amazfit-t-rex-dual-solar-im-test-diese-sportuhr-laedt-am-besten-kopfueber-2611-215654.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/amazfit-t-rex-dual-solar-im-test-diese-sportuhr-laedt-am-besten-kopfueber-2611-215654.html</guid>
+      <description>Die T-Rex Dual Solar ist die erste AMOLED-Sportuhr mit Solarladung. Im Test stößt der Trick mit der Rückseite an seine Grenzen. Ein Test von Peter Steinlechner (Amazfit, Garmin)</description>
+      <pubDate>Fri, 27 Nov 2026 11:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Leak: Für GTA 6 gab es sogar schon einen Windows-Launcher</title>
       <link>https://www.golem.de/news/leak-fuer-gta-6-gab-es-sogar-schon-einen-windows-launcher-2611-215733.html</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 27 Nov 2026 09:55:09 GMT</pubDate>
     </item>
     <item>
-      <title>Agentische KI: BSI-Chefin warnt vor einer "Lawine neuer Cyberangriffe"</title>
+      <title>BSI schlägt Alarm: Durch KI droht eine "Lawine neuer Cyberangriffe"</title>
       <link>https://www.golem.de/news/agentische-ki-bsi-chefin-warnt-vor-cyberangriffen-zum-schnaeppchenpreis-2611-215726.html</link>
       <guid isPermaLink="true">https://www.golem.de/news/agentische-ki-bsi-chefin-warnt-vor-cyberangriffen-zum-schnaeppchenpreis-2611-215726.html</guid>
       <description>Cyberangriffe werden durch KI-Frameworks immer günstiger und schneller ausführbar. Das BSI sieht eine massive Verschärfung der Cyberbedrohungslage. (Cybercrime, KI)</description>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/chatgpt-for-snes-winziges-chatgpt-kann-auf-super-nintendo-ausgefuehrt-werden-2611-215526.html</guid>
       <description>Für das Projekt ChatGPT for SNES musste OpenAIs LLM auf eine Größe von wenigen Megabyte geschrumpft werden. (ChatGPT, KI)</description>
       <pubDate>Mon, 23 Nov 2026 10:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>GL.iNet: Unzählige Router über Cloud des Herstellers kompromittiert</title>
-      <link>https://www.golem.de/news/gl-inet-unzaehlige-router-ueber-cloud-des-herstellers-kompromittiert-2611-215523.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/gl-inet-unzaehlige-router-ueber-cloud-des-herstellers-kompromittiert-2611-215523.html</guid>
-      <description>Angreifer haben über die Cloud von GL.iNet Malware auf Router und KVM-Geräte geschleust. Die Updates des Herstellers helfen wohl nur teilweise. (Sicherheitslücke, Virus)</description>
-      <pubDate>Mon, 23 Nov 2026 10:15:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
