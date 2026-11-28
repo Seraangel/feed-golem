@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Fri, 27 Nov 2026 20:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:31:07 GMT</lastBuildDate>
+    <item>
+      <title>World of Warcraft: Für mich ist Forever das bessere Classic!</title>
+      <link>https://www.golem.de/news/world-of-warcraft-fuer-mich-ist-forever-das-bessere-classic-2611-215323.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/world-of-warcraft-fuer-mich-ist-forever-das-bessere-classic-2611-215323.html</guid>
+      <description>Seit mehr als 20 Jahren kehrt unser Autor nach Azeroth zurück. Nach vielen Stunden mit WoW Forever glaubt er, sein WoW für die Rente gefunden zu haben. Ein Erfahrungsbericht von Benedikt Plass-Fleßenkämper (World of Warcraft, MMORPG)</description>
+      <pubDate>Sat, 28 Nov 2026 06:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>Anzeige: 20 Prozent Rabatt auf Vibe-Coding-Workshop</title>
       <link>https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-vibe-coding-workshop-2611-215772.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-sicherheit-im-betrieb-von-zugaengen-bis-zur-erstreaktion-2611-215560.html</guid>
       <description>Wer hat Zugriff, welcher Patch ist dringend und was zählt im Ernstfall? Die Workshops der Golem Karrierewelt geben Einblicke. In der Black Week mit 20 Prozent Rabatt. (Golem Karrierewelt, Server-Applikationen)</description>
       <pubDate>Tue, 24 Nov 2026 06:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS Trainium: Amazon kauft KI-Chip-Optimierung von Decart AI für 7,5 Milliarden US-Dollar</title>
-      <link>https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/aws-trainium-amazon-kauft-ki-chip-optimierung-von-decart-ai-fuer-7-5-milliarden-us-dollar-2611-215557.html</guid>
-      <description>Statt einer klassischen Firmenübernahme holt sich Amazon die Kern-Software und rund 100 Entwickler des KI-Startups Decart AI ins Haus. (Amazon, Cuda)</description>
-      <pubDate>Mon, 23 Nov 2026 18:00:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
