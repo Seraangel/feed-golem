@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 28 Nov 2026 12:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:26:13 GMT</lastBuildDate>
+    <item>
+      <title>Pirelli treibt Sensorik voran: Reifen, die mit dem Auto sprechen</title>
+      <link>https://www.golem.de/news/pirelli-treibt-sensorik-voran-reifen-die-mit-dem-auto-sprechen-2611-215781.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/pirelli-treibt-sensorik-voran-reifen-die-mit-dem-auto-sprechen-2611-215781.html</guid>
+      <description>Ein winziger Sensor in der Reifeninnenseite misst Temperatur, Druck und Fahrbahnzustand und funkt die Daten ans Fahrzeug. Die Serienreife rückt näher. (Auto, Patent)</description>
+      <pubDate>Sat, 28 Nov 2026 12:23:02 GMT</pubDate>
+    </item>
     <item>
       <title>Kryptografie: KI-Labore sollen brisanten Durchbruch zurückhalten</title>
       <link>https://www.golem.de/news/kryptografie-ki-labore-sollen-brisanten-durchbruch-zurueckhalten-2611-215780.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/videostreaming-und-black-friday-apple-tv-ein-halbes-jahr-lang-zum-halben-preis-auch-auf-amazon-2611-215567.html</guid>
       <description>Apples hauseigenes Streamingabo Apple TV gibt es ein halbes Jahr lang zum halben Preis. Dieser Rabatt ist auch bei Amazon erhältlich. (Apple TV+, Apple)</description>
       <pubDate>Tue, 24 Nov 2026 09:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erneuerbare Energie: Wie ein Stromnetz ohne Großkraftwerk hochfährt</title>
-      <link>https://www.golem.de/news/erneuerbare-energie-wie-ein-stromnetz-ohne-grosskraftwerk-hochfaehrt-2611-215566.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/erneuerbare-energie-wie-ein-stromnetz-ohne-grosskraftwerk-hochfaehrt-2611-215566.html</guid>
-      <description>Unter realen Bedingungen wird in Bayern ein Stromnetz wieder in Gang gesetzt. Das soll ausschließlich per Wechselrichter gelingen. (Energiewende, Windkraft)</description>
-      <pubDate>Tue, 24 Nov 2026 08:50:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
