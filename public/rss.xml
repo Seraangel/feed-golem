@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 28 Nov 2026 08:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 09:06:07 GMT</lastBuildDate>
+    <item>
+      <title>(g+) KI-gestützte Softwareentwicklung: Wenn das Gedächtnis von Coding-Agenten zum Problem wird</title>
+      <link>https://www.golem.de/news/ki-gestuetzte-softwareentwicklung-wenn-das-gedaechtnis-von-coding-agenten-zum-problem-wird-2611-215745.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/ki-gestuetzte-softwareentwicklung-wenn-das-gedaechtnis-von-coding-agenten-zum-problem-wird-2611-215745.html</guid>
+      <description>Coding-Agenten können auf frühere Projektentscheidungen zurückgreifen. Doch nicht alle sind noch gültig. Wir zeigen, wie Codex mit widersprüchlichen Vorgaben umgeht. Ein Praxistest von Fabian Deitelhoff (Softwareentwicklung, KI)</description>
+      <pubDate>Sat, 28 Nov 2026 09:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Defense Radar: Wie Deutschland seine Flugabwehr neu aufstellt</title>
       <link>https://www.golem.de/news/defense-radar-wie-deutschland-seine-luftabwehr-neu-aufstellt-2611-215765.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-goedit-office-anhaenge-direkt-in-confluence-bearbeiten-2611-214055.html</guid>
       <description>Mit GoEdit lassen sich Office-Dokumente in Confluence und Jira direkt im Browser gemeinsam bearbeiten - inklusive Schutz vor gegenseitigem Überschreiben. (Software)</description>
       <pubDate>Tue, 24 Nov 2026 07:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krypto-Geschäfte: Donald Trump im Bitcoin-Dilemma</title>
-      <link>https://www.golem.de/news/krypto-geschaefte-donald-trump-im-bitcoin-dilemma-2611-215559.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/krypto-geschaefte-donald-trump-im-bitcoin-dilemma-2611-215559.html</guid>
-      <description>US-Präsident Trump hat Milliarden mit Kryptogeschäften verdient. Doch nun bringt der Bitcoin-Verfall eine seiner Firmen in die Bredouille. (Donald Trump, Politik)</description>
-      <pubDate>Tue, 24 Nov 2026 06:34:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
