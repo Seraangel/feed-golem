@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 28 Nov 2026 11:21:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 12:01:26 GMT</lastBuildDate>
+    <item>
+      <title>Kryptografie: KI-Labore sollen brisanten Durchbruch zurückhalten</title>
+      <link>https://www.golem.de/news/kryptografie-ki-labore-sollen-brisanten-durchbruch-zurueckhalten-2611-215780.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/kryptografie-ki-labore-sollen-brisanten-durchbruch-zurueckhalten-2611-215780.html</guid>
+      <description>Der Informatikprofessor Scott Aaronson erwartet, dass KI einige der heutigen Verschlüsselungssysteme knackt. Auch die Bank of England sieht Risiken. (Verschlüsselung, KI)</description>
+      <pubDate>Sat, 28 Nov 2026 12:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Neues Macbook Pro: Löst Apples OLED-Display Kopfschmerzen aus?</title>
       <link>https://www.golem.de/news/neues-macbook-pro-loest-apples-oled-display-kopfschmerzen-aus-2611-215779.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/erneuerbare-energie-wie-ein-stromnetz-ohne-grosskraftwerk-hochfaehrt-2611-215566.html</guid>
       <description>Unter realen Bedingungen wird in Bayern ein Stromnetz wieder in Gang gesetzt. Das soll ausschließlich per Wechselrichter gelingen. (Energiewende, Windkraft)</description>
       <pubDate>Tue, 24 Nov 2026 08:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Personalisiertes Fernsehen: Google plant KI-Fernsehen mit Publikum als Hauptfigur</title>
-      <link>https://www.golem.de/news/personalisiertes-fernsehen-google-plant-ki-fernsehen-mit-publikum-als-hauptfigur-2611-215565.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/personalisiertes-fernsehen-google-plant-ki-fernsehen-mit-publikum-als-hauptfigur-2611-215565.html</guid>
-      <description>Eine Patentanmeldung beschreibt KI-Videos mit Zuschauerinnen und Zuschauern als Stars. Auch Werbung ist vorgesehen. (Streaming, Google)</description>
-      <pubDate>Tue, 24 Nov 2026 08:39:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
