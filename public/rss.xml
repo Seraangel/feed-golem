@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 28 Nov 2026 06:31:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:36:04 GMT</lastBuildDate>
+    <item>
+      <title>Anzeige: 50 Prozent Rabatt auf alle E-Learning-Kurse</title>
+      <link>https://www.golem.de/news/anzeige-50-prozent-rabatt-auf-alle-e-learning-kurse-2611-215773.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/anzeige-50-prozent-rabatt-auf-alle-e-learning-kurse-2611-215773.html</guid>
+      <description>Netzwerkfehler finden, Linux im Terminal bedienen oder Daten auswerten. In der Black Week gibt es 50 Prozent Rabatt auf alle E-Learning-Kurse der Golem Karrierewelt. (Golem Karrierewelt, Python)</description>
+      <pubDate>Sat, 28 Nov 2026 07:30:05 GMT</pubDate>
+    </item>
     <item>
       <title>World of Warcraft: Für mich ist Forever das bessere Classic!</title>
       <link>https://www.golem.de/news/world-of-warcraft-fuer-mich-ist-forever-das-bessere-classic-2611-215323.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/xbox-leaker-veroeffentlicht-exe-datei-von-gta-6-2611-215558.html</guid>
       <description>Die bislang fehlende Programmdatei von GTA 6 ist offenbar im Netz. Mehrere Teams versuchen, die Xbox-Version auf PCs zum Laufen zu bringen. (GTA 6, Server)</description>
       <pubDate>Tue, 24 Nov 2026 06:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anzeige: IT-Sicherheit im Betrieb von Zugängen bis zur Erstreaktion</title>
-      <link>https://www.golem.de/news/anzeige-it-sicherheit-im-betrieb-von-zugaengen-bis-zur-erstreaktion-2611-215560.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/anzeige-it-sicherheit-im-betrieb-von-zugaengen-bis-zur-erstreaktion-2611-215560.html</guid>
-      <description>Wer hat Zugriff, welcher Patch ist dringend und was zählt im Ernstfall? Die Workshops der Golem Karrierewelt geben Einblicke. In der Black Week mit 20 Prozent Rabatt. (Golem Karrierewelt, Server-Applikationen)</description>
-      <pubDate>Tue, 24 Nov 2026 06:15:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
