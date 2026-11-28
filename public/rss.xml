@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 28 Nov 2026 09:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 10:11:08 GMT</lastBuildDate>
+    <item>
+      <title>Verbraucherpreise: Festplatten kosten 40,8 Prozent mehr als vor einem Jahr</title>
+      <link>https://www.golem.de/news/verbraucherpreise-festplatten-kosten-40-8-prozent-mehr-als-vor-einem-jahr-2611-215776.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/verbraucherpreise-festplatten-kosten-40-8-prozent-mehr-als-vor-einem-jahr-2611-215776.html</guid>
+      <description>PC-Hardware ist teuer geworden, das spüren viele. Nun zeigen amtliche Zahlen, wie heftig der Anstieg tatsächlich ausfällt. (Statistisches Bundesamt, Speichermedien)</description>
+      <pubDate>Sat, 28 Nov 2026 10:06:08 GMT</pubDate>
+    </item>
     <item>
       <title>Erneuerbare Energie: Finnland hat Zeiten mit negativen Strompreisen minimiert</title>
       <link>https://www.golem.de/news/erneuerbare-energie-finnland-hat-zeiten-mit-negativen-strompreisen-minimiert-2611-215761.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/anzeige-ultimea-5-1-2-soundsystem-mit-dolby-atmos-fuer-prime-mitglieder-zum-tiefpreis-bei-amazon-2611-215562.html</guid>
       <description>Die 5.1.2-Soundbar bringt Dolby Atmos mit Subwoofer und Rücklautsprechern ins Wohnzimmer und ist zum Black Friday wieder auf dem Tiefpreis. (Technik/Hardware, Heimkino)</description>
       <pubDate>Tue, 24 Nov 2026 07:56:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netbeat: Hoster setzt nach Cyberangriff Passwörter seiner Kundschaft zurück</title>
-      <link>https://www.golem.de/news/cyberangriff-auf-netbeat-hoster-setzt-passwoerter-seiner-kundschaft-zurueck-2611-215561.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/cyberangriff-auf-netbeat-hoster-setzt-passwoerter-seiner-kundschaft-zurueck-2611-215561.html</guid>
-      <description>Der Hoster Netbeat hat unbefugte Zugriffe auf seine Systeme festgestellt. Dabei könnten etwa Zugangsdaten und API-Schlüssel abgeflossen sein. (Datenleck, API)</description>
-      <pubDate>Tue, 24 Nov 2026 07:43:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
