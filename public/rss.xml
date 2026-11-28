@@ -11,7 +11,14 @@
       <title>Golem.de</title>
       <link>https://www.golem.de/</link>
     </image>
-    <lastBuildDate>Sat, 28 Nov 2026 10:56:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 11:21:16 GMT</lastBuildDate>
+    <item>
+      <title>Neues Macbook Pro: Löst Apples OLED-Display Kopfschmerzen aus?</title>
+      <link>https://www.golem.de/news/neues-macbook-pro-loest-apples-oled-display-kopfschmerzen-aus-2611-215779.html</link>
+      <guid isPermaLink="true">https://www.golem.de/news/neues-macbook-pro-loest-apples-oled-display-kopfschmerzen-aus-2611-215779.html</guid>
+      <description>Kopfschmerzen, Schwindel, Übelkeit: Seit dem Umstieg auf OLED beim Macbook Pro häufen sich Klagen in Onlineforen. (Macbook, Apple)</description>
+      <pubDate>Sat, 28 Nov 2026 11:20:10 GMT</pubDate>
+    </item>
     <item>
       <title>E-Barometer: VWs Anteil beim E-Auto-Umstieg mehr als halbiert</title>
       <link>https://www.golem.de/news/e-barometer-vws-anteil-beim-e-auto-umstieg-mehr-als-halbiert-2611-215777.html</link>
@@ -1404,13 +1411,6 @@
       <guid isPermaLink="true">https://www.golem.de/news/personalisiertes-fernsehen-google-plant-ki-fernsehen-mit-publikum-als-hauptfigur-2611-215565.html</guid>
       <description>Eine Patentanmeldung beschreibt KI-Videos mit Zuschauerinnen und Zuschauern als Stars. Auch Werbung ist vorgesehen. (Streaming, Google)</description>
       <pubDate>Tue, 24 Nov 2026 08:39:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prüfung von Pull Requests: Anthropic lässt KI-Agenten Code freigeben</title>
-      <link>https://www.golem.de/news/pruefung-von-pull-requests-anthropic-laesst-ki-agenten-code-freigeben-2611-215564.html</link>
-      <guid isPermaLink="true">https://www.golem.de/news/pruefung-von-pull-requests-anthropic-laesst-ki-agenten-code-freigeben-2611-215564.html</guid>
-      <description>Claude Ship prüft Pull Requests, behebt Fehler und entscheidet anhand festgelegter Regeln, wann noch ein Mensch zustimmen muss. (KI, Unternehmenssoftware)</description>
-      <pubDate>Tue, 24 Nov 2026 08:22:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
